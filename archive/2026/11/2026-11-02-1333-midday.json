@@ -1,0 +1,680 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-02T18:33:32.716560+00:00",
+  "local_time": "Monday, November 2, 2026 · 1:33 PM EST",
+  "local_date": "Nov 2, 2026",
+  "slug": "2026-11-02-1333-midday",
+  "mode": "basic",
+  "overview": "",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump administration turns to SCOTUS in California ballot case",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Trump administration asked the Supreme Court to mandate that California separate ballots of more than 20,000 voters the government suspects are \"likely\" non-citizens. The big picture: A federal appeals court rejected the administration's bid to set aside mail ballots last week, erecting another roadblock in the DOJ's pre-election quest to demand the state root out claims of voter fraud in the final days of the midterm elections. Driving the news: \"Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back,\" the DOJ wrote in an… (Axios)",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR: “DOJ asks for Supreme Court to intervene on California ballot demands” · PBS NewsHour: “Trump administration asks Supreme Court to sideline 20,000 disputed California mail ballots”"
+        },
+        {
+          "lean": "center",
+          "framing": "Axios: “Trump administration turns to SCOTUS in California ballot case” · The Hill: “Trump administration brings California ballot fight to Supreme Court”"
+        },
+        {
+          "lean": "right",
+          "framing": "Washington Examiner: “DOJ pursues long-shot appeal at Supreme Court over bid to isolate 20,000 California mail ballots” · New York Post: “Trump takes fight over 20K California mail-in ballots to Supreme Court day before election”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 3
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump administration turns to SCOTUS in California ballot case",
+          "url": "https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case",
+          "published": "2026-11-02T18:11:30+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "published": "2026-11-02T16:34:17+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "DOJ pursues long-shot appeal at Supreme Court over bid to isolate 20,000 California mail ballots",
+          "url": "https://www.washingtonexaminer.com/news/justice/4787998/doj-appeal-supreme-court-isolate-20000-california-mail-ballots/",
+          "published": "2026-11-02T17:42:10+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump administration brings California ballot fight to Supreme Court",
+          "url": "https://thehill.com/regulation/court-battles/6189114-california-mail-ballot-lawsuit-supreme-court/",
+          "published": "2026-11-02T16:45:44+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump administration asks Supreme Court to sideline 20,000 disputed California mail ballots",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots",
+          "published": "2026-11-02T17:53:40+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump takes fight over 20K California mail-in ballots to Supreme Court day before election",
+          "url": "https://nypost.com/2026/11/02/us-news/trump-takes-fight-over-20k-california-mail-in-ballots-to-supreme-court/",
+          "published": "2026-11-02T17:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Nathalia Filgueiras was onboard private plane bound for Bahamas that crashed in Palm Beach county Family members on Monday identified a young Florida pilot as one of nine victims of a plane crash in Palm Beach county that occurred during a heavy thunderstorm. Nathalia Filgueiras, 20, was co-pilot of the private Learjet 60 that was en route from Austin-Bergstrom international airport in Texas to North Eleuthera airport in the Bahamas on Sunday when it suddenly plummeted out of the sky, her mother told the New York Times . Continue reading... (The Guardian (US))",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian (US): “Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash”"
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek: “Deadly Florida Plane Crash Jet Tied to Famous Address” · Deutsche Welle: “US: 9 killed in Florida jet crash” · The Hill: “Federal probe launched into deadly Florida plane crash”"
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News: “Copilot killed in fiery Florida Learjet crash identified as 20-year-old who learned to fly before driving” · New York Post: “Massive crater from Florida Learjet crash reveals how plane disintegrated after 20,000-foot plunge”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 2
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Deadly Florida Plane Crash Jet Tied to Famous Address",
+          "url": "https://www.newsweek.com/deadly-florida-plane-crash-jet-tied-to-famous-address-12650052",
+          "published": "2026-11-02T18:04:51+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash",
+          "published": "2026-11-02T16:44:01+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Copilot killed in fiery Florida Learjet crash identified as 20-year-old who learned to fly before driving",
+          "url": "https://www.foxnews.com/us/co-pilot-killed-fiery-florida-learjet-crash-identified-20-year-old-learned-fly-before-driving",
+          "published": "2026-11-02T15:51:46+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US: 9 killed in Florida jet crash",
+          "url": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-02T07:46:00+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Massive crater from Florida Learjet crash reveals how plane disintegrated after 20,000-foot plunge",
+          "url": "https://nypost.com/2026/11/02/us-news/massive-crater-from-florida-learjet-crash-reveals-how-plane-disintegrated-after-20000-foot-plunge/",
+          "published": "2026-11-02T18:23:15+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Federal probe launched into deadly Florida plane crash",
+          "url": "https://thehill.com/homenews/state-watch/6188062-florida-plane-crash-federal-probe-ntsb-faa/",
+          "published": "2026-11-02T13:52:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Here's when polls are closing in your state this midterm election",
+      "topics": [
+        "US Headlines",
+        "Charlotte Local"
+      ],
+      "summary": "While tens of millions of Americans have already cast their early votes in the 2026 midterm elections, millions more are expected to vote in person on Election Day. (PBS NewsHour)",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS NewsHour: “Here's when polls are closing in your state this midterm election”"
+        },
+        {
+          "lean": "center",
+          "framing": "WBTV (CBS Charlotte): “Over 1 million votes cast in South Carolina during record early voting period” · Queen City News (FOX 46): “Nearly 3 million vote early in NC; Democrats lead turnout ahead of Election Day” · BBC News (World): “What are Americans voting for in this election?”"
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller: “EXCLUSIVE: Can Your Midterms Vote Impact Future Elections? New Guide Explains Just How”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Over 1 million votes cast in South Carolina during record early voting period",
+          "url": "https://www.wbtv.com/2026/11/02/over-1-million-votes-cast-south-carolina-during-record-early-voting-period/",
+          "published": "2026-11-02T15:40:07+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Here's when polls are closing in your state this midterm election",
+          "url": "https://www.pbs.org/newshour/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election",
+          "published": "2026-11-02T17:46:35+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "EXCLUSIVE: Can Your Midterms Vote Impact Future Elections? New Guide Explains Just How",
+          "url": "https://dailycaller.com/2026/11/02/honest-elections-project-jason-sneed-ballot-measure-guide",
+          "published": "2026-11-02T13:03:25+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nearly 3 million vote early in NC; Democrats lead turnout ahead of Election Day",
+          "url": "https://www.qcnews.com/news/politics/election/north-carolina-elections/nearly-3-million-vote-early-in-nc-democrats-lead-turnout-ahead-of-election-day/",
+          "published": "2026-11-02T16:01:55+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What are Americans voting for in this election?",
+          "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T09:22:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democratic candidate for Michigan US Senate seat raised $2.4m on Sunday after congresswoman Haley Stevens pulled her endorsement of him in favor of Trump-backed Mike Rogers Sign up for the Breaking News US email Newsletter: How you (yes you) can fight dark money in elections The latest and final New York Times and Siena College poll before the midterm elections also shows Abdul El-Sayed leading Mike Rogers in the US Senate race in Michigan by 11 percentage points , outside the margin of error. The survey took place before Democratic Congresswoman Haley Stevens announced that she would back… (The Guardian (US))",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian (US): “Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live” · NPR: “Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran”"
+        },
+        {
+          "lean": "center",
+          "framing": "BBC News (US & Canada): “Democrat Stevens defends endorsement switch to Republican Rogers two days before election” · The Hill: “Jeffries: Democrats will discuss ‘next steps’ on Stevens when Congress returns”"
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News: “James Carville makes crude remark about Haley Stevens over shocking Rogers endorsement” · The Daily Caller: “Abdul El-Sayed Raises $1.2 Million After Haley Stevens Endorsed Opponent”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 2
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+          "url": "https://www.bbc.co.uk/news/articles/c699z8v3282xo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T11:08:09+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+          "published": "2026-11-02T18:10:42+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "James Carville makes crude remark about Haley Stevens over shocking Rogers endorsement",
+          "url": "https://www.foxnews.com/media/james-carville-makes-crude-remark-about-haley-stevens-over-shocking-rogers-endorsement",
+          "published": "2026-11-02T13:57:21+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jeffries: Democrats will discuss ‘next steps’ on Stevens when Congress returns",
+          "url": "https://thehill.com/homenews/house/6189017-hakeem-jeffries-haley-stevens-michigan-senate-race-controversy-midterms/",
+          "published": "2026-11-02T16:47:59+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+          "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+          "published": "2026-11-02T12:19:54+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Abdul El-Sayed Raises $1.2 Million After Haley Stevens Endorsed Opponent",
+          "url": "https://dailycaller.com/2026/11/02/abdul-el-sayed-fundraising-haley-stevens-mike-rogers",
+          "published": "2026-11-02T16:28:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Europe live – latest updates Unknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending residents in Kyiv a warning that they were at risk of an imminent nuclear strike. The app reported a high possibility of nuclear radiation late on Sunday. It also wrongly warned of a chemical threat to the Ukrainian capital and street-to-street fighting. The messages were written in English with spelling mistakes, as well as in Ukrainian. Continue reading... (The Guardian (World))",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian (World): “Hackers send fake nuclear threat alert to Ukraine emergency app” · PBS NewsHour: “WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system”"
+        },
+        {
+          "lean": "center",
+          "framing": "The Record (Recorded Future News): “Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings” · CNBC: “Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps” · BBC News (World): “What we know about the alert app hack in Ukraine and Russia”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
+          "url": "https://therecord.media/ukraine-hackers-russia-alert-system",
+          "published": "2026-11-02T14:30:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+          "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+          "published": "2026-11-02T11:11:28+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+          "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+          "published": "2026-11-02T15:28:46+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system",
+          "url": "https://www.pbs.org/newshour/world/watch-zelenskyy-confirms-ukraine-hacked-back-after-russias-cyberattack-of-its-emergency-alert-system",
+          "published": "2026-11-02T18:06:16+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What we know about the alert app hack in Ukraine and Russia",
+          "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-02T14:24:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Lawyers for Massachusetts mother who killed children argue new trial would violate double jeopardy rules Lindsay Clancy returned to court on Monday in an attempt to dismiss the charges that she murdered her three young children. The hearing Monday was the second time the Massachusetts mother has been in court since her trial ended with a deadlocked jury in September after jurors were unable to agree on a verdict. Continue reading... (The Guardian (US))",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS NewsHour: “WATCH: Lindsay Clancy returns to court with question of retrial uncertain” · The Guardian (US): “Lindsay Clancy back in court seeking to dismiss murder charges after mistrial”"
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek: “Lindsay Clancy: Biggest Bombshells as Child Murder Case Returns to Court” · WSOC-TV (ABC Charlotte): “Lindsay Clancy returns to court after mistrial”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lindsay Clancy: Biggest Bombshells as Child Murder Case Returns to Court",
+          "url": "https://www.newsweek.com/lindsay-clancy-trial-update-patrick-jurors-judge-latest-12650665",
+          "published": "2026-11-02T18:22:29+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Lindsay Clancy returns to court with question of retrial uncertain",
+          "url": "https://www.pbs.org/newshour/nation/watch-live-lindsay-clancy-returns-to-court-with-question-of-retrial-uncertain",
+          "published": "2026-11-02T15:17:32+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lindsay Clancy returns to court after mistrial",
+          "url": "https://www.wsoctv.com/news/trending/lindsay-clancy-returns-court-after-mistrial/7NRQPFXIIREONLG2D3D7ABHGOM/",
+          "published": "2026-11-02T16:24:18+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Lindsay Clancy back in court seeking to dismiss murder charges after mistrial",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing",
+          "published": "2026-11-02T15:36:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Today in Supreme Court History: November 2, 2010",
+      "topics": [
+        "US Headlines",
+        "Korea"
+      ],
+      "summary": "11/2/2010: Brown v. Entertainment Merchants Association argued. The post Today in Supreme Court History: November 2, 2010 appeared first on Reason Magazine. (Reason)",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap News (English): “Today in Korean history”"
+        },
+        {
+          "lean": "right",
+          "framing": "Reason: “Today in Supreme Court History: November 2, 2010”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Today in Korean history",
+          "url": "https://en.yna.co.kr/view/AEN20261102001000315",
+          "published": "2026-11-02T05:00:04+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Today in Supreme Court History: November 2, 2010",
+          "url": "https://reason.com/volokh/2026/11/02/today-in-supreme-court-history-november-2-2010-13/",
+          "published": "2026-11-02T12:00:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Karl Bushby, a British man who traveled 50,000 km without transport over the past 28 years, has come home. Starting in Chile, he crossed the Americas, Russia and parts of Central Asia and Europe — almost all on foot. (Deutsche Welle)",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera English: “British adventurer Karl Bushby returns home after 28-year walk around world”"
+        },
+        {
+          "lean": "center",
+          "framing": "Deutsche Welle: “Global pedestrian Karl Bushby returns home to UK after 28-year trek”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+          "url": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-02T12:31:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
+          "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world",
+          "published": "2026-11-02T17:42:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Record 2027 budget aims at ‘growth for all’",
+      "topics": [
+        "Korea",
+        "US Headlines",
+        "AI & Cybersecurity"
+      ],
+      "summary": "President Lee Jae Myung on Monday laid out a record budget to spur economic growth and narrow inequality under his “growth for all” agenda, while projecting a 20-year low in the managed fiscal deficit. In his budget speech to the National Assembly, Lee outlined an 820.9 trillion won ($610 billion) spending plan for 2027, up 12.8 percent from this year, the fastest annual increase and largest fiscal outlay in South Korea’s history. “We have expanded the budget to raise both the standard of living (The Korea Herald)",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald: “Record 2027 budget aims at ‘growth for all’” · CNBC: “South Korea targets 'world's highest performance' sovereign AI model in record new budget” · Deutsche Welle: “South Korea to pour billions into AI”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Record 2027 budget aims at ‘growth for all’",
+          "url": "https://www.koreaherald.com/article/10922746",
+          "published": "2026-11-02T04:34:50+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+          "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+          "published": "2026-11-02T06:02:03+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "South Korea to pour billions into AI",
+          "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-02T05:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "S. Korea, India hold inaugural meeting of economic security dialogue",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "SEOUL, Nov. 2 (Yonhap) -- South Korea and India held the inaugural meeting of th... (Yonhap News (English))",
+      "key_facts": [],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap News (English): “S. Korea, India hold inaugural meeting of economic security dialogue”"
+        }
+      ],
+      "disputed": [],
+      "why": "",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "S. Korea, India hold inaugural meeting of economic security dialogue",
+          "url": "https://en.yna.co.kr/view/AEN20261102010900315",
+          "published": "2026-11-02T10:08:42+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "1 matching article(s), latest: “EXCLUSIVE: AI Safety Could Decide House Majority And Beyond, Poll Shows” (The Daily Caller)",
+      "links": [
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "EXCLUSIVE: AI Safety Could Decide House Majority And Beyond, Poll Shows",
+          "url": "https://dailycaller.com/2026/11/02/exclusive-poll-battleground-house-districts-trust-democrats-republicans-regulating-artificial-intelligence-mike-lawler-cait-conley",
+          "published": "2026-11-02T17:48:02+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 11,
+    "center": 21,
+    "right": 8
+  },
+  "stats": {
+    "articles": 483,
+    "stories_found": 357,
+    "sources_ok": 37,
+    "sources_total": 39,
+    "failed": [
+      "The Washington Times",
+      "Fox Business"
+    ]
+  }
+}
