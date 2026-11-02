@@ -1,36 +1,37 @@
 # My Daily Brief: Midday edition
-_Monday, November 2, 2026 · 1:52 PM EST · 494 articles from 39 outlets · summaries by Claude_
+_Monday, November 2, 2026 · 2:02 PM EST · 495 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by the eve of the US midterm elections. A Michigan Democrat's late endorsement of the Republican Senate candidate has drawn sharp backlash, and the Justice Department has taken its fight over 20,000 California mail ballots to the Supreme Court. Elsewhere: a deadly private jet crash in Florida, a Massachusetts hearing on whether Lindsay Clancy can be retried, and hacks of emergency-alert apps in Ukraine and Russia and of supermarket freezers across Europe.
+> On the eve of the US midterm elections, a Michigan Democrat's last-minute endorsement of the Republican Senate candidate and a judge's dismissal of a Justice Department case against two former FBI officials led US coverage. Abroad, hackers hit emergency-alert apps in Ukraine and Russia, and a second wave of suspected cyberattacks spoiled food in supermarket freezers across Europe. Local, Korean and human-interest items round out the edition.
 
-**Sources linked in this edition:** 11 left · 19 center · 8 right
+**Sources linked in this edition:** 10 left · 21 center · 4 right
 
 ---
 
-## 1. Michigan Democrat Haley Stevens endorses Republican Mike Rogers in Senate race two days before election
+## 1. Rep. Haley Stevens endorses Republican Mike Rogers in Michigan Senate race two days before election
 `US Headlines` · Covered by 7 outlets (L 2 · C 2 · R 3)
 
-Rep. Haley Stevens, who lost Michigan's Democratic Senate primary to Abdul El-Sayed in August, withdrew her endorsement of him on Sunday and backed Republican Mike Rogers. On CNN she said 'I changed my mind'; in a Free Press interview she called El-Sayed's focus on Israel 'obsessive' and some of his positions 'anti-American.' Democrats condemned the move: Senate Democratic leader Chuck Schumer called it a 'despicable betrayal,' and the Michigan Democratic Party chair said she is no longer a party member. House Minority Leader Hakeem Jeffries said Democrats will discuss 'next steps' when Congress returns, while Rogers and President Trump praised her decision. El-Sayed's campaign said it raised a record $2.4m on Sunday.
+Rep. Haley Stevens, a centrist Democrat who lost the August Senate primary to Abdul El-Sayed, withdrew her endorsement of him and backed Republican Mike Rogers on Sunday, appearing alongside him. In a CNN interview she said simply "I changed my mind," while in a Free Press interview she called El-Sayed's focus on Israel "obsessive" and some of his positions "anti-American." Democrats including Senate leader Chuck Schumer condemned the move, the Michigan Democratic Party chair said she is no longer a party member, and many of her staff reportedly quit. Republicans, including Rogers and President Trump, praised her. House Minority Leader Hakeem Jeffries said Democrats will discuss "next steps" when Congress returns after the election, while El-Sayed's campaign reported a record fundraising day.
 
 **Key facts**
-- Stevens endorsed Rogers on Sunday, two days before Tuesday's midterm elections.
-- Jeffries: 'Haley Stevens made a terrible decision, blindsided everyone and isolated herself from the House Democratic Caucus.'
-- El-Sayed's campaign reported $2.4m raised on Sunday, with more than 26,000 first-time donors.
-- Stevens's chief of staff and many of her staff reportedly resigned.
-- Stevens is leaving Congress at the end of the year; the Senate seat is currently held by Democrats.
+- Stevens endorsed Rogers on Sunday, two days before the Tuesday, Nov. 3 election.
+- Schumer called it a "despicable betrayal"; Jeffries said she "made a terrible decision, blindsided everyone."
+- El-Sayed's campaign said it raised $2.4m on Sunday, a single-day record, with more than 26,000 first-time donors.
+- Stevens, a four-term House member, is leaving Congress at the end of the year.
+- The Michigan seat is currently held by Democrats and is seen as critical to the party's hopes of winning the Senate.
 
 **How it's being framed**
-- **Left:** The Guardian led with El-Sayed's record fundraising and the backlash against Stevens, calling Rogers 'Trump-backed.' NPR described the episode as exposing Democratic fault lines over Israel and the party's future, and noted Stevens's stated concerns about El-Sayed's ties to streamer Hasan Piker and about Black and Jewish voters.
-- **Center:** BBC and The Hill focused on Stevens's own explanation, the condemnation from Democrats and the praise from Republicans, and Jeffries's promise of 'next steps.' BBC quoted Rep. Debbie Dingell calling Stevens's CNN interview 'painful.'
-- **Right:** Fox News focused on Democrats calling for Stevens's removal from the caucus and on her criticism of El-Sayed. It linked to its own stories on his past Muslim Brotherhood comments and on Black and Jewish voters' wariness of him. The New York Post's headline led with Stevens's 'anti-American' and 'obsessive' characterisations of El-Sayed, and the Post cited a super PAC ad backing him that blamed Israel for grocery prices.
+- **Left:** The Guardian led with El-Sayed's record fundraising in response to the defection. NPR framed the episode as exposing deeper Democratic fault lines over Israel and the party's future identity, noted Stevens cited El-Sayed's ties to streamer Hasan Piker, and reported that many Democrats were rallying behind El-Sayed.
+- **Center:** BBC focused on Stevens defending the switch and her limited explanation on CNN, quoting criticism from Schumer and Rep. Debbie Dingell alongside praise from Rogers and Trump. The Hill reported narrowly on Jeffries' statement about next steps.
+- **Right:** Fox News emphasized Democratic infighting and calls from progressives like Reps. Delia Ramirez and Pramila Jayapal to expel Stevens, and highlighted concerns among some Black and Jewish voters about El-Sayed and his past comments. The New York Post centered Stevens' Israel-related rationale, adding that El-Sayed declined to say whether Israel or Iran is a greater threat and that a super PAC backing him ran an ad blaming Israel for grocery prices.
 
 **Disputed or unclear**
-- Stevens's exact reason for switching is unclear: she gave different explanations to CNN and the Free Press.
-- Dingell said Stevens had assured her 'multiple times' over the weekend that she would not endorse Rogers, and said she doesn't know what changed.
-- Whether House Democrats will discipline Stevens is undecided.
-- The effect on the race is unclear; NPR's reporter said the episode may not sway late deciders.
+- Stevens' reasoning: she told CNN she simply changed her mind, but told the Free Press it was about El-Sayed's "obsessive" focus on Israel.
+- Dingell said Stevens repeatedly assured her over the weekend she would not endorse Rogers; what changed is unexplained.
+- Whether House Democrats will remove Stevens from their caucus is undecided.
+- Characterizations of El-Sayed's positions on Israel and a super PAC ad come from Stevens and the New York Post and were not addressed by his campaign in these articles.
+- Whether the switch will affect the race's outcome is unknown.
 
-**Why it matters:** Michigan's Senate seat is seen as critical to Democrats' hopes of winning control of the Senate.
+**Why it matters:** The Michigan seat could help decide control of the US Senate, and the feud reflects wider Democratic divisions.
 
 **Read it yourself:**
 - [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c699z8v3282xo?at_medium=RSS&at_campaign=rss) (center): Democrat Stevens defends endorsement switch to Republican Rogers two days before election
@@ -41,122 +42,91 @@ Rep. Haley Stevens, who lost Michigan's Democratic Senate primary to Abdul El-Sa
 - [New York Post](https://nypost.com/2026/11/02/us-news/haley-stevens-calls-out-abdul-el-sayeds-hatred-of-israel-to-explain-mike-rogers-endorsement/) (lean-right): Rep. Haley Stevens calls out ‘anti-American’ Abdul El-Sayed for ‘obsessive’ hatred of Israel to explain last-minute Mike Rogers endorsement
 
 
-## 2. Nine killed as private jet crashes in Palm Beach County, Florida
-`US Headlines` · Covered by 7 outlets (L 1 · C 4 · R 2)
+## 2. Judge dismisses case against two ex-FBI officials accused of lying to Congress about Hunter Biden probe
+`US Headlines` · Covered by 7 outlets (L 4 · C 2 · R 1)
 
-A Learjet 60 flying from Austin, Texas, to North Eleuthera in the Bahamas crashed nearly vertically onto a roadway near a mobile home park in Palm Beach County at about 12:50 p.m. Sunday, killing all nine people on board. Before the crash, the crew reported icing and turbulence and asked to climb, then declared a mayday as the jet descended at up to 20,000 feet per minute or more. The 20-year-old co-pilot, Nathalia Gadelha Filgueiras, has been identified by her family. The NTSB and FAA are investigating, and the cause has not been determined.
+US Magistrate Judge Zia Faruqui in Washington dismissed criminal complaints against former FBI officials Nikki Floris and Bradley Benavides, who were charged in October with lying to the House Judiciary Committee in 2023 about the bureau's handling of Hunter Biden's laptop. He ruled prosecutors lacked probable cause, said some statements were not false or were honest memory lapses, and said the case "cannot be described as anything other than weaponization," pointing to its timing before the midterms. He also questioned the use of a criminal complaint rather than a grand jury indictment. Prosecutors could still seek a grand jury indictment or appeal; the Justice Department did not immediately comment.
 
 **Key facts**
-- All nine people aboard were killed; officials reported no ground casualties.
-- About 600 people were evacuated from a nearby mobile home community.
-- Recordings capture the crew saying 'We're going to crash into the ground.'
-- The crash happened during severe thunderstorms in south Florida.
-- Gov. Ron DeSantis said it 'looked like a missile going down.'
+- Charges were unveiled Oct. 23 via a criminal complaint, not an indictment.
+- Faruqui: "I will not bury my head in the sand and pretend I cannot read a calendar."
+- An FBI agent testified the probe began on FBI Director Kash Patel's orders the day after a July primetime address by Trump.
+- Last week the judge struck a revised complaint that added an obstruction charge without court approval.
+- A defense lawyer called the case a "spaghetti-at-the-wall, Hunter-Biden-conspiracy fever dream."
 
 **How it's being framed**
-- **Left:** The Guardian profiled the co-pilot and the charter firm Upper Jets, which it said owned the aircraft. It quoted aviation attorney Bob Clifford, who said the crew flew into a thunderstorm and that air traffic control's role should be scrutinised.
-- **Center:** DW and The Hill gave straight accounts of the crash and the federal probe. Newsweek focused on the plane's registration to an LLC at a Delaware address also used by thousands of firms, including some tied to Trump and the Clintons. It noted the address is shared by over 300,000 corporations.
-- **Right:** Fox News profiled the co-pilot's early aviation achievements and quoted the cockpit audio via AP. The New York Post emphasised the crater and the destruction of the plane.
+- **Left:** NPR, The Guardian and Al Jazeera emphasized the judge's "weaponization" finding, the link to Trump's July address and Patel's order, and placed the case in a pattern of politically charged DOJ actions against perceived Trump opponents, noting grand juries' recent refusals to indict in such cases. The Guardian explained the officials' task force role and earlier concerns about Russian disinformation.
+- **Center:** CNBC and The Hill reported the ruling straightforwardly, with CNBC quoting the judge's sharpest lines, both defense lawyers, and detailing procedural irregularities such as the use of a criminal complaint.
+- **Right:** Fox News reported the dismissal and the judge's rebuke, while noting Republicans' long-standing accusations of FBI bias on Hunter Biden and devoting space to Faruqui's history of criticizing Trump-era prosecutors, including his comments about treatment of a suspect accused of plotting to assassinate Trump.
 
 **Disputed or unclear**
-- The cause of the crash is under investigation.
-- The aircraft's ownership: FAA records list a Delaware LLC, while the co-pilot's mother said Upper Jets owned it.
-- The other victims and the identity of the chief pilot had not been publicly confirmed.
-- Reported descent rates differ, with DW citing up to 30,000 feet per minute.
+- Whether prosecutors will seek a grand jury indictment or appeal is unknown.
+- The DOJ has not publicly responded to the judge's claim that the case was timed for the election.
+- Outlets describe the charging timing differently (about 10 days vs. two weeks before the election).
 
-**Why it matters:** The investigation is likely to examine how pilots and air traffic control handle flights into severe weather.
+**Why it matters:** The ruling bears on accusations that the Justice Department is being used for political ends ahead of the midterms.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/deadly-florida-plane-crash-jet-tied-to-famous-address-12650052) (center): Deadly Florida Plane Crash Jet Tied to Famous Address
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/02/investigators-florida-plane-crash) (lean-left): Young co-pilot, 20, named as one of nine victims of deadly Florida plane crash
-- [Fox News](https://www.foxnews.com/us/co-pilot-killed-fiery-florida-learjet-crash-identified-20-year-old-learned-fly-before-driving) (right): Copilot killed in fiery Florida Learjet crash identified as 20-year-old who learned to fly before driving
-- [Deutsche Welle](https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf) (center): US: 9 killed in Florida jet crash
-- [New York Post](https://nypost.com/2026/11/02/us-news/massive-crater-from-florida-learjet-crash-reveals-how-plane-disintegrated-after-20000-foot-plunge/) (lean-right): Massive crater from Florida Learjet crash reveals how plane disintegrated after 20,000-foot plunge
-- [The Hill](https://thehill.com/homenews/state-watch/6188062-florida-plane-crash-federal-probe-ntsb-faa/) (center): Federal probe launched into deadly Florida plane crash
+- [CNBC](https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html) (center): Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe
+- [NPR](https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden) (lean-left): Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials
+- [Fox News](https://www.foxnews.com/politics/judge-tosses-case-against-ex-fbi-officials-accused-lying-congress-hunter-biden-investigation) (right): Judge tosses case against ex-FBI officials accused of lying to Congress about Hunter Biden investigation
+- [The Hill](https://thehill.com/regulation/court-battles/6188867-ex-fbi-nikki-floris-bradley-benavides-charges-dropped/) (center): Federal judge dismisses case against ex-FBI officials accused of lying about Biden laptop probe
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden) (lean-left): Judge tosses case against two officials accused of lying about Hunter Biden
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case) (lean-left): Judge dismisses charges against FBI agents involved in Hunter Biden case
 
 
-## 3. Justice Department asks Supreme Court to order California to set aside 20,000 mail ballots
-`US Headlines` · Covered by 7 outlets (L 2 · C 3 · R 2)
+## 3. Record early voting in the Carolinas as midterm Election Day arrives
+`US Headlines` `Charlotte Local` · Covered by 5 outlets (L 1 · C 3 · R 1)
 
-A day before Election Day, the Trump administration filed an emergency request asking the Supreme Court to order California to separate mail ballots from about 20,000 people the government says are 'likely' noncitizens. A district judge and a divided 9th Circuit panel had already rejected the request. They cited the risk of disenfranchising voters, states' authority over elections, and the principle against changing election rules at the last minute. California says the federal list is unreliable, while the DOJ says counted ballots can't be retrieved once mixed with lawful ones. It is unclear whether the justices will act before Tuesday.
+South Carolina recorded 1,043,810 early ballots from Oct. 19-31, more than double 2022 but below 2024, and nearly 3 million people voted early in North Carolina, where Democrats and unaffiliated voters made up the largest shares. Election Day is Tuesday, Nov. 3, with polls in both states among the first to close. An election-integrity group also released a guide to 21 election-related ballot measures in 17 states.
 
 **Key facts**
-- The 9th Circuit ruled 2-1 against the DOJ; Judge Patrick Bumatay dissented.
-- Solicitor General D. John Sauer wrote: 'Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back.'
-- The DOJ's underlying lawsuit was filed on Oct. 15.
-- California mails ballots to all of its roughly 23 million registered voters, and voting has been underway since early October.
+- South Carolina: 1,043,810 early ballots, the highest early turnout for a gubernatorial election since early voting began in 2022.
+- Top SC counties: Greenville (103,282), Charleston (99,275), Richland (91,732).
+- Polls close at 7:00 pm ET in South Carolina and 7:30 pm ET in North Carolina.
+- The Honest Elections Project guide covers measures on voter ID and citizenship, ranked-choice voting, redistricting and more.
 
 **How it's being framed**
-- **Left:** NPR and PBS/AP stressed the lower-court losses and quoted Judge David Carter's warning about 'election interference' and danger to democracy. They cited a UCLA analysis finding 42% of the names on the list are not on California's voter roll. PBS noted that noncitizen voting is rare.
-- **Center:** Axios and The Hill reported the filing and the court setbacks. The Hill noted that lower courts found the list not credible.
-- **Right:** Fox News laid out the DOJ's argument that the order would only preserve ballots, not cancel votes, and included California's counterarguments. It linked to a report that a federal prosecutor said the noncitizens had been verified, and noted the stakes for House control. The Washington Examiner called the appeal a 'long-shot.'
+- **Left:** PBS NewsHour offered a service guide to poll closing times by state.
+- **Center:** Local Charlotte-area outlets focused on record early turnout figures; BBC offered a general explainer on what is on the ballot.
+- **Right:** The Daily Caller, in an exclusive, highlighted the Honest Elections Project's guide, describing the group as nonpartisan and framing ballot measures as setting the rules for 2028, quoting its director.
 
 **Disputed or unclear**
-- Whether the people on the DOJ's list are actually noncitizens; California and the UCLA analysis dispute the list's accuracy.
-- The real number of ballots involved, which county officials say is likely far below 20,000.
-- Whether and when the Supreme Court will rule.
+- Party breakdown of South Carolina early voters is not available in general elections.
+- What early turnout patterns mean for results is unknown.
 
-**Why it matters:** The outcome could affect how votes are counted in a state with 52 House seats while control of Congress is at stake.
+**Why it matters:** Turnout levels and ballot measures will shape both this election's results and how future elections are run.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case) (center): Trump administration turns to SCOTUS in California ballot case
-- [NPR](https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump) (lean-left): DOJ asks for Supreme Court to intervene on California ballot demands
-- [Fox News](https://www.foxnews.com/politics/doj-appeals-supreme-court-reverse-block-segregating-20k-california-ballots) (right): DOJ appeals to Supreme Court to reverse block on segregating 20K California ballots
-- [The Hill](https://thehill.com/regulation/court-battles/6189114-california-mail-ballot-lawsuit-supreme-court/) (center): Trump administration brings California ballot fight to Supreme Court
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots) (lean-left): Trump administration asks Supreme Court to sideline 20,000 disputed California mail ballots
-- [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4787998/doj-appeal-supreme-court-isolate-20000-california-mail-ballots/) (lean-right): DOJ pursues long-shot appeal at Supreme Court over bid to isolate 20,000 California mail ballots
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/over-1-million-votes-cast-south-carolina-during-record-early-voting-period/) (center): Over 1 million votes cast in South Carolina during record early voting period
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election) (lean-left): Here's when polls are closing in your state this midterm election
+- [The Daily Caller](https://dailycaller.com/2026/11/02/honest-elections-project-jason-sneed-ballot-measure-guide) (right): EXCLUSIVE: Can Your Midterms Vote Impact Future Elections? New Guide Explains Just How
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/nearly-3-million-vote-early-in-nc-democrats-lead-turnout-ahead-of-election-day/) (center): Nearly 3 million vote early in NC; Democrats lead turnout ahead of Election Day
+- [BBC News (World)](https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss) (center): What are Americans voting for in this election?
 
 
-## 4. Lindsay Clancy's lawyers seek dismissal of murder charges after mistrial; judge to rule later
-`Charlotte Local` · Covered by 5 outlets (L 2 · C 2 · R 1)
+## 4. Hackers send fake nuclear alerts through Ukraine's emergency app; Russia reports its app was also hacked
+`AI & Cybersecurity` · Covered by 5 outlets (L 2 · C 3 · R 0)
 
-Lindsay Clancy, who has not disputed killing her three children in 2023 but argues she had postpartum psychosis, returned to court in Plymouth, Massachusetts. Her lawyers asked the court to dismiss the charges on double jeopardy grounds after September's 11-1 deadlocked jury. They argued Judge William Sullivan should have questioned jurors more deeply, and they accused the lone holdout juror of researching the case on his phone and being untruthful on his jury form. Prosecutors and the juror's lawyer rejected those claims. Sullivan took the motion under advisement and scheduled a hearing for Nov. 16, with a possible retrial in March.
-
-**Key facts**
-- The jury split 11-1, with the majority favouring a finding that Clancy was not criminally responsible.
-- The judge rebuked defense attorney Kevin Reddington for naming the holdout juror in court.
-- Prosecutor Jennifer Sprague said of the juror: 'He refused to agree,' not to deliberate.
-- Clancy, 36, is held at Tewksbury Hospital and is partially paralysed from a suicide attempt.
-
-**How it's being framed**
-- **Left:** The Guardian and PBS/AP gave a procedural account centred on the double jeopardy arguments from both sides.
-- **Center:** Newsweek detailed the fight over the juror's alleged phone use and background, and gave his lawyer's warning that searching his phone would teach jurors to 'agree with the majority.' WSOC noted that a plea deal was possible.
-- **Right:** The New York Post highlighted the clash between the judge and the 'hotshot' defense lawyer, and the prosecution's request for a gag order.
-
-**Disputed or unclear**
-- Whether the holdout juror misused his phone or was dishonest on his jury questionnaire; the court did not find this established.
-- Whether Clancy will be retried, and on what charges.
-
-**Why it matters:** The rulings will decide whether Clancy faces a second trial and could shape how courts handle a lone holdout juror.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/lindsay-clancy-trial-update-patrick-jurors-judge-latest-12650665) (center): Lindsay Clancy: Biggest Bombshells as Child Murder Case Returns to Court
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/watch-live-lindsay-clancy-returns-to-court-with-question-of-retrial-uncertain) (lean-left): WATCH: Lindsay Clancy returns to court with question of retrial uncertain
-- [New York Post](https://nypost.com/2026/11/02/us-news/judge-gives-lindsay-clancys-lawyer-stern-warning-about-holdout-juror/) (lean-right): Lindsay Clancy judge slaps down her hotshot lawyer after he names holdout juror in court
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/lindsay-clancy-returns-court-after-mistrial/7NRQPFXIIREONLG2D3D7ABHGOM/) (center): Lindsay Clancy returns to court after mistrial
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/02/lindsay-clancy-massachusetts-court-hearing) (lean-left): Lindsay Clancy back in court seeking to dismiss murder charges after mistrial
-
-
-## 5. Hackers send fake nuclear alerts through Ukraine's emergency app; Russia reports a similar attack
-`AI & Cybersecurity` `US Headlines` · Covered by 5 outlets (L 2 · C 3 · R 0)
-
-Late Sunday, Ukraine's widely used Air Alert app sent false warnings of nuclear, chemical and street-fighting threats. The air force said the app had likely been compromised, and its developers suspended push notifications before gradually restoring service. A previously unknown group called Hitcore Corp claimed responsibility. Hours later, Russia's emergencies ministry said its own app had been hit by a 'massive cyberattack,' which a Kyiv-based group called DC8044 claimed. President Zelenskyy told PBS that Ukraine hacked back in response to what he called a Russian attack.
+Late Sunday, Ukraine's Air Alert app, used by about 6.6 million people, sent false warnings of nuclear radiation, chemical threats, street fighting in Kyiv and a possible Oreshnik missile strike. Ukraine's Air Force said within about 15 minutes that the app had likely been compromised; the developers suspended notifications and began restoring service Monday. Hours later, Russia's emergency ministry said its own app suffered a "massive cyberattack" used to send fake alerts, and President Zelenskyy told PBS that Ukraine had hacked back in response. Many Ukrainians doubted the alerts, though some reported being frightened.
 
 **Key facts**
-- The Air Alert app had 6.6 million active users as of January 2026.
-- Ukraine's Air Force issued a warning within about 15 minutes, but 'all clear' messages took more than an hour.
-- Zelenskyy: 'We only respond on their attacks.'
-- The attacks came as a six-day local ceasefire in Oleshky ended Sunday night.
+- Air Alert launched in 2022, developed by Ajax Systems with government support.
+- A group calling itself Hitcore Corp claimed responsibility via a linked Telegram channel.
+- A Kyiv-based group called DC8044 claimed the attack on Russia's EMERCOM app.
+- Zelenskyy: "We only respond on their attacks."
+- Ukraine's national warning system was reported unaffected.
 
 **How it's being framed**
-- **Left:** The Guardian said it was unclear who was behind the hack and tied it to the end of the Oleshky ceasefire and to evidence that Russia used the truce to reinforce. PBS led with Zelenskyy confirming Ukraine retaliated against what PBS called a Russian cyberattack.
-- **Center:** The Record and CNBC reported the competing claims from both sides; CNBC said it was not clear whether the incidents were linked. BBC focused on Ukrainians' calm reaction and quoted an expert who blamed Russia. BBC also noted the informal language suggested hacktivist groups not formally directed by either government.
+- **Left:** PBS highlighted Zelenskyy's confirmation that Ukraine retaliated and his attribution to Russia. The Guardian included residents' fear and tied the hack to the end of a local ceasefire in Oleshky, which it said Russia used to reinforce positions.
+- **Center:** The Record gave technical and official detail on the breach and restoration; BBC focused on public reaction (unease but not panic) and an expert's warnings about security weaknesses; CNBC stressed it was unclear whether the two incidents were linked.
 
 **Disputed or unclear**
-- Who carried out the attack on Ukraine's app: Russia, according to Zelenskyy and a Ukrainian expert, or an unaffiliated hacktivist group.
-- Hitcore's claim of responsibility has not been verified.
+- Who was behind the attack on Ukraine: Zelenskyy and a Kyiv expert blame Russia, while BBC notes the informal language suggests hacktivists not formally state-directed; a Russian channel's report of Hitcore's claim could not be verified.
+- Accounts differ on the language of the messages (Russian, Ukrainian, and English with spelling errors are mentioned).
+- Whether the Ukrainian and Russian incidents are linked.
 
-**Why it matters:** It shows that systems civilians rely on for life-saving warnings in wartime can be turned against them.
+**Why it matters:** Compromised emergency alerts can undermine trust in systems civilians rely on during war.
 
 **Read it yourself:**
 - [The Record (Recorded Future News)](https://therecord.media/ukraine-hackers-russia-alert-system) (center): Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings
@@ -166,26 +136,27 @@ Late Sunday, Ukraine's widely used Air Alert app sent false warnings of nuclear,
 - [CNBC](https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html) (center): Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps
 
 
-## 6. Second wave of suspected cyberattacks heats supermarket freezers across Europe
+## 5. Suspected cyberattack disables supermarket freezers in several European countries
 `AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Overnight Monday, refrigeration systems in supermarkets in at least seven European countries, including Belgium, Sweden, Ireland, the Netherlands, Luxembourg, Estonia and Finland, were remotely set as high as 50°C, spoiling stock. This follows an October attack on around 700 French supermarkets. No group has claimed responsibility, and officials say the perpetrators may never be identified. Affected equipment appears to include older, unsupported refrigeration controllers.
+Overnight Monday, refrigeration systems in supermarkets in Belgium, Luxembourg, Sweden, Ireland, Estonia, the Netherlands and Finland were remotely set to as high as 50C, spoiling stock. Retailers and equipment suppliers called it a cyberattack, three weeks after a similar attack hit around 700 supermarkets in France. No one has claimed responsibility and authorities have not identified perpetrators. The EU's food commissioner called it a deliberate attempt to disrupt the food supply chain.
 
 **Key facts**
-- About 40 Delhaize stores in Belgium and Luxembourg were affected, according to the BBC.
-- One Belgian branch estimated damage at more than €100,000.
-- EU commissioner Christophe Hansen called the attacks 'a deliberate attempt to disrupt our food supply chain.'
-- The EU's Cyber Resilience Act will tighten product security rules from December 2027.
+- BBC reported 40 Delhaize stores affected; one branch estimated damage over €100,000.
+- Targeted equipment included older Danfoss and Copeland systems, which the companies say are largely discontinued and unsupported.
+- The EU Cyber Resilience Act will impose stricter product security rules from December 2027.
+- Belgium's cybersecurity centre said perpetrators may never be identified.
 
 **How it's being framed**
-- **Left:** The Guardian emphasised the scale across countries and the EU commissioner's warning, and noted authorities' fears of state-sponsored hybrid attacks since Russia's invasion of Ukraine.
-- **Center:** The Record focused on the technical vulnerabilities, older Danfoss and Copeland equipment, the lack of a legal duty to patch, and concerns about AI being used to exploit vulnerabilities. BBC showed food being dumped in stores.
+- **Left:** The Guardian emphasized the scale across seven countries, the EU commissioner's supply-chain warning, retailer impacts, and authorities' fears of state-sponsored hybrid attacks since Russia's invasion of Ukraine.
+- **Center:** The Record focused on the technical vulnerabilities, unsupported devices, regulatory gaps and officials' concerns about AI-assisted exploitation; BBC focused on on-the-ground food waste.
 
 **Disputed or unclear**
-- Who is responsible, and whether it is the same group behind the French attack.
-- Whether AI was used in the attacks.
+- Who is responsible, and whether the same actors carried out the French attack.
+- Whether AI was used; Belgian officials said they don't yet know.
+- Counts of affected stores vary by outlet.
 
-**Why it matters:** It shows that ordinary internet-connected equipment can be hijacked to disrupt the food supply.
+**Why it matters:** The attacks show how outdated connected equipment can be exploited to disrupt food supplies.
 
 **Read it yourself:**
 - [The Record (Recorded Future News)](https://therecord.media/cyberattack-grocery-freezers-europe) (center): Second wave of suspected cyberattacks hits supermarket freezers across Europe
@@ -193,84 +164,113 @@ Overnight Monday, refrigeration systems in supermarkets in at least seven Europe
 - [BBC News (World)](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss) (center): 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
 
 
-## 7. Historical anniversaries: Korean history and a Supreme Court argument
-`US Headlines` `Korea` · Covered by 2 outlets (L 0 · C 1 · R 1)
+## 6. Four hospitalized after shooting at large party in Mooresville
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Yonhap ran its daily list of events on this date in Korean history, including the 1929 Gwangju student uprising against Japanese colonial rule and the 1980 death sentence given to Kim Dae-jung, who later became president. Reason's Volokh Conspiracy noted that Brown v. Entertainment Merchants Association was argued before the Supreme Court on Nov. 2, 2010. These are reference items, not news events.
-
-**Key facts**
-- 1929: Students in Gwangju protested Japan's colonial occupation.
-- 1980: A military court sentenced Kim Dae-jung to death; the sentence was later commuted, and he won the Nobel Peace Prize in 2000.
-- Nov. 2, 2010: Brown v. Entertainment Merchants Association was argued.
-
-**How it's being framed**
-- **Center:** Yonhap listed historical milestones neutrally.
-- **Right:** Reason gave a one-line Supreme Court anniversary note.
-
-**Why it matters:** These items offer background on Korean political history and US legal history.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102001000315) (center): Today in Korean history
-- [Reason](https://reason.com/volokh/2026/11/02/today-in-supreme-court-history-november-2-2010-13/) (lean-right): Today in Supreme Court History: November 2, 2010
-
-
-## 8. Karl Bushby returns to Hull after 28-year walk around the world
-`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
-
-British adventurer Karl Bushby, 57, arrived home in Hull on Monday, completing a roughly 50,000km journey on foot that began in southern Chile in 1998. He avoided motorised transport throughout and crossed the frozen Bering Strait, the Darien Gap and, last month, the English Channel by swimming. Visa refusals, funding losses and COVID stretched a planned 12-year trip into 28 years. A documentary is in production.
+Gunfire broke out around 2 a.m. Sunday, Nov. 1, at an event center on Coddle Creek Highway in Mooresville, Iredell County, where 200-300 people were attending a party, deputies said. Four people were hospitalized; three have been released and one is in stable condition. No arrests have been made and the cause is unclear.
 
 **Key facts**
-- About 500 people welcomed him in Hull, according to DW.
-- He reunited with his mother, his son and a granddaughter he had never met.
-- He said: 'There was a big team. The biggest team. Earth.'
+- 200-300 people attended the party.
+- Three victims treated and released; one stable.
+- Victims' names and ages were not released.
 
 **How it's being framed**
-- **Left:** Al Jazeera emphasised the emotional homecoming, the obstacles he faced, and his upcoming speaking tour.
-- **Center:** DW covered the journey's rules and setbacks, including jail time in Panama, and noted Werner Herzog's documentary.
+- **Center:** All three local outlets reported the sheriff's account, with some describing it as a Halloween party shooting.
 
 **Disputed or unclear**
-- The articles give slightly different accounts of his Russia problems (a refused visa versus detention after entry).
+- What sparked the shooting and who was responsible remain unknown.
 
-**Why it matters:** It is one of the longest continuous human-powered journeys on record.
+**Why it matters:** It is an unsolved shooting at a large gathering in the Charlotte area, and authorities are seeking information.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/4-hospitalized-after-shooting-large-party-iredell-county-deputies-say/) (center): 4 hospitalized after shooting at large party in Iredell County, deputies say
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/mooresville-halloween-party-shooting-investigation/275-1e4e89e6-d50b-4920-9a3c-9f06bf7a5336) (center): 4 shot in Mooresville on Halloween night, Iredell sheriff says
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/iredell-county/four-people-injured-after-halloween-party-shooting-in-mooresville-sheriff/) (center): Four people hospitalized after Halloween party shooting in Mooresville: Sheriff
+
+
+## 7. Karl Bushby completes 28-year walk home to Hull
+`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+British adventurer Karl Bushby, 57, arrived home in Hull on Monday, ending a roughly 50,000km journey on foot that began in southern Chile in 1998. He avoided motorized transport to advance and crossed the frozen Bering Strait, swam the Caspian Sea and recently the English Channel. Visa denials, detentions, funding problems and the pandemic stretched a planned 12-year trip to 28 years. A documentary is in production and he plans a speaking tour.
+
+**Key facts**
+- About 500 people greeted him in Hull, according to DW.
+- He began in Punta Arenas, Chile, in November 1998.
+- Werner Herzog is making a documentary titled "Walk of Life," per DW.
+
+**How it's being framed**
+- **Left:** Al Jazeera focused on the emotional homecoming with his mother and the obstacles along the route.
+- **Center:** DW covered the same arc, adding family details, his rules for the trek and his worries about readjusting to normal life.
+
+**Why it matters:** It is a rare feat of endurance completed after nearly three decades.
 
 **Read it yourself:**
 - [Deutsche Welle](https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf) (center): Global pedestrian Karl Bushby returns home to UK after 28-year trek
 - [Al Jazeera English](https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world) (lean-left): British adventurer Karl Bushby returns home after 28-year walk around world
 
 
-## 9. Army practises mass-grave digging at Fort Bragg exercise
-`Charlotte Local` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 8. South Korea's Supreme Court upholds antitrust fine on Broadcom over Samsung deal
+`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Soldiers at Fort Bragg, North Carolina, practised digging and backfilling temporary mass graves as part of Operation Dragon Covenant, according to a military outlet cited by local media. The exercise tested whether heavy equipment could quickly handle remains in a high-intensity conflict. The Army has not used mass graves at scale since the Korean War. It was also the first time in more than 20 years that chaplains trained for temporary battlefield burial.
+South Korea's Supreme Court on Oct. 27 dismissed Broadcom's appeal, upholding an 18.6 billion won (about $13.8-13.9 million) fine imposed by the Fair Trade Commission. The regulator found Broadcom pressured Samsung into a 2020 agreement to buy at least $760 million of components a year for three years, partly by threatening to halt shipments. The ruling finalizes the FTC's sanctions.
 
 **Key facts**
-- A standard temporary grave has five trenches holding 100 bodies.
-- Operators completed a 20-body trench in 1 hour and 15 minutes.
-- Sgt. 1st Class Delbert Ruede: 'If we went to war tomorrow, we would be making this up as we went along.'
+- The FTC imposed the fine in September 2023; the Seoul High Court backed it in May.
+- The regulator estimated Samsung lost at least $160 million; Samsung claimed $326.3 million.
+- Parts covered included RF front-end, Wi-Fi and Bluetooth chips.
 
 **How it's being framed**
-- **Center:** WBTV and Queen City News relayed the Army's own description, which emphasised respect for the fallen and preparedness.
+- **Center:** Both Korean outlets reported the ruling factually, relying on legal sources and the FTC's findings; neither quoted Broadcom.
 
-**Why it matters:** It signals that the Army is planning for large casualty numbers in a possible high-intensity war.
+**Disputed or unclear**
+- Broadcom's response is not reported.
+
+**Why it matters:** The ruling sets a precedent on how dominant chip suppliers can deal with major customers in Korea.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/us-army-reportedly-practiced-digging-mass-graves-military-base-north-carolina/) (center): US Army reportedly practiced digging mass graves at military base in North Carolina
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/army-tests-digging-mass-graves-during-fort-bragg-exercise/) (center): Army tests digging mass graves during Fort Bragg exercise
+- [The Korea Herald](https://www.koreaherald.com/article/10923234) (center): Korea's top court upholds W18.6b fine on Broadcom for pressuring Samsung into unfair deal
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102012000320) (center): Top court upholds antitrust watchdog's 18.6 bln-won fine on Broadcom
+
+
+## 9. South Korea's finance minister meets Hyundai chief on EV policy and US ambassador on trade
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Finance Minister Lee Hyoung-il met Hyundai Motor Group Executive Chair Euisun Chung before a roundtable on electric and autonomous vehicles, where they discussed tax incentives for domestically produced EVs. Lee said EVs are "the next battleground" for Korea's growth. Separately, he met US Ambassador Michelle Steel and asked her help in resolving bilateral trade issues.
+
+**Key facts**
+- The Hyundai meeting lasted about 20 minutes, per sources.
+- Industry officials called for tax deductions for domestically made EVs.
+- Lee said Korea must match advanced nations' technology within two or three years.
+
+**How it's being framed**
+- **Center:** Yonhap and the Korea Herald relayed government and source accounts without outside commentary.
+
+**Disputed or unclear**
+- No specific tax measures were announced.
+
+**Why it matters:** Possible EV tax incentives and US trade talks affect Korea's key export industries.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102011900320) (center): Finance minister, Hyundai Motor chief discuss EV policies: sources
+- [The Korea Herald](https://www.koreaherald.com/article/10922948) (center): Finance minister discusses economic ties, cooperation with US ambassador
 
 
 ## 10. South Korea and India hold first economic security dialogue
 `Korea` `Asia Business & Politics` · Covered by 1 outlet (L 0 · C 1 · R 0)
 
-South Korea and India held the first meeting of a new economic security dialogue in Seoul on Monday, following an April leaders' summit. Officials discussed supply-chain stability, advanced technology, shipbuilding, shipping and energy. They also agreed to deepen cooperation in aerospace, critical minerals and artificial intelligence.
+South Korea and India held the inaugural meeting of an economic security dialogue in Seoul, following up on an April summit. Officials discussed supply chains, advanced technology, shipbuilding, shipping and energy, and agreed to strengthen cooperation in aerospace, critical minerals and AI.
 
 **Key facts**
-- South Korea was represented by Song Ki-ho, vice chief of the National Security Office.
-- India was represented by Deputy National Security Adviser Pavan Kapoor.
+- South Korea was represented by Song Ki-ho of the National Security Office; India by deputy national security adviser Pavan Kapoor.
+- The dialogue was agreed at a leaders' summit in April.
 
 **How it's being framed**
-- **Center:** Yonhap relayed the presidential office's account.
+- **Center:** Yonhap relayed the South Korean presidential office's account.
 
-**Why it matters:** It reflects Asian economies' efforts to secure supply chains amid global uncertainty.
+**Disputed or unclear**
+- No concrete agreements were detailed.
+
+**Why it matters:** It signals deepening Korea-India ties on supply chains and strategic technology.
 
 **Read it yourself:**
 - [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102010900315) (center): S. Korea, India hold inaugural meeting of economic security dialogue
@@ -282,5 +282,5 @@ South Korea and India held the first meeting of a new economic security dialogue
 
 ### What is happening with AI regulation in the US and EU?
 
-🆕 Only one thin item. The Daily Caller reports an exclusive poll suggesting AI safety could influence control of the House, with the line 'Republicans will be fighting uphill,' but the article gives no poll details. Separately, coverage of the European freezer hacks notes that the EU's Cyber Resilience Act will impose stricter product security rules from December 2027. A Belgian cybersecurity official there also voiced concern about the targeted use of AI to find and exploit vulnerabilities. No concrete US or EU AI regulatory action was reported.
+The only matching item is a Daily Caller teaser reporting a poll suggesting AI safety could affect the House majority, but it gives no details on US or EU regulatory action. (Separately, coverage of the European freezer hacks notes the EU Cyber Resilience Act's stricter product rules take effect in December 2027.)
 - [The Daily Caller](https://dailycaller.com/2026/11/02/exclusive-poll-battleground-house-districts-trust-democrats-republicans-regulating-artificial-intelligence-mike-lawler-cait-conley) (right): EXCLUSIVE: AI Safety Could Decide House Majority And Beyond, Poll Shows
