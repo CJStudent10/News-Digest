@@ -12,12 +12,13 @@ from digest.render import build_site, render_markdown
 from digest.stories import cluster, score_stories, select_stories, tag_topics
 
 FIXTURES = Path(__file__).parent / "fixtures"
+TEST_CONFIG = Path(__file__).parent / "config"  # frozen copy, so editing your real topics never breaks tests
 NOW = datetime(2026, 11, 2, 12, 0, tzinfo=timezone.utc)
 
 
 @pytest.fixture(scope="module")
 def cfg():
-    return load_config()
+    return load_config(TEST_CONFIG)
 
 
 @pytest.fixture(scope="module")
@@ -154,3 +155,18 @@ def test_ai_failure_falls_back_to_basic(cfg, monkeypatch):
     monkeypatch.setattr(summ, "summarize_with_claude", boom)
     d = run(cfg, fixtures=FIXTURES, now=NOW, dry_run=True)
     assert d["mode"] == "basic" and d["stories"]
+
+
+def test_topic_sources_and_slots(cfg, articles):
+    import copy
+    from digest.config import Topic
+    c = copy.copy(cfg)
+    c.topics = [Topic(name="Space", keywords=[], sources=["nasa", "arstechnica"], slots=2),
+                Topic(name="Econ", keywords=["federal reserve"])]
+    c.settings = {**cfg.settings, "max_stories": 3}
+    tag_topics(articles, c)
+    stories = cluster(articles, 0.28)
+    score_stories(stories, c, NOW)
+    chosen = select_stories(stories, c)
+    assert any(a.source_id == "arstechnica" and "Space" in a.topics for a in articles)
+    assert sum("Space" in s.topics for s in chosen) >= 1 and any("Econ" in s.topics for s in chosen)

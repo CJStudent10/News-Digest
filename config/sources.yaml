@@ -5,7 +5,7 @@
 #   bias charts. They're here to keep the digest balanced. Check them and
 #   change them if you disagree; the balance logic uses whatever you put here.
 #
-# category: general | world | politics | business | tech | science
+# category: general | world | politics | business | tech | science | local
 # enabled:  set to false to switch a source off without deleting it.
 
 sources:
@@ -131,8 +131,102 @@ sources:
     url: https://www.sciencedaily.com/rss/all.xml
     lean: center
     category: science
+    enabled: false
   - id: nasa
     name: NASA News
     url: https://www.nasa.gov/news-release/feed/
     lean: center
     category: science
+    enabled: false
+  - id: techcrunch-ai
+    name: TechCrunch (AI)
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    lean: center
+    category: tech
+
+  # ---------- Cybersecurity ----------
+  - id: bleepingcomputer
+    name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+    lean: center
+    category: tech
+  - id: therecord
+    name: The Record (Recorded Future News)
+    url: https://therecord.media/feed
+    lean: center
+    category: tech
+  - id: thehackernews
+    name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+    lean: center
+    category: tech
+  - id: krebs
+    name: Krebs on Security
+    url: https://krebsonsecurity.com/feed/
+    lean: center
+    category: tech
+
+  # ---------- Korea & Asia ----------
+  # Yonhap is South Korea's national news agency (publicly funded).
+  - id: yonhap
+    name: Yonhap News (English)
+    url: https://en.yna.co.kr/RSS/news.xml
+    lean: center
+    category: world
+  - id: koreaherald
+    name: The Korea Herald
+    url: https://www.koreaherald.com/rss/newsAll
+    lean: center
+    category: world
+  - id: cna
+    name: CNA (Channel NewsAsia)
+    url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511
+    lean: center
+    category: world
+  - id: bbc-asia
+    name: BBC News (Asia)
+    url: https://feeds.bbci.co.uk/news/world/asia/rss.xml
+    lean: center
+    category: world
+  - id: guardian-asia
+    name: The Guardian (Asia-Pacific)
+    url: https://www.theguardian.com/world/asia-pacific/rss
+    lean: lean-left
+    category: world
+  - id: cnbc-asia
+    name: CNBC (Asia Economy)
+    url: https://www.cnbc.com/id/19832390/device/rss/rss.html
+    lean: center
+    category: business
+  - id: foxnews-world
+    name: Fox News (World)
+    url: https://moxie.foxnews.com/google-publisher/world.xml
+    lean: right
+    category: world
+
+  # ---------- Charlotte local (free local TV & public radio) ----------
+  - id: wbtv
+    name: WBTV (CBS Charlotte)
+    url: https://www.wbtv.com/arc/outboundfeeds/rss/?outputType=xml
+    lean: center
+    category: local
+  - id: wsoc
+    name: WSOC-TV (ABC Charlotte)
+    url: https://www.wsoctv.com/arc/outboundfeeds/rss/?outputType=xml
+    lean: center
+    category: local
+  - id: wcnc
+    name: WCNC (NBC Charlotte)
+    url: https://www.wcnc.com/feeds/syndication/rss/news/local
+    lean: center
+    category: local
+  - id: qcnews
+    name: Queen City News (FOX 46)
+    url: https://www.qcnews.com/feed/
+    lean: center
+    category: local
+  - id: wfae
+    name: WFAE (Charlotte NPR)
+    url: https://www.wfae.org/local-news.rss
+    lean: lean-left
+    category: local

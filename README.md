@@ -33,7 +33,7 @@ Stories that only one side of the spectrum is covering get flagged: *⚠️ Most
 
 ```mermaid
 flowchart LR
-    A[24 RSS feeds<br/>left · center · right] --> B[Fetch & clean<br/>strip trackers, dedupe]
+    A[~37 RSS feeds<br/>left · center · right] --> B[Fetch & clean<br/>strip trackers, dedupe]
     B --> C[Group into stories<br/>TF-IDF similarity]
     C --> D[Score & select<br/>coverage breadth, spectrum reach,<br/>your topics]
     D --> E[Full article text<br/>trafilatura]
@@ -86,7 +86,9 @@ Or subscribe to the site's `feed.xml` in any RSS reader app to get a notificatio
 | **Change my topics** | Edit [`config/topics.yaml`](config/topics.yaml) on GitHub, or from your phone: **Actions → Manage topics → Run workflow** |
 | **Follow a question or story** | Open an issue with the **🔎 Follow a story or question** template. Every edition checks all fetched articles for your keywords and **comments on the issue** when new coverage turns up. Close the issue to stop. |
 | **Mute something** | Add words to `mute:` in `topics.yaml` |
-| **Add or remove outlets** | Edit [`config/sources.yaml`](config/sources.yaml). Any RSS feed works; give it a `lean`. |
+| **Add or remove outlets** | Edit [`config/sources.yaml`](config/sources.yaml). Any RSS feed works; give it a `lean`. Then run **Actions → Check feeds** to confirm it works. |
+| **Make an outlet count toward a topic** | Add its id under the topic's `sources:` (e.g. all Charlotte TV stations count as *Charlotte Local*) |
+| **Get more stories on a topic** | Raise its `slots:` (stories reserved per edition) or `weight:` |
 | **Change the schedule** | Edit the `cron:` lines in [`.github/workflows/digest.yml`](.github/workflows/digest.yml) (UTC) |
 | **Change length, timezone, model** | [`config/settings.yaml`](config/settings.yaml) |
 

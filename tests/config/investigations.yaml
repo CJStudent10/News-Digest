@@ -1,0 +1,15 @@
+# Things you're curious about or keeping an eye on. Each run checks ALL
+# fetched articles (not just the top stories) for matches, and the digest gets
+# a "Following" section saying what's new.
+#
+# You can also open a GitHub issue with the "investigate" label (there's an
+# issue template for this). The digest picks it up and comments on the issue
+# when new coverage turns up. Close the issue to stop following it.
+#
+# CLI:  python -m digest investigate "Will the Fed cut rates in December?" --keywords "federal reserve,rate cut,powell"
+
+investigations:
+- id: example-ai-regulation
+  question: What is happening with AI regulation in the US and EU?
+  keywords: [ai regulation, ai act, ai bill, ai safety, executive order on ai]
+  opened: '2026-11-02'

@@ -1,31 +1,49 @@
-# What you care about. Stories that match a topic get ranked higher, and every
-# topic that has news gets at least one slot in the digest (if there's room).
+# What you care about. Stories that match a topic get ranked higher, and each
+# topic with news gets its reserved slots in every edition.
 #
 #   name:     label shown in the digest
 #   keywords: words or phrases to match (case-insensitive, whole words)
+#   sources:  source ids from sources.yaml; EVERY article from these counts for the topic
 #   weight:   how much to boost it (1.0 = normal, 2.0 = really care)
+#   slots:    stories reserved for this topic per edition (default 1)
 #   exclude:  stories matching these are NOT counted for this topic
 #
-# Edit this file on GitHub, or use the CLI:
+# Edit this file on GitHub, or use the CLI / "Manage topics" workflow:
 #   python -m digest topics add "Space" --keywords "nasa,spacex,rocket" --weight 1.5
 #
 # mute: stories matching these words never appear in the digest.
 
 topics:
-- name: US Politics
-  keywords: [congress, senate, white house, supreme court, election, governor, president, legislation]
-  weight: 1.0
-- name: World Affairs
-  keywords: [ukraine, russia, china, israel, gaza, nato, united nations, iran, ceasefire, summit]
-  weight: 1.0
-- name: Economy
-  keywords: [federal reserve, inflation, interest rates, jobs report, unemployment, tariffs, stock market, recession, gdp]
-  weight: 1.2
-- name: Tech & AI
-  keywords: [artificial intelligence, ai, openai, anthropic, chip, semiconductor, cybersecurity, data breach, apple, google, microsoft]
+- name: AI & Cybersecurity
+  keywords: [artificial intelligence, ai, a.i., openai, anthropic, chatgpt, claude, gemini, llm, large language model,
+    machine learning, deepfake, nvidia, semiconductor, chips, cybersecurity, cyberattack, cyber attack, hack, hacked,
+    hacker, hackers, ransomware, data breach, breach, malware, spyware, phishing, vulnerability, zero-day, cisa]
+  sources: [bleepingcomputer, therecord, thehackernews, krebs]
+  weight: 1.5
+  slots: 2
+- name: Korea
+  keywords: [korea, korean, koreans, seoul, pyongyang, kim jong un, busan, incheon, samsung, hyundai, sk hynix,
+    kia, kospi, korean won, lee jae-myung, dmz]
+  sources: [yonhap, koreaherald]
+  exclude: [korean barbecue, k-pop idol dating]
+  weight: 1.6
+  slots: 2
+- name: Asia Business & Politics
+  keywords: [china, chinese, beijing, xi jinping, taiwan, tsmc, japan, japanese, tokyo, india, modi, hong kong,
+    singapore, vietnam, philippines, indonesia, asean, asia, asian markets, yuan, yen, nikkei, hang seng, south china sea]
+  sources: [cna, bbc-asia, guardian-asia, cnbc-asia]
   weight: 1.3
-- name: Science & Space
-  keywords: [nasa, spacex, climate, study finds, researchers, vaccine, telescope, asteroid]
+  slots: 2
+- name: Charlotte Local
+  keywords: [charlotte, mecklenburg, charlotte-mecklenburg, cmpd, uptown charlotte, gastonia, concord, huntersville,
+    matthews, mint hill, cornelius, rock hill, fort mill, carolina panthers, charlotte hornets, charlotte fc]
+  sources: [wbtv, wsoc, wcnc, qcnews, wfae]
+  weight: 1.5
+  slots: 2
+- name: US Headlines
+  keywords: [congress, senate, house republicans, house democrats, white house, supreme court, president, election,
+    governor, federal judge, fbi, justice department, federal reserve, inflation, tariffs, jobs report, shutdown]
   weight: 1.0
+  slots: 2
 
-mute: [horoscope, celebrity gossip, kardashian, lottery numbers]
+mute: [horoscope, celebrity gossip, kardashian, lottery numbers, powerball numbers]

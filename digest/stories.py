@@ -132,7 +132,7 @@ def cluster(articles: list[Article], threshold: float = 0.28) -> list[Story]:
 
 def tag_topics(articles: list[Article], config: Config) -> None:
     for a in articles:
-        a.topics = [t.name for t in config.topics if t.matches(a.blob)]
+        a.topics = [t.name for t in config.topics if t.matches(a.blob, a.source_id)]
 
 
 def score_stories(stories: list[Story], config: Config, now: datetime | None = None) -> None:
@@ -166,13 +166,15 @@ def select_stories(stories: list[Story], config: Config) -> list[Story]:
     eligible.sort(key=lambda s: s.score, reverse=True)
 
     chosen: list[Story] = []
-    # 1) Make sure each topic with news gets a slot, highest-weight topics first.
+    # 1) Give each topic its reserved slots, highest-weight topics first.
     for topic in sorted(config.topics, key=lambda t: -t.weight):
-        if len(chosen) >= max_stories:
-            break
-        best = next((s for s in eligible if topic.name in s.topics and s not in chosen), None)
-        if best:
-            chosen.append(best)
+        already = sum(1 for s in chosen if topic.name in s.topics)
+        for s in eligible:
+            if len(chosen) >= max_stories or already >= topic.slots:
+                break
+            if topic.name in s.topics and s not in chosen:
+                chosen.append(s)
+                already += 1
     # 2) Fill the remaining slots with the biggest stories overall.
     for s in eligible:
         if len(chosen) >= max_stories:

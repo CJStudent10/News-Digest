@@ -1,0 +1,24 @@
+# General settings for the digest.
+
+site_title: My Daily Brief
+timezone: America/New_York      # used for edition names (Morning / Midday / Evening) and timestamps
+
+lookback_hours: 14              # only consider articles published in this window
+max_stories: 8                  # top stories per edition
+max_articles_per_story: 6       # links per story (picked to spread across left/center/right)
+min_sources_per_story: 2        # a general story needs this many outlets (topic matches are exempt)
+cluster_threshold: 0.28         # 0-1, how similar headlines must be to count as the same story
+
+fetch_full_text: true           # download article pages so the summaries read the whole story, not just the blurb
+full_text_chars: 3500           # characters of article text sent per article
+
+llm:
+  enabled: true                 # without an ANTHROPIC_API_KEY the digest runs in basic mode anyway
+  model: claude-opus-5-5
+  effort: medium                # low | medium | high. Lower is cheaper and faster.
+  max_tokens: 32000
+
+email:
+  enabled: true                 # only sends when the SMTP_* secrets are set (see README)
+
+site_archive_size: 60           # how many past digests the website lists

@@ -1,0 +1,31 @@
+# What you care about. Stories that match a topic get ranked higher, and every
+# topic that has news gets at least one slot in the digest (if there's room).
+#
+#   name:     label shown in the digest
+#   keywords: words or phrases to match (case-insensitive, whole words)
+#   weight:   how much to boost it (1.0 = normal, 2.0 = really care)
+#   exclude:  stories matching these are NOT counted for this topic
+#
+# Edit this file on GitHub, or use the CLI:
+#   python -m digest topics add "Space" --keywords "nasa,spacex,rocket" --weight 1.5
+#
+# mute: stories matching these words never appear in the digest.
+
+topics:
+- name: US Politics
+  keywords: [congress, senate, white house, supreme court, election, governor, president, legislation]
+  weight: 1.0
+- name: World Affairs
+  keywords: [ukraine, russia, china, israel, gaza, nato, united nations, iran, ceasefire, summit]
+  weight: 1.0
+- name: Economy
+  keywords: [federal reserve, inflation, interest rates, jobs report, unemployment, tariffs, stock market, recession, gdp]
+  weight: 1.2
+- name: Tech & AI
+  keywords: [artificial intelligence, ai, openai, anthropic, chip, semiconductor, cybersecurity, data breach, apple, google, microsoft]
+  weight: 1.3
+- name: Science & Space
+  keywords: [nasa, spacex, climate, study finds, researchers, vaccine, telescope, asteroid]
+  weight: 1.0
+
+mute: [horoscope, celebrity gossip, kardashian, lottery numbers]

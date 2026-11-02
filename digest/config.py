@@ -55,6 +55,8 @@ class Topic:
     keywords: list[str]
     weight: float = 1.0
     exclude: list[str] = field(default_factory=list)
+    sources: list[str] = field(default_factory=list)  # every article from these source ids counts
+    slots: int = 1  # stories reserved for this topic per edition (if it has news)
 
     @cached_property
     def _match(self) -> re.Pattern | None:
@@ -64,10 +66,12 @@ class Topic:
     def _exclude(self) -> re.Pattern | None:
         return keyword_regex(self.exclude)
 
-    def matches(self, text: str) -> bool:
-        if not self._match or not self._match.search(text):
+    def matches(self, text: str, source_id: str | None = None) -> bool:
+        if self._exclude and self._exclude.search(text):
             return False
-        return not (self._exclude and self._exclude.search(text))
+        if source_id and source_id in self.sources:
+            return True
+        return bool(self._match and self._match.search(text))
 
 
 @dataclass
@@ -137,7 +141,7 @@ def load_config(config_dir: Path = CONFIG_DIR) -> Config:
     return Config(
         settings=settings,
         sources=[Source(**s) for s in src if s.get("enabled", True)],
-        topics=[Topic(**t) for t in top.get("topics", []) or []],
+        topics=[Topic(**{**t, "keywords": t.get("keywords") or []}) for t in top.get("topics", []) or []],
         mute=top.get("mute", []) or [],
         investigations=[Investigation(**{**i, "opened": str(i.get("opened", ""))}) for i in inv],
         config_dir=config_dir,
