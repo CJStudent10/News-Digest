@@ -25,19 +25,21 @@ topics:
   keywords: [korea, korean, koreans, seoul, pyongyang, kim jong un, busan, incheon, samsung, hyundai, sk hynix,
     kia, kospi, korean won, lee jae-myung, dmz]
   sources: [yonhap, koreaherald]
-  exclude: [korean barbecue, k-pop idol dating]
+  exclude: [korean barbecue, korean war, k-pop idol dating]
   weight: 1.6
   slots: 2
 - name: Asia Business & Politics
   keywords: [china, chinese, beijing, xi jinping, taiwan, tsmc, japan, japanese, tokyo, india, modi, hong kong,
     singapore, vietnam, philippines, indonesia, asean, asia, asian markets, yuan, yen, nikkei, hang seng, south china sea]
-  sources: [cna, bbc-asia, guardian-asia, cnbc-asia]
+  sources: [cna, cnbc-asia]
   weight: 1.3
   slots: 2
 - name: Charlotte Local
-  keywords: [charlotte, mecklenburg, charlotte-mecklenburg, cmpd, uptown charlotte, gastonia, concord, huntersville,
-    matthews, mint hill, cornelius, rock hill, fort mill, carolina panthers, charlotte hornets, charlotte fc]
-  sources: [wbtv, wsoc, wcnc, qcnews, wfae]
+  # Keywords only (no sources): local TV stations also run national wire stories.
+  keywords: [charlotte, mecklenburg, charlotte-mecklenburg, charlotte-mecklenburg schools, cmpd, uptown charlotte,
+    gastonia, concord, huntersville, matthews, mint hill, cornelius, davidson, mooresville, kannapolis, monroe,
+    rock hill, fort mill, lake norman, union county, cabarrus, gaston county, york county, north carolina, n.c.,
+    south carolina, carolina panthers, charlotte hornets, charlotte fc, cltair, lynx blue line]
   weight: 1.5
   slots: 2
 - name: US Headlines
@@ -46,4 +48,5 @@ topics:
   weight: 1.0
   slots: 2
 
-mute: [horoscope, celebrity gossip, kardashian, lottery numbers, powerball numbers]
+mute: [horoscope, celebrity gossip, kardashian, lottery numbers, powerball numbers, today in history,
+  today in korean history, today in supreme court history, this day in history]

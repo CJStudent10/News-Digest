@@ -141,7 +141,10 @@ def score_stories(stories: list[Story], config: Config, now: datetime | None = N
     lookback = float(config.get("lookback_hours", 14))
     for s in stories:
         topic_counts = Counter(t for a in s.articles for t in a.topics)
-        s.topics = [t for t, _ in topic_counts.most_common()]
+        # A topic must show up in at least a quarter of a story's articles, so one outlet's
+        # passing mention (or a local station carrying a national story) doesn't tag it.
+        need = max(1, math.ceil(len(s.articles) * 0.25))
+        s.topics = [t for t, c in topic_counts.most_common() if c >= need]
         n_sources = len(s.sources)
         buckets_present = sum(1 for v in s.coverage.values() if v)
         topic_boost = max((weights[t] for t in s.topics), default=0.0)

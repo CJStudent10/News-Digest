@@ -178,3 +178,15 @@ def test_api_key_is_extracted_from_pasted_text():
     assert summ.clean_api_key(f'  export ANTHROPIC_API_KEY="{k}"\n') == k
     assert summ.clean_api_key(f"'{k}'") == k
     assert summ.clean_api_key(None) is None
+
+
+def test_one_passing_mention_does_not_tag_a_big_story(cfg, articles):
+    import copy
+    from digest.config import Topic
+    c = copy.copy(cfg)
+    c.topics = [Topic(name="Local", keywords=[], sources=["npr"])]  # 1 of the Fed story's 5 outlets
+    tag_topics(articles, c)
+    stories = cluster(articles, 0.28)
+    score_stories(stories, c, NOW)
+    fed = _find(stories, "federal reserve")
+    assert "Local" not in fed.topics
