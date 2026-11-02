@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 from xml.sax.saxutils import escape, quoteattr
 
 from .config import Config, Investigation
@@ -123,14 +124,30 @@ def build_prompt(stories: list[tuple[Story, list[Article]]],
     return "\n".join(parts)
 
 
+def clean_api_key(raw: str | None) -> str | None:
+    """Pull the key out of whatever was pasted into the secret.
+
+    The Console shows keys inside an example command (export ANTHROPIC_API_KEY="sk-ant-...")
+    and it's easy to paste the whole line, quotes or stray spaces included.
+    """
+    if not raw:
+        return None
+    m = re.search(r"sk-ant-[A-Za-z0-9_\-]+", raw)
+    if not m:
+        log.warning("ANTHROPIC_API_KEY doesn't contain an Anthropic key (they start with 'sk-ant-'). "
+                    "Create one at https://console.anthropic.com/settings/keys")
+        return raw.strip()
+    if m.group(0) != raw.strip():
+        log.warning("ANTHROPIC_API_KEY had extra text around the key; using just the key. "
+                    "Consider re-saving the secret with only the sk-ant-... part.")
+    return m.group(0)
+
+
 def summarize_with_claude(prompt: str, config: Config) -> dict:
     import anthropic
 
     llm = config.get("llm", {}) or {}
-    key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip().strip('"').strip("'")
-    if key and not key.startswith("sk-ant-api"):
-        log.warning("ANTHROPIC_API_KEY doesn't look like an API key (they start with 'sk-ant-api'). "
-                    "Create one at https://console.anthropic.com/settings/keys")
+    key = clean_api_key(os.environ.get("ANTHROPIC_API_KEY"))
     client = anthropic.Anthropic(api_key=key) if key else anthropic.Anthropic()
     with client.beta.messages.stream(
         model=llm.get("model", "claude-opus-5-5"),
@@ -197,7 +214,8 @@ def summarize(stories, investigations, config: Config, use_llm: bool = True) -> 
             hint = ""
             if getattr(exc, "status_code", None) == 401:
                 hint = (" -> The API key was rejected. Use a key from https://console.anthropic.com/settings/keys "
-                        "(starts with sk-ant-api), saved as the repository secret ANTHROPIC_API_KEY.")
+                        "(it starts with sk-ant-), saved as the repository secret ANTHROPIC_API_KEY. Check the key "
+                        "is active and your Console organization has credits under Settings -> Billing.")
             log.error("AI summary failed, using basic mode instead: %s%s", exc, hint)
     elif llm_on:
         log.info("No ANTHROPIC_API_KEY set; running in basic mode")

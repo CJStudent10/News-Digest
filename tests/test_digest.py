@@ -170,3 +170,11 @@ def test_topic_sources_and_slots(cfg, articles):
     chosen = select_stories(stories, c)
     assert any(a.source_id == "arstechnica" and "Space" in a.topics for a in articles)
     assert sum("Space" in s.topics for s in chosen) >= 1 and any("Econ" in s.topics for s in chosen)
+
+
+def test_api_key_is_extracted_from_pasted_text():
+    k = "sk-ant-usr01-AbC_123-xyz"
+    assert summ.clean_api_key(k) == k
+    assert summ.clean_api_key(f'  export ANTHROPIC_API_KEY="{k}"\n') == k
+    assert summ.clean_api_key(f"'{k}'") == k
+    assert summ.clean_api_key(None) is None
