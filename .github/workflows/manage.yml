@@ -1,0 +1,58 @@
+# Change your topics from the GitHub app or website: Actions → "Manage topics" → Run workflow.
+name: Manage topics
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: What to do
+        type: choice
+        options: [add-topic, remove-topic, mute-words, follow-question, stop-following]
+      name:
+        description: "Topic name, words to mute, the question to follow, or the investigation id to stop"
+        required: true
+      keywords:
+        description: "Comma-separated keywords (for add-topic / follow-question)"
+        required: false
+      weight:
+        description: "Topic weight (1.0 = normal, 2.0 = high priority)"
+        required: false
+        default: "1.0"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install PyYAML
+      - name: Apply change
+        env:
+          ACTION: ${{ inputs.action }}
+          NAME: ${{ inputs.name }}
+          KEYWORDS: ${{ inputs.keywords }}
+          WEIGHT: ${{ inputs.weight }}
+        run: |
+          case "$ACTION" in
+            add-topic)       python -m digest topics add "$NAME" --keywords "$KEYWORDS" --weight "${WEIGHT:-1.0}" ;;
+            remove-topic)    python -m digest topics remove "$NAME" ;;
+            mute-words)      python -m digest topics mute "$NAME" ;;
+            follow-question) python -m digest investigate "$NAME" --keywords "$KEYWORDS" ;;
+            stop-following)  python -m digest investigations close "$NAME" ;;
+          esac
+      - name: Commit
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config
+          git diff --cached --quiet && exit 0
+          git commit -m "Config: $ACTION ${NAME}"
+          git push
+        env:
+          ACTION: ${{ inputs.action }}
+          NAME: ${{ inputs.name }}

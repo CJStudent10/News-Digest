@@ -1,0 +1,81 @@
+name: Build digest
+
+on:
+  schedule:
+    # GitHub cron runs in UTC and often starts 5-20 minutes late, so these are set a bit early.
+    # Times below are US Eastern Standard Time (UTC-5). In summer (EDT) each runs an hour later.
+    # To change: https://crontab.guru, then convert your local time to UTC.
+    - cron: "47 11 * * *"   # ~6:47 AM ET: Morning edition
+    - cron: "47 16 * * *"   # ~11:47 AM ET: Midday edition
+    - cron: "47 22 * * *"   # ~5:47 PM ET: Evening edition
+  workflow_dispatch:
+    inputs:
+      no_llm:
+        description: "Basic mode (skip Claude, free)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit the digest archive
+  issues: write     # comment on "investigate" issues
+  pages: write      # publish the website
+  id-token: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build edition
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m digest run ${{ inputs.no_llm && '--no-llm' || '' }}
+
+      - name: Commit archive
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive LATEST.md data/state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Digest: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+
+      - name: Build website
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m digest site --out _site
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

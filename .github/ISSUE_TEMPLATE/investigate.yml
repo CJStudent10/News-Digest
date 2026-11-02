@@ -1,0 +1,24 @@
+name: 🔎 Follow a story or question
+description: The digest watches every feed for this and comments here when new coverage appears.
+title: "Will … ?"
+labels: [investigate]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Put your question in the title. Each edition, every fetched article is checked
+        against the keywords below, and new matches are posted here as comments.
+        **Close the issue to stop following.**
+  - type: input
+    id: keywords
+    attributes:
+      label: Keywords
+      description: Comma-separated words or phrases to watch for (case-insensitive, whole words).
+      placeholder: "federal reserve, rate cut, powell"
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional. Why you're curious, what you already know.

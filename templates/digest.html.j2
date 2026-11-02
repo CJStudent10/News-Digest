@@ -1,0 +1,51 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ d.edition }} edition · {{ d.local_date }} · {{ site_title }}{% endblock %}
+{% block content %}
+{%- set total = (d.balance.left + d.balance.center + d.balance.right) or 1 %}
+<div class="edition">{{ d.edition }} edition · {{ d.local_time }}</div>
+{% if d.overview %}<p class="overview">{{ d.overview }}</p>{% endif %}
+<div class="balance">
+  <span>{{ d.stats.articles }} articles · {{ d.stats.sources_ok }} outlets · {% if d.mode == "ai" %}summarized by Claude{% else %}basic mode{% endif %}</span>
+  <span class="bar" title="Links in this edition by lean">
+    <span class="l" style="width:{{ 100 * d.balance.left / total }}%"></span><span class="c" style="width:{{ 100 * d.balance.center / total }}%"></span><span class="r" style="width:{{ 100 * d.balance.right / total }}%"></span>
+  </span>
+  <span>{{ d.balance.left }} L · {{ d.balance.center }} C · {{ d.balance.right }} R</span>
+</div>
+
+{% for s in d.stories %}
+<article class="story" id="{{ s.id }}">
+  <div class="tags">
+    {% for t in s.topics %}<span class="chip">{{ t }}</span>{% endfor %}
+    <span>{{ s.n_outlets }} outlet{{ "s" if s.n_outlets != 1 }} · L {{ s.coverage.left }} · C {{ s.coverage.center }} · R {{ s.coverage.right }}</span>
+    {% if s.blindspot %}<span class="warn">Mostly {{ s.blindspot }}-leaning coverage</span>{% endif %}
+  </div>
+  <h2>{{ s.headline }}</h2>
+  {% if s.summary %}<p>{{ s.summary }}</p>{% endif %}
+  {% if s.key_facts %}<h3>Key facts</h3><ul>{% for f in s.key_facts %}<li>{{ f }}</li>{% endfor %}</ul>{% endif %}
+  {% if s.perspectives %}<h3>How it's being framed</h3>
+  <div class="persp">{% for p in s.perspectives %}<div class="{{ p.lean }}"><b>{{ p.lean }}</b>{{ p.framing }}</div>{% endfor %}</div>{% endif %}
+  {% if s.disputed %}<h3>Disputed or unclear</h3><ul>{% for x in s.disputed %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+  {% if s.why %}<p class="why"><b>Why it matters:</b> {{ s.why }}</p>{% endif %}
+  <h3>Read it yourself</h3>
+  <ul class="links">{% for l in s.links %}
+    <li><span class="dot {{ l.bucket }}" title="{{ l.lean }}"></span><span class="src">{{ l.source }}</span> <span class="meta">({{ l.lean }})</span> · <a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.title }}</a></li>{% endfor %}
+  </ul>
+</article>
+{% endfor %}
+
+{% if d.investigations %}
+<section class="following">
+  <h2>🔎 Following</h2>
+  {% for i in d.investigations %}
+  <div class="inv">
+    <h3>{{ i.question }}{% if i.issue_number and repo_url %} <a class="meta" href="{{ repo_url }}/issues/{{ i.issue_number }}">#{{ i.issue_number }}</a>{% endif %}</h3>
+    {% if i.status == "new_developments" %}<span class="new">NEW</span> {% endif %}{{ i["update"] }}
+    {% if i.links %}<ul class="links">{% for l in i.links %}
+      <li><span class="dot {{ l.bucket }}"></span><span class="src">{{ l.source }}</span> · <a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.title }}</a></li>{% endfor %}
+    </ul>{% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+{% if d.stats.failed %}<p class="meta">Feeds that failed this run: {{ d.stats.failed | join(", ") }}</p>{% endif %}
+{% endblock %}

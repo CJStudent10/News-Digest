@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site_title }}{% endblock %}</title>
+<meta name="description" content="A personal, balanced news brief: top stories from free sources across the political spectrum, three times a day.">
+<link rel="alternate" type="application/rss+xml" title="{{ site_title }}" href="{{ root }}feed.xml">
+<style>
+:root {
+  --bg: #faf9f6; --card: #ffffff; --ink: #1d1d1f; --muted: #5f6368; --line: #e4e2dc;
+  --left: #2f6fd6; --center: #7d7f86; --right: #d2453a; --accent: #1d1d1f; --chip: #f0eee8;
+  --warn-bg: #fff4e0; --warn-ink: #8a5300;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #121314; --card: #1b1c1e; --ink: #ececec; --muted: #a3a6ad; --line: #2c2e31;
+          --left: #6f9ff0; --center: #9a9ca3; --right: #f07a6f; --accent: #ececec; --chip: #26282b;
+          --warn-bg: #3a2c12; --warn-ink: #f3c27a; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+       font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+a { color: inherit; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 16px 64px; }
+header.site { border-bottom: 3px double var(--line); padding: 28px 0 14px; margin-bottom: 24px;
+              display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px; }
+header.site h1 { font: 700 clamp(28px, 6vw, 40px)/1.1 Georgia, "Times New Roman", serif; margin: 0; letter-spacing: -0.5px; }
+header.site h1 a { text-decoration: none; }
+nav a { color: var(--muted); margin-left: 14px; font-size: 14px; text-decoration: none; }
+nav a:hover { color: var(--ink); }
+.meta { color: var(--muted); font-size: 14px; }
+.edition { font: 600 13px/1 ui-monospace, SFMono-Regular, Menlo, monospace; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); }
+.overview { font: 19px/1.55 Georgia, serif; margin: 10px 0 18px; }
+.balance { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; font-size: 14px; color: var(--muted); margin-bottom: 26px; }
+.bar { display: flex; height: 8px; border-radius: 4px; overflow: hidden; background: var(--line); flex: 1 1 160px; max-width: 260px; }
+.bar span { display: block; height: 100%; }
+.bar .l { background: var(--left); } .bar .c { background: var(--center); } .bar .r { background: var(--right); }
+.story { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 22px 22px 16px; margin-bottom: 18px; }
+.story h2 { font: 700 24px/1.25 Georgia, serif; margin: 6px 0 10px; }
+.story h3 { font-size: 12px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); margin: 18px 0 6px; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 13px; color: var(--muted); }
+.chip { background: var(--chip); border-radius: 999px; padding: 1px 9px; font-size: 12px; }
+.warn { background: var(--warn-bg); color: var(--warn-ink); border-radius: 999px; padding: 1px 9px; font-size: 12px; }
+ul { padding-left: 20px; margin: 4px 0; }
+.persp { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; }
+.persp div { border-left: 3px solid var(--center); padding: 4px 10px; font-size: 15px; }
+.persp .left { border-color: var(--left); } .persp .right { border-color: var(--right); }
+.persp b { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+.persp .left b { color: var(--left); } .persp .center b { color: var(--center); } .persp .right b { color: var(--right); }
+.why { font-style: italic; }
+.links { list-style: none; padding: 0; }
+.links li { padding: 5px 0; border-top: 1px dashed var(--line); font-size: 15px; }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+.dot.left { background: var(--left); } .dot.center { background: var(--center); } .dot.right { background: var(--right); }
+.src { font-weight: 600; }
+.following { border-top: 3px double var(--line); margin-top: 36px; padding-top: 10px; }
+.following h2 { font: 700 26px Georgia, serif; }
+.inv { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px 20px; margin-bottom: 14px; }
+.inv h3 { margin: 0 0 6px; font-size: 18px; }
+.new { color: var(--left); font-weight: 700; font-size: 12px; letter-spacing: 1px; }
+footer { color: var(--muted); font-size: 13px; margin-top: 40px; border-top: 1px solid var(--line); padding-top: 14px; }
+.archive li { padding: 6px 0; border-bottom: 1px solid var(--line); list-style: none; }
+.archive { padding: 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="site">
+  <h1><a href="{{ root }}index.html">{{ site_title }}</a></h1>
+  <nav><a href="{{ root }}index.html">Latest</a><a href="{{ root }}archive.html">Archive</a><a href="{{ root }}feed.xml">RSS</a>{% if repo_url %}<a href="{{ repo_url }}">Source</a>{% endif %}</nav>
+</header>
+{% block content %}{% endblock %}
+<footer>
+  Built automatically by GitHub Actions from free RSS feeds across the political spectrum.
+  Lean ratings are approximate (based on AllSides and Ad Fontes). Always check the original reporting.
+</footer>
+</div>
+</body>
+</html>

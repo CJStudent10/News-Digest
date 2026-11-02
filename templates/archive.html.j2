@@ -1,0 +1,13 @@
+{% extends "base.html.j2" %}
+{% block title %}Archive · {{ site_title }}{% endblock %}
+{% block content %}
+<h2 style="font-family: Georgia, serif">Archive</h2>
+<ul class="archive">
+{% for d in digests %}
+  <li><a href="digests/{{ d.slug }}.html"><b>{{ d.edition }}</b> · {{ d.local_time }}</a>
+      <span class="meta">· {{ d.stories | length }} stories{% if d.stories %} · {{ d.stories[0].headline }}{% endif %}</span></li>
+{% else %}
+  <li>No digests yet.</li>
+{% endfor %}
+</ul>
+{% endblock %}
