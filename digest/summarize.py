@@ -127,7 +127,11 @@ def summarize_with_claude(prompt: str, config: Config) -> dict:
     import anthropic
 
     llm = config.get("llm", {}) or {}
-    client = anthropic.Anthropic()
+    key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip().strip('"').strip("'")
+    if key and not key.startswith("sk-ant-api"):
+        log.warning("ANTHROPIC_API_KEY doesn't look like an API key (they start with 'sk-ant-api'). "
+                    "Create one at https://console.anthropic.com/settings/keys")
+    client = anthropic.Anthropic(api_key=key) if key else anthropic.Anthropic()
     with client.beta.messages.stream(
         model=llm.get("model", "claude-opus-5-5"),
         max_tokens=int(llm.get("max_tokens", 32000)),
@@ -190,7 +194,11 @@ def summarize(stories, investigations, config: Config, use_llm: bool = True) -> 
         try:
             return summarize_with_claude(build_prompt(stories, investigations), config), "ai"
         except Exception as exc:
-            log.error("AI summary failed, using basic mode instead: %s", exc)
+            hint = ""
+            if getattr(exc, "status_code", None) == 401:
+                hint = (" -> The API key was rejected. Use a key from https://console.anthropic.com/settings/keys "
+                        "(starts with sk-ant-api), saved as the repository secret ANTHROPIC_API_KEY.")
+            log.error("AI summary failed, using basic mode instead: %s%s", exc, hint)
     elif llm_on:
         log.info("No ANTHROPIC_API_KEY set; running in basic mode")
     return summarize_basic(stories, investigations), "basic"

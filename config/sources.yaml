@@ -99,6 +99,12 @@ sources:
     url: https://www.washingtontimes.com/rss/headlines/news/
     lean: lean-right
     category: politics
+    enabled: false   # blocks automated readers (HTTP 403)
+  - id: freebeacon
+    name: Washington Free Beacon
+    url: https://freebeacon.com/feed/
+    lean: right
+    category: politics
   - id: reason
     name: Reason
     url: https://reason.com/feed/
@@ -111,7 +117,7 @@ sources:
     category: politics
   - id: foxbusiness
     name: Fox Business
-    url: https://www.foxbusiness.com/feeds/latest.xml
+    url: https://moxie.foxbusiness.com/google-publisher/latest.xml
     lean: lean-right
     category: business
 
