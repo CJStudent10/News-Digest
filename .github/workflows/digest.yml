@@ -5,7 +5,7 @@ on:
     # GitHub cron runs in UTC and often starts 5-20 minutes late, so these are set a bit early.
     # Times below are US Eastern Standard Time (UTC-5). In summer (EDT) each runs an hour later.
     # To change: https://crontab.guru, then convert your local time to UTC.
-    - cron: "47 11 * * *"   # ~6:47 AM ET: Morning edition
+    - cron: "47 03 * * *"   # ~6:47 AM ET: Morning edition
     - cron: "47 16 * * *"   # ~11:47 AM ET: Midday edition
     - cron: "47 22 * * *"   # ~5:47 PM ET: Evening edition
   workflow_dispatch:
