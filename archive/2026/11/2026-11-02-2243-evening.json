@@ -1,0 +1,735 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-03T03:43:41.794139+00:00",
+  "local_time": "Monday, November 2, 2026 · 10:43 PM EST",
+  "local_date": "Nov 2, 2026",
+  "slug": "2026-11-02-2243-evening",
+  "mode": "ai",
+  "overview": "On the eve of the US midterm elections, the Supreme Court turned away a Justice Department bid to set aside about 20,000 California ballots, and a Michigan Democrat's endorsement of the Republican Senate candidate divided her party. President Trump gave his closing pitch at the reopened Reflecting Pool, and US media reported limited US strikes on Iran's Qeshm Island. Elsewhere: Google took down a botnet built into TV boxes, North Korea denied involvement in the record Binance hack, scientists reported possible fossilised dinosaur blood cells, and there are several Charlotte-area local items.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Supreme Court denies DOJ request to stop California from counting about 20,000 disputed ballots",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "On Monday evening, the day before Election Day, the Supreme Court denied the Justice Department's emergency request to make California set aside mail ballots from about 20,000 voters the DOJ says are likely non-citizens. The one-sentence order gave no explanation and noted no dissents. It followed losses for the DOJ before a federal district judge and a divided 9th Circuit panel. California officials and voting rights groups say the DOJ's list is unreliable and that separating ballots mid-election is not feasible. Related fights continue, including a restraining order that bars the DOJ from threatening election workers, which the government has appealed.",
+      "key_facts": [
+        "The Supreme Court's order came hours after the DOJ filed its request, with no noted dissents.",
+        "The 9th Circuit panel ruled 2-1 against the DOJ; Trump appointee Patrick Bumatay dissented.",
+        "The DOJ says it identified more than 20,000 likely non-citizens on California's voter rolls.",
+        "According to NPR, a UCLA Voting Rights Project analysis found that 42% of names on the DOJ list are not on California's current voter roll.",
+        "A federal judge on Friday barred the DOJ from threatening election officials over processing the ballots; the government has appealed."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, NPR and Al Jazeera framed the case as part of a pattern of federal interference in state elections. They quoted Judge David Carter's warnings about democracy and highlighted the list's inaccuracies, the threats of prosecution, and praise for the ruling from Newsom and Bonta. Al Jazeera and the Guardian noted that studies find non-citizen voting is rare, and the Guardian described arrests that one arrested man called staged."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC, Axios and The Hill focused on the legal process. They quoted Solicitor General Sauer's standing argument and the DOJ's point that commingled ballots cannot be retrieved. CNBC also quoted Bonta calling the request a 'Hail Mary' and reported that a DOJ lawyer conceded the lists had a 'high error rate.' CNBC placed the case among several DOJ election losses, including one in Alaska."
+        }
+      ],
+      "disputed": [
+        "How accurate the DOJ's list is; the DOJ has not disclosed its methodology.",
+        "How many ballots are actually at stake; county officials say many people on the list were not registered or were not mailed ballots.",
+        "Bonta's claim that ruling without asking California to respond is very rare.",
+        "Whether pending appeals over the threats to election workers will affect anything."
+      ],
+      "why": "The ruling shapes how much power the federal government has over state-run vote counting during an election.",
+      "coverage": {
+        "left": 3,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+          "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+          "published": "2026-11-03T01:32:13+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+          "published": "2026-11-03T00:50:37+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump administration turns to SCOTUS in California ballot case",
+          "url": "https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case",
+          "published": "2026-11-02T18:11:30+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The Supreme Court rejects a DOJ push to separate California ballots",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+          "published": "2026-11-02T16:34:17+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Supreme Court rejects Trump administration’s bid to set aside 20,000 California ballots",
+          "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/",
+          "published": "2026-11-02T22:55:26+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Supreme Court rejects Trump request to set aside California ballots",
+          "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms",
+          "published": "2026-11-02T19:06:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Michigan Democrat Haley Stevens endorses Republican Mike Rogers for Senate, drawing party backlash",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Haley Stevens, who narrowly lost the Democratic Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Sunday after El-Sayed's campaign disinvited her from an event. Their dispute centred on an outside group's ad that linked the cost of living to US support for Israel. Democratic leaders including Schumer, Pelosi and Jeffries condemned the move, and some called for her removal from the House caucus. Stevens says she is following her constituents and cites concerns about El-Sayed's ties to streamer Hasan Piker. Republicans, including Vice President JD Vance, say the endorsement will help Rogers. Jeffries says Democrats will discuss 'next steps' when Congress returns.",
+      "key_facts": [
+        "Stevens announced her endorsement of Rogers on Sunday, two days before Election Day.",
+        "El-Sayed's campaign said it raised more than $2.4m after the endorsement, including from more than 26,000 first-time donors.",
+        "Schumer called the endorsement 'a despicable betrayal.'",
+        "Michigan Democratic Party chair Curtis Hertel said Stevens is not a party member 'nor will she be in the future.'",
+        "Several of Stevens' congressional staff resigned in protest, according to the Guardian."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on Democratic outrage, quoting Schumer, Pelosi and Mamdani, along with Stevens' evasive CNN interview and the fundraising surge for El-Sayed. PBS interviewed Rep. Debbie Dingell, who called the endorsement a distraction and spoke about hateful ads and fears among Arab Americans."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill reported briefly on Jeffries' plan to discuss consequences, quoting his statement that Stevens 'isolated herself.'"
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News led with Vance saying the endorsement helps Rogers and calling El-Sayed 'a crazy person.' It highlighted El-Sayed's ties to Hasan Piker and Rogers' allegations of 'terrorist sympathizers,' and described critics of Stevens as radical left-wing voices. The New York Post featured Sara Haines calling the endorsement 'brave' and comparing it to Liz Cheney's, while also quoting a Democratic strategist who rebutted her."
+        }
+      ],
+      "disputed": [
+        "Stevens' real motive: her own account of El-Sayed's 'anger' and Piker ties versus critics' view that she reacted to a bruised ego after being disinvited.",
+        "Dingell says Stevens told her she would not endorse Rogers.",
+        "Whether the endorsement will move votes in a close race.",
+        "What action, if any, House Democrats will take against Stevens."
+      ],
+      "why": "Michigan's Senate race could decide control of the Senate, and the dispute exposes Democratic divisions over Israel.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 2
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jeffries: Democrats will discuss ‘next steps’ on Stevens when Congress returns",
+          "url": "https://thehill.com/homenews/house/6189017-hakeem-jeffries-haley-stevens-michigan-senate-race-controversy-midterms/",
+          "published": "2026-11-02T16:47:59+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
+          "published": "2026-11-02T23:22:57+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race",
+          "url": "https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race",
+          "published": "2026-11-03T00:39:04+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
+          "url": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell",
+          "published": "2026-11-02T23:35:57+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Sara Haines splits from ‘The View’ hosts by defending Rep. Haley Stevens’ GOP endorsement",
+          "url": "https://nypost.com/2026/11/02/media/sara-haines-splits-from-the-view-hosts-by-defending-rep-haley-stevens-gop-endorsement/",
+          "published": "2026-11-03T02:38:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Trump gives final pre-midterm speech at reopened Lincoln Memorial Reflecting Pool",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "In his last scheduled public speech before Election Day, President Trump spent more than 20 minutes on the renovated Reflecting Pool and other Washington projects before turning to the midterms. He called Democrats 'the most extreme and dangerous slate of candidates in American history' and repeated a claim that everyone would get $5,000 if Republicans win. He acknowledged that the president's party usually loses midterms. He also repeated claims that vandals damaged the pool, which outlets note his own US attorney attributed to a contractor's botched installation.",
+      "key_facts": [
+        "The speech lasted nearly an hour; Trump's first explicit mention of the midterms came about 23 minutes in.",
+        "Trump said: 'For some reason, the sitting president doesn't win the midterms. But we gave this a very strong shot.'",
+        "US Attorney Jeanine Pirro told a court on July 31 that a contractor's botched installation caused the damage.",
+        "Trump also discussed a planned triumphal arch, a Potomac promenade, and a National Garden of American Heroes."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Vox mocked the pitch as 'look at my pool' and stressed that polls point to a possible Republican wipeout, describing Trump's campaign season as rambling. Al Jazeera gave a short neutral note that Trump had campaigned 28 days in a row."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC, Axios, WBTV and The Hill focused on how much of the speech was about the pool. CNBC and Axios called the vandalism claims unfounded or debunked. WBTV noted that Trump did not address the cost of living, which voters rank as their top issue."
+        }
+      ],
+      "disputed": [
+        "Trump's claim that vandalism damaged the pool, which court statements and outlets say is unfounded.",
+        "The $5,000 claim, which CNBC called controversial."
+      ],
+      "why": "It shows the closing message the president chose for an election that will decide control of Congress.",
+      "coverage": {
+        "left": 2,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+          "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+          "published": "2026-11-02T21:15:13+00:00"
+        },
+        {
+          "source": "Vox",
+          "lean": "left",
+          "bucket": "left",
+          "title": "Trump’s final midterms pitch: Look at my pool",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/508686/trump-midterms-reflecting-pool-washington-dc-renovations",
+          "published": "2026-11-02T23:00:00+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pres. Trump focuses on Reflecting pool",
+          "url": "https://www.wbtv.com/2026/11/02/pres-trump-focuses-reflecting-pool/",
+          "published": "2026-11-02T23:20:30+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool",
+          "published": "2026-11-03T01:01:16+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump pre-election pitch: Reflecting Pool, pipes and a new promenade",
+          "url": "https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech",
+          "published": "2026-11-02T20:48:47+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live updates: Trump makes midterm closing pitch, touts Reflecting Pool rehab in remarks there",
+          "url": "https://thehill.com/homenews/administration/6187464-stevens-rogers-endorsement-backlash/",
+          "published": "2026-11-02T20:54:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "US carries out limited strikes on Iran's Qeshm Island, officials tell US media, as talks continue",
+      "topics": [],
+      "summary": "US officials told the Wall Street Journal, the AP and others that the US military carried out 'defensive' strikes on Iran's Qeshm Island late Monday, targeting surface-to-air missile sites used against US assets. Some reports tied the strikes to Iran firing at a US aircraft. The WSJ reported that similar limited strikes have been kept quiet in recent weeks. The strikes came the day before the midterms and as Vance and Trump voiced optimism about a negotiated deal. Iran says 'the ball is in the US court' and has set conditions, including lifting the naval blockade.",
+      "key_facts": [
+        "Iranian state media reported multiple explosions on Qeshm Island and near Bandar Lengeh.",
+        "A US official told Fox News the strikes do not mark 'the start of expanded strikes.'",
+        "Vance said he and Trump 'feel pretty good' about a possible negotiated settlement and that no deadline has been set.",
+        "Asked whether he planned strikes after the midterms, Trump said 'no.'",
+        "Earlier Monday, the IRGC said it had captured two US drones and destroyed an MQ-9."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera and the Guardian contrasted the strikes with Vance's optimism and Trump's denial of planned strikes. They gave Iran's position on the peace terms and stressed that the war's effect on fuel prices is a central midterm issue that may hurt Republicans."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and The Hill reported the strikes alongside the diplomatic signals and described Qeshm's military role. DW ran an expert analysis of how the midterms, Israel's deadlocked election and the nuclear impasse could shape the war, warning that strikes could continue regardless of who controls Congress."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner reported briefly that these were the first strikes in two months and stressed that multiple reports call them limited, not a return to war."
+        }
+      ],
+      "disputed": [
+        "Neither US nor Iranian authorities had commented officially at the time of reporting.",
+        "Reports conflict on whether these are the first strikes in two months or part of a quiet series of recent strikes.",
+        "The IRGC's claims about the drones are unverified."
+      ],
+      "why": "The direction of the Iran war affects oil prices and household costs, and it is a key factor in the midterms.",
+      "coverage": {
+        "left": 2,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What might Trump have planned for Iran following the midterm election?",
+          "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-02T15:41:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
+          "published": "2026-11-03T02:25:02+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "US says it conducted defensive strikes against Iran on eve of midterm elections",
+          "url": "https://www.washingtonexaminer.com/policy/defense/4788963/us-defensive-strikes-iran-qeshm-island/",
+          "published": "2026-11-03T02:26:16+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+          "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+          "published": "2026-11-03T02:51:33+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+          "url": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+          "published": "2026-11-03T03:18:36+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US military strikes Iran’s Qeshm Island day before midterms",
+          "url": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/",
+          "published": "2026-11-03T02:16:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Google dismantles botnet of 1.3 million Android TV boxes, blames manufacturer Videostrong",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Google and its partners took down the XCPE botnet, made up of more than 1.3 million mostly Android TV set-top boxes. Google says it has high confidence that Shenzhen-based manufacturer Videostrong deliberately built a backdoor into the devices' firmware and sold access to criminals. Those criminals used the devices for ad fraud and residential proxy services. Google has banned Videostrong from certified Android devices, and says taking down affiliates' servers cuts access to at least 10 million more infected devices. The backdoor remains on the boxes, and owners cannot remove it themselves.",
+      "key_facts": [
+        "The botnet had more than 1.3 million devices; TrendAI counted 1,472,554 infected devices across 206 models.",
+        "Partners included Japan's National Police Agency, Lumen, HUMAN Security, Plume, Synthient and TrendAI.",
+        "Infections were highest in Malaysia, Brazil, Iraq, Mexico and Taiwan; the US and several other countries had about 26,000 to 42,000 each.",
+        "The malware was also found on telehealth devices, karaoke machines and digital signage."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge emphasised that one of Google's own Android partners was responsible, quoting Google's statements, and noted that Google changed its review process for manufacturers."
+        },
+        {
+          "lean": "center",
+          "framing": "Krebs on Security, The Hacker News and BleepingComputer gave technical detail on how the backdoor worked and what owners can do. Krebs linked the botnet to residential proxy firms such as Oxylabs and NetNut; Oxylabs did not respond to a request for comment."
+        }
+      ],
+      "disputed": [
+        "The attribution to Videostrong comes from Google's assessment; the articles include no response from Videostrong.",
+        "The true number of infected devices may be higher than counted.",
+        "How quickly the operators will rebuild with new tools."
+      ],
+      "why": "Cheap smart devices can arrive already compromised, putting owners' home internet connections at risk.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Krebs on Security",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+          "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+          "published": "2026-11-03T02:24:31+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+          "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+          "published": "2026-11-02T20:37:49+00:00"
+        },
+        {
+          "source": "The Hacker News",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+          "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+          "published": "2026-11-02T15:50:26+00:00"
+        },
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+          "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+          "published": "2026-11-02T18:16:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Scientists report possible fossilised red blood cells in 115-million-year-old dinosaur bone",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Researchers led by Kliti Grice of Curtin University reported in PNAS that they found structures resembling red blood cells, along with chemical traces of heme, in leg bones of an Aratasaurus from Brazil. They also detected collagen-related amino acids. Grice stressed that the findings are not DNA and not 'a vial of dinosaur blood.' At least one leading researcher, Mary Schweitzer, doubts that the structures are blood cells.",
+      "key_facts": [
+        "The study was published Monday in the Proceedings of the National Academy of Sciences.",
+        "The Aratasaurus lived about 115 million years ago in what is now Ceará state, Brazil.",
+        "The fossil was found in a gypsum mine and is held at the National Museum of Brazil.",
+        "Grice said: 'We have not found a vial of dinosaur blood.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian opened with a Jurassic Park comparison, quoted Grice calling the find 'a world first,' and gave space to Schweitzer's skepticism about the cells' shape."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald focused on Grice's own caveats, especially that no DNA or intact protein was recovered, and on the details of the fossil."
+        }
+      ],
+      "disputed": [
+        "Whether the structures are really red blood cells; Schweitzer notes they are concave, whereas dinosaur cells should be dome-shaped."
+      ],
+      "why": "If confirmed, the finding would open new ways to study dinosaur biology and challenge assumptions about how long biological molecules can survive.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil",
+          "url": "https://www.koreaherald.com/article/10923598",
+          "published": "2026-11-03T00:28:46+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+          "published": "2026-11-02T20:00:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "North Korea denies FBI claim it was behind record Binance crypto hack",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Kim Yo Jong called the FBI's attribution of the roughly $6.3 billion Binance hack to the North Korea-linked group TraderTraitor a 'grave political provocation' and 'absurd rhetoric.' Blockchain firms Elliptic and Chainalysis are tracing the stolen funds as they move through thousands of wallets. About $2.85 billion has been frozen or seized. Binance says it has covered about 95% of losses and is gradually reopening withdrawals. President Trump said on Saturday, 'We don't know if it's North Korea.'",
+      "key_facts": [
+        "Elliptic reports that hackers used about 12,000 wallets across 11 blockchains and made more than 40,000 transactions in four days.",
+        "About $786 million in stablecoins was converted before issuers froze the rest.",
+        "TraderTraitor was also blamed for the $1.5bn Bybit hack in February 2025.",
+        "Binance says an engineer's compromised laptop enabled the unauthorised withdrawals."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC, the BBC and CNA reported Pyongyang's denial alongside the FBI attribution and North Korea's record of cyber theft. CNBC focused on tracing the laundering, and CNA highlighted Trump's doubts and his overtures to Kim Jong Un."
+        }
+      ],
+      "disputed": [
+        "Who carried out the hack: the FBI and analysts point to North Korea, Pyongyang denies it, and Trump has cast doubt.",
+        "The total stolen is reported as about $6.3bn by some outlets and exactly $6.43bn by Elliptic."
+      ],
+      "why": "It is the largest crypto theft on record and may involve state-backed financing of a sanctioned regime.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+          "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+          "published": "2026-11-03T03:27:18+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korea denies being behind record $6.3bn Binance hack",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-03T01:23:03+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korea slams FBI allegations over Binance hack as 'grave' provocation",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korea-binance-hack-fbi-grave-provocation-6514311",
+          "published": "2026-11-02T22:12:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Charlotte to extend exclusive talks with Gateway Station developer as project remains stalled",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte plans to extend exclusive negotiations with Charlotte Gateway Partners on Gateway Station, a planned mix of apartments and offices at a future uptown Amtrak station that has been delayed for more than a decade. Talks will continue through this year, and the new Metropolitan Public Transportation Authority is set to join as a partner in 2027. It is unclear whether the city or the MPTA will lead the project.",
+      "key_facts": [
+        "Phase one, including track improvements and the Amtrak platform, finished in 2022.",
+        "Deputy City Manager Allyson Craig called it 'the most transit-connected project in the city.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE explained the plan to extend talks and the open question of who will lead the project."
+        },
+        {
+          "lean": "center",
+          "framing": "WCNC stressed that the timeline remains at a standstill."
+        }
+      ],
+      "disputed": [
+        "Who will ultimately lead the project, and when it will be built."
+      ],
+      "why": "It is a long-delayed centrepiece of Charlotte's transit and uptown development.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte's Gateway Station timeline still at standstill",
+          "url": "https://www.wcnc.com/article/news/local/charlottes-gateway-station-timeline-still-at-standstill/275-648b2b91-05e3-4473-94c3-b65e94389981",
+          "published": "2026-11-02T23:58:50+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Charlotte plans to extend exclusive with Gateway Station developer",
+          "url": "https://www.wfae.org/2026-11-02/charlotte-plans-to-extend-exclusive-with-gateway-station-developer",
+          "published": "2026-11-02T23:36:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Chesterfield County: jail funding vote on Election Day, and two charged after dog attack",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Chesterfield County, South Carolina, voters decide on Tuesday whether to fund a new detention center with a penny sales tax or, if the measure fails, through a property tax increase over a longer period. The current jail is more than 50 years old and has had escapes and an inmate death under investigation. Separately, two Pageland residents each face 10 counts of allowing dangerous animals to run at large after dogs seriously injured a 50-year-old man on October 28.",
+      "key_facts": [
+        "Sheriff Cambo Streater says a new jail will be built regardless of the vote's outcome.",
+        "The jail houses 118 inmates; retired Marine Joshua Hamilton is its new director.",
+        "Amanda Hope Freeman, 41, and Kenneth Dale Wroten Sr., 56, were charged in the dog attack; the victim was airlifted to Atrium Health in Charlotte."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WBTV relied on the sheriff and the new jail director, who both favour the sales tax. WSOC and WCNC gave straight reports from the sheriff's office on the dog attack."
+        }
+      ],
+      "disputed": [
+        "The outcome of the jail funding vote.",
+        "The SLED investigation into the inmate death is ongoing."
+      ],
+      "why": "Local voters are choosing how to pay for a jail that officials call unsafe.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "New Chesterfield County Detention director speaks on needs",
+          "url": "https://www.wbtv.com/2026/11/02/new-chesterfield-county-detention-director-speaks-needs/",
+          "published": "2026-11-02T22:08:17+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Two face 20 charges after man seriously injured in Chesterfield County dog attack",
+          "url": "https://www.wsoctv.com/news/local/two-face-20-charges-after-man-seriously-injured-chesterfield-county-dog-attack/HCQYI2SNPFHGZNADEOAXTOS7N4/",
+          "published": "2026-11-03T00:13:22+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 charged after dogs viciously attack man in Chesterfield County",
+          "url": "https://www.wcnc.com/article/news/crime/2-charged-after-dog-attack-chesterfield-county/275-e57d69e2-069f-4971-ba64-49edc93a0aa8",
+          "published": "2026-11-03T00:37:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "North Korea criticises Japan's missile build-up and joint drills with the US",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "A commentary carried by North Korea's state news agency KCNA attacked Japan's push for 'preemptive attack' capabilities, citing the Type 25 anti-ship missile launcher Japan deployed in the October 19-29 Keen Sword exercise with the US. It warned of a 'vicious cycle' of rising regional tension.",
+      "key_facts": [
+        "The Type 25 missile system has a range of more than 1,000 km.",
+        "Keen Sword ran from October 19 to 29; North Korea called it the largest-ever drill of its kind.",
+        "The commentary also cited Japan's Type 88 launch and a Tomahawk test-firing this year."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald, which ran the same Yonhap text, relayed the KCNA claims with brief context describing Japan's 'counterstrike' policy."
+        }
+      ],
+      "disputed": [
+        "North Korea's characterisation of Japan's capabilities as preemptive and offensive; Japan frames them as counterstrike capabilities."
+      ],
+      "why": "It adds to rising rhetoric over military build-ups in Northeast Asia.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "N. Korea slams Japan's missile reinforcement, joint drills with U.S.",
+          "url": "https://en.yna.co.kr/view/AEN20261103004700315",
+          "published": "2026-11-03T01:31:50+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "N. Korea slams Japan's missile reinforcement, joint drills with US",
+          "url": "https://www.koreaherald.com/article/10923850",
+          "published": "2026-11-03T01:47:42+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "Only one tangential item: The Daily Caller reports an exclusive poll suggesting AI safety could influence which party wins the House, with the line 'Republicans will be fighting uphill.' Only the headline and subtitle were available, with no poll details and nothing on actual US or EU regulatory action.",
+      "links": [
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "EXCLUSIVE: AI Safety Could Decide House Majority And Beyond, Poll Shows",
+          "url": "https://dailycaller.com/2026/11/02/exclusive-poll-battleground-house-districts-trust-democrats-republicans-regulating-artificial-intelligence-mike-lawler-cait-conley",
+          "published": "2026-11-02T17:48:02+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 12,
+    "center": 24,
+    "right": 3
+  },
+  "stats": {
+    "articles": 550,
+    "stories_found": 388,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

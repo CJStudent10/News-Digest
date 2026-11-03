@@ -1,279 +1,290 @@
-# My Daily Brief: Midday edition
-_Monday, November 2, 2026 · 2:02 PM EST · 495 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Monday, November 2, 2026 · 10:43 PM EST · 550 articles from 39 outlets · summaries by Claude_
 
-> On the eve of the US midterm elections, a Michigan Democrat's last-minute endorsement of the Republican Senate candidate and a judge's dismissal of a Justice Department case against two former FBI officials led US coverage. Abroad, hackers hit emergency-alert apps in Ukraine and Russia, and a second wave of suspected cyberattacks spoiled food in supermarket freezers across Europe. Local, Korean and human-interest items round out the edition.
+> On the eve of the US midterm elections, the Supreme Court turned away a Justice Department bid to set aside about 20,000 California ballots, and a Michigan Democrat's endorsement of the Republican Senate candidate divided her party. President Trump gave his closing pitch at the reopened Reflecting Pool, and US media reported limited US strikes on Iran's Qeshm Island. Elsewhere: Google took down a botnet built into TV boxes, North Korea denied involvement in the record Binance hack, scientists reported possible fossilised dinosaur blood cells, and there are several Charlotte-area local items.
 
-**Sources linked in this edition:** 10 left · 21 center · 4 right
+**Sources linked in this edition:** 12 left · 24 center · 3 right
 
 ---
 
-## 1. Rep. Haley Stevens endorses Republican Mike Rogers in Michigan Senate race two days before election
-`US Headlines` · Covered by 7 outlets (L 2 · C 2 · R 3)
+## 1. Supreme Court denies DOJ request to stop California from counting about 20,000 disputed ballots
+`US Headlines` · Covered by 8 outlets (L 3 · C 5 · R 0)
 
-Rep. Haley Stevens, a centrist Democrat who lost the August Senate primary to Abdul El-Sayed, withdrew her endorsement of him and backed Republican Mike Rogers on Sunday, appearing alongside him. In a CNN interview she said simply "I changed my mind," while in a Free Press interview she called El-Sayed's focus on Israel "obsessive" and some of his positions "anti-American." Democrats including Senate leader Chuck Schumer condemned the move, the Michigan Democratic Party chair said she is no longer a party member, and many of her staff reportedly quit. Republicans, including Rogers and President Trump, praised her. House Minority Leader Hakeem Jeffries said Democrats will discuss "next steps" when Congress returns after the election, while El-Sayed's campaign reported a record fundraising day.
+On Monday evening, the day before Election Day, the Supreme Court denied the Justice Department's emergency request to make California set aside mail ballots from about 20,000 voters the DOJ says are likely non-citizens. The one-sentence order gave no explanation and noted no dissents. It followed losses for the DOJ before a federal district judge and a divided 9th Circuit panel. California officials and voting rights groups say the DOJ's list is unreliable and that separating ballots mid-election is not feasible. Related fights continue, including a restraining order that bars the DOJ from threatening election workers, which the government has appealed.
 
 **Key facts**
-- Stevens endorsed Rogers on Sunday, two days before the Tuesday, Nov. 3 election.
-- Schumer called it a "despicable betrayal"; Jeffries said she "made a terrible decision, blindsided everyone."
-- El-Sayed's campaign said it raised $2.4m on Sunday, a single-day record, with more than 26,000 first-time donors.
-- Stevens, a four-term House member, is leaving Congress at the end of the year.
-- The Michigan seat is currently held by Democrats and is seen as critical to the party's hopes of winning the Senate.
+- The Supreme Court's order came hours after the DOJ filed its request, with no noted dissents.
+- The 9th Circuit panel ruled 2-1 against the DOJ; Trump appointee Patrick Bumatay dissented.
+- The DOJ says it identified more than 20,000 likely non-citizens on California's voter rolls.
+- According to NPR, a UCLA Voting Rights Project analysis found that 42% of names on the DOJ list are not on California's current voter roll.
+- A federal judge on Friday barred the DOJ from threatening election officials over processing the ballots; the government has appealed.
 
 **How it's being framed**
-- **Left:** The Guardian led with El-Sayed's record fundraising in response to the defection. NPR framed the episode as exposing deeper Democratic fault lines over Israel and the party's future identity, noted Stevens cited El-Sayed's ties to streamer Hasan Piker, and reported that many Democrats were rallying behind El-Sayed.
-- **Center:** BBC focused on Stevens defending the switch and her limited explanation on CNN, quoting criticism from Schumer and Rep. Debbie Dingell alongside praise from Rogers and Trump. The Hill reported narrowly on Jeffries' statement about next steps.
-- **Right:** Fox News emphasized Democratic infighting and calls from progressives like Reps. Delia Ramirez and Pramila Jayapal to expel Stevens, and highlighted concerns among some Black and Jewish voters about El-Sayed and his past comments. The New York Post centered Stevens' Israel-related rationale, adding that El-Sayed declined to say whether Israel or Iran is a greater threat and that a super PAC backing him ran an ad blaming Israel for grocery prices.
+- **Left:** The Guardian, NPR and Al Jazeera framed the case as part of a pattern of federal interference in state elections. They quoted Judge David Carter's warnings about democracy and highlighted the list's inaccuracies, the threats of prosecution, and praise for the ruling from Newsom and Bonta. Al Jazeera and the Guardian noted that studies find non-citizen voting is rare, and the Guardian described arrests that one arrested man called staged.
+- **Center:** CNBC, Axios and The Hill focused on the legal process. They quoted Solicitor General Sauer's standing argument and the DOJ's point that commingled ballots cannot be retrieved. CNBC also quoted Bonta calling the request a 'Hail Mary' and reported that a DOJ lawyer conceded the lists had a 'high error rate.' CNBC placed the case among several DOJ election losses, including one in Alaska.
 
 **Disputed or unclear**
-- Stevens' reasoning: she told CNN she simply changed her mind, but told the Free Press it was about El-Sayed's "obsessive" focus on Israel.
-- Dingell said Stevens repeatedly assured her over the weekend she would not endorse Rogers; what changed is unexplained.
-- Whether House Democrats will remove Stevens from their caucus is undecided.
-- Characterizations of El-Sayed's positions on Israel and a super PAC ad come from Stevens and the New York Post and were not addressed by his campaign in these articles.
-- Whether the switch will affect the race's outcome is unknown.
+- How accurate the DOJ's list is; the DOJ has not disclosed its methodology.
+- How many ballots are actually at stake; county officials say many people on the list were not registered or were not mailed ballots.
+- Bonta's claim that ruling without asking California to respond is very rare.
+- Whether pending appeals over the threats to election workers will affect anything.
 
-**Why it matters:** The Michigan seat could help decide control of the US Senate, and the feud reflects wider Democratic divisions.
+**Why it matters:** The ruling shapes how much power the federal government has over state-run vote counting during an election.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c699z8v3282xo?at_medium=RSS&at_campaign=rss) (center): Democrat Stevens defends endorsement switch to Republican Rogers two days before election
-- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates) (lean-left): Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live
-- [Fox News](https://www.foxnews.com/politics/house-dems-demand-haley-stevens-exile-jeffries-reveals-deadline-deciding-her-fate) (right): House Dems demand Haley Stevens' exile as Jeffries reveals deadline on deciding her fate
+- [CNBC](https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html) (center): Supreme Court rejects DOJ's bid to block California from counting disputed ballots
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots) (lean-left): Supreme court rules against Trump over bid to force California to set aside ballots
+- [Axios](https://www.axios.com/2026/11/02/trump-supreme-court-california-ballots-case) (center): Trump administration turns to SCOTUS in California ballot case
+- [NPR](https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump) (lean-left): The Supreme Court rejects a DOJ push to separate California ballots
+- [The Hill](https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/) (center): Supreme Court rejects Trump administration’s bid to set aside 20,000 California ballots
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms) (lean-left): Supreme Court rejects Trump request to set aside California ballots
+
+
+## 2. Michigan Democrat Haley Stevens endorses Republican Mike Rogers for Senate, drawing party backlash
+`US Headlines` · Covered by 5 outlets (L 2 · C 1 · R 2)
+
+Rep. Haley Stevens, who narrowly lost the Democratic Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Sunday after El-Sayed's campaign disinvited her from an event. Their dispute centred on an outside group's ad that linked the cost of living to US support for Israel. Democratic leaders including Schumer, Pelosi and Jeffries condemned the move, and some called for her removal from the House caucus. Stevens says she is following her constituents and cites concerns about El-Sayed's ties to streamer Hasan Piker. Republicans, including Vice President JD Vance, say the endorsement will help Rogers. Jeffries says Democrats will discuss 'next steps' when Congress returns.
+
+**Key facts**
+- Stevens announced her endorsement of Rogers on Sunday, two days before Election Day.
+- El-Sayed's campaign said it raised more than $2.4m after the endorsement, including from more than 26,000 first-time donors.
+- Schumer called the endorsement 'a despicable betrayal.'
+- Michigan Democratic Party chair Curtis Hertel said Stevens is not a party member 'nor will she be in the future.'
+- Several of Stevens' congressional staff resigned in protest, according to the Guardian.
+
+**How it's being framed**
+- **Left:** The Guardian focused on Democratic outrage, quoting Schumer, Pelosi and Mamdani, along with Stevens' evasive CNN interview and the fundraising surge for El-Sayed. PBS interviewed Rep. Debbie Dingell, who called the endorsement a distraction and spoke about hateful ads and fears among Arab Americans.
+- **Center:** The Hill reported briefly on Jeffries' plan to discuss consequences, quoting his statement that Stevens 'isolated herself.'
+- **Right:** Fox News led with Vance saying the endorsement helps Rogers and calling El-Sayed 'a crazy person.' It highlighted El-Sayed's ties to Hasan Piker and Rogers' allegations of 'terrorist sympathizers,' and described critics of Stevens as radical left-wing voices. The New York Post featured Sara Haines calling the endorsement 'brave' and comparing it to Liz Cheney's, while also quoting a Democratic strategist who rebutted her.
+
+**Disputed or unclear**
+- Stevens' real motive: her own account of El-Sayed's 'anger' and Piker ties versus critics' view that she reacted to a bruised ego after being disinvited.
+- Dingell says Stevens told her she would not endorse Rogers.
+- Whether the endorsement will move votes in a close race.
+- What action, if any, House Democrats will take against Stevens.
+
+**Why it matters:** Michigan's Senate race could decide control of the Senate, and the dispute exposes Democratic divisions over Israel.
+
+**Read it yourself:**
 - [The Hill](https://thehill.com/homenews/house/6189017-hakeem-jeffries-haley-stevens-michigan-senate-race-controversy-midterms/) (center): Jeffries: Democrats will discuss ‘next steps’ on Stevens when Congress returns
-- [NPR](https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church) (lean-left): Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran
-- [New York Post](https://nypost.com/2026/11/02/us-news/haley-stevens-calls-out-abdul-el-sayeds-hatred-of-israel-to-explain-mike-rogers-endorsement/) (lean-right): Rep. Haley Stevens calls out ‘anti-American’ Abdul El-Sayed for ‘obsessive’ hatred of Israel to explain last-minute Mike Rogers endorsement
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers) (lean-left): ‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers
+- [Fox News](https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race) (right): JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race
+- [PBS NewsHour](https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell) (lean-left): Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell
+- [New York Post](https://nypost.com/2026/11/02/media/sara-haines-splits-from-the-view-hosts-by-defending-rep-haley-stevens-gop-endorsement/) (lean-right): Sara Haines splits from ‘The View’ hosts by defending Rep. Haley Stevens’ GOP endorsement
 
 
-## 2. Judge dismisses case against two ex-FBI officials accused of lying to Congress about Hunter Biden probe
-`US Headlines` · Covered by 7 outlets (L 4 · C 2 · R 1)
+## 3. Trump gives final pre-midterm speech at reopened Lincoln Memorial Reflecting Pool
+`US Headlines` · Covered by 6 outlets (L 2 · C 4 · R 0)
 
-US Magistrate Judge Zia Faruqui in Washington dismissed criminal complaints against former FBI officials Nikki Floris and Bradley Benavides, who were charged in October with lying to the House Judiciary Committee in 2023 about the bureau's handling of Hunter Biden's laptop. He ruled prosecutors lacked probable cause, said some statements were not false or were honest memory lapses, and said the case "cannot be described as anything other than weaponization," pointing to its timing before the midterms. He also questioned the use of a criminal complaint rather than a grand jury indictment. Prosecutors could still seek a grand jury indictment or appeal; the Justice Department did not immediately comment.
-
-**Key facts**
-- Charges were unveiled Oct. 23 via a criminal complaint, not an indictment.
-- Faruqui: "I will not bury my head in the sand and pretend I cannot read a calendar."
-- An FBI agent testified the probe began on FBI Director Kash Patel's orders the day after a July primetime address by Trump.
-- Last week the judge struck a revised complaint that added an obstruction charge without court approval.
-- A defense lawyer called the case a "spaghetti-at-the-wall, Hunter-Biden-conspiracy fever dream."
-
-**How it's being framed**
-- **Left:** NPR, The Guardian and Al Jazeera emphasized the judge's "weaponization" finding, the link to Trump's July address and Patel's order, and placed the case in a pattern of politically charged DOJ actions against perceived Trump opponents, noting grand juries' recent refusals to indict in such cases. The Guardian explained the officials' task force role and earlier concerns about Russian disinformation.
-- **Center:** CNBC and The Hill reported the ruling straightforwardly, with CNBC quoting the judge's sharpest lines, both defense lawyers, and detailing procedural irregularities such as the use of a criminal complaint.
-- **Right:** Fox News reported the dismissal and the judge's rebuke, while noting Republicans' long-standing accusations of FBI bias on Hunter Biden and devoting space to Faruqui's history of criticizing Trump-era prosecutors, including his comments about treatment of a suspect accused of plotting to assassinate Trump.
-
-**Disputed or unclear**
-- Whether prosecutors will seek a grand jury indictment or appeal is unknown.
-- The DOJ has not publicly responded to the judge's claim that the case was timed for the election.
-- Outlets describe the charging timing differently (about 10 days vs. two weeks before the election).
-
-**Why it matters:** The ruling bears on accusations that the Justice Department is being used for political ends ahead of the midterms.
-
-**Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html) (center): Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe
-- [NPR](https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden) (lean-left): Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials
-- [Fox News](https://www.foxnews.com/politics/judge-tosses-case-against-ex-fbi-officials-accused-lying-congress-hunter-biden-investigation) (right): Judge tosses case against ex-FBI officials accused of lying to Congress about Hunter Biden investigation
-- [The Hill](https://thehill.com/regulation/court-battles/6188867-ex-fbi-nikki-floris-bradley-benavides-charges-dropped/) (center): Federal judge dismisses case against ex-FBI officials accused of lying about Biden laptop probe
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden) (lean-left): Judge tosses case against two officials accused of lying about Hunter Biden
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case) (lean-left): Judge dismisses charges against FBI agents involved in Hunter Biden case
-
-
-## 3. Record early voting in the Carolinas as midterm Election Day arrives
-`US Headlines` `Charlotte Local` · Covered by 5 outlets (L 1 · C 3 · R 1)
-
-South Carolina recorded 1,043,810 early ballots from Oct. 19-31, more than double 2022 but below 2024, and nearly 3 million people voted early in North Carolina, where Democrats and unaffiliated voters made up the largest shares. Election Day is Tuesday, Nov. 3, with polls in both states among the first to close. An election-integrity group also released a guide to 21 election-related ballot measures in 17 states.
+In his last scheduled public speech before Election Day, President Trump spent more than 20 minutes on the renovated Reflecting Pool and other Washington projects before turning to the midterms. He called Democrats 'the most extreme and dangerous slate of candidates in American history' and repeated a claim that everyone would get $5,000 if Republicans win. He acknowledged that the president's party usually loses midterms. He also repeated claims that vandals damaged the pool, which outlets note his own US attorney attributed to a contractor's botched installation.
 
 **Key facts**
-- South Carolina: 1,043,810 early ballots, the highest early turnout for a gubernatorial election since early voting began in 2022.
-- Top SC counties: Greenville (103,282), Charleston (99,275), Richland (91,732).
-- Polls close at 7:00 pm ET in South Carolina and 7:30 pm ET in North Carolina.
-- The Honest Elections Project guide covers measures on voter ID and citizenship, ranked-choice voting, redistricting and more.
+- The speech lasted nearly an hour; Trump's first explicit mention of the midterms came about 23 minutes in.
+- Trump said: 'For some reason, the sitting president doesn't win the midterms. But we gave this a very strong shot.'
+- US Attorney Jeanine Pirro told a court on July 31 that a contractor's botched installation caused the damage.
+- Trump also discussed a planned triumphal arch, a Potomac promenade, and a National Garden of American Heroes.
 
 **How it's being framed**
-- **Left:** PBS NewsHour offered a service guide to poll closing times by state.
-- **Center:** Local Charlotte-area outlets focused on record early turnout figures; BBC offered a general explainer on what is on the ballot.
-- **Right:** The Daily Caller, in an exclusive, highlighted the Honest Elections Project's guide, describing the group as nonpartisan and framing ballot measures as setting the rules for 2028, quoting its director.
+- **Left:** Vox mocked the pitch as 'look at my pool' and stressed that polls point to a possible Republican wipeout, describing Trump's campaign season as rambling. Al Jazeera gave a short neutral note that Trump had campaigned 28 days in a row.
+- **Center:** CNBC, Axios, WBTV and The Hill focused on how much of the speech was about the pool. CNBC and Axios called the vandalism claims unfounded or debunked. WBTV noted that Trump did not address the cost of living, which voters rank as their top issue.
 
 **Disputed or unclear**
-- Party breakdown of South Carolina early voters is not available in general elections.
-- What early turnout patterns mean for results is unknown.
+- Trump's claim that vandalism damaged the pool, which court statements and outlets say is unfounded.
+- The $5,000 claim, which CNBC called controversial.
 
-**Why it matters:** Turnout levels and ballot measures will shape both this election's results and how future elections are run.
+**Why it matters:** It shows the closing message the president chose for an election that will decide control of Congress.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/over-1-million-votes-cast-south-carolina-during-record-early-voting-period/) (center): Over 1 million votes cast in South Carolina during record early voting period
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election) (lean-left): Here's when polls are closing in your state this midterm election
-- [The Daily Caller](https://dailycaller.com/2026/11/02/honest-elections-project-jason-sneed-ballot-measure-guide) (right): EXCLUSIVE: Can Your Midterms Vote Impact Future Elections? New Guide Explains Just How
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/nearly-3-million-vote-early-in-nc-democrats-lead-turnout-ahead-of-election-day/) (center): Nearly 3 million vote early in NC; Democrats lead turnout ahead of Election Day
-- [BBC News (World)](https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss) (center): What are Americans voting for in this election?
+- [CNBC](https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html) (center): Trump focuses on Reflecting Pool in final public speech before midterms
+- [Vox](https://www.vox.com/the-logoff-newsletter-trump/508686/trump-midterms-reflecting-pool-washington-dc-renovations) (left): Trump’s final midterms pitch: Look at my pool
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/pres-trump-focuses-reflecting-pool/) (center): Pres. Trump focuses on Reflecting pool
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool) (lean-left): Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
+- [Axios](https://www.axios.com/2026/11/02/trump-dc-projects-reflecting-pool-speech) (center): Trump pre-election pitch: Reflecting Pool, pipes and a new promenade
+- [The Hill](https://thehill.com/homenews/administration/6187464-stevens-rogers-endorsement-backlash/) (center): Live updates: Trump makes midterm closing pitch, touts Reflecting Pool rehab in remarks there
 
 
-## 4. Hackers send fake nuclear alerts through Ukraine's emergency app; Russia reports its app was also hacked
-`AI & Cybersecurity` · Covered by 5 outlets (L 2 · C 3 · R 0)
+## 4. US carries out limited strikes on Iran's Qeshm Island, officials tell US media, as talks continue
+· Covered by 7 outlets (L 2 · C 4 · R 1)
 
-Late Sunday, Ukraine's Air Alert app, used by about 6.6 million people, sent false warnings of nuclear radiation, chemical threats, street fighting in Kyiv and a possible Oreshnik missile strike. Ukraine's Air Force said within about 15 minutes that the app had likely been compromised; the developers suspended notifications and began restoring service Monday. Hours later, Russia's emergency ministry said its own app suffered a "massive cyberattack" used to send fake alerts, and President Zelenskyy told PBS that Ukraine had hacked back in response. Many Ukrainians doubted the alerts, though some reported being frightened.
+US officials told the Wall Street Journal, the AP and others that the US military carried out 'defensive' strikes on Iran's Qeshm Island late Monday, targeting surface-to-air missile sites used against US assets. Some reports tied the strikes to Iran firing at a US aircraft. The WSJ reported that similar limited strikes have been kept quiet in recent weeks. The strikes came the day before the midterms and as Vance and Trump voiced optimism about a negotiated deal. Iran says 'the ball is in the US court' and has set conditions, including lifting the naval blockade.
 
 **Key facts**
-- Air Alert launched in 2022, developed by Ajax Systems with government support.
-- A group calling itself Hitcore Corp claimed responsibility via a linked Telegram channel.
-- A Kyiv-based group called DC8044 claimed the attack on Russia's EMERCOM app.
-- Zelenskyy: "We only respond on their attacks."
-- Ukraine's national warning system was reported unaffected.
+- Iranian state media reported multiple explosions on Qeshm Island and near Bandar Lengeh.
+- A US official told Fox News the strikes do not mark 'the start of expanded strikes.'
+- Vance said he and Trump 'feel pretty good' about a possible negotiated settlement and that no deadline has been set.
+- Asked whether he planned strikes after the midterms, Trump said 'no.'
+- Earlier Monday, the IRGC said it had captured two US drones and destroyed an MQ-9.
 
 **How it's being framed**
-- **Left:** PBS highlighted Zelenskyy's confirmation that Ukraine retaliated and his attribution to Russia. The Guardian included residents' fear and tied the hack to the end of a local ceasefire in Oleshky, which it said Russia used to reinforce positions.
-- **Center:** The Record gave technical and official detail on the breach and restoration; BBC focused on public reaction (unease but not panic) and an expert's warnings about security weaknesses; CNBC stressed it was unclear whether the two incidents were linked.
+- **Left:** Al Jazeera and the Guardian contrasted the strikes with Vance's optimism and Trump's denial of planned strikes. They gave Iran's position on the peace terms and stressed that the war's effect on fuel prices is a central midterm issue that may hurt Republicans.
+- **Center:** CNBC and The Hill reported the strikes alongside the diplomatic signals and described Qeshm's military role. DW ran an expert analysis of how the midterms, Israel's deadlocked election and the nuclear impasse could shape the war, warning that strikes could continue regardless of who controls Congress.
+- **Right:** The Washington Examiner reported briefly that these were the first strikes in two months and stressed that multiple reports call them limited, not a return to war.
 
 **Disputed or unclear**
-- Who was behind the attack on Ukraine: Zelenskyy and a Kyiv expert blame Russia, while BBC notes the informal language suggests hacktivists not formally state-directed; a Russian channel's report of Hitcore's claim could not be verified.
-- Accounts differ on the language of the messages (Russian, Ukrainian, and English with spelling errors are mentioned).
-- Whether the Ukrainian and Russian incidents are linked.
+- Neither US nor Iranian authorities had commented officially at the time of reporting.
+- Reports conflict on whether these are the first strikes in two months or part of a quiet series of recent strikes.
+- The IRGC's claims about the drones are unverified.
 
-**Why it matters:** Compromised emergency alerts can undermine trust in systems civilians rely on during war.
+**Why it matters:** The direction of the Iran war affects oil prices and household costs, and it is a key factor in the midterms.
 
 **Read it yourself:**
-- [The Record (Recorded Future News)](https://therecord.media/ukraine-hackers-russia-alert-system) (center): Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app) (lean-left): Hackers send fake nuclear threat alert to Ukraine emergency app
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss) (center): Fake nuclear warning from hacked app sparks unease but not panic in Ukraine
-- [PBS NewsHour](https://www.pbs.org/newshour/world/watch-zelenskyy-confirms-ukraine-hacked-back-after-russias-cyberattack-of-its-emergency-alert-system) (lean-left): WATCH: Zelenskyy confirms Ukraine hacked back after Russia's cyberattack of its emergency alert system
-- [CNBC](https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html) (center): Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps
+- [Deutsche Welle](https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf) (center): What might Trump have planned for Iran following the midterm election?
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz) (lean-left): Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/defense/4788963/us-defensive-strikes-iran-qeshm-island/) (lean-right): US says it conducted defensive strikes against Iran on eve of midterm elections
+- [CNBC](https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html) (center): U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran
+- [The Guardian (US)](https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island) (lean-left): US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal
+- [The Hill](https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/) (center): US military strikes Iran’s Qeshm Island day before midterms
 
 
-## 5. Suspected cyberattack disables supermarket freezers in several European countries
-`AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 5. Google dismantles botnet of 1.3 million Android TV boxes, blames manufacturer Videostrong
+`AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-Overnight Monday, refrigeration systems in supermarkets in Belgium, Luxembourg, Sweden, Ireland, Estonia, the Netherlands and Finland were remotely set to as high as 50C, spoiling stock. Retailers and equipment suppliers called it a cyberattack, three weeks after a similar attack hit around 700 supermarkets in France. No one has claimed responsibility and authorities have not identified perpetrators. The EU's food commissioner called it a deliberate attempt to disrupt the food supply chain.
+Google and its partners took down the XCPE botnet, made up of more than 1.3 million mostly Android TV set-top boxes. Google says it has high confidence that Shenzhen-based manufacturer Videostrong deliberately built a backdoor into the devices' firmware and sold access to criminals. Those criminals used the devices for ad fraud and residential proxy services. Google has banned Videostrong from certified Android devices, and says taking down affiliates' servers cuts access to at least 10 million more infected devices. The backdoor remains on the boxes, and owners cannot remove it themselves.
 
 **Key facts**
-- BBC reported 40 Delhaize stores affected; one branch estimated damage over €100,000.
-- Targeted equipment included older Danfoss and Copeland systems, which the companies say are largely discontinued and unsupported.
-- The EU Cyber Resilience Act will impose stricter product security rules from December 2027.
-- Belgium's cybersecurity centre said perpetrators may never be identified.
+- The botnet had more than 1.3 million devices; TrendAI counted 1,472,554 infected devices across 206 models.
+- Partners included Japan's National Police Agency, Lumen, HUMAN Security, Plume, Synthient and TrendAI.
+- Infections were highest in Malaysia, Brazil, Iraq, Mexico and Taiwan; the US and several other countries had about 26,000 to 42,000 each.
+- The malware was also found on telehealth devices, karaoke machines and digital signage.
 
 **How it's being framed**
-- **Left:** The Guardian emphasized the scale across seven countries, the EU commissioner's supply-chain warning, retailer impacts, and authorities' fears of state-sponsored hybrid attacks since Russia's invasion of Ukraine.
-- **Center:** The Record focused on the technical vulnerabilities, unsupported devices, regulatory gaps and officials' concerns about AI-assisted exploitation; BBC focused on on-the-ground food waste.
+- **Left:** The Verge emphasised that one of Google's own Android partners was responsible, quoting Google's statements, and noted that Google changed its review process for manufacturers.
+- **Center:** Krebs on Security, The Hacker News and BleepingComputer gave technical detail on how the backdoor worked and what owners can do. Krebs linked the botnet to residential proxy firms such as Oxylabs and NetNut; Oxylabs did not respond to a request for comment.
 
 **Disputed or unclear**
-- Who is responsible, and whether the same actors carried out the French attack.
-- Whether AI was used; Belgian officials said they don't yet know.
-- Counts of affected stores vary by outlet.
+- The attribution to Videostrong comes from Google's assessment; the articles include no response from Videostrong.
+- The true number of infected devices may be higher than counted.
+- How quickly the operators will rebuild with new tools.
 
-**Why it matters:** The attacks show how outdated connected equipment can be exploited to disrupt food supplies.
+**Why it matters:** Cheap smart devices can arrive already compromised, putting owners' home internet connections at risk.
 
 **Read it yourself:**
-- [The Record (Recorded Future News)](https://therecord.media/cyberattack-grocery-freezers-europe) (center): Second wave of suspected cyberattacks hits supermarket freezers across Europe
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack) (lean-left): Shop fridges and freezers across Europe hit by fresh suspected cyber-attack
-- [BBC News (World)](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss) (center): 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+- [Krebs on Security](https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/) (center): Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies
+- [The Verge](https://www.theverge.com/1024807/google-botnet-android-tv-shut-down) (lean-left): One of Google’s Android partners turned 1.3 million set-top boxes into a botnet
+- [The Hacker News](https://thehackernews.com/2026/11/google-disrupts-13-million-device.html) (center): Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/) (center): Google disrupts million-device XCPE Android malware botnet, bans TV box maker
 
 
-## 6. Four hospitalized after shooting at large party in Mooresville
+## 6. Scientists report possible fossilised red blood cells in 115-million-year-old dinosaur bone
+`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Researchers led by Kliti Grice of Curtin University reported in PNAS that they found structures resembling red blood cells, along with chemical traces of heme, in leg bones of an Aratasaurus from Brazil. They also detected collagen-related amino acids. Grice stressed that the findings are not DNA and not 'a vial of dinosaur blood.' At least one leading researcher, Mary Schweitzer, doubts that the structures are blood cells.
+
+**Key facts**
+- The study was published Monday in the Proceedings of the National Academy of Sciences.
+- The Aratasaurus lived about 115 million years ago in what is now Ceará state, Brazil.
+- The fossil was found in a gypsum mine and is held at the National Museum of Brazil.
+- Grice said: 'We have not found a vial of dinosaur blood.'
+
+**How it's being framed**
+- **Left:** The Guardian opened with a Jurassic Park comparison, quoted Grice calling the find 'a world first,' and gave space to Schweitzer's skepticism about the cells' shape.
+- **Center:** The Korea Herald focused on Grice's own caveats, especially that no DNA or intact protein was recovered, and on the details of the fossil.
+
+**Disputed or unclear**
+- Whether the structures are really red blood cells; Schweitzer notes they are concave, whereas dinosaur cells should be dome-shaped.
+
+**Why it matters:** If confirmed, the finding would open new ways to study dinosaur biology and challenge assumptions about how long biological molecules can survive.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10923598) (center): Evidence of red blood cells seen in dinosaur fossil from Brazil
+- [The Guardian (World)](https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone) (lean-left): Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists
+
+
+## 7. North Korea denies FBI claim it was behind record Binance crypto hack
+`AI & Cybersecurity` `Korea` `Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+Kim Yo Jong called the FBI's attribution of the roughly $6.3 billion Binance hack to the North Korea-linked group TraderTraitor a 'grave political provocation' and 'absurd rhetoric.' Blockchain firms Elliptic and Chainalysis are tracing the stolen funds as they move through thousands of wallets. About $2.85 billion has been frozen or seized. Binance says it has covered about 95% of losses and is gradually reopening withdrawals. President Trump said on Saturday, 'We don't know if it's North Korea.'
+
+**Key facts**
+- Elliptic reports that hackers used about 12,000 wallets across 11 blockchains and made more than 40,000 transactions in four days.
+- About $786 million in stablecoins was converted before issuers froze the rest.
+- TraderTraitor was also blamed for the $1.5bn Bybit hack in February 2025.
+- Binance says an engineer's compromised laptop enabled the unauthorised withdrawals.
+
+**How it's being framed**
+- **Center:** CNBC, the BBC and CNA reported Pyongyang's denial alongside the FBI attribution and North Korea's record of cyber theft. CNBC focused on tracing the laundering, and CNA highlighted Trump's doubts and his overtures to Kim Jong Un.
+
+**Disputed or unclear**
+- Who carried out the hack: the FBI and analysts point to North Korea, Pyongyang denies it, and Trump has cast doubt.
+- The total stolen is reported as about $6.3bn by some outlets and exactly $6.43bn by Elliptic.
+
+**Why it matters:** It is the largest crypto theft on record and may involve state-backed financing of a sanctioned regime.
+
+**Read it yourself:**
+- [CNBC](https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html) (center): North Korea denies links to Binance hack as researchers trace stolen billions
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss) (center): North Korea denies being behind record $6.3bn Binance hack
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/north-korea-binance-hack-fbi-grave-provocation-6514311) (center): North Korea slams FBI allegations over Binance hack as 'grave' provocation
+
+
+## 8. Charlotte to extend exclusive talks with Gateway Station developer as project remains stalled
+`Charlotte Local` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Charlotte plans to extend exclusive negotiations with Charlotte Gateway Partners on Gateway Station, a planned mix of apartments and offices at a future uptown Amtrak station that has been delayed for more than a decade. Talks will continue through this year, and the new Metropolitan Public Transportation Authority is set to join as a partner in 2027. It is unclear whether the city or the MPTA will lead the project.
+
+**Key facts**
+- Phase one, including track improvements and the Amtrak platform, finished in 2022.
+- Deputy City Manager Allyson Craig called it 'the most transit-connected project in the city.'
+
+**How it's being framed**
+- **Left:** WFAE explained the plan to extend talks and the open question of who will lead the project.
+- **Center:** WCNC stressed that the timeline remains at a standstill.
+
+**Disputed or unclear**
+- Who will ultimately lead the project, and when it will be built.
+
+**Why it matters:** It is a long-delayed centrepiece of Charlotte's transit and uptown development.
+
+**Read it yourself:**
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/charlottes-gateway-station-timeline-still-at-standstill/275-648b2b91-05e3-4473-94c3-b65e94389981) (center): Charlotte's Gateway Station timeline still at standstill
+- [WFAE (Charlotte NPR)](https://www.wfae.org/2026-11-02/charlotte-plans-to-extend-exclusive-with-gateway-station-developer) (lean-left): Charlotte plans to extend exclusive with Gateway Station developer
+
+
+## 9. Chesterfield County: jail funding vote on Election Day, and two charged after dog attack
 `Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Gunfire broke out around 2 a.m. Sunday, Nov. 1, at an event center on Coddle Creek Highway in Mooresville, Iredell County, where 200-300 people were attending a party, deputies said. Four people were hospitalized; three have been released and one is in stable condition. No arrests have been made and the cause is unclear.
+Chesterfield County, South Carolina, voters decide on Tuesday whether to fund a new detention center with a penny sales tax or, if the measure fails, through a property tax increase over a longer period. The current jail is more than 50 years old and has had escapes and an inmate death under investigation. Separately, two Pageland residents each face 10 counts of allowing dangerous animals to run at large after dogs seriously injured a 50-year-old man on October 28.
 
 **Key facts**
-- 200-300 people attended the party.
-- Three victims treated and released; one stable.
-- Victims' names and ages were not released.
+- Sheriff Cambo Streater says a new jail will be built regardless of the vote's outcome.
+- The jail houses 118 inmates; retired Marine Joshua Hamilton is its new director.
+- Amanda Hope Freeman, 41, and Kenneth Dale Wroten Sr., 56, were charged in the dog attack; the victim was airlifted to Atrium Health in Charlotte.
 
 **How it's being framed**
-- **Center:** All three local outlets reported the sheriff's account, with some describing it as a Halloween party shooting.
+- **Center:** WBTV relied on the sheriff and the new jail director, who both favour the sales tax. WSOC and WCNC gave straight reports from the sheriff's office on the dog attack.
 
 **Disputed or unclear**
-- What sparked the shooting and who was responsible remain unknown.
+- The outcome of the jail funding vote.
+- The SLED investigation into the inmate death is ongoing.
 
-**Why it matters:** It is an unsolved shooting at a large gathering in the Charlotte area, and authorities are seeking information.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/4-hospitalized-after-shooting-large-party-iredell-county-deputies-say/) (center): 4 hospitalized after shooting at large party in Iredell County, deputies say
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/mooresville-halloween-party-shooting-investigation/275-1e4e89e6-d50b-4920-9a3c-9f06bf7a5336) (center): 4 shot in Mooresville on Halloween night, Iredell sheriff says
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/iredell-county/four-people-injured-after-halloween-party-shooting-in-mooresville-sheriff/) (center): Four people hospitalized after Halloween party shooting in Mooresville: Sheriff
-
-
-## 7. Karl Bushby completes 28-year walk home to Hull
-`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
-
-British adventurer Karl Bushby, 57, arrived home in Hull on Monday, ending a roughly 50,000km journey on foot that began in southern Chile in 1998. He avoided motorized transport to advance and crossed the frozen Bering Strait, swam the Caspian Sea and recently the English Channel. Visa denials, detentions, funding problems and the pandemic stretched a planned 12-year trip to 28 years. A documentary is in production and he plans a speaking tour.
-
-**Key facts**
-- About 500 people greeted him in Hull, according to DW.
-- He began in Punta Arenas, Chile, in November 1998.
-- Werner Herzog is making a documentary titled "Walk of Life," per DW.
-
-**How it's being framed**
-- **Left:** Al Jazeera focused on the emotional homecoming with his mother and the obstacles along the route.
-- **Center:** DW covered the same arc, adding family details, his rules for the trek and his worries about readjusting to normal life.
-
-**Why it matters:** It is a rare feat of endurance completed after nearly three decades.
+**Why it matters:** Local voters are choosing how to pay for a jail that officials call unsafe.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf) (center): Global pedestrian Karl Bushby returns home to UK after 28-year trek
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world) (lean-left): British adventurer Karl Bushby returns home after 28-year walk around world
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/02/new-chesterfield-county-detention-director-speaks-needs/) (center): New Chesterfield County Detention director speaks on needs
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/two-face-20-charges-after-man-seriously-injured-chesterfield-county-dog-attack/HCQYI2SNPFHGZNADEOAXTOS7N4/) (center): Two face 20 charges after man seriously injured in Chesterfield County dog attack
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/2-charged-after-dog-attack-chesterfield-county/275-e57d69e2-069f-4971-ba64-49edc93a0aa8) (center): 2 charged after dogs viciously attack man in Chesterfield County
 
 
-## 8. South Korea's Supreme Court upholds antitrust fine on Broadcom over Samsung deal
-`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 10. North Korea criticises Japan's missile build-up and joint drills with the US
+`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-South Korea's Supreme Court on Oct. 27 dismissed Broadcom's appeal, upholding an 18.6 billion won (about $13.8-13.9 million) fine imposed by the Fair Trade Commission. The regulator found Broadcom pressured Samsung into a 2020 agreement to buy at least $760 million of components a year for three years, partly by threatening to halt shipments. The ruling finalizes the FTC's sanctions.
+A commentary carried by North Korea's state news agency KCNA attacked Japan's push for 'preemptive attack' capabilities, citing the Type 25 anti-ship missile launcher Japan deployed in the October 19-29 Keen Sword exercise with the US. It warned of a 'vicious cycle' of rising regional tension.
 
 **Key facts**
-- The FTC imposed the fine in September 2023; the Seoul High Court backed it in May.
-- The regulator estimated Samsung lost at least $160 million; Samsung claimed $326.3 million.
-- Parts covered included RF front-end, Wi-Fi and Bluetooth chips.
+- The Type 25 missile system has a range of more than 1,000 km.
+- Keen Sword ran from October 19 to 29; North Korea called it the largest-ever drill of its kind.
+- The commentary also cited Japan's Type 88 launch and a Tomahawk test-firing this year.
 
 **How it's being framed**
-- **Center:** Both Korean outlets reported the ruling factually, relying on legal sources and the FTC's findings; neither quoted Broadcom.
+- **Center:** Yonhap and the Korea Herald, which ran the same Yonhap text, relayed the KCNA claims with brief context describing Japan's 'counterstrike' policy.
 
 **Disputed or unclear**
-- Broadcom's response is not reported.
+- North Korea's characterisation of Japan's capabilities as preemptive and offensive; Japan frames them as counterstrike capabilities.
 
-**Why it matters:** The ruling sets a precedent on how dominant chip suppliers can deal with major customers in Korea.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10923234) (center): Korea's top court upholds W18.6b fine on Broadcom for pressuring Samsung into unfair deal
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102012000320) (center): Top court upholds antitrust watchdog's 18.6 bln-won fine on Broadcom
-
-
-## 9. South Korea's finance minister meets Hyundai chief on EV policy and US ambassador on trade
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-Finance Minister Lee Hyoung-il met Hyundai Motor Group Executive Chair Euisun Chung before a roundtable on electric and autonomous vehicles, where they discussed tax incentives for domestically produced EVs. Lee said EVs are "the next battleground" for Korea's growth. Separately, he met US Ambassador Michelle Steel and asked her help in resolving bilateral trade issues.
-
-**Key facts**
-- The Hyundai meeting lasted about 20 minutes, per sources.
-- Industry officials called for tax deductions for domestically made EVs.
-- Lee said Korea must match advanced nations' technology within two or three years.
-
-**How it's being framed**
-- **Center:** Yonhap and the Korea Herald relayed government and source accounts without outside commentary.
-
-**Disputed or unclear**
-- No specific tax measures were announced.
-
-**Why it matters:** Possible EV tax incentives and US trade talks affect Korea's key export industries.
+**Why it matters:** It adds to rising rhetoric over military build-ups in Northeast Asia.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102011900320) (center): Finance minister, Hyundai Motor chief discuss EV policies: sources
-- [The Korea Herald](https://www.koreaherald.com/article/10922948) (center): Finance minister discusses economic ties, cooperation with US ambassador
-
-
-## 10. South Korea and India hold first economic security dialogue
-`Korea` `Asia Business & Politics` · Covered by 1 outlet (L 0 · C 1 · R 0)
-
-South Korea and India held the inaugural meeting of an economic security dialogue in Seoul, following up on an April summit. Officials discussed supply chains, advanced technology, shipbuilding, shipping and energy, and agreed to strengthen cooperation in aerospace, critical minerals and AI.
-
-**Key facts**
-- South Korea was represented by Song Ki-ho of the National Security Office; India by deputy national security adviser Pavan Kapoor.
-- The dialogue was agreed at a leaders' summit in April.
-
-**How it's being framed**
-- **Center:** Yonhap relayed the South Korean presidential office's account.
-
-**Disputed or unclear**
-- No concrete agreements were detailed.
-
-**Why it matters:** It signals deepening Korea-India ties on supply chains and strategic technology.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261102010900315) (center): S. Korea, India hold inaugural meeting of economic security dialogue
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261103004700315) (center): N. Korea slams Japan's missile reinforcement, joint drills with U.S.
+- [The Korea Herald](https://www.koreaherald.com/article/10923850) (center): N. Korea slams Japan's missile reinforcement, joint drills with US
 
 
 ---
@@ -282,5 +293,5 @@ South Korea and India held the inaugural meeting of an economic security dialogu
 
 ### What is happening with AI regulation in the US and EU?
 
-The only matching item is a Daily Caller teaser reporting a poll suggesting AI safety could affect the House majority, but it gives no details on US or EU regulatory action. (Separately, coverage of the European freezer hacks notes the EU Cyber Resilience Act's stricter product rules take effect in December 2027.)
+🆕 Only one tangential item: The Daily Caller reports an exclusive poll suggesting AI safety could influence which party wins the House, with the line 'Republicans will be fighting uphill.' Only the headline and subtitle were available, with no poll details and nothing on actual US or EU regulatory action.
 - [The Daily Caller](https://dailycaller.com/2026/11/02/exclusive-poll-battleground-house-districts-trust-democrats-republicans-regulating-artificial-intelligence-mike-lawler-cait-conley) (right): EXCLUSIVE: AI Safety Could Decide House Majority And Beyond, Poll Shows
