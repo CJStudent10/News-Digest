@@ -1,0 +1,747 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-04T11:36:00.295300+00:00",
+  "local_time": "Wednesday, November 4, 2026 · 6:36 AM EST",
+  "local_date": "Nov 4, 2026",
+  "slug": "2026-11-04-0636-morning",
+  "mode": "ai",
+  "overview": "Democrats made large gains in the US midterm elections. According to the coverage, they won control of both the House and Senate, flipped Senate seats in Texas, South Carolina, North Carolina and Michigan, and took several governorships in traditionally Republican states, while Republicans held Florida. Abroad, North Korea fired missiles while rejecting US blame for a record crypto theft, a Seoul court upheld an election-law conviction of ex-president Yoon Suk Yeol, and Indonesia arrested its former police chief over alleged wiretapping of the president.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Democrat Abdul El-Sayed defeats Mike Rogers in Michigan, becoming first Muslim US senator",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Abdul El-Sayed, a 42-year-old physician and former Detroit and Wayne County health official, defeated Republican former congressman Mike Rogers for Michigan's open Senate seat, according to AP and Decision Desk HQ projections. He will be the first Muslim member of the US Senate. El-Sayed ran on single-payer healthcare and ending US military aid to Israel. Republicans, including President Trump, cast him as too far left, and Trump called him a \"communist\" and a \"jihadist.\" In his victory speech El-Sayed accused opponents of running an Islamophobic campaign, and he is expected to seek a prominent role as Democrats debate their direction before 2028.",
+      "key_facts": [
+        "El-Sayed defeated Rogers for the seat vacated by retiring Democratic Sen. Gary Peters; Democrats have held it since 1979.",
+        "He beat Rep. Haley Stevens in the Democratic primary by about 1 percentage point; Stevens later endorsed Rogers.",
+        "AIPAC's super PAC spent about $30m in the primary trying to stop him; more than $220m in general-election ad spending was recorded by mid-October (AdImpact).",
+        "In his speech he told Vice President Vance: \"there is this delicious irony in the fact that you're constitutionally obligated to swear me in.\"",
+        "Rogers lost the 2024 Senate race to Elissa Slotkin by about 0.3 points."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and NPR presented the win as historic and a test of whether a progressive, anti-establishment candidate can win a swing state. The Guardian described the opposition campaign as largely Islamophobic and quoted heavily from his speech on gas, groceries and inclusion. NPR also noted that his Israel positions alienated some Jewish voters and mentioned his campaigning with streamer Hasan Piker and his apology over comments after a synagogue preschool attack."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios and The Hill treated the result mainly as part of the national Democratic wave and the GOP's failure to flip a long-held Democratic seat. Axios said the win shows an \"unapologetically progressive\" candidate can carry a battleground state."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Free Beacon called El-Sayed the most radical senator in US history. It focused on alleged family links to the Muslim Brotherhood, his campaigning with Hasan Piker, ads touting Tucker Carlson's support, and Stevens' endorsement of Rogers. Fox News described his speech as \"gloating\" and \"combative,\" and attributed Rogers' loss to national headwinds such as affordability, the Canada trade war and the Iran war."
+        }
+      ],
+      "disputed": [
+        "The Free Beacon reported a 52%–46% margin when the race was called; other outlets did not give figures.",
+        "The Free Beacon alleges family connections to the Muslim Brotherhood, citing posts by his half-sister; El-Sayed told NBC News his family had no such connections.",
+        "The Guardian and El-Sayed describe the opposition campaign as Islamophobic; Republicans framed it as a referendum on the Democratic left."
+      ],
+      "why": "The result will feed the Democratic Party's internal debate over whether progressive insurgents can win swing states ahead of 2028.",
+      "coverage": {
+        "left": 3,
+        "center": 2,
+        "right": 3
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "El-Sayed becomes first Muslim U.S. senator",
+          "url": "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers",
+          "published": "2026-11-04T07:34:08+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+          "published": "2026-11-04T08:42:22+00:00"
+        },
+        {
+          "source": "Washington Free Beacon",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Madness in Michigan: Muslim Brotherhood-Friendly Radical Heads to US Senate",
+          "url": "https://freebeacon.com/elections/madness-in-michigan-muslim-brotherhood-friendly-radical-heads-to-us-senate/",
+          "published": "2026-11-04T10:52:59+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live updates: Michigan’s El-Sayed, Maine’s Jackson win, boosting Democrats’ congressional majorities",
+          "url": "https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/",
+          "published": "2026-11-04T06:21:41+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+          "url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+          "published": "2026-11-04T07:28:02+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "El-Sayed mocks Trump, Vance and Rogers in gloating victory speech signaling combative tone in Senate",
+          "url": "https://www.foxnews.com/politics/el-sayed-mocks-trump-vance-rogers-gloating-victory-speech-signaling-combative-tone-senate",
+          "published": "2026-11-04T09:34:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Democrat James Talarico defeats Ken Paxton in Texas Senate race",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democratic state Rep. James Talarico, a 37-year-old former teacher and Presbyterian seminarian, defeated Republican Attorney General Ken Paxton for the Senate seat held by John Cornyn, who lost the GOP primary to Paxton. Talarico will be the first Democrat elected to the Senate from Texas since 1988. The race was the most expensive Senate contest on record, at more than $500m, with Elon Musk spending heavily for Paxton. Talarico campaigned on cost of living and Paxton's ethics record, while Paxton portrayed him as too progressive for the state. Democrat Gina Hinojosa also unseated Gov. Greg Abbott.",
+      "key_facts": [
+        "First Democrat elected to the US Senate from Texas since Lloyd Bentsen in 1988.",
+        "Total spending topped $500 million, a record for a Senate or non-presidential race.",
+        "Trump endorsed Paxton over Cornyn in the primary despite warnings from Senate GOP leaders, according to AP.",
+        "Paxton was impeached by the Texas House and acquitted by the state Senate; a federal corruption probe brought no charges.",
+        "Talarico will be the Senate's youngest member."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS (carrying AP) and The Guardian called the win historic and astonishing. They emphasised Paxton's scandals, Talarico's economic-populist, low-partisanship message and his attacks on billionaires such as Musk, and said the result could give Democrats a roadmap in tough states."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and Axios framed it as a historic breakthrough that ends a long Democratic drought. The BBC highlighted jubilant supporters, Musk's spending, two Bush family members backing Talarico, and an analyst calling Paxton an \"objectively terrible candidate.\""
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller acknowledged the historic flip and Paxton's corruption allegations, but devoted much of its coverage to Talarico's past statements on God being \"non-binary,\" transgender issues, abortion and gun control. The Free Beacon wrote mockingly about him sharing a checking account with his mother and argued he moderated his positions only for the campaign."
+        }
+      ],
+      "disputed": [
+        "Musk's spending is reported differently: the BBC says $158m to a pro-Paxton super PAC, while the Daily Caller says about $212m, including $168m to the Senate Leadership Fund.",
+        "The Free Beacon reported Talarico led by 20 points when the race was called; no other outlet gave a margin.",
+        "Talarico's fundraising totals vary by outlet (a $64m third quarter per the Daily Caller; at least $160m overall per the Free Beacon)."
+      ],
+      "why": "A Democratic Senate win in Texas reshapes assumptions about the national electoral map and Senate control.",
+      "coverage": {
+        "left": 3,
+        "center": 2,
+        "right": 3
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T05:39:36+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat James Talarico wins election to U.S. Senate from Texas",
+          "url": "https://www.pbs.org/newshour/politics/democrat-james-talarico-wins-election-to-u-s-senate-from-texas",
+          "published": "2026-11-04T04:06:18+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "James Talarico Flips Texas Senate Seat Blue For First Time In Nearly 4 Decades",
+          "url": "https://dailycaller.com/2026/11/03/james-talarico-texas-senate-race-ken-paxton",
+          "published": "2026-11-04T04:05:56+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Talarico flips Texas Senate seat in historic Democratic breakthrough",
+          "url": "https://www.axios.com/2026/11/04/texas-senate-results-talarico-paxton",
+          "published": "2026-11-04T04:08:01+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "James Talarico wins Senate race in Texas, securing historic victory – video",
+          "url": "https://www.theguardian.com/global/video/2026/nov/04/james-talarico-wins-senate-race-in-texas-securing-historic-victory-video",
+          "published": "2026-11-04T06:48:14+00:00"
+        },
+        {
+          "source": "Washington Free Beacon",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Momma, We Made It: James Talarico Wins Texas Senate Race",
+          "url": "https://freebeacon.com/elections/momma-we-made-it-james-talarico-wins-texas-senate-race/",
+          "published": "2026-11-04T04:17:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Democrat Annie Andrews defeats Sen. Darline Graham in South Carolina",
+      "topics": [
+        "Charlotte Local",
+        "US Headlines"
+      ],
+      "summary": "Pediatrician Annie Andrews, a Democrat, defeated Republican Sen. Darline Graham, who was appointed to the seat after her brother, Sen. Lindsey Graham, died unexpectedly in July. Graham won a special primary with Trump's backing, and Trump campaigned for her twice. Andrews ran on healthcare costs and affordability as a moderate willing to break with her party. Graham conceded, saying conservatives \"have work to do.\" Andrews becomes the first Democrat to win a Senate seat in the state since 1998.",
+      "key_facts": [
+        "First Democratic US Senate win in South Carolina since 1998.",
+        "Trump won the state by 18 points in 2024.",
+        "Andrews lost a 2022 House race to Rep. Nancy Mace by about 14 points.",
+        "Graham said in a primary debate: \"National security is not my thing.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS (AP) called it a stark defeat for Republicans in a state Trump won three times, and carried Andrews' victory speech."
+        },
+        {
+          "lean": "center",
+          "framing": "Charlotte stations and the BBC focused on the unusual path of the race after Lindsey Graham's death. They noted Darline Graham's inexperience and Trump's personal role in recruiting her, and quoted both candidates' election-night remarks."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller gave a straightforward account focused on polls tightening before Election Day, Andrews' background, and her attacks on Graham over Medicaid cuts, the Iran war and data centers. It did not add editorial commentary."
+        }
+      ],
+      "disputed": [
+        "Reported call times and margins differ: the Daily Caller cites an NBC call around 9:59 p.m. with Andrews at 51% to 46.8%, while AP called it at 10:39 p.m.",
+        "Final vote totals were not reported."
+      ],
+      "why": "The flip in a deep-red state signals how broad Democratic gains were in this election.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Andrews defeats Graham, becomes first Democrat to win U.S. Senate seat in SC since 1998",
+          "url": "https://www.wsoctv.com/news/local/andrews-defeats-graham-becomes-first-democrat-win-us-senate-seat-sc-since-1998/HRWQGFI2GJFEFHHM3NIFQ3PHDA/",
+          "published": "2026-11-04T04:23:01+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Democrat Annie Andrews' full victory speech after flipping South Carolina Senate seat",
+          "url": "https://www.pbs.org/newshour/politics/watch-democrat-annie-andrews-full-victory-speech-after-flipping-south-carolina-senate-seat",
+          "published": "2026-11-04T06:20:51+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Democrat Defeats Lindsey Graham’s Sister In South Carolina Senate Race",
+          "url": "https://dailycaller.com/2026/11/03/south-carolina-darline-graham-annie-andrews-2026-midterms",
+          "published": "2026-11-04T03:12:09+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "South Carolina elects Democratic senator for first time in almost three decades",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T07:32:02+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat Annie Andrews flips South Carolina Senate seat",
+          "url": "https://www.qcnews.com/news/politics/election/south-carolina-elections/graham-andrews-face-off-in-unexpectedly-close-south-carolina-senate-race/",
+          "published": "2026-11-03T21:55:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Democrats win governorships in several Republican-leaning states; Florida elects Byron Donalds",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrats won governor's races in states including Georgia, Texas, Ohio, Iowa and Wisconsin. Keisha Lance Bottoms became the first Black woman elected governor of any state. In Florida, Republican Byron Donalds won to become the state's first Black governor, and Republican Sen. Ashley Moody held her seat. Other history-making winners include Deb Haaland (New Mexico), Xavier Becerra (California), Gina Hinojosa (Texas), Amy Acton (Ohio), Marsha Blackburn (Tennessee) and Amy Klobuchar (Minnesota). Democrats also held Georgia's Senate seat with Jon Ossoff.",
+      "key_facts": [
+        "Lance Bottoms defeated Republican Rick Jackson in Georgia; AP called the race with her at 55.4% and 75% of the vote counted.",
+        "Hinojosa unseated Gov. Greg Abbott, becoming Texas' first Latina governor.",
+        "Acton defeated Vivek Ramaswamy, becoming Ohio's first woman governor.",
+        "David Crowley defeated Tom Tiffany to become Wisconsin's first Black governor.",
+        "Donalds defeated David Jolly in Florida; Democrats held all three Florida House districts redrawn to favor Republicans, per the BBC."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian called the results a repudiation of Trump, corruption and billionaire influence, and said they could reset the 2028 map. NPR organised the coverage around historic firsts for women, Black, Latino and Native American candidates. Al Jazeera highlighted Georgia's first Black woman governor."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC led with Florida Republicans holding off Democrats and electing the state's first Black governor, set against wider Democratic gains."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller reported Georgia results factually, with vote shares and the candidates' platforms. It noted Bottoms' progressive agenda and Ossoff's large spending advantage, and described Ossoff as a self-styled pragmatist who still backs ending the filibuster."
+        }
+      ],
+      "disputed": [
+        "Arizona and Alaska were still being counted when reported, with Democrats Katie Hobbs and Jonathan Kreiss-Tomkins leading.",
+        "It was unclear whether Democrats would win a majority of governorships nationwide."
+      ],
+      "why": "Governors shape state policy and election administration, and these results could affect the 2028 presidential contest.",
+      "coverage": {
+        "left": 3,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Florida Republicans fend off Democrats as state elects first black governor",
+          "url": "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T07:12:21+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrats aim to sweep most US governor elections after wins in key states",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
+          "published": "2026-11-04T08:02:46+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Dems Win Georgia Gov And Senate Race, May Split House Seats",
+          "url": "https://dailycaller.com/2026/11/03/lance-bottoms-ossoff-win-georgia-governor-and-senate-2026-midterms",
+          "published": "2026-11-04T02:28:36+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "These 9 candidates for governor just made history",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026",
+          "published": "2026-11-04T10:00:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Georgia elects first Black woman governor in US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor",
+          "published": "2026-11-04T08:19:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "North Korea fires missiles as it rejects US claim it stole $6bn from Binance",
+      "topics": [
+        "Korea",
+        "AI & Cybersecurity"
+      ],
+      "summary": "North Korea fired several missiles toward the sea off its east coast on Wednesday, according to South Korea's military. The launches came hours after Kim Yo Jong, sister of leader Kim Jong Un, again rejected an FBI finding that North Korean hackers stole more than $6 billion in cryptocurrency from Binance. She said Pyongyang sees no need for talks with Washington unless the US drops its \"hostile policy,\" though she did not rule out dialogue entirely. The launches follow a run of weapons tests and tension with Seoul over a border landmine blast. Trump has said he may meet Kim Jong Un.",
+      "key_facts": [
+        "The FBI attributed the Binance theft to the TraderTraitor group, which was also blamed for the $1.5bn Bybit hack in 2025.",
+        "The missiles were launched from the Sondok area and are believed to have flown less than 300 km, per Yonhap.",
+        "Kim Yo Jong said: \"The choice for peace includes dialogue of course, but this is not surely equated with national interests for us.\"",
+        "If confirmed as ballistic, this would be North Korea's third ballistic launch in a week, per Yonhap."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Korea Herald, CNA and Yonhap reported Kim Yo Jong's statements and the military details in a factual way, and set them against the prospect of renewed Trump–Kim diplomacy and the landmine dispute."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post covered the same facts. It cited observers who see the launches as pressure on the US to make concessions, and noted North Korea's new large warship."
+        }
+      ],
+      "disputed": [
+        "North Korea denies responsibility for the Binance hack.",
+        "The type of missile is unconfirmed; one analyst suggested a Hwasong-11 Ra tactical ballistic missile.",
+        "North Korea denies planting the border mines that a joint Seoul–UN investigation attributed to it."
+      ],
+      "why": "The episode combines a record crypto theft with rising military tension, complicating any US–North Korea diplomacy.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korea rejects Binance hack accusation, but doesn't rule out talks",
+          "url": "https://www.koreaherald.com/article/10925553",
+          "published": "2026-11-04T04:01:58+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+          "url": "https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+          "published": "2026-11-04T08:59:13+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korea fires several missiles into Sea of Japan",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korea-fires-missiles-sea-japan-6522721",
+          "published": "2026-11-04T07:27:36+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(2nd LD) N. Korea fires multiple missiles toward East Sea: JCS",
+          "url": "https://en.yna.co.kr/view/AEN20261104005551315",
+          "published": "2026-11-04T06:04:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Google's school AI policy draws criticism over search access",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Google announced new controls letting K-12 schools turn its Gemini chatbot, Gemini Notebook and search on or off individually, with each off by default. The company said this gives schools more control. Reports that schools rejecting AI entirely would lose access to Google search drew criticism from Sen. Bernie Sanders, New York Mayor Zohran Mamdani, former FTC chair Lina Khan and children's advocates. Google said it is changing search to offer step-by-step guided learning, and an executive said \"search and AI are deeply integrated.\"",
+      "key_facts": [
+        "Google says 150 million students and teachers use Google Classroom worldwide.",
+        "Gemini was switched on for many K-12 students in August, prompting an outcry.",
+        "Khan wrote that the policy shows \"the danger of allowing an unregulated monopolist to control an essential service.\"",
+        "Sens. Blumenthal and Hawley launched an inquiry last month into Google's AI push in classrooms."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC framed the story as Google \"playing defense\" against political backlash, quoted critics and Google's response, and placed it within antitrust and child-safety controversies across the tech industry."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post stated plainly that students will lose search unless their schools opt into AI. It emphasised criticism from educators, Khan and the advocacy group Fairplay, along with concerns about cheating and children's brain development."
+        }
+      ],
+      "disputed": [
+        "Google's response did not explicitly say whether opting out of AI removes search access; CNBC attributes that claim to a New York Times report, while the Post states it as fact."
+      ],
+      "why": "The dispute touches on how much control dominant tech firms have over students' tools and access to information.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Google responds to political backlash over removing search from schools that ban AI",
+          "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+          "published": "2026-11-04T01:07:01+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Google will cut off search access for students at schools that reject AI",
+          "url": "https://nypost.com/2026/11/04/tech/google-will-cut-schools-from-search-access-if-they-reject-ai-gemini/",
+          "published": "2026-11-04T09:15:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Seoul appeals court upholds ex-president Yoon's election-law conviction",
+      "topics": [
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "The Seoul High Court upheld former President Yoon Suk Yeol's 18-month suspended sentence for making false statements during his 2022 campaign. The false statements concerned a lawyer referral and whether he and his wife met a shaman together. If the Supreme Court upholds the ruling, Yoon's 2022 election would be nullified and the People Power Party would have to repay about 39.7 billion won in state campaign reimbursements. Yoon's lawyers called the ruling unjust and plan to appeal. He is already serving a life sentence for insurrection over his 2024 martial law bid, which is under appeal.",
+      "key_facts": [
+        "The sentence is 18 months in prison, suspended for three years.",
+        "The possible repayment is 39.7 billion won, roughly one-third of the PPP's assets per election filings.",
+        "The court said voters' right to make a proper choice was infringed."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNA, Yonhap and the Korea Herald gave consistent factual accounts, emphasising the financial risk to the opposition PPP and Yoon's wider legal troubles."
+        }
+      ],
+      "disputed": [
+        "The dollar conversion of the repayment differs: $29.6m (CNA, Yonhap) versus $27m (Korea Herald).",
+        "The Supreme Court appeal is pending."
+      ],
+      "why": "A final ruling could invalidate a presidential election result and severely strain South Korea's main opposition party financially.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Seoul court upholds ex-president Yoon's election conviction",
+          "url": "https://www.channelnewsasia.com/east-asia/south-korea-court-yoon-suk-yeol-election-conviction-6523166",
+          "published": "2026-11-04T08:28:01+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(2nd LD) Ex-President Yoon's election law conviction upheld; PPP at risk of returning US$30 mln in campaign funds",
+          "url": "https://en.yna.co.kr/view/AEN20261104001652315",
+          "published": "2026-11-04T06:53:45+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Court upholds Yoon's sentence that could cost opposition party W39.7b",
+          "url": "https://www.koreaherald.com/article/10925821",
+          "published": "2026-11-04T06:04:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Indonesia arrests former police chief accused of wiretapping the president",
+      "topics": [
+        "US Headlines",
+        "Asia Business & Politics"
+      ],
+      "summary": "Indonesia's former national police chief Listyo Sigit Prabowo, who had recently become the president's chief of staff, was arrested along with two senior police officers. They are accused of illegally wiretapping President Prabowo Subianto, ministers, journalists and others since 2025. A presidential spokesman said the acts may amount to treason, which can carry the death penalty. Officials say the motive is unknown, and Listyo has not commented. The military deployed troops to Jakarta at the same time, calling it routine.",
+      "key_facts": [
+        "Police say the surveillance was carried out \"without any legal basis.\"",
+        "The suspects allegedly ordered deletion of intercepted files last month, per Al Jazeera.",
+        "The president and Listyo are not related.",
+        "Prabowo's approval ratings have fallen to a record low amid protests, per CNA."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera focused on the dismissal, the officials' quotes and the alleged cover-up, and reported the troop deployment alongside the military's statement that it was routine."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA placed the arrests in the context of mounting political pressure on Prabowo, including protests, falling approval ratings and repeated cabinet reshuffles, and quoted an analyst saying there was no evidence of imminent military intervention."
+        }
+      ],
+      "disputed": [
+        "The motive behind the alleged wiretapping is not known.",
+        "The size of the troop deployment is reported as \"thousands\" (CNA) or \"more than 20,000\" (Al Jazeera), and it is unclear whether it is linked to the arrests.",
+        "Listyo has not responded to the allegations."
+      ],
+      "why": "The case raises questions about stability and civil liberties in a major Southeast Asian democracy.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Indonesia government says ex-police chief may have committed 'treason' by wiretapping president",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-listyo-sigit-prabowo-treason-wiretapping-6521676",
+          "published": "2026-11-04T06:40:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Indonesian president’s chief of staff dismissed over alleged wiretapping",
+          "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged",
+          "published": "2026-11-04T10:07:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Roy Cooper wins North Carolina Senate seat",
+      "topics": [
+        "Charlotte Local",
+        "US Headlines"
+      ],
+      "summary": "Former Democratic Gov. Roy Cooper defeated Republican Michael Whatley, a former Republican National Committee chair and Trump's pick, for the seat held by retiring Sen. Thom Tillis. AP called the race shortly after the first results were released. Cooper ran a low-key campaign focused on lowering costs and said he would work to end the Iran war, lower gas prices and protect Medicaid expansion. He will be the first Democrat to win a North Carolina Senate race since Kay Hagan in 2008.",
+      "key_facts": [
+        "AP called the race around 8:20 p.m.",
+        "Cooper has never lost a statewide election in North Carolina.",
+        "He won or overperformed in suburban counties including Cabarrus, Union and Gaston."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local Charlotte stations and Axios described a dominant, expected win driven by Cooper's name recognition and cost-of-living focus, and noted the contentious ads exchanged by both campaigns."
+        }
+      ],
+      "disputed": [],
+      "why": "The flip contributed to Democrats taking control of the Senate.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Roy Cooper wins U.S. Senate race in North Carolina after contentious campaign",
+          "url": "https://www.wsoctv.com/news/local/roy-cooper-wins-us-senate-race-north-carolina-after-contentious-campaign/QPMEL3RGQRB5ZL26CEOEDGR3MA/",
+          "published": "2026-11-04T03:23:02+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat Roy Cooper flips North Carolina Senate seat",
+          "url": "https://www.axios.com/2026/11/04/nc-senate-results-cooper-whatley",
+          "published": "2026-11-04T01:28:29+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Former Gov. Roy Cooper defeats Michael Whatley in NC Senate election",
+          "url": "https://www.qcnews.com/news/politics/election/north-carolina-elections/former-gov-roy-cooper-faces-off-against-republican-michael-whatley-in-nc-u-s-senate-race/",
+          "published": "2026-11-03T22:39:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "South Korea fines banks and brokerages about 370 billion won over Hong Kong-linked products",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "South Korea's Financial Services Commission fined seven banks and six securities firms for mis-selling equity-linked securities tied to Hong Kong's H Index, which caused heavy investor losses when the index fell in early 2024. Regulators found the firms failed to explain risks and check whether the products suited customers. The fines are a record but far below earlier proposals, which regulators reduced to account for compensation already paid to investors and for court rulings. The firms could challenge the fines in court, though the Korea Herald says the industry is expected to accept them.",
+      "key_facts": [
+        "KB Kookmin Bank received the largest fine, about 172–173 billion won, followed by Hana Bank at about 92.5 billion won.",
+        "The FSS had earlier proposed about 600 billion won for the banks.",
+        "Banks and brokerages sold 19.3 trillion won of the products from 2021."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald and Yonhap reported the fines factually, emphasising the sharp reduction from earlier proposals and the compensation already paid by the banks."
+        }
+      ],
+      "disputed": [
+        "The total is reported as 374.6 billion won (Korea Herald) or about 370 billion won (Yonhap).",
+        "The original proposal is described as over 1 trillion won (Korea Herald) or 1.4 trillion won (Yonhap)."
+      ],
+      "why": "This is the first major test of South Korea's financial consumer protection law against large institutions.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Banks, brokerages face record W374.6b penalties over Hong Kong ELS",
+          "url": "https://www.koreaherald.com/article/10926075",
+          "published": "2026-11-04T08:54:46+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Regulator finalizes 370 bln-won penalties on banks, securities firms over mis-selling of HK-tied derivatives",
+          "url": "https://en.yna.co.kr/view/AEN20261104008700320",
+          "published": "2026-11-04T07:57:09+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "The Guardian reports that the US dollar fell to a one-month low after Democrats won control of the House and Senate. It says investors fear stricter AI regulation could slow growth, and that investors moved into Treasuries in anticipation of political gridlock. A separate Guardian piece said US tech stocks recovered on Tuesday after an AI-spending selloff, with investors expecting Democratic gains to bring more AI regulation. Separately, CNBC noted that Sens. Blumenthal and Hawley opened an inquiry into Google's push of AI into classrooms. None of the articles addressed EU regulation.",
+      "links": [
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US dollar slides after Democrats’ midterm election win as growth fears rise",
+          "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+          "published": "2026-11-04T09:55:22+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US tech stocks recover after selloff spooks investors over AI spending",
+          "url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+          "published": "2026-11-03T22:18:45+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 9,
+    "center": 21,
+    "right": 8
+  },
+  "stats": {
+    "articles": 577,
+    "stories_found": 386,
+    "sources_ok": 38,
+    "sources_total": 39,
+    "failed": [
+      "Newsweek"
+    ]
+  }
+}

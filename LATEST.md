@@ -1,286 +1,288 @@
-# My Daily Brief: Evening edition
-_Tuesday, November 3, 2026 · 9:44 PM EST · 600 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Wednesday, November 4, 2026 · 6:36 AM EST · 577 articles from 38 outlets · summaries by Claude_
 
-> US midterm results dominate this edition. Democrats flipped a North Carolina Senate seat and a western North Carolina House seat, and held Senate seats in Georgia and New Hampshire, while Republican Byron Donalds won Florida's governorship. Abroad, Binance published its account of a $6 billion-plus crypto theft the FBI blames on North Korea, Pyongyang fired another projectile, and Canva announced a restructuring affecting 22% of its staff.
+> Democrats made large gains in the US midterm elections. According to the coverage, they won control of both the House and Senate, flipped Senate seats in Texas, South Carolina, North Carolina and Michigan, and took several governorships in traditionally Republican states, while Republicans held Florida. Abroad, North Korea fired missiles while rejecting US blame for a record crypto theft, a Seoul court upheld an election-law conviction of ex-president Yoon Suk Yeol, and Indonesia arrested its former police chief over alleged wiretapping of the president.
 
-**Sources linked in this edition:** 13 left · 20 center · 9 right
+**Sources linked in this edition:** 9 left · 21 center · 8 right
 
 ---
 
-## 1. Roy Cooper wins North Carolina Senate race, flipping a Republican-held seat
-`Charlotte Local` `US Headlines` · Covered by 13 outlets (L 4 · C 6 · R 3)
+## 1. Democrat Abdul El-Sayed defeats Mike Rogers in Michigan, becoming first Muslim US senator
+`US Headlines` · Covered by 8 outlets (L 3 · C 2 · R 3)
 
-Former Democratic Gov. Roy Cooper defeated Republican Michael Whatley, a former RNC chair recruited by President Trump, for the seat being vacated by retiring GOP Sen. Thom Tillis. Outlets described it as Democrats' first Senate flip of the night and a step toward their goal of retaking the chamber. Cooper focused his campaign on cost of living and health care and promised to be an "independent" senator. Major outside groups on both sides had pulled back spending weeks earlier as Cooper's polling lead held. Democrats still need to net more Republican-held seats to win a majority.
+Democrat Abdul El-Sayed, a 42-year-old physician and former Detroit and Wayne County health official, defeated Republican former congressman Mike Rogers for Michigan's open Senate seat, according to AP and Decision Desk HQ projections. He will be the first Muslim member of the US Senate. El-Sayed ran on single-payer healthcare and ending US military aid to Israel. Republicans, including President Trump, cast him as too far left, and Trump called him a "communist" and a "jihadist." In his victory speech El-Sayed accused opponents of running an Islamophobic campaign, and he is expected to seek a prominent role as Democrats debate their direction before 2028.
 
 **Key facts**
-- The AP called the race for Cooper at about 8:23 p.m. ET on Nov. 3.
-- Early returns showed Cooper with roughly 66% to Whatley's 32%, with a little over half the vote counted.
-- It was Cooper's seventh straight statewide win. North Carolina had not elected a Democrat to the Senate since 2008.
-- Republicans entered the election with a 53-seat Senate majority.
+- El-Sayed defeated Rogers for the seat vacated by retiring Democratic Sen. Gary Peters; Democrats have held it since 1979.
+- He beat Rep. Haley Stevens in the Democratic primary by about 1 percentage point; Stevens later endorsed Rogers.
+- AIPAC's super PAC spent about $30m in the primary trying to stop him; more than $220m in general-election ad spending was recorded by mid-October (AdImpact).
+- In his speech he told Vice President Vance: "there is this delicious irony in the fact that you're constitutionally obligated to swear me in."
+- Rogers lost the 2024 Senate race to Elissa Slotkin by about 0.3 points.
 
 **How it's being framed**
-- **Left:** The Guardian placed the win within a broader Democratic push for the Senate, which it linked to Trump's unpopularity over the economy, Iran and immigration. It stressed what Senate control would let Democrats do: block bills, issue subpoenas and reject judicial nominees. PBS/AP focused on the victory party and quoted Cooper on tariffs and the cost of fuel and fertilizer "because of this never-ending war." It also quoted Gov. Josh Stein calling the result "competence over chaos."
-- **Center:** Axios and Queen City News gave straightforward results coverage. Axios emphasized Cooper's popularity, his name recognition and the fact that he has never lost an election.
-- **Right:** Fox News and the Washington Examiner covered the race as a clear Democratic win. They noted that GOP groups had pulled out early and that Trump appeared at a rally to concede Cooper would likely win. The Examiner quoted Tillis saying Whatley's "patently partisan resume" hurt him in a year it called a rebuke of Trump. It also noted that Republicans had tried to tie Cooper's tenure to rising crime. Fox covered Lara Trump's decision not to run.
+- **Left:** The Guardian and NPR presented the win as historic and a test of whether a progressive, anti-establishment candidate can win a swing state. The Guardian described the opposition campaign as largely Islamophobic and quoted heavily from his speech on gas, groceries and inclusion. NPR also noted that his Israel positions alienated some Jewish voters and mentioned his campaigning with streamer Hasan Piker and his apology over comments after a synagogue preschool attack.
+- **Center:** Axios and The Hill treated the result mainly as part of the national Democratic wave and the GOP's failure to flip a long-held Democratic seat. Axios said the win shows an "unapologetically progressive" candidate can carry a battleground state.
+- **Right:** The Washington Free Beacon called El-Sayed the most radical senator in US history. It focused on alleged family links to the Muslim Brotherhood, his campaigning with Hasan Piker, ads touting Tucker Carlson's support, and Stevens' endorsement of Rogers. Fox News described his speech as "gloating" and "combative," and attributed Rogers' loss to national headwinds such as affordability, the Canada trade war and the Iran war.
 
 **Disputed or unclear**
-- Partial vote shares differ slightly between Fox (66.4% to 32.0%) and the Washington Examiner (66.8% to 31.6%); final margins were not yet reported.
-- Whether the result reflects a broader national rebuke of Trump is an interpretation offered by some outlets and by Tillis, not a settled fact.
+- The Free Beacon reported a 52%–46% margin when the race was called; other outlets did not give figures.
+- The Free Beacon alleges family connections to the Muslim Brotherhood, citing posts by his half-sister; El-Sayed told NBC News his family had no such connections.
+- The Guardian and El-Sayed describe the opposition campaign as Islamophobic; Republicans framed it as a referendum on the Democratic left.
 
-**Why it matters:** The flip narrows the path Republicans need to keep control of the Senate for the last two years of Trump's term.
+**Why it matters:** The result will feed the Democratic Party's internal debate over whether progressive insurgents can win swing states ahead of 2028.
 
 **Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers) (center): El-Sayed becomes first Muslim U.S. senator
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate) (lean-left): Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator
+- [Washington Free Beacon](https://freebeacon.com/elections/madness-in-michigan-muslim-brotherhood-friendly-radical-heads-to-us-senate/) (right): Madness in Michigan: Muslim Brotherhood-Friendly Radical Heads to US Senate
+- [The Hill](https://thehill.com/homenews/campaign/6190941-live-updates-trump-midterm-elections-2026/) (center): Live updates: Michigan’s El-Sayed, Maine’s Jackson win, boosting Democrats’ congressional majorities
+- [NPR](https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers) (lean-left): Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race
+- [Fox News](https://www.foxnews.com/politics/el-sayed-mocks-trump-vance-rogers-gloating-victory-speech-signaling-combative-tone-senate) (right): El-Sayed mocks Trump, Vance and Rogers in gloating victory speech signaling combative tone in Senate
+
+
+## 2. Democrat James Talarico defeats Ken Paxton in Texas Senate race
+`US Headlines` · Covered by 8 outlets (L 3 · C 2 · R 3)
+
+Democratic state Rep. James Talarico, a 37-year-old former teacher and Presbyterian seminarian, defeated Republican Attorney General Ken Paxton for the Senate seat held by John Cornyn, who lost the GOP primary to Paxton. Talarico will be the first Democrat elected to the Senate from Texas since 1988. The race was the most expensive Senate contest on record, at more than $500m, with Elon Musk spending heavily for Paxton. Talarico campaigned on cost of living and Paxton's ethics record, while Paxton portrayed him as too progressive for the state. Democrat Gina Hinojosa also unseated Gov. Greg Abbott.
+
+**Key facts**
+- First Democrat elected to the US Senate from Texas since Lloyd Bentsen in 1988.
+- Total spending topped $500 million, a record for a Senate or non-presidential race.
+- Trump endorsed Paxton over Cornyn in the primary despite warnings from Senate GOP leaders, according to AP.
+- Paxton was impeached by the Texas House and acquitted by the state Senate; a federal corruption probe brought no charges.
+- Talarico will be the Senate's youngest member.
+
+**How it's being framed**
+- **Left:** PBS (carrying AP) and The Guardian called the win historic and astonishing. They emphasised Paxton's scandals, Talarico's economic-populist, low-partisanship message and his attacks on billionaires such as Musk, and said the result could give Democrats a roadmap in tough states.
+- **Center:** The BBC and Axios framed it as a historic breakthrough that ends a long Democratic drought. The BBC highlighted jubilant supporters, Musk's spending, two Bush family members backing Talarico, and an analyst calling Paxton an "objectively terrible candidate."
+- **Right:** The Daily Caller acknowledged the historic flip and Paxton's corruption allegations, but devoted much of its coverage to Talarico's past statements on God being "non-binary," transgender issues, abortion and gun control. The Free Beacon wrote mockingly about him sharing a checking account with his mother and argued he moderated his positions only for the campaign.
+
+**Disputed or unclear**
+- Musk's spending is reported differently: the BBC says $158m to a pro-Paxton super PAC, while the Daily Caller says about $212m, including $168m to the Senate Leadership Fund.
+- The Free Beacon reported Talarico led by 20 points when the race was called; no other outlet gave a margin.
+- Talarico's fundraising totals vary by outlet (a $64m third quarter per the Daily Caller; at least $160m overall per the Free Beacon).
+
+**Why it matters:** A Democratic Senate win in Texas reshapes assumptions about the national electoral map and Senate control.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss) (center): James Talarico becomes first Democrat to win Texas Senate seat since 1988
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/democrat-james-talarico-wins-election-to-u-s-senate-from-texas) (lean-left): Democrat James Talarico wins election to U.S. Senate from Texas
+- [The Daily Caller](https://dailycaller.com/2026/11/03/james-talarico-texas-senate-race-ken-paxton) (right): James Talarico Flips Texas Senate Seat Blue For First Time In Nearly 4 Decades
+- [Axios](https://www.axios.com/2026/11/04/texas-senate-results-talarico-paxton) (center): Talarico flips Texas Senate seat in historic Democratic breakthrough
+- [The Guardian (US)](https://www.theguardian.com/global/video/2026/nov/04/james-talarico-wins-senate-race-in-texas-securing-historic-victory-video) (lean-left): James Talarico wins Senate race in Texas, securing historic victory – video
+- [Washington Free Beacon](https://freebeacon.com/elections/momma-we-made-it-james-talarico-wins-texas-senate-race/) (right): Momma, We Made It: James Talarico Wins Texas Senate Race
+
+
+## 3. Democrat Annie Andrews defeats Sen. Darline Graham in South Carolina
+`Charlotte Local` `US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
+
+Pediatrician Annie Andrews, a Democrat, defeated Republican Sen. Darline Graham, who was appointed to the seat after her brother, Sen. Lindsey Graham, died unexpectedly in July. Graham won a special primary with Trump's backing, and Trump campaigned for her twice. Andrews ran on healthcare costs and affordability as a moderate willing to break with her party. Graham conceded, saying conservatives "have work to do." Andrews becomes the first Democrat to win a Senate seat in the state since 1998.
+
+**Key facts**
+- First Democratic US Senate win in South Carolina since 1998.
+- Trump won the state by 18 points in 2024.
+- Andrews lost a 2022 House race to Rep. Nancy Mace by about 14 points.
+- Graham said in a primary debate: "National security is not my thing."
+
+**How it's being framed**
+- **Left:** PBS (AP) called it a stark defeat for Republicans in a state Trump won three times, and carried Andrews' victory speech.
+- **Center:** Charlotte stations and the BBC focused on the unusual path of the race after Lindsey Graham's death. They noted Darline Graham's inexperience and Trump's personal role in recruiting her, and quoted both candidates' election-night remarks.
+- **Right:** The Daily Caller gave a straightforward account focused on polls tightening before Election Day, Andrews' background, and her attacks on Graham over Medicaid cuts, the Iran war and data centers. It did not add editorial commentary.
+
+**Disputed or unclear**
+- Reported call times and margins differ: the Daily Caller cites an NBC call around 9:59 p.m. with Andrews at 51% to 46.8%, while AP called it at 10:39 p.m.
+- Final vote totals were not reported.
+
+**Why it matters:** The flip in a deep-red state signals how broad Democratic gains were in this election.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/andrews-defeats-graham-becomes-first-democrat-win-us-senate-seat-sc-since-1998/HRWQGFI2GJFEFHHM3NIFQ3PHDA/) (center): Andrews defeats Graham, becomes first Democrat to win U.S. Senate seat in SC since 1998
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-democrat-annie-andrews-full-victory-speech-after-flipping-south-carolina-senate-seat) (lean-left): WATCH: Democrat Annie Andrews' full victory speech after flipping South Carolina Senate seat
+- [The Daily Caller](https://dailycaller.com/2026/11/03/south-carolina-darline-graham-annie-andrews-2026-midterms) (right): Democrat Defeats Lindsey Graham’s Sister In South Carolina Senate Race
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss) (center): South Carolina elects Democratic senator for first time in almost three decades
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/south-carolina-elections/graham-andrews-face-off-in-unexpectedly-close-south-carolina-senate-race/) (center): Democrat Annie Andrews flips South Carolina Senate seat
+
+
+## 4. Democrats win governorships in several Republican-leaning states; Florida elects Byron Donalds
+`US Headlines` · Covered by 5 outlets (L 3 · C 1 · R 1)
+
+Democrats won governor's races in states including Georgia, Texas, Ohio, Iowa and Wisconsin. Keisha Lance Bottoms became the first Black woman elected governor of any state. In Florida, Republican Byron Donalds won to become the state's first Black governor, and Republican Sen. Ashley Moody held her seat. Other history-making winners include Deb Haaland (New Mexico), Xavier Becerra (California), Gina Hinojosa (Texas), Amy Acton (Ohio), Marsha Blackburn (Tennessee) and Amy Klobuchar (Minnesota). Democrats also held Georgia's Senate seat with Jon Ossoff.
+
+**Key facts**
+- Lance Bottoms defeated Republican Rick Jackson in Georgia; AP called the race with her at 55.4% and 75% of the vote counted.
+- Hinojosa unseated Gov. Greg Abbott, becoming Texas' first Latina governor.
+- Acton defeated Vivek Ramaswamy, becoming Ohio's first woman governor.
+- David Crowley defeated Tom Tiffany to become Wisconsin's first Black governor.
+- Donalds defeated David Jolly in Florida; Democrats held all three Florida House districts redrawn to favor Republicans, per the BBC.
+
+**How it's being framed**
+- **Left:** The Guardian called the results a repudiation of Trump, corruption and billionaire influence, and said they could reset the 2028 map. NPR organised the coverage around historic firsts for women, Black, Latino and Native American candidates. Al Jazeera highlighted Georgia's first Black woman governor.
+- **Center:** The BBC led with Florida Republicans holding off Democrats and electing the state's first Black governor, set against wider Democratic gains.
+- **Right:** The Daily Caller reported Georgia results factually, with vote shares and the candidates' platforms. It noted Bottoms' progressive agenda and Ossoff's large spending advantage, and described Ossoff as a self-styled pragmatist who still backs ending the filibuster.
+
+**Disputed or unclear**
+- Arizona and Alaska were still being counted when reported, with Democrats Katie Hobbs and Jonathan Kreiss-Tomkins leading.
+- It was unclear whether Democrats would win a majority of governorships nationwide.
+
+**Why it matters:** Governors shape state policy and election administration, and these results could affect the 2028 presidential contest.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss) (center): Florida Republicans fend off Democrats as state elects first black governor
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins) (lean-left): Democrats aim to sweep most US governor elections after wins in key states
+- [The Daily Caller](https://dailycaller.com/2026/11/03/lance-bottoms-ossoff-win-georgia-governor-and-senate-2026-midterms) (right): Dems Win Georgia Gov And Senate Race, May Split House Seats
+- [NPR](https://www.npr.org/2026/11/04/nx-s1-6028546/governor-candidates-history-election-2026) (lean-left): These 9 candidates for governor just made history
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor) (lean-left): Georgia elects first Black woman governor in US
+
+
+## 5. North Korea fires missiles as it rejects US claim it stole $6bn from Binance
+`Korea` `AI & Cybersecurity` · Covered by 4 outlets (L 0 · C 3 · R 1)
+
+North Korea fired several missiles toward the sea off its east coast on Wednesday, according to South Korea's military. The launches came hours after Kim Yo Jong, sister of leader Kim Jong Un, again rejected an FBI finding that North Korean hackers stole more than $6 billion in cryptocurrency from Binance. She said Pyongyang sees no need for talks with Washington unless the US drops its "hostile policy," though she did not rule out dialogue entirely. The launches follow a run of weapons tests and tension with Seoul over a border landmine blast. Trump has said he may meet Kim Jong Un.
+
+**Key facts**
+- The FBI attributed the Binance theft to the TraderTraitor group, which was also blamed for the $1.5bn Bybit hack in 2025.
+- The missiles were launched from the Sondok area and are believed to have flown less than 300 km, per Yonhap.
+- Kim Yo Jong said: "The choice for peace includes dialogue of course, but this is not surely equated with national interests for us."
+- If confirmed as ballistic, this would be North Korea's third ballistic launch in a week, per Yonhap.
+
+**How it's being framed**
+- **Center:** Korea Herald, CNA and Yonhap reported Kim Yo Jong's statements and the military details in a factual way, and set them against the prospect of renewed Trump–Kim diplomacy and the landmine dispute.
+- **Right:** The New York Post covered the same facts. It cited observers who see the launches as pressure on the US to make concessions, and noted North Korea's new large warship.
+
+**Disputed or unclear**
+- North Korea denies responsibility for the Binance hack.
+- The type of missile is unconfirmed; one analyst suggested a Hwasong-11 Ra tactical ballistic missile.
+- North Korea denies planting the border mines that a joint Seoul–UN investigation attributed to it.
+
+**Why it matters:** The episode combines a record crypto theft with rising military tension, complicating any US–North Korea diplomacy.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10925553) (center): North Korea rejects Binance hack accusation, but doesn't rule out talks
+- [New York Post](https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/) (lean-right): North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/north-korea-fires-missiles-sea-japan-6522721) (center): North Korea fires several missiles into Sea of Japan
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261104005551315) (center): (2nd LD) N. Korea fires multiple missiles toward East Sea: JCS
+
+
+## 6. Google's school AI policy draws criticism over search access
+`AI & Cybersecurity` · Covered by 2 outlets (L 0 · C 1 · R 1)
+
+Google announced new controls letting K-12 schools turn its Gemini chatbot, Gemini Notebook and search on or off individually, with each off by default. The company said this gives schools more control. Reports that schools rejecting AI entirely would lose access to Google search drew criticism from Sen. Bernie Sanders, New York Mayor Zohran Mamdani, former FTC chair Lina Khan and children's advocates. Google said it is changing search to offer step-by-step guided learning, and an executive said "search and AI are deeply integrated."
+
+**Key facts**
+- Google says 150 million students and teachers use Google Classroom worldwide.
+- Gemini was switched on for many K-12 students in August, prompting an outcry.
+- Khan wrote that the policy shows "the danger of allowing an unregulated monopolist to control an essential service."
+- Sens. Blumenthal and Hawley launched an inquiry last month into Google's AI push in classrooms.
+
+**How it's being framed**
+- **Center:** CNBC framed the story as Google "playing defense" against political backlash, quoted critics and Google's response, and placed it within antitrust and child-safety controversies across the tech industry.
+- **Right:** The New York Post stated plainly that students will lose search unless their schools opt into AI. It emphasised criticism from educators, Khan and the advocacy group Fairplay, along with concerns about cheating and children's brain development.
+
+**Disputed or unclear**
+- Google's response did not explicitly say whether opting out of AI removes search access; CNBC attributes that claim to a New York Times report, while the Post states it as fact.
+
+**Why it matters:** The dispute touches on how much control dominant tech firms have over students' tools and access to information.
+
+**Read it yourself:**
+- [CNBC](https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html) (center): Google responds to political backlash over removing search from schools that ban AI
+- [New York Post](https://nypost.com/2026/11/04/tech/google-will-cut-schools-from-search-access-if-they-reject-ai-gemini/) (lean-right): Google will cut off search access for students at schools that reject AI
+
+
+## 7. Seoul appeals court upholds ex-president Yoon's election-law conviction
+`Korea` `US Headlines` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+The Seoul High Court upheld former President Yoon Suk Yeol's 18-month suspended sentence for making false statements during his 2022 campaign. The false statements concerned a lawyer referral and whether he and his wife met a shaman together. If the Supreme Court upholds the ruling, Yoon's 2022 election would be nullified and the People Power Party would have to repay about 39.7 billion won in state campaign reimbursements. Yoon's lawyers called the ruling unjust and plan to appeal. He is already serving a life sentence for insurrection over his 2024 martial law bid, which is under appeal.
+
+**Key facts**
+- The sentence is 18 months in prison, suspended for three years.
+- The possible repayment is 39.7 billion won, roughly one-third of the PPP's assets per election filings.
+- The court said voters' right to make a proper choice was infringed.
+
+**How it's being framed**
+- **Center:** CNA, Yonhap and the Korea Herald gave consistent factual accounts, emphasising the financial risk to the opposition PPP and Yoon's wider legal troubles.
+
+**Disputed or unclear**
+- The dollar conversion of the repayment differs: $29.6m (CNA, Yonhap) versus $27m (Korea Herald).
+- The Supreme Court appeal is pending.
+
+**Why it matters:** A final ruling could invalidate a presidential election result and severely strain South Korea's main opposition party financially.
+
+**Read it yourself:**
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/south-korea-court-yoon-suk-yeol-election-conviction-6523166) (center): Seoul court upholds ex-president Yoon's election conviction
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261104001652315) (center): (2nd LD) Ex-President Yoon's election law conviction upheld; PPP at risk of returning US$30 mln in campaign funds
+- [The Korea Herald](https://www.koreaherald.com/article/10925821) (center): Court upholds Yoon's sentence that could cost opposition party W39.7b
+
+
+## 8. Indonesia arrests former police chief accused of wiretapping the president
+`US Headlines` `Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Indonesia's former national police chief Listyo Sigit Prabowo, who had recently become the president's chief of staff, was arrested along with two senior police officers. They are accused of illegally wiretapping President Prabowo Subianto, ministers, journalists and others since 2025. A presidential spokesman said the acts may amount to treason, which can carry the death penalty. Officials say the motive is unknown, and Listyo has not commented. The military deployed troops to Jakarta at the same time, calling it routine.
+
+**Key facts**
+- Police say the surveillance was carried out "without any legal basis."
+- The suspects allegedly ordered deletion of intercepted files last month, per Al Jazeera.
+- The president and Listyo are not related.
+- Prabowo's approval ratings have fallen to a record low amid protests, per CNA.
+
+**How it's being framed**
+- **Left:** Al Jazeera focused on the dismissal, the officials' quotes and the alleged cover-up, and reported the troop deployment alongside the military's statement that it was routine.
+- **Center:** CNA placed the arrests in the context of mounting political pressure on Prabowo, including protests, falling approval ratings and repeated cabinet reshuffles, and quoted an analyst saying there was no evidence of imminent military intervention.
+
+**Disputed or unclear**
+- The motive behind the alleged wiretapping is not known.
+- The size of the troop deployment is reported as "thousands" (CNA) or "more than 20,000" (Al Jazeera), and it is unclear whether it is linked to the arrests.
+- Listyo has not responded to the allegations.
+
+**Why it matters:** The case raises questions about stability and civil liberties in a major Southeast Asian democracy.
+
+**Read it yourself:**
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/indonesia-listyo-sigit-prabowo-treason-wiretapping-6521676) (center): Indonesia government says ex-police chief may have committed 'treason' by wiretapping president
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged) (lean-left): Indonesian president’s chief of staff dismissed over alleged wiretapping
+
+
+## 9. Roy Cooper wins North Carolina Senate seat
+`Charlotte Local` `US Headlines` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+Former Democratic Gov. Roy Cooper defeated Republican Michael Whatley, a former Republican National Committee chair and Trump's pick, for the seat held by retiring Sen. Thom Tillis. AP called the race shortly after the first results were released. Cooper ran a low-key campaign focused on lowering costs and said he would work to end the Iran war, lower gas prices and protect Medicaid expansion. He will be the first Democrat to win a North Carolina Senate race since Kay Hagan in 2008.
+
+**Key facts**
+- AP called the race around 8:20 p.m.
+- Cooper has never lost a statewide election in North Carolina.
+- He won or overperformed in suburban counties including Cabarrus, Union and Gaston.
+
+**How it's being framed**
+- **Center:** Local Charlotte stations and Axios described a dominant, expected win driven by Cooper's name recognition and cost-of-living focus, and noted the contentious ads exchanged by both campaigns.
+
+**Why it matters:** The flip contributed to Democrats taking control of the Senate.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/roy-cooper-wins-us-senate-race-north-carolina-after-contentious-campaign/QPMEL3RGQRB5ZL26CEOEDGR3MA/) (center): Roy Cooper wins U.S. Senate race in North Carolina after contentious campaign
 - [Axios](https://www.axios.com/2026/11/04/nc-senate-results-cooper-whatley) (center): Democrat Roy Cooper flips North Carolina Senate seat
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results) (lean-left): Key US Senate races called as Democrats aim to retake chamber from Republicans
-- [Fox News](https://www.foxnews.com/politics/democrats-flip-key-senate-seat-battleground-north-carolina-cooper-defeats-trump-backed-republican) (right): Dem flips key Senate seat in battleground North Carolina as Cooper defeats Trump ally
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/former-gov-roy-cooper-faces-off-against-republican-michael-whatley-in-nc-u-s-senate-race/) (center): Former Gov. Roy Cooper named projected winner over Republican Michael Whatley in NC U.S. Senate race
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-roy-cooper-speaks-after-flipping-north-carolina-senate-seat-for-democrats) (lean-left): WATCH: Roy Cooper speaks after flipping North Carolina Senate seat for Democrats
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4776543/north-carolina-senate-race-2026-results-whatley-cooper/) (lean-right): Roy Cooper wins North Carolina Senate race
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/former-gov-roy-cooper-faces-off-against-republican-michael-whatley-in-nc-u-s-senate-race/) (center): Former Gov. Roy Cooper defeats Michael Whatley in NC Senate election
 
 
-## 2. Binance says fake job interviews and an internal AI tool enabled record crypto theft
-`AI & Cybersecurity` `Korea` · Covered by 11 outlets (L 1 · C 9 · R 1)
+## 10. South Korea fines banks and brokerages about 370 billion won over Hong Kong-linked products
+`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Binance published a postmortem on last week's theft of more than $6 billion, which the FBI attributes to a North Korean hacking group it calls TraderTraitor. According to Binance, the multi-stage campaign began in June, when an engineer downloaded a tampered Homebrew installer. In September, a second engineer was hit through fake recruitment interviews that ended with a malware-laden "assignment." On Oct. 20, the attackers used an internal AI tool to reach credentials, and on Oct. 29 they launched unauthorized transactions through the company's wallet signing service. Executive Richard Teng said Binance is absorbing the full loss and that 98% of affected assets have been replenished. North Korea has rejected the FBI's attribution.
+South Korea's Financial Services Commission fined seven banks and six securities firms for mis-selling equity-linked securities tied to Hong Kong's H Index, which caused heavy investor losses when the index fell in early 2024. Regulators found the firms failed to explain risks and check whether the products suited customers. The fines are a record but far below earlier proposals, which regulators reduced to account for compensation already paid to investors and for court rulings. The firms could challenge the fines in court, though the Korea Herald says the industry is expected to accept them.
 
 **Key facts**
-- The breach began in June 2026, and the theft was executed on Oct. 29 between 17:15 and 19:56.
-- Binance says about $2.85 billion in stolen assets has been frozen or intercepted.
-- Binance says it blocked 57 suspected North Korea-linked threats.
-- Teng said customers lost nothing: "The full financial impact will be borne by us."
-- The FBI says the hackers converted stolen assets mainly into Ether.
+- KB Kookmin Bank received the largest fine, about 172–173 billion won, followed by Hana Bank at about 92.5 billion won.
+- The FSS had earlier proposed about 600 billion won for the banks.
+- Banks and brokerages sold 19.3 trillion won of the products from 2021.
 
 **How it's being framed**
-- **Left:** The Verge laid out the attack timeline, then questioned why such a well-known tactic worked. It noted that warnings about job-interview code downloads have circulated for years, and that Binance gave little detail on the internal AI tool or why it helped the attackers.
-- **Center:** The Hacker News, Axios, The Hill and the Korea Herald focused on technical details and the job-market angle. Axios framed it as North Korea "weaponizing both sides of the job market." The Korea Herald added Kim Yo-jong's rejection of the FBI's findings and a State Department comment calling DPRK cybercrime a global problem.
-- **Right:** Fox Business centered on Teng's interview and reassurances that customers won't "lose a dime." It emphasized Binance's reserves and its SAFU fund, and Teng's statement that flows have returned to normal.
+- **Center:** The Korea Herald and Yonhap reported the fines factually, emphasising the sharp reduction from earlier proposals and the compensation already paid by the banks.
 
 **Disputed or unclear**
-- The reported amount varies: $6.43 billion (The Hacker News), $6.34 billion (Korea Herald) and $6.3 billion (several others).
-- North Korea denies involvement and calls the FBI attribution a provocation.
-- Little is known about the internal AI tool and how it was exploited.
-- Binance's statements about full reimbursement and normalized flows are the company's own claims.
+- The total is reported as 374.6 billion won (Korea Herald) or about 370 billion won (Yonhap).
+- The original proposal is described as over 1 trillion won (Korea Herald) or 1.4 trillion won (Yonhap).
 
-**Why it matters:** The heist shows how state-backed hackers combine social engineering with companies' own AI tools, a risk that extends well beyond crypto.
+**Why it matters:** This is the first major test of South Korea's financial consumer protection law against large institutions.
 
 **Read it yourself:**
-- [The Hacker News](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html) (center): Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
-- [The Verge](https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained) (lean-left): Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist
-- [Fox Business](https://www.foxbusiness.com/markets/binance-co-ceo-says-customers-wont-lose-dime-after-massive-6b-heist) (lean-right): Binance co-CEO says customers won't lose a dime after massive $6B heist
-- [The Korea Herald](https://www.koreaherald.com/article/10925230) (center): Binance says fake job interviews, AI tool used in $6 bln theft blamed on N. Korea
-- [Axios](https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist) (center): That dream job offer might be from a North Korean hacker
-- [The Hill](https://thehill.com/policy/technology/6194069-binance-hack-north-korea-tradertraitor/) (center): Binance says malicious code, fake job interview led to $6.3B hack
-
-
-## 3. Jon Ossoff wins re-election in Georgia over Rep. Mike Collins
-`US Headlines` · Covered by 8 outlets (L 3 · C 3 · R 2)
-
-Democratic Sen. Jon Ossoff defeated Republican Rep. Mike Collins in Georgia, a state Trump won in 2024. Ossoff campaigned on affordability and attacked Collins over his support for Trump's tariffs and the war in Iran. Collins emphasized immigration, including the Laken Riley Act he authored. Republican groups pulled back spending in mid-October, and the race was called less than an hour after polls closed. The result is likely to fuel speculation about a 2028 presidential run, which Ossoff has said he has no interest in.
-
-**Key facts**
-- Collins won a June GOP runoff with a late Trump endorsement, defeating Kemp-backed Derek Dooley.
-- Ossoff was the only Senate Democrat defending a seat in a state Trump carried in 2024.
-- Ossoff has said he has "zero interest" in running for president in 2028.
-
-**How it's being framed**
-- **Left:** NPR stressed Collins's "personal baggage": ties to family members and former staffers who espoused white nationalist and antisemitic views, and his embrace of Trump's false 2020 fraud claims. It contrasted this with Ossoff's constituent services and national appeal. PBS/AP noted Ossoff's fundraising dominance and the GOP spending pullback.
-- **Center:** The BBC highlighted Ossoff as a Democratic "rising star" and his 2028 prospects. It covered his cost-of-living message and noted that Gov. Kemp declined to run. The Hill provided brief results.
-- **Right:** Fox News framed it as a GOP failure to flip a prized seat. It presented both campaigns' arguments, including Collins's immigration focus and inflation attacks, and mentioned the House ethics probe and his son-in-law's posts. The Washington Examiner gave brief results.
-
-**Disputed or unclear**
-- Collins describes the House ethics matter as a meritless "complaint."
-- Early vote shares (about 80% to 20% with 11% reporting, per The Hill) are not indicative of the final margin.
-
-**Why it matters:** Holding Georgia is a precondition for any Democratic Senate majority and raises Ossoff's national profile.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss) (center): Democratic rising star Ossoff projected to hold Georgia seat
-- [NPR](https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins) (lean-left): Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins
-- [Fox News](https://www.foxnews.com/politics/ossoff-wins-democrats-hold-firm-georgia-republicans-fail-flip-prized-senate-seat) (right): Democrats hold firm in Georgia as Republicans fail to flip prized Senate seat
-- [The Hill](https://thehill.com/homenews/campaign/6181803-ossoff-wins-georgia-senate-reelection/) (center): Ossoff wins reelection in battleground Georgia
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-rep-mike-collins-speaks-after-loss-in-georgia-senate-race) (lean-left): WATCH: Rep. Mike Collins speaks after loss in Georgia Senate race
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4790714/watch-live-jon-ossoff-acceptance-speech-senate-georgia-victory/) (lean-right): WATCH LIVE: Ossoff delivers acceptance speech after Senate victory
-
-
-## 4. Democrat Jamie Ager flips North Carolina's 11th District House seat
-`Charlotte Local` · Covered by 5 outlets (L 2 · C 2 · R 1)
-
-Democrat Jamie Ager, a farmer and business owner, defeated Republican state Rep. Jennifer Balkcom in western North Carolina's 11th District, a seat Trump carried by 11 points in 2024. Balkcom replaced Rep. Chuck Edwards on the ballot after he ended his campaign; Edwards was later censured by the House over inappropriate conduct toward female staffers. Recovery from Hurricane Helene was a central issue. Other North Carolina House races were still being counted when reports were filed.
-
-**Key facts**
-- The AP called the race at 8:53 p.m., with Ager at 60.3% to Balkcom's 38.4% and 83% counted.
-- In the third quarter, Ager raised $2.3 million to Balkcom's $355,134.
-- Ager's grandfather, James McClure Clarke, represented the district nearly 40 years ago.
-- Rep. Alma Adams easily won re-election in the 12th District.
-
-**How it's being framed**
-- **Left:** WFAE placed the flip in a roundup of tight Charlotte-area races where Republican incumbents were trailing in early counts. It emphasized GOP redistricting that had already shifted the state delegation to 10-4. PBS/AP stressed Ager's farming background and appeal to rural voters.
-- **Center:** Queen City News focused on the celebration at Ager's watch party. The Hill noted Edwards's censure as the reason the seat was open.
-- **Right:** The Washington Examiner covered the Edwards scandal and Balkcom's short window to campaign. It highlighted Helene recovery, including Vice President Vance's announcement of nearly $900 million in aid, and noted Ager's fundraising advantage.
-
-**Disputed or unclear**
-- Several other North Carolina House races (the 1st, 8th, 9th, 10th and 14th districts) were undecided at the time of reporting.
-
-**Why it matters:** This was described as Democrats' first House pickup of the night, in a district Trump won comfortably.
-
-**Read it yourself:**
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/democrat-jamie-ager-flips-nc-11-congressional-seat-after-victory-over-jennifer-balkcom/) (center): Democrat Jamie Ager flips NC-11 congressional seat after victory over Jennifer Balkcom
-- [WFAE (Charlotte NPR)](https://www.wfae.org/politics/2026-11-03/adams-coasts-to-reelection-democratic-challenger-ager-flips-u-s-house-seat-in-western-n-c) (lean-left): Adams coasts to reelection; Democratic challenger Ager flips U.S. House seat in western N.C.
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4773969/jennifer-balkcom-jamie-ager-2026-results/) (lean-right): Democrat Jamie Ager flips Rep. Chuck Edwards North Carolina district
-- [The Hill](https://thehill.com/homenews/campaign/6161268-jamie-ager-north-carolina-11th-congressional-district/) (center): Democrat Ager flips Edwards’s North Carolina House seat
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/democrat-jamie-ager-flips-u-s-house-seat-in-north-carolina) (lean-left): Democrat Jamie Ager flips U.S. House seat in North Carolina
-
-
-## 5. Byron Donalds elected Florida governor, the state's first Black governor
-`US Headlines` · Covered by 6 outlets (L 2 · C 2 · R 2)
-
-Republican Rep. Byron Donalds defeated Democrat David Jolly, a former Republican congressman, to succeed term-limited Gov. Ron DeSantis. The AP called the race at 9:09 p.m., with Donalds at about 50% to Jolly's 48.7%. That margin was narrow for a state Trump won by 13 points. Affordability, property insurance and AI data centers were central issues. Donalds, who is backed by Trump, briefly removed Trump references from his website in September but rallied with the president late in the race.
-
-**Key facts**
-- The AP called the race at 9:09 p.m. ET, with Donalds at about 50% and Jolly at 48.7%.
-- No Democrat has won Florida's governorship since 1994.
-- By August, Donalds had raised more than $100 million to Jolly's roughly $10 million.
-- Florida has about 1.5 million more registered Republicans than Democrats.
-
-**How it's being framed**
-- **Left:** NPR and The Guardian noted Trump's backing and the national backdrop of discontent over gas prices and the Iran war. The Guardian emphasized DeSantis's culture-war record, Democratic heavyweights campaigning for Jolly, and the challenges the new governor inherits. NPR mentioned Jolly's "data center Donalds" attack.
-- **Center:** Newsweek emphasized the historic stakes for both candidates, the polling, and the issue debates over data centers and insurance. It noted that Donalds's proximity to Trump was a difficult issue for him. The Hill gave brief results.
-- **Right:** Fox News highlighted the historic win, calling Donalds the first Black Republican elected governor in US history. It quoted his victory statement and his attacks on Jolly's "radical socialism." The Washington Examiner emphasized his outreach to Black voters and his fundraising edge.
-
-**Disputed or unclear**
-- Jolly called Donalds a "liar" over the socialism charges, saying he has condemned socialism many times.
-- Reported vote shares differ slightly (50.1% vs. 50%), and final results were not yet available.
-
-**Why it matters:** Florida's next governor will shape policy in the third-most-populous state, and the narrow margin may signal shifting GOP strength.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/byron-donalds-beats-david-jolly-becoming-floridas-first-black-governor-12657167) (center): Byron Donalds Beats David Jolly, Becoming Florida's First Black Governor
-- [NPR](https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly) (lean-left): Republican Byron Donalds wins governor's race in Florida
-- [Fox News](https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor) (right): Trump-backed Byron Donalds to make history as Florida’s first Black governor
-- [The Hill](https://thehill.com/homenews/campaign/6134195-byron-donalds-florida-governor-win/) (center): Byron Donalds wins Florida governor’s race
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/03/florida-governor-byron-donalds-david-jolly-desantis) (lean-left): Trump-endorsed Republican Byron Donalds wins Florida race for governor
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/state/4755872/byron-donalds-florida-governor-race-tense-battle-david-jolly/) (lean-right): Byron Donalds elected governor of Florida after tense battle with David Jolly
-
-
-## 6. Chris Pappas wins New Hampshire Senate seat, keeping it in Democratic hands
-`US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
-
-Democratic Rep. Chris Pappas defeated former Republican Sen. John Sununu for the seat held by retiring Sen. Jeanne Shaheen. He becomes the first openly gay man elected to the Senate. Sununu conceded early, with about 20% of the vote counted. Republicans had considered the state a top pickup target. In his speech, Pappas attacked corporate interests, Trump and "cowards in Congress," and pledged to oppose data centers and ICE detention facilities.
-
-**Key facts**
-- Pappas led about 61% to 38% with roughly 20% of the vote counted.
-- Sununu was endorsed by Trump but distanced himself from the president.
-- Pappas will take office in January.
-
-**How it's being framed**
-- **Left:** The Guardian emphasized the historic milestone and Pappas's populist victory speech, quoting it at length. It portrayed Sununu as a candidate Pappas cast as a "faux moderate," and noted that Sununu said he had "never met" Trump.
-- **Center:** The BBC, Axios and The Hill covered it as a must-hold for Democrats and a missed GOP opportunity. They noted Sununu's political dynasty and Thune's campaigning for him.
-- **Right:** Fox News presented both candidates' arguments in their own words. It quoted Sununu calling Pappas an underachiever and a "rubber stamp for the far left," and Pappas citing his bipartisan record and his challenge to Biden on the border.
-
-**Disputed or unclear**
-- Pappas's claim that "outright lies" were used against him and Sununu's characterizations of Pappas are campaign assertions.
-
-**Why it matters:** Holding New Hampshire was considered essential to any Democratic path to a Senate majority.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/c6y4xz3ypenko?at_medium=RSS&at_campaign=rss) (center): 'I am ready to fight' - Senator-elect Chris Pappas celebrates New Hampshire win
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/03/new-hampshire-senate-chris-pappas-john-sununu) (lean-left): Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator
-- [Fox News](https://www.foxnews.com/politics/pappas-wins-democrats-score-major-senate-victory-pappas-defeats-trump-backed-republican-key-battleground) (right): Democrats score major Senate victory as Pappas defeats Trump-backed Republican in key battleground
-- [Axios](https://www.axios.com/2026/11/04/new-hampshire-nh-senate-results-sununu-pappas) (center): Democrats beat back GOP Senate challenge in N.H. with Pappas win
-- [The Hill](https://thehill.com/homenews/campaign/6185147-democratic-rep-chris-pappas-wins-senate-seat-in-new-hampshire/) (center): Democratic Rep. Chris Pappas wins Senate seat in New Hampshire
-
-
-## 7. North Korea fires unidentified projectile toward the sea, South Korea says
-`Korea` · Covered by 3 outlets (L 1 · C 2 · R 0)
-
-South Korea's Joint Chiefs of Staff said North Korea fired an unidentified projectile off its east coast on Wednesday, without giving details. The launch follows a barrage of about a dozen short-range ballistic missiles last Thursday and recent cluster-munition tests. Kim Yo Jong issued a new statement rejecting dialogue with the US after the FBI blamed Pyongyang for the Binance heist. Inter-Korean tensions have also risen since mine blasts at the border in September wounded three South Korean soldiers.
-
-**Key facts**
-- The launch occurred Wednesday, Nov. 4, local time, according to the JCS.
-- North Korea fired around a dozen short-range ballistic missiles from the Wonsan area last Thursday.
-- Kim Yo Jong said: "we have no need to sit face to face with such unreliable and hostile persons."
-
-**How it's being framed**
-- **Left:** PBS/AP gave broader context. It suggested the tests are likely aimed at gaining leverage in potential diplomacy with Trump, and linked the launch to the Binance dispute and border tensions.
-- **Center:** Yonhap and the Korea Herald gave brief, factual reports. They noted the launch came less than a week after Seoul proposed military talks.
-
-**Disputed or unclear**
-- The type of weapon has not been disclosed.
-- Accounts of the cluster-munition tests differ: Yonhap says a cluster bomb for tactical ballistic missiles was tested Saturday, while AP cites a cluster warhead for strategic cruise missiles tested Monday. These may be separate tests.
-- North Korea denies planting the border mines.
-
-**Why it matters:** The escalating tests and Pyongyang's rejection of talks complicate any US-North Korea diplomacy.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261029008100315) (center): N. Korea fires unidentified projectile toward East Sea: JCS
-- [PBS NewsHour](https://www.pbs.org/newshour/world/north-korea-launches-unidentified-projectile-toward-the-sea-south-korea-says) (lean-left): North Korea launches unidentified projectile toward the sea, South Korea says
-- [The Korea Herald](https://www.koreaherald.com/article/10925149) (center): N. Korea fires unidentified projectile toward East Sea: JCS
-
-
-## 8. Canva restructuring to affect 1,271 jobs, 22% of its workforce
-`AI & Cybersecurity` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-Canva CEO Melanie Perkins announced that 1,271 employees will be laid off, relocated or moved to new roles, calling it "the hardest moment in our thirteen-year history." The company is merging teams, making Sydney the primary home for more product teams, and requiring most hybrid workers to spend two to three days in the office starting in January. Departing staff will receive at least six months' salary and extended healthcare. The exact number of job losses was not specified.
-
-**Key facts**
-- 1,271 people, or 22% of staff, are affected.
-- Perkins said growth slowed for the first time in a decade.
-- Backers reportedly cut Canva's valuation from A$60bn to about A$49bn.
-- Departing staff can apply for US$10,000 grants to start their own ventures.
-
-**How it's being framed**
-- **Left:** The Guardian placed the cuts in a wave of tech restructurings (Atlassian, Block, WiseTech) and the "SaaS-pocalypse" debate, while noting that Canva itself did not mention AI. The Verge quoted Perkins on "refounding" Canva and noted Squarespace's layoffs.
-- **Center:** The BBC linked the move to reported valuation drops tied to concerns about AI's impact on Canva's business and the cost of building AI products.
-
-**Disputed or unclear**
-- The role of AI is unclear: the BBC cites AI-related concerns and costs, while The Guardian notes the announcement did not mention AI.
-- How many of the 1,271 will lose their jobs, rather than relocate or change roles, has not been disclosed.
-
-**Why it matters:** It is another sign of pressure on established software companies as AI reshapes the industry.
-
-**Read it yourself:**
-- [BBC News (Asia)](https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss) (center): Canva announces major job cuts after 'our hardest year yet'
-- [The Guardian (World)](https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure) (lean-left): Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure
-- [The Verge](https://www.theverge.com/tech/1025971/canva-changes-layoffs) (lean-left): Canva is announcing changes and layoffs affecting 22 percent of its staff
-
-
-## 9. Korean weather agency chief explains how a Nankai Trough quake could affect South Korea
-`Korea` `Asia Business & Politics` · Covered by 1 outlet (L 0 · C 1 · R 0)
-
-In a Korea Herald op-ed, Korea Meteorological Administration head Lee Mi-seon explained how long-period ground motion from a major Japanese earthquake could make high-rise buildings in South Korea sway through resonance. She cited Japan's estimate that a maximum-class Nankai Trough quake could kill about 298,000 people. She also pointed to past cases where distant quakes shook tall buildings in Osaka and Bangkok. This is an opinion and explainer piece, not breaking news.
-
-**Key facts**
-- Japan estimates a maximum-class Nankai Trough quake could kill about 298,000 people and destroy about 2.35 million buildings.
-- A magnitude 7.1 quake in Kumamoto on July 28 prompted 789 shaking reports in Korea.
-
-**How it's being framed**
-- **Center:** The only coverage is an official's explanatory op-ed focused on public safety and building response.
-
-**Why it matters:** Residents of tall buildings in South Korea may face risks from earthquakes hundreds of kilometers away.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10925411) (center): [Contribution] What the Nankai Trough megaquake threat means for South Korea
-
-
-## 10. Senior North Korean party official visits China
-`Korea` `Asia Business & Politics` · Covered by 1 outlet (L 0 · C 1 · R 0)
-
-Kim Song-nam, a Workers' Party politburo member and party secretary, arrived in China on Tuesday leading a delegation at the invitation of the Chinese Communist Party, according to North Korean state media. The trip comes 10 days after Kim Jong-un made a surprise visit to the border city of Dandong. Yonhap describes it as part of warming ties after a chill over Pyongyang's closeness to Russia. A Chinese party school delegation is visiting Pyongyang at the same time.
-
-**Key facts**
-- Kim Song-nam's delegation was greeted by Sun Haiyan of the CCP's International Liaison Department.
-- Xie Chuntao of the CCP Central Party School arrived in Pyongyang on Monday.
-
-**How it's being framed**
-- **Center:** Yonhap reported the visit based on KCNA and framed it as evidence of deepening North Korea–China cooperation.
-
-**Disputed or unclear**
-- The agenda for the visit has not been disclosed.
-
-**Why it matters:** Closer Beijing-Pyongyang ties could affect diplomacy over North Korea's weapons programs.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261104003000315) (center): Senior N. Korean party official visiting China: KCNA
+- [The Korea Herald](https://www.koreaherald.com/article/10926075) (center): Banks, brokerages face record W374.6b penalties over Hong Kong ELS
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261104008700320) (center): Regulator finalizes 370 bln-won penalties on banks, securities firms over mis-selling of HK-tied derivatives
 
 
 ---
@@ -289,5 +291,9 @@ Kim Song-nam, a Workers' Party politburo member and party secretary, arrived in 
 
 ### What is happening with AI regulation in the US and EU?
 
-🆕 The Guardian reports that US tech stocks recovered on Tuesday after a selloff driven by worries about AI spending. It says investors expect Democrats to win the House and possibly gain Senate seats, which could lead to more AI regulation. This is an expectation, not policy action. Nothing in this edition addresses EU AI regulation.
+🆕 The Guardian reports that the US dollar fell to a one-month low after Democrats won control of the House and Senate. It says investors fear stricter AI regulation could slow growth, and that investors moved into Treasuries in anticipation of political gridlock. A separate Guardian piece said US tech stocks recovered on Tuesday after an AI-spending selloff, with investors expecting Democratic gains to bring more AI regulation. Separately, CNBC noted that Sens. Blumenthal and Hawley opened an inquiry into Google's push of AI into classrooms. None of the articles addressed EU regulation.
+- [The Guardian (US)](https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears) (lean-left): US dollar slides after Democrats’ midterm election win as growth fears rise
 - [The Guardian (US)](https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending) (lean-left): US tech stocks recover after selloff spooks investors over AI spending
+
+---
+_Feeds that failed this run: Newsweek_
