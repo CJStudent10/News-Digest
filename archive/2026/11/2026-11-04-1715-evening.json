@@ -1,0 +1,634 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-04T22:15:30.987667+00:00",
+  "local_time": "Wednesday, November 4, 2026 · 5:15 PM EST",
+  "local_date": "Nov 4, 2026",
+  "slug": "2026-11-04-1715-evening",
+  "mode": "ai",
+  "overview": "This edition is dominated by fallout from the 2026 US midterms, in which Democrats won control of both chambers of Congress: Vice President Vance blamed the Iran war for Republican losses, and Democrats claimed upset Senate wins in Michigan and South Carolina. Elsewhere, cyberattacks on European refrigeration systems reached French blood storage, Asian airlines reported data breaches tied to IT provider Amadeus, and there are smaller items from Korea, Malaysia and the tech world.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Vance blames Iran war for Republican midterm losses",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Vice President JD Vance said in a lengthy X post on Wednesday that the Iran war was the reason Republicans lost heavily in Tuesday's midterms. He wrote that anyone who believes the war was worth losing the Senate should argue that openly. President Trump, who has said the war was 'partly' or 'a piece' of the reason for the losses, defended the war again and called Vance's post 'fine.' Outlets read the post as Vance distancing himself from the conflict ahead of a possible 2028 presidential run; Vance has said he will decide after the election whether to run.",
+      "key_facts": [
+        "Vance wrote: \"The reason we lost is the war. The president himself said so last night.\"",
+        "Trump told the Wall Street Journal \"Iran was a piece of it\" but said \"I did the right thing. I would have done it again.\"",
+        "About 6 in 10 voters said military action against Iran was the 'wrong decision,' according to the AP Voter Poll of more than 100,000 voters.",
+        "Only about one-third of voters called the war 'crucial' to their vote, compared with roughly half who said that about cost of living or government corruption.",
+        "Iran's parliament speaker Mohammad Bagher Qalibaf said 'Americans said NO TO WAR, and we endorse this message.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS (AP) and The Guardian presented the post as a public break with Trump and placed it against Vance's history as a restraint advocate and Iraq veteran. They used AP polling to show voters disapproved of the war, while also noting it was not most voters' top issue. Both linked the move to Vance's 2028 ambitions."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios called the post a 'surprisingly blunt assessment' that put 'a little daylight' between Vance and Trump, and noted that Donald Trump Jr. appeared to endorse it. The Hill focused on Iran's leadership claiming the result as a rejection of the war."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News, in an exclusive based on anonymous sources, framed the post as Vance building a 'new right' coalition of disaffected Trump voters. It highlighted the four tasks Vance listed, including 'change our relationship with Israel.' An administration official told Fox the post was not a Pence-style split from Trump. Reason (lean-right) covered the story through a podcast discussion of the midterm results."
+        }
+      ],
+      "disputed": [
+        "Whether the Iran war was the main cause of the losses: Vance says it was, while the AP poll suggests cost of living and corruption weighed more heavily for most voters.",
+        "Fox's anonymous-source account of a White House messaging meeting and of Vance courting a 'new right' coalition has not been independently confirmed; the White House did not comment.",
+        "Whether Vance will run in 2028 is undecided."
+      ],
+      "why": "The vice president's public disagreement over the war could shape both Republican strategy and the early 2028 race.",
+      "coverage": {
+        "left": 3,
+        "center": 5,
+        "right": 2
+      },
+      "n_outlets": 10,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Vance says the Iran war cost Republicans the midterms",
+          "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+          "published": "2026-11-04T18:22:47+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Vance blames Iran war for GOP midterm losses",
+          "url": "https://www.pbs.org/newshour/politics/vance-blames-iran-war-for-gop-midterm-losses",
+          "published": "2026-11-04T16:56:43+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Vance courting disgruntled Trump voters to form ‘new right’ alliance after Republican bloodbath, sources say",
+          "url": "https://www.foxnews.com/politics/vance-courting-disgruntled-trump-voters-form-new-right-alliance-republican-bloodbath",
+          "published": "2026-11-04T20:48:50+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Iran weighs in on midterms: ‘Americans said NO TO WAR’",
+          "url": "https://thehill.com/homenews/6197337-iran-midterm-election-loss-trump-war/",
+          "published": "2026-11-04T14:59:12+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
+          "published": "2026-11-04T17:15:33+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "J.D. Vance Blames Iran for Republican Midterm Wipeout",
+          "url": "https://reason.com/video/2026/11/04/j-d-vance-blames-iran-for-republican-midterm-wipeout/",
+          "published": "2026-11-04T21:15:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Democrat Abdul El-Sayed wins Michigan Senate race, will be first Muslim senator",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Abdul El-Sayed defeated Republican Mike Rogers for Michigan's open Senate seat, which became open when Sen. Gary Peters retired. He will become the first Muslim US senator. The campaign was bitter: Trump and other Republicans tried to link him to terrorist groups, which AP says was done without evidence. Days before the vote, Democratic Rep. Haley Stevens, who lost the primary to El-Sayed, endorsed Rogers over El-Sayed's response to an ad she called antisemitic. Stevens said Wednesday she does not regret the endorsement.",
+      "key_facts": [
+        "El-Sayed is a former public health official who has never held elected office.",
+        "AIPAC spent nearly $30 million opposing El-Sayed in the primary, its largest investment in a single race (per AP).",
+        "Stevens endorsed Rogers on November 1; Schumer called it a 'despicable betrayal.'",
+        "Stevens on Wednesday: 'I don't regret it, but I am truly sorry that it upset some of my colleagues.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Vox, PBS/AP and Al Jazeera presented the win as historic and as a breakthrough for the progressive wing in a swing state. They highlighted Islamophobic attacks from Republicans, AIPAC spending against him, and his economic message. Vox also noted critics who say his margin was unimpressive given the national wave."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill focused on El-Sayed's victory speech, in which he mocked Trump and Vance and joked about Vance being 'constitutionally obligated' to swear him in."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller centered the Stevens endorsement and her objections to the Rebellion PAC ad and his campaign's Tucker Carlson ad. It also linked to its earlier reporting on his academic papers. The Washington Examiner (lean-right) reported that Stevens is standing by her endorsement."
+        }
+      ],
+      "disputed": [
+        "Whether the Rebellion PAC ad was antisemitic: Stevens says it was, while the Daily Caller notes it referenced the state of Israel rather than Jewish people.",
+        "How strong El-Sayed's margin was compared with other Democrats in a wave year."
+      ],
+      "why": "The result tests whether a left-wing platform can win in a swing state and will shape Democratic debates ahead of 2028.",
+      "coverage": {
+        "left": 3,
+        "center": 1,
+        "right": 3
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "El-Sayed: ‘Delicious irony’ that ‘habibi’ Vance ‘constitutionally obligated’ to swear him in",
+          "url": "https://thehill.com/homenews/campaign/6197016-abdul-el-sayed-jd-vance-habibi/",
+          "published": "2026-11-04T12:30:25+00:00"
+        },
+        {
+          "source": "Vox",
+          "lean": "left",
+          "bucket": "left",
+          "title": "How Abdul El-Sayed won the Michigan Senate race",
+          "url": "https://www.vox.com/politics/508901/abdul-el-sayed-wins-michigan-senate",
+          "published": "2026-11-04T12:20:08+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Abdul El-Sayed Defeats Mike Rogers Days After Haley Stevens Endorsed GOP Nominee",
+          "url": "https://dailycaller.com/2026/11/04/abdul-el-sayed-wins-michigan-senate-race-mike-rogers",
+          "published": "2026-11-04T13:48:38+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat Abdul El-Sayed wins election to U.S. Senate from Michigan",
+          "url": "https://www.pbs.org/newshour/politics/democrat-abdul-el-sayed-wins-election-to-u-s-senate-from-michigan",
+          "published": "2026-11-04T12:22:33+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Haley Stevens stands by Mike Rogers endorsement: ‘I don’t regret it’",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4793198/haley-stevens-stands-by-mike-rogers-endorsement-michigan-senate-race/",
+          "published": "2026-11-04T21:56:03+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue",
+          "published": "2026-11-04T15:51:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Cyberattack on refrigeration supplier hits French blood storage; no products lost",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "France's national blood service, EFS, said a cyberattack on a refrigeration supplier raised temperature and defrost settings at three of its cold-storage sites on November 2. Its alarms detected the changes, and staff moved or secured the stored plasma and samples. Supplier Coolworld said the flaw was in a third-party component outside its direct control. The incident follows waves of attacks on supermarket refrigeration across Europe, and EU agencies are discussing a collective response. No one has claimed responsibility.",
+      "key_facts": [
+        "EFS: 'No health impact has been identified, and no loss of blood products has been reported.'",
+        "EFS is working with France's cybersecurity agency ANSSI and the health ministry, and remote access to the affected units has been disabled.",
+        "Ahold Delhaize expects the October attack to cut quarterly sales by up to €250 million.",
+        "An EU spokesperson said 'These are not isolated incidents.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian called the attack an apparent escalation. It raised the possibility of Russian hybrid warfare and mentioned suspected fridge malfunctions at US military commissaries, while noting that no motive is known."
+        },
+        {
+          "lean": "center",
+          "framing": "BleepingComputer, DW and CNBC focused on technical details and the official statements. The BBC focused on attribution, reporting that experts using decoy systems found the attacks appeared coordinated and targeted only Europe. It said Russian, Iranian or even amateur culprits are all possible."
+        }
+      ],
+      "disputed": [
+        "Who is responsible: Russian hacktivist claims are unconfirmed, and experts also cite Iranian actors or pranksters.",
+        "The number of French supermarkets hit in October varies by outlet, from 250–350 to as many as 700.",
+        "Le Canard Enchaîné reported the target temperature was set to 110°C; other outlets say only 'extremely high.'"
+      ],
+      "why": "The attack shows that poorly secured connected equipment can put critical health supplies at risk.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+          "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+          "published": "2026-11-04T18:02:56+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "French blood banks hacked in latest cyber-attack on Europe",
+          "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+          "published": "2026-11-04T13:22:28+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T16:26:15+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "French blood banks targeted by refrigerator cyberattack",
+          "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-04T17:57:00+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Blood banks targeted in latest European fridge cyberattacks",
+          "url": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
+          "published": "2026-11-04T14:15:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Democrat Annie Andrews wins South Carolina Senate seat",
+      "topics": [
+        "Charlotte Local",
+        "US Headlines"
+      ],
+      "summary": "Democrat Annie Andrews, a pediatrician, defeated appointed Republican Sen. Darline Graham by about four points. She is the first Democrat elected to the Senate from South Carolina since 1998. Graham was appointed after the death of her brother, Sen. Lindsey Graham, and Trump campaigned for her. Andrews won York County, which Trump carried by more than 19 points in 2024. Analysts credited her campaign organization, her economic message, and a national referendum on Trump.",
+      "key_facts": [
+        "The AP called the race at 10:39 p.m. Tuesday with Andrews at 50.6% and Graham at 47.2%.",
+        "Andrews won York County with more than 51% to Graham's roughly 47%.",
+        "Rep. Ralph Norman, who lost the Republican primary to Graham, refused to fully back her."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE stressed Andrews' well-funded, organized campaign and her focus on rural hospitals and the economy. It also described the sour mood among Graham supporters."
+        },
+        {
+          "lean": "center",
+          "framing": "WSOC and WBTV focused on local voter reaction and the results. They quoted a political scientist calling the midterm a referendum on the president."
+        }
+      ],
+      "disputed": [
+        "How much Republican infighting, including the Norman write-in effort, contributed to the result."
+      ],
+      "why": "The flip of a deep-red seat is part of the Democratic Senate majority and could draw presidential candidates to the state.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "York County voters react to Annie Andrews’ surprising Senate win",
+          "url": "https://www.wsoctv.com/news/local/york-county-voters-react-annie-andrews-surprising-senate-win/33KQUJPQLFCUJBVQSQIUPHVLKQ/",
+          "published": "2026-11-04T21:55:38+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Annie Andrews' surprise Senate win shakes up SC politics",
+          "url": "https://www.wfae.org/politics/2026-11-04/annie-andrews-surprise-senate-win-shakes-up-sc-politics",
+          "published": "2026-11-04T20:55:24+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live stream: South Carolina Senator-elect Dr. Annie Andrews speaks with voters after historic win",
+          "url": "https://www.wbtv.com/2026/11/04/live-stream-south-carolina-senator-elect-dr-annie-andrews-speaks-with-voters-after-historic-win/",
+          "published": "2026-11-04T19:55:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Nothing says its first screenless 'AI-native' device ships in December",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Nothing CEO Carl Pei said the company's first 'AI-native product' will ship next month. He described it as a tool with no new screen that 'couldn't have been an app.' He did not say what it is and played down comparisons to AI pins and pendants. No firm release date has been set.",
+      "key_facts": [
+        "Pei: 'Looking for the iPhone of AI today is a dead end.'",
+        "Nothing has also said it plans AI-linked smart glasses and earbuds."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge placed the device among earlier screenless AI gadgets such as the Humane AI pin and noted rumors about Nothing's smart glasses."
+        },
+        {
+          "lean": "center",
+          "framing": "TechCrunch emphasized how little Pei revealed about the product."
+        }
+      ],
+      "disputed": [
+        "What the device is and its exact release date."
+      ],
+      "why": "It is another test of whether consumers want dedicated AI hardware.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "published": "2026-11-04T22:13:16+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nothing teases a screen-free AI device ahead of launch next month",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+          "published": "2026-11-04T18:26:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Schumer says Democrats will focus on costs and the Iran war after winning Senate",
+      "topics": [
+        "US Headlines",
+        "Charlotte Local"
+      ],
+      "summary": "Chuck Schumer, set to become majority leader in January, called the midterm results a 'generational remake of the Senate map.' He cited flips in states including Texas, South Carolina, Kansas and Iowa. He said Democrats will focus on lowering costs, ending the Iran war and investigating allegations of corruption at the White House. Trump has threatened vetoes but also signaled openness to deals.",
+      "key_facts": [
+        "Democrats have a 54-seat majority, including two independents (per NPR); the Alaska and Mississippi races are uncalled.",
+        "Kansas elected a Democratic senator for the first time in 94 years.",
+        "Schumer: 'We are going to work hard to drive costs down with the president or without him.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR quoted Schumer at length on Democrats' agenda and his acknowledgment that voters are skeptical."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill briefly described the results as a 'stunning midterm comeback' and a blow to Trump."
+        }
+      ],
+      "disputed": [
+        "Final Senate margin pending Alaska and Mississippi."
+      ],
+      "why": "Divided government will shape legislation, oversight and Iran war policy for the next two years.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch live: Schumer to tout Democrats’ sweeping midterm victories",
+          "url": "https://thehill.com/video-clips/6197613-watch-live-chuck-schumer-democrats-2026-midterm-wins/",
+          "published": "2026-11-04T15:17:41+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+          "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+          "published": "2026-11-04T18:37:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "CJ-led consortium to buy controlling stake in JoongAng Ilbo",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "A consortium of Daou Technology, CJ, Shinsegae and Saramin will sign a deal Thursday to buy 520 billion won ($388 million) in new shares of debt-laden newspaper publisher JoongAng Ilbo. The deal would make the consortium its largest shareholder. The paper entered a creditor-led debt workout in July. The consortium pledged no layoffs and editorial independence.",
+      "key_facts": [
+        "Stakes in the deal: Daou 36.5%, CJ 35.7%, Shinsegae 14.1%, Saramin 13.7%.",
+        "Hana Bank leads the workout program."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald ran identical reports based on the company's statement."
+        }
+      ],
+      "disputed": [],
+      "why": "A major Korean newspaper is passing to conglomerate ownership.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "DaouKiwoom-CJ consortium to sign deal to acquire JoongAng Ilbo this week",
+          "url": "https://en.yna.co.kr/view/AEN20261104011100320",
+          "published": "2026-11-04T09:55:08+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "DaouKiwoom-CJ consortium to sign deal to acquire JoongAng Ilbo this week",
+          "url": "https://www.koreaherald.com/article/10926142",
+          "published": "2026-11-04T10:44:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Woman arrested after doctor stabbed at Seoul's Severance Hospital",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Police arrested a woman in her 50s on suspicion of aggravated assault after a psychiatry professor was stabbed at Severance Hospital in Seoul on Wednesday afternoon. The doctor suffered a 5 cm wound and was treated in the emergency room. Police are investigating the motive.",
+      "key_facts": [
+        "The attack happened around 4:35 p.m.",
+        "According to sources, the suspect was not a patient waiting for treatment."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald ran the same brief police-based report."
+        }
+      ],
+      "disputed": [
+        "Motive unknown."
+      ],
+      "why": "It raises concerns about safety for medical staff.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Police arrest woman for stabbing doctor at hospital",
+          "url": "https://en.yna.co.kr/view/AEN20261104010900320",
+          "published": "2026-11-04T08:59:53+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Police arrest woman for stabbing doctor at hospital",
+          "url": "https://www.koreaherald.com/article/10926141",
+          "published": "2026-11-04T10:44:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Several Asian airlines report data breaches linked to Amadeus",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana, Singapore Airlines and Malaysia Airlines have reported breaches traced to a vulnerability at Spanish IT provider Amadeus. Amadeus said booking-display data was exposed but found no evidence that payment data was accessed. The airlines said their own systems were not affected.",
+      "key_facts": [
+        "JAL reported 92,000 customers affected; Cathay 53,000 records; Singapore Airlines 46,000 records.",
+        "Some Cathay records included passport details and frequent flyer numbers.",
+        "Amadeus declined to say how many victims there are in total."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Record focused on company statements and placed the breach within a wider pattern of airline cyberattacks."
+        }
+      ],
+      "disputed": [
+        "The total scope of the breach and who carried it out."
+      ],
+      "why": "Exposed booking data can fuel phishing aimed at travelers.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+          "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+          "published": "2026-11-04T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Commentary: Zetrix AI's financial crisis tests Malaysian government",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "In a CNA commentary, Leslie Lopez argues that the collapse of Zetrix AI (formerly MyEG), a private provider of government digital services, raises questions about Malaysia's privatisation model. Its shares have fallen more than 90% since August. The government says it owes the road transport department over RM314 million in unpaid collections, and a covenant breach triggered a dissolution event under its RM2 billion sukuk. The company says immediate full repayment is not required.",
+      "key_facts": [
+        "More than RM5 billion in market value has been wiped out.",
+        "The share price fell from over 70 sen to around 6 sen."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "This is an opinion piece. It frames the collapse as a governance test and compares it to the failures of politically connected firms in 1997."
+        }
+      ],
+      "disputed": [
+        "The sukuk repayment obligations and the outcome of talks with sukukholders."
+      ],
+      "why": "Malaysians depend on the firm for routine government services such as road tax renewal.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Commentary: Zetrix's financial collapse poses a major governance test for Anwar's government",
+          "url": "https://www.channelnewsasia.com/commentary/malaysia-zetrix-myeg-jpj-anwar-governance-test-6512506",
+          "published": "2026-11-04T22:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "None of this edition's articles address AI regulation in the US or EU.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 9,
+    "center": 17,
+    "right": 4
+  },
+  "stats": {
+    "articles": 590,
+    "stories_found": 448,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
