@@ -7,7 +7,8 @@ import html
 import logging
 import re
 import urllib.request
-from concurrent.futures import ThreadPoolExecutor
+import multiprocessing
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -151,23 +152,52 @@ def fetch_all(sources: list[Source], lookback_hours: float, fixtures: Path | Non
     return articles, errors
 
 
+def _extract_texts(pages: list[str], max_chars: int) -> list[str]:
+    """Runs in a child process: trafilatura/lxml can crash natively on odd pages, and a
+    crash there must not take the whole digest down with it."""
+    import trafilatura
+
+    out = []
+    for page in pages:
+        try:
+            text = trafilatura.extract(page, include_comments=False, include_tables=False) or ""
+        except Exception:
+            text = ""
+        text = re.sub(r"\s+", " ", text).strip()
+        out.append(text[:max_chars] if len(text) > 300 else "")  # short = paywall/consent/video page
+    return out
+
+
 def fetch_full_text(articles: list[Article], max_chars: int) -> None:
     """Fill article.text with the main body text of each page (best-effort, in place)."""
     try:
-        import trafilatura
+        import trafilatura  # noqa: F401
     except ImportError:
         log.info("trafilatura not installed; using feed summaries only")
         return
 
-    def one(a: Article) -> None:
+    def download(a: Article) -> str:
         try:
-            page = http_get(a.url, timeout=15).decode("utf-8", errors="replace")
-            text = trafilatura.extract(page, include_comments=False, include_tables=False) or ""
-            text = re.sub(r"\s+", " ", text).strip()
-            if len(text) > 300:  # shorter usually means a paywall, consent wall or video page
-                a.text = text[:max_chars]
+            return http_get(a.url, timeout=15)[:3_000_000].decode("utf-8", errors="replace")
         except Exception as exc:
-            log.debug("full text failed for %s: %s", a.url, exc)
+            log.debug("download failed for %s: %s", a.url, exc)
+            return ""
 
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        list(pool.map(one, articles))
+    with ThreadPoolExecutor(max_workers=8) as pool:  # network only; no parsing in threads
+        pages = list(pool.map(download, articles))
+
+    todo = [(a, p) for a, p in zip(articles, pages) if p]
+    if not todo:
+        return
+    ctx = multiprocessing.get_context("spawn")
+    try:
+        with ProcessPoolExecutor(max_workers=1, mp_context=ctx) as pool:
+            texts = pool.submit(_extract_texts, [p for _, p in todo], max_chars).result(timeout=300)
+    except Exception as exc:  # includes BrokenProcessPool when the child crashes
+        log.warning("full-text extraction failed (%s: %s); using feed summaries instead",
+                    type(exc).__name__, exc)
+        return
+    for (a, _), text in zip(todo, texts):
+        if text:
+            a.text = text
+    log.info("got full text for %d/%d articles", sum(1 for t in texts if t), len(articles))

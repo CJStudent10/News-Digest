@@ -49,7 +49,11 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
           SITE_URL: ${{ vars.SITE_URL }}
-        run: python -m digest run ${{ inputs.no_llm && '--no-llm' || '' }}
+        run: |
+          python -m digest run ${{ inputs.no_llm && '--no-llm' || '' }} || {
+            echo "::warning::Run failed; retrying once without full article text"
+            python -m digest run --no-full-text ${{ inputs.no_llm && '--no-llm' || '' }}
+          }
 
       - name: Commit archive
         run: |

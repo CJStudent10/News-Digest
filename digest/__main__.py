@@ -11,6 +11,7 @@
 from __future__ import annotations
 
 import argparse
+import faulthandler
 import logging
 import re
 import sys
@@ -29,6 +30,8 @@ def cmd_run(args) -> int:
     from .render import render_markdown
 
     cfg = load_config()
+    if args.no_full_text:
+        cfg.settings["fetch_full_text"] = False
     d = run(cfg, use_llm=not args.no_llm, fixtures=Path(args.fixtures) if args.fixtures else None,
             dry_run=args.dry_run)
     if args.dry_run:
@@ -126,6 +129,7 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--no-llm", action="store_true", help="skip Claude; use outlet blurbs (free)")
     r.add_argument("--dry-run", action="store_true", help="print the digest; don't save or notify")
     r.add_argument("--fixtures", help="read feeds from <dir>/<source_id>.xml instead of the internet")
+    r.add_argument("--no-full-text", action="store_true", help="skip downloading article pages")
     r.set_defaults(fn=cmd_run)
 
     s = sub.add_parser("site", help="build the static website")
@@ -154,6 +158,7 @@ def main(argv: list[str] | None = None) -> int:
     il.add_argument("id", nargs="?")
     il.set_defaults(fn=cmd_investigations)
 
+    faulthandler.enable()  # print a traceback if a native library ever crashes
     args = p.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO, format="%(levelname)s %(message)s")
     return args.fn(args)
