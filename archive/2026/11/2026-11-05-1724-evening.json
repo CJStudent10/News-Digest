@@ -1,0 +1,685 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-05T22:24:03.289186+00:00",
+  "local_time": "Thursday, November 5, 2026 · 5:24 PM EST",
+  "local_date": "Nov 5, 2026",
+  "slug": "2026-11-05-1724-evening",
+  "mode": "ai",
+  "overview": "The US midterm aftermath dominates this edition. Democrats' sweep, fuelled partly by local opposition to AI data centers, prompted calls to curb the buildout and a sharp tech-led stock sell-off. Elsewhere, outgoing California Gov. Gavin Newsom commuted every death sentence in the state, Melania Trump hosted Russian and Ukrainian officials to mark a local ceasefire she helped broker, and Hong Kong activist Joshua Wong received 10 more years in prison.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Newsom commutes all 548 California death sentences to life without parole",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "California Gov. Gavin Newsom, in his final months in office, said he will convert all 548 death sentences in the state to life in prison without parole. He called state-sanctioned killing incompatible with California's values. Under the state constitution, the California Supreme Court must approve clemency for anyone convicted of more than one felony, which Newsom's office says covers 382 of the cases. The ACLU and anti-death-penalty advocates praised the move. Victims' advocates and some prosecutors criticized it, and a former district attorney told the New York Post that opponents will challenge it in court.",
+      "key_facts": [
+        "548 people are affected (529 men and 19 women, per The Guardian); 382 commutations need state Supreme Court approval, according to Newsom's office.",
+        "Newsom imposed a moratorium on executions in 2019; California's last execution was in 2006.",
+        "In 2016, 53% of California voters rejected a ballot measure to abolish the death penalty.",
+        "Newsom wrote: \"As Governor, I alone bear responsibility for this decision and its impact.\"",
+        "Axios says that if completed, it would be the largest mass commutation of death sentences in US history, cutting the national death-row population by more than a quarter."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS/AP emphasized Newsom's reasoning and the system's problems: long waits for habeas counsel and more than 200 exonerations nationwide. They quoted supporters including the ACLU, Martin Luther King III, Bryan Stevenson and a former prisons director who oversaw executions. The Guardian highlighted Polly Klaas's sister, Jess Nichol, backing the commutations, and linked the move to the failed execution of Christa Pike in Tennessee."
+        },
+        {
+          "lean": "center",
+          "framing": "Deutsche Welle and Axios gave straightforward accounts that included both the ACLU's praise and voters' past support for the death penalty. Both noted Newsom's possible 2028 presidential run, and Axios put that angle in its headline."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News and the New York Post centered victims' families and prosecutors. They quoted Polly Klaas's father, Marc Klaas (\"He has definitely secured the serial killer vote now\"), LA County DA Nathan Hochman on voters twice keeping the death penalty, and former DA Anne Marie Schubert. The Post listed notorious killers who were spared and used charged language such as \"maniacs.\" Fox also included praise from an anti-death-penalty spiritual adviser."
+        }
+      ],
+      "disputed": [
+        "Whether the California Supreme Court will approve the 382 commutations that need its sign-off.",
+        "Whether victims' advocates' promised court challenge will go forward or succeed.",
+        "Polly Klaas's relatives disagree publicly: her sister backs the move and her father opposes it.",
+        "Critics say the move overrides voters, who rejected repeal in 2016 (Hochman says voters kept the penalty in two separate initiatives); Newsom argues the constitution gives governors clemency power for exactly this purpose."
+      ],
+      "why": "It would remove the largest death row in the country and tests how far a governor's clemency power can go against voters' past choices.",
+      "coverage": {
+        "left": 2,
+        "center": 4,
+        "right": 3
+      },
+      "n_outlets": 9,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gavin Newsom commutes sentences of all death row inmates in California",
+          "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-05T20:04:00+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Gavin Newsom commutes more than 500 death sentences in California",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+          "published": "2026-11-05T20:44:57+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Gavin Newsom wipes out California's death row in historic mass commutation",
+          "url": "https://www.foxnews.com/politics/gavin-newsom-wipes-out-californias-death-row-historic-mass-commutation",
+          "published": "2026-11-05T20:03:38+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Newsom moves to empty California's death row as 2028 looms",
+          "url": "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028",
+          "published": "2026-11-05T20:57:07+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Newsom says he will commute all 548 of California's death sentences to life without parole",
+          "url": "https://www.pbs.org/newshour/politics/newsom-says-he-will-commute-all-548-of-californias-death-sentences-to-life-without-parole",
+          "published": "2026-11-05T20:07:06+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "California’s most dangerous death row maniacs spared by Gavin Newsom — as gov blasted for mass commutation",
+          "url": "https://nypost.com/2026/11/05/us-news/californias-worst-of-the-worst-death-row-inmates-spared-by-gavin-newsom/",
+          "published": "2026-11-05T22:02:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Melania Trump hosts Russian and Ukrainian officials after Oleshky ceasefire",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "First lady Melania Trump hosted Russian and Ukrainian officials at the White House to mark a six-day ceasefire in the Russian-occupied town of Oleshky in Kherson region, which both sides credit her with brokering. Hundreds of residents were evacuated during the pause; Deutsche Welle puts the figure at nearly 800. Kremlin envoy Kirill Dmitriev and Ukrainian negotiator Davyd Arakhamia praised her, and she called for a more enduring peace and handed them letters for Putin and Zelenskyy. President Trump separately met Dmitriev, declined to describe the discussion, and said a \"big agreement\" involving more than Ukraine is in the works. Ukraine's general staff says Russia used the pause to fortify positions, and the Kremlin says no further humanitarian missions are planned.",
+      "key_facts": [
+        "The ceasefire in Oleshky and nearby areas of Kherson lasted six days.",
+        "Arakhamia called it the \"biggest de-escalation since 2022.\"",
+        "Ukraine's ombudsman Dmytro Lubinets presented Melania Trump with the Order of Princess Olga, first class.",
+        "President Trump met Dmitriev but not the Ukrainian officials.",
+        "Zelenskyy said the operation showed that \"when Putin wants the fighting to stop, it stops.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian took a skeptical, somewhat wry tone, calling the event an exercise in flattering the first lady. It questioned her descriptions of her own role and set the event against continuing Russian strikes and recent US pressure on Kyiv, including cuts to intelligence sharing. PBS/AP was more neutral: it focused on Trump's meeting with Dmitriev and his hint of a broader deal, and included Zelenskyy's remark."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and The Hill reported the event plainly. The BBC noted that she made no reference to the war's origins and that some of the reunited children are alleged to have been abducted by Russia. Deutsche Welle asked whether the ceasefire signals progress, highlighting Ukrainian claims that Russia exploited the pause and analysts' view that the timing helped Trump before the midterms."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News presented the event largely as a diplomatic success. It quoted the first lady's \"spark\" for peace remarks at length, along with Dmitriev's praise of President Trump's peacemaking and Arakhamia's optimism that peace is a matter of \"when, not if.\" It did not mention the allegations that Russia fortified positions."
+        }
+      ],
+      "disputed": [
+        "The exact number evacuated: about 800 per Deutsche Welle, \"hundreds\" per the BBC. More than 1,000 people reportedly remain in Oleshky.",
+        "Ukraine's claim that Russia used the pause to fortify its positions.",
+        "The scope of Melania Trump's personal role, which the BBC described as key but unspecified.",
+        "What President Trump discussed with Dmitriev and what the promised \"big agreement\" involves.",
+        "Whether further humanitarian missions will follow: Ukraine wants to continue, while the Kremlin says none are planned."
+      ],
+      "why": "It is a rare face-to-face meeting of senior Russian and Ukrainian officials and may hint at wider US-Russia deal-making.",
+      "coverage": {
+        "left": 3,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
+          "url": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-05T18:55:00+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+          "published": "2026-11-05T20:52:27+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war",
+          "url": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia",
+          "published": "2026-11-05T17:26:07+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T19:08:08+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: First lady Melania Trump hosted Russian and Ukrainian officials. Trump met with Putin's envoy",
+          "url": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-hosted-russian-and-ukrainian-officials-trump-met-with-putins-envoy",
+          "published": "2026-11-05T22:04:18+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch live: Melania Trump hosts Russian, Ukrainian officials at White House",
+          "url": "https://thehill.com/video-clips/6200577-watch-live-melania-trump-russia-ukraine-officials-white-house-localized-ceasefire/",
+          "published": "2026-11-05T15:18:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Data center backlash shapes midterms as Democrats call for limits",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "Voters across the US approved most local ballot measures restricting data center construction, and several winning Democrats campaigned against data centers. Sen. Bernie Sanders called for a \"national data center moratorium,\" and Texas governor-elect Gina Hinojosa has pledged a moratorium on data center approvals. Meta president Dina Powell McCormick said building data centers will get harder and that the industry has not explained its benefits well. Duke Energy, by contrast, said the election won't hurt its plans to power new data centers. The industry is reportedly offering communities money and other concessions to win approval.",
+      "key_facts": [
+        "Al Jazeera, citing Data Centers on the Ballot, reports that 39 of 45 restriction measures passed and only one, in North Dakota, failed.",
+        "According to the CNBC Voter Poll, 56% of voters said AI and data centers were a crucial or major factor in their vote.",
+        "Texas holds 27% of planned US data center capacity, according to Wells Fargo.",
+        "Duke Energy reported $4.2 billion in profit over the first three quarters, up 11.2%.",
+        "Meta has data centers in 23 states."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE took a local business angle on Duke Energy's profits, relaying the company's view that newly elected leaders share its goals and that large users should pay their fair share."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC, The Hill, Axios and TechCrunch treated the backlash as a decisive electoral force. CNBC quoted Democrats' victory speeches and calls for a moratorium; Axios and TechCrunch focused on the industry's response, from concessions to rebranding data centers as \"compute campuses.\""
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business framed the result as an \"unmistakable message\" from voters about energy bills, land use and economic impact, a framing broadly similar to the center outlets'."
+        }
+      ],
+      "disputed": [
+        "The ballot tally differs: Axios headlines a 43-1 margin, while Al Jazeera reports 39 of 45 passed with one rejected.",
+        "How much the election will actually slow construction; Axios says analysts expect a slowdown but not a stop.",
+        "Whether proposed moratoriums at the national level or in Texas will be enacted."
+      ],
+      "why": "Local opposition to data centers has become a national political issue that could affect energy prices, local economies and the pace of AI development.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+          "published": "2026-11-05T19:12:39+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Duke Energy has made $4.2 billion this year. Charlotte population growth and data center development helped",
+          "url": "https://www.wfae.org/energy-environment/2026-11-05/duke-energy-has-made-4-2-billion-this-year-charlotte-population-growth-and-data-center-development-helped",
+          "published": "2026-11-05T21:47:58+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Data centers were on the ballot, and voters sent unmistakable message",
+          "url": "https://www.foxbusiness.com/politics/data-centers-ballot-voters-sent-unmistakable-message",
+          "published": "2026-11-05T11:48:48+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+          "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+          "published": "2026-11-05T20:17:16+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
+          "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
+          "published": "2026-11-05T10:30:07+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Voters fiercely reject data centers",
+          "url": "https://thehill.com/policy/technology/6199554-ai-data-centers-midterm-elections-texas-ohio/",
+          "published": "2026-11-05T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Tech stocks drop sharply after midterms on fears of AI slowdown",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "US stocks fell steeply on Thursday, led by chip and AI-related companies, as investors weighed what Democrats' midterm wins could mean for data center construction and AI regulation. The Nasdaq fell 5.5% and entered correction territory, and the S&P 500 and the Dow had their worst days since April 2025. Nvidia lost more than $400 billion in market value, and the so-called Magnificent Seven companies lost more than $1 trillion combined. Tesla and SpaceX also fell sharply after Elon Musk's heavy spending on losing Republican campaigns. Analysts warned that selling could spread to Asian markets on Friday.",
+      "key_facts": [
+        "The Nasdaq fell 5.52%, the S&P 500 fell 4.36%, and the Dow fell 1,833 points (3.44%).",
+        "The Philadelphia Semiconductor Index fell more than 12%; Nvidia fell about 9%.",
+        "The fall erased gains from Wednesday's post-election rally.",
+        "The VIX volatility index rose 69.66%, its third-biggest percentage gain on record.",
+        "UBS analysts estimated that about 30% of planned US data center capacity additions in 2028 could be at risk."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera covered the intraday sell-off and tied it to the ballot measure results. It highlighted Musk's spending against winning Texas Democrats and the regulatory risk to a possible SpaceX/Tesla merger."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and CNBC focused on the scale of the losses with detailed statistics. The BBC linked the drop both to Democrats' campaigns and to existing doubts about AI returns, and noted Musk's political spending."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business framed the drop as markets pricing in Democrats' regulatory threat to AI. It quoted analysts saying the buildout will become slower and more expensive, along with one who called the moves outsized."
+        }
+      ],
+      "disputed": [
+        "Whether the sell-off reflects lasting change or an overreaction; one analyst called the moves \"outsized.\"",
+        "Reports of Musk's spending differ: the BBC cites at least $45m backing Ken Paxton, while Al Jazeera cites $230m to defeat James Talarico.",
+        "How much of the decline comes from the election versus pre-existing doubts about returns on AI spending."
+      ],
+      "why": "AI stocks have driven much of the market's growth, so a slowdown in the buildout could hit investors' portfolios and retirement accounts broadly.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T22:13:38+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "AI stocks plunge after US election, driving down markets",
+          "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets",
+          "published": "2026-11-05T17:56:17+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Stocks plunge as Dem midterm sweep fuels AI regulatory concerns",
+          "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026",
+          "published": "2026-11-05T19:52:46+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+          "published": "2026-11-05T22:22:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Charlotte man charged after hidden-camera videos found in Old Navy investigation",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte-Mecklenburg Police say an investigation into secret peeping at Old Navy stores led them to more than 200 hidden-camera videos involving 25-year-old Dylan Keanu Hampton. Employees at the Charlotte Premium Outlets store found a camera under a dressing room bench on Oct. 11, and Hampton was arrested later that month. Investigators say the videos were recorded with cameras in a bedroom and a bathroom of a residence. He faces multiple felony secret peeping charges.",
+      "key_facts": [
+        "Hampton faces eight felony secret peeping charges, according to WCNC.",
+        "One warrant alleges peeping into an occupied dressing room at the SouthPark Mall Old Navy in July.",
+        "Old Navy says it referred the matter to police and is cooperating with the investigation."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Both local TV stations reported the police allegations factually. WSOC added tips on spotting hidden cameras, and WCNC identified the residence as a Pineville home."
+        }
+      ],
+      "disputed": [
+        "These are allegations; the case has not been tried."
+      ],
+      "why": "It raises privacy concerns about store dressing rooms in the Charlotte area.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Old Navy peeping investigation leads to discovery of more than 200 hidden-camera videos",
+          "url": "https://www.wsoctv.com/news/local/old-navy-peeping-investigation-leads-discovery-more-than-200-hidden-camera-videos/HC3QIGQ5GVE2BI33OHN6HZTZLE/",
+          "published": "2026-11-05T22:14:30+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CMPD: Man secretly recorded women at Old Navy and Pineville home",
+          "url": "https://www.wcnc.com/article/news/crime/secret-peeping-recording-suspect-arrested-multiple-incidents-charlotte-premium-outlets/275-f9ad0465-fca5-4c31-9563-84c462bbcdbf",
+          "published": "2026-11-05T21:53:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Charlotte showers end Friday ahead of dry, cooler weekend",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte has received just under half an inch of rain since Wednesday, ending three weeks of dry weather. Scattered showers and possibly storms are expected overnight and early Friday, mainly east and southeast of the city. Skies should clear by Friday afternoon, with weekend highs in the 60s.",
+      "key_facts": [
+        "Additional rainfall of a tenth to a quarter of an inch is expected.",
+        "Weekend highs will be in the mid-to-upper 60s, with lows in the 40s.",
+        "No significant severe weather threat is expected."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WBTV and WSOC gave matching forecasts."
+        }
+      ],
+      "disputed": [],
+      "why": "Friday's morning commute may be wet, but the weekend looks pleasant.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Shower and storm chances continue for Charlotte: Latest forecast",
+          "url": "https://www.wbtv.com/2026/11/05/shower-storm-chances-continue-charlotte-latest-forecast/",
+          "published": "2026-11-05T17:52:20+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FORECAST: On-and-off showers and thunder expected before a dry weekend",
+          "url": "https://www.wsoctv.com/weather/forecasts/forecast-on-and-off-showers-thunder-expected-before-dry-weekend/QGGZ5X5C7BDXNC5JPFL52YEKGA/",
+          "published": "2026-11-05T22:02:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Hong Kong activist Joshua Wong sentenced to 10 more years under security law",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Joshua Wong, a leading figure of Hong Kong's pro-democracy movement, was sentenced to 10 years in prison for colluding with foreign forces under the national security law. He had pleaded guilty in September. He was due for release in January after serving time for subversion. Prosecutors said he conspired with exiled activist Nathan Law to lobby for foreign sanctions in 2020. Hong Kong and Beijing officials defended the ruling, while the UK, a US congressman and fellow activists condemned it.",
+      "key_facts": [
+        "Wong, now 30, will be about 40 when released.",
+        "The lobbying activities took place between July and November 2020.",
+        "Chief Executive John Lee called Wong and Law \"primary culprits\" in undermining stability.",
+        "Rep. John Moolenaar called Wong a \"hero.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The BBC set out both the critics' and the authorities' positions. CNA profiled Wong's activism and his mitigation remarks. The Hill focused on Republican condemnation."
+        }
+      ],
+      "disputed": [
+        "Critics say the law silences dissent; authorities say it is needed for stability.",
+        "Wong said he believed his actions were within the law at the time."
+      ],
+      "why": "The sentence is a prominent test of how Hong Kong's security law is used against political activism.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (Asia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T13:51:03+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hong Kong's Joshua Wong: From teenage protest leader to a decade behind bars",
+          "url": "https://www.channelnewsasia.com/asia/hong-kong-joshua-wong-teenage-protest-leader-jail-6526956",
+          "published": "2026-11-05T09:54:39+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Top Republican condemns sentencing of ‘hero’ Hong Kong activist Joshua Wong",
+          "url": "https://thehill.com/homenews/house/6200253-john-moolenar-joshua-wong-activist-china-sentencing-2026/",
+          "published": "2026-11-05T13:47:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Seoul says US midterm results won't affect alliance",
+      "topics": [
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "South Korea's presidential office said Democrats' midterm wins will not affect the South Korea-US alliance, citing over 70 years of bipartisan US support. Seoul reaffirmed its $350 billion US investment package but said individual projects will be reviewed on commercial and national-interest grounds. Prime Minister Han Seong-sook said the Democratic victory was stronger than expected and that ministries are reviewing the implications.",
+      "key_facts": [
+        "Spokesperson Kang Yu-jung made the remarks after a meeting chaired by President Lee Jae Myung.",
+        "The investment package is worth $350 billion.",
+        "Democrats won control of both chambers of Congress."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald added analysts' view that divided government could give Seoul more leverage over US investment demands. Yonhap stressed that security commitments would be upheld."
+        }
+      ],
+      "disputed": [
+        "The outlets differ on whether the midterms were discussed at the meeting: Yonhap says they were not, while the Herald's account is ambiguous."
+      ],
+      "why": "It signals how a key US ally is adjusting to divided government in Washington.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US midterm outcome won't affect alliance, Cheong Wa Dae says",
+          "url": "https://www.koreaherald.com/article/10927593",
+          "published": "2026-11-05T08:46:37+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(2nd LD) Cheong Wa Dae says U.S. midterm results unlikely to affect S. Korea-U.S. alliance",
+          "url": "https://en.yna.co.kr/view/AEN20261105005352315",
+          "published": "2026-11-05T12:42:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "North Korean fishing boat found drifting off Ulleungdo",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "South Korea's military said a North Korean fishing boat was found drifting in international waters north of Ulleungdo on Tuesday and is under joint investigation. Officials did not say how many people were aboard or whether any wish to defect.",
+      "key_facts": [
+        "The boat was discovered by the coast guard and military.",
+        "Two North Korean crews picked up in 2025 were returned to the North at their request."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald and Yonhap gave brief, matching reports based on military statements."
+        }
+      ],
+      "disputed": [
+        "The crew size and the crew's intentions are undisclosed."
+      ],
+      "why": "How such crews are handled is closely watched in inter-Korean relations.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "N. Korean fishing boat found in waters off Ulleungdo",
+          "url": "https://www.koreaherald.com/article/10927691",
+          "published": "2026-11-05T11:27:14+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "N. Korean fishing boat found in waters off Ulleungdo",
+          "url": "https://en.yna.co.kr/view/AEN20261105010900320",
+          "published": "2026-11-05T11:49:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Sewol ferry archive and old Korean cookbooks added to UNESCO regional list",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "An archive documenting the 2014 Sewol ferry sinking and two historic Korean cookbooks were added to UNESCO's Memory of the World register for Asia and the Pacific at a meeting in Jakarta. The Sewol archive holds 235,220 records, many tied to Danwon High School, which lost 250 students in the disaster. South Korea now has eight entries on the regional list.",
+      "key_facts": [
+        "The sinking killed 304 passengers.",
+        "250 of the 325 Danwon High students aboard died."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald ran identical reports that emphasized remembrance and education."
+        }
+      ],
+      "disputed": [],
+      "why": "The listing preserves the memory of one of South Korea's deadliest modern disasters.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sewol ferry sinking archive, ancient cookbooks added to regional UNESCO list",
+          "url": "https://en.yna.co.kr/view/AEN20261105010800315",
+          "published": "2026-11-05T11:30:56+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sewol ferry sinking archive, ancient cookbooks added to regional UNESCO list",
+          "url": "https://www.koreaherald.com/article/10927693",
+          "published": "2026-11-05T11:34:25+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "No articles directly addressed formal AI regulation, and nothing covered the EU. On the US side, the midterms produced strong political momentum to restrict data centers. Most local restriction measures passed, Sen. Bernie Sanders and House progressives called for a national data center moratorium or pause, Texas governor-elect Gina Hinojosa pledged a moratorium on data center approvals, and Pennsylvania Gov. Josh Shapiro had already signed an executive order in August to slow data center development. Markets sold off on expectations of tighter AI and data center rules.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 6,
+    "center": 24,
+    "right": 5
+  },
+  "stats": {
+    "articles": 559,
+    "stories_found": 431,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
