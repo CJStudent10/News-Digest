@@ -106,9 +106,35 @@ python -m digest sources check                                # check every feed
 python -m digest site                                         # build the website into _site/
 ```
 
+## More than one digest: profiles
+
+The same engine can run several digests, each with its own sources, topics and style. Each profile is a folder
+in [`profiles/`](profiles/):
+
+| Profile | Style | Website | Email secret |
+|---|---|---|---|
+| `main` ([`config/`](config/)) | **balanced**: left/center/right framing on every story | `/` | `DIGEST_EMAIL_TO` |
+| `lighter` ([`profiles/lighter/`](profiles/lighter/)) | **light**: friendly and low-stress, heavy stories left out | `/lighter/` | `DIGEST_EMAIL_TO_LIGHTER` |
+
+**The Lighter Brief** is for someone who wants to stay informed but finds the news too depressing. It covers
+Jamaica, Charlotte, hip hop and celebrity news, cute animals, health and medical breakthroughs, and the
+main US headlines. It draws mostly from center-rated outlets. Heavy stories are kept out in two ways: a mute list
+(shootings, war and so on), and Claude marks any other grim story `too_heavy` so a spare one takes its place.
+Gossip briefs say what's rumor and what's confirmed. Medical briefs say how far along the research is.
+
+```bash
+python -m digest --profile lighter run --no-llm --dry-run
+python -m digest --profile lighter topics add "Food" --keywords "restaurant, recipe, chef"
+```
+
+To make your own, copy `profiles/lighter/` to `profiles/<name>/`, edit it, and add a build step for it in
+`.github/workflows/digest.yml`.
+
 ## Cost
 
-Basic mode is free. GitHub Actions is free for public repos, and a run takes about 2 minutes.
+Basic mode is free. GitHub Actions is free for public repos, and a run takes about 2 minutes. Each profile is
+billed separately, so two profiles cost about twice as much (the Lighter Brief sends fewer articles per story,
+so it costs a bit less).
 
 With Claude, each edition sends about 40-50K input tokens (8 stories × up to 6 articles) and gets back about
 5-10K. These are rough estimates; check your usage in the Anthropic Console after a few runs:

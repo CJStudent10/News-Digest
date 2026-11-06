@@ -156,8 +156,8 @@ def score_stories(stories: list[Story], config: Config, now: datetime | None = N
         s.score = n_sources + 1.5 * (buckets_present - 1) + 3.0 * topic_boost + recency
 
 
-def select_stories(stories: list[Story], config: Config) -> list[Story]:
-    max_stories = int(config.get("max_stories", 8))
+def select_stories(stories: list[Story], config: Config, limit: int | None = None) -> list[Story]:
+    max_stories = limit or int(config.get("max_stories", 8))
     min_sources = int(config.get("min_sources_per_story", 2))
     mute = config.mute_regex
 

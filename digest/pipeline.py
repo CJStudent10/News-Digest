@@ -12,12 +12,11 @@ from .config import BUCKETS, ROOT, Config
 from .fetch import fetch_all, fetch_full_text
 from .github import comment_on_issue, issue_investigations
 from .notify import send_email
-from .render import ARCHIVE_DIR, render_html, render_markdown, save_digest, site_url
+from .render import render_html, render_markdown, save_digest, site_url
 from .stories import cluster, match_investigations, score_stories, select_stories, tag_topics
 from .summarize import summarize
 
 log = logging.getLogger(__name__)
-STATE_FILE = ROOT / "data" / "state.json"
 
 
 def edition_name(local: datetime) -> str:
@@ -36,8 +35,11 @@ def _load_state(path: Path) -> dict:
 
 
 def run(config: Config, *, use_llm: bool = True, fixtures: Path | None = None, dry_run: bool = False,
-        now: datetime | None = None, archive_dir: Path = ARCHIVE_DIR, state_file: Path = STATE_FILE) -> dict:
+        now: datetime | None = None, archive_dir: Path | None = None, state_file: Path | None = None) -> dict:
     now = now or datetime.now(timezone.utc)
+    archive_dir = archive_dir or config.archive_dir
+    state_file = state_file or config.state_file
+    light = config.style == "light"
     tz = ZoneInfo(config.get("timezone", "UTC"))
     local = now.astimezone(tz)
     repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
@@ -51,12 +53,16 @@ def run(config: Config, *, use_llm: bool = True, fixtures: Path | None = None, d
     tag_topics(articles, config)
     stories = cluster(articles, float(config.get("cluster_threshold", 0.28)))
     score_stories(stories, config, now)
-    chosen = select_stories(stories, config)
+    max_stories = int(config.get("max_stories", 8))
+    # Light style: pick a few spares, because Claude may set aside stories that are too heavy.
+    chosen = select_stories(stories, config, limit=max_stories + 4 if light else max_stories)
     per_story = int(config.get("max_articles_per_story", 6))
 
     investigations = list(config.investigations)
     if repo and token and not fixtures:
-        investigations += issue_investigations(repo, token)
+        label = config.get("issue_label", "investigate")
+        if label:
+            investigations += issue_investigations(repo, token, label)
     inv_hits = match_investigations(articles, investigations)
 
     if config.get("fetch_full_text", True) and not fixtures:
@@ -78,13 +84,18 @@ def run(config: Config, *, use_llm: bool = True, fixtures: Path | None = None, d
         if not w:
             log.warning("no summary returned for %s; skipping it", story.id)
             continue
+        if w.get("too_heavy"):
+            log.info("set aside as too heavy: %s", w.get("headline"))
+            continue
+        if len(out_stories) >= max_stories:
+            break
         out_stories.append({
             "id": story.id,
             "headline": w["headline"],
             "topics": story.topics,
             "summary": w["summary"],
             "key_facts": w.get("key_facts", []),
-            "perspectives": [p for p in w.get("perspectives", []) if story.coverage.get(p["lean"])],
+            "perspectives": [] if light else [p for p in w.get("perspectives", []) if story.coverage.get(p["lean"])],
             "disputed": w.get("disputed_or_unclear", []),
             "why": w.get("why_it_matters", ""),
             "coverage": story.coverage,
@@ -115,6 +126,8 @@ def run(config: Config, *, use_llm: bool = True, fixtures: Path | None = None, d
         "local_date": local.strftime("%b %-d, %Y"),
         "slug": local.strftime("%Y-%m-%d-%H%M") + "-" + edition_name(local).lower(),
         "mode": mode,
+        "style": config.style,
+        "profile": config.profile,
         "overview": result.get("overview", ""),
         "stories": out_stories,
         "investigations": out_inv,
@@ -131,13 +144,16 @@ def run(config: Config, *, use_llm: bool = True, fixtures: Path | None = None, d
         return digest
 
     # 5. Save, then notify
-    save_digest(digest, archive_dir)
+    save_digest(digest, archive_dir, config.latest_file if archive_dir == config.archive_dir else None)
     _notify_issues(digest, inv_inputs, repo, token, state_file)
     if (config.get("email", {}) or {}).get("enabled", True):
         link = site_url()
+        if link and not config.is_main:
+            link += f"{config.profile}/"
         footer = f'<p style="font-size:13px"><a href="{link}">Read on the web</a></p>' if link else ""
         send_email(f"{digest['title']}: {digest['edition']} · {digest['local_date']}",
-                   render_html(digest, digest["title"], root=link or "") + footer, render_markdown(digest))
+                   render_html(digest, digest["title"], root=link or "") + footer, render_markdown(digest),
+                   profile=config.profile)
     return digest
 
 

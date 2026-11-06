@@ -41,9 +41,9 @@ def parse_keywords(body: str, title: str) -> list[str]:
     return [w for w in tokenize(title) if len(w) >= 5][:6]
 
 
-def issue_investigations(repo: str, token: str) -> list[Investigation]:
+def issue_investigations(repo: str, token: str, label: str = LABEL) -> list[Investigation]:
     try:
-        issues = _request("GET", f"/repos/{repo}/issues?labels={LABEL}&state=open&per_page=50", token)
+        issues = _request("GET", f"/repos/{repo}/issues?labels={label}&state=open&per_page=50", token)
     except Exception as exc:
         log.warning("couldn't read investigate issues: %s", exc)
         return []

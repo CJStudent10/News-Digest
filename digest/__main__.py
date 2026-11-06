@@ -18,7 +18,11 @@ import sys
 from datetime import date
 from pathlib import Path
 
-from .config import CONFIG_DIR, ROOT, load_config, save_yaml, _load
+from .config import DEFAULT_PROFILE, ROOT, load_config, profile_dir, save_yaml, _load
+
+
+def _cfg(args):
+    return load_config(profile_dir(args.profile), args.profile)
 
 
 def _split(s: str | None) -> list[str]:
@@ -29,7 +33,7 @@ def cmd_run(args) -> int:
     from .pipeline import run
     from .render import render_markdown
 
-    cfg = load_config()
+    cfg = _cfg(args)
     if args.no_full_text:
         cfg.settings["fetch_full_text"] = False
     d = run(cfg, use_llm=not args.no_llm, fixtures=Path(args.fixtures) if args.fixtures else None,
@@ -44,8 +48,9 @@ def cmd_run(args) -> int:
 def cmd_site(args) -> int:
     from .render import build_site
 
-    cfg = load_config()
-    n = build_site(Path(args.out), cfg.get("site_title", "My Daily Brief"), limit=int(cfg.get("site_archive_size", 60)))
+    cfg = _cfg(args)
+    n = build_site(Path(args.out), cfg.get("site_title", "My Daily Brief"), archive_dir=cfg.archive_dir,
+                   limit=int(cfg.get("site_archive_size", 60)), style=cfg.style)
     print(f"Built site with {n} digest(s) in {args.out}/")
     return 0
 
@@ -53,7 +58,7 @@ def cmd_site(args) -> int:
 def cmd_sources_check(args) -> int:
     from .fetch import fetch_all
 
-    cfg = load_config()
+    cfg = _cfg(args)
     ok = 0
     for src in cfg.sources:
         arts, failed = fetch_all([src], lookback_hours=48)
@@ -65,7 +70,8 @@ def cmd_sources_check(args) -> int:
 
 
 def cmd_topics(args) -> int:
-    data = _load("topics.yaml", CONFIG_DIR)
+    cdir = profile_dir(args.profile)
+    data = _load("topics.yaml", cdir)
     topics = data.setdefault("topics", [])
     if args.action == "list":
         for t in topics:
@@ -88,12 +94,13 @@ def cmd_topics(args) -> int:
     elif args.action == "mute":
         data["mute"] = sorted(set((data.get("mute") or []) + _split(args.name)))
         print(f"Muted: {', '.join(data['mute'])}")
-    save_yaml("topics.yaml", data)
+    save_yaml("topics.yaml", data, cdir)
     return 0
 
 
 def cmd_investigate(args) -> int:
-    data = _load("investigations.yaml", CONFIG_DIR)
+    cdir = profile_dir(args.profile)
+    data = _load("investigations.yaml", cdir)
     items = data.setdefault("investigations", []) or []
     data["investigations"] = items
     slug = re.sub(r"[^a-z0-9]+", "-", args.question.lower()).strip("-")[:50]
@@ -102,20 +109,21 @@ def cmd_investigate(args) -> int:
         sys.exit("Please pass --keywords, e.g. --keywords \"federal reserve, rate cut\"")
     items[:] = [i for i in items if i["id"] != slug]
     items.append({"id": slug, "question": args.question, "keywords": keywords, "opened": date.today().isoformat()})
-    save_yaml("investigations.yaml", data)
+    save_yaml("investigations.yaml", data, cdir)
     print(f"Following {args.question!r} (id: {slug})")
     return 0
 
 
 def cmd_investigations(args) -> int:
-    data = _load("investigations.yaml", CONFIG_DIR)
+    cdir = profile_dir(args.profile)
+    data = _load("investigations.yaml", cdir)
     items = data.get("investigations", []) or []
     if args.action == "list":
         for i in items:
             print(f"- [{i['id']}] {i['question']}  ({', '.join(i['keywords'])})")
         return 0
     data["investigations"] = [i for i in items if i["id"] != args.id]
-    save_yaml("investigations.yaml", data)
+    save_yaml("investigations.yaml", data, cdir)
     print("Closed." if len(data["investigations"]) < len(items) else f"No investigation with id {args.id!r}")
     return 0
 
@@ -123,6 +131,8 @@ def cmd_investigations(args) -> int:
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="python -m digest", description="Balanced personal news digest")
     p.add_argument("-v", "--verbose", action="store_true")
+    p.add_argument("-p", "--profile", default=DEFAULT_PROFILE,
+                   help="which digest: 'main' (config/) or a folder name in profiles/")
     sub = p.add_subparsers(dest="cmd", required=True)
 
     r = sub.add_parser("run", help="build a digest edition")

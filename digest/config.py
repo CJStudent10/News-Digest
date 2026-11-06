@@ -10,6 +10,19 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_DIR = ROOT / "config"
+PROFILES_DIR = ROOT / "profiles"
+DEFAULT_PROFILE = "main"
+
+
+def profile_dir(profile: str | None) -> Path:
+    """config/ for the main digest, profiles/<name>/ for any other."""
+    if not profile or profile == DEFAULT_PROFILE:
+        return CONFIG_DIR
+    path = PROFILES_DIR / profile
+    if not path.is_dir():
+        known = sorted(p.name for p in PROFILES_DIR.iterdir() if p.is_dir()) if PROFILES_DIR.exists() else []
+        raise SystemExit(f"No profile {profile!r}. Known profiles: {', '.join([DEFAULT_PROFILE, *known])}")
+    return path
 
 # Five-point lean scale collapsed into the three buckets used for balance.
 LEAN_BUCKET = {
@@ -124,6 +137,28 @@ class Config:
     mute: list[str]
     investigations: list[Investigation]
     config_dir: Path = CONFIG_DIR
+    profile: str = DEFAULT_PROFILE
+
+    @property
+    def is_main(self) -> bool:
+        return self.profile == DEFAULT_PROFILE
+
+    @property
+    def style(self) -> str:
+        """'balanced' (left/center/right framing) or 'light' (friendly, no heavy news)."""
+        return self.settings.get("style", "balanced")
+
+    @property
+    def archive_dir(self) -> Path:
+        return ROOT / ("archive" if self.is_main else f"archive-{self.profile}")
+
+    @property
+    def latest_file(self) -> Path:
+        return ROOT / ("LATEST.md" if self.is_main else f"LATEST-{self.profile}.md")
+
+    @property
+    def state_file(self) -> Path:
+        return ROOT / "data" / ("state.json" if self.is_main else f"state-{self.profile}.json")
 
     @cached_property
     def mute_regex(self) -> re.Pattern | None:
@@ -133,7 +168,7 @@ class Config:
         return self.settings.get(key, default)
 
 
-def load_config(config_dir: Path = CONFIG_DIR) -> Config:
+def load_config(config_dir: Path = CONFIG_DIR, profile: str = DEFAULT_PROFILE) -> Config:
     settings = _load("settings.yaml", config_dir)
     src = _load("sources.yaml", config_dir).get("sources", [])
     top = _load("topics.yaml", config_dir)
@@ -145,4 +180,5 @@ def load_config(config_dir: Path = CONFIG_DIR) -> Config:
         mute=top.get("mute", []) or [],
         investigations=[Investigation(**{**i, "opened": str(i.get("opened", ""))}) for i in inv],
         config_dir=config_dir,
+        profile=profile,
     )

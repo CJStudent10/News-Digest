@@ -1,0 +1,27 @@
+# Settings for "The Lighter Brief": a friendly, low-stress digest.
+# Run it with:  python -m digest --profile lighter run
+
+site_title: The Lighter Brief
+timezone: America/New_York
+style: light                    # friendly tone, no left/center/right panels, heavy stories left out
+
+lookback_hours: 14
+max_stories: 8
+max_articles_per_story: 4       # center-leaning outlets are picked first
+min_sources_per_story: 2
+cluster_threshold: 0.28
+
+fetch_full_text: true
+full_text_chars: 3000
+
+llm:
+  enabled: true
+  model: claude-opus-5-5
+  effort: medium
+  max_tokens: 32000
+
+email:
+  enabled: true                 # sends to the DIGEST_EMAIL_TO_LIGHTER secret (if set)
+
+issue_label: follow-lighter     # GitHub issues with this label become things this digest follows
+site_archive_size: 60

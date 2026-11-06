@@ -44,6 +44,33 @@ For each investigation, report what the matching articles add on the reader's qu
 
 Write in plain, clear English for a smart general reader. Don't include URLs; links are added separately."""
 
+LIGHT_SYSTEM_PROMPT = """\
+You are the editor of a friendly, low-stress news brief. The reader wants to stay informed but finds most news \
+too depressing. Your job is to keep them in the loop without the doom: calm, warm, plain English, a little fun \
+where the story allows it. Never invent facts, though. Use only the provided articles, and stay honest: \
+upbeat in tone doesn't mean spinning bad news into good news.
+
+Set too_heavy to true (and keep that story's other fields short) when the story centers on violence, killings, \
+war, terrorism, abuse, suicide, disasters with casualties, or graphic tragedy, or would leave the reader feeling \
+worse with nothing useful to take away. Those stories get dropped. Important civic news (an election result, a law \
+that affects people, a big economic change) is NOT too heavy: tell it calmly and focus on what it means for people.
+
+Stick to the facts as reported, in a neutral voice. Don't take political sides or use loaded words.
+
+For each story:
+- headline: short, clear, friendly. No clickbait.
+- summary: 2-4 sentences on what happened and why people are talking about it.
+- key_facts: 1-4 short, concrete facts (names, numbers, dates).
+- disputed_or_unclear: for gossip and celebrity drama, say what is rumor, what is alleged, and what is confirmed; \
+for medical or drug news, say how far along it is (lab or animal study, early trial, FDA approved) and any \
+important caveat. Otherwise an empty list.
+- why_it_matters: one sentence on why it's worth knowing, or the nice part of the story.
+
+overview: 2-3 relaxed sentences that sum up the edition, like a friend catching you up.
+
+For each investigation, say briefly what the matching articles add on the reader's question. Use status \
+"no_new_developments" and a brief note if they don't address it. Don't include URLs; links are added separately."""
+
 SCHEMA = {
     "type": "object",
     "additionalProperties": False,
@@ -143,6 +170,18 @@ def clean_api_key(raw: str | None) -> str | None:
     return m.group(0)
 
 
+def build_schema(style: str) -> dict:
+    """The balanced schema, or the light one (no left/center/right framing; adds too_heavy)."""
+    if style != "light":
+        return SCHEMA
+    schema = json.loads(json.dumps(SCHEMA))
+    story = schema["properties"]["stories"]["items"]
+    del story["properties"]["perspectives"]
+    story["properties"]["too_heavy"] = {"type": "boolean"}
+    story["required"] = [k for k in story["required"] if k != "perspectives"] + ["too_heavy"]
+    return schema
+
+
 def summarize_with_claude(prompt: str, config: Config) -> dict:
     import anthropic
 
@@ -152,11 +191,11 @@ def summarize_with_claude(prompt: str, config: Config) -> dict:
     with client.beta.messages.stream(
         model=llm.get("model", "claude-opus-5-5"),
         max_tokens=int(llm.get("max_tokens", 32000)),
-        system=SYSTEM_PROMPT,
+        system=LIGHT_SYSTEM_PROMPT if config.style == "light" else SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
         thinking={"type": "adaptive"},
         output_config={"effort": llm.get("effort", "medium"),
-                       "format": {"type": "json_schema", "schema": SCHEMA}},
+                       "format": {"type": "json_schema", "schema": build_schema(config.style)}},
         # If a safety classifier declines (rare for news, but possible on violent
         # stories), the API retries on a suitable fallback model instead of failing.
         betas=["server-side-fallback-2026-07-01"],
@@ -176,13 +215,13 @@ def summarize_with_claude(prompt: str, config: Config) -> dict:
 
 
 def summarize_basic(stories: list[tuple[Story, list[Article]]],
-                    investigations: list[tuple[Investigation, list[Article]]]) -> dict:
+                    investigations: list[tuple[Investigation, list[Article]]], style: str = "balanced") -> dict:
     """No API key: use the outlets' own blurbs, attributed, so the digest still works for free."""
     out_stories = []
     for story, arts in stories:
         lead = max(arts, key=lambda a: len(a.summary))
         perspectives = []
-        for bucket in ("left", "center", "right"):
+        for bucket in (() if style == "light" else ("left", "center", "right")):
             side = [a for a in arts if a.bucket == bucket]
             if side:
                 perspectives.append({"lean": bucket, "framing": " · ".join(f"{a.source_name}: “{a.title}”" for a in side)})
@@ -194,6 +233,7 @@ def summarize_basic(stories: list[tuple[Story, list[Article]]],
             "perspectives": perspectives,
             "disputed_or_unclear": [],
             "why_it_matters": "",
+            "too_heavy": False,
         })
     out_inv = [{
         "id": inv.id,
@@ -219,4 +259,4 @@ def summarize(stories, investigations, config: Config, use_llm: bool = True) -> 
             log.error("AI summary failed, using basic mode instead: %s%s", exc, hint)
     elif llm_on:
         log.info("No ANTHROPIC_API_KEY set; running in basic mode")
-    return summarize_basic(stories, investigations), "basic"
+    return summarize_basic(stories, investigations, config.style), "basic"

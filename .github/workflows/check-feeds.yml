@@ -16,4 +16,8 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python -m digest sources check | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Main digest feeds
+        run: python -m digest sources check | tee -a "$GITHUB_STEP_SUMMARY"
+        continue-on-error: true
+      - name: Lighter Brief feeds
+        run: python -m digest --profile lighter sources check | tee -a "$GITHUB_STEP_SUMMARY"

@@ -4,6 +4,11 @@ name: Manage topics
 on:
   workflow_dispatch:
     inputs:
+      profile:
+        description: Which digest to change
+        type: choice
+        options: [main, lighter]
+        default: main
       action:
         description: What to do
         type: choice
@@ -34,25 +39,27 @@ jobs:
       - name: Apply change
         env:
           ACTION: ${{ inputs.action }}
+          PROFILE: ${{ inputs.profile }}
           NAME: ${{ inputs.name }}
           KEYWORDS: ${{ inputs.keywords }}
           WEIGHT: ${{ inputs.weight }}
         run: |
           case "$ACTION" in
-            add-topic)       python -m digest topics add "$NAME" --keywords "$KEYWORDS" --weight "${WEIGHT:-1.0}" ;;
-            remove-topic)    python -m digest topics remove "$NAME" ;;
-            mute-words)      python -m digest topics mute "$NAME" ;;
-            follow-question) python -m digest investigate "$NAME" --keywords "$KEYWORDS" ;;
-            stop-following)  python -m digest investigations close "$NAME" ;;
+            add-topic)       python -m digest -p "$PROFILE" topics add "$NAME" --keywords "$KEYWORDS" --weight "${WEIGHT:-1.0}" ;;
+            remove-topic)    python -m digest -p "$PROFILE" topics remove "$NAME" ;;
+            mute-words)      python -m digest -p "$PROFILE" topics mute "$NAME" ;;
+            follow-question) python -m digest -p "$PROFILE" investigate "$NAME" --keywords "$KEYWORDS" ;;
+            stop-following)  python -m digest -p "$PROFILE" investigations close "$NAME" ;;
           esac
       - name: Commit
         run: |
           git config user.name "digest-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add config
+          git add config profiles
           git diff --cached --quiet && exit 0
-          git commit -m "Config: $ACTION ${NAME}"
+          git commit -m "Config ($PROFILE): $ACTION ${NAME}"
           git push
         env:
           ACTION: ${{ inputs.action }}
+          PROFILE: ${{ inputs.profile }}
           NAME: ${{ inputs.name }}

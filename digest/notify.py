@@ -10,12 +10,17 @@ from email.message import EmailMessage
 log = logging.getLogger(__name__)
 
 
-def email_configured() -> bool:
-    return all(os.environ.get(k) for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD", "DIGEST_EMAIL_TO"))
+def recipient_var(profile: str) -> str:
+    """DIGEST_EMAIL_TO for the main digest, DIGEST_EMAIL_TO_<PROFILE> for others."""
+    return "DIGEST_EMAIL_TO" if profile == "main" else "DIGEST_EMAIL_TO_" + profile.upper().replace("-", "_")
 
 
-def send_email(subject: str, html: str, text: str) -> bool:
-    if not email_configured():
+def email_configured(profile: str = "main") -> bool:
+    return all(os.environ.get(k) for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASSWORD", recipient_var(profile)))
+
+
+def send_email(subject: str, html: str, text: str, profile: str = "main") -> bool:
+    if not email_configured(profile):
         log.info("email not configured (SMTP_* secrets missing); skipping")
         return False
     host, user = os.environ["SMTP_HOST"], os.environ["SMTP_USER"]
@@ -23,7 +28,7 @@ def send_email(subject: str, html: str, text: str) -> bool:
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = os.environ.get("DIGEST_EMAIL_FROM") or user
-    msg["To"] = os.environ["DIGEST_EMAIL_TO"]
+    msg["To"] = os.environ[recipient_var(profile)]
     msg.set_content(text)
     msg.add_alternative(html, subtype="html")
     ctx = ssl.create_default_context()

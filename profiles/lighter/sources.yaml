@@ -1,0 +1,146 @@
+# Sources for The Lighter Brief. All free to read. Mostly center-rated outlets,
+# so stories come from the middle rather than from either side.
+# lean values are approximate (AllSides / Ad Fontes); edit freely.
+
+sources:
+  # ---------- Jamaica ----------
+  - id: gleaner
+    name: The Jamaica Gleaner
+    url: https://jamaica-gleaner.com/feed/rss.xml
+    lean: center
+    category: world
+  - id: observer
+    name: Jamaica Observer
+    url: https://www.jamaicaobserver.com/feed/
+    lean: center
+    category: world
+  - id: radiojamaica
+    name: Radio Jamaica News
+    url: https://radiojamaicanewsonline.com/feed
+    lean: center
+    category: world
+  - id: nationwide
+    name: Nationwide News Network (Jamaica)
+    url: https://nationwideradiojm.com/feed/
+    lean: center
+    category: world
+
+  # ---------- US headlines (center-rated) ----------
+  - id: bbc-us
+    name: BBC News (US & Canada)
+    url: https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+    lean: center
+    category: general
+  - id: axios
+    name: Axios
+    url: https://api.axios.com/feed/
+    lean: center
+    category: general
+  - id: thehill
+    name: The Hill
+    url: https://thehill.com/feed/
+    lean: center
+    category: politics
+  - id: newsweek
+    name: Newsweek
+    url: https://www.newsweek.com/rss
+    lean: center
+    category: general
+  - id: npr
+    name: NPR
+    url: https://feeds.npr.org/1001/rss.xml
+    lean: lean-left
+    category: general
+
+  # ---------- Good news & cute animals ----------
+  - id: goodnews
+    name: Good News Network
+    url: https://www.goodnewsnetwork.org/feed/
+    lean: center
+    category: general
+  - id: positivenews
+    name: Positive News
+    url: https://www.positive.news/feed/
+    lean: center
+    category: general
+  - id: upi-odd
+    name: UPI Odd News
+    url: https://rss.upi.com/news/odd_news.rss
+    lean: center
+    category: general
+  - id: reasons-cheerful
+    name: Reasons to be Cheerful
+    url: https://reasonstobecheerful.world/feed/
+    lean: center
+    category: general
+
+  # ---------- Hip hop & entertainment ----------
+  - id: xxl
+    name: XXL
+    url: https://www.xxlmag.com/feed/
+    lean: center
+    category: general
+  - id: billboard
+    name: Billboard
+    url: https://www.billboard.com/feed/
+    lean: center
+    category: general
+  - id: vibe
+    name: VIBE
+    url: https://www.vibe.com/feed/
+    lean: center
+    category: general
+  - id: allhiphop
+    name: AllHipHop
+    url: https://allhiphop.com/feed/
+    lean: center
+    category: general
+
+  # ---------- Health, medicine & pharma ----------
+  - id: medicalxpress
+    name: Medical Xpress
+    url: https://medicalxpress.com/rss-feed/
+    lean: center
+    category: science
+  - id: sciencedaily-health
+    name: ScienceDaily (Health & Medicine)
+    url: https://www.sciencedaily.com/rss/health_medicine.xml
+    lean: center
+    category: science
+  - id: npr-health
+    name: NPR Health
+    url: https://feeds.npr.org/1128/rss.xml
+    lean: lean-left
+    category: science
+  - id: fiercepharma
+    name: Fierce Pharma
+    url: https://www.fiercepharma.com/rss/xml
+    lean: center
+    category: business
+  - id: biopharmadive
+    name: BioPharma Dive
+    url: https://www.biopharmadive.com/feeds/news/
+    lean: center
+    category: business
+
+  # ---------- Charlotte local ----------
+  - id: wbtv
+    name: WBTV (CBS Charlotte)
+    url: https://www.wbtv.com/arc/outboundfeeds/rss/?outputType=xml
+    lean: center
+    category: local
+  - id: wsoc
+    name: WSOC-TV (ABC Charlotte)
+    url: https://www.wsoctv.com/arc/outboundfeeds/rss/?outputType=xml
+    lean: center
+    category: local
+  - id: wcnc
+    name: WCNC (NBC Charlotte)
+    url: https://www.wcnc.com/feeds/syndication/rss/news/local
+    lean: center
+    category: local
+  - id: qcnews
+    name: Queen City News (FOX 46)
+    url: https://www.qcnews.com/feed/
+    lean: center
+    category: local

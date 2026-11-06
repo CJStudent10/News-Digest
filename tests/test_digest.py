@@ -190,3 +190,102 @@ def test_one_passing_mention_does_not_tag_a_big_story(cfg, articles):
     score_stories(stories, c, NOW)
     fed = _find(stories, "federal reserve")
     assert "Local" not in fed.topics
+
+
+# ---------- The Lighter Brief (profiles/lighter) ----------
+
+def _write_feeds(folder, items):
+    from email.utils import format_datetime
+    from xml.sax.saxutils import escape
+    folder.mkdir(parents=True, exist_ok=True)
+    by_src = {}
+    for sid, title, summary in items:
+        by_src.setdefault(sid, []).append((title, summary))
+    for sid, entries in by_src.items():
+        body = "".join(
+            f"<item><title>{escape(t)}</title><link>https://example.com/{sid}/{n}</link>"
+            f"<description>{escape(d)}</description><pubDate>{format_datetime(NOW)}</pubDate></item>"
+            for n, (t, d) in enumerate(entries))
+        (folder / f"{sid}.xml").write_text(f'<?xml version="1.0"?><rss version="2.0"><channel><title>{sid}</title>{body}</channel></rss>')
+
+
+LIGHT_ITEMS = [  # SAMPLE DATA, made up for tests
+    ("gleaner", "Kingston hosts Caribbean food festival this weekend", "Vendors from across Jamaica set up in Kingston."),
+    ("observer", "Caribbean food festival opens in Kingston", "The Jamaica food festival expects record crowds."),
+    ("xxl", "Rapper Latto announces new album and tour dates", "Latto shared the album title on Instagram."),
+    ("vibe", "Latto reveals new album, tour dates", "The rapper Latto will tour in the spring."),
+    ("goodnews", "Rescue puppies reunited with the firefighters who saved them", "The puppies were adopted by local families."),
+    ("medicalxpress", "FDA approves new once-a-month migraine treatment", "The FDA approval follows a large clinical trial."),
+    ("biopharmadive", "Migraine treatment wins FDA approval after clinical trial", "Drugmaker says the treatment ships in January."),
+    ("wbtv", "Charlotte opens new greenway section in Mecklenburg County", "The greenway connects two Charlotte parks."),
+    ("qcnews", "New greenway section opens in Charlotte", "Mecklenburg County parks staff cut the ribbon."),
+    ("bbc-us", "Gunman kills four in mall shooting", "Police said the shooting happened Tuesday."),
+    ("axios", "Mall shooting: gunman kills four", "Officials are investigating the shooting."),
+    ("bbc-us", "Senate passes bill on airport security lines", "The Senate vote sends the bill to the president."),
+    ("axios", "Senate approves airport security lines bill", "The president is expected to sign the Senate bill."),
+]
+
+
+@pytest.fixture
+def light_cfg():
+    from digest.config import profile_dir
+    return load_config(profile_dir("lighter"), "lighter")
+
+
+def test_lighter_profile_loads_with_its_own_paths(light_cfg):
+    assert light_cfg.style == "light" and not light_cfg.is_main
+    assert light_cfg.archive_dir.name == "archive-lighter" and light_cfg.latest_file.name == "LATEST-lighter.md"
+    assert {"Jamaica", "Charlotte", "Hip Hop & Celebrity", "Cute Animals", "Health & Medicine"} <= {t.name for t in light_cfg.topics}
+    assert {s.bucket for s in light_cfg.sources} <= {"center", "left"}  # mostly center outlets
+
+
+def test_light_schema_drops_perspectives_and_adds_too_heavy():
+    story = summ.build_schema("light")["properties"]["stories"]["items"]
+    assert "perspectives" not in story["properties"] and "too_heavy" in story["required"]
+    assert set(story["required"]) == set(story["properties"])
+    assert "perspectives" in summ.SCHEMA["properties"]["stories"]["items"]["properties"]  # main schema untouched
+
+
+def test_lighter_basic_mode_mutes_heavy_news(light_cfg, tmp_path, monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    feeds = tmp_path / "feeds"
+    _write_feeds(feeds, LIGHT_ITEMS)
+    d = run(light_cfg, fixtures=feeds, now=NOW, dry_run=True)
+    heads = " ".join(s["headline"] for s in d["stories"]).lower()
+    assert "shooting" not in heads and "gunman" not in heads
+    topics = {t for s in d["stories"] for t in s["topics"]}
+    assert {"Jamaica", "Charlotte", "Hip Hop & Celebrity", "Cute Animals", "Health & Medicine"} <= topics
+    assert all(s["perspectives"] == [] for s in d["stories"])
+    md = render_markdown(d)
+    assert "left · " not in md and "(center)" not in md and "L 0" not in md
+
+
+def test_lighter_drops_stories_claude_flags_as_too_heavy(light_cfg, tmp_path, monkeypatch):
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
+    feeds = tmp_path / "feeds"
+    _write_feeds(feeds, LIGHT_ITEMS)
+    seen = {}
+
+    def fake_claude(prompt, config):
+        import re as _re
+        ids = _re.findall(r'<story id="(s\d+)"', prompt)
+        seen["ids"] = ids
+        return {"overview": "Easy day.", "investigations": [], "stories": [
+            {"story_id": sid, "headline": f"Story {sid}", "summary": "x", "key_facts": [],
+             "disputed_or_unclear": [], "why_it_matters": "", "too_heavy": sid == "s1"} for sid in ids]}
+
+    monkeypatch.setattr(summ, "summarize_with_claude", fake_claude)
+    d = run(light_cfg, fixtures=feeds, now=NOW, dry_run=True)
+    assert "Story s1" not in [s["headline"] for s in d["stories"]]
+    assert len(d["stories"]) == min(len(seen["ids"]) - 1, light_cfg.get("max_stories"))
+
+
+def test_lighter_site_goes_in_its_own_folder(light_cfg, tmp_path, monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    feeds = tmp_path / "feeds"
+    _write_feeds(feeds, LIGHT_ITEMS)
+    run(light_cfg, fixtures=feeds, now=NOW, archive_dir=tmp_path / "arch", state_file=tmp_path / "s.json")
+    n = build_site(tmp_path / "site" / "lighter", "The Lighter Brief", archive_dir=tmp_path / "arch", style="light")
+    html = (tmp_path / "site" / "lighter" / "index.html").read_text()
+    assert n == 1 and "The Lighter Brief" in html and "How it's being framed" not in html
+    assert "political spectrum" not in html

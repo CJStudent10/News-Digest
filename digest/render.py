@@ -45,17 +45,18 @@ def render_markdown(d: dict) -> str:
 
 
 def render_html(d: dict, site_title: str, root: str = "") -> str:
-    return _env.get_template("digest.html.j2").render(d=d, site_title=site_title, root=root, repo_url=repo_url())
+    return _env.get_template("digest.html.j2").render(d=d, site_title=site_title, root=root, repo_url=repo_url(),
+                                                      style=d.get("style", "balanced"))
 
 
-def save_digest(d: dict, archive_dir: Path = ARCHIVE_DIR) -> Path:
-    """Write archive/YYYY/MM/<slug>.json and .md, plus LATEST.md at the repo root."""
+def save_digest(d: dict, archive_dir: Path = ARCHIVE_DIR, latest_file: Path | None = None) -> Path:
+    """Write <archive>/YYYY/MM/<slug>.json and .md, plus LATEST.md (or LATEST-<profile>.md)."""
     folder = archive_dir / d["slug"][:4] / d["slug"][5:7]
     folder.mkdir(parents=True, exist_ok=True)
     (folder / f"{d['slug']}.json").write_text(json.dumps(d, indent=2, ensure_ascii=False), encoding="utf-8")
     md = render_markdown(d)
     (folder / f"{d['slug']}.md").write_text(md, encoding="utf-8")
-    (archive_dir.parent / "LATEST.md").write_text(md, encoding="utf-8")
+    (latest_file or archive_dir.parent / "LATEST.md").write_text(md, encoding="utf-8")
     return folder / f"{d['slug']}.json"
 
 
@@ -64,12 +65,13 @@ def load_archive(archive_dir: Path = ARCHIVE_DIR, limit: int = 60) -> list[dict]
     return [json.loads(f.read_text(encoding="utf-8")) for f in files]
 
 
-def build_site(out_dir: Path, site_title: str, archive_dir: Path = ARCHIVE_DIR, limit: int = 60) -> int:
+def build_site(out_dir: Path, site_title: str, archive_dir: Path = ARCHIVE_DIR, limit: int = 60,
+               style: str = "balanced") -> int:
     digests = load_archive(archive_dir, limit)
     if out_dir.exists():
         shutil.rmtree(out_dir)
     (out_dir / "digests").mkdir(parents=True)
-    common = {"site_title": site_title, "repo_url": repo_url()}
+    common = {"site_title": site_title, "repo_url": repo_url(), "style": style}
 
     for d in digests:
         (out_dir / "digests" / f"{d['slug']}.html").write_text(render_html(d, site_title, root="../"), encoding="utf-8")
@@ -80,13 +82,14 @@ def build_site(out_dir: Path, site_title: str, archive_dir: Path = ARCHIVE_DIR, 
             _env.get_template("archive.html.j2").render(digests=[], root="", **common), encoding="utf-8")
     (out_dir / "archive.html").write_text(
         _env.get_template("archive.html.j2").render(digests=digests, root="", **common), encoding="utf-8")
-    (out_dir / "feed.xml").write_text(build_feed(digests[:20], site_title), encoding="utf-8")
+    (out_dir / "feed.xml").write_text(build_feed(digests[:20], site_title, out_dir.name if style != "balanced" else ""),
+                                      encoding="utf-8")
     (out_dir / ".nojekyll").write_text("")
     return len(digests)
 
 
-def build_feed(digests: list[dict], site_title: str) -> str:
-    base = site_url() or ""
+def build_feed(digests: list[dict], site_title: str, subdir: str = "") -> str:
+    base = (site_url() or "") + (f"{subdir}/" if subdir and site_url() else "")
     items = []
     for d in digests:
         link = f"{base}digests/{d['slug']}.html"
@@ -97,5 +100,5 @@ def build_feed(digests: list[dict], site_title: str) -> str:
                      f"<pubDate>{pub}</pubDate><description>{escape(desc)}</description></item>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
             f"<title>{escape(site_title)}</title><link>{escape(base)}</link>"
-            "<description>A balanced personal news brief, three times a day.</description>"
+            "<description>A personal news brief, three times a day.</description>"
             + "".join(items) + "</channel></rss>\n")

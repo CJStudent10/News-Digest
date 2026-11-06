@@ -1,0 +1,48 @@
+# Topics for The Lighter Brief. See config/topics.yaml for what each field does.
+# Edit here, or:  python -m digest --profile lighter topics add "Food" --keywords "recipe,restaurant"
+
+topics:
+- name: Jamaica
+  keywords: [jamaica, jamaican, jamaicans, kingston, montego bay, ocho rios, negril, st catherine, st. catherine,
+    holness, golding, reggae, dancehall, caricom, caribbean]
+  sources: [gleaner, observer, radiojamaica, nationwide]
+  weight: 1.8
+  slots: 2
+- name: Charlotte
+  keywords: [charlotte, mecklenburg, charlotte-mecklenburg, cmpd, uptown charlotte, gastonia, concord, huntersville,
+    matthews, mint hill, cornelius, davidson, mooresville, kannapolis, lake norman, rock hill, fort mill,
+    carolina panthers, charlotte hornets, charlotte fc, north carolina]
+  weight: 1.5
+  slots: 2
+- name: Hip Hop & Celebrity
+  # Artist names that are also common words (Future, Ye) are left out on purpose.
+  keywords: [rapper, rappers, rap, hip hop, hip-hop, drake, kendrick lamar, cardi b, nicki minaj, megan thee stallion,
+    travis scott, kanye, kanye west, jay-z, beyonce, rihanna, lil wayne, 21 savage, latto, glorilla, sza, offset,
+    diss track, rap beef, grammy, grammys, bet awards, bet hip hop awards, r&b singer]
+  sources: [xxl, vibe, allhiphop]
+  weight: 1.5
+  slots: 2
+- name: Cute Animals
+  keywords: [dog, dogs, puppy, puppies, cat, cats, kitten, kittens, pet, pets, zoo, baby animal, rescue dog,
+    adopted, adoption, otter, panda, penguin, elephant, sloth, wildlife, aquarium, shelter animals]
+  sources: [goodnews, upi-odd]
+  exclude: [dog attack, mauled, animal cruelty, hunting]
+  weight: 1.4
+  slots: 1
+- name: Health & Medicine
+  keywords: [fda, fda approval, approved drug, clinical trial, vaccine, treatment, therapy, cure, cancer research,
+    alzheimer's, diabetes, obesity, weight loss, ozempic, wegovy, glp-1, pharmaceutical, drugmaker, pfizer,
+    eli lilly, moderna, novo nordisk, study finds, researchers, breakthrough]
+  sources: [medicalxpress, sciencedaily-health, npr-health, fiercepharma, biopharmadive]
+  weight: 1.4
+  slots: 2
+- name: US Headlines
+  keywords: [congress, senate, white house, supreme court, president, election, governor, federal reserve,
+    inflation, gas prices, jobs report, social security, medicare, holiday, thanksgiving, christmas]
+  weight: 1.0
+  slots: 2
+
+# Heavy stuff that never appears. Claude also sets aside any other story that's too grim.
+mute: [horoscope, killed, killing, killings, murder, murdered, homicide, shooting, shot dead, gunman, stabbing,
+  massacre, death toll, mass grave, war crimes, airstrike, bombing, terror attack, terrorist, hostage, genocide,
+  rape, sexual assault, child abuse, suicide, overdose deaths, fatal crash, plane crash, execution, beheaded]

@@ -4,12 +4,13 @@ _{{ d.local_time }} · {{ d.stats.articles }} articles from {{ d.stats.sources_o
 {% if d.overview %}> {{ d.overview }}
 
 {% endif -%}
-**Sources linked in this edition:** {{ d.balance.left }} left · {{ d.balance.center }} center · {{ d.balance.right }} right
-
+{%- set light = d.style == "light" %}
+{% if not light %}**Sources linked in this edition:** {{ d.balance.left }} left · {{ d.balance.center }} center · {{ d.balance.right }} right
+{% endif %}
 ---
 {% for s in d.stories %}
 ## {{ loop.index }}. {{ s.headline }}
-{% if s.topics %}`{{ s.topics | join("` `") }}` {% endif %}· Covered by {{ s.n_outlets }} outlet{{ "s" if s.n_outlets != 1 }} (L {{ s.coverage.left }} · C {{ s.coverage.center }} · R {{ s.coverage.right }}){% if s.blindspot %} · ⚠️ Mostly covered by {{ s.blindspot }}-leaning outlets{% endif %}
+{% if s.topics %}`{{ s.topics | join("` `") }}` {% endif %}· Covered by {{ s.n_outlets }} outlet{{ "s" if s.n_outlets != 1 }}{% if not light %} (L {{ s.coverage.left }} · C {{ s.coverage.center }} · R {{ s.coverage.right }}){% endif %}{% if s.blindspot and not light %} · ⚠️ Mostly covered by {{ s.blindspot }}-leaning outlets{% endif %}
 
 {{ s.summary }}
 {% if s.key_facts %}
@@ -21,14 +22,14 @@ _{{ d.local_time }} · {{ d.stats.articles }} articles from {{ d.stats.sources_o
 {% for p in s.perspectives %}- **{{ p.lean | title }}:** {{ p.framing }}
 {% endfor %}{% endif %}
 {%- if s.disputed %}
-**Disputed or unclear**
+**{{ "Good to know" if light else "Disputed or unclear" }}**
 {% for x in s.disputed %}- {{ x }}
 {% endfor %}{% endif %}
 {%- if s.why %}
-**Why it matters:** {{ s.why }}
+**{{ "Worth knowing:" if light else "Why it matters:" }}** {{ s.why }}
 {% endif %}
 **Read it yourself:**
-{% for l in s.links %}- [{{ l.source }}]({{ l.url }}) ({{ l.lean }}): {{ l.title }}
+{% for l in s.links %}- [{{ l.source }}]({{ l.url }}){% if not light %} ({{ l.lean }}){% endif %}: {{ l.title }}
 {% endfor %}
 {% endfor %}
 {%- if d.investigations %}
@@ -39,7 +40,7 @@ _{{ d.local_time }} · {{ d.stats.articles }} articles from {{ d.stats.sources_o
 ### {{ i.question }}{% if i.issue_number %} (#{{ i.issue_number }}){% endif %}
 
 {% if i.status == "new_developments" %}🆕 {% endif %}{{ i["update"] }}
-{% for l in i.links %}- [{{ l.source }}]({{ l.url }}) ({{ l.lean }}): {{ l.title }}
+{% for l in i.links %}- [{{ l.source }}]({{ l.url }}){% if not light %} ({{ l.lean }}){% endif %}: {{ l.title }}
 {% endfor %}{% endfor %}{% endif %}
 {%- if d.stats.failed %}
 ---

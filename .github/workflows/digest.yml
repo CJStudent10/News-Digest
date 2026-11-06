@@ -14,6 +14,11 @@ on:
         description: "Basic mode (skip Claude, free)"
         type: boolean
         default: false
+      profile:
+        description: "Which digest to build"
+        type: choice
+        options: [all, main, lighter]
+        default: all
 
 permissions:
   contents: write   # commit the digest archive
@@ -39,7 +44,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Build edition
+      - name: Build main digest
+        if: ${{ !inputs.profile || inputs.profile == 'all' || inputs.profile == 'main' }}
+        continue-on-error: true   # one digest failing shouldn't stop the other
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,18 +55,40 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
+          DIGEST_EMAIL_TO_LIGHTER: ${{ secrets.DIGEST_EMAIL_TO_LIGHTER }}
           SITE_URL: ${{ vars.SITE_URL }}
+          NO_LLM: ${{ inputs.no_llm && '--no-llm' || '' }}
         run: |
-          python -m digest run ${{ inputs.no_llm && '--no-llm' || '' }} || {
-            echo "::warning::Run failed; retrying once without full article text"
-            python -m digest run --no-full-text ${{ inputs.no_llm && '--no-llm' || '' }}
+          python -m digest run $NO_LLM || {
+            echo "::warning::Main digest failed; retrying once without full article text"
+            python -m digest run --no-full-text $NO_LLM
+          }
+
+      - name: Build Lighter Brief
+        if: ${{ !inputs.profile || inputs.profile == 'all' || inputs.profile == 'lighter' }}
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          DIGEST_EMAIL_TO: ${{ secrets.DIGEST_EMAIL_TO }}
+          DIGEST_EMAIL_TO_LIGHTER: ${{ secrets.DIGEST_EMAIL_TO_LIGHTER }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          NO_LLM: ${{ inputs.no_llm && '--no-llm' || '' }}
+        run: |
+          python -m digest --profile lighter run $NO_LLM || {
+            echo "::warning::Lighter Brief failed; retrying once without full article text"
+            python -m digest --profile lighter run --no-full-text $NO_LLM
           }
 
       - name: Commit archive
         run: |
           git config user.name "digest-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add archive LATEST.md data/state.json
+          git add -A archive* LATEST*.md data
           git diff --cached --quiet && exit 0
           git commit -m "Digest: $(date -u +'%Y-%m-%d %H:%M') UTC"
           for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
@@ -67,7 +96,9 @@ jobs:
       - name: Build website
         env:
           SITE_URL: ${{ vars.SITE_URL }}
-        run: python -m digest site --out _site
+        run: |
+          python -m digest site --out _site
+          python -m digest --profile lighter site --out _site/lighter
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

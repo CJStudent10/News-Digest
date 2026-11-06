@@ -1,0 +1,4 @@
+# Things this digest keeps an eye on. See config/investigations.yaml for how it works.
+# You can also open a GitHub issue labelled "follow-lighter".
+
+investigations: []
