@@ -1,153 +1,132 @@
-# My Daily Brief: Evening edition
-_Friday, November 6, 2026 · 9:23 PM EST · 505 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Saturday, November 7, 2026 · 5:41 AM EST · 331 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by the aftermath of Tuesday's midterm elections, in which Democrats won control of Congress: President Trump replaced chief of staff Susie Wiles with Stephen Miller, Mississippi's Senate race remains too close to call, and tech stocks and AI valuations were shaken by voter opposition to data centers. Also covered: a congressional request for Nvidia's CEO to testify about a reported Chinese spying effort, Charlotte's revived I-77 toll lane project and a University City shooting, new pandas in Atlanta, and the Korean Series.
+> This edition is dominated by the fallout from the US midterms, in which Democrats won both chambers of Congress. President Trump named Stephen Miller as chief of staff, and AI and tech stocks swung sharply amid expectations of tougher scrutiny of AI. Abroad, Paraguay's president was impeached and placed under house arrest after a bank collapse. Other stories include a faculty no-confidence vote at Cornell, a rejected wage deal at POSCO, North Korea–China party talks, and Charlotte-area local news.
 
 
-**Sources linked in this edition:** 8 left · 23 center · 2 right
+**Sources linked in this edition:** 8 left · 22 center · 2 right
 
 ---
 
 ## 1. Trump names Stephen Miller White House chief of staff, replacing Susie Wiles after midterm losses
-`US Headlines` · Covered by 15 outlets (L 4 · C 7 · R 4)
+`US Headlines` · Covered by 8 outlets (L 2 · C 5 · R 1)
 
-President Trump announced Friday that longtime adviser Stephen Miller, 41, will replace Susie Wiles as White House chief of staff, days after Republicans lost control of Congress. Wiles reportedly resigned Thursday night. Sources told Axios the departure was mutual but driven by the election results, while The Guardian described her as ousted. Trump called Miller "one of my most trusted advisors" and said he "wanted to make a change." Democratic leaders condemned the pick, and Fox News reported that Miller has helped plan executive actions Trump could take without Congress. Miller starts Monday.
+President Trump announced Friday that Deputy Chief of Staff Stephen Miller will replace Susie Wiles as White House chief of staff starting Monday, November 9. The move came three days after Democrats won majorities in both the House and Senate. Trump praised Wiles and said she will move to the "Trump Political Operation"; she reportedly submitted her resignation Thursday night. Democratic leaders condemned the pick, and several outlets and commentators read it as a sign that Trump will double down on hardline policies rather than moderate. Trump has not announced any further staff changes.
 
 **Key facts**
-- Miller, the architect of the administration's immigration crackdown and current deputy chief of staff, begins as chief of staff on Monday.
-- Wiles was the first woman to serve as chief of staff and Trump's longest-tenured chief of staff; she called serving Trump "the honor of a lifetime."
-- Hakeem Jeffries called Miller "a dangerous xenophobe and reckless extremist" and said "Fire him today"; Chuck Schumer said Trump "learned nothing from his historic defeat."
-- Trump cited the Supreme Court's June ruling in Trump v. Slaughter as giving the president "tremendous powers," and has called himself "Mr. Veto."
+- Miller, 41, takes over as chief of staff on Monday, November 9, 2026.
+- Wiles was the first woman to serve as White House chief of staff and had held the job since January 2025.
+- Trump said: "I wanted to make a change... Stephen's been great, and we've got to make moves."
+- Hakeem Jeffries called Miller "a dangerous xenophobe and reckless extremist" and said "Fire him today."
+- Miller is widely described as the architect of the administration's immigration crackdown.
 
 **How it's being framed**
-- **Left:** The Guardian and PBS framed the appointment as a defiant doubling-down after a "crushing" or "catastrophic" defeat. They foregrounded Miller's immigration record and quoted Democratic critics, including Jeffries, Schumer and Axelrod, as well as author Chris Whipple, who called it "almost a declaration of war." PBS widened the story to Republican infighting, including Rep. Comer on Iran and Hegseth, and Marjorie Taylor Greene saying "MAGA is completely dead."
-- **Center:** Axios framed the move as Trump swapping a moderating force for a maximalist, signaling he may double down on the hardline policies that hurt Republicans. The Hill focused on Jeffries' sharp reaction.
-- **Right:** Fox News cast the change as a tactical shift toward governing through executive action, citing Reuters reporting on Miller's planning with Russell Vought. It quoted White House officials warning Democrats against "sham investigations" and House Republicans privately voicing concern. The Washington Examiner framed it as Trump standing firm on the MAGA agenda and attributed the losses partly to Latino and male voters shifting to Democrats.
+- **Left:** The Guardian and PBS called Miller the "most controversial" and "polarizing" aide and said Wiles was "ousted." They foregrounded condemnations from Jeffries and Schumer and commentators who called the move "a declaration of war." They tied the pick to immigration becoming a political liability. PBS widened the story to Republican infighting, including criticism over the Iran war and Defense Secretary Hegseth.
+- **Center:** Axios framed the move as Trump trading "one of his few moderating forces" for a maximalist, driven by anger over the midterm losses, and reported that sources called the departure mutual. The Hill led with Jeffries's attack. The Korea Herald/Yonhap took a more neutral, announcement-focused approach and highlighted Wiles's role as a channel to South Korea.
+- **Right:** Reason, a libertarian outlet, published an opinion piece arguing that Miller will "reinforce Trump's worst instincts." It criticised his record on immigration, habeas corpus, birthright citizenship, courts and free speech, and argued the pick dims hopes of moderation after the midterms.
 
 **Disputed or unclear**
-- Whether Wiles left by mutual decision (per Axios sources) or was ousted (per The Guardian).
-- How far Trump will rely on executive action versus working with the Democratic Congress; he has said both that he looks forward to working with Democrats and that he will use vetoes and executive powers.
+- Whether Wiles left by mutual decision (Axios sources) or was pushed out (Guardian's word was "ousted").
+- Whether more personnel changes will follow; Trump has announced none.
+- Whether the appointment signals confrontation with the new Democratic Congress. Commentators say it does; Trump had pledged to work with Congress, according to PBS.
 
-**Why it matters:** The chief of staff pick is an early signal of whether the White House will confront or cooperate with the incoming Democratic Congress for the last two years of Trump's term.
+**Why it matters:** The chief of staff shapes how the White House operates, and this pick signals how Trump may approach a Democratic-controlled Congress.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff) (center): Trump replaces chief of staff Susie Wiles with Stephen Miller
+- [The Korea Herald](https://www.koreaherald.com/article/10929289) (center): Trump names Stephen Miller new White House chief of staff after midterm defeat
 - [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump) (lean-left): Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff
-- [Fox News](https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress) (right): Trump's move from Wiles to Miller signals major tactical shift for governing without Congress
-- [The Hill](https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/) (center): Jeffries calls Miller a ‘dangerous xenophobe’ after promotion: ‘Fire him today’
+- [Reason](https://reason.com/2026/11/06/as-chief-of-staff-stephen-miller-will-reinforce-trumps-worst-instincts/) (lean-right): As Chief of Staff, Stephen Miller Will Reinforce Trump's Worst Instincts
+- [Axios](https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff) (center): Trump replaces chief of staff Susie Wiles with Stephen Miller
 - [PBS NewsHour](https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda) (lean-left): What Trump picking Stephen Miller for chief of staff signals about his agenda
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4796047/trump-signals-no-retreat-maga-agenda-stephen-miller-promotion/) (lean-right): Trump signals no retreat from MAGA agenda with Stephen Miller promotion
+- [The Hill](https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/) (center): Jeffries calls Miller a ‘dangerous xenophobe’ after promotion: ‘Fire him today’
 
 
-## 2. Mississippi Senate race between Colom and Hyde-Smith remains undecided as ballots are counted
-`US Headlines` · Covered by 8 outlets (L 2 · C 6 · R 0)
+## 2. Paraguay's Senate removes President Santiago Peña, who is placed under house arrest after Ueno bank collapse
+`US Headlines` · Covered by 5 outlets (L 2 · C 2 · R 1)
 
-Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by roughly 2,000 to 2,500 votes, depending on the report, as Mississippi counties keep counting. Nobody, including the secretary of state, knows how many ballots remain: the state GOP estimates about 20,000, and the Colom campaign cited more than 15,000 affidavit ballots. Both sides have sent lawyers and exchanged legal letters over how affidavit ballots should be handled. Separately, independent candidate Ty Pinkins said he stayed in the race to pull votes from Hyde-Smith. Voters have until Nov. 10 to fix affidavit ballots, and certification is due Nov. 13.
-
-**Key facts**
-- CNBC, citing the AP, put Colom's lead at 1,936 votes (0.2 points) with 96.2% counted; Gray DC reported about 2,500 by Friday night.
-- Mississippi has no automatic recount law; a recount requires a court order, sought county by county.
-- The NRSC asked counties to separate and preserve affidavit ballots; Colom's lawyers said that demand has "no basis in Mississippi law."
-- Pinkins won about 2.1% of the vote and said he avoided campaigning in Black communities so he would not cut into Colom's support.
-
-**How it's being framed**
-- **Left:** The Guardian framed a possible Colom win as a "stunning upset" capping a Democratic sweep, highlighting the legal fight and quoting voting-rights groups worried about eligible voters being turned away. NPR focused on Mississippi's slow, decentralized election administration and its high rate of provisional ballots, quoting an expert who said the state "is not a model of election administration."
-- **Center:** Center outlets covered several angles: CNBC led with Pinkins' spoiler strategy; Gray DC with the counting process, the timeline and quotes from both parties; Axios with scrutiny of the state's voter-roll cleanup; and The Hill with a professor describing voter apathy toward Hyde-Smith.
-
-**Disputed or unclear**
-- The number of outstanding ballots is unknown, with estimates ranging from about 15,000 to 20,000.
-- Whether counties should segregate affidavit ballots is disputed between the two campaigns.
-- Whether Pinkins' candidacy actually drew more votes from Republicans than from Democrats rests largely on his own account and an April poll.
-- Court challenges are expected but not yet filed.
-
-**Why it matters:** The outcome will set the size of the new Democratic Senate majority and is testing an election system with no recount provisions.
-
-**Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html) (center): Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers) (lean-left): Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/06/votes-continue-be-counted-mississippis-senate-race/) (center): Votes continue to be counted in Mississippi’s Senate race
-- [NPR](https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots) (lean-left): No one knows how many ballots are outstanding in Mississippi's Senate race
-- [Axios](https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations) (center): Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls
-- [The Hill](https://thehill.com/homenews/campaign/6204220-mississippi-senate-race-colom-hyde-smith/) (center): ‘Voter apathy’ toward Hyde-Smith could be factor in Mississippi Senate race: Professor
-
-
-## 3. Tech stocks partly rebound after post-midterm selloff; administration says data center build-out will continue
-`AI & Cybersecurity` `US Headlines` · Covered by 4 outlets (L 1 · C 3 · R 0)
-
-US tech stocks recovered part of Thursday's sharp losses on Friday. The selloff was tied to fears that Democratic gains and voter opposition to data centers could slow AI infrastructure. Voters backed restrictions in nearly every data center ballot measure, and Texas' Democratic governor-elect has proposed a moratorium on new approvals. President Trump blamed Democrats for the drop but reaffirmed his support for AI. Economic adviser Kevin Hassett said planned data centers are unaffected and growth will continue. Meanwhile, OpenAI said it will stop using NDAs with public officials, and a lame-duck permitting bill is advancing.
+Paraguay's Senate voted Friday to remove President Santiago Peña for misconduct after the collapse of Ueno, a digital bank with ties to him. The collapse froze accounts for roughly 2.9 million customers. Senators impeached him instead of accepting his resignation, which stripped him of the immunity and lifetime Senate seat granted to ex-presidents. Prosecutors then ordered his arrest, along with former central bank chief Carlos Carvallo, and Peña was placed under house arrest pending questioning on Saturday. Vice President Pedro Alliana was sworn in to serve until August 2028. Peña denies wrongdoing, and his lawyer called the accusations "reckless" and "opportunistic."
 
 **Key facts**
-- Thursday: the Nasdaq fell 5.5%, the S&P 500 4.4% and the Dow more than 1,800 points; the Magnificent Seven lost about $1 trillion in market value.
-- Friday: the Nasdaq rose 1.09% to 24,579.42 and the S&P 500 gained 0.31%, while the Dow fell 0.46%.
-- Restrictions passed in all but one of 41 data center ballot measures (Newsweek/TechCrunch); Ballotpedia counted at least 46 of roughly 50.
-- A CNBC voter poll found 56% of voters called data centers a crucial or major issue.
-- Trump wrote that he is "100% in favor of Super Intelligence" and that the market fell "because the Dumocrats had a big Tuesday."
+- All 44 senators present voted to remove Peña; BBC said one of 45 was absent.
+- Ueno served about 2.94 million customers, roughly 60% of Paraguay's adults.
+- The central bank ordered Ueno's resolution or closure on Tuesday after its solvency ratio fell below half the required minimum.
+- Peña held shares in Ueno's parent company until April 2025 and named Carvallo, Ueno's former head, as central bank chief in 2023.
+- Peña is to be questioned Saturday on allegations including breach of trust and influence peddling.
 
 **How it's being framed**
-- **Left:** The Verge framed the election as "data centers lost the midterms," emphasizing community, grid and environmental concerns, Democratic calls for further restrictions, and environmentalists' fears that the permitting bill could limit oversight.
-- **Center:** Newsweek and CNBC focused on market moves and the administration's response, quoting Trump and Hassett at length alongside ballot and polling data. TechCrunch looked at broader implications for tech regulation.
+- **Left:** The Guardian called Peña a "rightwing president" and one of Trump's main allies in the region. It emphasised alleged favouritism toward Ueno and the conflict of interest in Carvallo regulating his former company, and quoted an analyst on pension funds flowing to the bank. Al Jazeera reported that Peña was moved to a military base for his own protection.
+- **Center:** DW and BBC gave detailed, procedural accounts: the impeachment articles, the resignation manoeuvre, public-fund exposure and protests. BBC included Peña's denial, his lawyer's response, Alliana's pledge to compensate depositors, and a senator calling it the biggest corruption scandal in the country's democratic history.
+- **Right:** The New York Post (via wire reporting) highlighted celebrating crowds, depositors' anger and the possible 10-year prison terms. It noted that Peña is the second president impeached since the Stroessner dictatorship and reported that Alliana is himself under investigation in connection with the bank.
 
 **Disputed or unclear**
-- The exact count of data center ballot measures and how many passed differs by source.
-- Whether Democratic control will actually slow data center growth is contested; Hassett says it will not.
+- The exact charges are described differently across outlets: illicit enrichment and money laundering (Guardian), versus breach of trust, influence peddling and misuse of office (BBC, NY Post).
+- Whether Peña formally resigned (DW) or only attempted to, with lawmakers refusing to accept it (Guardian, BBC).
+- Al Jazeera reports Peña was moved to a military base; other outlets describe house arrest at his home.
+- Whether Carvallo was taken into custody.
+- Whether and how depositors will be repaid.
+- The extent of Alliana's own investigation.
 
-**Why it matters:** Public resistance to data centers is now affecting markets, AI companies' plans and local utility and land-use decisions.
+**Why it matters:** A bank failure locking most adults out of their money has toppled a sitting president, testing the stability of Paraguay's institutions and economy.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/ai-stocks-rebound-trump-data-centers-12680473) (center): Trump Doubles Down on Data Centers After Post-Midterms Tech Stock Rout
-- [The Verge](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) (lean-left): All the latest updates on AI data centers
-- [CNBC](https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html) (center): Data center double-down: Hassett says blue wave won't stop AI build-out
-- [TechCrunch (AI)](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/) (center): How a Blue Wave midterm might reshape the AI industry
+- [Deutsche Welle](https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf) (center): Paraguay: President Santiago Pena under house arrest over bank crisis
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts) (lean-left): Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts
+- [New York Post](https://nypost.com/2026/11/07/world-news/ousted-paraguayan-president-santiago-pena-placed-under-house-arrest-after-bank-collapse/) (lean-right): Ousted Paraguayan President Santiago Peña placed under house arrest after bank collapse
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss) (center): Paraguay's president impeached and under house arrest after bank collapse
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126) (lean-left): Paraguay’s Pena under military protection in bank collapse chaos
 
 
-## 4. NCDOT reopens I-77 community center as revived toll lane project moves ahead
-`Charlotte Local` · Covered by 4 outlets (L 1 · C 3 · R 0)
+## 3. Cornell faculty senate passes no-confidence vote over handling of sexual assault allegations; trustees back president
+`US Headlines` · Covered by 5 outlets (L 2 · C 3 · R 0)
 
-North Carolina transportation officials reopened a community engagement center on West Morehead Street for the revived I-77 South toll lanes project. The $4.3 billion project had been rejected locally in May, then revived in September after the state promised $300 million in community benefits. Opponents say the project would cut into historically Black neighborhoods and won't ease congestion. Charlotte City Council votes Monday on a working group to oversee the benefits. Design is only 10–15% complete, and construction is not expected until the 2030s.
+Cornell University's Faculty Senate voted 75-50 on Friday to declare no confidence in the administration's ability to address what it called a sexual assault crisis. The vote followed a lawsuit by a former student, known as Jane Doe, who alleges she was drugged and raped at a Chi Phi fraternity house in October 2024; the seven accused men deny it. The vote is symbolic because the faculty senate has no power to remove leaders. The board of trustees said the vote reflected deep anger on campus but that it fully supports President Michael Kotlikoff. Kotlikoff has 30 days to respond in writing.
 
 **Key facts**
-- The project covers 11 miles of I-77 from uptown to the South Carolina line.
-- The state promised $300 million for parks, grocery stores and other benefits in west Charlotte, plus a cap over part of the highway.
-- The state had threatened to make local governments repay nearly $70 million in design costs.
-- Four developers are competing for the project.
+- The vote was 75-50, with five abstentions and five senators not voting.
+- The local district attorney initially declined to prosecute; New York's attorney general is now investigating.
+- Cornell disciplined students after a Title IX investigation: two were expelled, two suspended, and two assigned reflection papers.
+- The resolution did not call for Kotlikoff's resignation.
+- Governor Hochul said state police would investigate future sexual offence complaints at the university.
 
 **How it's being framed**
-- **Left:** WFAE emphasized the backlash, the impact on historically Black neighborhoods, the state's repayment threat that preceded the reversal, and Council member Malcolm Graham's remark that "no one's going to be happy."
-- **Center:** WSOC focused on NCDOT's promises of community engagement and the possible discounts and benefits, quoting Secretary Johnson and Mayor Harrington. Other local stations noted residents' memories of the original I-77 construction and the mayor addressing the pushback.
+- **Left:** PBS and The Guardian (both carrying Associated Press reporting) described the vote as a symbolic gesture reflecting deep discontent. They detailed the disciplinary outcomes, the district attorney's initial finding of consent, and statements from the trustees and Doe's lawyer.
+- **Center:** DW, BBC and The Hill gave similar accounts, adding Kotlikoff's listed reforms and the trustees' support. BBC noted that the resolution made no specific recommendations and reported the dispute over Doe's account of Kotlikoff's reaction to her.
 
 **Disputed or unclear**
-- Whether toll lanes will relieve congestion is disputed by opponents.
-- The design and the final details of the benefits have not been decided.
+- The underlying allegations are denied by all seven men, and none has been charged.
+- Doe says Kotlikoff asked why she waited to report; Cornell calls her account "incorrect."
+- Whether criminal charges will follow from the attorney general's review.
 
-**Why it matters:** The project will shape traffic, tolls and neighborhood investment in west and south Charlotte for years.
+**Why it matters:** The case is a high-profile test of how universities handle sexual assault allegations and who is held accountable.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/ncdot-outlines-next-steps-revived-i-77-toll-lane-project/SU4OM6DUKJFW7IKXJ2QW7IJKV4/) (center): NCDOT outlines next steps for revived I-77 toll lane project
-- [WFAE (Charlotte NPR)](https://www.wfae.org/politics/2026-11-06/ncdot-reopens-i-77-community-center-as-it-seeks-to-build-trust) (lean-left): NCDOT reopens I-77 community center as it seeks to 'build trust'
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/ncdot-reopens-community-hub-as-i-77-south-project-advances/) (center): NCDOT reopens community hub as I-77 South project advances
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/politics/ncdot-charlotte-interstate-77-community-engagement-center-reopens-express-lane-project/275-75d38aaa-124d-44b3-9c87-11a071dc3fb3) (center): I-77 South Community Engagement Center reopens after city revives toll lane project
+- [Deutsche Welle](https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf) (center): Cornell faculty declares 'no confidence' in university leadership
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape) (lean-left): Cornell faculty vote 'no confidence' in university leadership after alleged fraternity gang rape
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss) (center): Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders) (lean-left): Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape
+- [The Hill](https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/) (center): Cornell Faculty Senate passes no-confidence vote over Jane Doe case, but board of trustees backs president
 
 
-## 5. Investors expect lower Anthropic IPO valuation; OpenAI reportedly raises $11 billion at $1.25 trillion
+## 4. Expectations for Anthropic's IPO valuation fall as OpenAI raises funds at $1.25 trillion
 `AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-After this week's tech selloff, investors told CNBC that Anthropic's hoped-for $2 trillion IPO valuation is unlikely and that even $1.5 trillion is a "stretch." One investor suggested $1 trillion to $1.25 trillion is more likely. Bloomberg reported that some potential buyers see it as low as $1.1 trillion. Anthropic, which plans to list on the Nasdaq under ANT, is expected to start its roadshow next week. Separately, Bloomberg reported that OpenAI has raised $11 billion at a $1.25 trillion valuation, short of earlier targets.
+After this week's tech selloff, investors told CNBC that a $1.5 trillion valuation for Anthropic's upcoming Nasdaq IPO now looks like a "stretch," down from a reported target of as much as $2 trillion. Anthropic declined to comment and is expected to start its roadshow next week. Separately, Bloomberg reported that OpenAI has raised $11 billion at a $1.25 trillion valuation, in a round that could reach about $20 billion. That is below its earlier hoped-for $30 billion at $1.4 trillion. Outlets linked the cooling to the market slump and to voter backlash against AI and data centres in the midterms.
 
 **Key facts**
-- Anthropic was privately valued at $965 billion as of May and filed its S-1 last week.
-- OpenAI's round may reach about $20 billion; it had initially sought up to $30 billion at $1.4 trillion.
-- OpenAI was valued at $852 billion in March.
-- Anthropic declined to comment to CNBC.
+- Anthropic was privately valued at $965 billion as of May and plans to list under the ticker ANT.
+- OpenAI's new round values it at $1.25 trillion, with $11 billion raised so far.
+- OpenAI was valued at $852 billion in March, when it raised $122 billion.
+- The Nasdaq fell more than 5% on Thursday, its steepest drop in 19 months.
 
 **How it's being framed**
-- **Left:** The Verge tied OpenAI's lower-than-hoped round to falling tech stocks and public opinion turning against AI and data centers, and noted Sam Altman's comments on prioritizing safety before an IPO.
-- **Center:** CNBC and TechCrunch framed the story around investor sentiment, market jitters after the midterms and expectations of regulation, quoting analyst Gil Luria that "the market really needs this IPO to go well."
+- **Left:** The Verge focused on OpenAI's raise and tied the lower figures to public opinion turning against AI companies and data centres. It noted Sam Altman's comments about putting safety before an IPO.
+- **Center:** CNBC and TechCrunch focused on investor expectations and market conditions, quoting an analyst who said the market "really needs this IPO to go well." They cited anticipated regulatory challenges after the Democratic wins.
 
 **Disputed or unclear**
-- Anthropic's final IPO valuation is unsettled, with estimates ranging from $1.1 trillion to $1.5 trillion.
-- OpenAI's funding figures come from unnamed sources and the round has not closed.
+- Anthropic's likely valuation: investors told CNBC $1–1.25 trillion, while Bloomberg cited buyers suggesting as low as $1.1 trillion.
+- Neither company has confirmed the figures; OpenAI's round has not closed.
 
-**Why it matters:** How Anthropic's IPO is priced will be a major test of investor confidence in AI after the election.
+**Why it matters:** The pricing of the largest AI companies is a key gauge of whether investor enthusiasm for AI is holding up.
 
 **Read it yourself:**
 - [CNBC](https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html) (center): Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'
@@ -155,114 +134,140 @@ After this week's tech selloff, investors told CNBC that Anthropic's hoped-for $
 - [TechCrunch (AI)](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) (center): OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
 
 
-## 6. Two people seriously hurt in shooting near UNC Charlotte off-campus apartments
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 5. Two people seriously injured in shooting near UNC Charlotte
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Two people were taken to the hospital with life-threatening injuries after a shooting at about 4:15 p.m. Friday on Education Way in Charlotte's University City area, according to MEDIC. The location is near The Mill, an off-campus apartment complex near UNC Charlotte. The university said no university housing was involved. Victims and suspects have not been identified, and the circumstances are unclear.
+Two people were shot Friday at about 4:15 p.m. at off-campus apartments on Education Way in Charlotte's University City area, near UNC Charlotte. MEDIC said both had life-threatening injuries. WSOC noted that homicide detectives were not called, which it said strongly suggests the victims are expected to survive. No information on victims or suspects has been released.
 
 **Key facts**
-- The shooting was in the 10900 block of Education Way, off East Mallard Creek Church Road.
-- Two victims had life-threatening injuries, per MEDIC.
-- UNC Charlotte said the incident did not involve university housing.
+- The shooting happened in the 10900 block of Education Way, off East Mallard Creek Church Road.
+- Two people were taken to hospital with life-threatening injuries, according to MEDIC.
 
 **How it's being framed**
-- **Center:** All four local stations gave brief, factual reports based on MEDIC information, noting the story was still developing.
+- **Center:** Local TV outlets reported the basic facts from MEDIC and described it as a developing story.
 
 **Disputed or unclear**
-- WSOC said the injuries were life-threatening but also that the victims are expected to be OK; the victims' condition is unclear.
-- The circumstances, suspects and number of people involved are unknown.
+- The victims' identities, any suspects and the motive are unknown.
 
-**Why it matters:** The shooting happened in a heavily student-populated area near UNC Charlotte.
+**Why it matters:** It is a serious violent incident in a busy student housing area.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/06/2-hurt-shooting-near-off-campus-housing-charlotte-officials-confirm/) (center): 2 hurt in shooting near off-campus housing in Charlotte, officials confirm
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/2-hospitalized-university-city-shooting/UQBRALLDQZG5JI4XZLUDP3VX2Q/) (center): 2 hospitalized in University City shooting
 - [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/university-city/2-injured-in-shooting-at-university-area-apartments-medic/) (center): 2 injured in shooting at University-area apartments: Medic
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f) (center): 2 people hurt in University City shooting
 
 
-## 7. House committee chairs ask Nvidia CEO to brief them on reported Chinese spying effort
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 6. US tech stocks partly rebound after midterm-linked selloff; Asian and European markets fall
+`AI & Cybersecurity` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-The Republican chairs of the House China, Foreign Affairs and Intelligence committees asked Nvidia CEO Jensen Huang to attend a closed-door briefing on Nov. 18. The request follows New York Times reports that US intelligence officials believe he was targeted by a Chinese spying operation. The reports center on Alice Huang, an executive at Singapore-based Megaspeed, an Nvidia customer. The Times now reports that China's Ministry of State Security recruited her. Nvidia rejected the claims and would not say whether Huang will appear.
+The Nasdaq rose about 1% on Friday, recovering part of Thursday's 5.5% drop. That drop was driven by fears that Democrats' midterm wins and voter skepticism of AI would slow data centre expansion. A stronger-than-expected jobs report of 165,000 new jobs helped sentiment. Asian and European markets fell, with South Korea's Kospi and Japan's Nikkei down about 6% and the FTSE 100 down about 1%. President Trump reiterated his support for "super intelligence," while analysts warned that more selling could follow.
 
 **Key facts**
-- The letter was signed by Reps. John Moolenaar, Brian Mast and Rick Crawford.
-- Megaspeed has bought billions of dollars of Nvidia chips.
-- Nvidia said: "Meetings with customers are part of a CEO's job."
-- Per the NYT, Trump was briefed last year on the relationship but took no action.
+- The Nasdaq fell 5.5% on Thursday, its worst day in 19 months.
+- On Friday the S&P 500 closed up 0.3% and the Dow fell 0.4%.
+- The FTSE 100 closed down about 1% after falling as much as 2.35% during the day.
+- SK Hynix shares fell more than 10%.
 
 **How it's being framed**
-- **Left:** The Verge emphasized the new NYT detail that China's MSS recruited Alice Huang, described the two Huangs' relationship as "close," and noted Trump was briefed but did not act.
-- **Center:** Ars Technica focused on the congressional request, quoting the lawmakers' national security concerns and Nvidia's denial.
+- **Left:** The Guardian stressed the global rout and margin calls, quoting strategists on worries about returns from AI spending and possible renewed Iran conflict. It also noted that most indices are still up for the year.
+- **Center:** BBC emphasised the partial recovery and the mixed picture. It quoted voices saying the election signals a need to rethink AI, including one who called the drop a "necessary market correction," and included Trump's pro-AI remarks.
 
 **Disputed or unclear**
-- The espionage claims come from intelligence officials via the NYT and are rejected by Nvidia.
-- Whether Jensen Huang will appear is unknown.
+- The jobs report month: BBC says September, while The Guardian says October with unemployment at 4.1%.
+- Small differences in figures: the Nasdaq's Friday gain (1.1% vs 1%) and the Kospi's drop (6% vs more than 6.5%).
+- Whether further selling will follow.
 
-**Why it matters:** It raises questions about China's access to advanced US AI chip technology through one of the industry's most important companies.
+**Why it matters:** Expectations about AI regulation under a Democratic Congress are moving global markets and retirement portfolios.
 
 **Read it yourself:**
-- [Ars Technica](https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/) (center): Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns
-- [The Verge](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) (lean-left): China reportedly recruited AI exec to spy on Jensen Huang
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss) (center): AI stocks climb after trillions wiped from market values
+- [The Guardian (US)](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph) (lean-left): Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph
 
 
-## 8. Two giant pandas on loan from China make public debut at Zoo Atlanta
-`Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 7. Silfab Solar to restart chemical commissioning at Fort Mill plant
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Giant pandas Ping Ping, a male, and Fu Shuang, a female, both six years old, made their public debut at Zoo Atlanta on Friday after arriving from Chengdu in September. They are on loan for 10 years and are hoped to be suitable mates. Atlanta is now one of three US zoos with pandas, alongside San Diego and the National Zoo. CNA noted the debut came as US officials urged China to uphold the October 2025 trade deal.
+Silfab Solar gave South Carolina environmental regulators a 72-hour notice on Friday that it will restart chemical commissioning at its Fort Mill plant on Monday. The work has been paused since March, after two chemical leaks. The company said it completed a thorough review of the facility and its procedures. It also said the restart does not mean manufacturing will begin immediately.
 
 **Key facts**
-- The pandas will stay at Zoo Atlanta for 10 years.
-- Atlanta has had no pandas since 2024; seven cubs were born there previously.
-- An estimated 1,800 pandas live in the wild.
+- Notice was given to the South Carolina Department of Environmental Services on Friday.
+- Work had been paused since two chemical leaks in March.
+- Commissioning restarts Monday.
 
 **How it's being framed**
-- **Center:** BBC and CNA framed the debut as a light story with diplomatic context. CNA emphasized "panda diplomacy" as Chinese soft power and mentioned trade tensions and Beijing recalling pandas from Japan.
+- **Center:** Local outlets relayed the company's announcement, with WSOC noting its months of coverage of the leaks.
 
-**Why it matters:** Panda loans have long served as a barometer of US-China relations.
+**Disputed or unclear**
+- When actual manufacturing will begin.
+
+**Why it matters:** Nearby residents have followed the plant's safety record since the March leaks.
 
 **Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/world/china-panda-us-zoo-atlanta-6532496) (center): China's giant pandas make public debut at US zoo
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/cwm244x9dzy2o?at_medium=RSS&at_campaign=rss) (center): Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/silfab-solar-restart-chemical-commissioning-process-fort-mill-plant/AJ6LRAFVI5DLZPIDTT65NHT5SI/) (center): Silfab Solar to restart chemical commissioning process at Fort Mill plant
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/business/silfab-solar-to-resume-commissioning-operations-at-fort-mill-facility-york-school-district-scdes/275-fca6be79-f25e-45d2-8392-134fece99640) (center): Silfab Solar to resume commissioning activities at Fort Mill facility
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/fort-mill/silfab-provides-sc-officials-with-72-hour-notice-on-resuming-solar-cell-production/) (center): Silfab provides SC officials with 72-hour notice on resuming solar cell production
 
 
-## 9. KT Wiz's Sam Hilliard credits rubber ball drills for strong Korean Series
-`Korea` · Covered by 1 outlet (L 0 · C 1 · R 0)
+## 8. POSCO union members reject tentative wage deal
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-KT Wiz outfielder Sam Hilliard is batting .583 in the Korean Series against the Samsung Lions. He credits a rubber ball hitting drill, suggested by hitting coach Kim Kang, with fixing his swing after a slow start to his first KBO season. He led the KBO with 139 RBIs and ranked second with 44 home runs. His first-inning double drove in the Wiz's only run in Friday's 5-1 loss.
+Unionised workers at South Korean steelmaker POSCO rejected a tentative wage agreement, with 51.69% voting against. The deal, reached October 30 after about 30 rounds of talks, included a 2.6% base pay rise, a 6 million won lump sum and improved benefits. The union had initially sought a 7.1% raise and other bonuses. A union official said renegotiations will likely be needed, and management said it remains committed to dialogue.
 
 **Key facts**
-- Hilliard was hitting .232 at the end of April.
-- He is 7-for-12 with three doubles in the series.
-- He is the first foreign player to win Player of the Month twice in one season since the award began in 2010.
+- 51.69% voted against the deal and 48.31% voted for it.
+- Talks began June 16, and the union held two partial strikes in September.
 
 **How it's being framed**
-- **Center:** Yonhap ran a player profile built on an interview with Hilliard about his training.
+- **Center:** Korea Herald and Yonhap gave straightforward accounts quoting both union and management.
 
-**Why it matters:** Hilliard is a key figure in the ongoing KBO championship series.
+**Disputed or unclear**
+- The timing of renegotiations and whether further strikes will follow.
+
+**Why it matters:** Labour unrest at a major steelmaker could affect South Korean industry.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107000900315) (center): Wiz star Hilliard taking advantage of rubber ball training during Korean Series
+- [The Korea Herald](https://www.koreaherald.com/article/10929322) (center): Posco union votes down tentative wage agreement
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107002500315) (center): POSCO union votes down tentative wage deal
 
 
-## 10. Samsung Lions pitcher Chris Paddack carries heavy postseason workload
-`Korea` · Covered by 1 outlet (L 0 · C 1 · R 0)
+## 9. Senior North Korean official holds third high-level meeting in Beijing
+`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Samsung Lions right-hander Chris Paddack, an Austin, Texas native, threw 295 pitches over a 10-day span in the KBO postseason, including seven innings in Game 2 of the Korean Series. He said he feels great and cited Texas pitching legends Nolan Ryan and Roger Clemens as inspiration. Yonhap reported that the Lions lead the best-of-seven series 2-1, two wins from their first title since 2014.
+Kim Song-nam, the head of international affairs for North Korea's Workers' Party, met Chinese Communist Party officials Liu Haixing and Cai Qi in Beijing on Friday, according to North Korean state media. The meetings were part of a four-day visit that also included talks with Foreign Minister Wang Yi. Both sides pledged deeper ties, and Cai said China's friendship would not waver regardless of international changes. Yonhap linked the visit to efforts to repair ties after they appeared to cool over North Korea's alignment with Russia.
 
 **Key facts**
-- Paddack is 30 years old.
-- He threw 102 pitches in seven innings in Game 2, which the Lions won 3-2 in 12 innings.
-- He started on three days' rest on Oct. 30 against the Kia Tigers.
+- Kim arrived in Beijing on Tuesday for a four-day visit.
+- The talks follow Xi Jinping's June summit with Kim Jong-un in Pyongyang.
 
 **How it's being framed**
-- **Center:** Yonhap ran a personality profile emphasizing Paddack's Texas pride and durability.
+- **Center:** Both outlets relied on North Korean state media accounts; Yonhap added context about cooled relations over Russia.
 
-**Why it matters:** Paddack's workload could decide the Korean Series.
+**Disputed or unclear**
+- Accounts come mainly from North Korean state media.
+
+**Why it matters:** Closer China–North Korea ties shape regional security.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107000700315) (center): Lions pitcher Chris Paddack: proud Texan with ice in veins
+- [The Korea Herald](https://www.koreaherald.com/article/10929317) (center): North Korea-China strengthen ties with 3rd high-level meeting
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107001800315) (center): N. Korean envoy holds 3rd high-level meeting in China
+
+
+## 10. Lee marks South Korea's first persimmon export to China in 17 years
+`Korea` `Asia Business & Politics` `US Headlines` · Covered by 1 outlet (L 0 · C 1 · R 0)
+
+South Korean President Lee Jae Myung said on X that Korean persimmons are entering the Chinese market after 17 years of negotiations. He pledged support for opening new export markets for farmers. In a separate post, he backed Busan's push to become a maritime hub after foreign card spending in the city passed 1 trillion won.
+
+**Key facts**
+- This is the first persimmon shipment to China after 17 years of negotiations.
+- Foreign credit card spending in Busan passed 1 trillion won.
+
+**How it's being framed**
+- **Center:** The Korea Herald relayed Lee's posts without additional comment.
+
+**Why it matters:** It is a small trade opening that reflects efforts to diversify South Korea's farm exports.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10929338) (center): Lee hails Korea’s first persimmon export to China in 17 years
 
 
 ---
@@ -271,5 +276,4 @@ Samsung Lions right-hander Chris Paddack, an Austin, Texas native, threw 295 pit
 
 ### What is happening with AI regulation in the US and EU?
 
-🆕 US only: the BBC reports that fears of more AI regulation after the midterms appear to have helped spark Thursday's AI stock selloff, though concerns about the industry had been building for some time. Related coverage in this edition (s3, s5) shows voters backing restrictions in nearly all data center ballot measures, Democratic leaders calling for further limits, Texas' governor-elect proposing a data center moratorium, and a lame-duck permitting bill that critics say could limit data center oversight. No EU developments were reported.
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss) (center): Why the US midterms sparked an AI stock selloff
+No articles directly address US or EU AI regulation. Market coverage (stories s4 and s6) notes that Democrats campaigned on AI and data centre rules and that investors expect more regulatory scrutiny from the incoming Congress, but no specific legislation or EU action was reported.
