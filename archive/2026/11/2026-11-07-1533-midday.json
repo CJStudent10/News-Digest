@@ -1,0 +1,646 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-07T20:33:45.804962+00:00",
+  "local_time": "Saturday, November 7, 2026 · 3:33 PM EST",
+  "local_date": "Nov 7, 2026",
+  "slug": "2026-11-07-1533-midday",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by the fallout from Republicans' heavy losses in this week's US midterms. President Trump named Stephen Miller as chief of staff, offered UFC chief Dana White the press secretary job, and ordered a Justice Department probe into Democrats he accuses of threatening officials and donors. Elsewhere, Anthropic prepares an IPO amid voter skepticism of AI, Malaysia's palace and attorney-general clash over Najib Razak's house arrest, and there are several local crime stories from Charlotte and Seoul.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump offers White House press secretary job to UFC CEO Dana White",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump said on Truth Social on Saturday that he had offered the White House press secretary job to Dana White, the UFC CEO and a longtime friend and ally. Trump called White \"a violent Fighter and Warrior\" and asked him to bring several mixed martial arts fighters as assistants, \"even though some are not from our Country,\" to \"defend us against the Lunatic Left.\" White has not formally responded, though CNBC reported he posted an Instagram story of himself at the press secretary's lectern captioned \"On to the next chapter.\" The post follows the October 16 departure of press secretary Katie Zacharia after five days in the job, and comes days after Democrats won control of Congress.",
+      "key_facts": [
+        "Trump wrote: \"Dana, please take the job!\"",
+        "Fighters named included Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier and Amanda Nunes; the Guardian and Washington Examiner also list Kayla Harrison, rendered as \"Harris\" in the post.",
+        "Katie Zacharia, who replaced Karoline Leavitt, left on October 16 after five days and one briefing.",
+        "White, 57, has led the UFC since 2001 and has known Trump for roughly 25 years.",
+        "The Guardian puts the press secretary salary at $195,000 a year."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian questioned whether the offer was a real plan or an attention-grabbing stunt to change the subject from election losses. It noted White's estimated fortune, the AI-generated image in Trump's post, and the misspelled fighter name. It also pointed out that Nurmagomedov is reportedly close to Putin and that Makhachev has defended Palestinian civilians in Gaza, contrasting conservative media criticism of a Democrat's use of 'Alhamdulillah'."
+        },
+        {
+          "lean": "center",
+          "framing": "Center outlets (Newsweek, CNBC, DW, The Hill) largely reported the post straight. They supplied background on White's career and friendship with Trump and on the press office's rapid turnover. Newsweek mentioned that Nicki Minaj had been floated as a candidate. CNBC tied the offer to Miller's promotion and the midterm results, and reported White's Instagram response."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner gave a brief, quote-driven report describing White as a longtime ally, with no added commentary."
+        }
+      ],
+      "disputed": [
+        "Whether White will accept; his Instagram post could be acceptance or a joke, CNBC said.",
+        "Whether the offer is serious; the Guardian raised the possibility of a stunt.",
+        "Whether the named fighters, including non-US citizens, could or would serve."
+      ],
+      "why": "The press secretary is the administration's main daily voice to the public, and the role has turned over repeatedly at a politically difficult moment.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 1
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Offers UFC CEO Dana White Press Secretary Job: ‘A Violent Fighter’",
+          "url": "https://www.newsweek.com/trump-offers-ufc-ceo-dana-white-press-secretary-job-a-violent-fighter-12682142",
+          "published": "2026-11-07T19:06:44+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+          "published": "2026-11-07T19:51:32+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump offers White House press secretary position to Dana White",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4796567/trump-white-house-press-secretary-dana-white/",
+          "published": "2026-11-07T18:56:26+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump offers UFC chief Dana White press secretary job",
+          "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+          "published": "2026-11-07T20:27:10+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump offers White House press secretary role to Dana White",
+          "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-07T19:46:00+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live updates: Melania Trump attends LSU-Alabama game; UFC’s Dana White offered press secretary role",
+          "url": "https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/",
+          "published": "2026-11-07T20:17:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Trump directs Justice Department to investigate Democrats over alleged threats",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "In a Saturday Truth Social post, President Trump said he was ordering the Justice Department to investigate Democrats he accused of threatening administration officials with impeachment and Republican donors with imprisonment, calling it \"extortion at the highest level.\" He named only Sen. Elissa Slotkin of Michigan. He said she planned to \"go after all young people that believe in Republican Values\"; outlets linked this to her October 13 remarks about deterring people from working for the administration. Several outlets noted Trump cited no statute or evidence. Slotkin rejected the accusations and pointed to a grand jury's earlier refusal to indict her over a separate video.",
+      "key_facts": [
+        "Slotkin said on Oct. 13: \"I want that deterrence message sent,\" about young people weighing work in the Trump administration.",
+        "Reps. Hank Johnson and Deborah Ross have said they would support impeaching Attorney General Todd Blanche, Fox reported.",
+        "A federal grand jury earlier declined to indict Slotkin and other lawmakers over a video urging troops to refuse illegal orders.",
+        "Rep. Robert Garcia, the likely House Oversight chair, posted \"LAWYER UP\" after the election, Al Jazeera reported.",
+        "Slotkin's response: \"If you didn't break the law, then it's all good.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera repeatedly noted that Trump gave no evidence. It listed the investigations Democrats plan, into Trump family finances, ICE, Hegseth and Blanche, and placed the order alongside Trump's earlier calls to investigate James Comey and Letitia James."
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek and CNBC compared Trump's characterization of Slotkin with her actual quoted remarks and noted the absence of a cited statute or evidence. Both detailed the earlier DOJ effort against Slotkin and the grand jury's refusal to indict; Newsweek carried Slotkin's rebuttal. Newsweek added midterm context, including Ted Cruz's \"Watergate-level repudiation\" remark."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News focused on the specific Democrats who have called for impeaching Blanche, quoting Johnson and Ross. It noted that Trump did not identify the donors, that Rep. Thomas Massie plans impeachment articles against Hegseth, and, citing Reuters, that Democrats do plan to investigate some GOP donors. It quoted Slotkin's original remarks."
+        }
+      ],
+      "disputed": [
+        "Whether any Democratic statements amount to a crime; Trump cited no statute or evidence.",
+        "Which donors were allegedly threatened and what \"threatening letters\" Trump referred to.",
+        "Whether the DOJ will actually open an investigation."
+      ],
+      "why": "It sets up a direct clash between the president's use of the Justice Department and a Democratic Congress preparing oversight investigations.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Orders DOJ to Investigate Democrats Over ‘Lawfare’ Threats",
+          "url": "https://www.newsweek.com/trump-orders-doj-to-investigate-democrats-over-lawfare-threats-12682021",
+          "published": "2026-11-07T18:58:02+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people",
+          "published": "2026-11-07T19:42:46+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Trump orders DOJ probe into Democrats over alleged threats against admin officials",
+          "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
+          "published": "2026-11-07T18:34:14+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+          "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+          "published": "2026-11-07T20:28:17+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump asks DOJ to investigate Democrats calling for impeachment of cabinet officials",
+          "url": "https://thehill.com/homenews/administration/6206168-trump-democrats-impeachment-threats-extortion-doj/",
+          "published": "2026-11-07T20:05:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump announced Friday that deputy chief of staff Stephen Miller will become chief of staff on Monday, November 9. Susie Wiles is moving to the \"Trump Political Operation.\" The move comes three days after Republicans lost control of both chambers of Congress. At a Friday event, Miller pledged \"total devotion\" to Trump and said the president \"saved America.\" Some Republicans criticized the choice, and Trump told 60 Minutes he may make \"a few changes\" to his cabinet.",
+      "key_facts": [
+        "Miller takes over as chief of staff on November 9, 2026.",
+        "Wiles was the first woman to serve as White House chief of staff.",
+        "Rep. Marlin Stutzman called the move a \"horrible decision\"; Rep. Don Bacon said Miller \"cost us seats in Texas and Arizona.\"",
+        "Trump said he has confidence in Defense Secretary Pete Hegseth."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, PBS/AP and Al Jazeera emphasized Miller's loyalty pledge and his hardline immigration record. The Guardian described the agenda as \"far-right, nativist\" and quoted Republican critics, plus Roger Stone's \"wartime consigliere\" label. PBS/AP compiled Miller's past statements, including \"We are being conquered\" and his calling a man killed by ICE a \"domestic terrorist.\""
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (Yonhap) reported the announcement plainly and highlighted Wiles' role as a channel to South Korea. Axios called Miller unlike any modern chief of staff, a believer in near-limitless presidential power. The Hill offered an explainer."
+        }
+      ],
+      "disputed": [
+        "Whether further cabinet changes will follow; Trump declined to say who.",
+        "Whether Miller's policies contributed to Republican losses, as Bacon argues."
+      ],
+      "why": "The chief of staff shapes how the White House operates and how it will deal with a newly Democratic Congress for the next two years.",
+      "coverage": {
+        "left": 3,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump names Stephen Miller new White House chief of staff after midterm defeat",
+          "url": "https://www.koreaherald.com/article/10929289",
+          "published": "2026-11-07T08:28:36+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+          "published": "2026-11-07T15:15:11+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump's \"war-time consigliere\" and the Miller Doctrine",
+          "url": "https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style",
+          "published": "2026-11-07T13:43:44+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
+          "url": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
+          "published": "2026-11-07T17:39:49+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
+          "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/",
+          "published": "2026-11-07T18:22:14+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge",
+          "published": "2026-11-07T15:29:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Anthropic prepares IPO amid voter skepticism of AI and a report on accelerating AI research",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Anthropic is preparing a Nasdaq listing, likely in mid-November. Investors expect it to target a valuation of $1 trillion to $1.5 trillion, down from a $2 trillion figure floated earlier, CNBC reported. CNBC said midterm voters rebuked AI and data centers, and that tech stocks have fallen. Separately, a report by the AI safety group METR found Anthropic's models improving roughly twice as fast as a year ago, largely due to AI itself, The Verge reported. The Verge noted that Anthropic was allowed to redact parts of the report.",
+      "key_facts": [
+        "Local communities opposed data center ballot measures in 40 of 41 cases, CNBC reported.",
+        "More than half of voters called AI data centers a \"crucial\" or \"major factor\" in their congressional vote, per an NBC News exit poll.",
+        "METR's 11-week review found employees self-reporting about 12x productivity using Anthropic's top internal model.",
+        "Anthropic has finished training three models it has not released, per METR."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge focused on safety concerns. It stressed the pace of self-accelerating AI development, the tension with CEO Dario Amodei's calls to slow down, and the redactions that limit public understanding."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC framed the IPO against market declines and electoral backlash against AI and billionaires. It quoted academics who expect public scrutiny alongside an IPO strategist who argued Anthropic shouldn't face harsher treatment than private rivals."
+        }
+      ],
+      "disputed": [
+        "The final IPO valuation and timing.",
+        "How much the redacted portions of the METR report would change the public picture.",
+        "Whether fully autonomous AI research contributions will grow soon, as METR suggests."
+      ],
+      "why": "It would be the first pure-play AI company to go public, at a time when public trust in AI appears to be falling.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+          "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+          "published": "2026-11-07T13:00:01+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "published": "2026-11-07T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Malaysia's palace and attorney-general clash over Najib Razak's house arrest",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Malaysia's attorney-general on Friday blocked former Prime Minister Najib Razak's transfer to house arrest, hours after he left prison following payment of a RM50 million fine. King Sultan Ibrahim had granted the house arrest in September. On Saturday the palace said the pardon was \"clear, evident and without any ambiguity\" and warned that questioning it amounts to defying the king. The attorney-general's office denied challenging royal authority. It said a court must clarify whether Najib's first sentence is complete, since that determines when his separate 15-year sentence begins. The prime minister's office later said the attorney-general would seek an audience with the king to express intent to comply.",
+      "key_facts": [
+        "Najib has been jailed since August 2022 over 1MDB-linked graft.",
+        "The fine paid was RM50 million (about US$12.3 million).",
+        "House arrest covers only his reduced six-year first sentence, not a 15-year sentence from December 2025, which he is appealing."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera led with the king's warning, quoted Najib's lawyers demanding his immediate transfer, and reported the prime minister's office statement about seeking pardon. It noted Sedition Act limits on criticizing royalty."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA led with the attorney-general's defense, laid out its legal reasoning in detail, and called the clash rare under Malaysia's constitutional monarchy."
+        }
+      ],
+      "disputed": [
+        "When, or whether, Najib will be moved to house arrest.",
+        "How a court would rule on the effect of the discharge order on his sentences."
+      ],
+      "why": "It tests the balance of power between Malaysia's monarchy, government and courts in its biggest corruption case.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke",
+          "url": "https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961",
+          "published": "2026-11-07T10:09:25+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
+          "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib",
+          "published": "2026-11-07T19:24:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Statesville police investigate death after person found with traumatic injuries",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Statesville police responded around 7:49 p.m. Friday to a report of suspicious activity near Museum Road and Millsaps Road. They found a person with traumatic injuries, who later died at a hospital. Police have not identified the victim or described the circumstances. Investigators are speaking with a person of interest and are not actively searching for a suspect.",
+      "key_facts": [
+        "The incident happened Friday, Nov. 6, around 7:49 p.m.",
+        "The victim died at an area hospital.",
+        "Tips go to Statesville Police at 704-878-3406."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WBTV, WSOC and Queen City News all relayed the police account with no added framing."
+        }
+      ],
+      "disputed": [
+        "The victim's identity, the cause of the injuries, and the role of the person of interest."
+      ],
+      "why": "It is an active death investigation in the Charlotte area.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Person found with ‘traumatic injuries’ near Statesville neighborhood, police said",
+          "url": "https://www.wbtv.com/2026/11/07/person-found-with-traumatic-injuries-near-statesville-neighborhood-police-said/",
+          "published": "2026-11-07T14:13:52+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Statesville Police conducting death investigation",
+          "url": "https://www.wsoctv.com/news/local/statesville-police-conducting-death-investigation/34CWDHLEE5GOXPO4MQHU2ER6KQ/",
+          "published": "2026-11-07T13:36:15+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Police investigating death after person found with traumatic injuries in Statesville",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/iredell-county/statesville/police-investigating-death-after-person-found-with-traumatic-injuries-in-statesville/",
+          "published": "2026-11-07T12:54:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Nvidia CEO's daughter cancels planned South Korea visit, sources say",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea"
+      ],
+      "summary": "Madison Huang, a senior director at Nvidia and daughter of CEO Jensen Huang, abruptly canceled a trip to Seoul for Nvidia AI Day Seoul 2026, according to sources cited by Yonhap. The sources attributed the cancellation to \"family issues.\" Some observers speculated it may be linked to foreign reports that US intelligence believes a woman close to Jensen Huang was a Chinese spy. The event is expected to go ahead.",
+      "key_facts": [
+        "The event is scheduled for Monday and Tuesday at COEX in Seoul.",
+        "She had planned to meet South Korean government officials."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald (carrying Yonhap) ran identical reports, citing sources and presenting the spy link only as observer speculation."
+        }
+      ],
+      "disputed": [
+        "The actual reason for the cancellation; any link to the espionage reports is speculation."
+      ],
+      "why": "Nvidia is central to South Korea's AI ambitions, and the spying reports could affect the company's standing.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia CEO's daughter cancels planned visit to S. Korea: sources",
+          "url": "https://en.yna.co.kr/view/AEN20261107003400315",
+          "published": "2026-11-07T13:20:12+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia CEO's daughter cancels planned visit to S. Korea: sources",
+          "url": "https://www.koreaherald.com/article/10929374",
+          "published": "2026-11-07T13:29:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Seoul court issues arrest warrants in a stalking-murder case and a hospital stabbing",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "The Seoul Western District Court issued two arrest warrants Saturday, citing flight risk in each case. One was for a man in his 60s accused of killing his ex-girlfriend, a woman in her 70s who had filed four stalking reports against him. Prosecutors had earlier rejected a warrant for him, citing his stage-4 lung cancer. The other was for a woman in her 50s accused of stabbing a psychiatry professor at Severance Hospital; the doctor's injuries are not life-threatening.",
+      "key_facts": [
+        "The murder victim reported the suspect for stalking four times since September 2024.",
+        "In July the suspect was arrested for breaching a restraining order, but prosecutors declined to seek detention.",
+        "The doctor suffered a wound of about 5 cm to the face and hand."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald and Yonhap reported factually. The Herald highlighted the prior warnings and the prosecutors' earlier refusal to detain the suspect."
+        }
+      ],
+      "disputed": [
+        "The motives in both cases remain under investigation."
+      ],
+      "why": "The murder case raises questions about how Korean authorities handle repeated stalking reports.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Court approves arrest of Eunpyeong stalking-murder suspect",
+          "url": "https://www.koreaherald.com/article/10929358",
+          "published": "2026-11-07T12:09:26+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Court issues arrest warrant for woman accused of stabbing doctor at hospital",
+          "url": "https://en.yna.co.kr/view/AEN20261107003200315",
+          "published": "2026-11-07T10:56:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Mother seeks information on son's fatal Gastonia hit-and-run, $1,000 reward offered",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "The mother of Chris McAllaster, who was killed while riding a moped in Gastonia on June 9, is asking the public for information. A $1,000 reward is offered. Gastonia police say he was struck by a driver; the available report gives few further details.",
+      "key_facts": [
+        "The crash happened June 9 in Gastonia.",
+        "A $1,000 reward is offered."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Queen City News centered the family's appeal."
+        }
+      ],
+      "disputed": [
+        "The driver has not been identified."
+      ],
+      "why": "The case remains unsolved months later, and police are seeking public help.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "$1,000 reward: Mother pleads for answers months after son's fatal Gastonia hit-and-run",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/gaston-county/gastonia/1000-reward-mother-pleads-for-answers-months-after-sons-fatal-gastonia-hit-and-run/",
+          "published": "2026-11-07T17:50:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Report: US approved Nvidia chip sales to a Chinese firm with an apparently empty office",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "The Verge, citing The New York Times, reported that New Matrix is approved to buy Nvidia's H200 AI chips, yet its listed office appears empty and building managers have no record of it. Its owners reportedly have ties to a Chinese private equity firm blacklisted by the US since 2024. The Times describes a broader pattern of approvals for firms tied to restricted entities. The Trump administration eased Biden-era limits after Nvidia agreed to give the government 15% of sales.",
+      "key_facts": [
+        "New Matrix was created 17 months ago.",
+        "Nvidia agreed to a 15% cut of sales to the US government."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge framed the story as a vetting failure by both the Commerce Department and Nvidia, and noted Jensen Huang's lobbying and the reported spying plot targeting him."
+        }
+      ],
+      "disputed": [
+        "Whether New Matrix operates anywhere, and how widespread the vetting gaps are; no response from Commerce or Nvidia is reported."
+      ],
+      "why": "It raises questions about whether export controls on advanced AI chips to China are being enforced.",
+      "coverage": {
+        "left": 1,
+        "center": 0,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The US let Nvidia sell chips to an empty office in China",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "published": "2026-11-07T15:43:45+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "The matching Verge article covers METR's report on Anthropic's rapidly accelerating AI research, not new US or EU regulatory action. It does note that Anthropic was allowed to redact parts of the report, which bears on transparency debates. Separately, CNBC (story s4) reports that candidates favoring stricter AI rules did well in the midterms, but no specific legislation or EU developments are reported.",
+      "links": [
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "published": "2026-11-07T12:30:00+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 8,
+    "center": 20,
+    "right": 2
+  },
+  "stats": {
+    "articles": 317,
+    "stories_found": 241,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

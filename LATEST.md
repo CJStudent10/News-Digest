@@ -1,273 +1,269 @@
-# My Daily Brief: Morning edition
-_Saturday, November 7, 2026 · 5:41 AM EST · 331 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Midday edition
+_Saturday, November 7, 2026 · 3:33 PM EST · 317 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by the fallout from the US midterms, in which Democrats won both chambers of Congress. President Trump named Stephen Miller as chief of staff, and AI and tech stocks swung sharply amid expectations of tougher scrutiny of AI. Abroad, Paraguay's president was impeached and placed under house arrest after a bank collapse. Other stories include a faculty no-confidence vote at Cornell, a rejected wage deal at POSCO, North Korea–China party talks, and Charlotte-area local news.
+> This edition is dominated by the fallout from Republicans' heavy losses in this week's US midterms. President Trump named Stephen Miller as chief of staff, offered UFC chief Dana White the press secretary job, and ordered a Justice Department probe into Democrats he accuses of threatening officials and donors. Elsewhere, Anthropic prepares an IPO amid voter skepticism of AI, Malaysia's palace and attorney-general clash over Najib Razak's house arrest, and there are several local crime stories from Charlotte and Seoul.
 
 
-**Sources linked in this edition:** 8 left · 22 center · 2 right
+**Sources linked in this edition:** 8 left · 20 center · 2 right
 
 ---
 
-## 1. Trump names Stephen Miller White House chief of staff, replacing Susie Wiles after midterm losses
-`US Headlines` · Covered by 8 outlets (L 2 · C 5 · R 1)
+## 1. Trump offers White House press secretary job to UFC CEO Dana White
+`US Headlines` · Covered by 7 outlets (L 1 · C 5 · R 1)
 
-President Trump announced Friday that Deputy Chief of Staff Stephen Miller will replace Susie Wiles as White House chief of staff starting Monday, November 9. The move came three days after Democrats won majorities in both the House and Senate. Trump praised Wiles and said she will move to the "Trump Political Operation"; she reportedly submitted her resignation Thursday night. Democratic leaders condemned the pick, and several outlets and commentators read it as a sign that Trump will double down on hardline policies rather than moderate. Trump has not announced any further staff changes.
+President Trump said on Truth Social on Saturday that he had offered the White House press secretary job to Dana White, the UFC CEO and a longtime friend and ally. Trump called White "a violent Fighter and Warrior" and asked him to bring several mixed martial arts fighters as assistants, "even though some are not from our Country," to "defend us against the Lunatic Left." White has not formally responded, though CNBC reported he posted an Instagram story of himself at the press secretary's lectern captioned "On to the next chapter." The post follows the October 16 departure of press secretary Katie Zacharia after five days in the job, and comes days after Democrats won control of Congress.
 
 **Key facts**
-- Miller, 41, takes over as chief of staff on Monday, November 9, 2026.
-- Wiles was the first woman to serve as White House chief of staff and had held the job since January 2025.
-- Trump said: "I wanted to make a change... Stephen's been great, and we've got to make moves."
-- Hakeem Jeffries called Miller "a dangerous xenophobe and reckless extremist" and said "Fire him today."
-- Miller is widely described as the architect of the administration's immigration crackdown.
+- Trump wrote: "Dana, please take the job!"
+- Fighters named included Islam Makhachev, Khabib Nurmagomedov, Justin Gaethje, Daniel Cormier and Amanda Nunes; the Guardian and Washington Examiner also list Kayla Harrison, rendered as "Harris" in the post.
+- Katie Zacharia, who replaced Karoline Leavitt, left on October 16 after five days and one briefing.
+- White, 57, has led the UFC since 2001 and has known Trump for roughly 25 years.
+- The Guardian puts the press secretary salary at $195,000 a year.
 
 **How it's being framed**
-- **Left:** The Guardian and PBS called Miller the "most controversial" and "polarizing" aide and said Wiles was "ousted." They foregrounded condemnations from Jeffries and Schumer and commentators who called the move "a declaration of war." They tied the pick to immigration becoming a political liability. PBS widened the story to Republican infighting, including criticism over the Iran war and Defense Secretary Hegseth.
-- **Center:** Axios framed the move as Trump trading "one of his few moderating forces" for a maximalist, driven by anger over the midterm losses, and reported that sources called the departure mutual. The Hill led with Jeffries's attack. The Korea Herald/Yonhap took a more neutral, announcement-focused approach and highlighted Wiles's role as a channel to South Korea.
-- **Right:** Reason, a libertarian outlet, published an opinion piece arguing that Miller will "reinforce Trump's worst instincts." It criticised his record on immigration, habeas corpus, birthright citizenship, courts and free speech, and argued the pick dims hopes of moderation after the midterms.
+- **Left:** The Guardian questioned whether the offer was a real plan or an attention-grabbing stunt to change the subject from election losses. It noted White's estimated fortune, the AI-generated image in Trump's post, and the misspelled fighter name. It also pointed out that Nurmagomedov is reportedly close to Putin and that Makhachev has defended Palestinian civilians in Gaza, contrasting conservative media criticism of a Democrat's use of 'Alhamdulillah'.
+- **Center:** Center outlets (Newsweek, CNBC, DW, The Hill) largely reported the post straight. They supplied background on White's career and friendship with Trump and on the press office's rapid turnover. Newsweek mentioned that Nicki Minaj had been floated as a candidate. CNBC tied the offer to Miller's promotion and the midterm results, and reported White's Instagram response.
+- **Right:** The Washington Examiner gave a brief, quote-driven report describing White as a longtime ally, with no added commentary.
 
 **Disputed or unclear**
-- Whether Wiles left by mutual decision (Axios sources) or was pushed out (Guardian's word was "ousted").
-- Whether more personnel changes will follow; Trump has announced none.
-- Whether the appointment signals confrontation with the new Democratic Congress. Commentators say it does; Trump had pledged to work with Congress, according to PBS.
+- Whether White will accept; his Instagram post could be acceptance or a joke, CNBC said.
+- Whether the offer is serious; the Guardian raised the possibility of a stunt.
+- Whether the named fighters, including non-US citizens, could or would serve.
 
-**Why it matters:** The chief of staff shapes how the White House operates, and this pick signals how Trump may approach a Democratic-controlled Congress.
+**Why it matters:** The press secretary is the administration's main daily voice to the public, and the role has turned over repeatedly at a politically difficult moment.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/trump-offers-ufc-ceo-dana-white-press-secretary-job-a-violent-fighter-12682142) (center): Trump Offers UFC CEO Dana White Press Secretary Job: ‘A Violent Fighter’
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary) (lean-left): Trump says he asked Dana White, UFC boss, to be his new White House press secretary
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4796567/trump-white-house-press-secretary-dana-white/) (lean-right): Trump offers White House press secretary position to Dana White
+- [CNBC](https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html) (center): Trump offers UFC chief Dana White press secretary job
+- [Deutsche Welle](https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf) (center): Trump offers White House press secretary role to Dana White
+- [The Hill](https://thehill.com/homenews/administration/6205796-live-melania-trump-football-mar-a-lago/) (center): Live updates: Melania Trump attends LSU-Alabama game; UFC’s Dana White offered press secretary role
+
+
+## 2. Trump directs Justice Department to investigate Democrats over alleged threats
+`US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
+
+In a Saturday Truth Social post, President Trump said he was ordering the Justice Department to investigate Democrats he accused of threatening administration officials with impeachment and Republican donors with imprisonment, calling it "extortion at the highest level." He named only Sen. Elissa Slotkin of Michigan. He said she planned to "go after all young people that believe in Republican Values"; outlets linked this to her October 13 remarks about deterring people from working for the administration. Several outlets noted Trump cited no statute or evidence. Slotkin rejected the accusations and pointed to a grand jury's earlier refusal to indict her over a separate video.
+
+**Key facts**
+- Slotkin said on Oct. 13: "I want that deterrence message sent," about young people weighing work in the Trump administration.
+- Reps. Hank Johnson and Deborah Ross have said they would support impeaching Attorney General Todd Blanche, Fox reported.
+- A federal grand jury earlier declined to indict Slotkin and other lawmakers over a video urging troops to refuse illegal orders.
+- Rep. Robert Garcia, the likely House Oversight chair, posted "LAWYER UP" after the election, Al Jazeera reported.
+- Slotkin's response: "If you didn't break the law, then it's all good."
+
+**How it's being framed**
+- **Left:** Al Jazeera repeatedly noted that Trump gave no evidence. It listed the investigations Democrats plan, into Trump family finances, ICE, Hegseth and Blanche, and placed the order alongside Trump's earlier calls to investigate James Comey and Letitia James.
+- **Center:** Newsweek and CNBC compared Trump's characterization of Slotkin with her actual quoted remarks and noted the absence of a cited statute or evidence. Both detailed the earlier DOJ effort against Slotkin and the grand jury's refusal to indict; Newsweek carried Slotkin's rebuttal. Newsweek added midterm context, including Ted Cruz's "Watergate-level repudiation" remark.
+- **Right:** Fox News focused on the specific Democrats who have called for impeaching Blanche, quoting Johnson and Ross. It noted that Trump did not identify the donors, that Rep. Thomas Massie plans impeachment articles against Hegseth, and, citing Reuters, that Democrats do plan to investigate some GOP donors. It quoted Slotkin's original remarks.
+
+**Disputed or unclear**
+- Whether any Democratic statements amount to a crime; Trump cited no statute or evidence.
+- Which donors were allegedly threatened and what "threatening letters" Trump referred to.
+- Whether the DOJ will actually open an investigation.
+
+**Why it matters:** It sets up a direct clash between the president's use of the Justice Department and a Democratic Congress preparing oversight investigations.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/trump-orders-doj-to-investigate-democrats-over-lawfare-threats-12682021) (center): Trump Orders DOJ to Investigate Democrats Over ‘Lawfare’ Threats
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people) (lean-left): Trump orders DOJ to investigate Democrats for ‘threatening’ people
+- [Fox News](https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials) (right): Trump orders DOJ probe into Democrats over alleged threats against admin officials
+- [CNBC](https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html) (center): Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans
+- [The Hill](https://thehill.com/homenews/administration/6206168-trump-democrats-impeachment-threats-extortion-doj/) (center): Trump asks DOJ to investigate Democrats calling for impeachment of cabinet officials
+
+
+## 3. Trump names Stephen Miller White House chief of staff, replacing Susie Wiles
+`US Headlines` · Covered by 6 outlets (L 3 · C 3 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+
+President Trump announced Friday that deputy chief of staff Stephen Miller will become chief of staff on Monday, November 9. Susie Wiles is moving to the "Trump Political Operation." The move comes three days after Republicans lost control of both chambers of Congress. At a Friday event, Miller pledged "total devotion" to Trump and said the president "saved America." Some Republicans criticized the choice, and Trump told 60 Minutes he may make "a few changes" to his cabinet.
+
+**Key facts**
+- Miller takes over as chief of staff on November 9, 2026.
+- Wiles was the first woman to serve as White House chief of staff.
+- Rep. Marlin Stutzman called the move a "horrible decision"; Rep. Don Bacon said Miller "cost us seats in Texas and Arizona."
+- Trump said he has confidence in Defense Secretary Pete Hegseth.
+
+**How it's being framed**
+- **Left:** The Guardian, PBS/AP and Al Jazeera emphasized Miller's loyalty pledge and his hardline immigration record. The Guardian described the agenda as "far-right, nativist" and quoted Republican critics, plus Roger Stone's "wartime consigliere" label. PBS/AP compiled Miller's past statements, including "We are being conquered" and his calling a man killed by ICE a "domestic terrorist."
+- **Center:** The Korea Herald (Yonhap) reported the announcement plainly and highlighted Wiles' role as a channel to South Korea. Axios called Miller unlike any modern chief of staff, a believer in near-limitless presidential power. The Hill offered an explainer.
+
+**Disputed or unclear**
+- Whether further cabinet changes will follow; Trump declined to say who.
+- Whether Miller's policies contributed to Republican losses, as Bacon argues.
+
+**Why it matters:** The chief of staff shapes how the White House operates and how it will deal with a newly Democratic Congress for the next two years.
 
 **Read it yourself:**
 - [The Korea Herald](https://www.koreaherald.com/article/10929289) (center): Trump names Stephen Miller new White House chief of staff after midterm defeat
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump) (lean-left): Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff
-- [Reason](https://reason.com/2026/11/06/as-chief-of-staff-stephen-miller-will-reinforce-trumps-worst-instincts/) (lean-right): As Chief of Staff, Stephen Miller Will Reinforce Trump's Worst Instincts
-- [Axios](https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff) (center): Trump replaces chief of staff Susie Wiles with Stephen Miller
-- [PBS NewsHour](https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda) (lean-left): What Trump picking Stephen Miller for chief of staff signals about his agenda
-- [The Hill](https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/) (center): Jeffries calls Miller a ‘dangerous xenophobe’ after promotion: ‘Fire him today’
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty) (lean-left): Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president
+- [Axios](https://www.axios.com/2026/11/07/stephen-miller-trump-chief-of-staff-style) (center): Trump's "war-time consigliere" and the Miller Doctrine
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats) (lean-left): In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats
+- [The Hill](https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/) (center): Meet Stephen Miller, Trump’s new chief of staff: 5 things to know
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge) (lean-left): Trump’s new chief of staff Stephen Miller says he ‘saved America’
 
 
-## 2. Paraguay's Senate removes President Santiago Peña, who is placed under house arrest after Ueno bank collapse
-`US Headlines` · Covered by 5 outlets (L 2 · C 2 · R 1)
+## 4. Anthropic prepares IPO amid voter skepticism of AI and a report on accelerating AI research
+`AI & Cybersecurity` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-Paraguay's Senate voted Friday to remove President Santiago Peña for misconduct after the collapse of Ueno, a digital bank with ties to him. The collapse froze accounts for roughly 2.9 million customers. Senators impeached him instead of accepting his resignation, which stripped him of the immunity and lifetime Senate seat granted to ex-presidents. Prosecutors then ordered his arrest, along with former central bank chief Carlos Carvallo, and Peña was placed under house arrest pending questioning on Saturday. Vice President Pedro Alliana was sworn in to serve until August 2028. Peña denies wrongdoing, and his lawyer called the accusations "reckless" and "opportunistic."
-
-**Key facts**
-- All 44 senators present voted to remove Peña; BBC said one of 45 was absent.
-- Ueno served about 2.94 million customers, roughly 60% of Paraguay's adults.
-- The central bank ordered Ueno's resolution or closure on Tuesday after its solvency ratio fell below half the required minimum.
-- Peña held shares in Ueno's parent company until April 2025 and named Carvallo, Ueno's former head, as central bank chief in 2023.
-- Peña is to be questioned Saturday on allegations including breach of trust and influence peddling.
-
-**How it's being framed**
-- **Left:** The Guardian called Peña a "rightwing president" and one of Trump's main allies in the region. It emphasised alleged favouritism toward Ueno and the conflict of interest in Carvallo regulating his former company, and quoted an analyst on pension funds flowing to the bank. Al Jazeera reported that Peña was moved to a military base for his own protection.
-- **Center:** DW and BBC gave detailed, procedural accounts: the impeachment articles, the resignation manoeuvre, public-fund exposure and protests. BBC included Peña's denial, his lawyer's response, Alliana's pledge to compensate depositors, and a senator calling it the biggest corruption scandal in the country's democratic history.
-- **Right:** The New York Post (via wire reporting) highlighted celebrating crowds, depositors' anger and the possible 10-year prison terms. It noted that Peña is the second president impeached since the Stroessner dictatorship and reported that Alliana is himself under investigation in connection with the bank.
-
-**Disputed or unclear**
-- The exact charges are described differently across outlets: illicit enrichment and money laundering (Guardian), versus breach of trust, influence peddling and misuse of office (BBC, NY Post).
-- Whether Peña formally resigned (DW) or only attempted to, with lawmakers refusing to accept it (Guardian, BBC).
-- Al Jazeera reports Peña was moved to a military base; other outlets describe house arrest at his home.
-- Whether Carvallo was taken into custody.
-- Whether and how depositors will be repaid.
-- The extent of Alliana's own investigation.
-
-**Why it matters:** A bank failure locking most adults out of their money has toppled a sitting president, testing the stability of Paraguay's institutions and economy.
-
-**Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf) (center): Paraguay: President Santiago Pena under house arrest over bank crisis
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts) (lean-left): Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts
-- [New York Post](https://nypost.com/2026/11/07/world-news/ousted-paraguayan-president-santiago-pena-placed-under-house-arrest-after-bank-collapse/) (lean-right): Ousted Paraguayan President Santiago Peña placed under house arrest after bank collapse
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss) (center): Paraguay's president impeached and under house arrest after bank collapse
-- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126) (lean-left): Paraguay’s Pena under military protection in bank collapse chaos
-
-
-## 3. Cornell faculty senate passes no-confidence vote over handling of sexual assault allegations; trustees back president
-`US Headlines` · Covered by 5 outlets (L 2 · C 3 · R 0)
-
-Cornell University's Faculty Senate voted 75-50 on Friday to declare no confidence in the administration's ability to address what it called a sexual assault crisis. The vote followed a lawsuit by a former student, known as Jane Doe, who alleges she was drugged and raped at a Chi Phi fraternity house in October 2024; the seven accused men deny it. The vote is symbolic because the faculty senate has no power to remove leaders. The board of trustees said the vote reflected deep anger on campus but that it fully supports President Michael Kotlikoff. Kotlikoff has 30 days to respond in writing.
+Anthropic is preparing a Nasdaq listing, likely in mid-November. Investors expect it to target a valuation of $1 trillion to $1.5 trillion, down from a $2 trillion figure floated earlier, CNBC reported. CNBC said midterm voters rebuked AI and data centers, and that tech stocks have fallen. Separately, a report by the AI safety group METR found Anthropic's models improving roughly twice as fast as a year ago, largely due to AI itself, The Verge reported. The Verge noted that Anthropic was allowed to redact parts of the report.
 
 **Key facts**
-- The vote was 75-50, with five abstentions and five senators not voting.
-- The local district attorney initially declined to prosecute; New York's attorney general is now investigating.
-- Cornell disciplined students after a Title IX investigation: two were expelled, two suspended, and two assigned reflection papers.
-- The resolution did not call for Kotlikoff's resignation.
-- Governor Hochul said state police would investigate future sexual offence complaints at the university.
+- Local communities opposed data center ballot measures in 40 of 41 cases, CNBC reported.
+- More than half of voters called AI data centers a "crucial" or "major factor" in their congressional vote, per an NBC News exit poll.
+- METR's 11-week review found employees self-reporting about 12x productivity using Anthropic's top internal model.
+- Anthropic has finished training three models it has not released, per METR.
 
 **How it's being framed**
-- **Left:** PBS and The Guardian (both carrying Associated Press reporting) described the vote as a symbolic gesture reflecting deep discontent. They detailed the disciplinary outcomes, the district attorney's initial finding of consent, and statements from the trustees and Doe's lawyer.
-- **Center:** DW, BBC and The Hill gave similar accounts, adding Kotlikoff's listed reforms and the trustees' support. BBC noted that the resolution made no specific recommendations and reported the dispute over Doe's account of Kotlikoff's reaction to her.
+- **Left:** The Verge focused on safety concerns. It stressed the pace of self-accelerating AI development, the tension with CEO Dario Amodei's calls to slow down, and the redactions that limit public understanding.
+- **Center:** CNBC framed the IPO against market declines and electoral backlash against AI and billionaires. It quoted academics who expect public scrutiny alongside an IPO strategist who argued Anthropic shouldn't face harsher treatment than private rivals.
 
 **Disputed or unclear**
-- The underlying allegations are denied by all seven men, and none has been charged.
-- Doe says Kotlikoff asked why she waited to report; Cornell calls her account "incorrect."
-- Whether criminal charges will follow from the attorney general's review.
+- The final IPO valuation and timing.
+- How much the redacted portions of the METR report would change the public picture.
+- Whether fully autonomous AI research contributions will grow soon, as METR suggests.
 
-**Why it matters:** The case is a high-profile test of how universities handle sexual assault allegations and who is held accountable.
+**Why it matters:** It would be the first pure-play AI company to go public, at a time when public trust in AI appears to be falling.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf) (center): Cornell faculty declares 'no confidence' in university leadership
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/cornell-faculty-vote-no-confidence-in-university-leadership-after-alleged-fraternity-gang-rape) (lean-left): Cornell faculty vote 'no confidence' in university leadership after alleged fraternity gang rape
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss) (center): Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders) (lean-left): Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape
-- [The Hill](https://thehill.com/homenews/education/6205152-cornell-faculty-senate-no-confidence-vote-jane-doe-new-york/) (center): Cornell Faculty Senate passes no-confidence vote over Jane Doe case, but board of trustees backs president
+- [CNBC](https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html) (center): Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development) (lean-left): Why a new report on Anthropic automating AI development is alarming researchers
 
 
-## 4. Expectations for Anthropic's IPO valuation fall as OpenAI raises funds at $1.25 trillion
-`AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 5. Malaysia's palace and attorney-general clash over Najib Razak's house arrest
+`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-After this week's tech selloff, investors told CNBC that a $1.5 trillion valuation for Anthropic's upcoming Nasdaq IPO now looks like a "stretch," down from a reported target of as much as $2 trillion. Anthropic declined to comment and is expected to start its roadshow next week. Separately, Bloomberg reported that OpenAI has raised $11 billion at a $1.25 trillion valuation, in a round that could reach about $20 billion. That is below its earlier hoped-for $30 billion at $1.4 trillion. Outlets linked the cooling to the market slump and to voter backlash against AI and data centres in the midterms.
+Malaysia's attorney-general on Friday blocked former Prime Minister Najib Razak's transfer to house arrest, hours after he left prison following payment of a RM50 million fine. King Sultan Ibrahim had granted the house arrest in September. On Saturday the palace said the pardon was "clear, evident and without any ambiguity" and warned that questioning it amounts to defying the king. The attorney-general's office denied challenging royal authority. It said a court must clarify whether Najib's first sentence is complete, since that determines when his separate 15-year sentence begins. The prime minister's office later said the attorney-general would seek an audience with the king to express intent to comply.
 
 **Key facts**
-- Anthropic was privately valued at $965 billion as of May and plans to list under the ticker ANT.
-- OpenAI's new round values it at $1.25 trillion, with $11 billion raised so far.
-- OpenAI was valued at $852 billion in March, when it raised $122 billion.
-- The Nasdaq fell more than 5% on Thursday, its steepest drop in 19 months.
+- Najib has been jailed since August 2022 over 1MDB-linked graft.
+- The fine paid was RM50 million (about US$12.3 million).
+- House arrest covers only his reduced six-year first sentence, not a 15-year sentence from December 2025, which he is appealing.
 
 **How it's being framed**
-- **Left:** The Verge focused on OpenAI's raise and tied the lower figures to public opinion turning against AI companies and data centres. It noted Sam Altman's comments about putting safety before an IPO.
-- **Center:** CNBC and TechCrunch focused on investor expectations and market conditions, quoting an analyst who said the market "really needs this IPO to go well." They cited anticipated regulatory challenges after the Democratic wins.
+- **Left:** Al Jazeera led with the king's warning, quoted Najib's lawyers demanding his immediate transfer, and reported the prime minister's office statement about seeking pardon. It noted Sedition Act limits on criticizing royalty.
+- **Center:** CNA led with the attorney-general's defense, laid out its legal reasoning in detail, and called the clash rare under Malaysia's constitutional monarchy.
 
 **Disputed or unclear**
-- Anthropic's likely valuation: investors told CNBC $1–1.25 trillion, while Bloomberg cited buyers suggesting as low as $1.1 trillion.
-- Neither company has confirmed the figures; OpenAI's round has not closed.
+- When, or whether, Najib will be moved to house arrest.
+- How a court would rule on the effect of the discharge order on his sentences.
 
-**Why it matters:** The pricing of the largest AI companies is a key gauge of whether investor enthusiasm for AI is holding up.
+**Why it matters:** It tests the balance of power between Malaysia's monarchy, government and courts in its biggest corruption case.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html) (center): Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'
-- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) (lean-left): OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) (center): OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961) (center): Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib) (lean-left): Malaysian king warns against defying house arrest order for ex-PM Najib
 
 
-## 5. Two people seriously injured in shooting near UNC Charlotte
+## 6. Statesville police investigate death after person found with traumatic injuries
 `Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Two people were shot Friday at about 4:15 p.m. at off-campus apartments on Education Way in Charlotte's University City area, near UNC Charlotte. MEDIC said both had life-threatening injuries. WSOC noted that homicide detectives were not called, which it said strongly suggests the victims are expected to survive. No information on victims or suspects has been released.
+Statesville police responded around 7:49 p.m. Friday to a report of suspicious activity near Museum Road and Millsaps Road. They found a person with traumatic injuries, who later died at a hospital. Police have not identified the victim or described the circumstances. Investigators are speaking with a person of interest and are not actively searching for a suspect.
 
 **Key facts**
-- The shooting happened in the 10900 block of Education Way, off East Mallard Creek Church Road.
-- Two people were taken to hospital with life-threatening injuries, according to MEDIC.
+- The incident happened Friday, Nov. 6, around 7:49 p.m.
+- The victim died at an area hospital.
+- Tips go to Statesville Police at 704-878-3406.
 
 **How it's being framed**
-- **Center:** Local TV outlets reported the basic facts from MEDIC and described it as a developing story.
+- **Center:** WBTV, WSOC and Queen City News all relayed the police account with no added framing.
 
 **Disputed or unclear**
-- The victims' identities, any suspects and the motive are unknown.
+- The victim's identity, the cause of the injuries, and the role of the person of interest.
 
-**Why it matters:** It is a serious violent incident in a busy student housing area.
+**Why it matters:** It is an active death investigation in the Charlotte area.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/2-hospitalized-university-city-shooting/UQBRALLDQZG5JI4XZLUDP3VX2Q/) (center): 2 hospitalized in University City shooting
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/university-city/2-injured-in-shooting-at-university-area-apartments-medic/) (center): 2 injured in shooting at University-area apartments: Medic
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f) (center): 2 people hurt in University City shooting
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/07/person-found-with-traumatic-injuries-near-statesville-neighborhood-police-said/) (center): Person found with ‘traumatic injuries’ near Statesville neighborhood, police said
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/statesville-police-conducting-death-investigation/34CWDHLEE5GOXPO4MQHU2ER6KQ/) (center): Statesville Police conducting death investigation
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/iredell-county/statesville/police-investigating-death-after-person-found-with-traumatic-injuries-in-statesville/) (center): Police investigating death after person found with traumatic injuries in Statesville
 
 
-## 6. US tech stocks partly rebound after midterm-linked selloff; Asian and European markets fall
-`AI & Cybersecurity` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 7. Nvidia CEO's daughter cancels planned South Korea visit, sources say
+`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-The Nasdaq rose about 1% on Friday, recovering part of Thursday's 5.5% drop. That drop was driven by fears that Democrats' midterm wins and voter skepticism of AI would slow data centre expansion. A stronger-than-expected jobs report of 165,000 new jobs helped sentiment. Asian and European markets fell, with South Korea's Kospi and Japan's Nikkei down about 6% and the FTSE 100 down about 1%. President Trump reiterated his support for "super intelligence," while analysts warned that more selling could follow.
+Madison Huang, a senior director at Nvidia and daughter of CEO Jensen Huang, abruptly canceled a trip to Seoul for Nvidia AI Day Seoul 2026, according to sources cited by Yonhap. The sources attributed the cancellation to "family issues." Some observers speculated it may be linked to foreign reports that US intelligence believes a woman close to Jensen Huang was a Chinese spy. The event is expected to go ahead.
 
 **Key facts**
-- The Nasdaq fell 5.5% on Thursday, its worst day in 19 months.
-- On Friday the S&P 500 closed up 0.3% and the Dow fell 0.4%.
-- The FTSE 100 closed down about 1% after falling as much as 2.35% during the day.
-- SK Hynix shares fell more than 10%.
+- The event is scheduled for Monday and Tuesday at COEX in Seoul.
+- She had planned to meet South Korean government officials.
 
 **How it's being framed**
-- **Left:** The Guardian stressed the global rout and margin calls, quoting strategists on worries about returns from AI spending and possible renewed Iran conflict. It also noted that most indices are still up for the year.
-- **Center:** BBC emphasised the partial recovery and the mixed picture. It quoted voices saying the election signals a need to rethink AI, including one who called the drop a "necessary market correction," and included Trump's pro-AI remarks.
+- **Center:** Yonhap and the Korea Herald (carrying Yonhap) ran identical reports, citing sources and presenting the spy link only as observer speculation.
 
 **Disputed or unclear**
-- The jobs report month: BBC says September, while The Guardian says October with unemployment at 4.1%.
-- Small differences in figures: the Nasdaq's Friday gain (1.1% vs 1%) and the Kospi's drop (6% vs more than 6.5%).
-- Whether further selling will follow.
+- The actual reason for the cancellation; any link to the espionage reports is speculation.
 
-**Why it matters:** Expectations about AI regulation under a Democratic Congress are moving global markets and retirement portfolios.
+**Why it matters:** Nvidia is central to South Korea's AI ambitions, and the spying reports could affect the company's standing.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss) (center): AI stocks climb after trillions wiped from market values
-- [The Guardian (US)](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph) (lean-left): Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107003400315) (center): Nvidia CEO's daughter cancels planned visit to S. Korea: sources
+- [The Korea Herald](https://www.koreaherald.com/article/10929374) (center): Nvidia CEO's daughter cancels planned visit to S. Korea: sources
 
 
-## 7. Silfab Solar to restart chemical commissioning at Fort Mill plant
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-Silfab Solar gave South Carolina environmental regulators a 72-hour notice on Friday that it will restart chemical commissioning at its Fort Mill plant on Monday. The work has been paused since March, after two chemical leaks. The company said it completed a thorough review of the facility and its procedures. It also said the restart does not mean manufacturing will begin immediately.
-
-**Key facts**
-- Notice was given to the South Carolina Department of Environmental Services on Friday.
-- Work had been paused since two chemical leaks in March.
-- Commissioning restarts Monday.
-
-**How it's being framed**
-- **Center:** Local outlets relayed the company's announcement, with WSOC noting its months of coverage of the leaks.
-
-**Disputed or unclear**
-- When actual manufacturing will begin.
-
-**Why it matters:** Nearby residents have followed the plant's safety record since the March leaks.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/silfab-solar-restart-chemical-commissioning-process-fort-mill-plant/AJ6LRAFVI5DLZPIDTT65NHT5SI/) (center): Silfab Solar to restart chemical commissioning process at Fort Mill plant
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/business/silfab-solar-to-resume-commissioning-operations-at-fort-mill-facility-york-school-district-scdes/275-fca6be79-f25e-45d2-8392-134fece99640) (center): Silfab Solar to resume commissioning activities at Fort Mill facility
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/fort-mill/silfab-provides-sc-officials-with-72-hour-notice-on-resuming-solar-cell-production/) (center): Silfab provides SC officials with 72-hour notice on resuming solar cell production
-
-
-## 8. POSCO union members reject tentative wage deal
+## 8. Seoul court issues arrest warrants in a stalking-murder case and a hospital stabbing
 `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Unionised workers at South Korean steelmaker POSCO rejected a tentative wage agreement, with 51.69% voting against. The deal, reached October 30 after about 30 rounds of talks, included a 2.6% base pay rise, a 6 million won lump sum and improved benefits. The union had initially sought a 7.1% raise and other bonuses. A union official said renegotiations will likely be needed, and management said it remains committed to dialogue.
+The Seoul Western District Court issued two arrest warrants Saturday, citing flight risk in each case. One was for a man in his 60s accused of killing his ex-girlfriend, a woman in her 70s who had filed four stalking reports against him. Prosecutors had earlier rejected a warrant for him, citing his stage-4 lung cancer. The other was for a woman in her 50s accused of stabbing a psychiatry professor at Severance Hospital; the doctor's injuries are not life-threatening.
 
 **Key facts**
-- 51.69% voted against the deal and 48.31% voted for it.
-- Talks began June 16, and the union held two partial strikes in September.
+- The murder victim reported the suspect for stalking four times since September 2024.
+- In July the suspect was arrested for breaching a restraining order, but prosecutors declined to seek detention.
+- The doctor suffered a wound of about 5 cm to the face and hand.
 
 **How it's being framed**
-- **Center:** Korea Herald and Yonhap gave straightforward accounts quoting both union and management.
+- **Center:** The Korea Herald and Yonhap reported factually. The Herald highlighted the prior warnings and the prosecutors' earlier refusal to detain the suspect.
 
 **Disputed or unclear**
-- The timing of renegotiations and whether further strikes will follow.
+- The motives in both cases remain under investigation.
 
-**Why it matters:** Labour unrest at a major steelmaker could affect South Korean industry.
+**Why it matters:** The murder case raises questions about how Korean authorities handle repeated stalking reports.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10929322) (center): Posco union votes down tentative wage agreement
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107002500315) (center): POSCO union votes down tentative wage deal
+- [The Korea Herald](https://www.koreaherald.com/article/10929358) (center): Court approves arrest of Eunpyeong stalking-murder suspect
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107003200315) (center): Court issues arrest warrant for woman accused of stabbing doctor at hospital
 
 
-## 9. Senior North Korean official holds third high-level meeting in Beijing
-`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 9. Mother seeks information on son's fatal Gastonia hit-and-run, $1,000 reward offered
+`Charlotte Local` · Covered by 1 outlet (L 0 · C 1 · R 0)
 
-Kim Song-nam, the head of international affairs for North Korea's Workers' Party, met Chinese Communist Party officials Liu Haixing and Cai Qi in Beijing on Friday, according to North Korean state media. The meetings were part of a four-day visit that also included talks with Foreign Minister Wang Yi. Both sides pledged deeper ties, and Cai said China's friendship would not waver regardless of international changes. Yonhap linked the visit to efforts to repair ties after they appeared to cool over North Korea's alignment with Russia.
+The mother of Chris McAllaster, who was killed while riding a moped in Gastonia on June 9, is asking the public for information. A $1,000 reward is offered. Gastonia police say he was struck by a driver; the available report gives few further details.
 
 **Key facts**
-- Kim arrived in Beijing on Tuesday for a four-day visit.
-- The talks follow Xi Jinping's June summit with Kim Jong-un in Pyongyang.
+- The crash happened June 9 in Gastonia.
+- A $1,000 reward is offered.
 
 **How it's being framed**
-- **Center:** Both outlets relied on North Korean state media accounts; Yonhap added context about cooled relations over Russia.
+- **Center:** Queen City News centered the family's appeal.
 
 **Disputed or unclear**
-- Accounts come mainly from North Korean state media.
+- The driver has not been identified.
 
-**Why it matters:** Closer China–North Korea ties shape regional security.
+**Why it matters:** The case remains unsolved months later, and police are seeking public help.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10929317) (center): North Korea-China strengthen ties with 3rd high-level meeting
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261107001800315) (center): N. Korean envoy holds 3rd high-level meeting in China
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/gaston-county/gastonia/1000-reward-mother-pleads-for-answers-months-after-sons-fatal-gastonia-hit-and-run/) (center): $1,000 reward: Mother pleads for answers months after son's fatal Gastonia hit-and-run
 
 
-## 10. Lee marks South Korea's first persimmon export to China in 17 years
-`Korea` `Asia Business & Politics` `US Headlines` · Covered by 1 outlet (L 0 · C 1 · R 0)
+## 10. Report: US approved Nvidia chip sales to a Chinese firm with an apparently empty office
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 1 outlet (L 1 · C 0 · R 0)
 
-South Korean President Lee Jae Myung said on X that Korean persimmons are entering the Chinese market after 17 years of negotiations. He pledged support for opening new export markets for farmers. In a separate post, he backed Busan's push to become a maritime hub after foreign card spending in the city passed 1 trillion won.
+The Verge, citing The New York Times, reported that New Matrix is approved to buy Nvidia's H200 AI chips, yet its listed office appears empty and building managers have no record of it. Its owners reportedly have ties to a Chinese private equity firm blacklisted by the US since 2024. The Times describes a broader pattern of approvals for firms tied to restricted entities. The Trump administration eased Biden-era limits after Nvidia agreed to give the government 15% of sales.
 
 **Key facts**
-- This is the first persimmon shipment to China after 17 years of negotiations.
-- Foreign credit card spending in Busan passed 1 trillion won.
+- New Matrix was created 17 months ago.
+- Nvidia agreed to a 15% cut of sales to the US government.
 
 **How it's being framed**
-- **Center:** The Korea Herald relayed Lee's posts without additional comment.
+- **Left:** The Verge framed the story as a vetting failure by both the Commerce Department and Nvidia, and noted Jensen Huang's lobbying and the reported spying plot targeting him.
 
-**Why it matters:** It is a small trade opening that reflects efforts to diversify South Korea's farm exports.
+**Disputed or unclear**
+- Whether New Matrix operates anywhere, and how widespread the vetting gaps are; no response from Commerce or Nvidia is reported.
+
+**Why it matters:** It raises questions about whether export controls on advanced AI chips to China are being enforced.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10929338) (center): Lee hails Korea’s first persimmon export to China in 17 years
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) (lean-left): The US let Nvidia sell chips to an empty office in China
 
 
 ---
@@ -276,4 +272,5 @@ South Korean President Lee Jae Myung said on X that Korean persimmons are enteri
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles directly address US or EU AI regulation. Market coverage (stories s4 and s6) notes that Democrats campaigned on AI and data centre rules and that investors expect more regulatory scrutiny from the incoming Congress, but no specific legislation or EU action was reported.
+The matching Verge article covers METR's report on Anthropic's rapidly accelerating AI research, not new US or EU regulatory action. It does note that Anthropic was allowed to redact parts of the report, which bears on transparency debates. Separately, CNBC (story s4) reports that candidates favoring stricter AI rules did well in the midterms, but no specific legislation or EU developments are reported.
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development) (lean-left): Why a new report on Anthropic automating AI development is alarming researchers

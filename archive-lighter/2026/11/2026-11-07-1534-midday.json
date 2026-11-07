@@ -1,0 +1,104 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-07T20:34:55.702349+00:00",
+  "local_time": "Saturday, November 7, 2026 · 3:34 PM EST",
+  "local_date": "Nov 7, 2026",
+  "slug": "2026-11-07-1534-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A mixed bag today: Israel's president has handed the first shot at forming a government to Netanyahu's main rival, and President Trump publicly offered UFC boss Dana White the White House press secretary job. On the lighter side, Khadija Shaw scored a hat-trick, a Doberman helped catch a baby's heart problem, and Charlotte is hosting a big women's college basketball doubleheader.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Netanyahu's rival gets first shot at forming Israel's next government",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Israeli President Isaac Herzog has asked opposition leader Gadi Eisenkot, a former military chief who heads the Yashar party, to try to form a new governing coalition after the Oct. 27 election. Netanyahu's Likud won the most seats, but his coalition fell short of a majority. Outlets describe this as the closest Netanyahu has come to losing power since 2021, though deep divisions could still stop a new government from coming together.",
+      "key_facts": [
+        "Eisenkot has 28 days to form a government.",
+        "Netanyahu's coalition won 53 of the 120 seats in parliament.",
+        "Most of Israel's main parties recommended Eisenkot during talks with the president."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It could mean a change at the top for Israel's longest-serving prime minister, though nothing is settled yet.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Netanyahu rival Eisenkot tapped to form Israeli government",
+          "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+          "published": "2026-11-07T19:58:46+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+          "published": "2026-11-07T20:18:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Netanyahu pushes 'unity government' as rivals line up support",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Ahead of the president's decision, Netanyahu warned that an opposition coalition relying on Arab parties would harm the country, and he called for a national unity government of Zionist parties. Eisenkot's camp has opened the door to an unusual alliance that could include ultra-Orthodox parties and the moderate Islamist party Raam, with outside support from the Joint List. Yashar replied that Likud is welcome to join a unity government, as long as it is led by Eisenkot.",
+      "key_facts": [
+        "Eisenkot was recommended by factions representing 67 lawmakers, versus 46 for Netanyahu's bloc.",
+        "Raam's leader has recognised Israel as a 'Jewish state'.",
+        "President Herzog has signalled interest in exploring a national unity government."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "How the coalition talks go will decide who runs Israel's government next.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Netanyahu says coalition with Arab parties would ‘dismantle’ State of Israel",
+          "url": "https://www.jamaicaobserver.com/2026/11/07/netanyahu-says-coalition-arab-parties-dismantle-state-israel/",
+          "published": "2026-11-07T19:30:28+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 2,
+    "right": 0
+  },
+  "stats": {
+    "articles": 141,
+    "stories_found": 127,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}
