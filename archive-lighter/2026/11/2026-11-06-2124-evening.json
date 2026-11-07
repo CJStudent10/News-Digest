@@ -1,0 +1,399 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-07T02:24:52.443672+00:00",
+  "local_time": "Friday, November 6, 2026 · 9:24 PM EST",
+  "local_date": "Nov 6, 2026",
+  "slug": "2026-11-06-2124-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Big week in US politics: Mississippi's Senate race is still being counted, and President Trump picked Stephen Miller as his new chief of staff after the midterms. Elsewhere, Tesla is winding down Cybertruck production in Texas, Charlotte's I-77 toll lane project is back with a community-first pitch, and Doja Cat chatted about love and jealousy with Jennifer Hudson.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Mississippi's Senate race is still too close to call",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by about 2,500 votes, but thousands of ballots are still being counted and no winner has been declared. Officials can't say exactly how many ballots remain, because Mississippi's 82 counties run their own elections and there are many provisional and late-arriving mail ballots. Both campaigns have legal teams ready.",
+      "key_facts": [
+        "Colom leads by about 2,500 votes as of Friday night",
+        "Estimates of outstanding ballots range from about 15,000 provisional ballots (Colom campaign) to roughly 20,000 total (state GOP chair)",
+        "Voters have until Nov. 10 to resolve provisional ballots; certification deadline is Nov. 13",
+        "Mississippi has no provision for a vote recount"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a closely watched Senate seat, and the slow count is drawing attention to how Mississippi runs its elections and maintains its voter rolls.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Votes continue to be counted in Mississippi’s Senate race",
+          "url": "https://www.wbtv.com/2026/11/06/votes-continue-be-counted-mississippis-senate-race/",
+          "published": "2026-11-06T23:20:04+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+          "published": "2026-11-06T19:50:14+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
+          "url": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
+          "published": "2026-11-06T20:26:01+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Voter apathy’ toward Hyde-Smith could be factor in Mississippi Senate race: Professor",
+          "url": "https://thehill.com/homenews/campaign/6204220-mississippi-senate-race-colom-hyde-smith/",
+          "published": "2026-11-06T16:22:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Stephen Miller named White House chief of staff",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump announced Friday that longtime adviser Stephen Miller will replace Susie Wiles as chief of staff, starting Monday. The move follows Republicans losing control of Congress in Tuesday's midterms. Miller is best known for shaping the administration's immigration enforcement policies. Wiles, the first woman to hold the job, will keep working for Trump on political operations.",
+      "key_facts": [
+        "Miller takes over on Monday; he was previously deputy chief of staff",
+        "Wiles submitted her resignation Thursday night; sources told Axios it was a mutual decision",
+        "Democratic leaders Hakeem Jeffries and Chuck Schumer criticized the pick",
+        "Separately, a federal judge paused construction of Trump's planned arch near the Lincoln Memorial for 14 days"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "The chief of staff controls access to the president and negotiates with Congress, so this choice signals how the White House may approach a Democratic-led Congress.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "With Stephen Miller pick, Trump readies for a battle",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T23:24:15+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+          "published": "2026-11-06T19:13:52+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
+          "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
+          "published": "2026-11-06T22:16:01+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Judge temporarily blocks work on Trump arch after panel’s approval",
+          "url": "https://thehill.com/homenews/administration/6203354-donald-trump-dc-arch-blocked-after-commission-approval/",
+          "published": "2026-11-06T13:11:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Tesla to wind down Cybertruck production in Texas",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Elon Musk said Tesla will wind down Cybertruck production at its Texas factory around mid-2027 to make room for more Cybercab robotaxis. The truck has had disappointing sales, recalls and quality issues since its 2023 launch. Musk didn't say whether production will move elsewhere or stop entirely.",
+      "key_facts": [
+        "Wind-down planned around the middle of 2027",
+        "The Cybertruck is only built at Tesla's Austin, Texas factory",
+        "The space will go to Cybercab production"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: production is winding down in Texas. Unclear: whether the Cybertruck will be built somewhere else or discontinued."
+      ],
+      "why": "It's a sign of Tesla shifting its focus toward self-driving robotaxis.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Elon Musk Puts Kibosh On Tesla Cybertruck",
+          "url": "https://allhiphop.com/rumors/elon-musk-puts-kibosh-on-tesla-cybertruck/",
+          "published": "2026-11-07T01:16:00+00:00"
+        },
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+          "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T15:02:03+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Tesla winding down Cybertruck production",
+          "url": "https://thehill.com/policy/technology/6203765-tesla-cybertruck-production-ending/",
+          "published": "2026-11-06T15:27:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Silfab Solar plans restart at Fort Mill plant",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Silfab Solar will restart its chemical commissioning process at its Fort Mill, S.C., plant on Monday. Work had been paused since March after two chemical leaks. The company says it completed a thorough review of the facility and its procedures.",
+      "key_facts": [
+        "72-hour notice given Friday to the SC Department of Environmental Services",
+        "Work paused since March after two chemical leaks",
+        "Restarting commissioning doesn't mean manufacturing begins immediately"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Nearby residents have followed this plant closely, so it's good to know what's resuming and when.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Silfab Solar to restart chemical commissioning process at Fort Mill plant",
+          "url": "https://www.wsoctv.com/news/local/silfab-solar-restart-chemical-commissioning-process-fort-mill-plant/AJ6LRAFVI5DLZPIDTT65NHT5SI/",
+          "published": "2026-11-06T22:35:22+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Silfab Solar to resume commissioning activities at Fort Mill facility",
+          "url": "https://www.wcnc.com/article/money/business/silfab-solar-to-resume-commissioning-operations-at-fort-mill-facility-york-school-district-scdes/275-fca6be79-f25e-45d2-8392-134fece99640",
+          "published": "2026-11-07T00:01:25+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Silfab provides SC officials with 72-hour notice on resuming solar cell production",
+          "url": "https://www.qcnews.com/news/u-s/fort-mill/silfab-provides-sc-officials-with-72-hour-notice-on-resuming-solar-cell-production/",
+          "published": "2026-11-07T00:54:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "I-77 toll lane project is back, with neighbors invited to weigh in",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "NCDOT leaders spoke publicly Friday about the revived I-77 South toll lane project, stressing that the community will help shape it. A community engagement center has reopened where people can share design ideas and suggest discounts like toll rate caps. Construction isn't expected until the 2030s.",
+      "key_facts": [
+        "At least $300 million in community benefits tied to the project",
+        "Charlotte City Council votes Monday on a working group to oversee those benefits",
+        "Design is only 10% to 15% complete; four developers are competing"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Residents have a real chance to influence a big local project early, possibly including funding for a grocery store off West Boulevard.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NCDOT outlines next steps for revived I-77 toll lane project",
+          "url": "https://www.wsoctv.com/news/local/ncdot-outlines-next-steps-revived-i-77-toll-lane-project/SU4OM6DUKJFW7IKXJ2QW7IJKV4/",
+          "published": "2026-11-06T22:15:05+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NCDOT reopens community hub as I-77 South project advances",
+          "url": "https://www.qcnews.com/charlotte/ncdot-reopens-community-hub-as-i-77-south-project-advances/",
+          "published": "2026-11-06T21:35:07+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "I-77 South Community Engagement Center reopens after city revives toll lane project",
+          "url": "https://www.wcnc.com/article/news/politics/ncdot-charlotte-interstate-77-community-engagement-center-reopens-express-lane-project/275-75d38aaa-124d-44b3-9c87-11a071dc3fb3",
+          "published": "2026-11-06T19:17:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "EU tells TikTok to change its For You feed",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The European Union says TikTok's recommendation algorithm can pull users, especially kids, into 'rabbit holes' of harmful content, breaking its Digital Services Act. It wants bigger design changes, such as giving more weight to users' stated preferences, or TikTok could face large fines. TikTok says the EU's claims are inaccurate.",
+      "key_facts": [
+        "EU says the 'not interested' button may not be enough to change the feed",
+        "Suggested fixes include not using viewing time to recommend content",
+        "Follows a February EU demand to change 'addictive design' features"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are EU findings; TikTok rejects them and can respond before any penalty."
+      ],
+      "why": "It could change how one of the world's most popular apps decides what people see.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "EU tells TikTok to change ‘harmful’ For You feed",
+          "url": "https://www.jamaicaobserver.com/2026/11/06/eu-tells-tiktok-change-harmful-feed/",
+          "published": "2026-11-07T02:22:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Free flu shots available across Jamaica",
+      "topics": [
+        "Jamaica",
+        "Health & Medicine"
+      ],
+      "summary": "Jamaican health officials are encouraging people to get the flu vaccine, now free at public health centres and hospitals for priority groups. Flu season usually runs October to March. Others can get the shot privately for a fee.",
+      "key_facts": [
+        "Priority groups include pregnant women, healthcare workers, and people 65+ with chronic conditions",
+        "Flu vaccination is recommended every year",
+        "High-risk people with flu symptoms should seek care promptly"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The flu vaccine is an established, routinely recommended vaccine."
+      ],
+      "why": "A simple, free step that helps protect vulnerable people this season.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jamaicans encouraged to get Flu vaccine",
+          "url": "https://www.jamaicaobserver.com/2026/11/06/jamaicans-encouraged-get-flu-vaccine/",
+          "published": "2026-11-07T00:47:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Jamaica's Government and Opposition to meet after heated session",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "After a tense House session on Tuesday, Opposition leader of government business Phillip Paulwell agreed to meet Government representatives Monday at Speaker Juliet Holness's invitation. He welcomed the talks but criticized the Speaker's handling of a debate on the Opposition's censure motion.",
+      "key_facts": [
+        "Meeting set for Monday",
+        "Paulwell hopes for 'a frank and constructive dialogue among equals'",
+        "He suggested a mediator could be involved if needed"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Both sides agreeing to sit down is a step toward calmer parliamentary business.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gov’t, Opposition agree to meet Monday after Parliament ruckus",
+          "url": "https://www.jamaicaobserver.com/2026/11/06/govt-opposition-agree-meet-monday-parliament-ruckus/",
+          "published": "2026-11-07T00:39:21+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 2,
+    "center": 18,
+    "right": 0
+  },
+  "stats": {
+    "articles": 275,
+    "stories_found": 235,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}

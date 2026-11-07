@@ -1,0 +1,670 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-07T02:23:46.281835+00:00",
+  "local_time": "Friday, November 6, 2026 · 9:23 PM EST",
+  "local_date": "Nov 6, 2026",
+  "slug": "2026-11-06-2123-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by the aftermath of Tuesday's midterm elections, in which Democrats won control of Congress: President Trump replaced chief of staff Susie Wiles with Stephen Miller, Mississippi's Senate race remains too close to call, and tech stocks and AI valuations were shaken by voter opposition to data centers. Also covered: a congressional request for Nvidia's CEO to testify about a reported Chinese spying effort, Charlotte's revived I-77 toll lane project and a University City shooting, new pandas in Atlanta, and the Korean Series.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles after midterm losses",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump announced Friday that longtime adviser Stephen Miller, 41, will replace Susie Wiles as White House chief of staff, days after Republicans lost control of Congress. Wiles reportedly resigned Thursday night. Sources told Axios the departure was mutual but driven by the election results, while The Guardian described her as ousted. Trump called Miller \"one of my most trusted advisors\" and said he \"wanted to make a change.\" Democratic leaders condemned the pick, and Fox News reported that Miller has helped plan executive actions Trump could take without Congress. Miller starts Monday.",
+      "key_facts": [
+        "Miller, the architect of the administration's immigration crackdown and current deputy chief of staff, begins as chief of staff on Monday.",
+        "Wiles was the first woman to serve as chief of staff and Trump's longest-tenured chief of staff; she called serving Trump \"the honor of a lifetime.\"",
+        "Hakeem Jeffries called Miller \"a dangerous xenophobe and reckless extremist\" and said \"Fire him today\"; Chuck Schumer said Trump \"learned nothing from his historic defeat.\"",
+        "Trump cited the Supreme Court's June ruling in Trump v. Slaughter as giving the president \"tremendous powers,\" and has called himself \"Mr. Veto.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS framed the appointment as a defiant doubling-down after a \"crushing\" or \"catastrophic\" defeat. They foregrounded Miller's immigration record and quoted Democratic critics, including Jeffries, Schumer and Axelrod, as well as author Chris Whipple, who called it \"almost a declaration of war.\" PBS widened the story to Republican infighting, including Rep. Comer on Iran and Hegseth, and Marjorie Taylor Greene saying \"MAGA is completely dead.\""
+        },
+        {
+          "lean": "center",
+          "framing": "Axios framed the move as Trump swapping a moderating force for a maximalist, signaling he may double down on the hardline policies that hurt Republicans. The Hill focused on Jeffries' sharp reaction."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News cast the change as a tactical shift toward governing through executive action, citing Reuters reporting on Miller's planning with Russell Vought. It quoted White House officials warning Democrats against \"sham investigations\" and House Republicans privately voicing concern. The Washington Examiner framed it as Trump standing firm on the MAGA agenda and attributed the losses partly to Latino and male voters shifting to Democrats."
+        }
+      ],
+      "disputed": [
+        "Whether Wiles left by mutual decision (per Axios sources) or was ousted (per The Guardian).",
+        "How far Trump will rely on executive action versus working with the Democratic Congress; he has said both that he looks forward to working with Democrats and that he will use vetoes and executive powers."
+      ],
+      "why": "The chief of staff pick is an early signal of whether the White House will confront or cooperate with the incoming Democratic Congress for the last two years of Trump's term.",
+      "coverage": {
+        "left": 4,
+        "center": 7,
+        "right": 4
+      },
+      "n_outlets": 15,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
+          "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
+          "published": "2026-11-06T22:16:01+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+          "published": "2026-11-07T01:38:06+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Trump's move from Wiles to Miller signals major tactical shift for governing without Congress",
+          "url": "https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress",
+          "published": "2026-11-06T20:34:35+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jeffries calls Miller a ‘dangerous xenophobe’ after promotion: ‘Fire him today’",
+          "url": "https://thehill.com/homenews/administration/6205195-jeffries-blasts-trump-miller-pick/",
+          "published": "2026-11-06T21:17:03+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "What Trump picking Stephen Miller for chief of staff signals about his agenda",
+          "url": "https://www.pbs.org/newshour/show/what-trump-picking-stephen-miller-for-chief-of-staff-signals-about-his-agenda",
+          "published": "2026-11-06T23:55:50+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump signals no retreat from MAGA agenda with Stephen Miller promotion",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4796047/trump-signals-no-retreat-maga-agenda-stephen-miller-promotion/",
+          "published": "2026-11-06T23:00:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Mississippi Senate race between Colom and Hyde-Smith remains undecided as ballots are counted",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Scott Colom leads Republican Sen. Cindy Hyde-Smith by roughly 2,000 to 2,500 votes, depending on the report, as Mississippi counties keep counting. Nobody, including the secretary of state, knows how many ballots remain: the state GOP estimates about 20,000, and the Colom campaign cited more than 15,000 affidavit ballots. Both sides have sent lawyers and exchanged legal letters over how affidavit ballots should be handled. Separately, independent candidate Ty Pinkins said he stayed in the race to pull votes from Hyde-Smith. Voters have until Nov. 10 to fix affidavit ballots, and certification is due Nov. 13.",
+      "key_facts": [
+        "CNBC, citing the AP, put Colom's lead at 1,936 votes (0.2 points) with 96.2% counted; Gray DC reported about 2,500 by Friday night.",
+        "Mississippi has no automatic recount law; a recount requires a court order, sought county by county.",
+        "The NRSC asked counties to separate and preserve affidavit ballots; Colom's lawyers said that demand has \"no basis in Mississippi law.\"",
+        "Pinkins won about 2.1% of the vote and said he avoided campaigning in Black communities so he would not cut into Colom's support."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian framed a possible Colom win as a \"stunning upset\" capping a Democratic sweep, highlighting the legal fight and quoting voting-rights groups worried about eligible voters being turned away. NPR focused on Mississippi's slow, decentralized election administration and its high rate of provisional ballots, quoting an expert who said the state \"is not a model of election administration.\""
+        },
+        {
+          "lean": "center",
+          "framing": "Center outlets covered several angles: CNBC led with Pinkins' spoiler strategy; Gray DC with the counting process, the timeline and quotes from both parties; Axios with scrutiny of the state's voter-roll cleanup; and The Hill with a professor describing voter apathy toward Hyde-Smith."
+        }
+      ],
+      "disputed": [
+        "The number of outstanding ballots is unknown, with estimates ranging from about 15,000 to 20,000.",
+        "Whether counties should segregate affidavit ballots is disputed between the two campaigns.",
+        "Whether Pinkins' candidacy actually drew more votes from Republicans than from Democrats rests largely on his own account and an April poll.",
+        "Court challenges are expected but not yet filed."
+      ],
+      "why": "The outcome will set the size of the new Democratic Senate majority and is testing an election system with no recount provisions.",
+      "coverage": {
+        "left": 2,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+          "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+          "published": "2026-11-06T19:44:33+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+          "published": "2026-11-06T18:51:52+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Votes continue to be counted in Mississippi’s Senate race",
+          "url": "https://www.wbtv.com/2026/11/06/votes-continue-be-counted-mississippis-senate-race/",
+          "published": "2026-11-06T23:20:04+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+          "published": "2026-11-06T19:50:14+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
+          "url": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
+          "published": "2026-11-06T20:26:01+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Voter apathy’ toward Hyde-Smith could be factor in Mississippi Senate race: Professor",
+          "url": "https://thehill.com/homenews/campaign/6204220-mississippi-senate-race-colom-hyde-smith/",
+          "published": "2026-11-06T16:22:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Tech stocks partly rebound after post-midterm selloff; administration says data center build-out will continue",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "US tech stocks recovered part of Thursday's sharp losses on Friday. The selloff was tied to fears that Democratic gains and voter opposition to data centers could slow AI infrastructure. Voters backed restrictions in nearly every data center ballot measure, and Texas' Democratic governor-elect has proposed a moratorium on new approvals. President Trump blamed Democrats for the drop but reaffirmed his support for AI. Economic adviser Kevin Hassett said planned data centers are unaffected and growth will continue. Meanwhile, OpenAI said it will stop using NDAs with public officials, and a lame-duck permitting bill is advancing.",
+      "key_facts": [
+        "Thursday: the Nasdaq fell 5.5%, the S&P 500 4.4% and the Dow more than 1,800 points; the Magnificent Seven lost about $1 trillion in market value.",
+        "Friday: the Nasdaq rose 1.09% to 24,579.42 and the S&P 500 gained 0.31%, while the Dow fell 0.46%.",
+        "Restrictions passed in all but one of 41 data center ballot measures (Newsweek/TechCrunch); Ballotpedia counted at least 46 of roughly 50.",
+        "A CNBC voter poll found 56% of voters called data centers a crucial or major issue.",
+        "Trump wrote that he is \"100% in favor of Super Intelligence\" and that the market fell \"because the Dumocrats had a big Tuesday.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge framed the election as \"data centers lost the midterms,\" emphasizing community, grid and environmental concerns, Democratic calls for further restrictions, and environmentalists' fears that the permitting bill could limit oversight."
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek and CNBC focused on market moves and the administration's response, quoting Trump and Hassett at length alongside ballot and polling data. TechCrunch looked at broader implications for tech regulation."
+        }
+      ],
+      "disputed": [
+        "The exact count of data center ballot measures and how many passed differs by source.",
+        "Whether Democratic control will actually slow data center growth is contested; Hassett says it will not."
+      ],
+      "why": "Public resistance to data centers is now affecting markets, AI companies' plans and local utility and land-use decisions.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Doubles Down on Data Centers After Post-Midterms Tech Stock Rout",
+          "url": "https://www.newsweek.com/ai-stocks-rebound-trump-data-centers-12680473",
+          "published": "2026-11-07T00:29:28+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "All the latest updates on AI data centers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "published": "2026-11-06T20:02:22+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+          "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+          "published": "2026-11-06T18:54:22+00:00"
+        },
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "How a Blue Wave midterm might reshape the AI industry",
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "published": "2026-11-06T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "NCDOT reopens I-77 community center as revived toll lane project moves ahead",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "North Carolina transportation officials reopened a community engagement center on West Morehead Street for the revived I-77 South toll lanes project. The $4.3 billion project had been rejected locally in May, then revived in September after the state promised $300 million in community benefits. Opponents say the project would cut into historically Black neighborhoods and won't ease congestion. Charlotte City Council votes Monday on a working group to oversee the benefits. Design is only 10–15% complete, and construction is not expected until the 2030s.",
+      "key_facts": [
+        "The project covers 11 miles of I-77 from uptown to the South Carolina line.",
+        "The state promised $300 million for parks, grocery stores and other benefits in west Charlotte, plus a cap over part of the highway.",
+        "The state had threatened to make local governments repay nearly $70 million in design costs.",
+        "Four developers are competing for the project."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE emphasized the backlash, the impact on historically Black neighborhoods, the state's repayment threat that preceded the reversal, and Council member Malcolm Graham's remark that \"no one's going to be happy.\""
+        },
+        {
+          "lean": "center",
+          "framing": "WSOC focused on NCDOT's promises of community engagement and the possible discounts and benefits, quoting Secretary Johnson and Mayor Harrington. Other local stations noted residents' memories of the original I-77 construction and the mayor addressing the pushback."
+        }
+      ],
+      "disputed": [
+        "Whether toll lanes will relieve congestion is disputed by opponents.",
+        "The design and the final details of the benefits have not been decided."
+      ],
+      "why": "The project will shape traffic, tolls and neighborhood investment in west and south Charlotte for years.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NCDOT outlines next steps for revived I-77 toll lane project",
+          "url": "https://www.wsoctv.com/news/local/ncdot-outlines-next-steps-revived-i-77-toll-lane-project/SU4OM6DUKJFW7IKXJ2QW7IJKV4/",
+          "published": "2026-11-06T22:15:05+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "NCDOT reopens I-77 community center as it seeks to 'build trust'",
+          "url": "https://www.wfae.org/politics/2026-11-06/ncdot-reopens-i-77-community-center-as-it-seeks-to-build-trust",
+          "published": "2026-11-06T17:56:15+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NCDOT reopens community hub as I-77 South project advances",
+          "url": "https://www.qcnews.com/charlotte/ncdot-reopens-community-hub-as-i-77-south-project-advances/",
+          "published": "2026-11-06T21:35:07+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "I-77 South Community Engagement Center reopens after city revives toll lane project",
+          "url": "https://www.wcnc.com/article/news/politics/ncdot-charlotte-interstate-77-community-engagement-center-reopens-express-lane-project/275-75d38aaa-124d-44b3-9c87-11a071dc3fb3",
+          "published": "2026-11-06T19:17:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Investors expect lower Anthropic IPO valuation; OpenAI reportedly raises $11 billion at $1.25 trillion",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "After this week's tech selloff, investors told CNBC that Anthropic's hoped-for $2 trillion IPO valuation is unlikely and that even $1.5 trillion is a \"stretch.\" One investor suggested $1 trillion to $1.25 trillion is more likely. Bloomberg reported that some potential buyers see it as low as $1.1 trillion. Anthropic, which plans to list on the Nasdaq under ANT, is expected to start its roadshow next week. Separately, Bloomberg reported that OpenAI has raised $11 billion at a $1.25 trillion valuation, short of earlier targets.",
+      "key_facts": [
+        "Anthropic was privately valued at $965 billion as of May and filed its S-1 last week.",
+        "OpenAI's round may reach about $20 billion; it had initially sought up to $30 billion at $1.4 trillion.",
+        "OpenAI was valued at $852 billion in March.",
+        "Anthropic declined to comment to CNBC."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge tied OpenAI's lower-than-hoped round to falling tech stocks and public opinion turning against AI and data centers, and noted Sam Altman's comments on prioritizing safety before an IPO."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and TechCrunch framed the story around investor sentiment, market jitters after the midterms and expectations of regulation, quoting analyst Gil Luria that \"the market really needs this IPO to go well.\""
+        }
+      ],
+      "disputed": [
+        "Anthropic's final IPO valuation is unsettled, with estimates ranging from $1.1 trillion to $1.5 trillion.",
+        "OpenAI's funding figures come from unnamed sources and the round has not closed."
+      ],
+      "why": "How Anthropic's IPO is priced will be a major test of investor confidence in AI after the election.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+          "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+          "published": "2026-11-06T21:07:07+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "published": "2026-11-06T23:46:18+00:00"
+        },
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "published": "2026-11-06T22:53:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Two people seriously hurt in shooting near UNC Charlotte off-campus apartments",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Two people were taken to the hospital with life-threatening injuries after a shooting at about 4:15 p.m. Friday on Education Way in Charlotte's University City area, according to MEDIC. The location is near The Mill, an off-campus apartment complex near UNC Charlotte. The university said no university housing was involved. Victims and suspects have not been identified, and the circumstances are unclear.",
+      "key_facts": [
+        "The shooting was in the 10900 block of Education Way, off East Mallard Creek Church Road.",
+        "Two victims had life-threatening injuries, per MEDIC.",
+        "UNC Charlotte said the incident did not involve university housing."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "All four local stations gave brief, factual reports based on MEDIC information, noting the story was still developing."
+        }
+      ],
+      "disputed": [
+        "WSOC said the injuries were life-threatening but also that the victims are expected to be OK; the victims' condition is unclear.",
+        "The circumstances, suspects and number of people involved are unknown."
+      ],
+      "why": "The shooting happened in a heavily student-populated area near UNC Charlotte.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 hurt in shooting near off-campus housing in Charlotte, officials confirm",
+          "url": "https://www.wbtv.com/2026/11/06/2-hurt-shooting-near-off-campus-housing-charlotte-officials-confirm/",
+          "published": "2026-11-06T21:59:32+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 hospitalized in University City shooting",
+          "url": "https://www.wsoctv.com/news/local/2-hospitalized-university-city-shooting/UQBRALLDQZG5JI4XZLUDP3VX2Q/",
+          "published": "2026-11-06T22:21:38+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 injured in shooting at University-area apartments: Medic",
+          "url": "https://www.qcnews.com/charlotte/university-city/2-injured-in-shooting-at-university-area-apartments-medic/",
+          "published": "2026-11-06T23:29:25+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 people hurt in University City shooting",
+          "url": "https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f",
+          "published": "2026-11-07T02:13:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "House committee chairs ask Nvidia CEO to brief them on reported Chinese spying effort",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "The Republican chairs of the House China, Foreign Affairs and Intelligence committees asked Nvidia CEO Jensen Huang to attend a closed-door briefing on Nov. 18. The request follows New York Times reports that US intelligence officials believe he was targeted by a Chinese spying operation. The reports center on Alice Huang, an executive at Singapore-based Megaspeed, an Nvidia customer. The Times now reports that China's Ministry of State Security recruited her. Nvidia rejected the claims and would not say whether Huang will appear.",
+      "key_facts": [
+        "The letter was signed by Reps. John Moolenaar, Brian Mast and Rick Crawford.",
+        "Megaspeed has bought billions of dollars of Nvidia chips.",
+        "Nvidia said: \"Meetings with customers are part of a CEO's job.\"",
+        "Per the NYT, Trump was briefed last year on the relationship but took no action."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge emphasized the new NYT detail that China's MSS recruited Alice Huang, described the two Huangs' relationship as \"close,\" and noted Trump was briefed but did not act."
+        },
+        {
+          "lean": "center",
+          "framing": "Ars Technica focused on the congressional request, quoting the lawmakers' national security concerns and Nvidia's denial."
+        }
+      ],
+      "disputed": [
+        "The espionage claims come from intelligence officials via the NYT and are rejected by Nvidia.",
+        "Whether Jensen Huang will appear is unknown."
+      ],
+      "why": "It raises questions about China's access to advanced US AI chip technology through one of the industry's most important companies.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+          "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+          "published": "2026-11-06T14:13:32+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+          "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "published": "2026-11-06T23:00:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Two giant pandas on loan from China make public debut at Zoo Atlanta",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Giant pandas Ping Ping, a male, and Fu Shuang, a female, both six years old, made their public debut at Zoo Atlanta on Friday after arriving from Chengdu in September. They are on loan for 10 years and are hoped to be suitable mates. Atlanta is now one of three US zoos with pandas, alongside San Diego and the National Zoo. CNA noted the debut came as US officials urged China to uphold the October 2025 trade deal.",
+      "key_facts": [
+        "The pandas will stay at Zoo Atlanta for 10 years.",
+        "Atlanta has had no pandas since 2024; seven cubs were born there previously.",
+        "An estimated 1,800 pandas live in the wild."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "BBC and CNA framed the debut as a light story with diplomatic context. CNA emphasized \"panda diplomacy\" as Chinese soft power and mentioned trade tensions and Beijing recalling pandas from Japan."
+        }
+      ],
+      "disputed": [],
+      "why": "Panda loans have long served as a barometer of US-China relations.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "China's giant pandas make public debut at US zoo",
+          "url": "https://www.channelnewsasia.com/world/china-panda-us-zoo-atlanta-6532496",
+          "published": "2026-11-07T01:14:00+00:00"
+        },
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta",
+          "url": "https://www.bbc.co.uk/news/videos/cwm244x9dzy2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T18:27:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "KT Wiz's Sam Hilliard credits rubber ball drills for strong Korean Series",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "KT Wiz outfielder Sam Hilliard is batting .583 in the Korean Series against the Samsung Lions. He credits a rubber ball hitting drill, suggested by hitting coach Kim Kang, with fixing his swing after a slow start to his first KBO season. He led the KBO with 139 RBIs and ranked second with 44 home runs. His first-inning double drove in the Wiz's only run in Friday's 5-1 loss.",
+      "key_facts": [
+        "Hilliard was hitting .232 at the end of April.",
+        "He is 7-for-12 with three doubles in the series.",
+        "He is the first foreign player to win Player of the Month twice in one season since the award began in 2010."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap ran a player profile built on an interview with Hilliard about his training."
+        }
+      ],
+      "disputed": [],
+      "why": "Hilliard is a key figure in the ongoing KBO championship series.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Wiz star Hilliard taking advantage of rubber ball training during Korean Series",
+          "url": "https://en.yna.co.kr/view/AEN20261107000900315",
+          "published": "2026-11-07T00:33:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Samsung Lions pitcher Chris Paddack carries heavy postseason workload",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Samsung Lions right-hander Chris Paddack, an Austin, Texas native, threw 295 pitches over a 10-day span in the KBO postseason, including seven innings in Game 2 of the Korean Series. He said he feels great and cited Texas pitching legends Nolan Ryan and Roger Clemens as inspiration. Yonhap reported that the Lions lead the best-of-seven series 2-1, two wins from their first title since 2014.",
+      "key_facts": [
+        "Paddack is 30 years old.",
+        "He threw 102 pitches in seven innings in Game 2, which the Lions won 3-2 in 12 innings.",
+        "He started on three days' rest on Oct. 30 against the Kia Tigers."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap ran a personality profile emphasizing Paddack's Texas pride and durability."
+        }
+      ],
+      "disputed": [],
+      "why": "Paddack's workload could decide the Korean Series.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lions pitcher Chris Paddack: proud Texan with ice in veins",
+          "url": "https://en.yna.co.kr/view/AEN20261107000700315",
+          "published": "2026-11-07T00:13:31+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "US only: the BBC reports that fears of more AI regulation after the midterms appear to have helped spark Thursday's AI stock selloff, though concerns about the industry had been building for some time. Related coverage in this edition (s3, s5) shows voters backing restrictions in nearly all data center ballot measures, Democratic leaders calling for further limits, Texas' governor-elect proposing a data center moratorium, and a lame-duck permitting bill that critics say could limit data center oversight. No EU developments were reported.",
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Why the US midterms sparked an AI stock selloff",
+          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T18:32:16+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 8,
+    "center": 23,
+    "right": 2
+  },
+  "stats": {
+    "articles": 505,
+    "stories_found": 356,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
