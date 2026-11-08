@@ -1,0 +1,331 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-08T10:48:27.650672+00:00",
+  "local_time": "Sunday, November 8, 2026 · 5:48 AM EST",
+  "local_date": "Nov 8, 2026",
+  "slug": "2026-11-08-0548-morning",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Big week in American politics: Democrats won control of both chambers of Congress in Tuesday's midterms, with young and Latino voters playing a large part, and the President has publicly offered the press secretary job to UFC boss Dana White. Elsewhere there's a Charlotte airport vote coming up, a cozy Veterans Day parade, a free worldwide stream of Camp Flog Gnaw, and an English mayor who caught a stone thief with an AirTag.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Young and Latino voters helped power Democrats' midterm wins",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Exit polls suggest Gen Z and Latino voters swung strongly toward Democrats in Tuesday's midterms, helping the party flip seats and win both chambers of Congress. It's a notable reversal from 2024, when both groups moved toward Trump. Young voters said the economy was their top concern.",
+      "key_facts": [
+        "Democrats carried voters under 30 by nearly 50 points, per exit polling; Gen Z was 11% of the total vote.",
+        "Democrat James Talarico won the Texas Senate race by 12 points, and by about 60 points among Gen Z voters.",
+        "CIRCLE estimates 15% of young 2024 Trump voters backed a Democratic House candidate this year.",
+        "Polling firm BSP found 17% attrition among Latinos who backed Trump in 2024."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It shows that neither party can take big voting groups for granted, which shapes how both will campaign from here.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "After Trump made inroads, Latinos help Democrats deliver blue wave",
+          "url": "https://thehill.com/homenews/campaign/6205200-hispanic-voters-midterm-elections-gop/",
+          "published": "2026-11-07T22:00:00+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+          "published": "2026-11-08T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Trump asks UFC's Dana White to be press secretary",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump posted on Truth Social asking UFC chief Dana White to become White House press secretary, and to bring several UFC fighters along as 'assistants.' White says he'll meet Trump on Monday but hasn't said whether he wants the job. The role has been open since mid-October.",
+      "key_facts": [
+        "The previous press secretary, Katie Zacharia, left after five days in October.",
+        "White already runs UFC, Power Slap and the new Zuffa Boxing, and sits on Meta's board.",
+        "Trump also named Stephen Miller to replace Susie Wiles as chief of staff."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: Trump made the offer publicly, and White says a meeting is set for Monday.",
+        "Unclear: whether the offer is fully serious, and whether White's 'On to the next chapter' Instagram post was a joke.",
+        "Reported by CNN, citing an unnamed source: White has declined the idea."
+      ],
+      "why": "The press secretary is the White House's main daily voice to the public, so who takes the podium matters.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-08T00:31:53+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+          "published": "2026-11-08T07:35:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Charlotte council votes Monday on big airport lease",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte City Council votes Monday on a roughly 10-to-11-year airline lease at Charlotte Douglas International Airport. Supporters point to major investment, while some community members worry it could push up costs for local travelers.",
+      "key_facts": [
+        "The lease would support $2.1 billion in airport improvements and development.",
+        "The vote is set for Monday."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you fly out of Charlotte, this deal could affect the airport you use and possibly what you pay for the next decade.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Community members concerned proposed Charlotte airport lease could price out travelers",
+          "url": "https://www.qcnews.com/charlotte-airport/community-members-concerned-proposed-charlotte-airport-lease-could-price-out-travelers/",
+          "published": "2026-11-08T03:25:08+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council to vote Monday on 10-year airline lease amid airport control debate",
+          "url": "https://www.wcnc.com/article/news/community/transportation/charlotte-city-council-to-vote-monday-on-10-year-airline-lease-amid-airport-control-debate/275-64eb27e4-4657-4e8f-82ca-5d7eb852d48d",
+          "published": "2026-11-08T04:44:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Only about 1 in 8 Jamaican workers has a private pension",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The Pension Industry Association of Jamaica says private pension coverage is low and is encouraging people of every age to plan for retirement more deliberately. It also notes that retirement is changing, with many people choosing to keep working part-time, consult or start businesses later in life.",
+      "key_facts": [
+        "Private pension coverage was 12.08% of the employed workforce as of September 2025.",
+        "Jamaica's employed labour force is about 1.44 million people.",
+        "The group suggests baby boomers take stock of expenses, savings, debts and expected healthcare costs."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a friendly nudge that starting early, even small, makes retirement much easier.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Retirement blues",
+          "url": "http://jamaica-gleaner.com/article/news/20261108/retirement-blues",
+          "published": "2026-11-08T06:06:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Jamaica's workplace safety bill to return to Parliament",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's Occupational Safety and Health Bill, first tabled in 2017, has been stuck in reviews for nearly a decade, leaving workers covered by older laws. Labour Minister Pearnel Charles Jr says it will come back to the House before the end of the fiscal year. The renewed attention follows several fatal construction accidents this fall.",
+      "key_facts": [
+        "The OSH Bill was first tabled in Parliament in 2017.",
+        "The government is Jamaica's largest employer, with more than 100,000 direct employees.",
+        "The minister made the commitment at a Jamaicans for Justice handbook launch."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Once passed, the bill would set modern safety rules for workplaces across the island.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Dangerous delay",
+          "url": "http://jamaica-gleaner.com/article/news/20261108/dangerous-delay",
+          "published": "2026-11-08T06:06:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Trelawny landowner says squatting has stalled his resort plans",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Attorney Gordon Brown says squatting on his 167 acres at Flamingo Beach, Trelawny, has blocked a planned resort and residential development for six years. He says he has followed court orders and asked agencies for help, but that little has been done. He also alleges that armed outsiders are protecting the illegal building.",
+      "key_facts": [
+        "Brown has been trying to deal with the squatting since 2020.",
+        "He says a private security firm turned down the job in 2021.",
+        "Plans were submitted to NEPA and the Trelawny Municipal Corporation."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The claims about gang involvement are Brown's own account, and the article includes no response from the authorities."
+      ],
+      "why": "It shows how land disputes can hold up development and the jobs that come with it.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Armed gangs backing squatters",
+          "url": "https://www.jamaicaobserver.com/2026/11/08/armed-gangs-backing-squatters/",
+          "published": "2026-11-08T05:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Charlotte kicks off Veterans Day week with a parade and festival",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "More than 2,000 people turned out in Uptown Charlotte for the annual Salute to Veterans Parade, featuring high school bands and scouts. A festival at Romare Bearden Park highlighted veteran-owned businesses and employer resources, with food and activities.",
+      "key_facts": [
+        "Veterans Day is Wednesday.",
+        "The parade starts a week of events in the city."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a warm community thank-you, with practical support for veterans looking for work.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Carolinas Veterans Day Festival held at Romare Bearden Park",
+          "url": "https://www.wsoctv.com/news/local/carolinas-veterans-day-festival-held-romare-bearden-park/VQP2M22PZJBEFLQ7AVBEEYGYWI/",
+          "published": "2026-11-07T23:57:55+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Annual Veterans Day Parade and Festival held in Uptown Charlotte",
+          "url": "https://www.qcnews.com/charlotte/annual-veterans-day-parade-and-festival-held-in-uptown-charlotte/",
+          "published": "2026-11-07T21:23:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Camp Flog Gnaw is streaming free worldwide",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Tyler, The Creator's festival sold out right away, but Amazon will stream both days free with no subscription. More than 40 artists are on the bill at the Dodger Stadium grounds.",
+      "key_facts": [
+        "November 14–15, with live coverage starting at 2:45 p.m. PT each day.",
+        "Available on the Amazon Music app, Prime Video, Twitch and Amazon Live.",
+        "International rebroadcasts start at 8 a.m. GMT on November 15 and 16."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Free front-row-ish seats to a sold-out show, wherever you are.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Tyler, The Creator’s Sold-Out Camp Flog Gnaw Streams Free Worldwide",
+          "url": "https://allhiphop.com/news/tyler-camp-flog-gnaw-free-global-stream/",
+          "published": "2026-11-08T07:02:00+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 2,
+    "center": 10,
+    "right": 0
+  },
+  "stats": {
+    "articles": 119,
+    "stories_found": 110,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}
