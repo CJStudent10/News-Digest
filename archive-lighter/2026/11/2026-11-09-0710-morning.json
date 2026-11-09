@@ -1,0 +1,339 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-09T12:10:30.520420+00:00",
+  "local_time": "Monday, November 9, 2026 · 7:10 AM EST",
+  "local_date": "Nov 9, 2026",
+  "slug": "2026-11-09-0710-morning",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A pretty easygoing edition: the Broncos squeaked out another close win, Druski had a fun first night hosting SNL, and Charlotte gets a few more sunny fall days before a cold front arrives. Jamaica's Gleaner ran a nice series on teaching more people to swim, and there's promising early science on psoriasis and gut health. The big business chatter is about Nvidia's CEO admitting to an affair.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Broncos edge Panthers 26-21 thanks to a rare late challenge",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Denver beat Carolina 26-21 in Charlotte on Sunday for its fifth straight win. The turning point came when officials ruled that coach Sean Payton had thrown his challenge flag before the next snap. The review turned a Panthers incompletion at the 1-yard line into a Broncos interception. A late strip-sack by Nik Bonitto sealed it.",
+      "key_facts": [
+        "Bo Nix threw for 237 yards and 2 TDs; Jonah Coleman ran for 57 yards and a score",
+        "Denver has won 16 straight one-score games and is 7-2, alone atop the AFC West",
+        "Carolina falls to 3-5 after three straight losses and plays at New Orleans next",
+        "Broncos WR Jaylen Waddle and CB Riley Moss left the game with concussions"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "The Broncos keep finding ways to win close games, and Panthers fans saw a challenge play even the players didn't know was possible.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+          "url": "https://www.wbtv.com/2026/11/09/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/",
+          "published": "2026-11-09T02:57:01+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+          "url": "https://www.wsoctv.com/news/local/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/J3FUPTK6Q5HZ7AZATWRNIUWN2M/",
+          "published": "2026-11-08T22:10:38+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+          "url": "https://www.qcnews.com/nfl/carolina-panthers/bo-nix-throws-for-2-tds-broncos-win-key-challenge-to-beat-panthers-26-21-for-fifth-straight-victory/",
+          "published": "2026-11-08T22:15:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Druski's SNL debut brings the musical laughs",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Comedian Druski hosted Saturday Night Live for the first time on Nov. 7, with The Strokes as musical guest. Standouts included \"Proposal,\" where he keeps belting \"she said yes\" after the proposal is turned down, and a parody about a \"socially conscious\" hip-hop crew. He also played opposite Jane Wickline's Elizabeth Holmes in a sketch spoofing a Nathan Fielder-style documentary.",
+      "key_facts": [
+        "Episode aired Saturday, Nov. 7, during SNL's season 52",
+        "Musical guest was The Strokes",
+        "Drake, Travis Scott and Quavo congratulated him when he was announced as host"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's an easy, feel-good watch, and it showed Druski has real singing chops.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Druski’s Best ‘SNL’ Sketches Had Him Singing Through a Proposal Gone Wrong & In a Hip-Hop Parody",
+          "url": "https://www.billboard.com/culture/tv-film/druski-singing-snl-sketches-1236377110/",
+          "published": "2026-11-08T23:17:10+00:00"
+        },
+        {
+          "source": "VIBE",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Druski Impersonates “Crazy” Elizabeth Holmes in ‘SNL’ Meta-Documentary",
+          "url": "https://www.vibe.com/news/movies-tv/snl-druski-whiteface-elizabeth-holmes-meta-documentary-1235202249/",
+          "published": "2026-11-09T11:36:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "A Jamaican school makes swimming part of class",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Fewer than 40% of Jamaicans aged 15 and up can swim without help. The Queen's School in St Andrew is one of a handful of schools that require swimming lessons. Students learn water confidence, floating and strokes. Teacher Georgina Boland says it's a safety skill and also a way for Jamaicans to enjoy their own beaches and rivers.",
+      "key_facts": [
+        "All first- to third-form students take a term of swimming",
+        "Under 40% of Jamaicans 15+ can swim unassisted (OECD 2022 report, 2019 data)",
+        "Jamaica has about 120 rivers and streams and 70 public bathing beaches"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a practical effort to give kids a lifelong safety skill, plus a lot more fun at the beach.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sink or swim? - Schools take the plunge to build water confidence, literacy, as more J’cans urged to embrace skill",
+          "url": "http://jamaica-gleaner.com/article/news/20261109/sink-or-swim-schools-take-plunge-build-water-confidence-literacy-more-jcans",
+          "published": "2026-11-09T06:10:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Western Jamaica's young swimmers aim high despite few pools",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Swim clubs in western Jamaica are building competitive programs despite a shortage of coaches and facilities. SailFish Swim Academy in St James says most top coaching talent stays in Kingston, so it has recruited coaches from Cuba. Running its own pool is costly, but the club keeps training going.",
+      "key_facts": [
+        "SailFish Swim Academy was founded in 2015 at Wespow Park, Tucker, St James",
+        "At least five Cuban coaches have been recruited over the years",
+        "It trains in a 25-metre pool that is treated three times a week"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a nice look at a community working around real obstacles to help kids compete.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Western swimmers making waves despite limited pools, coaching gaps",
+          "url": "http://jamaica-gleaner.com/article/news/20261109/western-swimmers-making-waves-despite-limited-pools-coaching-gaps",
+          "published": "2026-11-09T06:10:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Why more Jamaican schools don't have pools: the cost",
+      "topics": [
+        "Jamaica",
+        "US Headlines"
+      ],
+      "summary": "Pools are expensive to build and run, so most schools can't afford one, says Major Desmon Brown of the Calabar Old Boys' Association. Calabar High had Jamaica's first high school pool in 1953, but it stopped working by 1995. The Queen's School says upkeep runs over $80,000 a month and is covered through auxiliary fees.",
+      "key_facts": [
+        "Building a pool can cost $5 million or more",
+        "Calabar's pool has been out of use since around 1995; principal Sian Wilson has said she plans to address it",
+        "A first-form student at Queen's pays $35,000 in auxiliary fees"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It explains the practical hurdle behind getting more young Jamaicans swimming.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Schools tread water as swimming costs rise",
+          "url": "http://jamaica-gleaner.com/article/news/20261109/schools-tread-water-swimming-costs-rise",
+          "published": "2026-11-09T06:10:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Nvidia CEO Jensen Huang admits affair; company opens investigation",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Nvidia CEO Jensen Huang admitted Sunday to an affair with businesswoman Alice Huang, whom reports describe as a suspected Chinese spy. Nvidia has launched an independent security investigation. President Trump stood by him, calling him \"an honorable guy.\" His wife of over 40 years, Lori Huang, has not commented.",
+      "key_facts": [
+        "Huang has led Nvidia, now valued at about $4.5 trillion, for roughly 30 years",
+        "Jensen and Lori Huang have been married since 1985 and met at Oregon State University",
+        "The couple has donated to STEM education, including $50 million to Oregon State"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: Huang admitted the affair, and Nvidia opened an independent investigation",
+        "Not established: that Alice Huang is a spy; reports call her a \"suspected\" spy",
+        "Unclear: what, if anything, the investigation will find"
+      ],
+      "why": "Huang is one of the most influential people in AI, so questions about security at Nvidia matter well beyond gossip.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Who Is Lori Huang? Jensen Huang’s Wife as He Faces Chinese Spy Affair Claim",
+          "url": "https://www.newsweek.com/lori-huang-jensen-huang-wife-chinese-spy-affair-claim-12685552",
+          "published": "2026-11-09T10:05:28+00:00"
+        },
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+          "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T07:10:11+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang spy scandal rocks AI race",
+          "url": "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai",
+          "published": "2026-11-09T10:00:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Businessman Christopher Issa: 'There's no gold medal for doing the limbo'",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Speaking at Webster Memorial United Church's 85th anniversary awards, S Hotels Jamaica CEO Christopher Issa said Jamaica has grown too comfortable with underperformance. He urged leaders and citizens to raise the bar, like in the high jump, on roads, hospitals and schools. His hope is that young people won't need to leave Jamaica to chase their dreams.",
+      "key_facts": [
+        "Spoke Saturday at Webster Memorial United Church in St Andrew",
+        "Noted Jamaica marks 64 years of Independence this year",
+        "Called for priority on education, infrastructure, productivity, technology and healthcare"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a memorable call for higher standards that's sparking conversation about Jamaica's future.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Issa: Politicians, citizens too comfortable with underperformance",
+          "url": "http://jamaica-gleaner.com/article/news/20261109/issa-politicians-citizens-too-comfortable-underperformance",
+          "published": "2026-11-09T06:06:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Charlotte gets sunny fall days, then a cooldown",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "The western Carolinas can expect classic fall weather, with sunshine and mild temperatures through Wednesday. A cold front arrives after that and brings cooler conditions.",
+      "key_facts": [
+        "Sunny and mild through Wednesday",
+        "Cold front brings cooler weather later in the week"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Good excuse to get outside early in the week, and maybe dig out a jacket for later.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start, cold finish: Charlotte’s weather changes this week",
+          "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+          "published": "2026-11-09T11:55:40+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 13,
+    "right": 0
+  },
+  "stats": {
+    "articles": 152,
+    "stories_found": 131,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}

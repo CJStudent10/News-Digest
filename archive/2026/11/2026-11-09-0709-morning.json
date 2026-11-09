@@ -1,0 +1,715 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-09T12:09:21.864657+00:00",
+  "local_time": "Monday, November 9, 2026 · 7:09 AM EST",
+  "local_date": "Nov 9, 2026",
+  "slug": "2026-11-09-0709-morning",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is led by Nvidia's board investigation into CEO Jensen Huang after reports linked him romantically to a woman US authorities reportedly concluded was a Chinese intelligence asset, which sent the company's shares lower. In Washington, President Trump said his deportation policy 'might be too tough' days after naming immigration hardliner Stephen Miller as chief of staff, and said his offer of the press secretary job to UFC chief Dana White was a joke. Other stories include the death of the Kraków shooting suspect, the opening of COP31, Sheikh Hasina's bid to return to Bangladesh, a deadly migrant shipwreck off Senegal, and local Charlotte news.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia board investigates CEO Jensen Huang after reports linking him to suspected Chinese intelligence asset",
+      "topics": [
+        "Asia Business & Politics",
+        "AI & Cybersecurity"
+      ],
+      "summary": "Nvidia's board announced on Sunday an independent investigation into whether CEO Jensen Huang was the target of a foreign intelligence effort. The probe follows a New York Times report that Huang had a relationship with Alice Huang (no relation), a former executive of Singapore-based Megaspeed, whom US authorities reportedly concluded was a Chinese intelligence asset. In a memo to staff, Huang admitted he had been unfaithful to his wife, said he supports the investigation and will cooperate fully, and said he is committed to America's national security. The board said it had no reason to believe national security or company secrets were compromised and that it still has confidence in Huang. Nvidia shares fell about 5% in premarket trading; President Trump defended Huang, and Republican lawmakers have asked him for a closed-door briefing.",
+      "key_facts": [
+        "Nvidia's board said a committee of independent directors, assisted by independent counsel, will run the inquiry.",
+        "Huang wrote: 'I was unfaithful to my wife... There is no excuse for what I did. I am deeply sorry.'",
+        "Nvidia shares fell nearly 5% in US premarket trading on Monday, which Reuters/Korea Herald put at around $250 billion in market value.",
+        "Megaspeed bought more than $4.8 billion in chips since June 2024, according to the New York Times as cited by the Daily Caller.",
+        "Trump said: 'I haven't heard that he's done anything wrong... He dealt with somebody, but you know, so does everybody else.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian led with the share drop and the congressional reaction, noting that Republican lawmakers want a closed-door briefing on Nvidia's protections against foreign espionage. The Verge published Huang's memo in full and described Alice Huang directly as 'an agent of the Chinese government,' without qualifying it."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (carrying Reuters) focused on market fallout and Huang's future. It quoted analysts who said he is unlikely to be replaced and has no natural successor, included China's denial that the 'spy narrative' is true, and noted that Nvidia's Asian suppliers' shares rose. Axios led with Trump's defense of Huang and said the backlash is growing, with members of Congress calling for probes."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller and New York Post stressed the espionage angle and the classified memo overseen by Marco Rubio, describing Huang as an influential Trump ally. The Post highlighted that Huang kept shaping White House chip-export policy despite the administration knowing about the alleged 'honeypot', and gave prominence to Trump calling him 'honorable'."
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang was a Chinese intelligence asset rests on reported US assessments; China's foreign ministry called the claim 'groundless' and a 'smear,' and she has not commented.",
+        "Whether any Nvidia secrets or US national security information were compromised is the subject of the board's inquiry.",
+        "How long the relationship lasted is unclear.",
+        "Huang's long-term future as CEO is uncertain; analysts differ on whether he will stay."
+      ],
+      "why": "Nvidia is central to the AI boom and to US-China chip policy, so questions about its CEO affect markets, export policy and national security debates.",
+      "coverage": {
+        "left": 4,
+        "center": 8,
+        "right": 2
+      },
+      "n_outlets": 14,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia's shares slide as chip giant probes CEO over spy claims",
+          "url": "https://www.koreaherald.com/article/10931215",
+          "published": "2026-11-09T12:05:36+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia stocks tumble as CEO investigated over spy claims | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
+          "published": "2026-11-09T11:54:21+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Nvidia CEO Admits To Extramarital Affair Amid Corporate Investigation Of Potential Chinese Espionage Targeting",
+          "url": "https://dailycaller.com/2026/11/08/nvidia-ceo-admits-to-extramarital-affair-amid-corporate-investigation-of-potential-chinese-espionage-targeting",
+          "published": "2026-11-09T03:02:10+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+          "url": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+          "published": "2026-11-09T00:00:35+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "published": "2026-11-08T22:54:50+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump defends ‘honorable’ Nvidia boss after explosive affair with Chinese ‘spy’ revealed",
+          "url": "https://nypost.com/2026/11/09/us-news/trump-defends-honorable-nvidia-boss-after-explosive-affair-with-chinese-spy-revealed/",
+          "published": "2026-11-09T11:58:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Trump says deportation policy 'might be too tough' as Stephen Miller becomes chief of staff",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "In a 60 Minutes interview after Republicans lost both chambers of Congress, President Trump said his deportation policy 'might be too tough' and had hurt him politically. He said he would like to make an immigration deal with Democrats that would let some long-resident, tax-paying immigrants stay while still removing criminals. The remarks came days after he named Stephen Miller, the main architect of his immigration crackdown, to replace Susie Wiles as White House chief of staff; Miller starts on Monday. Democrats, who take control of Congress in January, say they will investigate immigration enforcement and Miller.",
+      "key_facts": [
+        "Trump: 'I think it might be too tough... I think, ultimately, that hurt me.'",
+        "Miller, 41, replaces Susie Wiles as chief of staff and starts on Monday.",
+        "In exit polls cited by Newsweek, more than half of voters said immigration enforcement went too far, but only 14% called immigration the most important issue.",
+        "Rep. Robert Garcia, expected to chair House Oversight, said Miller 'should lawyer up.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and Al Jazeera stressed the contrast between Trump's admission and Miller's promotion, quoting Chuck Schumer: 'That's not a course correction. That's a promotion.' They noted the US citizens killed during protests against the enforcement operations and described Miller as the driving force behind policies such as family separation and the travel ban."
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek, Deutsche Welle and The Hill reported Trump's remarks directly and set out Miller's policy record. Newsweek added exit-poll data and noted it is unclear whether enforcement will actually change. DW also covered Trump's plans to meet Xi and Putin."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News ran a media-criticism column arguing that Miller's appointment drew an unprecedented 'barrage' of negative coverage from outlets and Democrats. The columnist said Miller's record is fair game but focused on the speed and tone of the criticism rather than on Trump's admission."
+        }
+      ],
+      "disputed": [
+        "Whether enforcement policy will actually change is unclear.",
+        "Trump gave no details of what an immigration deal with Democrats would include."
+      ],
+      "why": "The mixed signals will shape immigration policy and the fights between the White House and a newly Democratic Congress.",
+      "coverage": {
+        "left": 2,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What Stephen Miller Has Said About Immigration as Trump Admits Mistake",
+          "url": "https://www.newsweek.com/what-stephen-miller-has-said-about-immigration-trump-admits-mistake-12685726",
+          "published": "2026-11-09T10:57:05+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief-of-staff role – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+          "published": "2026-11-09T11:45:39+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "The stoning of Stephen Miller, now running the Trump White House",
+          "url": "https://www.foxnews.com/opinion/stoning-stephen-miller-now-running-trump-white-house",
+          "published": "2026-11-09T08:00:39+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US President Donald Trump says deportation policy was 'too tough' for voters",
+          "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-09T06:14:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump says his immigration policy ‘too tough’ for voters",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters",
+          "published": "2026-11-09T08:35:05+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
+          "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+          "published": "2026-11-09T01:23:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Trump says offer of press secretary job to UFC's Dana White was a joke",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "On Saturday, President Trump posted that he had offered the vacant White House press secretary job to UFC chief Dana White, suggesting White bring six fighters as 'assistants' to 'defend us against the Lunatic Left.' On Sunday he told reporters he 'was only kidding' but said White 'loves the idea.' Trump also shared a supporter-made AI cartoon showing UFC fighters attacking reporters, in which fighter Josh Hokit repeats his claim that 'Michelle Obama is a man.' White, who did not say whether he would take any role, is due to meet Trump on Monday.",
+      "key_facts": [
+        "The press secretary role has been vacant since Katie Zacharia left on October 16 after about five days in the job.",
+        "Karoline Leavitt left the role in August, according to the New York Post.",
+        "Trump wrote: 'Dana, please take the job!'",
+        "White said he has 'a lot of jobs already' and is meeting Trump on Monday."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian emphasised the AI video and called Hokit's remark racist. It noted White's appearance in taxpayer-funded pro-Trump ads and the circumstances of Zacharia's resignation. Al Jazeera ran only a brief item."
+        },
+        {
+          "lean": "center",
+          "framing": "BBC and The Hill reported the joke and White's ties to Trump in a straightforward way. Newsweek focused on the AI video and traced the history of the Michelle Obama conspiracy theory."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post took a lighter tone ('Dana who?'), covered a theory that Trump meant former Pentagon spokeswoman Dana W. White, and did not mention the AI video."
+        }
+      ],
+      "disputed": [
+        "It is unclear who Trump will choose as press secretary or what White and Trump will discuss on Monday."
+      ],
+      "why": "The episode shows the administration's combative stance toward the press, and the top communications job remains empty.",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Shares Animated AI Video Saying ‘Michelle Obama Is a Man’",
+          "url": "https://www.newsweek.com/trump-shares-animated-ai-video-saying-michelle-obama-is-a-man-12685518",
+          "published": "2026-11-09T08:04:20+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+          "published": "2026-11-09T01:10:55+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White",
+          "url": "https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/",
+          "published": "2026-11-09T11:26:13+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+          "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T08:49:17+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump ‘only kidding’ about Dana White press secretary role",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role",
+          "published": "2026-11-09T08:18:00+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says he was ‘kidding’ about Dana White for press secretary",
+          "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
+          "published": "2026-11-09T02:20:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Suspect in Kraków mass shooting dies in hospital",
+      "topics": [],
+      "summary": "The 24-year-old Polish man suspected of killing six people in Kraków's Main Market Square on Saturday died in hospital early Monday, police said. He had been critically wounded by two police officers who stopped the attack. The bodies of his parents and sister were found at the family home in Ostrowiec Świętokrzyski. Prosecutors are investigating the attack as a terrorist offense and say the inquiry will continue. The interior minister said the man held far-right, ultranationalist views, while the justice minister urged restraint.",
+      "key_facts": [
+        "Six people were killed: four Poles, a 32-year-old British man and a 51-year-old Austrian woman.",
+        "Outlets report 15 or 16 people injured, including five foreign nationals.",
+        "Eleven firearms were recovered in total; the suspect held a firearms licence and had no criminal record.",
+        "Poland held two days of national mourning, and the St. Mary's Trumpet Call was halted for the first time since World War II."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and Al Jazeera highlighted the far-right link and the emblems on the gunman's clothing. The Guardian also reported the justice minister's call for restraint and recent extremist-linked school stabbings in Poland."
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek and DW gave detailed facts on the victims, weapons and the minister's description of the suspect's views. Newsweek profiled his sister, an artist, and DW noted rising gun ownership in Poland."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News said authorities described far-right views but stressed that no motive has been publicly established. The New York Post focused on mourners and did not mention the ideology claims."
+        }
+      ],
+      "disputed": [
+        "The motive has not been formally established, and the justice minister called for restraint over the interior minister's far-right characterisation.",
+        "Reported injury counts differ (15 versus 16).",
+        "Reported distances to the family home vary.",
+        "Whether the suspect acted alone or was inspired by a group is under investigation."
+      ],
+      "why": "A rare mass shooting in Poland raises questions about extremism and gun ownership in a country considered relatively safe.",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 2
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Polish Police Say Suspect In Kraków Shooting Has Died",
+          "url": "https://www.newsweek.com/polish-police-say-suspect-in-krakow-shooting-has-died-12685492",
+          "published": "2026-11-09T06:37:43+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Kraków shooting suspect who killed six has died, Polish police say",
+          "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+          "published": "2026-11-09T10:22:54+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
+          "url": "https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
+          "published": "2026-11-09T09:05:26+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+          "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-09T06:53:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Poland mass shooting assailant dies in hospital, police say",
+          "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say",
+          "published": "2026-11-09T07:03:24+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Police say the 24-year-old who fatally shot 6 people in a Krakow square has died in the hospital",
+          "url": "https://nypost.com/2026/11/09/world-news/police-say-the-24-year-old-who-fatally-shot-6-people-in-a-krakow-square-has-died-in-the-hospital/",
+          "published": "2026-11-09T07:51:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "COP31 climate talks open in Turkey without a US delegation",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "The UN's annual climate conference, COP31, opens in Antalya, Turkey, co-hosted with Australia. The US-Israeli war with Iran and the resulting energy crisis hang over the talks. NPR reports a focus on electrification, with a target of '35 by '35', and on efforts toward a roadmap away from fossil fuels. The US State Department said it will not send a delegation. South Korea is sending climate ambassador Kang Kum-sil as presidential envoy.",
+      "key_facts": [
+        "The talks last about two weeks, with a leaders' segment on Wednesday and Thursday.",
+        "The goal is to raise the global electrification rate from about 23% to about 35% by 2035.",
+        "The US sent no delegation to COP31 or to last year's COP in Brazil.",
+        "More than 25 nations are developing a fossil fuel phase-out treaty."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR framed the energy shock as an opportunity for cheap clean technology and stressed the US absence and Trump administration rollbacks."
+        },
+        {
+          "lean": "center",
+          "framing": "Yonhap reported narrowly on South Korea's envoy and its electrification and decarbonisation plans."
+        }
+      ],
+      "disputed": [
+        "Estimates of attendance vary: about 80 leaders (Yonhap) versus more than 90 (The Guardian, in s1)."
+      ],
+      "why": "The talks test whether global climate commitments advance amid an energy crisis and without US participation.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "S. Korea's climate ambassador to join U.N. climate summit in Turkey as presidential envoy",
+          "url": "https://en.yna.co.kr/view/AEN20261109009400315",
+          "published": "2026-11-09T08:24:43+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "U.N. climate talks begin today. Here are 3 things to know",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31",
+          "published": "2026-11-09T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Bangladesh reviews ousted PM Hasina's passport request as she pledges to return",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Sheikh Hasina, sentenced to death in absentia over the 2024 crackdown on protesters, has applied through lawyers for a new passport and has vowed to return from India in December. Home Minister Salahuddin Ahmed said officials are reviewing whether she has a legal right to apply. Officials challenged her to seek extradition from India instead, and a junior foreign minister called her a 'terrorist.' Police arrested 12 people they described as members of her banned Awami League over petrol bomb attacks.",
+      "key_facts": [
+        "Hasina was sentenced to death in November 2025 for crimes against humanity.",
+        "UN estimates say up to 1,400 people may have been killed in the 2024 crackdown.",
+        "India says the extradition request is under legal review.",
+        "Hasina told Reuters she intends to surrender to a court in Bangladesh."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera framed the request as a clear sign she plans to return. It gave her background and noted she retains some public support."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA (citing AFP) emphasised the government's dismissive response, the chief prosecutor calling the application a 'political stunt', and security concerns including the arrests."
+        }
+      ],
+      "disputed": [
+        "Whether Hasina will actually return, and when, is unclear.",
+        "The police claim that the arrested suspects belong to the Awami League has not been independently confirmed."
+      ],
+      "why": "Her return could reignite political confrontation in Bangladesh and strain ties with India.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bangladesh challenges ousted PM Hasina over return pledge",
+          "url": "https://www.channelnewsasia.com/asia/bangladesh-hasina-return-india-extradition-6535951",
+          "published": "2026-11-09T11:52:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+          "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan",
+          "published": "2026-11-09T07:12:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Charlotte police investigate University City homicide; man charged in separate shooting",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte-Mecklenburg police are investigating a homicide on Sunday night in the 5000 block of Ragsdale Drive in University City; no further details have been released. Separately, a man has been charged after two people were shot on Friday at an apartment complex on Education Way, where officers responding to a reported break-in heard gunfire.",
+      "key_facts": [
+        "The Ragsdale Drive homicide occurred Sunday night.",
+        "The Education Way shooting happened around 4:16 p.m. on November 6 and injured two people."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local TV outlets gave brief factual reports."
+        }
+      ],
+      "disputed": [
+        "Details of the homicide, including victim and suspect, have not been released.",
+        "It is not stated whether the two incidents are related."
+      ],
+      "why": "These are public safety incidents in a Charlotte neighbourhood.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Homicide investigation underway in University City",
+          "url": "https://www.wsoctv.com/news/local/homicide-investigation-underway-university-city/H4KIQ3J7Q5BP5C2YTBUF3JCTWQ/",
+          "published": "2026-11-09T03:23:15+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Man charged after two hurt in University City apartment complex shooting",
+          "url": "https://www.qcnews.com/crime-and-public-safety/man-charged-after-two-hurt-in-university-city-apartment-complex-shooting/",
+          "published": "2026-11-09T01:44:23+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Suspect charged in shooting that hurt 2 people University City",
+          "url": "https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f",
+          "published": "2026-11-09T01:13:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Broncos beat Panthers 26-21 after late coach's challenge",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Denver beat Carolina 26-21 in Charlotte for its fifth straight win, helped by a late-third-quarter challenge that overturned an incomplete pass into an interception at the Broncos' 1-yard line, even though the Panthers had already run another play. Bo Nix threw two touchdown passes, and Nik Bonitto's strip-sack with 1:24 left sealed the win. Carolina fell to 3-5 and has lost three straight.",
+      "key_facts": [
+        "Final score: Broncos 26, Panthers 21.",
+        "Denver is 7-2 and has won 16 straight one-score games.",
+        "Bryce Young threw for 276 yards, three touchdowns and an interception.",
+        "Carolina plays next at New Orleans; Denver has a bye week."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local outlets ran the AP game story, including Panthers tight end Tommy Tremble's surprise at the late review."
+        }
+      ],
+      "disputed": [],
+      "why": "The loss deepens the Panthers' slide, and the unusual review is likely to draw attention.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+          "url": "https://www.wbtv.com/2026/11/09/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/",
+          "published": "2026-11-09T02:57:01+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+          "url": "https://www.wsoctv.com/news/local/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/J3FUPTK6Q5HZ7AZATWRNIUWN2M/",
+          "published": "2026-11-08T22:10:38+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+          "url": "https://www.qcnews.com/nfl/carolina-panthers/bo-nix-throws-for-2-tds-broncos-win-key-challenge-to-beat-panthers-26-21-for-fifth-straight-victory/",
+          "published": "2026-11-08T22:15:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Dozens dead after migrant boat bound for Canary Islands capsizes off Senegal",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "A wooden boat carrying migrants toward Spain's Canary Islands capsized off Senegal, north of Dakar. Only one person was rescued, and others are believed missing. President Bassirou Diomaye Faye offered condolences and vowed to crack down on smuggling networks. Spain's El Hierro island declared a state of emergency after more than 3,300 arrivals this month.",
+      "key_facts": [
+        "The death toll rose to 39 on Monday, according to emergency services cited by AP.",
+        "Walking Borders recorded 635 deaths on the Atlantic route between January and May 2026.",
+        "Nearly one in four young Senegalese were unemployed in the second quarter of 2026."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "BBC and AP (via Korea Herald) reported the toll and Senegal's response. BBC added context on youth unemployment and migration drivers."
+        }
+      ],
+      "disputed": [
+        "Reported death tolls varied as bodies were found (21, then 34, then 39).",
+        "The number of people on board and the number missing are unknown."
+      ],
+      "why": "The Atlantic route is among the deadliest migration paths into Europe and is under growing strain.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T10:59:26+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Death toll rises to 39 after migrant boat capsizes off Senegal",
+          "url": "https://www.koreaherald.com/article/10931212",
+          "published": "2026-11-09T12:01:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Nvidia, SK Telecom and Rebellions sign AI computing partnership in Seoul",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea"
+      ],
+      "summary": "At Nvidia's AI Day Seoul event, Nvidia, SK Telecom and Korean chip startup Rebellions signed a memorandum of understanding to link Rebellions' neural processing units with Nvidia GPUs in SK Telecom data centers, using Nvidia's NVLink Fusion. South Korea's science ministry backed the deal and hopes to extend the model to other domestic chipmakers. Nvidia also announced investments in several Korean startups. It declined to comment on Madison Huang's cancelled visit or on the scandal involving CEO Jensen Huang.",
+      "key_facts": [
+        "The MOU was signed on November 9 at Coex in Seoul.",
+        "Nvidia plans investments in Point2 Technology, Motif Technologies, RLWRLD and Upstage.",
+        "22 Korean companies joined an AI startup forum held with the science ministry."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and Korea Herald framed the deal as a boost for Korean chipmakers. Yonhap also noted Nvidia's refusal to address the Huang scandal."
+        }
+      ],
+      "disputed": [
+        "Whether the scandal will affect Nvidia's Korean partnerships or GPU deliveries is unanswered."
+      ],
+      "why": "The deal could give Korean AI chipmakers access to global data center markets.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(2nd LD) Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI",
+          "url": "https://en.yna.co.kr/view/AEN20261109005452320",
+          "published": "2026-11-09T09:47:21+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia, SK Telecom, Rebellions forge AI chip alliance",
+          "url": "https://www.koreaherald.com/article/10930773",
+          "published": "2026-11-09T05:18:42+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "None of today's articles address AI regulation in the US or EU. The Nvidia coverage touches on US chip export policy toward China but not on AI regulation.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 10,
+    "center": 22,
+    "right": 6
+  },
+  "stats": {
+    "articles": 376,
+    "stories_found": 283,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
