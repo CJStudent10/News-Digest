@@ -1,0 +1,679 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-09T01:59:58.301124+00:00",
+  "local_time": "Sunday, November 8, 2026 · 8:59 PM EST",
+  "local_date": "Nov 8, 2026",
+  "slug": "2026-11-08-2059-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by fallout in Washington after Democrats' sweeping midterm win: Nvidia's board opened an inquiry into CEO Jensen Huang's relationship with a woman US intelligence reportedly identified as a Chinese asset, Trump said his deportation policy may have been \"too tough,\" and Democrats outlined oversight plans targeting Stephen Miller, Elon Musk and Pete Hegseth. Abroad, Poland is mourning a deadly attack in Krakow, Carlos Alcaraz won the Paris Masters, and India marked Diwali under heavy pollution.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia board opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "Nvidia's board said Sunday it is opening an independent investigation, overseen by independent directors and outside counsel, into reports that CEO Jensen Huang was the target of a foreign intelligence effort. The New York Times reported that Huang told the board he had an intimate relationship with Alice Huang, a Megaspeed executive whom US intelligence reportedly determined was passing information to Beijing. In a letter to employees, Huang said he had been unfaithful to his wife, took \"full responsibility,\" and pledged to cooperate. He will remain CEO during the inquiry. President Trump defended Huang, while three House Republicans have asked him to attend a closed-door briefing on Nov. 18.",
+      "key_facts": [
+        "The board said it has \"no reason to believe\" national security or Nvidia secrets were compromised, but will examine all available information.",
+        "Megaspeed, a Singapore-based data center company, bought more than $4.8 billion of Nvidia chips over two years, according to the Times.",
+        "Huang wrote: \"I was unfaithful to my wife... There is no excuse for what I did. I am deeply sorry.\"",
+        "Trump said: \"I think he's an honorable guy. I think he probably has an excuse for it.\"",
+        "Reps. Brian Mast, John Moolenaar and Rick Crawford invited Huang to a briefing on Nov. 18, a day after Nvidia's third-quarter earnings."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and The Verge stressed the national security angle and Huang's closeness to Trump. The Guardian highlighted Trump downplaying the matter despite being briefed last year, the reported Rubio memo, and Huang being invited on the May China trip and to a state dinner for Xi. The Verge raised concern about what administration AI deliberations Huang may have known about and noted Megaspeed is under a Commerce Department smuggling investigation."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via The Korea Herald) and Axios gave a straightforward account built around the board statement, Huang's letter and Trump's supportive comments. Axios emphasised mounting blowback, including congressional calls for probes and investor worries about the broader AI trade."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business and the Washington Examiner led with Huang's admission of an affair and the board investigation. Fox Business foregrounded the House Republicans' demands and noted Huang has lobbied the administration to ease chip export limits to China. These outlets did not focus on Trump's defense of Huang."
+        }
+      ],
+      "disputed": [
+        "Whether any Nvidia secrets or US government information was compromised has not been established; the board says it has no reason to believe so.",
+        "The finding that Alice Huang was a Chinese intelligence asset comes from the Times citing unnamed sources.",
+        "It is unclear whether Huang will attend the Nov. 18 congressional briefing.",
+        "What the administration did after reportedly being briefed, including the Rubio memo, has not been publicly explained; Rubio declined to comment."
+      ],
+      "why": "Nvidia's chips are central to the US-China AI rivalry, and its CEO advises the president on technology policy.",
+      "coverage": {
+        "left": 4,
+        "center": 8,
+        "right": 2
+      },
+      "n_outlets": 14,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+          "url": "https://www.koreaherald.com/article/10930402",
+          "published": "2026-11-09T01:52:25+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+          "published": "2026-11-09T00:25:28+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nvidia CEO Jensen Huang apologizes as firm probes affair with alleged spy",
+          "url": "https://www.foxbusiness.com/politics/nvidia-ceo-jensen-huang-apologizes-firm-probes-affair-alleged-spy",
+          "published": "2026-11-08T21:25:46+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+          "url": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+          "published": "2026-11-09T00:00:35+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "published": "2026-11-08T20:22:39+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nvidia CEO admits to affair with alleged Chinese spy, sparking investigation",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4796886/nvidia-ceo-affair-alleged-chinese-spy-investigation/",
+          "published": "2026-11-08T21:11:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Trump says offer of press secretary job to UFC's Dana White was a joke",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump said Sunday he was \"only kidding\" when he announced on Truth Social a day earlier that he had offered UFC CEO Dana White the White House press secretary job, with prominent fighters as assistants. Trump said \"Dana loves the idea\" and that White still plans to visit him Monday. Over the weekend both men shared AI-generated images, including a Trump-posted cartoon showing fighters attacking reporters. The post has been vacant since Katie Zacharia left after five days in October, and it is unclear who will fill it.",
+      "key_facts": [
+        "Trump's Saturday post called White \"a violent Fighter and Warrior\" who would \"defend us against the Lunatic Left.\"",
+        "White told reporters in London, \"I got a lot of jobs already,\" and said he would meet Trump Monday.",
+        "Karoline Leavitt left the role in August; Katie Zacharia served from Oct. 5 to Oct. 9.",
+        "Trump and White have known each other for decades; White spoke at the 2024 Republican convention."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera and The Guardian put the episode in the context of Republicans' midterm losses and the Trump-White relationship. The Guardian highlighted the AI cartoon of fighters beating journalists, said it included a fighter repeating a racist remark about Michelle Obama, and noted White appeared in taxpayer-funded White House ads."
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek and The Hill focused on the sequence of announcement, White's planned visit and retraction, plus the still-vacant post and the absence of regular briefings."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News centred on Trump's explanation that the lineup of fighters showed it was a joke and his praise of White as \"a very capable guy,\" along with the two men's long history. The Washington Examiner described the animated video and the reporters' questions it mocked."
+        }
+      ],
+      "disputed": [
+        "The purpose of White's Monday meeting with Trump is unclear; Trump said it was for other reasons.",
+        "Accounts differ on details of Zacharia's exit: one says she presented herself as a lawyer without a US licence, another says she had failed the bar exam."
+      ],
+      "why": "The White House has had no permanent press secretary or regular briefings for weeks.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 2
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Says He Was ‘Kidding’ About Dana White Press Secretary Job",
+          "url": "https://www.newsweek.com/trump-says-kidding-dana-white-press-secretary-job-12684793",
+          "published": "2026-11-08T23:46:05+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Why Trump joked about having Dana White as his White House press secretary",
+          "url": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary",
+          "published": "2026-11-08T22:03:54+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Trump says he was ‘only kidding’ about making Dana White press secretary",
+          "url": "https://www.foxnews.com/politics/trump-says-only-kidding-making-dana-white-white-house-press-secretary",
+          "published": "2026-11-09T00:06:40+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Dana White says he will meet with Trump to discuss White House press secretary role",
+          "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
+          "published": "2026-11-08T13:12:36+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+          "published": "2026-11-09T01:10:55+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump posts animated video of Dana White’s UFC staffers beating up press corps",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4796796/trump-video-dana-white-ufc-white-house-press/",
+          "published": "2026-11-08T18:50:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Democrats outline investigations of Musk, Miller and companies after winning Congress",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrats who will take control of Congress in January said Sunday they plan aggressive oversight. Rep. Robert Garcia pointed to Elon Musk's role in DOGE firings and Stephen Miller's role in immigration policy, and Sen. Elizabeth Warren warned unnamed companies to expect investigations. House Democratic leader Hakeem Jeffries said he is a \"hard yes\" on impeaching Defense Secretary Pete Hegseth and said there would be no opportunity to work with Miller, newly named White House chief of staff. Attorney General Todd Blanche and the White House pushed back, with a spokeswoman saying refusing to work with the administration is working \"against the American people.\"",
+      "key_facts": [
+        "Trump named Stephen Miller chief of staff on Friday, replacing Susie Wiles.",
+        "Rep. Thomas Massie has said he will reintroduce articles of impeachment against Hegseth.",
+        "Jeffries cited Hegseth's oversight of the Iran war launched in February and the resulting spike in gas prices.",
+        "A Reuters/Ipsos poll in October found 37% approved of Trump's handling of immigration, down from 50% when he took office."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Reuters (via The Korea Herald) laid out Democrats' oversight agenda broadly, covering Musk, Miller, corporations and Hegseth, with polling context and Blanche's response. The Hill highlighted Sen.-elect Abdul El-Sayed's description of Miller as the \"most broken man.\""
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller and Washington Examiner focused on Democrats' attacks on Miller, quoting Jeffries' harsh X post in full and the White House rebuttal, and described the deaths in Minneapolis using official accounts that one victim was armed and the other \"weaponized her vehicle.\""
+        }
+      ],
+      "disputed": [
+        "Circumstances of the Minneapolis shootings of Alex Pretti and Renee Good are described differently: Jeffries says Miller's policies killed citizens, while the Daily Caller cites agents' accounts.",
+        "Which companies Warren intends to investigate has not been specified.",
+        "How the administration will respond to subpoenas or impeachment efforts remains to be seen."
+      ],
+      "why": "It signals a confrontational two years of divided government starting in January.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 2
+      },
+      "n_outlets": 4,
+      "blindspot": "right",
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
+          "url": "https://www.koreaherald.com/article/10930413",
+          "published": "2026-11-09T01:55:39+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Jeffries Declares Democrats’ Opposition To Working With Stephen Miller, Trump Admin’s ‘Extremism’",
+          "url": "https://dailycaller.com/2026/11/08/hakeem-jeffries-declares-democrats-opposition-working-stephen-miller-donald-trump-administration-extremism-abc-news-this-week-jonathan-karl",
+          "published": "2026-11-09T00:04:36+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "El-Sayed on Miller: ‘Most broken man’ to run ‘the most dysfunctional White House’",
+          "url": "https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/",
+          "published": "2026-11-08T19:41:38+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "‘Fear and vitriol’: Democrats trash Stephen Miller as new Trump chief of staff",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4796817/democrats-reactions-stephen-miller-trump-chief-of-staff/",
+          "published": "2026-11-08T20:03:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Trump says his deportation policy may have been 'too tough' after midterm losses",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "In a CBS 60 Minutes interview aired Sunday, President Trump said his immigration policy \"both helped and hurt\" Republicans in the midterms and that deportations of people with jobs \"might be too tough.\" He gave himself an \"A+\" on securing the border and said he would \"love to do something on immigration\" with Democrats, without details. The Homeland Security Department and a White House spokeswoman said the same day that enforcement is not slowing, and Trump just promoted immigration hawk Stephen Miller to chief of staff. Vice-President JD Vance has said he is open to shifting enforcement toward employers.",
+      "key_facts": [
+        "Trump: \"I think it was too tough... I think, ultimately, that hurt me.\"",
+        "A DHS spokesperson told the BBC: \"ICE is NOT backing away or slowing down.\"",
+        "ICE sources told CBS officials were told to aim for about 2,700 arrests a day, up from 2,000.",
+        "Election-day polling put immigration third among voter concerns, behind the economy and democracy."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The BBC, Newsweek and The Hill reported the remarks as a notable shift in tone, while the BBC especially stressed the contrast with DHS statements, Miller's promotion and rising arrest targets. Newsweek added context on border numbers and protests."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post framed it as Trump backing away from hardline policy after a midterm \"blowout,\" emphasising the shift of Latino voters toward Democrats and Trump's claim of zero border entries, without the DHS pushback."
+        }
+      ],
+      "disputed": [
+        "Whether Trump's comments will lead to any change in enforcement is unclear given DHS statements and higher arrest targets.",
+        "Trump's claim that 25 million people entered under Biden is his own figure and is not verified in the articles."
+      ],
+      "why": "It suggests possible room for an immigration deal with the incoming Democratic Congress, though policy on the ground has not visibly changed.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Says Mass Deportation Policy 'Too Tough,' Hurt Midterm Result",
+          "url": "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010",
+          "published": "2026-11-09T01:29:46+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump backs away from hardline immigration policy after midterms blowout: ‘I think it was too tough’",
+          "url": "https://nypost.com/2026/11/08/us-news/trump-backs-away-from-hardline-immigration-policy-after-midterms-blowout-i-think-it-was-too-tough/",
+          "published": "2026-11-09T01:14:50+00:00"
+        },
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says after midterms defeat his immigration crackdown was 'too tough'",
+          "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T01:51:44+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
+          "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+          "published": "2026-11-09T01:23:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Alcaraz beats Shelton to win first Paris Masters title",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Carlos Alcaraz defeated Ben Shelton 7-6 (5), 7-5 on Sunday to win the Paris Masters for the first time, a week after winning in Vienna. The Spaniard saved match points against Taylor Fritz in the quarterfinals and has won his last nine matches. He heads to the ATP Finals in Turin, Nov. 15-22, seeking his first title there.",
+      "key_facts": [
+        "It is Alcaraz's ninth Masters 1000 title, fifth title of the year and 29th overall.",
+        "Shelton had beaten Alcaraz at the US Open; Alcaraz now leads their head-to-head 4-1.",
+        "Alcaraz missed more than four months this season with a right wrist injury."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera framed it as revenge for the US Open loss and noted Alcaraz is unbeaten in finals in Paris."
+        },
+        {
+          "lean": "center",
+          "framing": "AP via The Korea Herald focused on Alcaraz's mental progress, his comeback from injury, and Shelton's new coach Juan Carlos Ferrero."
+        }
+      ],
+      "disputed": [],
+      "why": "Alcaraz enters the season-ending ATP Finals in strong form.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alcaraz wins Paris Masters title",
+          "url": "https://www.koreaherald.com/article/10930126",
+          "published": "2026-11-09T00:34:20+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+          "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title",
+          "published": "2026-11-08T18:22:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Poland mourns after gunman kills six in Krakow's Main Square",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Poland began two days of national mourning after a 24-year-old man drove into Krakow's Main Square on Saturday and opened fire, killing six people and wounding 15 before police shot and wounded him. Authorities said he held far-right, ultranationalist views, and prosecutors are treating it as a terrorist offense. The bodies of his parents and sister were found at the family home in Ostrowiec Swietokrzyski. Two police officers who stopped him remain hospitalized, one in a coma.",
+      "key_facts": [
+        "Four women and two men were killed, including a UK man and a woman from another foreign country.",
+        "Wounded non-Poles came from the UK, Portugal, Russia, Germany and Austria.",
+        "St. Mary's Trumpet Call was paused for the first time since World War II.",
+        "The suspect is in critical condition after multiple surgeries."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS ran the AP report with emphasis on mourners and survivors reclaiming the square and a witness who shielded an elderly woman."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald ran the same AP report, with more on the police officers' heroism and the official description of the suspect's ideology."
+        }
+      ],
+      "disputed": [
+        "The motive beyond reported far-right views has not been detailed, and the killings of his family are still under investigation.",
+        "One linked AP headline cited 16 wounded, while the main reports say 15."
+      ],
+      "why": "Officials describe it as a rare mass killing and a grim first for Poland.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+          "url": "https://www.koreaherald.com/article/10929805",
+          "published": "2026-11-08T12:20:09+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+          "url": "https://www.pbs.org/newshour/world/poles-mourn-rare-mass-killing-as-authorities-say-attacker-had-far-right-views",
+          "published": "2026-11-08T20:02:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Suspect charged after two shot near UNC Charlotte",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Two people were shot Friday afternoon at off-campus apartments on Education Way in University City. Officers responding to a reported break-in heard gunfire. A K9 track led police to 22-year-old Symqwell Brown in nearby woods, and he faces multiple charges. Police said Sunday both victims are expected to survive.",
+      "key_facts": [
+        "Shooting occurred around 4:15 p.m. on Nov. 6.",
+        "Charges include two counts of assault with a deadly weapon inflicting serious injury and possession of a firearm by a convicted felon."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local Charlotte stations reported it straightforwardly based on police and MEDIC information."
+        }
+      ],
+      "disputed": [
+        "A motive has not been reported."
+      ],
+      "why": "It is a violent incident near a major university campus.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 hospitalized in University City shooting, suspect charged",
+          "url": "https://www.wsoctv.com/news/local/2-hospitalized-university-city-shooting/UQBRALLDQZG5JI4XZLUDP3VX2Q/",
+          "published": "2026-11-09T01:25:58+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Man charged after two hurt in University City apartment complex shooting",
+          "url": "https://www.qcnews.com/crime-and-public-safety/man-charged-after-two-hurt-in-university-city-apartment-complex-shooting/",
+          "published": "2026-11-09T01:44:23+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Suspect charged in shooting that hurt 2 people University City",
+          "url": "https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f",
+          "published": "2026-11-09T01:13:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Waxhaw man dies in house fire blamed on space heater",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Kenneth Robinson, 61, died after a fire early Sunday at a home on Howie Mine Road in Waxhaw. The fire marshal said a space heater caused it and there was no working smoke alarm. A police officer who tried to enter was treated for minor injuries, and a second resident escaped unhurt.",
+      "key_facts": [
+        "A neighbor called 911 around 4:30 a.m.",
+        "Officials urge keeping space heaters at least three feet from anything flammable."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local outlets reported the facts and the fire marshal's safety warning."
+        }
+      ],
+      "disputed": [],
+      "why": "Officials say it is a reminder about heater safety and smoke alarms as temperatures drop.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Man dies in house fire caused by space heater in Union County",
+          "url": "https://www.wsoctv.com/news/local/man-dies-house-fire-caused-by-space-heater-union-county/ICGDQIMKG5BUDF3QILWQIDDFLA/",
+          "published": "2026-11-08T23:26:48+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "One dead, police officer injured in fatal Waxhaw house fire",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/union-county/waxhaw/one-dead-police-officer-injured-in-fatal-waxhaw-house-fire/",
+          "published": "2026-11-08T20:18:48+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Waxhaw man dies after house fire caused by space heater",
+          "url": "https://www.wcnc.com/article/news/local/waxhaw-man-dies-after-house-fire-caused-by-space-heater/275-5714c687-1c0c-49d3-84c3-f2763c454c9a",
+          "published": "2026-11-09T01:27:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "India celebrates Diwali amid severe air pollution",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Millions across India celebrated Diwali, the festival of lights, with lamps, prayers and fireworks. The BBC reported that Delhi is seeing its most polluted Diwali in a decade. The Supreme Court allowed certified \"green\" firecrackers for a limited period, though critics question their effectiveness.",
+      "key_facts": [
+        "Celebrations began Nov. 6 with Dhanteras.",
+        "Green firecrackers are designed to produce 20-30% fewer emissions."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera offered a brief celebratory visual piece."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC paired the festival's meaning with concerns about pollution."
+        }
+      ],
+      "disputed": [
+        "How effective green firecrackers are is disputed."
+      ],
+      "why": "The holiday highlights the tension between tradition and public health in northern India.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Homes and temples glow across India to mark Diwali",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-08T14:42:09+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "India’s night lights up for Diwali",
+          "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali",
+          "published": "2026-11-09T00:24:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Seoul stocks open lower as investors weigh Nvidia uncertainty",
+      "topics": [
+        "Korea",
+        "AI & Cybersecurity"
+      ],
+      "summary": "The KOSPI opened down 0.63% Monday at 5,028.01, despite gains on Wall Street Friday. Reports said investors are digesting uncertainty around Nvidia's investigation and watching the Federal Reserve. Hanwha Aerospace fell 3.33%, while Samsung Electronics edged up.",
+      "key_facts": [
+        "The Nasdaq rose 1.09% and the S&P 500 0.31% Friday.",
+        "The won traded at 1,360 per dollar."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and The Korea Herald ran the same market report."
+        }
+      ],
+      "disputed": [],
+      "why": "It shows early market reaction to the Nvidia news.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(LEAD) Seoul stocks buck gains on Wall Street to open lower",
+          "url": "https://en.yna.co.kr/view/AEN20261109000851320",
+          "published": "2026-11-09T00:29:30+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Seoul stocks buck gains on Wall Street to open lower",
+          "url": "https://www.koreaherald.com/article/10930191",
+          "published": "2026-11-09T00:42:41+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "AP sources report that staff at CAISSI, an independent Commerce Department division on AI safety, were recently asked to informally report to a White House office, raising concerns about its independence. Separately, a Seoul market report mentions lingering investor fears of tighter AI regulation after the Democrats' midterm sweep. No EU developments were in today's articles.",
+      "links": [
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+          "url": "https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns",
+          "published": "2026-11-08T18:05:01+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 7,
+    "center": 20,
+    "right": 7
+  },
+  "stats": {
+    "articles": 346,
+    "stories_found": 239,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

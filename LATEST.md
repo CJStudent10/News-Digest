@@ -1,279 +1,265 @@
-# My Daily Brief: Midday edition
-_Sunday, November 8, 2026 · 3:47 PM EST · 304 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Sunday, November 8, 2026 · 8:59 PM EST · 346 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by fallout in Washington after Democrats' midterm sweep: bipartisan scrutiny of Nvidia CEO Jensen Huang over a reported relationship with a suspected Chinese intelligence asset, House Democratic leader Hakeem Jeffries backing a Republican-led push to impeach Defense Secretary Pete Hegseth, and President Trump offering the press secretary job to UFC chief Dana White. Abroad, Israel's president tasked Gadi Eisenkot with forming a government, a far-right gunman killed six people in Krakow, and a train collision near Cairo killed seven.
+> This edition is dominated by fallout in Washington after Democrats' sweeping midterm win: Nvidia's board opened an inquiry into CEO Jensen Huang's relationship with a woman US intelligence reportedly identified as a Chinese asset, Trump said his deportation policy may have been "too tough," and Democrats outlined oversight plans targeting Stephen Miller, Elon Musk and Pete Hegseth. Abroad, Poland is mourning a deadly attack in Krakow, Carlos Alcaraz won the Paris Masters, and India marked Diwali under heavy pollution.
 
 
-**Sources linked in this edition:** 12 left · 17 center · 4 right
+**Sources linked in this edition:** 7 left · 20 center · 7 right
 
 ---
 
-## 1. Nvidia board opens investigation into CEO Jensen Huang's reported relationship with suspected Chinese intelligence asset
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 1. Nvidia board opens investigation after reports CEO Jensen Huang was targeted by Chinese intelligence
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 14 outlets (L 4 · C 8 · R 2)
 
-Nvidia's board said it is launching an independent investigation after reports that CEO Jensen Huang was the target of a foreign intelligence effort involving Alice Huang, a Chinese citizen and executive at Singapore-based Megaspeed, an Nvidia customer. The New York Times reported that Trump administration policymakers received a memo last spring identifying her as recruited by China's Ministry of State Security; Axios and The Verge report that Huang admitted in a message to staff that the relationship was romantic. Three House Republican committee chairs have invited Huang to a closed-door briefing on Nov. 18, and Democrats including Sen. Chris Coons are calling for investigations, including into what the administration knew. The board said it has no reason to believe national security or company secrets were compromised.
+Nvidia's board said Sunday it is opening an independent investigation, overseen by independent directors and outside counsel, into reports that CEO Jensen Huang was the target of a foreign intelligence effort. The New York Times reported that Huang told the board he had an intimate relationship with Alice Huang, a Megaspeed executive whom US intelligence reportedly determined was passing information to Beijing. In a letter to employees, Huang said he had been unfaithful to his wife, took "full responsibility," and pledged to cooperate. He will remain CEO during the inquiry. President Trump defended Huang, while three House Republicans have asked him to attend a closed-door briefing on Nov. 18.
 
 **Key facts**
-- Nvidia's board formed a committee of independent directors, assisted by outside counsel, to oversee the investigation; it says Huang supports the review.
-- House Republican chairs Brian Mast, John Moolenaar and Rick Crawford invited Huang to a joint briefing on Nov. 18, a day after Nvidia's scheduled third-quarter earnings.
-- In a draft email obtained by Axios, Huang wrote: "I was unfaithful to my wife... There is no excuse for what I did."
-- Megaspeed is the subject of a Commerce Department investigation into whether it smuggled AI chips to China.
-- Sen. John Cornyn called "outrageous" a Times report that the Commerce Department cleared a Chinese firm, New Matrix, to assemble Nvidia chips in Beijing.
+- The board said it has "no reason to believe" national security or Nvidia secrets were compromised, but will examine all available information.
+- Megaspeed, a Singapore-based data center company, bought more than $4.8 billion of Nvidia chips over two years, according to the Times.
+- Huang wrote: "I was unfaithful to my wife... There is no excuse for what I did. I am deeply sorry."
+- Trump said: "I think he's an honorable guy. I think he probably has an excuse for it."
+- Reps. Brian Mast, John Moolenaar and Rick Crawford invited Huang to a briefing on Nov. 18, a day after Nvidia's third-quarter earnings.
 
 **How it's being framed**
-- **Left:** The Verge led with the board's investigation, quoted its statement in full, and highlighted concern that Huang's closeness to Trump may have given him insight into administration AI deliberations that could have reached Beijing.
-- **Center:** CNBC stressed the bipartisan nature of the scrutiny, quoting Coons's charge of administration corruption alongside the Republican letter and Cornyn's criticism of the Commerce Department; Axios focused on Huang's personal admission of an affair and apology.
-- **Right:** Fox Business centred the House Republican chairs' demand for answers and China's access to U.S. technology, noted the Times report that Trump was briefed and chose not to act, and gave extended detail on Huang's lobbying and his seat on Trump's business delegation to China.
+- **Left:** The Guardian and The Verge stressed the national security angle and Huang's closeness to Trump. The Guardian highlighted Trump downplaying the matter despite being briefed last year, the reported Rubio memo, and Huang being invited on the May China trip and to a state dinner for Xi. The Verge raised concern about what administration AI deliberations Huang may have known about and noted Megaspeed is under a Commerce Department smuggling investigation.
+- **Center:** AP (via The Korea Herald) and Axios gave a straightforward account built around the board statement, Huang's letter and Trump's supportive comments. Axios emphasised mounting blowback, including congressional calls for probes and investor worries about the broader AI trade.
+- **Right:** Fox Business and the Washington Examiner led with Huang's admission of an affair and the board investigation. Fox Business foregrounded the House Republicans' demands and noted Huang has lobbied the administration to ease chip export limits to China. These outlets did not focus on Trump's defense of Huang.
 
 **Disputed or unclear**
-- Whether any national security or company information was compromised; the board says it has no reason to believe so.
-- Whether U.S. officials still believe Huang was unaware she was allegedly gathering intelligence.
-- What the Trump administration knew and when; outlets cite a memo last spring and a briefing about a year ago.
-- Whether Huang will attend the Nov. 18 briefing; Nvidia declined to comment.
-- Nvidia's spokesman described Huang's interactions with her as consistent with ordinary customer meetings, which sits uneasily with Huang's reported admission of a romantic relationship.
+- Whether any Nvidia secrets or US government information was compromised has not been established; the board says it has no reason to believe so.
+- The finding that Alice Huang was a Chinese intelligence asset comes from the Times citing unnamed sources.
+- It is unclear whether Huang will attend the Nov. 18 congressional briefing.
+- What the administration did after reportedly being briefed, including the Rubio memo, has not been publicly explained; Rubio declined to comment.
 
-**Why it matters:** The head of the company whose chips are central to the U.S.-China tech rivalry is now under corporate and congressional investigation over possible espionage exposure.
+**Why it matters:** Nvidia's chips are central to the US-China AI rivalry, and its CEO advises the president on technology policy.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html) (center): Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link
+- [The Korea Herald](https://www.koreaherald.com/article/10930402) (center): Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation) (lean-left): Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
+- [Fox Business](https://www.foxbusiness.com/politics/nvidia-ceo-jensen-huang-apologizes-firm-probes-affair-alleged-spy) (lean-right): Nvidia CEO Jensen Huang apologizes as firm probes affair with alleged spy
+- [Axios](https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia) (center): Trump backs Nvidia's Huang amid affair, spy investigation
 - [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy) (lean-left): Nvidia is investigating Jensen Huang’s relationship with a Chinese spy
-- [Fox Business](https://www.foxbusiness.com/politics/house-republicans-demand-answers-from-nvidia-ceo-over-reported-chinese-spy-ties) (lean-right): House Republicans demand answers from Nvidia CEO over reported Chinese spy ties
-- [Axios](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation) (center): Nvidia CEO Jensen Huang admits affair, board to launch investigation
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4796886/nvidia-ceo-affair-alleged-chinese-spy-investigation/) (lean-right): Nvidia CEO admits to affair with alleged Chinese spy, sparking investigation
 
 
-## 2. Jeffries says he is a 'hard yes' on impeaching Defense Secretary Hegseth
-`US Headlines` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 2. Trump says offer of press secretary job to UFC's Dana White was a joke
+`US Headlines` · Covered by 6 outlets (L 2 · C 2 · R 2)
 
-House Democratic leader Hakeem Jeffries, expected to become Speaker in January, said on ABC's This Week that he supports a resolution to impeach Defense Secretary Pete Hegseth, accusing him of abusing power and engineering a costly war in Iran. The resolution, from outgoing Republican Rep. Thomas Massie, contains eight articles, including alleged violation of the War Powers Resolution, and could be introduced as soon as Monday. Democrats will discuss it Tuesday when the caucus meets for the first time since the midterms. Trump has said Hegseth is doing a very good job, and Hegseth has called the articles a "sham."
-
-**Key facts**
-- Jeffries: "I'm a hard yes on the Hegseth resolution... Pete Hegseth has got to go."
-- Massie's resolution has eight articles of impeachment, including violating the War Powers Resolution of 1973.
-- Democrats won control of both chambers in Tuesday's midterm elections.
-- Trump, asked Wednesday about replacing Hegseth: "No, I think he's doing a very good job."
-- Jeffries has said House Democrats are not currently focused on impeaching Trump.
-
-**How it's being framed**
-- **Left:** The Guardian gave the fullest account, linking the push to Republican midterm losses blamed on the Iran war, quoting a Republican close to the White House criticising Hegseth, and outlining wider Democratic plans to investigate his officer purges, Ukraine policy and boat strikes.
-- **Center:** BBC and The Hill reported Jeffries's comments straightforwardly, with the BBC noting Massie's role, the resolution's contents, and Jeffries's statement that Democrats aren't focused on impeaching Trump.
-- **Right:** The New York Post's headline said Jeffries "gloats" about "another impeachment"; it cited Axios reporting that GOP leaders expect enough defections to pass it, noted a Trump adviser saying Hegseth is "on thin ice," and featured Hegseth's dismissal of the effort.
-
-**Disputed or unclear**
-- Whether the full Democratic caucus will back the resolution and how many Republicans might defect.
-- Whether Hegseth's position within the administration is secure; Trump backs him while an unnamed adviser said he is on thin ice.
-
-**Why it matters:** It is an early test of how the incoming Democratic majority, with some Republican help, will use its power to check the administration over the Iran war.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss) (center): Top House Democrat 'a hard yes' on impeaching Hegseth
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries) (lean-left): Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’
-- [New York Post](https://nypost.com/2026/11/08/us-news/hakeem-jeffries-gloats-that-hes-a-hard-yes-on-another-trump-impeachment/) (lean-right): Hakeem Jeffries gloats that he’s a ‘hard yes’ on another impeachment
-- [The Hill](https://thehill.com/homenews/house/6206617-jeffries-supports-hegseth-impeachment/) (center): Hakeem Jeffries says he’s a ‘hard yes’ to impeach Hegseth
-
-
-## 3. Israel's president formally tasks Gadi Eisenkot with forming a government
-`US Headlines` · Covered by 5 outlets (L 3 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-Israeli President Isaac Herzog formally gave opposition leader Gadi Eisenkot, a former military chief who heads the Yashar party, the first chance to form a government after the Oct. 27 election left no bloc with a majority. Eisenkot called for a "national emergency government" and invited Netanyahu's Likud and Bezalel Smotrich's party to join, with himself as prime minister. His options include power-sharing with Netanyahu, support from Arab-led parties that some of his partners oppose, or a deal with ultra-Orthodox parties that want to keep draft exemptions he campaigned against. Netanyahu has claimed, with little evidence, that the election was "stolen" by Arab parties, and has called for a unity government.
+President Trump said Sunday he was "only kidding" when he announced on Truth Social a day earlier that he had offered UFC CEO Dana White the White House press secretary job, with prominent fighters as assistants. Trump said "Dana loves the idea" and that White still plans to visit him Monday. Over the weekend both men shared AI-generated images, including a Trump-posted cartoon showing fighters attacking reporters. The post has been vacant since Katie Zacharia left after five days in October, and it is unclear who will fill it.
 
 **Key facts**
-- Netanyahu's bloc won 53 seats, Eisenkot's 48, and Arab-led parties a record 19 of the Knesset's 120; 61 are needed for a majority.
-- Eisenkot received 67 recommendations from Knesset members versus 46 for Netanyahu, according to DW.
-- He has 28 days, extendable by 14, to form a coalition.
-- Yisrael Beiteinu, an Eisenkot partner, says it won't join a coalition with Arab-led parties.
-- Shin Bet is investigating possible foreign interference, but the Central Elections Commission and Herzog say the vote was valid.
+- Trump's Saturday post called White "a violent Fighter and Warrior" who would "defend us against the Lunatic Left."
+- White told reporters in London, "I got a lot of jobs already," and said he would meet Trump Monday.
+- Karoline Leavitt left the role in August; Katie Zacharia served from Oct. 5 to Oct. 9.
+- Trump and White have known each other for decades; White spoke at the 2024 Republican convention.
 
 **How it's being framed**
-- **Left:** The Guardian emphasised Eisenkot's warnings about a historic crisis and Israel's diplomatic isolation, noting the ICC warrant for Netanyahu and calls by U.S. Democrats to rein in Israel; PBS/AP stressed the fraught choice for both Eisenkot and the Arab Joint List; Al Jazeera paired the news with flooding in Gaza displacement camps.
-- **Center:** The Korea Herald (carrying AP) laid out the coalition maths and Eisenkot's three options and called Netanyahu's fraud claims unsubstantiated; DW focused on procedure, Herzog's remarks on Iran, Gaza and Lebanon, and the recommendation counts.
+- **Left:** Al Jazeera and The Guardian put the episode in the context of Republicans' midterm losses and the Trump-White relationship. The Guardian highlighted the AI cartoon of fighters beating journalists, said it included a fighter repeating a racist remark about Michelle Obama, and noted White appeared in taxpayer-funded White House ads.
+- **Center:** Newsweek and The Hill focused on the sequence of announcement, White's planned visit and retraction, plus the still-vacant post and the absence of regular briefings.
+- **Right:** Fox News centred on Trump's explanation that the lineup of fighters showed it was a joke and his praise of White as "a very capable guy," along with the two men's long history. The Washington Examiner described the animated video and the reporters' questions it mocked.
 
 **Disputed or unclear**
-- Netanyahu's claim that the election was "stolen" by Arab parties; officials say the vote was valid.
-- Whether Eisenkot will accept Arab-party support and on what terms.
-- Outcome of Shin Bet's foreign interference investigation.
+- The purpose of White's Monday meeting with Trump is unclear; Trump said it was for other reasons.
+- Accounts differ on details of Zacharia's exit: one says she presented herself as a lawyer without a US licence, another says she had failed the bar exam.
 
-**Why it matters:** Israel could see its longest-serving prime minister replaced, with consequences for its wars, its relations with the U.S., and domestic issues like military service.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10929799) (center): Netanyahu rival given first chance at forming new government
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government) (lean-left): Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government
-- [Deutsche Welle](https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf) (center): Israel: Eisenkot officially tasked with forming a government
-- [PBS NewsHour](https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government) (lean-left): Israel's president formally gives Eisenkot the first chance to form the next government
-- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126) (lean-left): Jerusalem Daily: Eisenkot picked over Netanyahu to form government
-
-
-## 4. Train collision south of Cairo kills seven and injures more than 100
-· Covered by 6 outlets (L 3 · C 2 · R 1)
-
-A train bound for Fayoum crashed into the rear of a stationary Cairo-to-Aswan train in al-Ayyat district, Giza province, about 32 miles south of Cairo, on Sunday, killing at least seven people including a train driver. Officials put the injured at more than 100, with the Health Ministry giving at least 125 and saying over 70 were discharged. President Abdel Fattah el-Sisi ordered an investigation and accountability for anyone negligent, and prosecutors are at the site. The area was the scene of Egypt's deadliest rail disaster, a 2002 train fire.
-
-**Key facts**
-- At least 7 dead and 100+ injured; the Health Ministry cited at least 125 injured.
-- The Cairo-Aswan train was stationary on the same track when it was hit from behind.
-- Several carriages overturned; services between Giza and Upper Egypt were suspended.
-- More than 300 (some reports say 370+) died in a 2002 train fire in the same area.
-
-**How it's being framed**
-- **Left:** PBS/AP, The Guardian and Al Jazeera emphasised survivor and witness accounts and described Egypt's rail system as having a history of mismanagement and poor maintenance despite modernisation efforts.
-- **Center:** BBC and DW focused on the official response, the history of crashes in the area, and Egypt's large infrastructure spending; the BBC noted calls for the transport minister to resign.
-- **Right:** The Washington Examiner ran a short AP wire version with the basic casualty figures and location, without added framing.
-
-**Disputed or unclear**
-- The cause of the collision has not been determined.
-- The death toll could rise, prosecutors warned; injury counts vary slightly between reports.
-
-**Why it matters:** The crash renews questions about the safety of a rail network that many of Egypt's 110 million people rely on.
+**Why it matters:** The White House has had no permanent press secretary or regular briefings for weeks.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss) (center): Seven dead and more than 100 injured after trains collide in Egypt
-- [PBS NewsHour](https://www.pbs.org/newshour/world/collision-between-2-trains-in-egypt-kills-7-and-injures-more-than-100) (lean-left): Collision between 2 trains in Egypt kills 7 and injures at least 125
-- [Washington Examiner](https://www.washingtonexaminer.com/news/world/4796859/cairo-giza-egypt-train-crash-collision/) (lean-right): Collision between two trains in Egypt kills seven and injures more than 100
-- [Deutsche Welle](https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-rdf) (center): Egypt train crash leaves several dead, over 100 injured
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city) (lean-left): Train crash kills seven, injures dozens near Egypt’s Cairo city
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision) (lean-left): Collision of two trains in Egypt kills at least seven
-
-
-## 5. Trump offers White House press secretary job to UFC chief Dana White
-`US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
-
-President Trump said on social media Saturday that he had offered the White House press secretary job to UFC chief executive Dana White, asking him to bring UFC fighters as "assistants" to "defend us against the Lunatic Left." White said he would meet Trump at the White House on Monday and posted an image of himself at the briefing room podium captioned "On to the next chapter." On Sunday Trump posted an AI-generated animated video showing UFC fighters subduing reporters in the briefing room. The offer comes amid a White House shake-up after midterm losses, including Stephen Miller replacing Susie Wiles as chief of staff.
-
-**Key facts**
-- White plans to meet Trump on Monday.
-- The post has been vacant since Karoline Leavitt left in August, apart from Katie Zacharia's five-day tenure.
-- Trump named Stephen Miller as next chief of staff, replacing Susie Wiles, on Friday.
-- Trump's Sunday video showed animated fighters pinning reporters and escorting them from the room.
-
-**How it's being framed**
-- **Left:** NPR called the offer unconventional even for Trump, placed it amid post-midterm turmoil and staffing churn, and noted White's Saudi-backed boxing venture and his confusion over balancing jobs.
-- **Center:** The Hill reported briefly on White's plan to meet Trump.
-- **Right:** The Washington Examiner described Trump's AI-generated video of fighters attacking the press corps, including the reporters' mocking questions, without commentary.
-
-**Disputed or unclear**
-- Whether White is seriously considering or will accept the job, and how he would handle his existing roles.
-
-**Why it matters:** Who speaks for the president, and how the White House treats the press, shapes public access to information from the administration.
-
-**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/trump-says-kidding-dana-white-press-secretary-job-12684793) (center): Trump Says He Was ‘Kidding’ About Dana White Press Secretary Job
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary) (lean-left): Why Trump joked about having Dana White as his White House press secretary
+- [Fox News](https://www.foxnews.com/politics/trump-says-only-kidding-making-dana-white-white-house-press-secretary) (right): Trump says he was ‘only kidding’ about making Dana White press secretary
 - [The Hill](https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/) (center): Dana White says he will meet with Trump to discuss White House press secretary role
-- [NPR](https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary) (lean-left): UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary) (lean-left): Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary
 - [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4796796/trump-video-dana-white-ufc-white-house-press/) (lean-right): Trump posts animated video of Dana White’s UFC staffers beating up press corps
 
 
-## 6. Poland mourns after far-right gunman kills six in Krakow's Main Square
-`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 3. Democrats outline investigations of Musk, Miller and companies after winning Congress
+`US Headlines` · Covered by 4 outlets (L 0 · C 2 · R 2) · ⚠️ Mostly covered by right-leaning outlets
 
-Poland began two days of national mourning after a 24-year-old man drove into Krakow's Main Square on Saturday and opened fire, killing six people and wounding 15 before police shot and wounded him. Authorities later found the bodies of his sister, mother and father at the family home in Ostrowiec Swietokrzyski. The interior minister said the suspect held "very radical" and "ultranationalistic" views, and prosecutors are investigating murder and attempted murder as a terrorist offence. Two police officers who stopped him were hospitalised, one still in a coma.
+Democrats who will take control of Congress in January said Sunday they plan aggressive oversight. Rep. Robert Garcia pointed to Elon Musk's role in DOGE firings and Stephen Miller's role in immigration policy, and Sen. Elizabeth Warren warned unnamed companies to expect investigations. House Democratic leader Hakeem Jeffries said he is a "hard yes" on impeaching Defense Secretary Pete Hegseth and said there would be no opportunity to work with Miller, newly named White House chief of staff. Attorney General Todd Blanche and the White House pushed back, with a spokeswoman saying refusing to work with the administration is working "against the American people."
 
 **Key facts**
-- Six killed (four women, two men), including a UK man and a woman from an unidentified foreign country; 15 wounded.
-- The defense minister called it an "act of terror."
-- St. Mary's hourly Trumpet Call was paused overnight for the first time since World War II.
-- The suspect is in critical condition after multiple operations.
+- Trump named Stephen Miller chief of staff on Friday, replacing Susie Wiles.
+- Rep. Thomas Massie has said he will reintroduce articles of impeachment against Hegseth.
+- Jeffries cited Hegseth's oversight of the Iran war launched in February and the resulting spike in gas prices.
+- A Reuters/Ipsos poll in October found 37% approved of Trump's handling of immigration, down from 50% when he took office.
 
 **How it's being framed**
-- **Left:** PBS (carrying AP) emphasised mourning and tourist testimony, including visitors who had believed Poland was safe, and the square's reopening for memorials.
-- **Center:** The Korea Herald ran the same AP report, with somewhat more on officials' praise of the police officers and the nationalities of the wounded; framing matched the left-leaning coverage.
+- **Center:** Reuters (via The Korea Herald) laid out Democrats' oversight agenda broadly, covering Musk, Miller, corporations and Hegseth, with polling context and Blanche's response. The Hill highlighted Sen.-elect Abdul El-Sayed's description of Miller as the "most broken man."
+- **Right:** The Daily Caller and Washington Examiner focused on Democrats' attacks on Miller, quoting Jeffries' harsh X post in full and the White House rebuttal, and described the deaths in Minneapolis using official accounts that one victim was armed and the other "weaponized her vehicle."
 
 **Disputed or unclear**
-- The motive beyond the reported far-right views is still under investigation.
-- The wounded count differs from an earlier report of 16.
+- Circumstances of the Minneapolis shootings of Alex Pretti and Renee Good are described differently: Jeffries says Miller's policies killed citizens, while the Daily Caller cites agents' accounts.
+- Which companies Warren intends to investigate has not been specified.
+- How the administration will respond to subpoenas or impeachment efforts remains to be seen.
 
-**Why it matters:** Officials describe it as a rare mass killing and terrorist attack in Poland, raising questions about far-right radicalisation.
+**Why it matters:** It signals a confrontational two years of divided government starting in January.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10930413) (center): Democrats plan probes of Musk, Miller, corporate America after midterm rout
+- [The Daily Caller](https://dailycaller.com/2026/11/08/hakeem-jeffries-declares-democrats-opposition-working-stephen-miller-donald-trump-administration-extremism-abc-news-this-week-jonathan-karl) (right): Jeffries Declares Democrats’ Opposition To Working With Stephen Miller, Trump Admin’s ‘Extremism’
+- [The Hill](https://thehill.com/homenews/administration/6206812-el-sayed-slams-stephen-miller/) (center): El-Sayed on Miller: ‘Most broken man’ to run ‘the most dysfunctional White House’
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4796817/democrats-reactions-stephen-miller-trump-chief-of-staff/) (lean-right): ‘Fear and vitriol’: Democrats trash Stephen Miller as new Trump chief of staff
+
+
+## 4. Trump says his deportation policy may have been 'too tough' after midterm losses
+`US Headlines` · Covered by 4 outlets (L 0 · C 3 · R 1)
+
+In a CBS 60 Minutes interview aired Sunday, President Trump said his immigration policy "both helped and hurt" Republicans in the midterms and that deportations of people with jobs "might be too tough." He gave himself an "A+" on securing the border and said he would "love to do something on immigration" with Democrats, without details. The Homeland Security Department and a White House spokeswoman said the same day that enforcement is not slowing, and Trump just promoted immigration hawk Stephen Miller to chief of staff. Vice-President JD Vance has said he is open to shifting enforcement toward employers.
+
+**Key facts**
+- Trump: "I think it was too tough... I think, ultimately, that hurt me."
+- A DHS spokesperson told the BBC: "ICE is NOT backing away or slowing down."
+- ICE sources told CBS officials were told to aim for about 2,700 arrests a day, up from 2,000.
+- Election-day polling put immigration third among voter concerns, behind the economy and democracy.
+
+**How it's being framed**
+- **Center:** The BBC, Newsweek and The Hill reported the remarks as a notable shift in tone, while the BBC especially stressed the contrast with DHS statements, Miller's promotion and rising arrest targets. Newsweek added context on border numbers and protests.
+- **Right:** The New York Post framed it as Trump backing away from hardline policy after a midterm "blowout," emphasising the shift of Latino voters toward Democrats and Trump's claim of zero border entries, without the DHS pushback.
+
+**Disputed or unclear**
+- Whether Trump's comments will lead to any change in enforcement is unclear given DHS statements and higher arrest targets.
+- Trump's claim that 25 million people entered under Biden is his own figure and is not verified in the articles.
+
+**Why it matters:** It suggests possible room for an immigration deal with the incoming Democratic Congress, though policy on the ground has not visibly changed.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010) (center): Trump Says Mass Deportation Policy 'Too Tough,' Hurt Midterm Result
+- [New York Post](https://nypost.com/2026/11/08/us-news/trump-backs-away-from-hardline-immigration-policy-after-midterms-blowout-i-think-it-was-too-tough/) (lean-right): Trump backs away from hardline immigration policy after midterms blowout: ‘I think it was too tough’
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss) (center): Trump says after midterms defeat his immigration crackdown was 'too tough'
+- [The Hill](https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/) (center): Trump says his immigration crackdown ‘might be too tough’ after midterm losses
+
+
+## 5. Alcaraz beats Shelton to win first Paris Masters title
+`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Carlos Alcaraz defeated Ben Shelton 7-6 (5), 7-5 on Sunday to win the Paris Masters for the first time, a week after winning in Vienna. The Spaniard saved match points against Taylor Fritz in the quarterfinals and has won his last nine matches. He heads to the ATP Finals in Turin, Nov. 15-22, seeking his first title there.
+
+**Key facts**
+- It is Alcaraz's ninth Masters 1000 title, fifth title of the year and 29th overall.
+- Shelton had beaten Alcaraz at the US Open; Alcaraz now leads their head-to-head 4-1.
+- Alcaraz missed more than four months this season with a right wrist injury.
+
+**How it's being framed**
+- **Left:** Al Jazeera framed it as revenge for the US Open loss and noted Alcaraz is unbeaten in finals in Paris.
+- **Center:** AP via The Korea Herald focused on Alcaraz's mental progress, his comeback from injury, and Shelton's new coach Juan Carlos Ferrero.
+
+**Why it matters:** Alcaraz enters the season-ending ATP Finals in strong form.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10930126) (center): Alcaraz wins Paris Masters title
+- [Al Jazeera English](https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title) (lean-left): Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title
+
+
+## 6. Poland mourns after gunman kills six in Krakow's Main Square
+`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Poland began two days of national mourning after a 24-year-old man drove into Krakow's Main Square on Saturday and opened fire, killing six people and wounding 15 before police shot and wounded him. Authorities said he held far-right, ultranationalist views, and prosecutors are treating it as a terrorist offense. The bodies of his parents and sister were found at the family home in Ostrowiec Swietokrzyski. Two police officers who stopped him remain hospitalized, one in a coma.
+
+**Key facts**
+- Four women and two men were killed, including a UK man and a woman from another foreign country.
+- Wounded non-Poles came from the UK, Portugal, Russia, Germany and Austria.
+- St. Mary's Trumpet Call was paused for the first time since World War II.
+- The suspect is in critical condition after multiple surgeries.
+
+**How it's being framed**
+- **Left:** PBS ran the AP report with emphasis on mourners and survivors reclaiming the square and a witness who shielded an elderly woman.
+- **Center:** The Korea Herald ran the same AP report, with more on the police officers' heroism and the official description of the suspect's ideology.
+
+**Disputed or unclear**
+- The motive beyond reported far-right views has not been detailed, and the killings of his family are still under investigation.
+- One linked AP headline cited 16 wounded, while the main reports say 15.
+
+**Why it matters:** Officials describe it as a rare mass killing and a grim first for Poland.
 
 **Read it yourself:**
 - [The Korea Herald](https://www.koreaherald.com/article/10929805) (center): Poles mourn rare mass killing as authorities say attacker had far-right views
 - [PBS NewsHour](https://www.pbs.org/newshour/world/poles-mourn-rare-mass-killing-as-authorities-say-attacker-had-far-right-views) (lean-left): Poles mourn rare mass killing as authorities say attacker had far-right views
 
 
-## 7. Five injured, one critically, in east Charlotte crash
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 7. Suspect charged after two shot near UNC Charlotte
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-A crash around midnight Saturday at Albemarle Road and W.T. Harris Boulevard in east Charlotte injured five people, according to MEDIC. One person suffered life-threatening injuries, two were seriously hurt and two had minor injuries. Police closed outbound lanes for the investigation; the cause and number of vehicles were not immediately known.
+Two people were shot Friday afternoon at off-campus apartments on Education Way in University City. Officers responding to a reported break-in heard gunfire. A K9 track led police to 22-year-old Symqwell Brown in nearby woods, and he faces multiple charges. Police said Sunday both victims are expected to survive.
 
 **Key facts**
-- 5 injured: 1 life-threatening, 2 serious, 2 minor.
-- Crash occurred near midnight Nov. 7 at Albemarle Road and W.T. Harris Boulevard.
-- CMPD closed outbound lanes and set detours.
+- Shooting occurred around 4:15 p.m. on Nov. 6.
+- Charges include two counts of assault with a deadly weapon inflicting serious injury and possession of a firearm by a convicted felon.
 
 **How it's being framed**
-- **Center:** All four local stations reported the same basic facts from MEDIC and police, without speculation on cause.
+- **Center:** Local Charlotte stations reported it straightforwardly based on police and MEDIC information.
 
 **Disputed or unclear**
-- Cause of the crash and number of vehicles involved.
+- A motive has not been reported.
 
-**Why it matters:** Local drivers may face continued attention to safety at a busy east Charlotte intersection.
+**Why it matters:** It is a violent incident near a major university campus.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/08/5-people-injured-dangerous-east-charlotte-crash-authorities-say/) (center): 5 people injured in dangerous east Charlotte crash, authorities say
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/midnight-crash-albemarle-road-leaves-5-people-injured/W3ZEPRMKJ5AVNFCW2UPX2JK7YA/) (center): Midnight crash on Albemarle Road leaves 5 people injured
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/5-people-hurt-1-with-life-threatening-injuries-in-east-charlotte-crash/275-9b289aa1-9380-4655-9b12-02b11f609b31) (center): 5 people hurt, 1 with life-threatening injuries, in east Charlotte crash
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/5-hurt-in-overnight-crash-in-east-charlotte-1-with-life-threatening-injuries/) (center): 5 hurt in overnight crash in east Charlotte, 1 with life-threatening injuries
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/2-hospitalized-university-city-shooting/UQBRALLDQZG5JI4XZLUDP3VX2Q/) (center): 2 hospitalized in University City shooting, suspect charged
+- [Queen City News (FOX 46)](https://www.qcnews.com/crime-and-public-safety/man-charged-after-two-hurt-in-university-city-apartment-complex-shooting/) (center): Man charged after two hurt in University City apartment complex shooting
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f) (center): Suspect charged in shooting that hurt 2 people University City
 
 
-## 8. India celebrates Diwali amid worst Delhi air pollution in a decade
-`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 8. Waxhaw man dies in house fire blamed on space heater
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Millions across India and its diaspora are celebrating Diwali, the festival of lights, with lamps, prayers, sweets and fireworks; this year it falls on Nov. 8. The BBC reports that Delhi's air pollution has reached its worst Diwali level in a decade. India's Supreme Court allowed certified "green" firecrackers in Delhi for a limited period, though critics doubt their effectiveness.
+Kenneth Robinson, 61, died after a fire early Sunday at a home on Howie Mine Road in Waxhaw. The fire marshal said a space heater caused it and there was no working smoke alarm. A police officer who tried to enter was treated for minor injuries, and a second resident escaped unhurt.
 
 **Key facts**
-- Celebrations began Nov. 6 with Dhanteras and span five days.
-- Green firecrackers are designed to produce 20-30% fewer emissions.
-- The festival is also observed by Sikhs, Jains and Buddhists.
+- A neighbor called 911 around 4:30 a.m.
+- Officials urge keeping space heaters at least three feet from anything flammable.
 
 **How it's being framed**
-- **Left:** Al Jazeera's photo feature focused on celebration and the festival's meaning, without discussing pollution.
-- **Center:** The BBC paired the festivities with extended attention to air pollution and the debate over firecrackers.
+- **Center:** Local outlets reported the facts and the fire marshal's safety warning.
+
+**Why it matters:** Officials say it is a reminder about heater safety and smoke alarms as temperatures drop.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/man-dies-house-fire-caused-by-space-heater-union-county/ICGDQIMKG5BUDF3QILWQIDDFLA/) (center): Man dies in house fire caused by space heater in Union County
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/union-county/waxhaw/one-dead-police-officer-injured-in-fatal-waxhaw-house-fire/) (center): One dead, police officer injured in fatal Waxhaw house fire
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/waxhaw-man-dies-after-house-fire-caused-by-space-heater/275-5714c687-1c0c-49d3-84c3-f2763c454c9a) (center): Waxhaw man dies after house fire caused by space heater
+
+
+## 9. India celebrates Diwali amid severe air pollution
+`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Millions across India celebrated Diwali, the festival of lights, with lamps, prayers and fireworks. The BBC reported that Delhi is seeing its most polluted Diwali in a decade. The Supreme Court allowed certified "green" firecrackers for a limited period, though critics question their effectiveness.
+
+**Key facts**
+- Celebrations began Nov. 6 with Dhanteras.
+- Green firecrackers are designed to produce 20-30% fewer emissions.
+
+**How it's being framed**
+- **Left:** Al Jazeera offered a brief celebratory visual piece.
+- **Center:** The BBC paired the festival's meaning with concerns about pollution.
 
 **Disputed or unclear**
-- Whether green firecrackers meaningfully reduce pollution.
+- How effective green firecrackers are is disputed.
 
-**Why it matters:** One of the world's largest festivals is colliding with a serious public health problem in India's cities.
+**Why it matters:** The holiday highlights the tension between tradition and public health in northern India.
 
 **Read it yourself:**
 - [BBC News (World)](https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss) (center): Homes and temples glow across India to mark Diwali
-- [Al Jazeera English](https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora) (lean-left): Photos: Diwali celebrations light up India and its global diaspora
+- [Al Jazeera English](https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali) (lean-left): India’s night lights up for Diwali
 
 
-## 9. Early snow arrives in South Korea; mountain snow possible near Charlotte
-`Korea` `Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 10. Seoul stocks open lower as investors weigh Nvidia uncertainty
+`Korea` `AI & Cybersecurity` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-South Korea issued its first heavy snow advisory of the season for mountainous Inje in Gangwon Province, and Seoul saw its first snowfall 12 days earlier than average. Chilly weather and below-freezing temperatures are forecast for inland areas. Separately, Charlotte forecasters expect a sunny Sunday but possible light mountain snow later this week.
-
-**Key facts**
-- Mount Seorak recorded 3.9 cm of snow by 7 p.m. Sunday.
-- Seoul's first snow came 26 days earlier than last year.
-- Charlotte-area mountains could see the first measurable snow of the year later this week.
-
-**How it's being framed**
-- **Center:** Both outlets gave straightforward weather forecasts focused on practical conditions.
-
-**Why it matters:** Early cold may affect travel and road safety in both regions.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10929796) (center): Taste of Winter: Korea issues first heavy snow advisory of season
-- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/sunny-sunday-ahead-across-charlotte-but-mountain-snow-possible-later-this-week/) (center): Sunny Sunday ahead across Charlotte, but mountain snow possible later this week
-
-
-## 10. Report: Apple pushing to make Siri a more capable AI agent
-`AI & Cybersecurity` · Covered by 1 outlet (L 1 · C 0 · R 0)
-
-According to Bloomberg's Mark Gurman, as relayed by The Verge, Apple CEO John Ternus is pressing AI chief Craig Federighi to speed up Siri's development to compete with agents such as OpenAI's Dots and Meta's Muse. Finer control of Apple's own apps is expected with iOS 27.3, with third-party app integration likely in the spring. Gurman says Siri could become more agent-like as early as next year.
+The KOSPI opened down 0.63% Monday at 5,028.01, despite gains on Wall Street Friday. Reports said investors are digesting uncertainty around Nvidia's investigation and watching the Federal Reserve. Hanwha Aerospace fell 3.33%, while Samsung Electronics edged up.
 
 **Key facts**
-- iOS 27.3 is expected to let Siri edit photos and organise Safari tabs.
-- Third-party integrations, such as ordering through Grubhub, are expected in the spring.
+- The Nasdaq rose 1.09% and the S&P 500 0.31% Friday.
+- The won traded at 1,360 per dollar.
 
 **How it's being framed**
-- **Left:** The Verge presented the report as Apple playing catch-up with rivals, citing Gurman's sourcing.
+- **Center:** Yonhap and The Korea Herald ran the same market report.
 
-**Disputed or unclear**
-- Timelines are based on Gurman's reporting and are not confirmed by Apple.
-
-**Why it matters:** It signals how quickly AI assistants on everyday phones may start acting on users' behalf.
+**Why it matters:** It shows early market reaction to the Nvidia news.
 
 **Read it yourself:**
-- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) (lean-left): Apple is racing to make Siri more agentic
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261109000851320) (center): (LEAD) Seoul stocks buck gains on Wall Street to open lower
+- [The Korea Herald](https://www.koreaherald.com/article/10930191) (center): Seoul stocks buck gains on Wall Street to open lower
 
 
 ---
@@ -282,5 +268,5 @@ According to Bloomberg's Mark Gurman, as relayed by The Verge, Apple CEO John Te
 
 ### What is happening with AI regulation in the US and EU?
 
-🆕 AP sources, reported via PBS, say officials at CAISSI, an independent AI safety and standards division of the Commerce Department, were recently asked to informally report to a White House office, raising concerns about the center's independence. Nothing in this edition addresses EU regulation. Related: lawmakers are also scrutinising Commerce Department approvals for AI chip handling in the Nvidia story.
+🆕 AP sources report that staff at CAISSI, an independent Commerce Department division on AI safety, were recently asked to informally report to a White House office, raising concerns about its independence. Separately, a Seoul market report mentions lingering investor fears of tighter AI regulation after the Democrats' midterm sweep. No EU developments were in today's articles.
 - [PBS NewsHour](https://www.pbs.org/newshour/politics/staff-at-u-s-center-for-ai-safety-are-reporting-to-the-white-house-raising-independence-concerns) (lean-left): AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns

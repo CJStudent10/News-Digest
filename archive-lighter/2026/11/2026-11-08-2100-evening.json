@@ -1,0 +1,89 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-09T02:00:58.118765+00:00",
+  "local_time": "Sunday, November 8, 2026 · 9:00 PM EST",
+  "local_date": "Nov 8, 2026",
+  "slug": "2026-11-08-2100-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A gentle mix this time: President Trump says his deportation push may have been 'too tough' after the midterms, while scientists report promising early work on diabetes and a childhood brain cancer. Elsewhere, dogs are sniffing out invasive plants, Wale is hosting a free career week in D.C., and Jamaica's football league has a fun first-ever derby.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump says his deportation policy may have been 'too tough'",
+      "topics": [
+        "US Headlines",
+        "Jamaica"
+      ],
+      "summary": "In a 60 Minutes interview after Republicans' heavy midterm losses, President Trump said his immigration crackdown 'both helped and hurt' his party and that deportations were 'too tough' on people with jobs whose only violation was entering illegally. He said he'd 'love to do something on immigration' with Democrats, without giving details. His own administration is sending mixed signals, though: the Department of Homeland Security says ICE is 'NOT backing away or slowing down,' and Trump just named immigration hardliner Stephen Miller as chief of staff.",
+      "key_facts": [
+        "Interview aired Sunday on CBS' 60 Minutes, with host Ross Douthat",
+        "Trump gave himself an 'A plus' on reducing border crossings",
+        "Election-day polling ranked immigration third among voter concerns, after the economy and the state of democracy",
+        "Vice President JD Vance has floated focusing enforcement more on businesses that hire illegal labor"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's one of Trump's clearest shifts in tone on a signature issue, and it could hint at whether an immigration deal with the new Democratic Congress is possible.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump Says Mass Deportation Policy 'Too Tough,' Hurt Midterm Result",
+          "url": "https://www.newsweek.com/trump-mass-deportation-policy-too-tough-hurt-midterm-result-12685010",
+          "published": "2026-11-09T01:29:46+00:00"
+        },
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says after midterms defeat his immigration crackdown was 'too tough'",
+          "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T01:51:44+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says deportation policy was ‘too tough’ — CBS interview",
+          "url": "https://www.jamaicaobserver.com/2026/11/08/trump-says-deportation-policy-tough-cbs-interview/",
+          "published": "2026-11-08T21:26:46+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says his immigration crackdown ‘might be too tough’ after midterm losses",
+          "url": "https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/",
+          "published": "2026-11-09T01:23:22+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 4,
+    "right": 0
+  },
+  "stats": {
+    "articles": 180,
+    "stories_found": 144,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}
