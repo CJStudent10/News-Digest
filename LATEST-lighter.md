@@ -1,148 +1,159 @@
-# The Lighter Brief: Morning edition
-_Monday, November 9, 2026 · 7:10 AM EST · 152 articles from 24 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Monday, November 9, 2026 · 7:28 PM EST · 309 articles from 24 outlets · summaries by Claude_
 
-> A pretty easygoing edition: the Broncos squeaked out another close win, Druski had a fun first night hosting SNL, and Charlotte gets a few more sunny fall days before a cold front arrives. Jamaica's Gleaner ran a nice series on teaching more people to swim, and there's promising early science on psoriasis and gut health. The big business chatter is about Nvidia's CEO admitting to an affair.
+> This edition mixes Washington drama with some easygoing local news. A Republican congressman is forcing a House vote on impeaching Defense Secretary Pete Hegseth, and Dana White politely turned down a press secretary job offer on live TV. Charlotte has a big airport vote and a classic fall weather flip, and Jamaica has fresh asphalt, beach cleanups and a schoolboy football rematch.
 
 
 
 ---
 
-## 1. Broncos edge Panthers 26-21 thanks to a rare late challenge
-`Charlotte` · Covered by 3 outlets
+## 1. Massie Forces a House Vote on Impeaching Hegseth
+`US Headlines` · Covered by 4 outlets
 
-Denver beat Carolina 26-21 in Charlotte on Sunday for its fifth straight win. The turning point came when officials ruled that coach Sean Payton had thrown his challenge flag before the next snap. The review turned a Panthers incompletion at the 1-yard line into a Broncos interception. A late strip-sack by Nik Bonitto sealed it.
+Rep. Thomas Massie, a Kentucky Republican, reintroduced articles of impeachment against Defense Secretary Pete Hegseth on Monday, which starts a 48-hour clock for the House to act. He argues Hegseth broke the law by carrying on hostilities in Iran for more than 90 days without approval from Congress. The effort is expected to fail while Republicans control Congress until January. Massie says the real goal is to nudge President Trump into naming a replacement before Democrats take over. Hegseth called it a 'sham,' and Trump said, 'I'll stand by him.'
 
 **Key facts**
-- Bo Nix threw for 237 yards and 2 TDs; Jonah Coleman ran for 57 yards and a score
-- Denver has won 16 straight one-score games and is 7-2, alone atop the AFC West
-- Carolina falls to 3-5 after three straight losses and plays at New Orleans next
-- Broncos WR Jaylen Waddle and CB Riley Moss left the game with concussions
+- The resolution lists eight charges, including three tied to the War Powers Resolution over Iran.
+- The House can vote on it directly, send it to committee, or set it aside.
+- Massie lost his primary earlier this year to Ed Gallrein, whom Hegseth campaigned for.
+- Presumptive next Speaker Hakeem Jeffries has signaled support for impeaching Hegseth once Democrats take control.
 
-**Worth knowing:** The Broncos keep finding ways to win close games, and Panthers fans saw a challenge play even the players didn't know was possible.
+**Worth knowing:** It raises a big question about how war powers are shared between the president and Congress, and it previews what may come when control of Congress changes in January.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/): Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/J3FUPTK6Q5HZ7AZATWRNIUWN2M/): Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory
-- [Queen City News (FOX 46)](https://www.qcnews.com/nfl/carolina-panthers/bo-nix-throws-for-2-tds-broncos-win-key-challenge-to-beat-panthers-26-21-for-fifth-straight-victory/): Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss): Republican congressman to force impeachment vote on Defence Secretary Hegseth
+- [NPR](https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth): Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth
+- [Axios](https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war): Hegseth faces impeachment resolution from a GOP member with little to lose
+- [The Hill](https://thehill.com/video-clips/6208667-watch-live-thomas-massie-pete-hegseth-impeachment-articles-press-conference/): Watch live: Massie speaks amid Hegseth impeachment drive
 
 
-## 2. Druski's SNL debut brings the musical laughs
-`Hip Hop & Celebrity` · Covered by 2 outlets
+## 2. Dana White Says 'No Thanks' to Press Secretary Job, Live at the Podium
+`US Headlines` `Jamaica` · Covered by 3 outlets
 
-Comedian Druski hosted Saturday Night Live for the first time on Nov. 7, with The Strokes as musical guest. Standouts included "Proposal," where he keeps belting "she said yes" after the proposal is turned down, and a parody about a "socially conscious" hip-hop crew. He also played opposite Jane Wickline's Elizabeth Holmes in a sketch spoofing a Nathan Fielder-style documentary.
-
-**Key facts**
-- Episode aired Saturday, Nov. 7, during SNL's season 52
-- Musical guest was The Strokes
-- Drake, Travis Scott and Quavo congratulated him when he was announced as host
-
-**Worth knowing:** It's an easy, feel-good watch, and it showed Druski has real singing chops.
-
-**Read it yourself:**
-- [Billboard](https://www.billboard.com/culture/tv-film/druski-singing-snl-sketches-1236377110/): Druski’s Best ‘SNL’ Sketches Had Him Singing Through a Proposal Gone Wrong & In a Hip-Hop Parody
-- [VIBE](https://www.vibe.com/news/movies-tv/snl-druski-whiteface-elizabeth-holmes-meta-documentary-1235202249/): Druski Impersonates “Crazy” Elizabeth Holmes in ‘SNL’ Meta-Documentary
-
-
-## 3. A Jamaican school makes swimming part of class
-`Jamaica` · Covered by 1 outlet
-
-Fewer than 40% of Jamaicans aged 15 and up can swim without help. The Queen's School in St Andrew is one of a handful of schools that require swimming lessons. Students learn water confidence, floating and strokes. Teacher Georgina Boland says it's a safety skill and also a way for Jamaicans to enjoy their own beaches and rivers.
+Over the weekend, President Trump posted that he'd offered UFC boss Dana White the White House press secretary job, then said he was 'only kidding.' On Monday he brought White into the briefing room and asked him on the spot. White politely declined, saying he has 'zero political aspirations.' Trump replied, 'I am devastated to hear this. Goodbye, everybody.'
 
 **Key facts**
-- All first- to third-form students take a term of swimming
-- Under 40% of Jamaicans 15+ can swim unassisted (OECD 2022 report, 2019 data)
-- Jamaica has about 120 rivers and streams and 70 public bathing beaches
-
-**Worth knowing:** It's a practical effort to give kids a lifelong safety skill, plus a lot more fun at the beach.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261109/sink-or-swim-schools-take-plunge-build-water-confidence-literacy-more-jcans): Sink or swim? - Schools take the plunge to build water confidence, literacy, as more J’cans urged to embrace skill
-
-
-## 4. Western Jamaica's young swimmers aim high despite few pools
-`Jamaica` · Covered by 1 outlet
-
-Swim clubs in western Jamaica are building competitive programs despite a shortage of coaches and facilities. SailFish Swim Academy in St James says most top coaching talent stays in Kingston, so it has recruited coaches from Cuba. Running its own pool is costly, but the club keeps training going.
-
-**Key facts**
-- SailFish Swim Academy was founded in 2015 at Wespow Park, Tucker, St James
-- At least five Cuban coaches have been recruited over the years
-- It trains in a 25-metre pool that is treated three times a week
-
-**Worth knowing:** It's a nice look at a community working around real obstacles to help kids compete.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261109/western-swimmers-making-waves-despite-limited-pools-coaching-gaps): Western swimmers making waves despite limited pools, coaching gaps
-
-
-## 5. Why more Jamaican schools don't have pools: the cost
-`Jamaica` `US Headlines` · Covered by 1 outlet
-
-Pools are expensive to build and run, so most schools can't afford one, says Major Desmon Brown of the Calabar Old Boys' Association. Calabar High had Jamaica's first high school pool in 1953, but it stopped working by 1995. The Queen's School says upkeep runs over $80,000 a month and is covered through auxiliary fees.
-
-**Key facts**
-- Building a pool can cost $5 million or more
-- Calabar's pool has been out of use since around 1995; principal Sian Wilson has said she plans to address it
-- A first-form student at Queen's pays $35,000 in auxiliary fees
-
-**Worth knowing:** It explains the practical hurdle behind getting more young Jamaicans swimming.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261109/schools-tread-water-swimming-costs-rise): Schools tread water as swimming costs rise
-
-
-## 6. Nvidia CEO Jensen Huang admits affair; company opens investigation
-`US Headlines` · Covered by 3 outlets
-
-Nvidia CEO Jensen Huang admitted Sunday to an affair with businesswoman Alice Huang, whom reports describe as a suspected Chinese spy. Nvidia has launched an independent security investigation. President Trump stood by him, calling him "an honorable guy." His wife of over 40 years, Lori Huang, has not commented.
-
-**Key facts**
-- Huang has led Nvidia, now valued at about $4.5 trillion, for roughly 30 years
-- Jensen and Lori Huang have been married since 1985 and met at Oregon State University
-- The couple has donated to STEM education, including $50 million to Oregon State
+- The press secretary post has been empty since Katie Zacharia left on October 16 after less than a week.
+- Karoline Leavitt left the job in August after a year and a half.
+- White, 57, is a longtime Trump friend who helped host a UFC event on the White House lawn this year.
+- Trump also shared two AI-generated videos of White as press secretary before the appearance.
 
 **Good to know**
-- Confirmed: Huang admitted the affair, and Nvidia opened an independent investigation
-- Not established: that Alice Huang is a spy; reports call her a "suspected" spy
-- Unclear: what, if anything, the investigation will find
+- Confirmed: White declined the offer in person.
+- Trump has described the original offer as a joke, so how serious it ever was remains unclear.
 
-**Worth knowing:** Huang is one of the most influential people in AI, so questions about security at Nvidia matter well beyond gossip.
+**Worth knowing:** It's a rare lighthearted moment in the briefing room, though the press secretary job is still open.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/lori-huang-jensen-huang-wife-chinese-spy-affair-claim-12685552): Who Is Lori Huang? Jensen Huang’s Wife as He Faces Chinese Spy Affair Claim
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss): What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
-- [Axios](https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai): Jensen Huang spy scandal rocks AI race
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/09/ufc-chief-declines-trumps-white-house-job-offer/): UFC chief declines Trump’s White House job offer
+- [Newsweek](https://www.newsweek.com/top-takeaways-from-trumps-wild-white-house-press-event-with-dana-white-12691042): Top Takeaways From Trump's Wild White House Press Event With Dana White
+- [The Hill](https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/): Dana White takes podium at White House press briefing
 
 
-## 7. Businessman Christopher Issa: 'There's no gold medal for doing the limbo'
+## 3. Charlotte: Enjoy the 70s Now, First Frost Likely This Weekend
+`Charlotte` · Covered by 3 outlets
+
+Charlotte is getting spring-like afternoons in the 70s through Wednesday. A strong cold front arrives Thursday with a few light showers. After that, highs drop into the 50s, and the season's first frost looks likely Saturday and Sunday mornings.
+
+**Key facts**
+- Monday's highs were almost 10 degrees above average.
+- Rain chances Thursday are below 50-50 around Charlotte.
+- The mountains could see about an inch of snow in Ashe, Watauga and Avery counties late Thursday into Friday.
+- Frost advisories were issued Monday night for Stanly, Anson and Richmond counties.
+
+**Worth knowing:** Soak up the warm days, and plan to cover tender plants and grab a jacket by the weekend.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/warm-start-week-autumn-cold-snap-looms-forecast-here/): Warm start to the week, but autumn cold snap looms: Forecast here
+- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/warm-start-to-the-week-in-the-carolinas-with-the-coldest-air-of-the-season-so-far-on-the-way/): Warm start to the week in the Carolinas with the coldest air of the season so far on the way
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Warm start, cold finish: Charlotte’s weather changes this week
+
+
+## 4. Charlotte Council Weighs $2.1 Billion Airport Expansion Deal
+`Charlotte` · Covered by 3 outlets
+
+Charlotte City Council was set to vote Monday night on a 10.5-year airline lease at Charlotte Douglas International Airport. The deal could unlock $2.1 billion in projects, including a bigger Concourse C and a passenger tunnel. Supporters call the airport the city's front door to the world. A consumer group and the SEIU union asked for a delay, citing concerns about airfares and conditions for subcontracted workers.
+
+**Key facts**
+- American Airlines' gates would grow from 93 to 109.
+- Airlines' share of airport revenue would rise to 40%-45%.
+- The airport estimates a $40 billion annual economic impact and 184,000 jobs supported in the Carolinas.
+- Sen. Thom Tillis has threatened to pursue an independent airport authority if the council rejects the deal.
+
+**Worth knowing:** The deal could shape flight options, fares and jobs for Charlotte travelers for the next decade.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-city-council-vote-21b-airport-expansion-plan/5LVOOBAG5BAEFH3Z2ZWSMB3JNQ/): Charlotte City Council to vote on $2.1B airport expansion plan
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/charlotte-leaders-set-to-vote-on-new-clt-airport-lease-agreement-union-leaders-urge-delay/): Charlotte leaders set to vote on new CLT airport lease agreement, union leaders urge delay
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/community/transportation/charlotte-city-council-to-vote-monday-on-10-year-airline-lease-amid-airport-control-debate/275-64eb27e4-4657-4e8f-82ca-5d7eb852d48d): Charlotte City Council to vote Monday on 10-year airline lease amid airport control debate
+
+
+## 5. Workers Treated After White Powder Found at Lenoir Recycling Plant
+`Health & Medicine` · Covered by 3 outlets
+
+A white powder found on packages at Prime Recycling in Lenoir caused breathing problems and burning eyes for workers on Monday after it went airborne when boxes were opened. Managers evacuated the facility as a precaution. Hazmat teams and the State Bureau of Investigation are working to identify the substance.
+
+**Key facts**
+- Officials said 22 people were affected and at least 14 were taken to the hospital.
+- Crews responded around 10:57 a.m. on Watson Road.
+- Urgent care staff who were exposed were decontaminated and treated for non-life-threatening injuries.
+
+**Good to know**
+- The substance has not yet been identified.
+- Reports differ on the count: some outlets say 14 were hospitalized, one says 11.
+
+**Worth knowing:** Crews responded quickly, and the urgent care staff's injuries were reported as non-life-threatening.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/11-hospitalized-after-exposure-unknown-substance-lenoir-recycling-facility/): 14 hospitalized after exposure to unknown substance at Lenoir recycling facility
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/11-treated-respiratory-issues-lenoir-recycling-center/BULABQVI2BEY5L4Z33FTO4FUSM/): 14 hospitalized after unknown substance found at recycling center
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/caldwell-county/11-people-hospitalized-after-exposure-to-unknown-powder-substance-at-lenoir-recycling-facility/): 11 people hospitalized after exposure to 'unknown powder substance' at Lenoir recycling facility
+
+
+## 6. Mona High Wants a Rematch Win Over KC in Manning Cup
 `Jamaica` · Covered by 1 outlet
 
-Speaking at Webster Memorial United Church's 85th anniversary awards, S Hotels Jamaica CEO Christopher Issa said Jamaica has grown too comfortable with underperformance. He urged leaders and citizens to raise the bar, like in the high jump, on roads, hospitals and schools. His hope is that young people won't need to leave Jamaica to chase their dreams.
+Mona High faces Kingston College in Tuesday's ISSA Manning Cup quarter-final, after losing the Walker Cup final to KC 2-1. Mona coach Craig Butler still feels KC's equalizer should have been disallowed, and he says his players are fired up.
 
 **Key facts**
-- Spoke Saturday at Webster Memorial United Church in St Andrew
-- Noted Jamaica marks 64 years of Independence this year
-- Called for priority on education, infrastructure, productivity, technology and healthcare
+- Mona vs KC kicks off at 2:30 pm at Stadium East.
+- Jamaica College vs STATHS follows at 4:30 pm at Waterhouse Stadium.
+- Only two teams from Group B, dubbed the 'Group of Death,' advance to the semi-finals.
 
-**Worth knowing:** It's a memorable call for higher standards that's sparking conversation about Jamaica's future.
+**Worth knowing:** A good old-fashioned schoolboy football rivalry, with a rematch storyline built in.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261109/issa-politicians-citizens-too-comfortable-underperformance): Issa: Politicians, citizens too comfortable with underperformance
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/09/butler-eyes-revenge-mona-target-kc-manning-cup-quarter-finals/): Butler eyes revenge as Mona target KC in Manning Cup quarter-finals
 
 
-## 8. Charlotte gets sunny fall days, then a cooldown
-`Charlotte` · Covered by 1 outlet
+## 7. Molynes Road Gets a Fresh $26 Million Resurfacing
+`Jamaica` · Covered by 1 outlet
 
-The western Carolinas can expect classic fall weather, with sunshine and mild temperatures through Wednesday. A cold front arrives after that and brings cooler conditions.
+Jamaica's National Works Agency is resurfacing a stretch of Molynes Road in St Andrew. The work includes removing the old asphalt, laying a new surface and painting fresh road markings.
 
 **Key facts**
-- Sunny and mild through Wednesday
-- Cold front brings cooler weather later in the week
+- The project is valued at over $26 million.
+- The section runs from Woodglen Drive to Blandford Terrace, near Bert's Auto.
 
-**Worth knowing:** Good excuse to get outside early in the week, and maybe dig out a jacket for later.
+**Worth knowing:** Smoother, better-marked roads mean a safer drive for everyone using Molynes Road.
 
 **Read it yourself:**
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Warm start, cold finish: Charlotte’s weather changes this week
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/09/molynes-road-gets-26m-facelift/): Molynes Road gets $26m facelift
+
+
+## 8. Jamaicans Pitch In to Keep the Beaches Clean
+`Jamaica` · Covered by 1 outlet
+
+The latest episode of the Jamaica Observer's Fi Wi Land series, made with NEPA, looks at beach cleanup efforts. It covers problems like plastic, household waste and sargassum, and how communities are working together to tackle them.
+
+**Key facts**
+- The episode features Monique Curtis, manager of NEPA's Ecosystems Management Branch.
+- It's available on the Jamaica Observer's YouTube channel.
+
+**Worth knowing:** It's an uplifting look at people working together to protect beaches that support families, fishing and tourism.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/09/fi-wi-land-fight-keep-jamaicas-beaches-clean/): Fi Wi Land: The fight to keep Jamaica’s beaches clean
 
 
 ---

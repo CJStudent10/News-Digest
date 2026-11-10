@@ -1,283 +1,286 @@
-# My Daily Brief: Morning edition
-_Monday, November 9, 2026 · 7:09 AM EST · 376 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Monday, November 9, 2026 · 7:27 PM EST · 550 articles from 39 outlets · summaries by Claude_
 
-> This edition is led by Nvidia's board investigation into CEO Jensen Huang after reports linked him romantically to a woman US authorities reportedly concluded was a Chinese intelligence asset, which sent the company's shares lower. In Washington, President Trump said his deportation policy 'might be too tough' days after naming immigration hardliner Stephen Miller as chief of staff, and said his offer of the press secretary job to UFC chief Dana White was a joke. Other stories include the death of the Kraków shooting suspect, the opening of COP31, Sheikh Hasina's bid to return to Bangladesh, a deadly migrant shipwreck off Senegal, and local Charlotte news.
+> This edition is dominated by fallout in Washington after Democrats' midterm wins: Nvidia CEO Jensen Huang faces congressional and internal scrutiny over an affair with a woman US intelligence suspects is a Chinese spy, and Rep. Thomas Massie has filed articles of impeachment against Defense Secretary Pete Hegseth. The Supreme Court let border wall construction resume in Texas's Big Bend, and France formally blamed Iran's Revolutionary Guard for a sabotage campaign against supermarket refrigerators. Local items cover a hospital diesel spill and an incoming cold snap in Charlotte.
 
 
-**Sources linked in this edition:** 10 left · 22 center · 6 right
+**Sources linked in this edition:** 11 left · 22 center · 8 right
 
 ---
 
-## 1. Nvidia board investigates CEO Jensen Huang after reports linking him to suspected Chinese intelligence asset
-`Asia Business & Politics` `AI & Cybersecurity` · Covered by 14 outlets (L 4 · C 8 · R 2)
+## 1. Trump backs Nvidia CEO Jensen Huang as Congress and Nvidia's board look into his ties to suspected Chinese spy
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 19 outlets (L 4 · C 11 · R 4)
 
-Nvidia's board announced on Sunday an independent investigation into whether CEO Jensen Huang was the target of a foreign intelligence effort. The probe follows a New York Times report that Huang had a relationship with Alice Huang (no relation), a former executive of Singapore-based Megaspeed, whom US authorities reportedly concluded was a Chinese intelligence asset. In a memo to staff, Huang admitted he had been unfaithful to his wife, said he supports the investigation and will cooperate fully, and said he is committed to America's national security. The board said it had no reason to believe national security or company secrets were compromised and that it still has confidence in Huang. Nvidia shares fell about 5% in premarket trading; President Trump defended Huang, and Republican lawmakers have asked him for a closed-door briefing.
+Nvidia CEO Jensen Huang told employees he had an extramarital affair with Alice Huang (no relation), a former executive at Singapore-based Megaspeed whom US intelligence reportedly believes works for China's Ministry of State Security. Nvidia's board opened an independent investigation and said it had no reason to believe company secrets or national security were compromised. President Trump said Huang told him he "had no idea that she was a spy," said he believes him, and said the FBI is "looking into it in terms of something else." Three Republican House committee chairs have asked Huang to appear at a closed-door meeting on Nov. 18, and some lawmakers want sales of Nvidia's H200 chips to China paused. China called the spy allegations groundless.
 
 **Key facts**
-- Nvidia's board said a committee of independent directors, assisted by independent counsel, will run the inquiry.
-- Huang wrote: 'I was unfaithful to my wife... There is no excuse for what I did. I am deeply sorry.'
-- Nvidia shares fell nearly 5% in US premarket trading on Monday, which Reuters/Korea Herald put at around $250 billion in market value.
-- Megaspeed bought more than $4.8 billion in chips since June 2024, according to the New York Times as cited by the Daily Caller.
-- Trump said: 'I haven't heard that he's done anything wrong... He dealt with somebody, but you know, so does everybody else.'
+- Huang admitted the affair in an email to employees on Sunday and said he would cooperate with the internal investigation.
+- Reps. Brian Mast, John Moolenaar and Rick Crawford asked Huang to appear before their committees on Nov. 18.
+- Trump called Huang "a very honorable man" and said he believes Huang should stay on as CEO.
+- The Trump administration approved limited H200 chip sales to China in December 2025, with the US government taking a 25% cut, according to the New York Post.
+- China's Foreign Ministry called the spy claims "a groundless accusation, slander, and a smear."
 
 **How it's being framed**
-- **Left:** The Guardian led with the share drop and the congressional reaction, noting that Republican lawmakers want a closed-door briefing on Nvidia's protections against foreign espionage. The Verge published Huang's memo in full and described Alice Huang directly as 'an agent of the Chinese government,' without qualifying it.
-- **Center:** The Korea Herald (carrying Reuters) focused on market fallout and Huang's future. It quoted analysts who said he is unlikely to be replaced and has no natural successor, included China's denial that the 'spy narrative' is true, and noted that Nvidia's Asian suppliers' shares rose. Axios led with Trump's defense of Huang and said the backlash is growing, with members of Congress calling for probes.
-- **Right:** The Daily Caller and New York Post stressed the espionage angle and the classified memo overseen by Marco Rubio, describing Huang as an influential Trump ally. The Post highlighted that Huang kept shaping White House chip-export policy despite the administration knowing about the alleged 'honeypot', and gave prominence to Trump calling him 'honorable'.
+- **Left:** The Guardian led with Trump, Elon Musk and investors rallying behind Huang, quoting Shaun Maguire and noting defenders cast it as a personal lapse. It and The Verge stressed New York Times reporting that Trump was briefed on the relationship about a year ago and took no action, and that US intelligence believes Alice Huang pushed Huang to lobby for looser export controls. The Verge also took a mocking tone toward Huang's judgment.
+- **Center:** Yonhap/Korea Herald focused on Trump's statements of support and the board's assurance that no secrets were compromised. Axios offered an explainer on Alice Huang and framed the story around US-China AI competition.
+- **Right:** The New York Post stressed national-security worries, the GOP push to summon Huang and pause chip sales, and Megaspeed's alleged chip smuggling, using the word "honeypot" and describing a 2025 Taipei encounter. The Washington Examiner centered Trump's sympathy, quoting him that Huang "is definitely suffering."
 
 **Disputed or unclear**
-- Whether Alice Huang was a Chinese intelligence asset rests on reported US assessments; China's foreign ministry called the claim 'groundless' and a 'smear,' and she has not commented.
-- Whether any Nvidia secrets or US national security information were compromised is the subject of the board's inquiry.
-- How long the relationship lasted is unclear.
-- Huang's long-term future as CEO is uncertain; analysts differ on whether he will stay.
+- Whether Alice Huang is a Chinese intelligence agent rests on US intelligence and a State Department memo as reported by the press; China denies it, and she has not commented.
+- Whether any Nvidia secrets or national-security information were compromised; Nvidia says no, and investigations are ongoing.
+- What the FBI is examining; Trump said only that it was looking into "something else."
+- Outlets differ on when and where Alice and Jensen Huang were photographed together in Taipei (the Post says May 2025, The Verge says 2024).
+- What Trump knew in advance and why he did not act, based on New York Times reporting.
 
-**Why it matters:** Nvidia is central to the AI boom and to US-China chip policy, so questions about its CEO affect markets, export policy and national security debates.
+**Why it matters:** The head of the world's most valuable chipmaker sits at the center of US-China AI export policy, so questions about foreign influence could affect chip sales to China and the wider AI industry.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10931588) (center): Trump says Nvidia chief Huang had no knowledge of alleged Chinese espionage activities
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk) (lean-left): Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy
+- [New York Post](https://nypost.com/2026/11/09/us-news/nvidias-jensen-huang-called-to-congress-by-gop-chip-sale-cutoff-could-be-at-stake-over-chinese-spy-honeypot/) (lean-right): Nvidia’s Jensen Huang called to Congress by GOP — chip sale cutoff could be at stake over Chinese ‘spy’ honeypot
+- [Axios](https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed) (center): What we know about the mystery woman at the center of Nvidia's spy scandal
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) (lean-left): Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4798012/trump-says-nvidia-jensen-huang-is-suffering-greatly-spoke-with-him/) (lean-right): Trump says Jensen Huang ‘is definitely suffering’ as FBI probes affair with suspected spy
+
+
+## 2. Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth
+`US Headlines` · Covered by 11 outlets (L 4 · C 5 · R 2)
+
+Rep. Thomas Massie, a Kentucky Republican who lost his primary to a Trump-backed challenger, introduced eight articles of impeachment against Defense Secretary Pete Hegseth on Monday. The articles focus mainly on the Iran war and also cite military actions in Yemen and Venezuela, alleged war-powers violations and free-speech suppression. House Democratic Leader Hakeem Jeffries and Senate Democratic Leader Chuck Schumer back the effort, while Speaker Mike Johnson has tried to prevent a vote. President Trump called Massie a "loser" and said Hegseth "won two wars." A House vote could come by midweek, though next steps are uncertain.
+
+**Key facts**
+- Massie said Hegseth "knowingly executed and implemented unlawful orders" and "remains a threat to the Constitution."
+- Republicans control both chambers until the new Congress convenes in January with Democrats in the majority.
+- If most Democrats back the measure, only a few Republicans would be needed for it to pass the House.
+- Johnson said impeachment "in the middle of hostilities abroad would be a terrible, terrible look."
+- Massie floated Florida Gov. Ron DeSantis as a possible replacement.
+
+**How it's being framed**
+- **Left:** PBS/AP tied the push to election losses blamed partly on the Iran war, and quoted Massie, Trump, Johnson, Thune, Schumer and Hegseth. The Guardian's live blog emphasised Trump's personal attacks on Massie and his claim that Hegseth is winning in Iran.
+- **Center:** Axios and The Hill gave straightforward procedural coverage. Axios noted this could be the first impeachment of a Cabinet secretary in Trump's second term and called Massie a member "with little to lose."
+- **Right:** The libertarian Reason openly endorsed the impeachment and argued Trump bears ultimate responsibility for the war. The Washington Examiner highlighted Massie's suggestion of DeSantis as a successor and used the administration's term "War Secretary."
+
+**Disputed or unclear**
+- Whether the House will hold a vote, and whether enough Republicans will support it.
+- Whether the Senate would hold a trial or dismiss the charges.
+- Trump's claim that Hegseth is "winning the war in Iran" is his own assessment.
+
+**Why it matters:** It tests whether Congress will assert its war powers over the Iran conflict and signals the confrontations likely once Democrats take control in January.
+
+**Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war) (center): Hegseth faces impeachment resolution from a GOP member with little to lose
+- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates) (lean-left): Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live
+- [Reason](https://reason.com/podcast/2026/11/09/thomas-massie-is-right-to-impeach-pete-hegseth/) (lean-right): Thomas Massie Is Right To Impeach Pete Hegseth
+- [The Hill](https://thehill.com/video-clips/6208667-watch-live-thomas-massie-pete-hegseth-impeachment-articles-press-conference/) (center): Watch live: Massie speaks amid Hegseth impeachment drive
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-live-rep-massie-speaks-after-filing-hegseth-impeachment-resolution) (lean-left): WATCH: Rep. Massie speaks after filing Hegseth impeachment resolution
+- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4797936/thomas-massie-suggests-ron-desantis-pete-hegseth-replacement-impeachment/) (lean-right): Massie suggests DeSantis as war secretary if Hegseth ousted in impeachment push
+
+
+## 3. Supreme Court lets border wall construction resume in Texas's Big Bend region
+`US Headlines` · Covered by 7 outlets (L 4 · C 1 · R 2)
+
+The Supreme Court on Monday granted the Trump administration's emergency request to pause a federal judge's October order that had halted border barrier construction in the Big Bend Sector of West Texas, including parts of Big Bend National Park. In an unsigned five-page decision, the court said federal law lets the homeland security secretary waive environmental laws, reflecting "a clear preference for expeditious border construction." Justice Ketanji Brown Jackson dissented without a written opinion. The lawsuit, brought by the Center for Biological Diversity, a church preservation group and local residents, continues in lower courts.
+
+**Key facts**
+- The decision was unsigned and five pages long; Justice Jackson was the lone dissenter.
+- U.S. District Judge Kathleen Cardone had halted construction on Oct. 2.
+- The Big Bend Sector covers roughly a quarter of the US-Mexico border but accounted for 1.3% of apprehensions in 2025, according to Reuters as cited by Fox News.
+- The court wrote that the government's interest "outweighs any aesthetic, recreational, and environmental harm alleged."
+
+**How it's being framed**
+- **Left:** The Guardian and NPR gave substantial space to plaintiffs and the Center for Biological Diversity's condemnation, stressed bipartisan local opposition and the region's low crossing numbers, and also quoted the administration's border-security arguments.
+- **Center:** The Hill framed the ruling briefly as a win for the Trump administration.
+- **Right:** Fox News emphasised the administration's cartel and drug-smuggling rationale and noted most construction will be on private land, while also citing the low apprehension figures. The Daily Caller framed the ruling against Texas's recent Democratic election sweep and noted the judges' appointing presidents.
+
+**Disputed or unclear**
+- Outlets differ on the barrier types: the Guardian cites six-foot vehicle barriers, NPR describes 30-foot steel barriers, and Fox says the park section will not have 30-foot pedestrian fencing.
+- Whether construction in the park is needed for border security is disputed between the administration and the plaintiffs.
+- The final legal outcome is still pending.
+
+**Why it matters:** The ruling lets construction go ahead in a cherished national park before the courts decide whether it is lawful, and it reinforces the government's broad power to waive environmental laws at the border.
+
+**Read it yourself:**
+- [The Hill](https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/) (center): Supreme Court allows Big Bend border construction to continue in Texas, siding with Trump
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend) (lean-left): US supreme court clears way for Trump’s border wall in Texas’s Big Bend
+- [Fox News](https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend) (right): SCOTUS allows Trump admin to temporarily resume border construction in Texas' Big Bend
+- [NPR](https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump) (lean-left): Supreme Court says border wall construction can continue in west Texas
+- [The Daily Caller](https://dailycaller.com/2026/11/09/supreme-court-greenlights-trump-border-wall-texas) (right): Supreme Court Greenlights Trump Border Wall In State That Just Turned Blue
+- [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend) (lean-left): News Wrap: Supreme Court allows border wall construction in Big Bend
+
+
+## 4. Dana White declines Trump's press secretary offer at White House briefing
+`US Headlines` · Covered by 6 outlets (L 1 · C 3 · R 2)
+
+UFC CEO Dana White joined President Trump at an impromptu White House briefing on Monday, days after Trump posted that he would make White press secretary and then said he was "kidding." Trump said he floated the idea during "a very bad press day." When Trump asked him on the spot, White declined, saying he did not want to be involved in politics. White also praised Trump's toughness and fielded questions on a hypothetical Trump-Biden fight and a possible Pete Rose pardon.
+
+**Key facts**
+- White said: "I do not want to be involved in politics, no."
+- Trump replied: "I am devastated to hear this. Goodbye, everybody."
+- Trump shared AI-generated videos of White as press secretary hours before the briefing.
+- Trump reiterated that he favors pardoning Pete Rose.
+
+**How it's being framed**
+- **Left:** The Guardian ran a short video item on Trump saying he was "only kidding."
+- **Center:** Newsweek called the event "wild" and focused on the on-the-spot job offer; BBC and The Hill reported it briefly and straightforwardly.
+- **Right:** Fox News quoted White's praise of Trump's resilience at length and noted White never explicitly told Trump "no" in private. The Washington Examiner noted Trump opened the briefing by saying military operations in Iran likely would not resume.
+
+**Disputed or unclear**
+- Whether the offer was ever serious remains unclear: Trump has called it a joke but asked White again publicly.
+
+**Why it matters:** The episode shows the informal, unconventional way the White House is handling a key communications role after a difficult news cycle.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/top-takeaways-from-trumps-wild-white-house-press-event-with-dana-white-12691042) (center): Top Takeaways From Trump's Wild White House Press Event With Dana White
+- [The Guardian (US)](https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video) (lean-left): Donald Trump 'kidding' about making UFC boss Dana White US press secretary – video
+- [Fox News](https://www.foxnews.com/politics/dana-white-takes-questions-podium-during-white-house-briefing-trump) (right): Dana White takes questions at podium during White House briefing with Trump
+- [BBC News (World)](https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss) (center): Dana White declines Trump’s offer to be White House press secretary
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4798002/trump-says-he-floated-dana-white-for-press-secretary-during-very-bad-press-day-as-joke/) (lean-right): Trump says he floated Dana White for press secretary during ‘very bad press day’
+- [The Hill](https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/) (center): Dana White takes podium at White House press briefing
+
+
+## 5. France blames Iran's Revolutionary Guard for cyberattacks on supermarket refrigerators
+`AI & Cybersecurity` · Covered by 5 outlets (L 2 · C 3 · R 0)
+
+France formally attributed October cyberattacks on refrigeration controllers at about 700 French retail sites to Shahid Kaveh, a cyber unit linked to Iran's Islamic Revolutionary Guard Corps. Officials say the attacks spoiled tens of millions of euros of food and caused at least 15 fires. Foreign Minister Jean-Noël Barrot called the attack "unprecedented in both its scale and its level of aggression," summoned Iran's ambassador and promised to seek EU sanctions. Paris prosecutors opened a judicial investigation into the unit's leader and two deputies and are seeking international arrest warrants. France's attribution does not cover a second wave of similar attacks in early November across other European countries.
+
+**Key facts**
+- The attacks took place overnight on Oct. 11–12, with fridge temperatures reaching about 50C for around six hours.
+- Investigators cited Farsi text traces, IP addresses linked to Iran, and infrastructure shared with earlier reconnaissance of Schneider Electric equipment.
+- Small hydroelectric plants were also targeted, with "moderate effects."
+- The BBC reported the targeted software was supplied by Danish firm Danfoss.
+- US agencies have previously linked Shahid Kaveh to the CyberAv3ngers group and attacks on US water utilities.
+
+**How it's being framed**
+- **Left:** NPR and PBS/AP centered on Barrot's statements and the prosecutors' action, and placed the attacks within a wider trend, including hits on a blood bank, other European grocers, an Israeli plant and US military commissaries.
+- **Center:** BleepingComputer and The Record gave technical detail on the attribution evidence and named commanders. The BBC noted Iranian media dismissed the claims and raised the open question of whether the attacks were part of an Iranian deterrence strategy.
+
+**Disputed or unclear**
+- Iran has not responded officially; some Iranian media called the allegations baseless.
+- Whether the November wave and the August incidents at US military bases are linked to the same actors remains unconfirmed.
+- Outlets differ on how many countries the second wave hit (six countries vs. at least 11).
+
+**Why it matters:** It is the first formal government attribution of a large-scale sabotage campaign against food and other critical infrastructure in Europe, and it could lead to EU sanctions.
+
+**Read it yourself:**
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/) (center): France blames Iranian hackers for supermarket attacks that sparked fires
+- [NPR](https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks) (lean-left): France accuses Iran of cyber 'sabotage' in fridge attacks
+- [The Record (Recorded Future News)](https://therecord.media/france-blames-iran-for-fridge-cyberattacks) (center): France blames Iran for fridge cyberattacks, says some caused fires
+- [PBS NewsHour](https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges) (lean-left): France blames Iran for last month's cyberattack on supermarket fridges
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss) (center): France accuses Iran of supermarket fridge hacking
+
+
+## 6. Diesel spill at Atrium Health Mercy hospital reaches Charlotte creek
+`Charlotte Local` · Covered by 3 outlets (L 1 · C 2 · R 0)
+
+About 2,000 gallons of red-dyed diesel leaked from an above-ground storage tank at Atrium Health Mercy Hospital on Vail Avenue over the weekend, and about 800 gallons reached a tributary of Briar Creek through the Elizabeth neighborhood. The EPA is leading a multi-agency cleanup using booms, pads and vacuum trucks. Officials told residents and pets to stay out of the creek. Atrium says the spill is contained and the cause is under investigation, but neighborhood leaders say the hospital has not communicated with them.
+
+**Key facts**
+- Stormwater Services attributes the spill to an equipment failure.
+- Volume estimates are preliminary and under investigation.
+- Atrium reported no impact on patient care and no injuries.
+- Residents are asked to call 311 if they see or smell anything unusual.
+
+**How it's being framed**
+- **Left:** WFAE focused on residents' concerns about smell, property damage and Atrium's lack of outreach, quoting the Elizabeth Community Association leader.
+- **Center:** WSOC and WBTV reported the facts of the spill and the cleanup, relying on official statements from the city and Atrium.
+
+**Disputed or unclear**
+- The spill's timing is reported as both Saturday night and Sunday.
+- The final amount spilled will not be known until cleanup is complete.
+- The cause is still under investigation.
+
+**Why it matters:** Residents of the Elizabeth neighborhood and pet owners near the creek should avoid the water until officials say conditions are back to normal.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/atrium-health-investigates-fuel-spill-into-nearby-creek/3IJGWK5LIVABJJYHWHWYD4A5FE/) (center): EPA takes lead on diesel spill in Mecklenburg County waterway
+- [WFAE (Charlotte NPR)](https://www.wfae.org/energy-environment/2026-11-09/residents-concerned-over-lack-of-communication-after-atrium-health-diesel-spill) (lean-left): Residents concerned over lack of communication after Atrium Health diesel spill
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/weekend-fuel-spill-reported-hospital-charlotte-what-know/) (center): Weekend fuel spill reported at hospital in Charlotte: What to know
+
+
+## 7. Charlotte warm through midweek before season's coldest air arrives
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+Charlotte will see highs in the 70s through Wednesday, followed by a strong cold front on Thursday with limited rain. Highs Friday through Monday are expected only in the 50s, and the first frost is likely Saturday and Sunday mornings. Snow showers are possible in the North Carolina mountains late Thursday and Friday.
+
+**Key facts**
+- Frost advisories are in effect Monday night for Stanly, Anson and Richmond counties.
+- About an inch of snow is possible in Ashe, Watauga and Avery counties.
+- Rain chances Thursday are below 50-50 around Charlotte.
+
+**How it's being framed**
+- **Center:** All three local stations gave similar straightforward forecasts.
+
+**Why it matters:** Residents should prepare for frost and a sharp temperature drop this weekend.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/warm-start-week-autumn-cold-snap-looms-forecast-here/) (center): Warm start to the week, but autumn cold snap looms: Forecast here
+- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/warm-start-to-the-week-in-the-carolinas-with-the-coldest-air-of-the-season-so-far-on-the-way/) (center): Warm start to the week in the Carolinas with the coldest air of the season so far on the way
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550) (center): Warm start, cold finish: Charlotte’s weather changes this week
+
+
+## 8. Former US officials say North Korea's nuclear-status demand could block a Trump-Kim summit
+`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Former Deputy Secretary of State Kurt Campbell said his understanding is that North Korea has told the US it would consider a summit only if Washington accepts it as a nuclear power. Campbell said that would be "almost impossible" for Trump to accept and predicted little more than "a handshake of sorts." Former special representative Stephen Biegun was also skeptical, warning of "performative summitry," though he said engagement could help stability. The remarks come ahead of Trump's trip to the ASEAN summit in Manila and the APEC summit in Shenzhen.
+
+**Key facts**
+- Trump and Kim met three times in Trump's first term: in Singapore, Hanoi and Panmunjom.
+- Campbell spoke at an Asia Group briefing; Biegun spoke at a Stimson Center–Sejong Institute event.
+
+**How it's being framed**
+- **Center:** Yonhap and the Korea Herald ran the same Yonhap report, framed around expert skepticism of summit prospects.
+
+**Disputed or unclear**
+- North Korea's reported condition rests on Campbell's "understanding" and has not been confirmed by either government.
+
+**Why it matters:** It shapes expectations for any Trump-Kim meeting during his Asia trip this month.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261110000551315) (center): (LEAD) N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official
+- [The Korea Herald](https://www.koreaherald.com/article/10931586) (center): N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-US official
+
+
+## 9. IAEA chief welcomes South Korea's nonproliferation pledge amid nuclear submarine plans
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+IAEA Director General Rafael Grossi welcomed South Korea's commitment to its nonproliferation obligations after meeting Vice Foreign Minister Jeong Yeon-doo. Seoul is pursuing the Jang Bogo N project to build nuclear-powered, conventionally armed submarines under an agreement with the United States.
+
+**Key facts**
+- The first submarine is to be launched in the mid-2030s and fielded after the late 2030s.
+- The US has consented to fuel enriched to below 20 percent.
+- South Korea plans to procure small modular reactors for the submarines' propulsion.
+
+**How it's being framed**
+- **Center:** Both outlets ran the same Yonhap report, which relays Grossi's statement without criticism.
+
+**Why it matters:** South Korea's nuclear submarine program is a significant step for regional security, and international oversight of it matters.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261110000200315) (center): IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans
+- [The Korea Herald](https://www.koreaherald.com/article/10931569) (center): IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans
+
+
+## 10. Nvidia shares fall after board opens probe into CEO Huang
+`AI & Cybersecurity` `Asia Business & Politics` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Nvidia shares dropped on Monday after the company launched an internal investigation into whether CEO Jensen Huang was targeted by a foreign intelligence operation. The Hill reported the stock opened down 7.3%, while premarket declines of nearly 5% implied a loss of about $250 billion in value. Nvidia said its board has confidence in Huang, and some analysts said he has no natural successor. Huang's daughter Madison canceled a planned Seoul visit.
+
+**Key facts**
+- Shares fell to about $170.24 in early trading, according to The Hill.
+- Huang holds a roughly 3.6% stake, according to LSEG data.
+- TSMC closed 4.7% higher on the same day.
+
+**How it's being framed**
+- **Center:** The Korea Herald (Reuters) and The Hill focused on market impact and Huang's importance, quoting an analyst who doubted Huang would be replaced and including China's denial.
+
+**Disputed or unclear**
+- How much of the drop reflects the scandal versus the wider AI-stock selloff from the previous week.
+
+**Why it matters:** Nvidia is central to the AI boom, so its stock moves affect many investors and markets.
 
 **Read it yourself:**
 - [The Korea Herald](https://www.koreaherald.com/article/10931215) (center): Nvidia's shares slide as chip giant probes CEO over spy claims
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims) (lean-left): Nvidia stocks tumble as CEO investigated over spy claims | First Thing
-- [The Daily Caller](https://dailycaller.com/2026/11/08/nvidia-ceo-admits-to-extramarital-affair-amid-corporate-investigation-of-potential-chinese-espionage-targeting) (right): Nvidia CEO Admits To Extramarital Affair Amid Corporate Investigation Of Potential Chinese Espionage Targeting
-- [Axios](https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia) (center): Trump backs Nvidia's Huang amid affair, spy investigation
-- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia) (lean-left): Here’s the full text of Jensen Huang’s memo to Nvidia
-- [New York Post](https://nypost.com/2026/11/09/us-news/trump-defends-honorable-nvidia-boss-after-explosive-affair-with-chinese-spy-revealed/) (lean-right): Trump defends ‘honorable’ Nvidia boss after explosive affair with Chinese ‘spy’ revealed
-
-
-## 2. Trump says deportation policy 'might be too tough' as Stephen Miller becomes chief of staff
-`US Headlines` · Covered by 7 outlets (L 2 · C 4 · R 1)
-
-In a 60 Minutes interview after Republicans lost both chambers of Congress, President Trump said his deportation policy 'might be too tough' and had hurt him politically. He said he would like to make an immigration deal with Democrats that would let some long-resident, tax-paying immigrants stay while still removing criminals. The remarks came days after he named Stephen Miller, the main architect of his immigration crackdown, to replace Susie Wiles as White House chief of staff; Miller starts on Monday. Democrats, who take control of Congress in January, say they will investigate immigration enforcement and Miller.
-
-**Key facts**
-- Trump: 'I think it might be too tough... I think, ultimately, that hurt me.'
-- Miller, 41, replaces Susie Wiles as chief of staff and starts on Monday.
-- In exit polls cited by Newsweek, more than half of voters said immigration enforcement went too far, but only 14% called immigration the most important issue.
-- Rep. Robert Garcia, expected to chair House Oversight, said Miller 'should lawyer up.'
-
-**How it's being framed**
-- **Left:** The Guardian and Al Jazeera stressed the contrast between Trump's admission and Miller's promotion, quoting Chuck Schumer: 'That's not a course correction. That's a promotion.' They noted the US citizens killed during protests against the enforcement operations and described Miller as the driving force behind policies such as family separation and the travel ban.
-- **Center:** Newsweek, Deutsche Welle and The Hill reported Trump's remarks directly and set out Miller's policy record. Newsweek added exit-poll data and noted it is unclear whether enforcement will actually change. DW also covered Trump's plans to meet Xi and Putin.
-- **Right:** Fox News ran a media-criticism column arguing that Miller's appointment drew an unprecedented 'barrage' of negative coverage from outlets and Democrats. The columnist said Miller's record is fair game but focused on the speed and tone of the criticism rather than on Trump's admission.
-
-**Disputed or unclear**
-- Whether enforcement policy will actually change is unclear.
-- Trump gave no details of what an immigration deal with Democrats would include.
-
-**Why it matters:** The mixed signals will shape immigration policy and the fights between the White House and a newly Democratic Congress.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/what-stephen-miller-has-said-about-immigration-trump-admits-mistake-12685726) (center): What Stephen Miller Has Said About Immigration as Trump Admits Mistake
-- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates) (lean-left): Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief-of-staff role – US politics live
-- [Fox News](https://www.foxnews.com/opinion/stoning-stephen-miller-now-running-trump-white-house) (right): The stoning of Stephen Miller, now running the Trump White House
-- [Deutsche Welle](https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf) (center): US President Donald Trump says deportation policy was 'too tough' for voters
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters) (lean-left): Trump says his immigration policy ‘too tough’ for voters
-- [The Hill](https://thehill.com/homenews/6207170-trump-immigration-policy-midterm-losses/) (center): Trump says his immigration crackdown ‘might be too tough’ after midterm losses
-
-
-## 3. Trump says offer of press secretary job to UFC's Dana White was a joke
-`US Headlines` · Covered by 6 outlets (L 2 · C 3 · R 1)
-
-On Saturday, President Trump posted that he had offered the vacant White House press secretary job to UFC chief Dana White, suggesting White bring six fighters as 'assistants' to 'defend us against the Lunatic Left.' On Sunday he told reporters he 'was only kidding' but said White 'loves the idea.' Trump also shared a supporter-made AI cartoon showing UFC fighters attacking reporters, in which fighter Josh Hokit repeats his claim that 'Michelle Obama is a man.' White, who did not say whether he would take any role, is due to meet Trump on Monday.
-
-**Key facts**
-- The press secretary role has been vacant since Katie Zacharia left on October 16 after about five days in the job.
-- Karoline Leavitt left the role in August, according to the New York Post.
-- Trump wrote: 'Dana, please take the job!'
-- White said he has 'a lot of jobs already' and is meeting Trump on Monday.
-
-**How it's being framed**
-- **Left:** The Guardian emphasised the AI video and called Hokit's remark racist. It noted White's appearance in taxpayer-funded pro-Trump ads and the circumstances of Zacharia's resignation. Al Jazeera ran only a brief item.
-- **Center:** BBC and The Hill reported the joke and White's ties to Trump in a straightforward way. Newsweek focused on the AI video and traced the history of the Michelle Obama conspiracy theory.
-- **Right:** The New York Post took a lighter tone ('Dana who?'), covered a theory that Trump meant former Pentagon spokeswoman Dana W. White, and did not mention the AI video.
-
-**Disputed or unclear**
-- It is unclear who Trump will choose as press secretary or what White and Trump will discuss on Monday.
-
-**Why it matters:** The episode shows the administration's combative stance toward the press, and the top communications job remains empty.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/trump-shares-animated-ai-video-saying-michelle-obama-is-a-man-12685518) (center): Trump Shares Animated AI Video Saying ‘Michelle Obama Is a Man’
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary) (lean-left): Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary
-- [New York Post](https://nypost.com/2026/11/09/us-news/trump-says-i-was-only-kidding-with-press-secretary-job-offer-to-ufc-boss-dana-white/) (lean-right): Trump says ‘I was only kidding’ with press secretary job offer to UFC boss Dana White
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss) (center): Trump says he was 'kidding' about Dana White press secretary offer
-- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role) (lean-left): Trump ‘only kidding’ about Dana White press secretary role
-- [The Hill](https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/) (center): Trump says he was ‘kidding’ about Dana White for press secretary
-
-
-## 4. Suspect in Kraków mass shooting dies in hospital
-· Covered by 7 outlets (L 2 · C 3 · R 2)
-
-The 24-year-old Polish man suspected of killing six people in Kraków's Main Market Square on Saturday died in hospital early Monday, police said. He had been critically wounded by two police officers who stopped the attack. The bodies of his parents and sister were found at the family home in Ostrowiec Świętokrzyski. Prosecutors are investigating the attack as a terrorist offense and say the inquiry will continue. The interior minister said the man held far-right, ultranationalist views, while the justice minister urged restraint.
-
-**Key facts**
-- Six people were killed: four Poles, a 32-year-old British man and a 51-year-old Austrian woman.
-- Outlets report 15 or 16 people injured, including five foreign nationals.
-- Eleven firearms were recovered in total; the suspect held a firearms licence and had no criminal record.
-- Poland held two days of national mourning, and the St. Mary's Trumpet Call was halted for the first time since World War II.
-
-**How it's being framed**
-- **Left:** The Guardian and Al Jazeera highlighted the far-right link and the emblems on the gunman's clothing. The Guardian also reported the justice minister's call for restraint and recent extremist-linked school stabbings in Poland.
-- **Center:** Newsweek and DW gave detailed facts on the victims, weapons and the minister's description of the suspect's views. Newsweek profiled his sister, an artist, and DW noted rising gun ownership in Poland.
-- **Right:** Fox News said authorities described far-right views but stressed that no motive has been publicly established. The New York Post focused on mourners and did not mention the ideology claims.
-
-**Disputed or unclear**
-- The motive has not been formally established, and the justice minister called for restraint over the interior minister's far-right characterisation.
-- Reported injury counts differ (15 versus 16).
-- Reported distances to the family home vary.
-- Whether the suspect acted alone or was inspired by a group is under investigation.
-
-**Why it matters:** A rare mass shooting in Poland raises questions about extremism and gun ownership in a country considered relatively safe.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/polish-police-say-suspect-in-krakow-shooting-has-died-12685492) (center): Polish Police Say Suspect In Kraków Shooting Has Died
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead) (lean-left): Kraków shooting suspect who killed six has died, Polish police say
-- [Fox News](https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies) (right): Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout
-- [Deutsche Welle](https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf) (center): Krakow mass shooting suspect has died in hospital, police in Poland say
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say) (lean-left): Poland mass shooting assailant dies in hospital, police say
-- [New York Post](https://nypost.com/2026/11/09/world-news/police-say-the-24-year-old-who-fatally-shot-6-people-in-a-krakow-square-has-died-in-the-hospital/) (lean-right): Police say the 24-year-old who fatally shot 6 people in a Krakow square has died in the hospital
-
-
-## 5. COP31 climate talks open in Turkey without a US delegation
-`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
-
-The UN's annual climate conference, COP31, opens in Antalya, Turkey, co-hosted with Australia. The US-Israeli war with Iran and the resulting energy crisis hang over the talks. NPR reports a focus on electrification, with a target of '35 by '35', and on efforts toward a roadmap away from fossil fuels. The US State Department said it will not send a delegation. South Korea is sending climate ambassador Kang Kum-sil as presidential envoy.
-
-**Key facts**
-- The talks last about two weeks, with a leaders' segment on Wednesday and Thursday.
-- The goal is to raise the global electrification rate from about 23% to about 35% by 2035.
-- The US sent no delegation to COP31 or to last year's COP in Brazil.
-- More than 25 nations are developing a fossil fuel phase-out treaty.
-
-**How it's being framed**
-- **Left:** NPR framed the energy shock as an opportunity for cheap clean technology and stressed the US absence and Trump administration rollbacks.
-- **Center:** Yonhap reported narrowly on South Korea's envoy and its electrification and decarbonisation plans.
-
-**Disputed or unclear**
-- Estimates of attendance vary: about 80 leaders (Yonhap) versus more than 90 (The Guardian, in s1).
-
-**Why it matters:** The talks test whether global climate commitments advance amid an energy crisis and without US participation.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261109009400315) (center): S. Korea's climate ambassador to join U.N. climate summit in Turkey as presidential envoy
-- [NPR](https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31) (lean-left): U.N. climate talks begin today. Here are 3 things to know
-
-
-## 6. Bangladesh reviews ousted PM Hasina's passport request as she pledges to return
-`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
-
-Sheikh Hasina, sentenced to death in absentia over the 2024 crackdown on protesters, has applied through lawyers for a new passport and has vowed to return from India in December. Home Minister Salahuddin Ahmed said officials are reviewing whether she has a legal right to apply. Officials challenged her to seek extradition from India instead, and a junior foreign minister called her a 'terrorist.' Police arrested 12 people they described as members of her banned Awami League over petrol bomb attacks.
-
-**Key facts**
-- Hasina was sentenced to death in November 2025 for crimes against humanity.
-- UN estimates say up to 1,400 people may have been killed in the 2024 crackdown.
-- India says the extradition request is under legal review.
-- Hasina told Reuters she intends to surrender to a court in Bangladesh.
-
-**How it's being framed**
-- **Left:** Al Jazeera framed the request as a clear sign she plans to return. It gave her background and noted she retains some public support.
-- **Center:** CNA (citing AFP) emphasised the government's dismissive response, the chief prosecutor calling the application a 'political stunt', and security concerns including the arrests.
-
-**Disputed or unclear**
-- Whether Hasina will actually return, and when, is unclear.
-- The police claim that the arrested suspects belong to the Awami League has not been independently confirmed.
-
-**Why it matters:** Her return could reignite political confrontation in Bangladesh and strain ties with India.
-
-**Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/bangladesh-hasina-return-india-extradition-6535951) (center): Bangladesh challenges ousted PM Hasina over return pledge
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan) (lean-left): Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan
-
-
-## 7. Charlotte police investigate University City homicide; man charged in separate shooting
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-Charlotte-Mecklenburg police are investigating a homicide on Sunday night in the 5000 block of Ragsdale Drive in University City; no further details have been released. Separately, a man has been charged after two people were shot on Friday at an apartment complex on Education Way, where officers responding to a reported break-in heard gunfire.
-
-**Key facts**
-- The Ragsdale Drive homicide occurred Sunday night.
-- The Education Way shooting happened around 4:16 p.m. on November 6 and injured two people.
-
-**How it's being framed**
-- **Center:** Local TV outlets gave brief factual reports.
-
-**Disputed or unclear**
-- Details of the homicide, including victim and suspect, have not been released.
-- It is not stated whether the two incidents are related.
-
-**Why it matters:** These are public safety incidents in a Charlotte neighbourhood.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/homicide-investigation-underway-university-city/H4KIQ3J7Q5BP5C2YTBUF3JCTWQ/) (center): Homicide investigation underway in University City
-- [Queen City News (FOX 46)](https://www.qcnews.com/crime-and-public-safety/man-charged-after-two-hurt-in-university-city-apartment-complex-shooting/) (center): Man charged after two hurt in University City apartment complex shooting
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/university-city-shooting/275-47181a83-00f2-4163-bb84-eb8d2301054f) (center): Suspect charged in shooting that hurt 2 people University City
-
-
-## 8. Broncos beat Panthers 26-21 after late coach's challenge
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-Denver beat Carolina 26-21 in Charlotte for its fifth straight win, helped by a late-third-quarter challenge that overturned an incomplete pass into an interception at the Broncos' 1-yard line, even though the Panthers had already run another play. Bo Nix threw two touchdown passes, and Nik Bonitto's strip-sack with 1:24 left sealed the win. Carolina fell to 3-5 and has lost three straight.
-
-**Key facts**
-- Final score: Broncos 26, Panthers 21.
-- Denver is 7-2 and has won 16 straight one-score games.
-- Bryce Young threw for 276 yards, three touchdowns and an interception.
-- Carolina plays next at New Orleans; Denver has a bye week.
-
-**How it's being framed**
-- **Center:** Local outlets ran the AP game story, including Panthers tight end Tommy Tremble's surprise at the late review.
-
-**Why it matters:** The loss deepens the Panthers' slide, and the unusual review is likely to draw attention.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/) (center): Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/bo-nix-throws-2-tds-broncos-win-key-challenge-beat-panthers-26-21-fifth-straight-victory/J3FUPTK6Q5HZ7AZATWRNIUWN2M/) (center): Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory
-- [Queen City News (FOX 46)](https://www.qcnews.com/nfl/carolina-panthers/bo-nix-throws-for-2-tds-broncos-win-key-challenge-to-beat-panthers-26-21-for-fifth-straight-victory/) (center): Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory
-
-
-## 9. Dozens dead after migrant boat bound for Canary Islands capsizes off Senegal
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-A wooden boat carrying migrants toward Spain's Canary Islands capsized off Senegal, north of Dakar. Only one person was rescued, and others are believed missing. President Bassirou Diomaye Faye offered condolences and vowed to crack down on smuggling networks. Spain's El Hierro island declared a state of emergency after more than 3,300 arrivals this month.
-
-**Key facts**
-- The death toll rose to 39 on Monday, according to emergency services cited by AP.
-- Walking Borders recorded 635 deaths on the Atlantic route between January and May 2026.
-- Nearly one in four young Senegalese were unemployed in the second quarter of 2026.
-
-**How it's being framed**
-- **Center:** BBC and AP (via Korea Herald) reported the toll and Senegal's response. BBC added context on youth unemployment and migration drivers.
-
-**Disputed or unclear**
-- Reported death tolls varied as bodies were found (21, then 34, then 39).
-- The number of people on board and the number missing are unknown.
-
-**Why it matters:** The Atlantic route is among the deadliest migration paths into Europe and is under growing strain.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss) (center): At least 34 dead after Europe-bound migrant boat sinks off Senegal
-- [The Korea Herald](https://www.koreaherald.com/article/10931212) (center): Death toll rises to 39 after migrant boat capsizes off Senegal
-
-
-## 10. Nvidia, SK Telecom and Rebellions sign AI computing partnership in Seoul
-`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-At Nvidia's AI Day Seoul event, Nvidia, SK Telecom and Korean chip startup Rebellions signed a memorandum of understanding to link Rebellions' neural processing units with Nvidia GPUs in SK Telecom data centers, using Nvidia's NVLink Fusion. South Korea's science ministry backed the deal and hopes to extend the model to other domestic chipmakers. Nvidia also announced investments in several Korean startups. It declined to comment on Madison Huang's cancelled visit or on the scandal involving CEO Jensen Huang.
-
-**Key facts**
-- The MOU was signed on November 9 at Coex in Seoul.
-- Nvidia plans investments in Point2 Technology, Motif Technologies, RLWRLD and Upstage.
-- 22 Korean companies joined an AI startup forum held with the science ministry.
-
-**How it's being framed**
-- **Center:** Yonhap and Korea Herald framed the deal as a boost for Korean chipmakers. Yonhap also noted Nvidia's refusal to address the Huang scandal.
-
-**Disputed or unclear**
-- Whether the scandal will affect Nvidia's Korean partnerships or GPU deliveries is unanswered.
-
-**Why it matters:** The deal could give Korean AI chipmakers access to global data center markets.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261109005452320) (center): (2nd LD) Nvidia, SKT, Rebellions to jointly establish heterogeneous computing system for AI
-- [The Korea Herald](https://www.koreaherald.com/article/10930773) (center): Nvidia, SK Telecom, Rebellions forge AI chip alliance
+- [The Hill](https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/) (center): Nvidia stock slides after company launches probe into Huang
 
 
 ---
@@ -286,4 +289,4 @@ At Nvidia's AI Day Seoul event, Nvidia, SK Telecom and Korean chip startup Rebel
 
 ### What is happening with AI regulation in the US and EU?
 
-None of today's articles address AI regulation in the US or EU. The Nvidia coverage touches on US chip export policy toward China but not on AI regulation.
+None of today's articles address AI regulation in the US or EU. The closest item is a congressional proposal to review advanced chip export sales, reported in the Nvidia story.

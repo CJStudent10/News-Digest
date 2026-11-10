@@ -1,0 +1,391 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-10T00:28:49.577181+00:00",
+  "local_time": "Monday, November 9, 2026 · 7:28 PM EST",
+  "local_date": "Nov 9, 2026",
+  "slug": "2026-11-09-1928-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "This edition mixes Washington drama with some easygoing local news. A Republican congressman is forcing a House vote on impeaching Defense Secretary Pete Hegseth, and Dana White politely turned down a press secretary job offer on live TV. Charlotte has a big airport vote and a classic fall weather flip, and Jamaica has fresh asphalt, beach cleanups and a schoolboy football rematch.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Massie Forces a House Vote on Impeaching Hegseth",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Thomas Massie, a Kentucky Republican, reintroduced articles of impeachment against Defense Secretary Pete Hegseth on Monday, which starts a 48-hour clock for the House to act. He argues Hegseth broke the law by carrying on hostilities in Iran for more than 90 days without approval from Congress. The effort is expected to fail while Republicans control Congress until January. Massie says the real goal is to nudge President Trump into naming a replacement before Democrats take over. Hegseth called it a 'sham,' and Trump said, 'I'll stand by him.'",
+      "key_facts": [
+        "The resolution lists eight charges, including three tied to the War Powers Resolution over Iran.",
+        "The House can vote on it directly, send it to committee, or set it aside.",
+        "Massie lost his primary earlier this year to Ed Gallrein, whom Hegseth campaigned for.",
+        "Presumptive next Speaker Hakeem Jeffries has signaled support for impeaching Hegseth once Democrats take control."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It raises a big question about how war powers are shared between the president and Congress, and it previews what may come when control of Congress changes in January.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T23:45:14+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+          "published": "2026-11-09T20:52:24+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+          "url": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
+          "published": "2026-11-09T21:39:37+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch live: Massie speaks amid Hegseth impeachment drive",
+          "url": "https://thehill.com/video-clips/6208667-watch-live-thomas-massie-pete-hegseth-impeachment-articles-press-conference/",
+          "published": "2026-11-09T19:40:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Dana White Says 'No Thanks' to Press Secretary Job, Live at the Podium",
+      "topics": [
+        "US Headlines",
+        "Jamaica"
+      ],
+      "summary": "Over the weekend, President Trump posted that he'd offered UFC boss Dana White the White House press secretary job, then said he was 'only kidding.' On Monday he brought White into the briefing room and asked him on the spot. White politely declined, saying he has 'zero political aspirations.' Trump replied, 'I am devastated to hear this. Goodbye, everybody.'",
+      "key_facts": [
+        "The press secretary post has been empty since Katie Zacharia left on October 16 after less than a week.",
+        "Karoline Leavitt left the job in August after a year and a half.",
+        "White, 57, is a longtime Trump friend who helped host a UFC event on the White House lawn this year.",
+        "Trump also shared two AI-generated videos of White as press secretary before the appearance."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: White declined the offer in person.",
+        "Trump has described the original offer as a joke, so how serious it ever was remains unclear."
+      ],
+      "why": "It's a rare lighthearted moment in the briefing room, though the press secretary job is still open.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "UFC chief declines Trump’s White House job offer",
+          "url": "https://www.jamaicaobserver.com/2026/11/09/ufc-chief-declines-trumps-white-house-job-offer/",
+          "published": "2026-11-10T00:25:22+00:00"
+        },
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Top Takeaways From Trump's Wild White House Press Event With Dana White",
+          "url": "https://www.newsweek.com/top-takeaways-from-trumps-wild-white-house-press-event-with-dana-white-12691042",
+          "published": "2026-11-09T22:46:15+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Dana White takes podium at White House press briefing",
+          "url": "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
+          "published": "2026-11-09T22:40:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Charlotte: Enjoy the 70s Now, First Frost Likely This Weekend",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte is getting spring-like afternoons in the 70s through Wednesday. A strong cold front arrives Thursday with a few light showers. After that, highs drop into the 50s, and the season's first frost looks likely Saturday and Sunday mornings.",
+      "key_facts": [
+        "Monday's highs were almost 10 degrees above average.",
+        "Rain chances Thursday are below 50-50 around Charlotte.",
+        "The mountains could see about an inch of snow in Ashe, Watauga and Avery counties late Thursday into Friday.",
+        "Frost advisories were issued Monday night for Stanly, Anson and Richmond counties."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Soak up the warm days, and plan to cover tender plants and grab a jacket by the weekend.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start to the week, but autumn cold snap looms: Forecast here",
+          "url": "https://www.wbtv.com/2026/11/09/warm-start-week-autumn-cold-snap-looms-forecast-here/",
+          "published": "2026-11-09T20:41:06+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start to the week in the Carolinas with the coldest air of the season so far on the way",
+          "url": "https://www.qcnews.com/weather/weather-forecast/warm-start-to-the-week-in-the-carolinas-with-the-coldest-air-of-the-season-so-far-on-the-way/",
+          "published": "2026-11-09T22:57:15+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start, cold finish: Charlotte’s weather changes this week",
+          "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+          "published": "2026-11-09T16:56:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Charlotte Council Weighs $2.1 Billion Airport Expansion Deal",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte City Council was set to vote Monday night on a 10.5-year airline lease at Charlotte Douglas International Airport. The deal could unlock $2.1 billion in projects, including a bigger Concourse C and a passenger tunnel. Supporters call the airport the city's front door to the world. A consumer group and the SEIU union asked for a delay, citing concerns about airfares and conditions for subcontracted workers.",
+      "key_facts": [
+        "American Airlines' gates would grow from 93 to 109.",
+        "Airlines' share of airport revenue would rise to 40%-45%.",
+        "The airport estimates a $40 billion annual economic impact and 184,000 jobs supported in the Carolinas.",
+        "Sen. Thom Tillis has threatened to pursue an independent airport authority if the council rejects the deal."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "The deal could shape flight options, fares and jobs for Charlotte travelers for the next decade.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council to vote on $2.1B airport expansion plan",
+          "url": "https://www.wsoctv.com/news/local/charlotte-city-council-vote-21b-airport-expansion-plan/5LVOOBAG5BAEFH3Z2ZWSMB3JNQ/",
+          "published": "2026-11-09T21:20:03+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte leaders set to vote on new CLT airport lease agreement, union leaders urge delay",
+          "url": "https://www.qcnews.com/charlotte-airport/charlotte-leaders-set-to-vote-on-new-clt-airport-lease-agreement-union-leaders-urge-delay/",
+          "published": "2026-11-09T22:26:05+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council to vote Monday on 10-year airline lease amid airport control debate",
+          "url": "https://www.wcnc.com/article/news/community/transportation/charlotte-city-council-to-vote-monday-on-10-year-airline-lease-amid-airport-control-debate/275-64eb27e4-4657-4e8f-82ca-5d7eb852d48d",
+          "published": "2026-11-09T12:35:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Workers Treated After White Powder Found at Lenoir Recycling Plant",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "A white powder found on packages at Prime Recycling in Lenoir caused breathing problems and burning eyes for workers on Monday after it went airborne when boxes were opened. Managers evacuated the facility as a precaution. Hazmat teams and the State Bureau of Investigation are working to identify the substance.",
+      "key_facts": [
+        "Officials said 22 people were affected and at least 14 were taken to the hospital.",
+        "Crews responded around 10:57 a.m. on Watson Road.",
+        "Urgent care staff who were exposed were decontaminated and treated for non-life-threatening injuries."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The substance has not yet been identified.",
+        "Reports differ on the count: some outlets say 14 were hospitalized, one says 11."
+      ],
+      "why": "Crews responded quickly, and the urgent care staff's injuries were reported as non-life-threatening.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "14 hospitalized after exposure to unknown substance at Lenoir recycling facility",
+          "url": "https://www.wbtv.com/2026/11/09/11-hospitalized-after-exposure-unknown-substance-lenoir-recycling-facility/",
+          "published": "2026-11-09T21:02:49+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "14 hospitalized after unknown substance found at recycling center",
+          "url": "https://www.wsoctv.com/news/local/11-treated-respiratory-issues-lenoir-recycling-center/BULABQVI2BEY5L4Z33FTO4FUSM/",
+          "published": "2026-11-09T22:08:45+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "11 people hospitalized after exposure to 'unknown powder substance' at Lenoir recycling facility",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/caldwell-county/11-people-hospitalized-after-exposure-to-unknown-powder-substance-at-lenoir-recycling-facility/",
+          "published": "2026-11-09T22:12:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Mona High Wants a Rematch Win Over KC in Manning Cup",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Mona High faces Kingston College in Tuesday's ISSA Manning Cup quarter-final, after losing the Walker Cup final to KC 2-1. Mona coach Craig Butler still feels KC's equalizer should have been disallowed, and he says his players are fired up.",
+      "key_facts": [
+        "Mona vs KC kicks off at 2:30 pm at Stadium East.",
+        "Jamaica College vs STATHS follows at 4:30 pm at Waterhouse Stadium.",
+        "Only two teams from Group B, dubbed the 'Group of Death,' advance to the semi-finals."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A good old-fashioned schoolboy football rivalry, with a rematch storyline built in.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Butler eyes revenge as Mona target KC in Manning Cup quarter-finals",
+          "url": "https://www.jamaicaobserver.com/2026/11/09/butler-eyes-revenge-mona-target-kc-manning-cup-quarter-finals/",
+          "published": "2026-11-10T00:07:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Molynes Road Gets a Fresh $26 Million Resurfacing",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's National Works Agency is resurfacing a stretch of Molynes Road in St Andrew. The work includes removing the old asphalt, laying a new surface and painting fresh road markings.",
+      "key_facts": [
+        "The project is valued at over $26 million.",
+        "The section runs from Woodglen Drive to Blandford Terrace, near Bert's Auto."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Smoother, better-marked roads mean a safer drive for everyone using Molynes Road.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Molynes Road gets $26m facelift",
+          "url": "https://www.jamaicaobserver.com/2026/11/09/molynes-road-gets-26m-facelift/",
+          "published": "2026-11-09T23:34:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Jamaicans Pitch In to Keep the Beaches Clean",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The latest episode of the Jamaica Observer's Fi Wi Land series, made with NEPA, looks at beach cleanup efforts. It covers problems like plastic, household waste and sargassum, and how communities are working together to tackle them.",
+      "key_facts": [
+        "The episode features Monique Curtis, manager of NEPA's Ecosystems Management Branch.",
+        "It's available on the Jamaica Observer's YouTube channel."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's an uplifting look at people working together to protect beaches that support families, fishing and tourism.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Fi Wi Land: The fight to keep Jamaica’s beaches clean",
+          "url": "https://www.jamaicaobserver.com/2026/11/09/fi-wi-land-fight-keep-jamaicas-beaches-clean/",
+          "published": "2026-11-09T23:30:07+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 18,
+    "right": 0
+  },
+  "stats": {
+    "articles": 309,
+    "stories_found": 250,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-10T00:27:42.544796+00:00",
+  "local_time": "Monday, November 9, 2026 · 7:27 PM EST",
+  "local_date": "Nov 9, 2026",
+  "slug": "2026-11-09-1927-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by fallout in Washington after Democrats' midterm wins: Nvidia CEO Jensen Huang faces congressional and internal scrutiny over an affair with a woman US intelligence suspects is a Chinese spy, and Rep. Thomas Massie has filed articles of impeachment against Defense Secretary Pete Hegseth. The Supreme Court let border wall construction resume in Texas's Big Bend, and France formally blamed Iran's Revolutionary Guard for a sabotage campaign against supermarket refrigerators. Local items cover a hospital diesel spill and an incoming cold snap in Charlotte.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump backs Nvidia CEO Jensen Huang as Congress and Nvidia's board look into his ties to suspected Chinese spy",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Nvidia CEO Jensen Huang told employees he had an extramarital affair with Alice Huang (no relation), a former executive at Singapore-based Megaspeed whom US intelligence reportedly believes works for China's Ministry of State Security. Nvidia's board opened an independent investigation and said it had no reason to believe company secrets or national security were compromised. President Trump said Huang told him he \"had no idea that she was a spy,\" said he believes him, and said the FBI is \"looking into it in terms of something else.\" Three Republican House committee chairs have asked Huang to appear at a closed-door meeting on Nov. 18, and some lawmakers want sales of Nvidia's H200 chips to China paused. China called the spy allegations groundless.",
+      "key_facts": [
+        "Huang admitted the affair in an email to employees on Sunday and said he would cooperate with the internal investigation.",
+        "Reps. Brian Mast, John Moolenaar and Rick Crawford asked Huang to appear before their committees on Nov. 18.",
+        "Trump called Huang \"a very honorable man\" and said he believes Huang should stay on as CEO.",
+        "The Trump administration approved limited H200 chip sales to China in December 2025, with the US government taking a 25% cut, according to the New York Post.",
+        "China's Foreign Ministry called the spy claims \"a groundless accusation, slander, and a smear.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian led with Trump, Elon Musk and investors rallying behind Huang, quoting Shaun Maguire and noting defenders cast it as a personal lapse. It and The Verge stressed New York Times reporting that Trump was briefed on the relationship about a year ago and took no action, and that US intelligence believes Alice Huang pushed Huang to lobby for looser export controls. The Verge also took a mocking tone toward Huang's judgment."
+        },
+        {
+          "lean": "center",
+          "framing": "Yonhap/Korea Herald focused on Trump's statements of support and the board's assurance that no secrets were compromised. Axios offered an explainer on Alice Huang and framed the story around US-China AI competition."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post stressed national-security worries, the GOP push to summon Huang and pause chip sales, and Megaspeed's alleged chip smuggling, using the word \"honeypot\" and describing a 2025 Taipei encounter. The Washington Examiner centered Trump's sympathy, quoting him that Huang \"is definitely suffering.\""
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang is a Chinese intelligence agent rests on US intelligence and a State Department memo as reported by the press; China denies it, and she has not commented.",
+        "Whether any Nvidia secrets or national-security information were compromised; Nvidia says no, and investigations are ongoing.",
+        "What the FBI is examining; Trump said only that it was looking into \"something else.\"",
+        "Outlets differ on when and where Alice and Jensen Huang were photographed together in Taipei (the Post says May 2025, The Verge says 2024).",
+        "What Trump knew in advance and why he did not act, based on New York Times reporting."
+      ],
+      "why": "The head of the world's most valuable chipmaker sits at the center of US-China AI export policy, so questions about foreign influence could affect chip sales to China and the wider AI industry.",
+      "coverage": {
+        "left": 4,
+        "center": 11,
+        "right": 4
+      },
+      "n_outlets": 19,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says Nvidia chief Huang had no knowledge of alleged Chinese espionage activities",
+          "url": "https://www.koreaherald.com/article/10931588",
+          "published": "2026-11-10T00:21:14+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+          "published": "2026-11-09T23:30:37+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nvidia’s Jensen Huang called to Congress by GOP — chip sale cutoff could be at stake over Chinese ‘spy’ honeypot",
+          "url": "https://nypost.com/2026/11/09/us-news/nvidias-jensen-huang-called-to-congress-by-gop-chip-sale-cutoff-could-be-at-stake-over-chinese-spy-honeypot/",
+          "published": "2026-11-09T23:42:17+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+          "url": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+          "published": "2026-11-09T21:47:48+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-09T23:07:59+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump says Jensen Huang ‘is definitely suffering’ as FBI probes affair with suspected spy",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4798012/trump-says-nvidia-jensen-huang-is-suffering-greatly-spoke-with-him/",
+          "published": "2026-11-09T22:42:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Thomas Massie, a Kentucky Republican who lost his primary to a Trump-backed challenger, introduced eight articles of impeachment against Defense Secretary Pete Hegseth on Monday. The articles focus mainly on the Iran war and also cite military actions in Yemen and Venezuela, alleged war-powers violations and free-speech suppression. House Democratic Leader Hakeem Jeffries and Senate Democratic Leader Chuck Schumer back the effort, while Speaker Mike Johnson has tried to prevent a vote. President Trump called Massie a \"loser\" and said Hegseth \"won two wars.\" A House vote could come by midweek, though next steps are uncertain.",
+      "key_facts": [
+        "Massie said Hegseth \"knowingly executed and implemented unlawful orders\" and \"remains a threat to the Constitution.\"",
+        "Republicans control both chambers until the new Congress convenes in January with Democrats in the majority.",
+        "If most Democrats back the measure, only a few Republicans would be needed for it to pass the House.",
+        "Johnson said impeachment \"in the middle of hostilities abroad would be a terrible, terrible look.\"",
+        "Massie floated Florida Gov. Ron DeSantis as a possible replacement."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS/AP tied the push to election losses blamed partly on the Iran war, and quoted Massie, Trump, Johnson, Thune, Schumer and Hegseth. The Guardian's live blog emphasised Trump's personal attacks on Massie and his claim that Hegseth is winning in Iran."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios and The Hill gave straightforward procedural coverage. Axios noted this could be the first impeachment of a Cabinet secretary in Trump's second term and called Massie a member \"with little to lose.\""
+        },
+        {
+          "lean": "right",
+          "framing": "The libertarian Reason openly endorsed the impeachment and argued Trump bears ultimate responsibility for the war. The Washington Examiner highlighted Massie's suggestion of DeSantis as a successor and used the administration's term \"War Secretary.\""
+        }
+      ],
+      "disputed": [
+        "Whether the House will hold a vote, and whether enough Republicans will support it.",
+        "Whether the Senate would hold a trial or dismiss the charges.",
+        "Trump's claim that Hegseth is \"winning the war in Iran\" is his own assessment."
+      ],
+      "why": "It tests whether Congress will assert its war powers over the Iran conflict and signals the confrontations likely once Democrats take control in January.",
+      "coverage": {
+        "left": 4,
+        "center": 5,
+        "right": 2
+      },
+      "n_outlets": 11,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+          "url": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
+          "published": "2026-11-09T21:39:37+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+          "published": "2026-11-10T00:06:19+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Thomas Massie Is Right To Impeach Pete Hegseth",
+          "url": "https://reason.com/podcast/2026/11/09/thomas-massie-is-right-to-impeach-pete-hegseth/",
+          "published": "2026-11-09T22:30:43+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch live: Massie speaks amid Hegseth impeachment drive",
+          "url": "https://thehill.com/video-clips/6208667-watch-live-thomas-massie-pete-hegseth-impeachment-articles-press-conference/",
+          "published": "2026-11-09T19:40:08+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Rep. Massie speaks after filing Hegseth impeachment resolution",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-rep-massie-speaks-after-filing-hegseth-impeachment-resolution",
+          "published": "2026-11-09T20:26:39+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Massie suggests DeSantis as war secretary if Hegseth ousted in impeachment push",
+          "url": "https://www.washingtonexaminer.com/news/house/4797936/thomas-massie-suggests-ron-desantis-pete-hegseth-replacement-impeachment/",
+          "published": "2026-11-09T22:43:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Supreme Court lets border wall construction resume in Texas's Big Bend region",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Supreme Court on Monday granted the Trump administration's emergency request to pause a federal judge's October order that had halted border barrier construction in the Big Bend Sector of West Texas, including parts of Big Bend National Park. In an unsigned five-page decision, the court said federal law lets the homeland security secretary waive environmental laws, reflecting \"a clear preference for expeditious border construction.\" Justice Ketanji Brown Jackson dissented without a written opinion. The lawsuit, brought by the Center for Biological Diversity, a church preservation group and local residents, continues in lower courts.",
+      "key_facts": [
+        "The decision was unsigned and five pages long; Justice Jackson was the lone dissenter.",
+        "U.S. District Judge Kathleen Cardone had halted construction on Oct. 2.",
+        "The Big Bend Sector covers roughly a quarter of the US-Mexico border but accounted for 1.3% of apprehensions in 2025, according to Reuters as cited by Fox News.",
+        "The court wrote that the government's interest \"outweighs any aesthetic, recreational, and environmental harm alleged.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and NPR gave substantial space to plaintiffs and the Center for Biological Diversity's condemnation, stressed bipartisan local opposition and the region's low crossing numbers, and also quoted the administration's border-security arguments."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill framed the ruling briefly as a win for the Trump administration."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News emphasised the administration's cartel and drug-smuggling rationale and noted most construction will be on private land, while also citing the low apprehension figures. The Daily Caller framed the ruling against Texas's recent Democratic election sweep and noted the judges' appointing presidents."
+        }
+      ],
+      "disputed": [
+        "Outlets differ on the barrier types: the Guardian cites six-foot vehicle barriers, NPR describes 30-foot steel barriers, and Fox says the park section will not have 30-foot pedestrian fencing.",
+        "Whether construction in the park is needed for border security is disputed between the administration and the plaintiffs.",
+        "The final legal outcome is still pending."
+      ],
+      "why": "The ruling lets construction go ahead in a cherished national park before the courts decide whether it is lawful, and it reinforces the government's broad power to waive environmental laws at the border.",
+      "coverage": {
+        "left": 4,
+        "center": 1,
+        "right": 2
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Supreme Court allows Big Bend border construction to continue in Texas, siding with Trump",
+          "url": "https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/",
+          "published": "2026-11-09T20:14:20+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+          "published": "2026-11-09T23:48:36+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "SCOTUS allows Trump admin to temporarily resume border construction in Texas' Big Bend",
+          "url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend",
+          "published": "2026-11-09T21:01:08+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Supreme Court says border wall construction can continue in west Texas",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+          "published": "2026-11-09T21:47:39+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Supreme Court Greenlights Trump Border Wall In State That Just Turned Blue",
+          "url": "https://dailycaller.com/2026/11/09/supreme-court-greenlights-trump-border-wall-texas",
+          "published": "2026-11-09T21:20:17+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend",
+          "published": "2026-11-09T23:40:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Dana White declines Trump's press secretary offer at White House briefing",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "UFC CEO Dana White joined President Trump at an impromptu White House briefing on Monday, days after Trump posted that he would make White press secretary and then said he was \"kidding.\" Trump said he floated the idea during \"a very bad press day.\" When Trump asked him on the spot, White declined, saying he did not want to be involved in politics. White also praised Trump's toughness and fielded questions on a hypothetical Trump-Biden fight and a possible Pete Rose pardon.",
+      "key_facts": [
+        "White said: \"I do not want to be involved in politics, no.\"",
+        "Trump replied: \"I am devastated to hear this. Goodbye, everybody.\"",
+        "Trump shared AI-generated videos of White as press secretary hours before the briefing.",
+        "Trump reiterated that he favors pardoning Pete Rose."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian ran a short video item on Trump saying he was \"only kidding.\""
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek called the event \"wild\" and focused on the on-the-spot job offer; BBC and The Hill reported it briefly and straightforwardly."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News quoted White's praise of Trump's resilience at length and noted White never explicitly told Trump \"no\" in private. The Washington Examiner noted Trump opened the briefing by saying military operations in Iran likely would not resume."
+        }
+      ],
+      "disputed": [
+        "Whether the offer was ever serious remains unclear: Trump has called it a joke but asked White again publicly."
+      ],
+      "why": "The episode shows the informal, unconventional way the White House is handling a key communications role after a difficult news cycle.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 2
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Top Takeaways From Trump's Wild White House Press Event With Dana White",
+          "url": "https://www.newsweek.com/top-takeaways-from-trumps-wild-white-house-press-event-with-dana-white-12691042",
+          "published": "2026-11-09T22:46:15+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Donald Trump 'kidding' about making UFC boss Dana White US press secretary – video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video",
+          "published": "2026-11-09T12:08:26+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Dana White takes questions at podium during White House briefing with Trump",
+          "url": "https://www.foxnews.com/politics/dana-white-takes-questions-podium-during-white-house-briefing-trump",
+          "published": "2026-11-09T22:24:33+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Dana White declines Trump’s offer to be White House press secretary",
+          "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T22:46:27+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump says he floated Dana White for press secretary during ‘very bad press day’",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4798002/trump-says-he-floated-dana-white-for-press-secretary-during-very-bad-press-day-as-joke/",
+          "published": "2026-11-09T22:21:25+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Dana White takes podium at White House press briefing",
+          "url": "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
+          "published": "2026-11-09T22:40:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "France blames Iran's Revolutionary Guard for cyberattacks on supermarket refrigerators",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "France formally attributed October cyberattacks on refrigeration controllers at about 700 French retail sites to Shahid Kaveh, a cyber unit linked to Iran's Islamic Revolutionary Guard Corps. Officials say the attacks spoiled tens of millions of euros of food and caused at least 15 fires. Foreign Minister Jean-Noël Barrot called the attack \"unprecedented in both its scale and its level of aggression,\" summoned Iran's ambassador and promised to seek EU sanctions. Paris prosecutors opened a judicial investigation into the unit's leader and two deputies and are seeking international arrest warrants. France's attribution does not cover a second wave of similar attacks in early November across other European countries.",
+      "key_facts": [
+        "The attacks took place overnight on Oct. 11–12, with fridge temperatures reaching about 50C for around six hours.",
+        "Investigators cited Farsi text traces, IP addresses linked to Iran, and infrastructure shared with earlier reconnaissance of Schneider Electric equipment.",
+        "Small hydroelectric plants were also targeted, with \"moderate effects.\"",
+        "The BBC reported the targeted software was supplied by Danish firm Danfoss.",
+        "US agencies have previously linked Shahid Kaveh to the CyberAv3ngers group and attacks on US water utilities."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR and PBS/AP centered on Barrot's statements and the prosecutors' action, and placed the attacks within a wider trend, including hits on a blood bank, other European grocers, an Israeli plant and US military commissaries."
+        },
+        {
+          "lean": "center",
+          "framing": "BleepingComputer and The Record gave technical detail on the attribution evidence and named commanders. The BBC noted Iranian media dismissed the claims and raised the open question of whether the attacks were part of an Iranian deterrence strategy."
+        }
+      ],
+      "disputed": [
+        "Iran has not responded officially; some Iranian media called the allegations baseless.",
+        "Whether the November wave and the August incidents at US military bases are linked to the same actors remains unconfirmed.",
+        "Outlets differ on how many countries the second wave hit (six countries vs. at least 11)."
+      ],
+      "why": "It is the first formal government attribution of a large-scale sabotage campaign against food and other critical infrastructure in Europe, and it could lead to EU sanctions.",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+          "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+          "published": "2026-11-09T18:32:42+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+          "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+          "published": "2026-11-09T22:30:49+00:00"
+        },
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "France blames Iran for fridge cyberattacks, says some caused fires",
+          "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
+          "published": "2026-11-09T18:45:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "France blames Iran for last month's cyberattack on supermarket fridges",
+          "url": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
+          "published": "2026-11-09T21:18:01+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "France accuses Iran of supermarket fridge hacking",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T20:20:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Diesel spill at Atrium Health Mercy hospital reaches Charlotte creek",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "About 2,000 gallons of red-dyed diesel leaked from an above-ground storage tank at Atrium Health Mercy Hospital on Vail Avenue over the weekend, and about 800 gallons reached a tributary of Briar Creek through the Elizabeth neighborhood. The EPA is leading a multi-agency cleanup using booms, pads and vacuum trucks. Officials told residents and pets to stay out of the creek. Atrium says the spill is contained and the cause is under investigation, but neighborhood leaders say the hospital has not communicated with them.",
+      "key_facts": [
+        "Stormwater Services attributes the spill to an equipment failure.",
+        "Volume estimates are preliminary and under investigation.",
+        "Atrium reported no impact on patient care and no injuries.",
+        "Residents are asked to call 311 if they see or smell anything unusual."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE focused on residents' concerns about smell, property damage and Atrium's lack of outreach, quoting the Elizabeth Community Association leader."
+        },
+        {
+          "lean": "center",
+          "framing": "WSOC and WBTV reported the facts of the spill and the cleanup, relying on official statements from the city and Atrium."
+        }
+      ],
+      "disputed": [
+        "The spill's timing is reported as both Saturday night and Sunday.",
+        "The final amount spilled will not be known until cleanup is complete.",
+        "The cause is still under investigation."
+      ],
+      "why": "Residents of the Elizabeth neighborhood and pet owners near the creek should avoid the water until officials say conditions are back to normal.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "EPA takes lead on diesel spill in Mecklenburg County waterway",
+          "url": "https://www.wsoctv.com/news/local/atrium-health-investigates-fuel-spill-into-nearby-creek/3IJGWK5LIVABJJYHWHWYD4A5FE/",
+          "published": "2026-11-09T15:27:45+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Residents concerned over lack of communication after Atrium Health diesel spill",
+          "url": "https://www.wfae.org/energy-environment/2026-11-09/residents-concerned-over-lack-of-communication-after-atrium-health-diesel-spill",
+          "published": "2026-11-09T22:47:02+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Weekend fuel spill reported at hospital in Charlotte: What to know",
+          "url": "https://www.wbtv.com/2026/11/09/weekend-fuel-spill-reported-hospital-charlotte-what-know/",
+          "published": "2026-11-09T18:23:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Charlotte warm through midweek before season's coldest air arrives",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte will see highs in the 70s through Wednesday, followed by a strong cold front on Thursday with limited rain. Highs Friday through Monday are expected only in the 50s, and the first frost is likely Saturday and Sunday mornings. Snow showers are possible in the North Carolina mountains late Thursday and Friday.",
+      "key_facts": [
+        "Frost advisories are in effect Monday night for Stanly, Anson and Richmond counties.",
+        "About an inch of snow is possible in Ashe, Watauga and Avery counties.",
+        "Rain chances Thursday are below 50-50 around Charlotte."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "All three local stations gave similar straightforward forecasts."
+        }
+      ],
+      "disputed": [],
+      "why": "Residents should prepare for frost and a sharp temperature drop this weekend.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start to the week, but autumn cold snap looms: Forecast here",
+          "url": "https://www.wbtv.com/2026/11/09/warm-start-week-autumn-cold-snap-looms-forecast-here/",
+          "published": "2026-11-09T20:41:06+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start to the week in the Carolinas with the coldest air of the season so far on the way",
+          "url": "https://www.qcnews.com/weather/weather-forecast/warm-start-to-the-week-in-the-carolinas-with-the-coldest-air-of-the-season-so-far-on-the-way/",
+          "published": "2026-11-09T22:57:15+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warm start, cold finish: Charlotte’s weather changes this week",
+          "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+          "published": "2026-11-09T16:56:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Former US officials say North Korea's nuclear-status demand could block a Trump-Kim summit",
+      "topics": [
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "Former Deputy Secretary of State Kurt Campbell said his understanding is that North Korea has told the US it would consider a summit only if Washington accepts it as a nuclear power. Campbell said that would be \"almost impossible\" for Trump to accept and predicted little more than \"a handshake of sorts.\" Former special representative Stephen Biegun was also skeptical, warning of \"performative summitry,\" though he said engagement could help stability. The remarks come ahead of Trump's trip to the ASEAN summit in Manila and the APEC summit in Shenzhen.",
+      "key_facts": [
+        "Trump and Kim met three times in Trump's first term: in Singapore, Hanoi and Panmunjom.",
+        "Campbell spoke at an Asia Group briefing; Biegun spoke at a Stimson Center–Sejong Institute event."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald ran the same Yonhap report, framed around expert skepticism of summit prospects."
+        }
+      ],
+      "disputed": [
+        "North Korea's reported condition rests on Campbell's \"understanding\" and has not been confirmed by either government."
+      ],
+      "why": "It shapes expectations for any Trump-Kim meeting during his Asia trip this month.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(LEAD) N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official",
+          "url": "https://en.yna.co.kr/view/AEN20261110000551315",
+          "published": "2026-11-09T21:40:38+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-US official",
+          "url": "https://www.koreaherald.com/article/10931586",
+          "published": "2026-11-10T00:21:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "IAEA chief welcomes South Korea's nonproliferation pledge amid nuclear submarine plans",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "IAEA Director General Rafael Grossi welcomed South Korea's commitment to its nonproliferation obligations after meeting Vice Foreign Minister Jeong Yeon-doo. Seoul is pursuing the Jang Bogo N project to build nuclear-powered, conventionally armed submarines under an agreement with the United States.",
+      "key_facts": [
+        "The first submarine is to be launched in the mid-2030s and fielded after the late 2030s.",
+        "The US has consented to fuel enriched to below 20 percent.",
+        "South Korea plans to procure small modular reactors for the submarines' propulsion."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Both outlets ran the same Yonhap report, which relays Grossi's statement without criticism."
+        }
+      ],
+      "disputed": [],
+      "why": "South Korea's nuclear submarine program is a significant step for regional security, and international oversight of it matters.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans",
+          "url": "https://en.yna.co.kr/view/AEN20261110000200315",
+          "published": "2026-11-09T15:41:41+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans",
+          "url": "https://www.koreaherald.com/article/10931569",
+          "published": "2026-11-10T00:14:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Nvidia shares fall after board opens probe into CEO Huang",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "Korea"
+      ],
+      "summary": "Nvidia shares dropped on Monday after the company launched an internal investigation into whether CEO Jensen Huang was targeted by a foreign intelligence operation. The Hill reported the stock opened down 7.3%, while premarket declines of nearly 5% implied a loss of about $250 billion in value. Nvidia said its board has confidence in Huang, and some analysts said he has no natural successor. Huang's daughter Madison canceled a planned Seoul visit.",
+      "key_facts": [
+        "Shares fell to about $170.24 in early trading, according to The Hill.",
+        "Huang holds a roughly 3.6% stake, according to LSEG data.",
+        "TSMC closed 4.7% higher on the same day."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (Reuters) and The Hill focused on market impact and Huang's importance, quoting an analyst who doubted Huang would be replaced and including China's denial."
+        }
+      ],
+      "disputed": [
+        "How much of the drop reflects the scandal versus the wider AI-stock selloff from the previous week."
+      ],
+      "why": "Nvidia is central to the AI boom, so its stock moves affect many investors and markets.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia's shares slide as chip giant probes CEO over spy claims",
+          "url": "https://www.koreaherald.com/article/10931215",
+          "published": "2026-11-09T12:05:36+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia stock slides after company launches probe into Huang",
+          "url": "https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/",
+          "published": "2026-11-09T15:21:47+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "None of today's articles address AI regulation in the US or EU. The closest item is a congressional proposal to review advanced chip export sales, reported in the Nvidia story.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 11,
+    "center": 22,
+    "right": 8
+  },
+  "stats": {
+    "articles": 550,
+    "stories_found": 382,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
