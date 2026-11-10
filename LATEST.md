@@ -1,286 +1,305 @@
 # My Daily Brief: Evening edition
-_Monday, November 9, 2026 · 7:27 PM EST · 550 articles from 39 outlets · summaries by Claude_
+_Monday, November 9, 2026 · 11:21 PM EST · 577 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by fallout in Washington after Democrats' midterm wins: Nvidia CEO Jensen Huang faces congressional and internal scrutiny over an affair with a woman US intelligence suspects is a Chinese spy, and Rep. Thomas Massie has filed articles of impeachment against Defense Secretary Pete Hegseth. The Supreme Court let border wall construction resume in Texas's Big Bend, and France formally blamed Iran's Revolutionary Guard for a sabotage campaign against supermarket refrigerators. Local items cover a hospital diesel spill and an incoming cold snap in Charlotte.
+> This edition is dominated by fallout from the US midterms, which the articles say Democrats won, and the Iran war. Rep. Thomas Massie filed impeachment articles against Defense Secretary Pete Hegseth, and President Trump called the Iran war 'effectively over.' Also covered: Nvidia CEO Jensen Huang's acknowledged affair with an alleged Chinese agent, France blaming Iran for cyber sabotage of supermarket fridges, a Supreme Court order allowing border construction in Big Bend, California's rejection of a billionaire wealth tax, Russell Brand's prison sentence, and several regional stories.
 
 
-**Sources linked in this edition:** 11 left · 22 center · 8 right
+**Sources linked in this edition:** 17 left · 19 center · 11 right
 
 ---
 
-## 1. Trump backs Nvidia CEO Jensen Huang as Congress and Nvidia's board look into his ties to suspected Chinese spy
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 19 outlets (L 4 · C 11 · R 4)
+## 1. Trump says FBI is looking into Nvidia CEO's affair with alleged Chinese agent
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 16 outlets (L 4 · C 10 · R 2)
 
-Nvidia CEO Jensen Huang told employees he had an extramarital affair with Alice Huang (no relation), a former executive at Singapore-based Megaspeed whom US intelligence reportedly believes works for China's Ministry of State Security. Nvidia's board opened an independent investigation and said it had no reason to believe company secrets or national security were compromised. President Trump said Huang told him he "had no idea that she was a spy," said he believes him, and said the FBI is "looking into it in terms of something else." Three Republican House committee chairs have asked Huang to appear at a closed-door meeting on Nov. 18, and some lawmakers want sales of Nvidia's H200 chips to China paused. China called the spy allegations groundless.
+Nvidia CEO Jensen Huang has acknowledged an extramarital affair with Alice Huang (no relation), a former executive at Singapore-based AI computing firm Megaspeed. The New York Times reported that US intelligence identified her as working for Beijing. President Trump said the FBI is 'looking into it' but that Huang will be 'in good shape,' and that Huang told him he had no idea the woman was a spy. Nvidia has opened an independent investigation, Huang says he will cooperate fully, and congressional Democrats want a briefing. China called the spy allegation an 'unsubstantiated' smear, and Trump is due to meet Xi Jinping at APEC next week.
 
 **Key facts**
-- Huang admitted the affair in an email to employees on Sunday and said he would cooperate with the internal investigation.
-- Reps. Brian Mast, John Moolenaar and Rick Crawford asked Huang to appear before their committees on Nov. 18.
-- Trump called Huang "a very honorable man" and said he believes Huang should stay on as CEO.
-- The Trump administration approved limited H200 chip sales to China in December 2025, with the US government taking a 25% cut, according to the New York Post.
-- China's Foreign Ministry called the spy claims "a groundless accusation, slander, and a smear."
+- Huang apologized in an open letter and said: 'I support the investigation and will cooperate fully.'
+- Nvidia and Huang say they have 'no reason to believe that either national security or NVIDIA secrets were compromised.'
+- Sen. Mark Warner and Rep. Hakeem Jeffries said they want to investigate further; Jeffries called for 'a full briefing.'
+- China's foreign ministry spokesperson Guo Jiakun called the allegation 'nothing but smears against China.'
+- The Verge, citing reports, says Megaspeed bought $4.8 billion of Nvidia chips.
 
 **How it's being framed**
-- **Left:** The Guardian led with Trump, Elon Musk and investors rallying behind Huang, quoting Shaun Maguire and noting defenders cast it as a personal lapse. It and The Verge stressed New York Times reporting that Trump was briefed on the relationship about a year ago and took no action, and that US intelligence believes Alice Huang pushed Huang to lobby for looser export controls. The Verge also took a mocking tone toward Huang's judgment.
-- **Center:** Yonhap/Korea Herald focused on Trump's statements of support and the board's assurance that no secrets were compromised. Axios offered an explainer on Alice Huang and framed the story around US-China AI competition.
-- **Right:** The New York Post stressed national-security worries, the GOP push to summon Huang and pause chip sales, and Megaspeed's alleged chip smuggling, using the word "honeypot" and describing a 2025 Taipei encounter. The Washington Examiner centered Trump's sympathy, quoting him that Huang "is definitely suffering."
+- **Left:** The Verge offered an explainer, partly sardonic in tone. It stressed Nvidia's market power, Huang's closeness to Trump, and NYT reports that Trump was briefed on the relationship about a year ago without acting, and that Marco Rubio helped draft a memo about it. The Guardian ran the story as video alongside Trump's defense of Hegseth.
+- **Center:** AP's report (via The Korea Herald) focused on Trump inserting himself into a counterintelligence matter, the congressional interest, China's denial, and the APEC meeting with Xi. Axios centered on who Alice Huang is and the stakes for the US-China AI race.
+- **Right:** A Fox News opinion piece called the episode a 'honeytrap' and said Huang owes America an apology and investors answers. It framed the issue around national security and the AI race with China, and cited reporting that Megaspeed is being investigated for alleged chip smuggling. Fox Business led with China's denial.
 
 **Disputed or unclear**
-- Whether Alice Huang is a Chinese intelligence agent rests on US intelligence and a State Department memo as reported by the press; China denies it, and she has not commented.
-- Whether any Nvidia secrets or national-security information were compromised; Nvidia says no, and investigations are ongoing.
-- What the FBI is examining; Trump said only that it was looking into "something else."
-- Outlets differ on when and where Alice and Jensen Huang were photographed together in Taipei (the Post says May 2025, The Verge says 2024).
-- What Trump knew in advance and why he did not act, based on New York Times reporting.
+- Whether Alice Huang was a Chinese intelligence agent rests on reported US intelligence findings; China denies it.
+- Whether any Nvidia or national security information was compromised is unknown.
+- What Trump knew and when: NYT reports say he was briefed about a year ago; Trump says Huang had no idea.
+- Fox's report, citing the Financial Times, that Alice Huang boasted of securing chips possibly on the black market is unverified in the other articles.
 
-**Why it matters:** The head of the world's most valuable chipmaker sits at the center of US-China AI export policy, so questions about foreign influence could affect chip sales to China and the wider AI industry.
+**Why it matters:** Nvidia makes the chips at the heart of the US-China AI competition, so any compromise of its leadership could carry national security consequences.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10931588) (center): Trump says Nvidia chief Huang had no knowledge of alleged Chinese espionage activities
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk) (lean-left): Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy
-- [New York Post](https://nypost.com/2026/11/09/us-news/nvidias-jensen-huang-called-to-congress-by-gop-chip-sale-cutoff-could-be-at-stake-over-chinese-spy-honeypot/) (lean-right): Nvidia’s Jensen Huang called to Congress by GOP — chip sale cutoff could be at stake over Chinese ‘spy’ honeypot
-- [Axios](https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed) (center): What we know about the mystery woman at the center of Nvidia's spy scandal
+- [The Korea Herald](https://www.koreaherald.com/article/10932141) (center): Trump says FBI is looking at Nvidia CEO Jensen Huang's affair with alleged Chinese agent
 - [The Verge](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) (lean-left): Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4798012/trump-says-nvidia-jensen-huang-is-suffering-greatly-spoke-with-him/) (lean-right): Trump says Jensen Huang ‘is definitely suffering’ as FBI probes affair with suspected spy
+- [Fox News](https://www.foxnews.com/opinion/rebecca-grant-jensen-huang-owes-america-apology-nvidia-owes-investors-answers) (right): REBECCA GRANT: Jensen Huang owes America an apology, and Nvidia owes investors answers
+- [Axios](https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed) (center): What we know about the mystery woman at the center of Nvidia's spy scandal
+- [The Guardian (US)](https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang) (lean-left): Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
+- [Fox Business](https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear) (lean-right): China denies spy plot targeting Nvidia CEO Jensen Huang, calls allegations ‘smear’
 
 
-## 2. Rep. Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth
-`US Headlines` · Covered by 11 outlets (L 4 · C 5 · R 2)
+## 2. Rep. Massie files impeachment articles against Defense Secretary Hegseth
+`US Headlines` · Covered by 13 outlets (L 4 · C 7 · R 2)
 
-Rep. Thomas Massie, a Kentucky Republican who lost his primary to a Trump-backed challenger, introduced eight articles of impeachment against Defense Secretary Pete Hegseth on Monday. The articles focus mainly on the Iran war and also cite military actions in Yemen and Venezuela, alleged war-powers violations and free-speech suppression. House Democratic Leader Hakeem Jeffries and Senate Democratic Leader Chuck Schumer back the effort, while Speaker Mike Johnson has tried to prevent a vote. President Trump called Massie a "loser" and said Hegseth "won two wars." A House vote could come by midweek, though next steps are uncertain.
+Rep. Thomas Massie, a Kentucky Republican defeated in his primary this year, introduced eight articles of impeachment against Defense Secretary Pete Hegseth. The charges focus mainly on waging war against Iran without congressional approval, and also cite abuses of power and actions in Yemen and Venezuela. Filing the articles starts a two-day clock toward a possible House vote this week. Congressional sources told Reuters the measure may have the votes to pass, but Senate conviction appears unlikely. Trump, Speaker Mike Johnson and Secretary of State Marco Rubio defended Hegseth, while Democratic leaders Hakeem Jeffries and Chuck Schumer back the effort.
 
 **Key facts**
-- Massie said Hegseth "knowingly executed and implemented unlawful orders" and "remains a threat to the Constitution."
-- Republicans control both chambers until the new Congress convenes in January with Democrats in the majority.
-- If most Democrats back the measure, only a few Republicans would be needed for it to pass the House.
-- Johnson said impeachment "in the middle of hostilities abroad would be a terrible, terrible look."
-- Massie floated Florida Gov. Ron DeSantis as a possible replacement.
+- Massie introduced eight articles of impeachment on Monday.
+- Trump said Hegseth 'won two wars' and called Massie a 'stone-cold loser.'
+- Johnson said impeachment 'in the middle of hostilities abroad' would be 'a terrible thing for our allies and our enemies to see.'
+- Conviction requires two-thirds of the Senate, where Republicans hold 53 of 100 seats; Democrats take over Congress on Jan. 3.
+- William Belknap, impeached in 1876, is the only civilian military chief ever impeached.
 
 **How it's being framed**
-- **Left:** PBS/AP tied the push to election losses blamed partly on the Iran war, and quoted Massie, Trump, Johnson, Thune, Schumer and Hegseth. The Guardian's live blog emphasised Trump's personal attacks on Massie and his claim that Hegseth is winning in Iran.
-- **Center:** Axios and The Hill gave straightforward procedural coverage. Axios noted this could be the first impeachment of a Cabinet secretary in Trump's second term and called Massie a member "with little to lose."
-- **Right:** The libertarian Reason openly endorsed the impeachment and argued Trump bears ultimate responsibility for the war. The Washington Examiner highlighted Massie's suggestion of DeSantis as a successor and used the administration's term "War Secretary."
+- **Left:** The Guardian and PBS (AP) emphasized Trump's personal attacks on Massie, Democratic support from Jeffries and Schumer, and the link to election losses tied to the Iran war. The Guardian's live blog called Massie a 'senator' in places; other outlets identify him as a House member.
+- **Center:** Reuters (via The Korea Herald) set the vote in historical context with the Belknap comparison, laid out the vote math, and quoted both sides at length. Axios framed it as a preview of oversight under the incoming Democratic Congress.
+- **Right:** Reason, which is libertarian, argued Massie is right to impeach and tied the push to criticism of the Iran war and to congressional war powers. The Washington Examiner highlighted Massie's prediction that Hegseth is likely to resign before Democrat-led hearings.
 
 **Disputed or unclear**
-- Whether the House will hold a vote, and whether enough Republicans will support it.
-- Whether the Senate would hold a trial or dismiss the charges.
-- Trump's claim that Hegseth is "winning the war in Iran" is his own assessment.
+- Whether the House will hold a direct vote or table the resolution with a procedural motion.
+- Whether enough Republicans will join Democrats for it to pass.
+- Massie's claim of a 'high probability' that Hegseth resigns by year-end.
 
-**Why it matters:** It tests whether Congress will assert its war powers over the Iran conflict and signals the confrontations likely once Democrats take control in January.
+**Why it matters:** It would be the first impeachment of a Cabinet secretary in Trump's second term and a test of Congress's authority over war-making.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war) (center): Hegseth faces impeachment resolution from a GOP member with little to lose
-- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates) (lean-left): Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live
+- [The Korea Herald](https://www.koreaherald.com/article/10932039) (center): Pentagon chief Hegseth expected to face House impeachment vote
+- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates) (lean-left): Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened
 - [Reason](https://reason.com/podcast/2026/11/09/thomas-massie-is-right-to-impeach-pete-hegseth/) (lean-right): Thomas Massie Is Right To Impeach Pete Hegseth
-- [The Hill](https://thehill.com/video-clips/6208667-watch-live-thomas-massie-pete-hegseth-impeachment-articles-press-conference/) (center): Watch live: Massie speaks amid Hegseth impeachment drive
+- [Axios](https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war) (center): Hegseth faces impeachment resolution from a GOP member with little to lose
 - [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-live-rep-massie-speaks-after-filing-hegseth-impeachment-resolution) (lean-left): WATCH: Rep. Massie speaks after filing Hegseth impeachment resolution
-- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4797936/thomas-massie-suggests-ron-desantis-pete-hegseth-replacement-impeachment/) (lean-right): Massie suggests DeSantis as war secretary if Hegseth ousted in impeachment push
+- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4798235/massie-hegseth-resign-democrats-impeachment-hearings/) (lean-right): Massie sees ‘high probability’ Hegseth resigns before Democratic hearings
 
 
-## 3. Supreme Court lets border wall construction resume in Texas's Big Bend region
-`US Headlines` · Covered by 7 outlets (L 4 · C 1 · R 2)
+## 3. France blames Iranian Revolutionary Guards unit for supermarket fridge cyberattacks
+`AI & Cybersecurity` · Covered by 9 outlets (L 3 · C 6 · R 0)
 
-The Supreme Court on Monday granted the Trump administration's emergency request to pause a federal judge's October order that had halted border barrier construction in the Big Bend Sector of West Texas, including parts of Big Bend National Park. In an unsigned five-page decision, the court said federal law lets the homeland security secretary waive environmental laws, reflecting "a clear preference for expeditious border construction." Justice Ketanji Brown Jackson dissented without a written opinion. The lawsuit, brought by the Center for Biological Diversity, a church preservation group and local residents, continues in lower courts.
+France formally attributed October cyberattacks on refrigeration systems at about 700 retail sites to Shahid Kaveh, a cyber unit linked to Iran's Islamic Revolutionary Guard Corps. The attacks forced stores to discard food and, according to French authorities, caused at least 15 fires. Foreign Minister Jean-Noël Barrot called it the first large-scale cyber sabotage on French soil, summoned Iran's ambassador, and vowed EU-level sanctions. Paris prosecutors opened a judicial investigation into the unit's leader and two deputies and are seeking international arrest warrants. Similar attacks have since hit stores in other European countries, but France has not attributed those.
 
 **Key facts**
-- The decision was unsigned and five pages long; Justice Jackson was the lone dissenter.
-- U.S. District Judge Kathleen Cardone had halted construction on Oct. 2.
-- The Big Bend Sector covers roughly a quarter of the US-Mexico border but accounted for 1.3% of apprehensions in 2025, according to Reuters as cited by Fox News.
-- The court wrote that the government's interest "outweighs any aesthetic, recreational, and environmental harm alleged."
+- About 700 retail sites were targeted in attacks around Oct. 11–12.
+- Investigators cited shared infrastructure, a link to a propaganda outlet, Farsi-language traces and Iran-linked IP addresses.
+- Small hydroelectric installations using Schneider Electric equipment were also targeted, with 'moderate effects.'
+- Intermarché reported losses of 'tens of millions of euros' in a single day.
+- US Secretary of State Rubio said 'it does not surprise us.'
 
 **How it's being framed**
-- **Left:** The Guardian and NPR gave substantial space to plaintiffs and the Center for Biological Diversity's condemnation, stressed bipartisan local opposition and the region's low crossing numbers, and also quoted the administration's border-security arguments.
-- **Center:** The Hill framed the ruling briefly as a win for the Trump administration.
-- **Right:** Fox News emphasised the administration's cartel and drug-smuggling rationale and noted most construction will be on private land, while also citing the low apprehension figures. The Daily Caller framed the ruling against Texas's recent Democratic election sweep and noted the judges' appointing presidents.
+- **Left:** NPR placed the attacks in a wider 2026 trend of attacks on refrigeration systems, including suspected incidents at US military commissaries that the Pentagon has not confirmed. PBS (AP) detailed the legal response and the 50°C temperatures. Al Jazeera ran a short video item. PBS noted that Iran consistently denies malicious cyber operations.
+- **Center:** The Korea Herald (AFP) and BleepingComputer focused on the technical attribution, the affected chains and the scale of damage. Axios stressed the shift by Iranian hackers toward sabotaging physical equipment.
 
 **Disputed or unclear**
-- Outlets differ on the barrier types: the Guardian cites six-foot vehicle barriers, NPR describes 30-foot steel barriers, and Fox says the park section will not have 30-foot pedestrian fencing.
-- Whether construction in the park is needed for border security is disputed between the administration and the plaintiffs.
-- The final legal outcome is still pending.
+- Outlets give slightly different dates (Oct. 11–12 vs. Oct. 12) and different scopes for the November wave (at least nine countries vs. 115+ stores in six countries).
+- Who carried out the later European and blood-bank attacks has not been officially determined.
+- Iran's response to this specific attribution is not reported beyond its general denials.
 
-**Why it matters:** The ruling lets construction go ahead in a cherished national park before the courts decide whether it is lawful, and it reinforces the government's broad power to waive environmental laws at the border.
+**Why it matters:** It is a rare formal attribution of state-backed cyber sabotage against everyday infrastructure in Europe.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10932047) (center): France: Iran behind cyberattacks on fridges
+- [NPR](https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks) (lean-left): France accuses Iran of cyber 'sabotage' in fridge attacks
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/) (center): France blames Iranian hackers for supermarket attacks that sparked fires
+- [PBS NewsHour](https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges) (lean-left): France blames Iran for last month's cyberattack on supermarket fridges
+- [Axios](https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks) (center): France says Iranian hackers sabotaged supermarket refrigerators
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack) (lean-left): France blames Iran for October supermarket cyberattack
+
+
+## 4. Supreme Court lets border construction resume in Texas's Big Bend region
+`US Headlines` · Covered by 6 outlets (L 4 · C 1 · R 1)
+
+The Supreme Court, in an unsigned order, paused a federal judge's injunction that had halted border barrier construction in the Big Bend region of Texas, including parts of the national park, while litigation continues. The majority said the government's interest outweighs the environmental, aesthetic and recreational harms the plaintiffs alleged, and that the lower court likely lacked jurisdiction under a 1996 immigration law. Justice Ketanji Brown Jackson was the lone dissenter and did not explain her reasoning. The Center for Biological Diversity, a church preservation group and a local river guide/landowner brought the suit; the project has drawn bipartisan local opposition.
+
+**Key facts**
+- The order is unsigned and five pages long, with only Justice Jackson dissenting.
+- District Judge Kathleen Cardone had blocked the construction in October.
+- Cardone noted the Big Bend sector covers over 25% of the border but only 0.3–2.2% of apprehensions.
+- The court said 'there is no such thing as a constitutional major-questions claim.'
+
+**How it's being framed**
+- **Left:** The Guardian, NPR and Al Jazeera emphasized environmental and cultural concerns, quoted the Center for Biological Diversity at length, and highlighted bipartisan local backlash and low crossing numbers. They also included the administration's argument that gaps create a 'funnel point' for crossings.
+- **Center:** The Hill framed it briefly as a win for the Trump administration that halts the lower-court pause.
+- **Right:** The Daily Caller framed it as Trump getting a 'green light,' noted that Texas just elected a Democratic governor, quoted the court on 'compelling interests' in border security, and noted the appointing presidents of the judges.
+
+**Disputed or unclear**
+- Descriptions of the project differ: '300+ miles of six-foot vehicle barriers' (Guardian) vs. '30-foot-tall steel barriers' (NPR) across a roughly 500-mile sector.
+- The final outcome of the underlying lawsuit is still pending.
+
+**Why it matters:** It allows construction that could permanently alter a national park before the courts rule on whether it is legal.
 
 **Read it yourself:**
 - [The Hill](https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/) (center): Supreme Court allows Big Bend border construction to continue in Texas, siding with Trump
 - [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend) (lean-left): US supreme court clears way for Trump’s border wall in Texas’s Big Bend
-- [Fox News](https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend) (right): SCOTUS allows Trump admin to temporarily resume border construction in Texas' Big Bend
-- [NPR](https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump) (lean-left): Supreme Court says border wall construction can continue in west Texas
 - [The Daily Caller](https://dailycaller.com/2026/11/09/supreme-court-greenlights-trump-border-wall-texas) (right): Supreme Court Greenlights Trump Border Wall In State That Just Turned Blue
 - [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend) (lean-left): News Wrap: Supreme Court allows border wall construction in Big Bend
+- [NPR](https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump) (lean-left): Supreme Court says border wall construction can continue in west Texas
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed) (lean-left): US Supreme Court allows border wall in Big Bend National Park to proceed
 
 
-## 4. Dana White declines Trump's press secretary offer at White House briefing
-`US Headlines` · Covered by 6 outlets (L 1 · C 3 · R 2)
+## 5. Trump says Iran war 'effectively over' but keeps naval blockade
+`US Headlines` `Korea` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
 
-UFC CEO Dana White joined President Trump at an impromptu White House briefing on Monday, days after Trump posted that he would make White press secretary and then said he was "kidding." Trump said he floated the idea during "a very bad press day." When Trump asked him on the spot, White declined, saying he did not want to be involved in politics. White also praised Trump's toughness and fielded questions on a hypothetical Trump-Biden fight and a possible Pete Rose pardon.
-
-**Key facts**
-- White said: "I do not want to be involved in politics, no."
-- Trump replied: "I am devastated to hear this. Goodbye, everybody."
-- Trump shared AI-generated videos of White as press secretary hours before the briefing.
-- Trump reiterated that he favors pardoning Pete Rose.
-
-**How it's being framed**
-- **Left:** The Guardian ran a short video item on Trump saying he was "only kidding."
-- **Center:** Newsweek called the event "wild" and focused on the on-the-spot job offer; BBC and The Hill reported it briefly and straightforwardly.
-- **Right:** Fox News quoted White's praise of Trump's resilience at length and noted White never explicitly told Trump "no" in private. The Washington Examiner noted Trump opened the briefing by saying military operations in Iran likely would not resume.
-
-**Disputed or unclear**
-- Whether the offer was ever serious remains unclear: Trump has called it a joke but asked White again publicly.
-
-**Why it matters:** The episode shows the informal, unconventional way the White House is handling a key communications role after a difficult news cycle.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/top-takeaways-from-trumps-wild-white-house-press-event-with-dana-white-12691042) (center): Top Takeaways From Trump's Wild White House Press Event With Dana White
-- [The Guardian (US)](https://www.theguardian.com/us-news/video/2026/nov/09/donald-trump-kidding-about-making-ufc-boss-dana-white-us-press-secretary-video) (lean-left): Donald Trump 'kidding' about making UFC boss Dana White US press secretary – video
-- [Fox News](https://www.foxnews.com/politics/dana-white-takes-questions-podium-during-white-house-briefing-trump) (right): Dana White takes questions at podium during White House briefing with Trump
-- [BBC News (World)](https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss) (center): Dana White declines Trump’s offer to be White House press secretary
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4798002/trump-says-he-floated-dana-white-for-press-secretary-during-very-bad-press-day-as-joke/) (lean-right): Trump says he floated Dana White for press secretary during ‘very bad press day’
-- [The Hill](https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/) (center): Dana White takes podium at White House press briefing
-
-
-## 5. France blames Iran's Revolutionary Guard for cyberattacks on supermarket refrigerators
-`AI & Cybersecurity` · Covered by 5 outlets (L 2 · C 3 · R 0)
-
-France formally attributed October cyberattacks on refrigeration controllers at about 700 French retail sites to Shahid Kaveh, a cyber unit linked to Iran's Islamic Revolutionary Guard Corps. Officials say the attacks spoiled tens of millions of euros of food and caused at least 15 fires. Foreign Minister Jean-Noël Barrot called the attack "unprecedented in both its scale and its level of aggression," summoned Iran's ambassador and promised to seek EU sanctions. Paris prosecutors opened a judicial investigation into the unit's leader and two deputies and are seeking international arrest warrants. France's attribution does not cover a second wave of similar attacks in early November across other European countries.
+After meeting Qatar's prime minister, President Trump said the war in Iran 'militarily is effectively over' and that resuming strikes seems 'quite unlikely.' He said the US remains 'locked and loaded.' He said Gulf allies prefer the 'status quo,' meaning continuation of the US naval blockade, and pointed to 'positive momentum' in indirect talks. Iran is demanding concessions before nuclear talks, including an end to the blockade, sanctions relief and compensation. Oil prices fell on the news, according to Al Jazeera.
 
 **Key facts**
-- The attacks took place overnight on Oct. 11–12, with fridge temperatures reaching about 50C for around six hours.
-- Investigators cited Farsi text traces, IP addresses linked to Iran, and infrastructure shared with earlier reconnaissance of Schneider Electric equipment.
-- Small hydroelectric plants were also targeted, with "moderate effects."
-- The BBC reported the targeted software was supplied by Danish firm Danfoss.
-- US agencies have previously linked Shahid Kaveh to the CyberAv3ngers group and attacks on US water utilities.
+- Trump: 'We're keeping it going. We have the greatest military blockade ever.'
+- Officials said Qatar presented proposals on Iran's nuclear program last week.
+- Iran's demands include ending the blockade, lifting sanctions, unfreezing assets, war compensation and ending regional hostilities.
+- Republicans lost both chambers of Congress, an outcome the articles link partly to the war.
 
 **How it's being framed**
-- **Left:** NPR and PBS/AP centered on Barrot's statements and the prosecutors' action, and placed the attacks within a wider trend, including hits on a blood bank, other European grocers, an Israeli plant and US military commissaries.
-- **Center:** BleepingComputer and The Record gave technical detail on the attribution evidence and named commanders. The BBC noted Iranian media dismissed the claims and raised the open question of whether the attacks were part of an Iranian deterrence strategy.
+- **Left:** The Guardian noted that Trump has repeatedly exaggerated how close a deal is, and raised speculation that escalation was being held until after the midterms. It cited JD Vance blaming the war for the losses. Al Jazeera led with Iran demanding the US 'surrender' to its conditions and with falling oil prices.
+- **Center:** AP (via The Korea Herald) called these Trump's most definitive comments against resuming strikes. It noted his past pattern of threatening escalation and then backing down, and that he gave no hint of a troop drawdown.
 
 **Disputed or unclear**
-- Iran has not responded officially; some Iranian media called the allegations baseless.
-- Whether the November wave and the August incidents at US military bases are linked to the same actors remains unconfirmed.
-- Outlets differ on how many countries the second wave hit (six countries vs. at least 11).
+- Whether a deal is near: Trump cites momentum, while Iran's demands remain unmet.
+- The war's length is given as 8 months (AP) and nearly nine months (Guardian).
 
-**Why it matters:** It is the first formal government attribution of a large-scale sabotage campaign against food and other critical infrastructure in Europe, and it could lead to EU sanctions.
+**Why it matters:** The war's direction affects fuel prices, the global economy and US troop deployments.
 
 **Read it yourself:**
-- [BleepingComputer](https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/) (center): France blames Iranian hackers for supermarket attacks that sparked fires
-- [NPR](https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks) (lean-left): France accuses Iran of cyber 'sabotage' in fridge attacks
-- [The Record (Recorded Future News)](https://therecord.media/france-blames-iran-for-fridge-cyberattacks) (center): France blames Iran for fridge cyberattacks, says some caused fires
-- [PBS NewsHour](https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges) (lean-left): France blames Iran for last month's cyberattack on supermarket fridges
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss) (center): France accuses Iran of supermarket fridge hacking
+- [The Korea Herald](https://www.koreaherald.com/article/10932142) (center): Trump: Iran war 'effectively over'
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war) (lean-left): Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns
+- [Al Jazeera English](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender) (lean-left): Iran war live: Iran demands US ‘surrender’ to its conditions
 
 
-## 6. Diesel spill at Atrium Health Mercy hospital reaches Charlotte creek
-`Charlotte Local` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 6. California voters reject one-time 5% wealth tax on billionaires
+· Covered by 6 outlets (L 2 · C 1 · R 3)
 
-About 2,000 gallons of red-dyed diesel leaked from an above-ground storage tank at Atrium Health Mercy Hospital on Vail Avenue over the weekend, and about 800 gallons reached a tributary of Briar Creek through the Elizabeth neighborhood. The EPA is leading a multi-agency cleanup using booms, pads and vacuum trucks. Officials told residents and pets to stay out of the creek. Atrium says the spill is contained and the cause is under investigation, but neighborhood leaders say the hospital has not communicated with them.
+California voters rejected Proposition 40, a one-time 5% tax on residents worth more than $1 billion that supporters said would raise about $100 billion, mainly for healthcare. The measure was backed by the union SEIU-UHW, Bernie Sanders, Ro Khanna and the state Democratic Party. Gov. Gavin Newsom, both major governor candidates and a leading teachers union opposed it. Billionaires led by Google co-founder Sergey Brin spent heavily against it and placed two counter-measures on the ballot. SEIU-UHW says it will try again in 2028.
 
 **Key facts**
-- Stormwater Services attributes the spill to an equipment failure.
-- Volume estimates are preliminary and under investigation.
-- Atrium reported no impact on patient care and no injuries.
-- Residents are asked to call 311 if they see or smell anything unusual.
+- The AP called the race on Monday; most outlets report 52.8% no to 47.2% yes.
+- Supporters estimated about $100 billion in revenue; the Legislative Analyst's Office projected 'tens of billions.'
+- Props 41 and 42 were designed to nullify Prop 40 if they received more votes.
+- San Francisco and Los Angeles counties voted in favor; Orange and San Diego counties voted against.
 
 **How it's being framed**
-- **Left:** WFAE focused on residents' concerns about smell, property damage and Atrium's lack of outreach, quoting the Elizabeth Community Association leader.
-- **Center:** WSOC and WBTV reported the facts of the spill and the cleanup, relying on official statements from the city and Atrium.
+- **Left:** The Guardian framed it as billionaires winning the most expensive opposition campaign in state history and called Props 41 and 42 'poison pills,' as supporters did. NPR emphasized the Democratic divisions and the fact that opponents outspent supporters at least five to one.
+- **Center:** The BBC explained the measure, its link to federal healthcare cuts, Newsom's fear that it would drive out the wealthy, and the union's pledge to return in 2028.
+- **Right:** Reason highlighted billionaire departures and a Stanford study finding a possible net revenue loss, and quoted a celebratory post from an opponent. The New York Post called it a setback for the progressive agenda. The Washington Examiner said it dashed liberal hopes for a national wealth tax trial balloon.
 
 **Disputed or unclear**
-- The spill's timing is reported as both Saturday night and Sunday.
-- The final amount spilled will not be known until cleanup is complete.
-- The cause is still under investigation.
+- Spending figures conflict: opposition raised about $130 million (Reason) vs. nearly $425 million (Guardian); Brin's contribution is put at roughly $100–132 million.
+- The Washington Examiner reported 53.8% against, versus 52.8% elsewhere.
+- How much revenue the tax would have produced, net of departures, is contested.
 
-**Why it matters:** Residents of the Elizabeth neighborhood and pet owners near the creek should avoid the water until officials say conditions are back to normal.
+**Why it matters:** The vote is an early test for wealth taxes that could shape similar efforts in other states and nationally.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/atrium-health-investigates-fuel-spill-into-nearby-creek/3IJGWK5LIVABJJYHWHWYD4A5FE/) (center): EPA takes lead on diesel spill in Mecklenburg County waterway
-- [WFAE (Charlotte NPR)](https://www.wfae.org/energy-environment/2026-11-09/residents-concerned-over-lack-of-communication-after-atrium-health-diesel-spill) (lean-left): Residents concerned over lack of communication after Atrium Health diesel spill
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/weekend-fuel-spill-reported-hospital-charlotte-what-know/) (center): Weekend fuel spill reported at hospital in Charlotte: What to know
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss) (center): Californians reject wealth tax for billionaires
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40) (lean-left): California voters fail to pass proposed one-time tax on billionaires’ wealth
+- [Reason](https://reason.com/2026/11/09/california-voters-reject-5-billionaire-wealth-tax/) (lean-right): California Voters Reject 5% Billionaire Wealth Tax
+- [NPR](https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum) (lean-left): California voters defeat billionaire tax proposal that divided Democrats
+- [New York Post](https://nypost.com/2026/11/09/us-news/california-voters-officially-reject-controversial-billionaire-tax-in-setback-for-progressive-agenda/) (lean-right): California voters officially reject controversial billionaire tax in setback for progressive agenda
+- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/) (lean-right): California billionaire wealth tax fails, dashing liberal dreams
 
 
-## 7. Charlotte warm through midweek before season's coldest air arrives
+## 7. Russell Brand sentenced to 10.5 years for rape and sexual assaults
+· Covered by 6 outlets (L 2 · C 2 · R 2)
+
+British comedian Russell Brand, 51, was sentenced at Southwark Crown Court to 10 years and six months after a jury convicted him of one rape and three sexual assaults committed between 2004 and 2009. He was acquitted on three other counts. Judge Joel Bennathan called him a 'predator,' and victims gave impact statements; Brand denies the charges. Separately, Jemima Goldsmith said Brand physically assaulted her in 2014. Police say Brand remains under investigation over other allegations.
+
+**Key facts**
+- He must serve at least two-thirds of the sentence before possible supervised release.
+- Six women testified during a four-week trial.
+- He was acquitted of two rape counts and one count of attempted indecent assault.
+- UK Prime Minister Andy Burnham praised the survivors' bravery.
+
+**How it's being framed**
+- **Left:** NPR focused on the victim impact statements and on Brand's arc from left-wing celebrity to figure popular on the US right. The Guardian focused on Goldsmith's allegations of violence and coercive control.
+- **Center:** DW and The Hill gave straightforward accounts of the sentence, the judge's remarks and Brand's background.
+- **Right:** The Daily Caller reported the sentence and courtroom details, noting the ongoing police investigation. The New York Post focused on claims that Brand faces danger in HMP Wandsworth, citing an ex-inmate and prison watchdog reports.
+
+**Disputed or unclear**
+- Brand denies all charges, and the articles do not say whether he will appeal.
+- Goldsmith's assault allegation has not been tested in court.
+- Ex-inmate claims about Brand's safety in prison are unverified.
+
+**Why it matters:** It is one of the most prominent convictions of a celebrity for sexual offences in the UK.
+
+**Read it yourself:**
+- [Deutsche Welle](https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf) (center): Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions
+- [NPR](https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced) (lean-left): British comedian Russell Brand sentenced to over 10 years for rape and sexual assault
+- [New York Post](https://pagesix.com/2026/11/09/celebrity-news/russell-brand-warned-by-ex-con-that-he-is-a-a-dead-man-walking-inside-current-prison/) (lean-right): Russell Brand is a ‘dead man walking’ inside current prison, warns ex-inmate
+- [The Hill](https://thehill.com/blogs/in-the-know/in-the-know/6207523-russell-brand-sentenced-to-10-1-2-years-for-rape-and-sexual-assaults/) (center): Russell Brand sentenced to 10 1/2 years for rape and sexual assaults
+- [The Guardian (World)](https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her) (lean-left): Jemima Goldsmith says ex-partner Russell Brand physically assaulted her
+- [The Daily Caller](https://dailycaller.com/2026/11/09/comedian-russell-brand-sentenced-ten-years-six-months-jail-rape-sexual-assault-convicted) (right): Russell Brand Sentenced To Ten Years Behind Bars In Bombshell Rape Case
+
+
+## 8. South Carolina man charged after police say he left daughter, 6, asleep in Target line
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 1 · R 1)
+
+Charleston police charged 35-year-old John-Michael Dooley with unlawful conduct toward a child. Police say he left his sleeping 6-year-old daughter with a pillow and blanket outside a West Ashley Target to hold his place in line overnight for a Pokémon card release. Customers called police after about an hour, and Dooley was arrested when he returned. Police say he admitted going home. The girl was unharmed and placed in the custody of the state Department of Social Services.
+
+**Key facts**
+- Police responded around 2:30 a.m.
+- The charge is unlawful conduct toward a child.
+- The girl was unharmed and placed with SC DSS.
+
+**How it's being framed**
+- **Center:** WBTV gave a brief factual police account.
+- **Right:** Fox News gave a similar account, with added detail on the card set and the collector market, and noted Dooley's release from jail.
+
+**Disputed or unclear**
+- The arrest date differs: Nov. 7 (WBTV) vs. Nov. 6 (Fox News).
+
+**Why it matters:** It is a local child-safety case tied to the frenzy around collectible card releases.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/10/south-carolina-man-accused-leaving-sleeping-daughter-hold-his-spot-outside-target-pokmon-cards/) (center): South Carolina man accused of leaving sleeping daughter outside Target to wait for Pokémon cards
+- [Fox News](https://www.foxnews.com/us/south-carolina-dad-left-sleeping-6-year-old-line-pokemon-cards-target-police) (right): South Carolina dad left sleeping 6-year-old in line for Pokémon cards at Target: police
+
+
+## 9. North Korea tests new high-speed torpedo, plans deployment in early 2027
+`Korea` `Asia Business & Politics` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+North Korean state media said defense institutes test-fired a new high-speed torpedo in the East Sea on Monday and plan to deploy it with the navy in early 2027. KCNA gave no specifications or photos but said the test confirmed propulsion technology developed over more than 180 tests in five years. A South Korean unification ministry official said the test appears aimed at showing off naval power and that more analysis is needed. It follows a string of recent naval weapons tests and destroyer commissionings.
+
+**Key facts**
+- The test took place Monday in the East Sea, with deployment planned for early 2027.
+- KCNA cited more than 180 tests over five years.
+- Last month North Korea tested an AI-guided torpedo.
+
+**How it's being framed**
+- **Center:** Yonhap, the Korea Herald and CNA relied on KCNA's account and placed the test within Pyongyang's broader naval buildup. Yonhap added South Korean government comment.
+
+**Disputed or unclear**
+- The torpedo's capabilities are unverified, since no specifications or images were released.
+
+**Why it matters:** It signals continued expansion of North Korea's naval and underwater strike capabilities.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261110001251315) (center): (LEAD) N. Korea tests new torpedo, eyes early 2027 deployment
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/north-korea-tests-high-speed-torpedo-system-6537691) (center): North Korea tests new 'high-speed' torpedo system
+- [The Korea Herald](https://www.koreaherald.com/article/10931562) (center): N. Korea tests new torpedo, eyes early 2027 deployment
+
+
+## 10. Charlotte council approves airline lease enabling $2.1 billion airport expansion
 `Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Charlotte will see highs in the 70s through Wednesday, followed by a strong cold front on Thursday with limited rain. Highs Friday through Monday are expected only in the 50s, and the first frost is likely Saturday and Sunday mornings. Snow showers are possible in the North Carolina mountains late Thursday and Friday.
+Charlotte City Council approved a 10.5-year airline lease at Charlotte Douglas International Airport, keeping American Airlines' hub and clearing the way for about $2.1 billion in projects, including an expanded Concourse C. American's gates will grow from 93 to 109. Consumer advocates and the SEIU sought a delay over concerns about competition, fares and subcontractor conditions; more than 50 people signed up to speak. Sen. Thom Tillis had threatened to pursue an independent airport authority if the council rejected the deal.
 
 **Key facts**
-- Frost advisories are in effect Monday night for Stanly, Anson and Richmond counties.
-- About an inch of snow is possible in Ashe, Watauga and Avery counties.
-- Rain chances Thursday are below 50-50 around Charlotte.
+- The lease runs 10.5 years and supports about $2.1 billion in projects.
+- American's gates rise from 93 to 109.
+- The airlines' share of airport revenue rises to 40–45%.
+- State law bars Charlotte from setting a minimum wage for subcontractor workers.
 
 **How it's being framed**
-- **Center:** All three local stations gave similar straightforward forecasts.
-
-**Why it matters:** Residents should prepare for frost and a sharp temperature drop this weekend.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/09/warm-start-week-autumn-cold-snap-looms-forecast-here/) (center): Warm start to the week, but autumn cold snap looms: Forecast here
-- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/warm-start-to-the-week-in-the-carolinas-with-the-coldest-air-of-the-season-so-far-on-the-way/) (center): Warm start to the week in the Carolinas with the coldest air of the season so far on the way
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550) (center): Warm start, cold finish: Charlotte’s weather changes this week
-
-
-## 8. Former US officials say North Korea's nuclear-status demand could block a Trump-Kim summit
-`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-Former Deputy Secretary of State Kurt Campbell said his understanding is that North Korea has told the US it would consider a summit only if Washington accepts it as a nuclear power. Campbell said that would be "almost impossible" for Trump to accept and predicted little more than "a handshake of sorts." Former special representative Stephen Biegun was also skeptical, warning of "performative summitry," though he said engagement could help stability. The remarks come ahead of Trump's trip to the ASEAN summit in Manila and the APEC summit in Shenzhen.
-
-**Key facts**
-- Trump and Kim met three times in Trump's first term: in Singapore, Hanoi and Panmunjom.
-- Campbell spoke at an Asia Group briefing; Biegun spoke at a Stimson Center–Sejong Institute event.
-
-**How it's being framed**
-- **Center:** Yonhap and the Korea Herald ran the same Yonhap report, framed around expert skepticism of summit prospects.
+- **Center:** Local stations framed it as an economic lifeline. WSOC included critics' 'hub tax' argument and union concerns, and WCNC highlighted the public opposition.
 
 **Disputed or unclear**
-- North Korea's reported condition rests on Campbell's "understanding" and has not been confirmed by either government.
+- Whether the expansion will raise local fares, as consumer advocates argue.
 
-**Why it matters:** It shapes expectations for any Trump-Kim meeting during his Asia trip this month.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261110000551315) (center): (LEAD) N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-U.S. official
-- [The Korea Herald](https://www.koreaherald.com/article/10931586) (center): N. Korea's nuclear power recognition demand could hinder prospects for Trump-Kim summit: ex-US official
-
-
-## 9. IAEA chief welcomes South Korea's nonproliferation pledge amid nuclear submarine plans
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-IAEA Director General Rafael Grossi welcomed South Korea's commitment to its nonproliferation obligations after meeting Vice Foreign Minister Jeong Yeon-doo. Seoul is pursuing the Jang Bogo N project to build nuclear-powered, conventionally armed submarines under an agreement with the United States.
-
-**Key facts**
-- The first submarine is to be launched in the mid-2030s and fielded after the late 2030s.
-- The US has consented to fuel enriched to below 20 percent.
-- South Korea plans to procure small modular reactors for the submarines' propulsion.
-
-**How it's being framed**
-- **Center:** Both outlets ran the same Yonhap report, which relays Grossi's statement without criticism.
-
-**Why it matters:** South Korea's nuclear submarine program is a significant step for regional security, and international oversight of it matters.
+**Why it matters:** The deal shapes air travel costs and the regional economy for the next decade.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261110000200315) (center): IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans
-- [The Korea Herald](https://www.koreaherald.com/article/10931569) (center): IAEA chief welcomes S. Korea's nonproliferation commitment amid nuclear submarine plans
-
-
-## 10. Nvidia shares fall after board opens probe into CEO Huang
-`AI & Cybersecurity` `Asia Business & Politics` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-Nvidia shares dropped on Monday after the company launched an internal investigation into whether CEO Jensen Huang was targeted by a foreign intelligence operation. The Hill reported the stock opened down 7.3%, while premarket declines of nearly 5% implied a loss of about $250 billion in value. Nvidia said its board has confidence in Huang, and some analysts said he has no natural successor. Huang's daughter Madison canceled a planned Seoul visit.
-
-**Key facts**
-- Shares fell to about $170.24 in early trading, according to The Hill.
-- Huang holds a roughly 3.6% stake, according to LSEG data.
-- TSMC closed 4.7% higher on the same day.
-
-**How it's being framed**
-- **Center:** The Korea Herald (Reuters) and The Hill focused on market impact and Huang's importance, quoting an analyst who doubted Huang would be replaced and including China's denial.
-
-**Disputed or unclear**
-- How much of the drop reflects the scandal versus the wider AI-stock selloff from the previous week.
-
-**Why it matters:** Nvidia is central to the AI boom, so its stock moves affect many investors and markets.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10931215) (center): Nvidia's shares slide as chip giant probes CEO over spy claims
-- [The Hill](https://thehill.com/policy/technology/6207787-jensen-huang-affair-nvidia-stock-falls/) (center): Nvidia stock slides after company launches probe into Huang
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-city-council-vote-21b-airport-expansion-plan/5LVOOBAG5BAEFH3Z2ZWSMB3JNQ/) (center): Charlotte City Council approves $2.1B airport expansion plan
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/charlotte-leaders-approve-new-10-5-year-2-billion-airport-lease/) (center): Charlotte leaders approve new 10.5-year, $2 billion airport lease
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/charlotte-city-council-approves-105-year-airline-lease-extension-after-controversy/275-9554f387-2180-4318-be48-e48aded5190d) (center): Charlotte City Council approves 10.5-year airline lease extension after controversy
 
 
 ---
@@ -289,4 +308,4 @@ Nvidia shares dropped on Monday after the company launched an internal investiga
 
 ### What is happening with AI regulation in the US and EU?
 
-None of today's articles address AI regulation in the US or EU. The closest item is a congressional proposal to review advanced chip export sales, reported in the Nvidia story.
+No articles in this edition address AI regulation in the US or EU. The Nvidia story concerns alleged espionage rather than regulation.

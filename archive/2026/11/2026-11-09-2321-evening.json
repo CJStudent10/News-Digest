@@ -1,0 +1,808 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-10T04:21:20.405894+00:00",
+  "local_time": "Monday, November 9, 2026 · 11:21 PM EST",
+  "local_date": "Nov 9, 2026",
+  "slug": "2026-11-09-2321-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by fallout from the US midterms, which the articles say Democrats won, and the Iran war. Rep. Thomas Massie filed impeachment articles against Defense Secretary Pete Hegseth, and President Trump called the Iran war 'effectively over.' Also covered: Nvidia CEO Jensen Huang's acknowledged affair with an alleged Chinese agent, France blaming Iran for cyber sabotage of supermarket fridges, a Supreme Court order allowing border construction in Big Bend, California's rejection of a billionaire wealth tax, Russell Brand's prison sentence, and several regional stories.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump says FBI is looking into Nvidia CEO's affair with alleged Chinese agent",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Nvidia CEO Jensen Huang has acknowledged an extramarital affair with Alice Huang (no relation), a former executive at Singapore-based AI computing firm Megaspeed. The New York Times reported that US intelligence identified her as working for Beijing. President Trump said the FBI is 'looking into it' but that Huang will be 'in good shape,' and that Huang told him he had no idea the woman was a spy. Nvidia has opened an independent investigation, Huang says he will cooperate fully, and congressional Democrats want a briefing. China called the spy allegation an 'unsubstantiated' smear, and Trump is due to meet Xi Jinping at APEC next week.",
+      "key_facts": [
+        "Huang apologized in an open letter and said: 'I support the investigation and will cooperate fully.'",
+        "Nvidia and Huang say they have 'no reason to believe that either national security or NVIDIA secrets were compromised.'",
+        "Sen. Mark Warner and Rep. Hakeem Jeffries said they want to investigate further; Jeffries called for 'a full briefing.'",
+        "China's foreign ministry spokesperson Guo Jiakun called the allegation 'nothing but smears against China.'",
+        "The Verge, citing reports, says Megaspeed bought $4.8 billion of Nvidia chips."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge offered an explainer, partly sardonic in tone. It stressed Nvidia's market power, Huang's closeness to Trump, and NYT reports that Trump was briefed on the relationship about a year ago without acting, and that Marco Rubio helped draft a memo about it. The Guardian ran the story as video alongside Trump's defense of Hegseth."
+        },
+        {
+          "lean": "center",
+          "framing": "AP's report (via The Korea Herald) focused on Trump inserting himself into a counterintelligence matter, the congressional interest, China's denial, and the APEC meeting with Xi. Axios centered on who Alice Huang is and the stakes for the US-China AI race."
+        },
+        {
+          "lean": "right",
+          "framing": "A Fox News opinion piece called the episode a 'honeytrap' and said Huang owes America an apology and investors answers. It framed the issue around national security and the AI race with China, and cited reporting that Megaspeed is being investigated for alleged chip smuggling. Fox Business led with China's denial."
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang was a Chinese intelligence agent rests on reported US intelligence findings; China denies it.",
+        "Whether any Nvidia or national security information was compromised is unknown.",
+        "What Trump knew and when: NYT reports say he was briefed about a year ago; Trump says Huang had no idea.",
+        "Fox's report, citing the Financial Times, that Alice Huang boasted of securing chips possibly on the black market is unverified in the other articles."
+      ],
+      "why": "Nvidia makes the chips at the heart of the US-China AI competition, so any compromise of its leadership could carry national security consequences.",
+      "coverage": {
+        "left": 4,
+        "center": 10,
+        "right": 2
+      },
+      "n_outlets": 16,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says FBI is looking at Nvidia CEO Jensen Huang's affair with alleged Chinese agent",
+          "url": "https://www.koreaherald.com/article/10932141",
+          "published": "2026-11-10T03:45:43+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-09T23:07:59+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "REBECCA GRANT: Jensen Huang owes America an apology, and Nvidia owes investors answers",
+          "url": "https://www.foxnews.com/opinion/rebecca-grant-jensen-huang-owes-america-apology-nvidia-owes-investors-answers",
+          "published": "2026-11-09T21:56:52+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+          "url": "https://www.axios.com/2026/11/09/alice-huang-nvidia-jensen-megaspeed",
+          "published": "2026-11-09T21:47:48+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
+          "published": "2026-11-10T01:40:32+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "China denies spy plot targeting Nvidia CEO Jensen Huang, calls allegations ‘smear’",
+          "url": "https://www.foxbusiness.com/technology/china-denies-spy-plot-targeting-nvidia-ceo-jensen-huang-calls-allegations-smear",
+          "published": "2026-11-09T17:15:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Rep. Massie files impeachment articles against Defense Secretary Hegseth",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Thomas Massie, a Kentucky Republican defeated in his primary this year, introduced eight articles of impeachment against Defense Secretary Pete Hegseth. The charges focus mainly on waging war against Iran without congressional approval, and also cite abuses of power and actions in Yemen and Venezuela. Filing the articles starts a two-day clock toward a possible House vote this week. Congressional sources told Reuters the measure may have the votes to pass, but Senate conviction appears unlikely. Trump, Speaker Mike Johnson and Secretary of State Marco Rubio defended Hegseth, while Democratic leaders Hakeem Jeffries and Chuck Schumer back the effort.",
+      "key_facts": [
+        "Massie introduced eight articles of impeachment on Monday.",
+        "Trump said Hegseth 'won two wars' and called Massie a 'stone-cold loser.'",
+        "Johnson said impeachment 'in the middle of hostilities abroad' would be 'a terrible thing for our allies and our enemies to see.'",
+        "Conviction requires two-thirds of the Senate, where Republicans hold 53 of 100 seats; Democrats take over Congress on Jan. 3.",
+        "William Belknap, impeached in 1876, is the only civilian military chief ever impeached."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS (AP) emphasized Trump's personal attacks on Massie, Democratic support from Jeffries and Schumer, and the link to election losses tied to the Iran war. The Guardian's live blog called Massie a 'senator' in places; other outlets identify him as a House member."
+        },
+        {
+          "lean": "center",
+          "framing": "Reuters (via The Korea Herald) set the vote in historical context with the Belknap comparison, laid out the vote math, and quoted both sides at length. Axios framed it as a preview of oversight under the incoming Democratic Congress."
+        },
+        {
+          "lean": "right",
+          "framing": "Reason, which is libertarian, argued Massie is right to impeach and tied the push to criticism of the Iran war and to congressional war powers. The Washington Examiner highlighted Massie's prediction that Hegseth is likely to resign before Democrat-led hearings."
+        }
+      ],
+      "disputed": [
+        "Whether the House will hold a direct vote or table the resolution with a procedural motion.",
+        "Whether enough Republicans will join Democrats for it to pass.",
+        "Massie's claim of a 'high probability' that Hegseth resigns by year-end."
+      ],
+      "why": "It would be the first impeachment of a Cabinet secretary in Trump's second term and a test of Congress's authority over war-making.",
+      "coverage": {
+        "left": 4,
+        "center": 7,
+        "right": 2
+      },
+      "n_outlets": 13,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pentagon chief Hegseth expected to face House impeachment vote",
+          "url": "https://www.koreaherald.com/article/10932039",
+          "published": "2026-11-10T02:33:10+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+          "published": "2026-11-10T03:00:40+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Thomas Massie Is Right To Impeach Pete Hegseth",
+          "url": "https://reason.com/podcast/2026/11/09/thomas-massie-is-right-to-impeach-pete-hegseth/",
+          "published": "2026-11-09T22:30:43+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hegseth faces impeachment resolution from a GOP member with little to lose",
+          "url": "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war",
+          "published": "2026-11-09T21:39:37+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Rep. Massie speaks after filing Hegseth impeachment resolution",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-rep-massie-speaks-after-filing-hegseth-impeachment-resolution",
+          "published": "2026-11-09T20:26:39+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Massie sees ‘high probability’ Hegseth resigns before Democratic hearings",
+          "url": "https://www.washingtonexaminer.com/news/house/4798235/massie-hegseth-resign-democrats-impeachment-hearings/",
+          "published": "2026-11-10T03:38:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "France blames Iranian Revolutionary Guards unit for supermarket fridge cyberattacks",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "France formally attributed October cyberattacks on refrigeration systems at about 700 retail sites to Shahid Kaveh, a cyber unit linked to Iran's Islamic Revolutionary Guard Corps. The attacks forced stores to discard food and, according to French authorities, caused at least 15 fires. Foreign Minister Jean-Noël Barrot called it the first large-scale cyber sabotage on French soil, summoned Iran's ambassador, and vowed EU-level sanctions. Paris prosecutors opened a judicial investigation into the unit's leader and two deputies and are seeking international arrest warrants. Similar attacks have since hit stores in other European countries, but France has not attributed those.",
+      "key_facts": [
+        "About 700 retail sites were targeted in attacks around Oct. 11–12.",
+        "Investigators cited shared infrastructure, a link to a propaganda outlet, Farsi-language traces and Iran-linked IP addresses.",
+        "Small hydroelectric installations using Schneider Electric equipment were also targeted, with 'moderate effects.'",
+        "Intermarché reported losses of 'tens of millions of euros' in a single day.",
+        "US Secretary of State Rubio said 'it does not surprise us.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR placed the attacks in a wider 2026 trend of attacks on refrigeration systems, including suspected incidents at US military commissaries that the Pentagon has not confirmed. PBS (AP) detailed the legal response and the 50°C temperatures. Al Jazeera ran a short video item. PBS noted that Iran consistently denies malicious cyber operations."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (AFP) and BleepingComputer focused on the technical attribution, the affected chains and the scale of damage. Axios stressed the shift by Iranian hackers toward sabotaging physical equipment."
+        }
+      ],
+      "disputed": [
+        "Outlets give slightly different dates (Oct. 11–12 vs. Oct. 12) and different scopes for the November wave (at least nine countries vs. 115+ stores in six countries).",
+        "Who carried out the later European and blood-bank attacks has not been officially determined.",
+        "Iran's response to this specific attribution is not reported beyond its general denials."
+      ],
+      "why": "It is a rare formal attribution of state-backed cyber sabotage against everyday infrastructure in Europe.",
+      "coverage": {
+        "left": 3,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 9,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "France: Iran behind cyberattacks on fridges",
+          "url": "https://www.koreaherald.com/article/10932047",
+          "published": "2026-11-10T02:36:14+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+          "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+          "published": "2026-11-09T22:30:49+00:00"
+        },
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+          "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+          "published": "2026-11-09T18:32:42+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "France blames Iran for last month's cyberattack on supermarket fridges",
+          "url": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
+          "published": "2026-11-09T21:18:01+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "France says Iranian hackers sabotaged supermarket refrigerators",
+          "url": "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks",
+          "published": "2026-11-10T01:36:17+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "France blames Iran for October supermarket cyberattack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
+          "published": "2026-11-10T01:01:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Supreme Court lets border construction resume in Texas's Big Bend region",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Supreme Court, in an unsigned order, paused a federal judge's injunction that had halted border barrier construction in the Big Bend region of Texas, including parts of the national park, while litigation continues. The majority said the government's interest outweighs the environmental, aesthetic and recreational harms the plaintiffs alleged, and that the lower court likely lacked jurisdiction under a 1996 immigration law. Justice Ketanji Brown Jackson was the lone dissenter and did not explain her reasoning. The Center for Biological Diversity, a church preservation group and a local river guide/landowner brought the suit; the project has drawn bipartisan local opposition.",
+      "key_facts": [
+        "The order is unsigned and five pages long, with only Justice Jackson dissenting.",
+        "District Judge Kathleen Cardone had blocked the construction in October.",
+        "Cardone noted the Big Bend sector covers over 25% of the border but only 0.3–2.2% of apprehensions.",
+        "The court said 'there is no such thing as a constitutional major-questions claim.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, NPR and Al Jazeera emphasized environmental and cultural concerns, quoted the Center for Biological Diversity at length, and highlighted bipartisan local backlash and low crossing numbers. They also included the administration's argument that gaps create a 'funnel point' for crossings."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill framed it briefly as a win for the Trump administration that halts the lower-court pause."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller framed it as Trump getting a 'green light,' noted that Texas just elected a Democratic governor, quoted the court on 'compelling interests' in border security, and noted the appointing presidents of the judges."
+        }
+      ],
+      "disputed": [
+        "Descriptions of the project differ: '300+ miles of six-foot vehicle barriers' (Guardian) vs. '30-foot-tall steel barriers' (NPR) across a roughly 500-mile sector.",
+        "The final outcome of the underlying lawsuit is still pending."
+      ],
+      "why": "It allows construction that could permanently alter a national park before the courts rule on whether it is legal.",
+      "coverage": {
+        "left": 4,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Supreme Court allows Big Bend border construction to continue in Texas, siding with Trump",
+          "url": "https://thehill.com/policy/energy-environment/6208853-big-bend-national-park-texas-trump-border-wall-scotus/",
+          "published": "2026-11-09T20:14:20+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+          "published": "2026-11-09T23:48:36+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Supreme Court Greenlights Trump Border Wall In State That Just Turned Blue",
+          "url": "https://dailycaller.com/2026/11/09/supreme-court-greenlights-trump-border-wall-texas",
+          "published": "2026-11-09T21:20:17+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "News Wrap: Supreme Court allows border wall construction in Big Bend",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-border-wall-construction-in-big-bend",
+          "published": "2026-11-09T23:40:07+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Supreme Court says border wall construction can continue in west Texas",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+          "published": "2026-11-09T21:47:39+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+          "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed",
+          "published": "2026-11-09T23:15:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Trump says Iran war 'effectively over' but keeps naval blockade",
+      "topics": [
+        "US Headlines",
+        "Korea"
+      ],
+      "summary": "After meeting Qatar's prime minister, President Trump said the war in Iran 'militarily is effectively over' and that resuming strikes seems 'quite unlikely.' He said the US remains 'locked and loaded.' He said Gulf allies prefer the 'status quo,' meaning continuation of the US naval blockade, and pointed to 'positive momentum' in indirect talks. Iran is demanding concessions before nuclear talks, including an end to the blockade, sanctions relief and compensation. Oil prices fell on the news, according to Al Jazeera.",
+      "key_facts": [
+        "Trump: 'We're keeping it going. We have the greatest military blockade ever.'",
+        "Officials said Qatar presented proposals on Iran's nuclear program last week.",
+        "Iran's demands include ending the blockade, lifting sanctions, unfreezing assets, war compensation and ending regional hostilities.",
+        "Republicans lost both chambers of Congress, an outcome the articles link partly to the war."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian noted that Trump has repeatedly exaggerated how close a deal is, and raised speculation that escalation was being held until after the midterms. It cited JD Vance blaming the war for the losses. Al Jazeera led with Iran demanding the US 'surrender' to its conditions and with falling oil prices."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via The Korea Herald) called these Trump's most definitive comments against resuming strikes. It noted his past pattern of threatening escalation and then backing down, and that he gave no hint of a troop drawdown."
+        }
+      ],
+      "disputed": [
+        "Whether a deal is near: Trump cites momentum, while Iran's demands remain unmet.",
+        "The war's length is given as 8 months (AP) and nearly nine months (Guardian)."
+      ],
+      "why": "The war's direction affects fuel prices, the global economy and US troop deployments.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump: Iran war 'effectively over'",
+          "url": "https://www.koreaherald.com/article/10932142",
+          "published": "2026-11-10T03:47:15+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+          "published": "2026-11-09T22:58:31+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender",
+          "published": "2026-11-09T23:55:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "California voters reject one-time 5% wealth tax on billionaires",
+      "topics": [],
+      "summary": "California voters rejected Proposition 40, a one-time 5% tax on residents worth more than $1 billion that supporters said would raise about $100 billion, mainly for healthcare. The measure was backed by the union SEIU-UHW, Bernie Sanders, Ro Khanna and the state Democratic Party. Gov. Gavin Newsom, both major governor candidates and a leading teachers union opposed it. Billionaires led by Google co-founder Sergey Brin spent heavily against it and placed two counter-measures on the ballot. SEIU-UHW says it will try again in 2028.",
+      "key_facts": [
+        "The AP called the race on Monday; most outlets report 52.8% no to 47.2% yes.",
+        "Supporters estimated about $100 billion in revenue; the Legislative Analyst's Office projected 'tens of billions.'",
+        "Props 41 and 42 were designed to nullify Prop 40 if they received more votes.",
+        "San Francisco and Los Angeles counties voted in favor; Orange and San Diego counties voted against."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian framed it as billionaires winning the most expensive opposition campaign in state history and called Props 41 and 42 'poison pills,' as supporters did. NPR emphasized the Democratic divisions and the fact that opponents outspent supporters at least five to one."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC explained the measure, its link to federal healthcare cuts, Newsom's fear that it would drive out the wealthy, and the union's pledge to return in 2028."
+        },
+        {
+          "lean": "right",
+          "framing": "Reason highlighted billionaire departures and a Stanford study finding a possible net revenue loss, and quoted a celebratory post from an opponent. The New York Post called it a setback for the progressive agenda. The Washington Examiner said it dashed liberal hopes for a national wealth tax trial balloon."
+        }
+      ],
+      "disputed": [
+        "Spending figures conflict: opposition raised about $130 million (Reason) vs. nearly $425 million (Guardian); Brin's contribution is put at roughly $100–132 million.",
+        "The Washington Examiner reported 53.8% against, versus 52.8% elsewhere.",
+        "How much revenue the tax would have produced, net of departures, is contested."
+      ],
+      "why": "The vote is an early test for wealth taxes that could shape similar efforts in other states and nationally.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 3
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Californians reject wealth tax for billionaires",
+          "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-10T03:34:46+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "California voters fail to pass proposed one-time tax on billionaires’ wealth",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40",
+          "published": "2026-11-10T02:54:54+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "California Voters Reject 5% Billionaire Wealth Tax",
+          "url": "https://reason.com/2026/11/09/california-voters-reject-5-billionaire-wealth-tax/",
+          "published": "2026-11-10T03:20:14+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "California voters defeat billionaire tax proposal that divided Democrats",
+          "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+          "published": "2026-11-10T03:05:39+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "California voters officially reject controversial billionaire tax in setback for progressive agenda",
+          "url": "https://nypost.com/2026/11/09/us-news/california-voters-officially-reject-controversial-billionaire-tax-in-setback-for-progressive-agenda/",
+          "published": "2026-11-10T03:14:45+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "California billionaire wealth tax fails, dashing liberal dreams",
+          "url": "https://www.washingtonexaminer.com/news/campaigns/state/4786718/california-billionaire-wealth-tax-fails-liberal-dreams/",
+          "published": "2026-11-10T02:45:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Russell Brand sentenced to 10.5 years for rape and sexual assaults",
+      "topics": [],
+      "summary": "British comedian Russell Brand, 51, was sentenced at Southwark Crown Court to 10 years and six months after a jury convicted him of one rape and three sexual assaults committed between 2004 and 2009. He was acquitted on three other counts. Judge Joel Bennathan called him a 'predator,' and victims gave impact statements; Brand denies the charges. Separately, Jemima Goldsmith said Brand physically assaulted her in 2014. Police say Brand remains under investigation over other allegations.",
+      "key_facts": [
+        "He must serve at least two-thirds of the sentence before possible supervised release.",
+        "Six women testified during a four-week trial.",
+        "He was acquitted of two rape counts and one count of attempted indecent assault.",
+        "UK Prime Minister Andy Burnham praised the survivors' bravery."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR focused on the victim impact statements and on Brand's arc from left-wing celebrity to figure popular on the US right. The Guardian focused on Goldsmith's allegations of violence and coercive control."
+        },
+        {
+          "lean": "center",
+          "framing": "DW and The Hill gave straightforward accounts of the sentence, the judge's remarks and Brand's background."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller reported the sentence and courtroom details, noting the ongoing police investigation. The New York Post focused on claims that Brand faces danger in HMP Wandsworth, citing an ex-inmate and prison watchdog reports."
+        }
+      ],
+      "disputed": [
+        "Brand denies all charges, and the articles do not say whether he will appeal.",
+        "Goldsmith's assault allegation has not been tested in court.",
+        "Ex-inmate claims about Brand's safety in prison are unverified."
+      ],
+      "why": "It is one of the most prominent convictions of a celebrity for sexual offences in the UK.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 2
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions",
+          "url": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-09T14:30:00+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+          "published": "2026-11-09T14:36:54+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Russell Brand is a ‘dead man walking’ inside current prison, warns ex-inmate",
+          "url": "https://pagesix.com/2026/11/09/celebrity-news/russell-brand-warned-by-ex-con-that-he-is-a-a-dead-man-walking-inside-current-prison/",
+          "published": "2026-11-10T03:10:31+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Russell Brand sentenced to 10 1/2 years for rape and sexual assaults",
+          "url": "https://thehill.com/blogs/in-the-know/in-the-know/6207523-russell-brand-sentenced-to-10-1-2-years-for-rape-and-sexual-assaults/",
+          "published": "2026-11-09T14:47:53+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
+          "url": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+          "published": "2026-11-09T19:27:22+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Russell Brand Sentenced To Ten Years Behind Bars In Bombshell Rape Case",
+          "url": "https://dailycaller.com/2026/11/09/comedian-russell-brand-sentenced-ten-years-six-months-jail-rape-sexual-assault-convicted",
+          "published": "2026-11-09T14:30:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "South Carolina man charged after police say he left daughter, 6, asleep in Target line",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charleston police charged 35-year-old John-Michael Dooley with unlawful conduct toward a child. Police say he left his sleeping 6-year-old daughter with a pillow and blanket outside a West Ashley Target to hold his place in line overnight for a Pokémon card release. Customers called police after about an hour, and Dooley was arrested when he returned. Police say he admitted going home. The girl was unharmed and placed in the custody of the state Department of Social Services.",
+      "key_facts": [
+        "Police responded around 2:30 a.m.",
+        "The charge is unlawful conduct toward a child.",
+        "The girl was unharmed and placed with SC DSS."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WBTV gave a brief factual police account."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News gave a similar account, with added detail on the card set and the collector market, and noted Dooley's release from jail."
+        }
+      ],
+      "disputed": [
+        "The arrest date differs: Nov. 7 (WBTV) vs. Nov. 6 (Fox News)."
+      ],
+      "why": "It is a local child-safety case tied to the frenzy around collectible card releases.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "South Carolina man accused of leaving sleeping daughter outside Target to wait for Pokémon cards",
+          "url": "https://www.wbtv.com/2026/11/10/south-carolina-man-accused-leaving-sleeping-daughter-hold-his-spot-outside-target-pokmon-cards/",
+          "published": "2026-11-10T02:42:07+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "South Carolina dad left sleeping 6-year-old in line for Pokémon cards at Target: police",
+          "url": "https://www.foxnews.com/us/south-carolina-dad-left-sleeping-6-year-old-line-pokemon-cards-target-police",
+          "published": "2026-11-09T23:08:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "North Korea tests new high-speed torpedo, plans deployment in early 2027",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "North Korean state media said defense institutes test-fired a new high-speed torpedo in the East Sea on Monday and plan to deploy it with the navy in early 2027. KCNA gave no specifications or photos but said the test confirmed propulsion technology developed over more than 180 tests in five years. A South Korean unification ministry official said the test appears aimed at showing off naval power and that more analysis is needed. It follows a string of recent naval weapons tests and destroyer commissionings.",
+      "key_facts": [
+        "The test took place Monday in the East Sea, with deployment planned for early 2027.",
+        "KCNA cited more than 180 tests over five years.",
+        "Last month North Korea tested an AI-guided torpedo."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap, the Korea Herald and CNA relied on KCNA's account and placed the test within Pyongyang's broader naval buildup. Yonhap added South Korean government comment."
+        }
+      ],
+      "disputed": [
+        "The torpedo's capabilities are unverified, since no specifications or images were released."
+      ],
+      "why": "It signals continued expansion of North Korea's naval and underwater strike capabilities.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(LEAD) N. Korea tests new torpedo, eyes early 2027 deployment",
+          "url": "https://en.yna.co.kr/view/AEN20261110001251315",
+          "published": "2026-11-10T02:18:08+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korea tests new 'high-speed' torpedo system",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korea-tests-high-speed-torpedo-system-6537691",
+          "published": "2026-11-10T01:11:15+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "N. Korea tests new torpedo, eyes early 2027 deployment",
+          "url": "https://www.koreaherald.com/article/10931562",
+          "published": "2026-11-10T00:12:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Charlotte council approves airline lease enabling $2.1 billion airport expansion",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte City Council approved a 10.5-year airline lease at Charlotte Douglas International Airport, keeping American Airlines' hub and clearing the way for about $2.1 billion in projects, including an expanded Concourse C. American's gates will grow from 93 to 109. Consumer advocates and the SEIU sought a delay over concerns about competition, fares and subcontractor conditions; more than 50 people signed up to speak. Sen. Thom Tillis had threatened to pursue an independent airport authority if the council rejected the deal.",
+      "key_facts": [
+        "The lease runs 10.5 years and supports about $2.1 billion in projects.",
+        "American's gates rise from 93 to 109.",
+        "The airlines' share of airport revenue rises to 40–45%.",
+        "State law bars Charlotte from setting a minimum wage for subcontractor workers."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local stations framed it as an economic lifeline. WSOC included critics' 'hub tax' argument and union concerns, and WCNC highlighted the public opposition."
+        }
+      ],
+      "disputed": [
+        "Whether the expansion will raise local fares, as consumer advocates argue."
+      ],
+      "why": "The deal shapes air travel costs and the regional economy for the next decade.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council approves $2.1B airport expansion plan",
+          "url": "https://www.wsoctv.com/news/local/charlotte-city-council-vote-21b-airport-expansion-plan/5LVOOBAG5BAEFH3Z2ZWSMB3JNQ/",
+          "published": "2026-11-10T03:58:13+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte leaders approve new 10.5-year, $2 billion airport lease",
+          "url": "https://www.qcnews.com/charlotte-airport/charlotte-leaders-approve-new-10-5-year-2-billion-airport-lease/",
+          "published": "2026-11-10T03:55:53+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council approves 10.5-year airline lease extension after controversy",
+          "url": "https://www.wcnc.com/article/news/local/charlotte-city-council-approves-105-year-airline-lease-extension-after-controversy/275-9554f387-2180-4318-be48-e48aded5190d",
+          "published": "2026-11-10T04:19:34+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "No articles in this edition address AI regulation in the US or EU. The Nvidia story concerns alleged espionage rather than regulation.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 17,
+    "center": 19,
+    "right": 11
+  },
+  "stats": {
+    "articles": 577,
+    "stories_found": 390,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
