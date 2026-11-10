@@ -1,19 +1,21 @@
 {
   "investigation_seen": {
     "example-ai-regulation": [
-      "fa0a8f5dd0",
       "f091b135f8",
-      "22e93d9a23",
       "02742f8d0b",
       "099d993466",
       "cce1362ac6",
-      "8879475e62",
-      "3f3b84d94f",
-      "9ab2af0f08",
       "6a8bccaaa4",
       "e81148e904",
+      "3f3b84d94f",
       "1e50bc6089",
-      "3f5fe12d28"
+      "9ab2af0f08",
+      "fa0a8f5dd0",
+      "8879475e62",
+      "22e93d9a23",
+      "3f5fe12d28",
+      "9caa9b54c5",
+      "1610dba1bf"
     ]
   }
 }
