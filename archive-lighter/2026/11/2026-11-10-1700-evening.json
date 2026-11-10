@@ -1,0 +1,355 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-10T22:00:47.942893+00:00",
+  "local_time": "Tuesday, November 10, 2026 · 5:00 PM EST",
+  "local_date": "Nov 10, 2026",
+  "slug": "2026-11-10-1700-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Today's brief is mostly practical news. Gas finally dipped below $4 a gallon, Charlotte has new street-vending rules, and there's a useful update for anyone on Ozempic-style medications. There's also a promising sleep apnea result, a fresh reggae release, and the start of one last season of Love & Hip Hop.",
+  "stories": [
+    {
+      "id": "s2",
+      "headline": "NC attorney general sues a Gastonia driving school",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "North Carolina Attorney General Jeff Jackson is suing NC Virtual Driver's Ed and its owner. His office accuses them of charging families for behind-the-wheel lessons that weren't given and refusing refunds and completion certificates. One parent said her daughter got only two hours of road time and had to pay $350 to finish driver's ed elsewhere.",
+      "key_facts": [
+        "More than 50 people complained to the AG's office and the DMV.",
+        "The DMV revoked the school's license in September.",
+        "The owner is named as Courtney Elizabeth Brazil.",
+        "The school didn't respond to reporters in time for the reports."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are allegations in a lawsuit. No court has ruled yet."
+      ],
+      "why": "The goal is to get money back for affected families, and it's a good reminder to check a driving school's license before paying up front.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC attorney general sues Gastonia driving school for allegedly defrauding students",
+          "url": "https://www.wsoctv.com/news/local/nc-attorney-general-sues-gastonia-driving-school-allegedly-defrauding-students/7BJZTCAQXNDDRLV5N2BK5O4YIA/",
+          "published": "2026-11-10T21:44:00+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Attorney General Jeff Jackson sues NC online driving instructor accused of defrauding drivers",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/attorney-general-jeff-jackson-sues-nc-online-driving-instructor-accused-of-defrauding-drivers/",
+          "published": "2026-11-10T20:10:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Charlotte expands street vending limits citywide",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte City Council voted 8-1 on Monday to restrict merchandise sales on streets and sidewalks across the whole city, not just uptown and the stadium areas. The ordinance also sets up a system for permitted 'peddlers' marketplaces' and lets licensed vendors apply to sell at sanctioned festivals and events.",
+      "key_facts": [
+        "The vote was 8-1, on Monday.",
+        "Newspapers and magazines are excluded from the ban.",
+        "Vendors need a permit and a spot pre-approved by Center City Partners.",
+        "The application fee and the locations of new marketplaces haven't been set."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Reports differ on penalties. WBTV describes a possible misdemeanor for a third non-food violation within 30 days, while WCNC's headline says there are no criminal penalties.",
+        "It's unclear how the rules apply to food vendors and food trucks."
+      ],
+      "why": "If you sell at, or shop from, sidewalk vendors in Charlotte, where and how they can set up is changing.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council approves citywide street vending restrictions: What to know",
+          "url": "https://www.wbtv.com/2026/11/10/charlotte-city-council-approves-citywide-street-vending-restrictions-what-know/",
+          "published": "2026-11-10T18:51:31+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Street vending banned across Charlotte; no criminal penalties for violators",
+          "url": "https://www.wcnc.com/article/money/business/small-business/street-vending-banned-across-charlotte-no-criminal-penalties-for-violators/275-55e8c0c1-f61e-405b-8c1f-db46012cdedf",
+          "published": "2026-11-10T20:44:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Diesel cleanup underway near Atrium Health Mercy",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Diesel fuel leaked from a storage tank at Atrium Health's Mercy Hospital in Charlotte over the weekend, and some of it reached a Briar Creek tributary through storm drains. Cleanup is in progress and the EPA is monitoring it.",
+      "key_facts": [
+        "Storm Water Services estimates about 2,000 gallons leaked from the tank.",
+        "One report puts the amount at up to 800 gallons.",
+        "The EPA is monitoring the cleanup."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The two figures appear in different reports. The shorter reports don't make clear whether 800 gallons refers to the total leak or the portion that reached the creek."
+      ],
+      "why": "Crews are on it, and it's handy to know if you spend time along Briar Creek.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Cleanup underway after Atrium Health hospital diesel fuel leak into Briar Creek",
+          "url": "https://www.qcnews.com/charlotte/cleanup-underway-after-atrium-health-hospital-diesel-fuel-leak-into-briar-creek/",
+          "published": "2026-11-10T20:40:57+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Diesel spill at Atrium Health Mercy reached Briar Creek tributary; up to 800 gallons",
+          "url": "https://www.wcnc.com/article/news/local/atrium-confirms-fuel-spill-cleanup-at-charlotte-hospital/275-fe394dd3-7844-4337-b674-11e3f5639a5e",
+          "published": "2026-11-10T13:17:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Jamaica says it spent nothing on the scrapped Cardi B concert",
+      "topics": [
+        "Jamaica",
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Jamaica's culture ministry says the government made no payments or commitments toward a proposed concert featuring Cardi B, calling it a private commercial event. The statement comes amid a dispute between Cardi B and the organizers of BZR WKND after she withdrew from the show.",
+      "key_facts": [
+        "The show was originally scheduled for October 16–18.",
+        "The government says it is limiting event spending to focus on recovery after Hurricane Melissa."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: the ministry's statement that it paid no fees.",
+        "Reported: Cardi B has threatened legal action against the organizers, and the details of that dispute aren't laid out here."
+      ],
+      "why": "It clears up where public money did and didn't go while Jamaica focuses on rebuilding.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "No gov’t funds committed to proposed Cardi B concert, says Ministry",
+          "url": "https://www.jamaicaobserver.com/2026/11/10/no-govt-funds-committed-proposed-cardi-b-concert-says-ministry/",
+          "published": "2026-11-10T21:15:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Jamaican dollar holds steady",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The US dollar ended Tuesday at J$159.07, barely changed from the day before, according to the Bank of Jamaica. The Canadian dollar and British pound both slipped against the Jamaican dollar.",
+      "key_facts": [
+        "US dollar: J$159.07, down from J$159.09.",
+        "Canadian dollar: J$112.17, down from J$113.61.",
+        "British pound: J$211.87, down from J$214.53."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a quick check-in if you send money to or from Jamaica.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Forex: $159.07 to one US dollar",
+          "url": "https://www.jamaicaobserver.com/2026/11/10/forex-159-07-one-us-dollar/",
+          "published": "2026-11-10T21:12:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "New Vortex Riddim drops November 13",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "French producer David Attal's four-track Vortex Riddim arrives November 13 through VPAL Music, with four artists each putting their own spin on the same rhythm. Nigy Boy's love-and-unity track 'Where Is The Love' and Vanzo's 'Spotlight' are already out.",
+      "key_facts": [
+        "The release date is November 13 via VPAL Music.",
+        "The artists are Nigy Boy, Vanzo, Darrio and Denham Smith.",
+        "It's produced under Attal's Stargate Productions label."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's fresh reggae for your weekend, and Attal describes it as 'four artistes, four identities, but one VORTEX universe.'",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nigy Boy, Vanzo lead Stargate’s Vortex Riddim ahead of November 13 release",
+          "url": "https://www.jamaicaobserver.com/2026/11/10/nigy-boy-vanzo-lead-stargates-vortex-riddim-ahead-november-13-release/",
+          "published": "2026-11-10T20:36:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "FDA adds a rare eye-risk warning to GLP-1 drugs",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "The FDA is requiring 12 GLP-1 drugs, including Ozempic, Wegovy, Mounjaro, Zepbound and Foundayo, to list a rare eye condition called NAION in their label warnings. NAION involves reduced blood flow to the optic nerve and can cause sudden vision loss. The FDA reviewed trial, real-world and observational data and found a higher relative risk, though the absolute risk stays very low.",
+      "key_facts": [
+        "The FDA announced it on Monday, Nov. 9.",
+        "In pooled trials, NAION occurred at 6.4 per 100,000 patient-years on GLP-1s, compared with 3.8 on placebo or other treatments.",
+        "The review was prompted by a 2025 JAMA Ophthalmology study of 175,000 people with diabetes."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are already FDA-approved drugs. This is a label safety update, not a recall.",
+        "Animal data showed no clear way the drugs would cause NAION, and its risk factors overlap with conditions common in GLP-1 patients.",
+        "Lilly says the notice isn't specific to its medicines."
+      ],
+      "why": "If you take one of these drugs, it's worth knowing the signs of sudden vision changes and talking to your doctor instead of stopping on your own.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Fierce Pharma",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FDA orders new eye risk be listed on a dozen GLP-1s, including Novo's Ozempic, Lilly's Zepbound",
+          "url": "https://www.fiercepharma.com/pharma/fda-orders-new-eye-risk-be-listed-ozempic-zepbound-labels",
+          "published": null
+        },
+        {
+          "source": "Medical Xpress",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rare eye condition prompts new FDA warning on popular GLP-1 drugs",
+          "url": "https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html",
+          "published": "2026-11-10T22:00:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Lilly's GLP-1 pill eased sleep apnea in a big trial",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "In a year-long phase 3 trial, Lilly's oral GLP-1 Foundayo (orforglipron) cut sleep apnea breathing interruptions in adults with excess weight, compared with placebo. Participants also lost about 11% of their body weight. Lilly plans to approach the FDA about adding sleep apnea to the label.",
+      "key_facts": [
+        "The trial had 712 patients across two studies, with and without PAP machines.",
+        "Without PAP, episodes dropped 43.8% (21.1 per hour), compared with 4.3 per hour on placebo.",
+        "About 31.5% of the non-PAP group reached remission or mild disease.",
+        "Results were presented at the American Heart Association meeting and published in JAMA."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are late-stage (phase 3) results, described as preliminary.",
+        "Foundayo isn't approved for sleep apnea yet, and an FDA application is still to come.",
+        "The new FDA eye-risk warning on GLP-1s also covers Foundayo."
+      ],
+      "why": "Many people struggle with CPAP masks, so a daily pill option could be a big quality-of-life win if it's approved.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Fierce Pharma",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lilly looks to gird Foundayo label after late-stage win in sleep apnea",
+          "url": "https://www.fiercepharma.com/pharma/lilly-heads-fda-phase-3-foundayo-win-sleep-apnea",
+          "published": null
+        },
+        {
+          "source": "Medical Xpress",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Daily, oral GLP-1 medication reduced episodes of sleep apnea in adults with excess weight",
+          "url": "https://medicalxpress.com/news/2026-11-daily-oral-glp-medication-episodes.html",
+          "published": "2026-11-10T19:40:13+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 13,
+    "right": 0
+  },
+  "stats": {
+    "articles": 308,
+    "stories_found": 260,
+    "sources_ok": 24,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)"
+    ]
+  }
+}

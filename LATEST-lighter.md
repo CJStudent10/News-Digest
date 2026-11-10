@@ -1,162 +1,169 @@
-# The Lighter Brief: Morning edition
-_Tuesday, November 10, 2026 · 6:48 AM EST · 224 articles from 24 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Tuesday, November 10, 2026 · 5:00 PM EST · 308 articles from 24 outlets · summaries by Claude_
 
-> A pretty upbeat mix today: Jamaica is about to release its 1,000th rescued rock iguana, Fall Out Boy are heading out on a big 2027 stadium tour, and the FDA approved a brand-new kind of stroke-prevention pill. On the civic side, Charlotte locked in a long-term airport deal, and a lame-duck congressman is pushing for a House vote to impeach the Defense Secretary.
+> Today's brief is mostly practical news. Gas finally dipped below $4 a gallon, Charlotte has new street-vending rules, and there's a useful update for anyone on Ozempic-style medications. There's also a promising sleep apnea result, a fresh reggae release, and the start of one last season of Love & Hip Hop.
 
 
 
 ---
 
-## 1. Charlotte signs a long-term airport deal with American Airlines
-`Charlotte` · Covered by 4 outlets
+## 1. NC attorney general sues a Gastonia driving school
+`Charlotte` · Covered by 2 outlets
 
-Charlotte City Council voted 8-2 on Monday to approve a new lease that keeps American Airlines' hub at Charlotte Douglas for at least another decade. The deal opens the door to about $2.1 billion in airport upgrades. Supporters called the airport the engine of the local economy. Critics raised concerns about worker pay for airline contractors and about fares.
-
-**Key facts**
-- Lease runs 10.5 years, with an option for a five-year extension
-- About $2.1 billion in projects, including an expanded Concourse C, a passenger tunnel and a renovated international pavilion
-- American's gates will grow from 93 to 109
-- Contracted workers said they earn $12.50 an hour; state law bars the city from setting their minimum wage
-
-**Worth knowing:** If you fly out of Charlotte, expect more construction, more gates and likely more direct flights. A consumer group warns that fares could go up.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/10/charlotte-city-council-passes-airport-lease-agreement-8-2/): Charlotte City Council passes airport lease agreement 8-2
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-city-council-vote-21b-airport-expansion-plan/5LVOOBAG5BAEFH3Z2ZWSMB3JNQ/): Charlotte City Council approves $2.1B airport expansion plan
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/charlotte-leaders-approve-new-10-5-year-2-billion-airport-lease/): Charlotte leaders approve new 10.5-year, $2 billion airport lease
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/charlotte-city-council-approves-105-year-airline-lease-extension-after-controversy/275-9554f387-2180-4318-be48-e48aded5190d): Charlotte City Council approves 10.5-year airline lease extension after controversy
-
-
-## 2. Jamaica's comeback iguana hits a big milestone: 1,000 back in the wild
-`Jamaica` `Cute Animals` · Covered by 2 outlets
-
-On Saturday, the 1,000th Jamaican rock iguana raised at Hope Zoo will be released into the Hellshire Hills. The species was declared extinct in 1948, then rediscovered in 1990. Thirty-plus years of head-starting baby iguanas and trapping predators have helped the wild population grow. Conservationists are celebrating but say the job isn't done yet.
+North Carolina Attorney General Jeff Jackson is suing NC Virtual Driver's Ed and its owner. His office accuses them of charging families for behind-the-wheel lessons that weren't given and refusing refunds and completion certificates. One parent said her daughter got only two hours of road time and had to pay $350 to finish driver's ed elsewhere.
 
 **Key facts**
-- Hope Zoo raises roughly 250–300 young iguanas at a time until they're big enough to fend for themselves
-- More than 1,500 predators, such as mongooses and feral cats, have been removed from the iguanas' core habitat
-- More than 280 live predator traps are monitored
-- Jamaica has protected just over 25% of its land and aims to pass 30% within about a year and a half
-
-**Worth knowing:** A species once written off as gone is now breeding on its own in the wild again, a real conservation success story.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261110/fight-survival-continues-jcan-iguana-recovery-reaches-1000): Fight for survival continues as J’can iguana recovery reaches 1,000
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/09/nepa-release-1000th-jamaican-iguana-wild/): NEPA to release 1,000th Jamaican iguana into the wild
-
-
-## 3. Outgoing GOP congressman forces a vote on impeaching Hegseth
-`US Headlines` · Covered by 4 outlets
-
-Rep. Thomas Massie (R-Ky.) introduced eight articles of impeachment against Defense Secretary Pete Hegseth. The articles mainly concern military action in Iran without congressional authorization. The move starts a 48-hour clock for the House to act. The effort is expected to fail while Republicans hold the majority, but Massie says he hopes it pushes President Trump to name a replacement before Democrats take control of Congress in January.
-
-**Key facts**
-- Massie lost his May primary and leaves Congress in January
-- Three articles cite the War Powers Resolution over Iran
-- Hegseth called the effort a 'sham'; Trump said he stands by him
-- House Minority Leader Hakeem Jeffries said he's a 'hard yes'
-
-**Worth knowing:** This is an early sign of how the Iran conflict could shape the agenda when control of Congress changes hands in January.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss): Republican congressman to force impeachment vote on Defence Secretary Hegseth
-- [Newsweek](https://www.newsweek.com/thomas-massie-reelection-pete-hegseth-impeachment-midterms-12691739): Thomas Massie Weighs Career Prospects Amid Pete Hegseth Impeachment Push
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/10/gop-lawmaker-introduces-articles-impeachment-against-hegseth/): GOP lawmaker introduces articles of impeachment against Hegseth
-- [The Hill](https://thehill.com/homenews/administration/6209668-trump-defends-hegseth-impeachment/): Trump says Hegseth should be praised, not impeached
-
-
-## 4. Workers treated after white powder found at NC recycling plant
-`Health & Medicine` · Covered by 3 outlets
-
-Workers at Prime Recycling in Caldwell County, N.C. reported coughing, burning eyes and trouble breathing after a white powder on packages went airborne. Officials said those taken to the hospital are in stable condition. State investigators and hazmat teams are working to identify the substance.
-
-**Key facts**
-- 22 people were assessed at the scene
-- Reports of how many went to the hospital range from 11 to 14
-- The facility was evacuated as a precaution
+- More than 50 people complained to the AG's office and the DMV.
+- The DMV revoked the school's license in September.
+- The owner is named as Courtney Elizabeth Brazil.
+- The school didn't respond to reporters in time for the reports.
 
 **Good to know**
-- The substance has not been identified yet
-- Outlets report different hospitalization numbers
+- These are allegations in a lawsuit. No court has ruled yet.
 
-**Worth knowing:** The good news so far is that everyone affected is reported stable, with answers still to come.
+**Worth knowing:** The goal is to get money back for affected families, and it's a good reminder to check a driving school's license before paying up front.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/11-treated-respiratory-issues-lenoir-recycling-center/BULABQVI2BEY5L4Z33FTO4FUSM/): 14 hospitalized after unknown substance found at recycling center
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/22-people-treated-after-exposure-to-unknown-white-powder/275-f1072ad3-b3d9-4804-921a-56e73be6ec38): 22 people treated after exposure to unknown white powder at Caldwell County recycling plant
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/caldwell-county/11-people-hospitalized-after-exposure-to-unknown-powder-substance-at-lenoir-recycling-facility/): 11 people hospitalized after exposure to 'unknown powder substance' at Lenoir recycling facility
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/nc-attorney-general-sues-gastonia-driving-school-allegedly-defrauding-students/7BJZTCAQXNDDRLV5N2BK5O4YIA/): NC attorney general sues Gastonia driving school for allegedly defrauding students
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/attorney-general-jeff-jackson-sues-nc-online-driving-instructor-accused-of-defrauding-drivers/): Attorney General Jeff Jackson sues NC online driving instructor accused of defrauding drivers
 
 
-## 5. Merl Grove teachers protest their principal
-`Jamaica` · Covered by 1 outlet
+## 2. Charlotte expands street vending limits citywide
+`Charlotte` · Covered by 2 outlets
 
-About 40 teachers at Merl Grove High School in St Andrew, Jamaica, held a silent protest calling for Principal Dr Marjorie Fullerton to resign. They allege an authoritarian, retaliatory leadership style. Fullerton was reinstated this year after a court ruled in her favour over her 2022 dismissal. She could not be reached for comment.
+Charlotte City Council voted 8-1 on Monday to restrict merchandise sales on streets and sidewalks across the whole city, not just uptown and the stadium areas. The ordinance also sets up a system for permitted 'peddlers' marketplaces' and lets licensed vendors apply to sell at sanctioned festivals and events.
 
 **Key facts**
-- The protest began around 10:30 a.m. Monday and disrupted classes
-- Board chairman David Hall is asking the Education Ministry to step in urgently
-- Fullerton returned to the school in April
+- The vote was 8-1, on Monday.
+- Newspapers and magazines are excluded from the ban.
+- Vendors need a permit and a spot pre-approved by Center City Partners.
+- The application fee and the locations of new marketplaces haven't been set.
 
 **Good to know**
-- The teachers' complaints are allegations; Fullerton has not responded publicly
+- Reports differ on penalties. WBTV describes a possible misdemeanor for a third non-food violation within 30 days, while WCNC's headline says there are no criminal penalties.
+- It's unclear how the rules apply to food vendors and food trucks.
 
-**Worth knowing:** The board is asking the Education Ministry to step in quickly so the dispute doesn't affect students.
+**Worth knowing:** If you sell at, or shop from, sidewalk vendors in Charlotte, where and how they can set up is changing.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261110/merl-grove-teachers-revolt-over-principals-leadership-style): Merl Grove teachers revolt over principal’s leadership style
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/10/charlotte-city-council-approves-citywide-street-vending-restrictions-what-know/): Charlotte City Council approves citywide street vending restrictions: What to know
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/business/small-business/street-vending-banned-across-charlotte-no-criminal-penalties-for-violators/275-55e8c0c1-f61e-405b-8c1f-db46012cdedf): Street vending banned across Charlotte; no criminal penalties for violators
 
 
-## 6. Jamaica's school board chairs told to stay in their lane
-`Jamaica` `US Headlines` · Covered by 1 outlet
+## 3. Diesel cleanup underway near Atrium Health Mercy
+`Charlotte` · Covered by 2 outlets
 
-JACSI, Jamaica's association of secondary-school board chairmen, says some chairs are drifting from governance into day-to-day school management. The group wants to train boards to focus on policy and oversight and leave daily operations to principals.
+Diesel fuel leaked from a storage tank at Atrium Health's Mercy Hospital in Charlotte over the weekend, and some of it reached a Briar Creek tributary through storm drains. Cleanup is in progress and the EPA is monitoring it.
 
 **Key facts**
-- JACSI President Courtney Wynter was re-elected unopposed to a second term
-- 50 boards were represented at the annual general meeting
-- Wynter says the Education Regulations of 1980 give boards wide powers
+- Storm Water Services estimates about 2,000 gallons leaked from the tank.
+- One report puts the amount at up to 800 gallons.
+- The EPA is monitoring the cleanup.
 
-**Worth knowing:** Clearer roles between boards and principals could mean fewer standoffs like the one at Merl Grove.
+**Good to know**
+- The two figures appear in different reports. The shorter reports don't make clear whether 800 gallons refers to the total leak or the portion that reached the creek.
 
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261110/jacsi-moves-rein-school-chairmen-overstepping-roles): JACSI moves to rein in school chairmen overstepping roles
-
-
-## 7. Jamaica's tourism boss wants the boom to lift everyone
-`Jamaica` · Covered by 1 outlet
-
-Dr Carey Wallace of Jamaica's Tourism Enhancement Fund says tourism growth should build wealth across the whole country, not just for those in the industry. He pointed to the 'Tourism 3.0' push to get more Jamaicans supplying what tourists buy. He also said new hotel rooms coming online should help the sector bounce back from Hurricane Melissa.
-
-**Key facts**
-- The government targets $10 billion in earnings and 10 million visitors by 2036
-- Jamaica rose from 82nd to 78th on the World Economic Forum's tourism index
-- Rondel Village resort in Negril marked its 40th anniversary
-
-**Worth knowing:** It's an optimistic plan to spread tourism money more widely as Jamaica rebuilds.
+**Worth knowing:** Crews are on it, and it's handy to know if you spend time along Briar Creek.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261110/jamaica-too-blessed-not-be-developed-country-says-tef-boss): Jamaica too blessed not to be a developed country, says TEF boss
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/cleanup-underway-after-atrium-health-hospital-diesel-fuel-leak-into-briar-creek/): Cleanup underway after Atrium Health hospital diesel fuel leak into Briar Creek
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/atrium-confirms-fuel-spill-cleanup-at-charlotte-hospital/275-fe394dd3-7844-4337-b674-11e3f5639a5e): Diesel spill at Atrium Health Mercy reached Briar Creek tributary; up to 800 gallons
 
 
-## 8. Cardi B and Jamaican festival organisers trade lawsuit threats
+## 4. Jamaica says it spent nothing on the scrapped Cardi B concert
 `Jamaica` `Hip Hop & Celebrity` · Covered by 1 outlet
 
-BZR WKND organisers say Cardi B was paid in full but skipped both the October show and the December makeup date, and they plan to sue. Cardi B says she got only a deposit and threatened to countersue. Ticket buyers are being refunded.
+Jamaica's culture ministry says the government made no payments or commitments toward a proposed concert featuring Cardi B, calling it a private commercial event. The statement comes amid a dispute between Cardi B and the organizers of BZR WKND after she withdrew from the show.
 
 **Key facts**
-- Organisers say they paid US$2.5 million
-- Cardi B says she received a US$1 million deposit
-- The festival was scheduled for October 16–18
+- The show was originally scheduled for October 16–18.
+- The government says it is limiting event spending to focus on recovery after Hurricane Melissa.
 
 **Good to know**
-- The payment amount is disputed: organisers say US$2.5M was paid in full, Cardi B says only a US$1M deposit
-- No lawsuit has been confirmed as filed; both sides are only threatening legal action
-- Refunds for fans are confirmed by the organiser's CEO
+- Confirmed: the ministry's statement that it paid no fees.
+- Reported: Cardi B has threatened legal action against the organizers, and the details of that dispute aren't laid out here.
 
-**Worth knowing:** If you bought a ticket, the organiser's CEO says everyone will get their money back.
+**Worth knowing:** It clears up where public money did and didn't go while Jamaica focuses on rebuilding.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/09/cardi-b-threatens-legal-action-bzr-wknd-organisers/): Cardi B threatens legal action against BZR WKND organisers
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/10/no-govt-funds-committed-proposed-cardi-b-concert-says-ministry/): No gov’t funds committed to proposed Cardi B concert, says Ministry
+
+
+## 5. Jamaican dollar holds steady
+`Jamaica` · Covered by 1 outlet
+
+The US dollar ended Tuesday at J$159.07, barely changed from the day before, according to the Bank of Jamaica. The Canadian dollar and British pound both slipped against the Jamaican dollar.
+
+**Key facts**
+- US dollar: J$159.07, down from J$159.09.
+- Canadian dollar: J$112.17, down from J$113.61.
+- British pound: J$211.87, down from J$214.53.
+
+**Worth knowing:** It's a quick check-in if you send money to or from Jamaica.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/10/forex-159-07-one-us-dollar/): Forex: $159.07 to one US dollar
+
+
+## 6. New Vortex Riddim drops November 13
+`Jamaica` · Covered by 1 outlet
+
+French producer David Attal's four-track Vortex Riddim arrives November 13 through VPAL Music, with four artists each putting their own spin on the same rhythm. Nigy Boy's love-and-unity track 'Where Is The Love' and Vanzo's 'Spotlight' are already out.
+
+**Key facts**
+- The release date is November 13 via VPAL Music.
+- The artists are Nigy Boy, Vanzo, Darrio and Denham Smith.
+- It's produced under Attal's Stargate Productions label.
+
+**Worth knowing:** It's fresh reggae for your weekend, and Attal describes it as 'four artistes, four identities, but one VORTEX universe.'
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/10/nigy-boy-vanzo-lead-stargates-vortex-riddim-ahead-november-13-release/): Nigy Boy, Vanzo lead Stargate’s Vortex Riddim ahead of November 13 release
+
+
+## 7. FDA adds a rare eye-risk warning to GLP-1 drugs
+`Health & Medicine` · Covered by 2 outlets
+
+The FDA is requiring 12 GLP-1 drugs, including Ozempic, Wegovy, Mounjaro, Zepbound and Foundayo, to list a rare eye condition called NAION in their label warnings. NAION involves reduced blood flow to the optic nerve and can cause sudden vision loss. The FDA reviewed trial, real-world and observational data and found a higher relative risk, though the absolute risk stays very low.
+
+**Key facts**
+- The FDA announced it on Monday, Nov. 9.
+- In pooled trials, NAION occurred at 6.4 per 100,000 patient-years on GLP-1s, compared with 3.8 on placebo or other treatments.
+- The review was prompted by a 2025 JAMA Ophthalmology study of 175,000 people with diabetes.
+
+**Good to know**
+- These are already FDA-approved drugs. This is a label safety update, not a recall.
+- Animal data showed no clear way the drugs would cause NAION, and its risk factors overlap with conditions common in GLP-1 patients.
+- Lilly says the notice isn't specific to its medicines.
+
+**Worth knowing:** If you take one of these drugs, it's worth knowing the signs of sudden vision changes and talking to your doctor instead of stopping on your own.
+
+**Read it yourself:**
+- [Fierce Pharma](https://www.fiercepharma.com/pharma/fda-orders-new-eye-risk-be-listed-ozempic-zepbound-labels): FDA orders new eye risk be listed on a dozen GLP-1s, including Novo's Ozempic, Lilly's Zepbound
+- [Medical Xpress](https://medicalxpress.com/news/2026-11-rare-eye-condition-prompts-fda.html): Rare eye condition prompts new FDA warning on popular GLP-1 drugs
+
+
+## 8. Lilly's GLP-1 pill eased sleep apnea in a big trial
+`Health & Medicine` · Covered by 2 outlets
+
+In a year-long phase 3 trial, Lilly's oral GLP-1 Foundayo (orforglipron) cut sleep apnea breathing interruptions in adults with excess weight, compared with placebo. Participants also lost about 11% of their body weight. Lilly plans to approach the FDA about adding sleep apnea to the label.
+
+**Key facts**
+- The trial had 712 patients across two studies, with and without PAP machines.
+- Without PAP, episodes dropped 43.8% (21.1 per hour), compared with 4.3 per hour on placebo.
+- About 31.5% of the non-PAP group reached remission or mild disease.
+- Results were presented at the American Heart Association meeting and published in JAMA.
+
+**Good to know**
+- These are late-stage (phase 3) results, described as preliminary.
+- Foundayo isn't approved for sleep apnea yet, and an FDA application is still to come.
+- The new FDA eye-risk warning on GLP-1s also covers Foundayo.
+
+**Worth knowing:** Many people struggle with CPAP masks, so a daily pill option could be a big quality-of-life win if it's approved.
+
+**Read it yourself:**
+- [Fierce Pharma](https://www.fiercepharma.com/pharma/lilly-heads-fda-phase-3-foundayo-win-sleep-apnea): Lilly looks to gird Foundayo label after late-stage win in sleep apnea
+- [Medical Xpress](https://medicalxpress.com/news/2026-11-daily-oral-glp-medication-episodes.html): Daily, oral GLP-1 medication reduced episodes of sleep apnea in adults with excess weight
 
 
 ---
