@@ -1,0 +1,693 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-11T11:27:48.935179+00:00",
+  "local_time": "Wednesday, November 11, 2026 · 6:27 AM EST",
+  "local_date": "Nov 11, 2026",
+  "slug": "2026-11-11-0627-morning",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is led by Washington's response to last week's midterm losses for Republicans: House Republicans blocked an effort to impeach Defense Secretary Pete Hegseth and chose Jim Jordan as their next leader. Also covered: the fallout for Nvidia from reports about CEO Jensen Huang and an alleged Chinese spy, US charges against three alleged Iran-backed plotters, US-led Ukraine-Russia talks in Abu Dhabi, Spain's first general strike in 14 years, and two local stories from the Charlotte area.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "House votes 211-204 to send Hegseth impeachment resolution to committee",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The House voted 211-204 on Tuesday to refer Rep. Thomas Massie's resolution to impeach Defense Secretary Pete Hegseth to the Judiciary Committee, which effectively stalls it for the rest of this Congress. Massie, a Kentucky Republican leaving office in January, filed eight articles. They focus mainly on the Iran war but also cover strikes on alleged drug boats, Yemen, Venezuela and alleged retaliation against Sen. Mark Kelly. Hegseth called the effort a \"political spectacle\" and \"sabotage.\" President Trump called the vote an \"EXONERATION\" of Hegseth. Democrats, who take control of both chambers in January, back impeachment, and outlets across the spectrum expect the issue to return.",
+      "key_facts": [
+        "The motion to refer the resolution to committee passed 211-204; Massie was the only Republican to vote against it, alongside all Democrats who voted.",
+        "Massie's resolution contained eight articles of impeachment.",
+        "House Democratic leader Hakeem Jeffries said he was a \"hard yes\" on impeachment; Senate Democratic leader Chuck Schumer also endorsed it.",
+        "Hegseth held his first Pentagon news conference in about six months on the day of the vote.",
+        "Democrats take control of the House and Senate in January."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and Vox stressed that Republicans remain wary of crossing Trump after heavy midterm losses. They called Hegseth the public face of an unpopular eight-month war, quoted Jeffries at length, and said the reprieve is likely temporary. The Guardian also included Republican Rep. Warren Davidson's defense of Hegseth."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via the Korea Herald) and Axios called the vote a victory for Hegseth and GOP leaders but likely short-lived. AP gave space to Hegseth's defiant press conference, noted he offered few operational details, and tied the vote to Republican losses blamed partly on the Iran war and gas prices."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller focused on the procedural mechanics and Massie's charges. It noted that the concurrent war powers resolution had no force of law and quoted Hegseth calling Massie \"disgruntled and defeated.\" Reason's libertarian Volokh Conspiracy argued that Hegseth deserves impeachment, said the fight is \"far from over,\" and suggested Republicans used the procedural route because they may have lacked the votes to defeat it outright."
+        }
+      ],
+      "disputed": [
+        "Whether Hegseth's actions amount to impeachable offenses: Massie, Democrats and Reason's contributor say yes; Hegseth, Trump, Vance and Rep. Davidson say no.",
+        "Whether Republicans could have defeated the resolution in a direct vote is speculative.",
+        "Whether a future Senate could convict: Democrats are expected to hold 54-56 seats, short of the two-thirds needed without Republican votes."
+      ],
+      "why": "The vote delays but likely does not end a fight over the Iran war and the Pentagon's conduct, which may dominate the next Congress.",
+      "coverage": {
+        "left": 5,
+        "center": 7,
+        "right": 2
+      },
+      "n_outlets": 14,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
+          "url": "https://www.koreaherald.com/article/10933639",
+          "published": "2026-11-11T02:56:04+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+          "published": "2026-11-10T23:56:11+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "House GOP Blocks Thomas Massie’s Attempt To Impeach Pete Hegseth",
+          "url": "https://dailycaller.com/2026/11/10/house-gop-tables-impeachment-pete-hegseth-thomas-massie",
+          "published": "2026-11-10T23:04:03+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "GOP House rejects Hegseth impeachment effort",
+          "url": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
+          "published": "2026-11-10T23:06:08+00:00"
+        },
+        {
+          "source": "Vox",
+          "lean": "left",
+          "bucket": "left",
+          "title": "Hegseth escapes impeachment — for now",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/510266/hegseth-massie-impeachment-procedural-house-vote",
+          "published": "2026-11-10T23:55:00+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "The Hegseth Impeachment is Far From Over",
+          "url": "https://reason.com/volokh/2026/11/10/the-hegseth-impeachment-is-far-from-over/",
+          "published": "2026-11-11T04:18:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Missing 11-month-old found alive buried in crate in Lexington County, S.C.; father in custody",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Koah Sharpe, an 11-month-old reported missing Monday in Lexington County, South Carolina, was found alive Tuesday afternoon. He was buried in a wire dog crate wrapped in a towel near his paternal grandfather's home. Sheriff Jay Koon said searchers found freshly disturbed dirt and heard the baby crying. The child had been last seen with his father, 25-year-old Michael Comer. Comer was arrested Monday night on a burglary charge, and the sheriff's office is working with prosecutors on possible additional charges. The infant is being treated at a hospital.",
+      "key_facts": [
+        "The baby is believed to have been buried for about 24 hours.",
+        "He was found roughly 50 yards from the home of Comer's father.",
+        "About 100 people took part in the search.",
+        "No Amber Alert was issued because no vehicle description was available, the sheriff said.",
+        "Comer had been placed on probation just over a month earlier after pleading guilty to aggravated breach of peace."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian gave a straightforward account built on the sheriff's statements, emphasizing the rescue and the search effort."
+        },
+        {
+          "lean": "center",
+          "framing": "Local TV outlets provided more detail, including the timeline, why no Amber Alert was issued, the grandmother's reaction and Comer's prior record."
+        }
+      ],
+      "disputed": [
+        "Accounts differ on who left the child with Comer: WBTV says Comer's mother, while the Guardian says the child's mother, who was running an errand.",
+        "Additional charges against Comer have not yet been announced."
+      ],
+      "why": "It is a developing criminal case, and the baby's survival depended on a large multi-agency search.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sheriff: Missing Lexington County baby found alive after being buried in dog crate",
+          "url": "https://www.wbtv.com/2026/11/10/sheriff-missing-lexington-county-baby-found-alive-after-being-buried-dog-crate/",
+          "published": "2026-11-10T23:04:30+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Baby found alive after being buried in dog crate for 24 hours, South Carolina police say",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina",
+          "published": "2026-11-11T05:59:42+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing 11-month-old found buried alive in South Carolina, father arrested: Sheriff",
+          "url": "https://www.qcnews.com/news/u-s/south-carolina/missing-11-month-old-found-buried-alive-in-south-carolina-father-arrested-sheriff/",
+          "published": "2026-11-10T22:10:43+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing 11-month-old boy found buried alive near father's South Carolina home",
+          "url": "https://www.wcnc.com/article/news/crime/missing-11-month-old-boy-found-buried-alive-near-fathers-home/275-f4ddba22-41ae-4d48-b406-e76ae2ec3fb0",
+          "published": "2026-11-10T22:51:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Nvidia hires outside counsel to investigate reports about CEO Huang and alleged Chinese spy",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "Nvidia's independent directors hired the law firm Wachtell, Lipton, Rosen & Katz, led by former acting Manhattan US attorney Joon H. Kim. The probe will examine whether company secrets or national security were compromised following reports that CEO Jensen Huang had a relationship with Alice Huang, a businesswoman US intelligence agencies reportedly believe was gathering information for Beijing. Jensen Huang admitted on Sunday that he had been unfaithful and apologized. Nvidia shares fell for two days before rebounding about 5% in premarket trading Wednesday, ahead of earnings on Nov. 17. In South Korea, officials said contracted GPU shipments are expected to proceed.",
+      "key_facts": [
+        "Nvidia shares fell 4.3% Monday and 5.47% Tuesday, then rose about 5.3% in premarket trading Wednesday.",
+        "Nvidia reports quarterly earnings on Nov. 17.",
+        "Morgan Stanley removed Nvidia from its top-pick list.",
+        "Nvidia has pledged 260,000 GPUs to South Korea; Vice Minister Ryu Je-myung said he expects shipments to proceed without disruption.",
+        "Madison Huang canceled her appearance at Nvidia AI Day in Seoul, citing family reasons."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "All coverage came from center outlets. CNBC focused on investor reaction and analyst scenarios. Yonhap focused on risks to Korea's AI partnerships and chip suppliers. The Korea Herald profiled the investigator, and The Hill reported the hiring."
+        }
+      ],
+      "disputed": [
+        "The claim that Alice Huang was gathering intelligence for Beijing is attributed to US intelligence agencies via media reports and has not been confirmed publicly.",
+        "Whether any company secrets or national security information were compromised is the subject of the probe.",
+        "It is unclear whether the scandal will lead to tighter US regulation or changes in leadership."
+      ],
+      "why": "Nvidia is central to the global AI supply chain, so questions about its leadership could affect markets, export policy and allied tech partnerships.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(News Focus) Jensen Huang scandal casts uncertainty over S. Korea's deepening AI ties with Nvidia",
+          "url": "https://en.yna.co.kr/view/AEN20261111005900320",
+          "published": "2026-11-11T04:50:39+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+          "published": "2026-11-11T10:56:10+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Korean American ex-prosecutor to lead Nvidia probe into CEO's spy scandal",
+          "url": "https://www.koreaherald.com/article/10933754",
+          "published": "2026-11-11T05:10:50+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia hires former acting US attorney to investigate Jensen Huang",
+          "url": "https://thehill.com/policy/technology/6212083-nvidia-hired-former-us-attorney/",
+          "published": "2026-11-10T22:23:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "House Republicans elect Jim Jordan as minority leader; Senate GOP keeps Thune",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "House Republicans chose Rep. Jim Jordan of Ohio as their leader for the next Congress, defeating Majority Leader Steve Scalise 106-73 in a closed-door vote. Senate Republicans re-elected John Thune as their leader. The votes follow heavy Republican midterm losses that will give Democrats control of both chambers. Speaker Mike Johnson said he would not run for minority leader. Jordan, a Freedom Caucus founder and close Trump ally, will lead the party's response to promised Democratic investigations of the administration.",
+      "key_facts": [
+        "Jordan beat Scalise 106-73.",
+        "This was Jordan's third bid to lead House Republicans, after failed attempts in 2018 and 2023.",
+        "WBTV reported that Republicans are down 30 House seats, with 14 races still uncalled.",
+        "Jordan takes over on Jan. 3, 2027."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian described Jordan as a \"strident defender\" of Trump. It highlighted Republicans calling for a change in strategy, quoted Rep. Tim Burchett on admitting mistakes, and quoted Rep. Anna Paulina Luna blaming Scalise."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and WBTV reported the vote and statements directly. Axios framed the choice as a bet that Republicans shouldn't move away from Trump and as Jordan's turn from insurgent to establishment."
+        }
+      ],
+      "disputed": [
+        "The final size of the Republican minority is not settled, with 14 races uncalled per WBTV.",
+        "Whether Johnson will serve out the rest of his term is unclear."
+      ],
+      "why": "Jordan will shape how Republicans confront a Democratic Congress expected to investigate the Trump administration.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+          "published": "2026-11-10T22:00:40+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+          "published": "2026-11-10T22:42:43+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rep. Jim Jordan elected new House GOP leader",
+          "url": "https://www.wbtv.com/2026/11/10/rep-jim-jordan-elected-new-house-gop-leader/",
+          "published": "2026-11-10T23:27:58+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "House GOP bets on MAGA \"fighter\" Jim Jordan",
+          "url": "https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans",
+          "published": "2026-11-11T10:10:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Zelenskyy says he is encouraged by US envoys as Ukraine-Russia talks continue in Abu Dhabi",
+      "topics": [
+        "US Headlines",
+        "Korea"
+      ],
+      "summary": "Ukrainian President Volodymyr Zelenskyy said he was \"very happy\" with messages from US envoys Jared Kushner and Steve Witkoff as the first US-led three-way talks with Russia since February opened in Abu Dhabi. Russian Foreign Minister Sergei Lavrov said Moscow would not agree to an immediate ceasefire and wanted to discuss a European security architecture first. Zelenskyy argued instead for a sequence of ending the war, then security guarantees for Ukraine, then broader security talks. In a speech to Denmark's parliament, he said Europe \"must be at the table.\" A second day of talks was set for Wednesday.",
+      "key_facts": [
+        "These are the first trilateral talks since February.",
+        "Kushner said the US had \"narrowed the gaps,\" without giving details.",
+        "Zelenskyy said the US side confirmed Ukraine's assessment of the battlefield, disputing a Russian claim to occupy half of Donbas.",
+        "Lavrov said Russia would not accept an immediate ceasefire."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian highlighted Zelenskyy's criticism of Putin's \"different reality,\" his remarks to the Danish parliament, and his insistence on European involvement."
+        },
+        {
+          "lean": "center",
+          "framing": "Reuters (via the Korea Herald) focused on Zelenskyy's careful praise of US envoys and the disagreement with Lavrov over sequencing a ceasefire and security talks."
+        }
+      ],
+      "disputed": [
+        "Battlefield claims about Donbas are disputed between Russia and Ukraine.",
+        "It is unclear what the US and Russia discussed privately; Zelenskyy said no one had seen the documents.",
+        "How much the gaps have actually narrowed is unknown."
+      ],
+      "why": "The talks are the first direct three-way diplomacy in months on Europe's largest war.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ukraine's Zelenskyy says he is pleased with messages from US envoys on diplomatic efforts to end war",
+          "url": "https://www.koreaherald.com/article/10933683",
+          "published": "2026-11-11T03:54:40+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+          "published": "2026-11-11T11:16:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Pedestrian killed in hit-and-run in south Charlotte",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "A pedestrian was struck and killed Tuesday night near Nations Ford Road and East Arrowood Road in south Charlotte, and the driver left the scene, according to Charlotte-Mecklenburg Police. Police closed the area to investigate. No information about the victim or the vehicle has been released. WBTV noted several recent pedestrian crashes in the region.",
+      "key_facts": [
+        "The crash happened Tuesday night, Nov. 10, near Nations Ford Road and East Arrowood Road.",
+        "CMPD is investigating it as a fatal hit-and-run."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local outlets gave brief, police-sourced reports. WBTV placed the crash in the context of other recent pedestrian crashes, including the death of a 6-year-old last month."
+        }
+      ],
+      "disputed": [
+        "Reported times differ: WBTV said around 9:40 p.m., while WSOC said just before 9 p.m.",
+        "The victim's identity and the driver are unknown."
+      ],
+      "why": "It adds to a run of pedestrian crashes in the Charlotte area that has drawn attention to road safety.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pedestrian killed in hit-and-run in south Charlotte, police report",
+          "url": "https://www.wbtv.com/2026/11/11/pedestrian-killed-hit-and-run-south-charlotte-police-report/",
+          "published": "2026-11-11T04:30:17+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Fatal hit-and-run investigation underway in south Charlotte",
+          "url": "https://www.wsoctv.com/news/local/fatal-hit-and-run-investigation-under-way-south-charlotte/GXQML2LLLFHCJAUP6PIK4DGGF4/",
+          "published": "2026-11-11T03:41:39+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CMPD investigates fatal hit-and-run in southwest Charlotte Tuesday night",
+          "url": "https://www.wcnc.com/article/news/crime/cmpd-investigates-fatal-hit-and-run-in-southwest-charlotte-tuesday-night/275-a909779c-54dd-48aa-87d2-6adc49dea8ee",
+          "published": "2026-11-11T04:47:59+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pedestrian killed in hit-and-run in SW Charlotte: CMPD",
+          "url": "https://www.qcnews.com/charlotte/pedestrian-killed-in-hit-and-run-in-sw-charlotte-cmpd/",
+          "published": "2026-11-11T02:58:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "CoreWeave raises outlook after strong quarter amid scrutiny of AI cloud firms",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "CoreWeave shares rose about 11% in premarket trading Wednesday after the company reported third-quarter revenue up 168% to $3.7 billion and raised its full-year guidance. The company had drawn concern after spreads on its credit default swaps widened past 11%, a level generally seen as signaling distress. Other AI cloud providers, known as neoclouds, also rose. A Washington Examiner piece argued that these firms' reports matter because markets are increasingly worried about AI demand and debt loads.",
+      "key_facts": [
+        "Q3 revenue was $3.7 billion, up 168%.",
+        "2026 revenue guidance is $13 billion to $13.3 billion, versus the $12.86 billion analysts expected.",
+        "Nebius rose 10.2% and IREN 6.3% in premarket trading."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC framed the results as easing fears of an AI slowdown and quoted an analyst who suggested it might be \"the bottom\" for the stock."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner emphasized wider risks: debt-heavy neoclouds, a reported drop in Anthropic's expected IPO valuation, and hotter-than-expected inflation data."
+        }
+      ],
+      "disputed": [
+        "Whether demand for AI computing is sustainable remains contested."
+      ],
+      "why": "Results from AI infrastructure firms are being watched as a gauge of whether the AI investment boom is holding up.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns",
+          "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+          "published": "2026-11-11T10:11:37+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Why the CoreWeave and Nebius reports are so important to the AI build-out",
+          "url": "https://www.washingtonexaminer.com/opinion/4799453/why-the-coreweave-and-nebius-reports-offer-important-insights-to-the-ai-build-out/",
+          "published": "2026-11-11T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Records show blacklisted Chinese defense university bought Nvidia H200 chips",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "Reuters reported that Northwestern Polytechnical University, a Chinese university with military ties that has been on a US export blacklist since 2001, bought two Nvidia H200 chips in October through a domestic supplier. The university also rented access to such chips this year. A Reuters review of 26 Chinese records found other institutions obtaining restricted Nvidia computing power in similar ways. Nvidia, the university and the US Commerce Department did not respond to requests for comment. The report comes as Nvidia CEO Jensen Huang faces scrutiny in Washington.",
+      "key_facts": [
+        "The university paid 874,700 yuan (about $123,000) for two H200 chips, according to an Oct. 21 procurement record.",
+        "The chips came from Shaanxi Bosuan Network Technology, not directly from Nvidia.",
+        "The Trump administration began allowing some H200 exports to China case by case in January, but that did not cover Entity List institutions.",
+        "Three Republican committee chairmen have requested a briefing with Huang on Nov. 18."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera republished the Reuters findings and linked them to the scrutiny over Huang's affair with an alleged spy."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post ran the same Reuters reporting, emphasizing PLA ties and gaps in Washington's export controls."
+        }
+      ],
+      "disputed": [
+        "How the chips reached the supplier is not established.",
+        "Nvidia has not responded to the report."
+      ],
+      "why": "The findings point to gaps in US export controls on advanced AI chips at a time of intense scrutiny of Nvidia.",
+      "coverage": {
+        "left": 1,
+        "center": 0,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+          "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show",
+          "published": "2026-11-11T07:26:28+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+          "url": "https://nypost.com/2026/11/11/business/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/",
+          "published": "2026-11-11T08:31:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Spain holds first general strike in 14 years over housing costs",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Millions of Spanish workers joined a 24-hour general strike on Wednesday demanding government action on housing. The strike disrupted transport, factories and some flights. It was called by housing activists and the UGT and CCOO unions after the eviction and later death of 87-year-old Maricarmen Abascal in Madrid. It comes ahead of a Nov. 29 snap election that Prime Minister Pedro Sánchez called after parliament blocked his housing measures. The government backed the strike, while the conservative People's Party and the far-right Vox criticized it.",
+      "key_facts": [
+        "This is Spain's first general strike in 14 years.",
+        "The unions reported stoppages of 90% in the automotive and port sectors.",
+        "Average rent has nearly doubled in 10 years, per NPR and Al Jazeera.",
+        "Spain's national election is set for Nov. 29."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR and Al Jazeera focused on housing affordability, union participation figures and tenant activists. They noted the election could bring the far right to power and included criticism from the PP and business groups."
+        },
+        {
+          "lean": "center",
+          "framing": "DW gave housing-deficit statistics, reported pepper-spray allegations in Madrid, and highlighted the dispute over whether the strike is aimed at the opposition."
+        }
+      ],
+      "disputed": [
+        "Strikers said police used pepper spray at Mercamadrid; DW reported at least 13 people sought medical attention.",
+        "Whether the strike is politically aligned with Sánchez's party is contested by the PP and business groups.",
+        "Accounts of when the eviction happened differ: 'last month' (NPR) versus September (Al Jazeera)."
+      ],
+      "why": "Housing has become a central issue in an election that could shift Spain's government.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Spain: Housing crisis prompts general strike",
+          "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-11T09:11:00+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
+          "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+          "published": "2026-11-11T09:54:54+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Spain’s first general strike in 14 years begins",
+          "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+          "published": "2026-11-11T10:18:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "US charges three alleged Iran-backed operatives over plots in Europe, including RAF Fairford",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Federal prosecutors in New York unsealed an eight-count indictment charging three men with directing nearly 20 attacks and attempted attacks in Europe and the US on behalf of Iran's IRGC and the Iraqi militia Kataib Hezbollah. The alleged plots included a September incident near RAF Fairford, a UK base used by US forces. The DOJ says the men operated through a front group called HAYI. HAYI claimed 18 attacks in Europe this spring, seven of them in the UK, including a stabbing of two Jewish men in London. Iran denies involvement in the Fairford incident. One defendant allegedly communicated from a New York jail.",
+      "key_facts": [
+        "The defendants are Mohsen Mohajeri, Mohammad Ali al-Hassani and Mohammad Baqer Saad Dawood al-Saadi.",
+        "The DOJ said HAYI claimed 18 attacks in Europe this spring, seven of them in the UK.",
+        "No explosives were found in the vans near RAF Fairford, but petrol was seized.",
+        "Seven men have been arrested in the UK over the Fairford incident."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR detailed the indictment's allegations, including attacks allegedly coached remotely over FaceTime. PBS placed the charges in a news roundup alongside US aircraft moves from UK bases."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC focused on the UK angle and the Fairford timeline, and included Iran's denial and FBI Director Kash Patel's comments."
+        }
+      ],
+      "disputed": [
+        "Iran denies involvement; the charges are allegations that have not been proven in court.",
+        "A Wall Street Journal report that the security threat behind US aircraft moves from RAF Mildenhall is linked to Iran has not been confirmed."
+      ],
+      "why": "The case alleges that the Iran conflict has extended to attacks on Jewish communities and allied bases in Europe.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T01:01:20+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "News Wrap: U.S. charges 3 with plotting attacks",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-u-s-charges-3-with-plotting-attacks-at-air-base-and-jewish-communities",
+          "published": "2026-11-10T23:45:02+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+          "published": "2026-11-11T10:02:54+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "No articles in this edition directly address AI regulation in the US or EU. The nearest coverage concerns US export controls on Nvidia chips to China (see s8).",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 10,
+    "center": 20,
+    "right": 4
+  },
+  "stats": {
+    "articles": 466,
+    "stories_found": 354,
+    "sources_ok": 38,
+    "sources_total": 39,
+    "failed": [
+      "Newsweek"
+    ]
+  }
+}
