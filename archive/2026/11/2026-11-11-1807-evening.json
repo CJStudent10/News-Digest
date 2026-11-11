@@ -1,0 +1,763 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-11T23:07:37.134997+00:00",
+  "local_time": "Wednesday, November 11, 2026 · 6:07 PM EST",
+  "local_date": "Nov 11, 2026",
+  "slug": "2026-11-11-1807-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "Nvidia's board is reportedly weighing whether to remove CEO Jensen Huang after a second alleged affair surfaced, days after a scandal over his relationship with an alleged Chinese spy. In Washington, Democrat Scott Colom won Mississippi's Senate race, Thomas Massie forced a new Epstein files vote a day after his Hegseth impeachment bid failed, and the White House warned incoming Democratic investigators about overstepping. The edition also covers a South Carolina child-endangerment case, a Charlotte school district breakup proposal, Toyota's US-built kei truck and a change to South Korea's rules on weight-loss drugs.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia board reportedly weighs removing CEO Jensen Huang after report of second affair",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "The New York Times reported that Nvidia CEO Jensen Huang had a second extramarital relationship, this one with Kimberly Powell, an executive who reports to him. The report came days after Huang admitted infidelity amid reports of an affair with Alice Huang, a Megaspeed executive and Nvidia customer who is alleged to be a Chinese intelligence asset. The Wall Street Journal reported that the board is preparing to dismiss Huang and could meet as soon as Wednesday. That would be a reversal from days earlier, when the company said he would continue leading 'without interruption' and hired Wachtell, Lipton, Rosen & Katz to investigate. President Trump has publicly stood by Huang, according to The Hill.",
+      "key_facts": [
+        "Huang, 63, is reported to have had a relationship with Kimberly Powell, 48, Nvidia's vice president of health care.",
+        "Nvidia's board hired Wachtell, Lipton, Rosen & Katz, led by former acting US attorney Joon Kim, to run an independent investigation overseen by independent directors.",
+        "Nvidia shares closed up 2.9% at $173.73 on Wednesday, then fell after hours following the Times report; the company had lost about $311bn in market value since Friday.",
+        "US ambassador to China David Perdue said the situation is 'another reminder that we have to stay diligent' because 'economic security is national security.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on the board's choice of law firm, with lengthy background on Wachtell and Joon Kim, and quoted Ambassador Perdue on national security. The Verge led with the Journal's report that the board was preparing to fire Huang, noting the board apparently would not wait for its own investigation to finish."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios stressed the stakes beyond one company, calling Huang arguably the world's most powerful CEO with no obvious successor. The Hill focused on Trump's defense of Huang and whether close ties between the president and industry leaders could undercut national security concerns."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News framed the story as part of a wider pattern of foreign 'honeytrap' espionage aimed at US tech executives, quoting former NSA analyst Ira Winkler and describing Megaspeed as a suspected front for evading export controls. The New York Post emphasized the board's sharp reversal from backing Huang days earlier."
+        }
+      ],
+      "disputed": [
+        "Whether the board will actually remove Huang; the reports rely on unnamed sources cited by the Wall Street Journal.",
+        "Whether Alice Huang is a Chinese intelligence asset; Fox attributes this to US intelligence, while other outlets call her an 'alleged' spy.",
+        "Nvidia initially denied an improper relationship, and Huang's later admission of infidelity did not name Alice Huang directly.",
+        "Details of the alleged relationship with Powell, including reported video from the March GTC conference, have not been confirmed by Nvidia."
+      ],
+      "why": "Nvidia sits at the center of the AI boom, so leadership turmoil there has consequences for markets, AI supply chains and US-China technology policy.",
+      "coverage": {
+        "left": 3,
+        "center": 4,
+        "right": 4
+      },
+      "n_outlets": 11,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+          "url": "https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares",
+          "published": "2026-11-11T22:59:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+          "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+          "published": "2026-11-11T21:59:07+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Foreign spy ‘honeytraps’ targeting America’s tech elite spark alarm amid Nvidia CEO scandal",
+          "url": "https://www.foxnews.com/us/foreign-spy-honeytraps-targeting-americas-tech-elite-spark-alarm-amid-nvidia-ceo-scandal",
+          "published": "2026-11-11T20:54:52+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump embraces Huang as espionage scandal shakes Nvidia",
+          "url": "https://thehill.com/homenews/administration/6214652-trump-defends-nvidia-ceo-scandal/",
+          "published": "2026-11-11T22:52:18+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "published": "2026-11-11T22:44:36+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nvidia preps to boot Jensen Huang in wake of alleged affairs, Chinese ‘spy’ scandal",
+          "url": "https://nypost.com/2026/11/11/business/nvidia-preps-to-boot-jensen-huang-in-wake-of-alleged-affairs-chinese-spy-scandal/",
+          "published": "2026-11-11T22:41:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi Senate race",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Scott Colom, a district attorney, defeated Republican Sen. Cindy Hyde-Smith in Mississippi after more than a week of counting. CNN projected the result first, and the Associated Press called it later Wednesday. Colom's lead grew as affidavit (provisional) ballots were counted, with strong margins in Hinds County. He becomes the first Democrat elected to the Senate from Mississippi since John Stennis in 1982, and its first Black senator since Reconstruction. Mississippi has no automatic recount; it is unclear whether Hyde-Smith will contest the result, a dispute that could ultimately reach the Senate.",
+      "key_facts": [
+        "Colom led 49.2% to 48.7%, a margin of roughly 4,400 to 4,500 votes; independent Ty Pinkins had about 2.1%.",
+        "Trump won Mississippi by about 23 points in 2024.",
+        "CNBC reported that Democrats have flipped seven Republican-held Senate seats, giving them at least 54 seats in January.",
+        "Local officials have until Friday to finish counting and certify results."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS ran a brief AP bulletin announcing Colom's win, with no further framing."
+        },
+        {
+          "lean": "center",
+          "framing": "Outlets emphasized the historic nature of the result and the mechanics of the count. CNBC detailed affidavit ballots and the Hinds County vote; Newsweek covered the lack of a recount and Hyde-Smith's possible challenge, and cited pre-election polls showing her ahead; Axios called it part of a 'historic blue wave.'"
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post called it an upset and a 'massive rebuke' of Trump and the GOP. It described Trump's campaign stop as a 'desperate bid' and listed other Democratic wins in red states."
+        }
+      ],
+      "disputed": [
+        "Whether Hyde-Smith will challenge the result in court or before the Senate.",
+        "Reported shares of ballots counted varied by outlet and time (95% to 99%).",
+        "Outlets described Colom's milestone slightly differently: Newsweek called him the first Black Mississippian 'popularly elected' to the Senate, while others called him the state's first Black senator since Reconstruction."
+      ],
+      "why": "The result widens the Democrats' incoming Senate majority and is a rare Democratic win in a deep-red state.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom Makes History With Mississippi Senate Win, CNN Projects",
+          "url": "https://www.newsweek.com/scott-colom-makes-history-with-mississippi-senate-win-cnn-projects-12661104",
+          "published": "2026-11-11T22:17:18+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Scott Colom wins Senate election in Mississippi",
+          "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+          "published": "2026-11-11T23:01:15+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Dem Scott Colom defeats Mississippi Sen. Hyde-Smith after weeklong nailbiter",
+          "url": "https://nypost.com/2026/11/11/us-news/mississippi-dem-scott-colom-defeats-hyde-smith-in-senate-race/",
+          "published": "2026-11-11T23:07:25+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+          "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+          "published": "2026-11-11T19:55:39+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
+          "url": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
+          "published": "2026-11-11T23:05:56+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race",
+          "url": "https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/",
+          "published": "2026-11-11T12:55:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Massie petition reaches 218 signatures, forcing House vote on second Epstein files bill",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Thomas Massie (R-Ky.) announced that his discharge petition for the Epstein Files Transparency Act II reached the 218 signatures needed to force a House floor vote. Republicans Brian Fitzpatrick, Nancy Mace and Ralph Norman joined Massie and House Democrats; Democrats Adam Smith and John Garamendi supplied the final signatures. The bill would let survivors, state officials and members of Congress sue the attorney general to enforce the 2025 law requiring release of Epstein records. The Justice Department says it complied by releasing about 3.5 million pages, but lawmakers dispute this. Democrats, who take control of Congress in January, have promised hearings.",
+      "key_facts": [
+        "The petition reached 218 signatures on Wednesday, one day after the House blocked Massie's effort to impeach Pete Hegseth.",
+        "The original Epstein Files Transparency Act was signed in November 2025; just one House member voted against it.",
+        "The Republican-led House Oversight Committee said it found no documents implicating Trump in criminal activity related to Epstein and Maxwell.",
+        "Asked for comment, the White House pointed to a Trump post calling Massie a 'major LOSER' over the Hegseth vote; the post did not mention Epstein."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera looked ahead to what Democratic majorities could do with subpoena power. It noted accusations that the administration thwarted transparency and that Trump-opposed Republicans lost primaries, while also quoting the Republican committee report's 'witch hunt' language."
+        },
+        {
+          "lean": "center",
+          "framing": "Newsweek, Axios and The Hill focused on the procedural milestone and on Massie as an outgoing Trump critic. They noted that survivors and lawmakers say records are still being withheld, and Newsweek included the White House's response."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner gave a short, straight procedural account of the signatures and who signed."
+        }
+      ],
+      "disputed": [
+        "Whether the Justice Department has fully complied with the 2025 law; it says yes, while lawmakers cite millions of unpublished pages and heavy redactions.",
+        "When the vote will happen, and whether the bill could pass the Senate or survive a possible veto."
+      ],
+      "why": "The vote keeps the fight over the Epstein records alive as control of Congress shifts to Democrats.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Short List of Republicans Joining Thomas Massie to Force Epstein Files Vote",
+          "url": "https://www.newsweek.com/full-list-of-republicans-joining-thomas-massie-to-force-epstein-files-vote-12702268",
+          "published": "2026-11-11T23:04:06+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Can Democrats shed some new light on the Epstein files when they take over?",
+          "url": "https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over",
+          "published": "2026-11-11T17:44:18+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Massie’s Epstein files discharge petition gathers enough support to force vote on bill",
+          "url": "https://www.washingtonexaminer.com/news/house/4800597/thomas-massie-epstein-files-petition-vote/",
+          "published": "2026-11-11T21:27:47+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Outgoing Trump foe Massie forces new Epstein files showdown",
+          "url": "https://www.axios.com/2026/11/11/massie-epstein-files-second-vote",
+          "published": "2026-11-11T21:17:37+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Massie secures signatures to force vote on second Epstein files petition",
+          "url": "https://thehill.com/homenews/house/6214408-massie-epstein-files-discharge-petition/",
+          "published": "2026-11-11T21:25:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "White House counsel warns Democrats their planned investigations 'may cross the line into blatant criminality'",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "White House counsel William Scharf sent a three-page letter to Rep. Robert Garcia, the expected incoming chair of the House Oversight Committee. The letter argued that Democrats' planned investigations could exceed constitutional limits and 'may cross the line into blatant criminality.' It cited Democratic statements such as Garcia's 'Lawyer up' post and pledges to issue subpoenas 'like candy.' Garcia replied that 'it appears Donald Trump has something to hide' and said Congress will not be deterred. The letter did not say what action the White House might take; Trump had earlier called Democrats' statements 'extortion.'",
+      "key_facts": [
+        "Democrats take control of both chambers when the new Congress is sworn in on January 3.",
+        "Scharf wrote that Democrats sought to 'intimidate and to interfere with the lawful functioning of government.'",
+        "Garcia said Congress's authority comes from Article I, 'not from the permission of the White House.'",
+        "Reason reported that Trump called for imprisonment and a DOJ investigation, and that Attorney General Todd Blanche agreed."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera, PBS and The Guardian centered Garcia's rebuttal and his 'something to hide' quote, and published or summarized the letter. The Guardian tied the dispute to exit polling showing corruption was a major voter concern."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill described the letter as showing the administration's aggressive stance and as a move to 'investigate the investigators.'"
+        },
+        {
+          "lean": "right",
+          "framing": "Reason, a libertarian outlet, was skeptical of the White House. It noted that neither Trump nor Blanche explained how political rhetoric amounts to a crime, called such rhetoric generally protected speech, and cited Politico calling the letter a departure from precedent."
+        }
+      ],
+      "disputed": [
+        "Accounts differ on timing: Al Jazeera and The Hill say the letter was sent Monday, while PBS says Wednesday.",
+        "What, if any, legal action the administration might take against lawmakers.",
+        "Whether Democrats' planned probes serve a legitimate legislative purpose, as they say, or are meant to harass, as the White House argues."
+      ],
+      "why": "The exchange previews a likely clash between the executive branch and Congress over oversight once Democrats take power.",
+      "coverage": {
+        "left": 3,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "White House pushes back on Democrats, saying investigations could ‘cross the line’ into crime",
+          "url": "https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/",
+          "published": "2026-11-11T14:39:24+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+          "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse",
+          "published": "2026-11-11T20:39:50+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Democrats' Investigations Could Constitute 'Blatant Criminality,' Says White House Counsel",
+          "url": "https://reason.com/2026/11/11/democrats-investigations-could-constitute-blatant-criminality-says-white-house-counsel/",
+          "published": "2026-11-11T20:15:02+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+          "url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
+          "published": "2026-11-11T19:27:31+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia",
+          "published": "2026-11-11T16:54:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Father charged with attempted murder after infant found buried alive in South Carolina",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Eleven-month-old Koah Sharp went missing Monday in Lexington County, South Carolina, after his father, Michael Comer, 25, left with him while the boy's grandmother was out. Comer was arrested Monday night hiding in an outbuilding; surveillance video had shown him without the baby. On Tuesday, searchers found freshly disturbed dirt near his father's home, heard crying, and dug Koah out of a buried dog crate wrapped in a towel. The sheriff's office now accuses Comer of burying the child alive and has charged him with attempted murder and other offenses. He has a bond hearing Thursday.",
+      "key_facts": [
+        "Comer faces charges of attempted murder, unlawful conduct toward a child, custodial interference and burglary.",
+        "About 100 law enforcement officers and first responders took part in the search.",
+        "Sheriff Jay Koon said the towel likely created an air pocket and that the child may have been buried for about 24 hours.",
+        "WBTV reported Koah was released from the hospital Wednesday and is expected to fully recover."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS, running the AP story, emphasized the rescue and the sheriff's quotes. It included the great-aunt's account that Comer had talked of taking the baby to New York, and the sheriff's mention of domestic violence issues between the parents."
+        },
+        {
+          "lean": "center",
+          "framing": "Local stations and the BBC gave a detailed timeline of the search, the sheriff's quotes and Comer's prior record. WBTV reported the new charges and included the family's GoFundMe; the BBC quoted Comer's mother saying she 'never expected this.'"
+        }
+      ],
+      "disputed": [
+        "No motive has been established.",
+        "It is unclear whether Comer has a lawyer."
+      ],
+      "why": "It is a serious child-endangerment case, and it raises questions about how earlier domestic violence cases and probation were handled.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Father of baby found buried alive in Lexington County facing new charges",
+          "url": "https://www.wbtv.com/2026/11/11/father-baby-found-buried-alive-lexington-county-facing-new-charges/",
+          "published": "2026-11-11T22:06:23+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
+          "url": "https://www.pbs.org/newshour/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-in-a-dog-crate-for-24-hours",
+          "published": "2026-11-11T20:59:24+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing 11-month-old baby found buried alive in dog crate; father arrested",
+          "url": "https://www.wsoctv.com/news/trending/missing-11-month-old-baby-found-buried-alive-dog-crate-father-arrested/YG7552I3H5FRHCVA7VZJNNER54/",
+          "published": "2026-11-11T12:38:13+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T18:10:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Toyota revives Scion brand with Indiana-built kei truck capped at 25 mph",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Toyota is bringing back its Scion brand as 'Scion by Toyota,' an experimental line whose first vehicle is the KEI-01, a Japanese-style kei truck. The truck will be built in Princeton, Indiana, and is due in the second half of 2027. Because it is certified under federal low-speed vehicle rules, its top speed will be limited to 25 mph. Outlets noted President Trump's past enthusiasm for allowing kei vehicles in the US.",
+      "key_facts": [
+        "The KEI-01 has a 660cc three-cylinder engine, on-demand 4WD and a payload of up to 600 pounds.",
+        "Toyota is investing $34 million in its Indiana plant for the truck.",
+        "More than 30,000 used kei trucks have been imported into the US since 2020.",
+        "The Washington Examiner reports the equivalent Japanese model can reach 87 mph."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge gave a feature-focused review of the truck's size, utility and likely low price, presenting Scion as a testing ground aimed at fleets and younger buyers."
+        },
+        {
+          "lean": "center",
+          "framing": "Ars Technica placed the truck in a policy context, arguing that US fuel economy rules have favored large SUVs, and noted the Transportation Department has said little about Trump's kei car push."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner highlighted Trump's admiration for kei trucks and the 'catch' of the 25 mph cap compared with the Japanese version."
+        }
+      ],
+      "disputed": [
+        "Pricing and trim levels have not been announced."
+      ],
+      "why": "It tests whether there is a US market for very small, cheap utility vehicles.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
+          "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+          "published": "2026-11-11T15:25:44+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+          "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+          "published": "2026-11-11T17:09:58+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Toyota set for US production of tiny ‘kei’ trucks admired by Trump, with a catch",
+          "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4800759/toyota-us-production-tiny-trucks-admired-by-trump/",
+          "published": "2026-11-11T23:00:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "House votes 211-204 to send Hegseth impeachment articles to committee, effectively ending the effort",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The House voted 211-204 to refer Rep. Thomas Massie's articles of impeachment against Defense Secretary Pete Hegseth to the Republican-led Judiciary Committee, effectively ending the effort this Congress. The articles accuse Hegseth, among other things, of waging war on Iran without congressional authorization. All Republicans except Massie voted to refer the articles; 11 Democrats missed the vote, drawing criticism from colleagues. Hegseth called the effort a 'farce,' Trump called it a failure, and Democratic leader Hakeem Jeffries said 'this is not the end of it.' Democrats could revive impeachment when they take control in January.",
+      "key_facts": [
+        "The vote was 211-204 to refer the resolution to the Judiciary Committee.",
+        "Eleven Democrats and, according to Reason, seven Republicans missed the vote.",
+        "Massie's resolution contained eight articles, including three on the Iran war and alleged War Powers Resolution violations.",
+        "Several absent Democrats blamed traffic; Reason reported some had been at an 'Elect Democratic Women' reception."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The BBC and The Hill reported the vote count, Trump's and Massie's reactions, and Democratic anger at absent colleagues, including Rep. Sydney Kamlager-Dove calling it 'shameful.'"
+        },
+        {
+          "lean": "right",
+          "framing": "Right-leaning coverage was split. A New York Post opinion piece defended Hegseth's record on Iran and Venezuela and called a future Democratic impeachment partisan. A Daily Caller newsletter made the case for impeaching him, arguing Republicans put party over country. Reason focused on the absent Democrats and suggested many members preferred not to go on record."
+        }
+      ],
+      "disputed": [
+        "Whether the Iran conflict amounts to an unauthorized war; the administration has disputed calling it a war, while critics say it violated the War Powers Resolution.",
+        "Whether Democratic leaders were content to see the vote fail, as Reason suggests."
+      ],
+      "why": "The vote shows where House Republicans stand on Hegseth and sets up a likely Democratic impeachment push next year.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 3
+      },
+      "n_outlets": 5,
+      "blindspot": "right",
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T11:47:22+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Pete Hegseth’s success draws Democrats’ impeachment fire",
+          "url": "https://nypost.com/2026/11/11/opinion/pete-hegseths-success-draws-democrats-impeachment-fire/",
+          "published": "2026-11-11T22:59:02+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "House Democrat rips colleagues who missed Hegseth vote: ‘Shameful’",
+          "url": "https://thehill.com/homenews/house/6212860-house-democrat-kamlager-dove-hegseth-impeachment-vote/",
+          "published": "2026-11-11T14:29:31+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Democrats Miss Hegseth Impeachment Vote for 'Elect Democratic Women' Event",
+          "url": "https://reason.com/2026/11/11/democrats-miss-hegseth-impeachment-vote-for-elect-democratic-women-event/",
+          "published": "2026-11-11T18:56:29+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "STATE OF WEDNESDAY: The Case For Impeaching Pete Hegseth",
+          "url": "https://dailycaller.com/2026/11/11/state-of-wednesday-pete-hegseth-impeachment-thomas-massie-house-republicans",
+          "published": "2026-11-11T15:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "NC Republican lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board members say",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "CMS board members Anna London and Dee Rankin say the staff of Republican state Rep. David Willis of Union County told them he plans a bill to split up Charlotte-Mecklenburg Schools and trigger school board recall elections. The district has recently fired its superintendent and faces multiple investigations into its finances. London said a breakup would harm students. Democratic Rep. Laura Budd called the plan a bid for relevance after the election, while critics of the district have long argued it is too large. Legislators return for a short session next week, before Democrats take control of the state House.",
+      "key_facts": [
+        "CMS has about 140,000 students in 185 schools and facilities.",
+        "Willis is a chair of the House K-12 education committee.",
+        "A 2018 legislative committee studied breaking up CMS but did not recommend it.",
+        "The Charlotte Ledger first reported the plan."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE included the view of critics who say CMS is too large and unwieldy, alongside London's concerns about inequities, and noted the incoming Democratic control of the state House."
+        },
+        {
+          "lean": "center",
+          "framing": "WSOC emphasized the district's recent controversies and quoted both London and Budd's dismissal of the plan. Queen City News gave a brief report attributed to WBT Radio."
+        }
+      ],
+      "disputed": [
+        "Willis has not publicly confirmed the bill or its timeline, and did not respond to requests for comment.",
+        "How a recall election would work is unclear."
+      ],
+      "why": "Splitting one of the country's 20 largest school districts would reshape education for about 140,000 students.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says",
+          "url": "https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/",
+          "published": "2026-11-11T22:22:55+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Lawmaker to propose bill that would split up Charlotte-Mecklenburg Schools, board member says",
+          "url": "https://www.wfae.org/education/2026-11-11/lawmaker-to-propose-bill-that-would-split-up-charlotte-mecklenburg-schools-board-member-says",
+          "published": "2026-11-11T21:11:11+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC lawmaker proposes breaking up Charlotte-Mecklenburg Schools: report",
+          "url": "https://www.qcnews.com/news/charlotte-mecklenburg-schools/nc-lawmaker-proposes-breaking-up-charlotte-mecklenburg-schools-report/",
+          "published": "2026-11-11T20:56:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Records show blacklisted Chinese military-linked university bought Nvidia H200 chips",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "Korea"
+      ],
+      "summary": "Reuters, citing procurement records, reported that Northwestern Polytechnical University, which has been on the US Entity List since 2001, bought two Nvidia H200 AI chips in October through a domestic supplier. The university also rented access to Nvidia-powered computing through five contracts. A Reuters review of 26 records found other Chinese institutions obtaining restricted chips the same way. The report comes as Nvidia CEO Jensen Huang faces scrutiny over his lobbying for looser export rules and his reported contacts with an alleged Chinese operative.",
+      "key_facts": [
+        "The two chips cost 874,700 yuan (about $123,000), according to an October 21 procurement record.",
+        "The chips were bought from Shaanxi Bosuan Network Technology rather than from Nvidia directly.",
+        "The university belongs to the 'Seven Sons of National Defense' group and researches military aircraft, missiles and satellites.",
+        "Three Republican committee chairmen have requested a briefing with Huang on November 18."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald, carrying Reuters, focused on gaps in export control enforcement and included both Huang's argument for continued sales to China and lawmakers' security concerns."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller relayed the Reuters findings and added a long list of past Chinese espionage cases, including the Fang Fang case involving Rep. Eric Swalwell, framing the purchase as part of a decades-long pattern."
+        }
+      ],
+      "disputed": [
+        "Nvidia, the university and the Commerce Department did not respond, so how the chips reached the supplier is unknown."
+      ],
+      "why": "The findings raise doubts about whether US export controls can keep advanced AI chips away from China's military.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+          "url": "https://www.koreaherald.com/article/10934237",
+          "published": "2026-11-11T12:26:15+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Blacklisted Chinese Military University Gets Its Hands On Powerful American AI Chips",
+          "url": "https://dailycaller.com/2026/11/11/powerful-american-ai-technology-finding-way-china",
+          "published": "2026-11-11T21:02:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "South Korea to let travelers bring in up to three months of prescribed weight-loss drugs",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Starting Thursday, South Korea will allow travelers to bring in drugs such as Wegovy and Mounjaro in hand luggage if the drugs were legally prescribed and bought abroad. The limit is six units or a three-month supply. The change followed complaints that legally prescribed medicines were being treated like illicitly sourced ones. Lower prices in Japan have drawn Koreans there for prescriptions. Officials say they will monitor concerns about storage, misuse and resale.",
+      "key_facts": [
+        "Customs detected 1,097 unauthorized-entry cases involving these drugs from January to August, versus 134 in all of 2025.",
+        "The lowest-dose four-week supply of Mounjaro costs about 300,000 won in Korea, versus about 100,000 won at some Japanese clinics.",
+        "The rule does not apply to direct purchases from overseas."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and The Korea Herald reported the policy straightforwardly. The Herald added price comparisons, the 'sushijaro' nickname and safety concerns raised by experts."
+        }
+      ],
+      "disputed": [],
+      "why": "The change eases access to popular obesity drugs and may encourage medical travel to Japan.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Korea to allow limited carry-in of prescribed weight-loss drugs from overseas",
+          "url": "https://www.koreaherald.com/article/10934223",
+          "published": "2026-11-11T11:47:40+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gov't allows bringing in up to 3 months' supply of weight-loss drugs",
+          "url": "https://en.yna.co.kr/view/AEN20261111010900315",
+          "published": "2026-11-11T10:39:11+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "No articles in this edition address AI regulation in the US or EU. The Nvidia stories touch on US export controls on AI chips but not on broader AI regulation.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 10,
+    "center": 21,
+    "right": 10
+  },
+  "stats": {
+    "articles": 522,
+    "stories_found": 397,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

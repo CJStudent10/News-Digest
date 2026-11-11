@@ -1,0 +1,359 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-11T23:09:06.624751+00:00",
+  "local_time": "Wednesday, November 11, 2026 · 6:09 PM EST",
+  "local_date": "Nov 11, 2026",
+  "slug": "2026-11-11-1809-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "It's been a big week for election results: a historic Senate win in Mississippi and a wave of very close North Carolina House races, all settled by tiny margins. Beyond politics there's cheaper fuel in Jamaica, a Brandy and Monica reunion headed to Las Vegas, and a chart shake-up that has Drake shaking his head. We've also included a practical job-scam warning and a promising bit of breast cancer research.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Scott Colom wins Mississippi's Senate race in a historic upset",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Scott Colom, a local district attorney, narrowly beat Republican Sen. Cindy Hyde-Smith after more than a week of counting absentee and affidavit (provisional) ballots. He is the first Democrat Mississippi has elected to the Senate since 1982 and will be the state's first Black senator since Reconstruction. Colom built his campaign around the cost of living, including a viral 'pick another senator' ad. Mississippi has no automatic recount, and it's unclear whether Hyde-Smith will challenge the result.",
+      "key_facts": [
+        "With 98.6% of ballots counted, Colom led 49.2% to 48.7%, a margin of roughly 4,500 votes.",
+        "CNN projected the race first, and the Associated Press later called it for Colom.",
+        "The Cook Political Report had rated the race 'Likely Republican' going into election night.",
+        "The win follows midterms in which Democrats took control of both chambers of Congress."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It was the closest Senate race in the country and a major shift for a state that hadn't sent a Democrat to the Senate in more than 40 years.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom Makes History With Mississippi Senate Win, CNN Projects",
+          "url": "https://www.newsweek.com/scott-colom-makes-history-with-mississippi-senate-win-cnn-projects-12661104",
+          "published": "2026-11-11T22:17:18+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "published": "2026-11-11T23:04:51+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
+          "url": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
+          "published": "2026-11-11T23:05:56+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Colom extends slim lead over Hyde-Smith in Mississippi Senate race",
+          "url": "https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/",
+          "published": "2026-11-11T12:55:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "North Carolina's House delegation flips by razor-thin margins",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Republican Rep. Greg Murphy conceded North Carolina's 3rd District to Democrat Raymond Smith, who won by just 293 votes. Republican lawmakers had redrawn the district lines earlier this year to help their party, but the midterm wave flipped much of the state's delegation. The result has become a textbook example of a 'dummymander,' a gerrymander that ends up helping the other party.",
+      "key_facts": [
+        "Smith beat four-term Rep. Greg Murphy by 293 votes.",
+        "Democrats are likely to hold 11 of the state's 14 House seats, pending the 5th District.",
+        "In NC-05, Democrat Chuck Hubbard leads Rep. Virginia Foxx by fewer than 300 votes.",
+        "Ten races were decided by less than 3%."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A few hundred votes reshaped who represents North Carolinians in Congress, a good reminder that every ballot counts.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC’s Republican-drawn congressional districts lead to narrow Democratic victories",
+          "url": "https://www.wsoctv.com/news/local/ncs-republican-drawn-congressional-districts-lead-narrow-democratic-victories/K2LQDQTW3NBFVFNLU7SIIBMULE/",
+          "published": "2026-11-11T22:26:23+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Another North Carolina congressional seat flips to Democrats",
+          "url": "https://www.qcnews.com/news/politics/election/north-carolina-elections/another-north-carolina-congressional-seat-flips-to-democrats/",
+          "published": "2026-11-11T22:30:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "YouTube streams return to the Billboard charts, and Drake has thoughts",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "YouTube is rejoining the Billboard charts starting in 2027. It had pulled out in January 2026 over how Billboard weighted free, ad-supported streams compared with paid ones. Billboard is changing its formula so that ad-supported streams count for more, and Drake reacted on Instagram that the music 'game' is 'so cooked.'",
+      "key_facts": [
+        "The new rules take effect January 16, 2027.",
+        "One album unit will equal 1,500 ad-tier streams, down from 2,500, or 1,000 paid streams.",
+        "YouTube's Lyor Cohen said the new method 'better reflects how fans engage with music today.'",
+        "Coming up: the Latin Grammys on November 12 and Grammy nominations on November 16."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: the chart rule change and YouTube's return. Drake's comment is his personal reaction posted to his Instagram Story."
+      ],
+      "why": "Free listening on YouTube will soon count for more toward which albums top the charts.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Billboard’s Music Industry Events Calendar",
+          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+          "published": "2026-11-11T22:29:00+00:00"
+        },
+        {
+          "source": "XXL",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Drake Insists the Music Industry Is Cooked After Billboard Change",
+          "url": "https://www.xxlmag.com/drake-reacts-billboard-counting-youtube-streams-again/",
+          "published": "2026-11-11T18:14:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "State lawmaker plans a bill to split up Charlotte-Mecklenburg Schools",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Republican Rep. David Willis of Union County plans to introduce a bill that would break up Charlotte-Mecklenburg Schools and could force new school board elections, according to CMS board members his staff contacted. The district has faced controversy recently, including the firing of its superintendent and investigations into alleged mishandling of money. CMS board member Anna London said a split would be 'harmful to kids,' and Democratic Rep. Laura Budd called the idea a political maneuver that is 'going nowhere.'",
+      "key_facts": [
+        "CMS serves about 140,000 students across 185 schools and facilities.",
+        "It is the state's second-largest district and one of the 20 largest in the country.",
+        "No timeline or other details were given.",
+        "The General Assembly could return to session as soon as next week."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Charlotte-area families may want to keep an eye on this as the legislature returns, though for now it is only a planned bill.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says",
+          "url": "https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/",
+          "published": "2026-11-11T22:22:55+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC lawmaker proposes breaking up Charlotte-Mecklenburg Schools: report",
+          "url": "https://www.qcnews.com/news/charlotte-mecklenburg-schools/nc-lawmaker-proposes-breaking-up-charlotte-mecklenburg-schools-report/",
+          "published": "2026-11-11T20:56:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Jamaica's gas and diesel prices drop $4.50 a litre",
+      "topics": [
+        "Jamaica",
+        "US Headlines"
+      ],
+      "summary": "Jamaican drivers will pay a bit less at the pump starting Thursday, November 12, based on Petrojam's latest ex-refinery prices. Gasoline and diesel are each down $4.50 per litre, with smaller cuts for kerosene and cooking gas.",
+      "key_facts": [
+        "87-octane: $191.31 per litre; 90-octane: $200.07 per litre.",
+        "Automotive diesel: $241.91 per litre.",
+        "Butane is down $2.94, to $112.25 per litre."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A small but welcome break for anyone filling up this week.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gas prices, diesel down $4.50",
+          "url": "https://www.jamaicaobserver.com/2026/11/11/gas-prices-diesel-4-50/",
+          "published": "2026-11-11T22:51:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Jamaica warns citizens about suspicious overseas job offers",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's foreign ministry is urging people to be careful with overseas job offers found on social media and messaging apps, especially ones promising unusually high pay, travel help or fast-tracked immigration. It specifically warned against offers linked to recruitment for Russia's war in Ukraine, citing reports of recruits misled about their duties and unable to get paid or return home. The Dominican Republic has issued similar warnings.",
+      "key_facts": [
+        "Be cautious if a recruiter asks for passport details, advance payments or unverified contracts.",
+        "Report suspicious offers to the Ministry of Labour and Social Security.",
+        "The ministry publishes a list of licensed employment agencies."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Practical advice for spotting risky job offers before handing over documents or money.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gov’t cautions Jamaicans against employment offers linked to Russia-Ukraine war",
+          "url": "https://www.jamaicaobserver.com/2026/11/11/govt-cautions-jamaicans-employment-offers-linked-russia-ukraine-war/",
+          "published": "2026-11-11T22:27:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Busy Signal teams up with Egypt's Mohamed Ramadan on 'Make Banger'",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaican dancehall star Busy Signal and Egyptian artist Mohamed Ramadan have released 'Make Banger,' a single that mixes Egyptian pop-rap with dancehall and Arabic with English lyrics. Promoters describe it as a cultural bridge between Jamaica and the Middle East and North Africa.",
+      "key_facts": [
+        "Produced by Crawba Genius and Blacksatin Music.",
+        "Out now on major streaming platforms.",
+        "Busy Signal: 'From Kingston to Cairo, we're showing that music has no borders.'"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a fun cross-cultural team-up, and the 'Habibi mi fren' line alone makes it worth a listen.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Busy Signal, Egyptian Mohamed Ramadan unite on ‘Make Banger’",
+          "url": "https://www.jamaicaobserver.com/2026/11/11/busy-signal-egyptian-mohamed-ramadan-unite-make-banger/",
+          "published": "2026-11-11T22:13:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Brandy and Monica bring 'The Boy Is Mine' to Las Vegas",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "After their sold-out 2025 reunion tour, Brandy and Monica announced a 10-date residency at Resorts World Las Vegas, revealing it on Dancing With the Stars. Monica said the tour was meant to be 'one and done,' but the fans' response changed her mind, and staying in one place lets her children join her.",
+      "key_facts": [
+        "Shows run May 29 to July 17, 2027.",
+        "General ticket sales open November 20 at 10 a.m. PT, with presales on November 16 and 18.",
+        "Their 1998 duet spent 13 weeks at No. 1 on the Billboard Hot 100.",
+        "It is the Black Promoters Collective's first Las Vegas residency."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A feel-good reunion for R&B fans, nearly 30 years after the original hit.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "VIBE",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Brandy and Monica Set ‘Boy Is Mine’ Residency in Las Vegas: “This Is Where We Belong”",
+          "url": "https://www.vibe.com/music/music-news/brandy-monica-boy-is-mine-tour-las-vegas-residency-tickets-1235202562/",
+          "published": "2026-11-11T15:30:00+00:00"
+        },
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Brandy & Monica Take The Boy Is Mine To Las Vegas For 10 Shows",
+          "url": "https://allhiphop.com/news/brandy-monica-take-the-boy-is-mine-to-las-vegas-for-10-shows/",
+          "published": "2026-11-11T20:30:00+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 14,
+    "right": 0
+  },
+  "stats": {
+    "articles": 305,
+    "stories_found": 262,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

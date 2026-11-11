@@ -1,287 +1,293 @@
-# My Daily Brief: Morning edition
-_Wednesday, November 11, 2026 · 6:27 AM EST · 466 articles from 38 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Wednesday, November 11, 2026 · 6:07 PM EST · 522 articles from 39 outlets · summaries by Claude_
 
-> This edition is led by Washington's response to last week's midterm losses for Republicans: House Republicans blocked an effort to impeach Defense Secretary Pete Hegseth and chose Jim Jordan as their next leader. Also covered: the fallout for Nvidia from reports about CEO Jensen Huang and an alleged Chinese spy, US charges against three alleged Iran-backed plotters, US-led Ukraine-Russia talks in Abu Dhabi, Spain's first general strike in 14 years, and two local stories from the Charlotte area.
+> Nvidia's board is reportedly weighing whether to remove CEO Jensen Huang after a second alleged affair surfaced, days after a scandal over his relationship with an alleged Chinese spy. In Washington, Democrat Scott Colom won Mississippi's Senate race, Thomas Massie forced a new Epstein files vote a day after his Hegseth impeachment bid failed, and the White House warned incoming Democratic investigators about overstepping. The edition also covers a South Carolina child-endangerment case, a Charlotte school district breakup proposal, Toyota's US-built kei truck and a change to South Korea's rules on weight-loss drugs.
 
 
-**Sources linked in this edition:** 10 left · 20 center · 4 right
+**Sources linked in this edition:** 10 left · 21 center · 10 right
 
 ---
 
-## 1. House votes 211-204 to send Hegseth impeachment resolution to committee
-`US Headlines` · Covered by 14 outlets (L 5 · C 7 · R 2)
+## 1. Nvidia board reportedly weighs removing CEO Jensen Huang after report of second affair
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 11 outlets (L 3 · C 4 · R 4)
 
-The House voted 211-204 on Tuesday to refer Rep. Thomas Massie's resolution to impeach Defense Secretary Pete Hegseth to the Judiciary Committee, which effectively stalls it for the rest of this Congress. Massie, a Kentucky Republican leaving office in January, filed eight articles. They focus mainly on the Iran war but also cover strikes on alleged drug boats, Yemen, Venezuela and alleged retaliation against Sen. Mark Kelly. Hegseth called the effort a "political spectacle" and "sabotage." President Trump called the vote an "EXONERATION" of Hegseth. Democrats, who take control of both chambers in January, back impeachment, and outlets across the spectrum expect the issue to return.
+The New York Times reported that Nvidia CEO Jensen Huang had a second extramarital relationship, this one with Kimberly Powell, an executive who reports to him. The report came days after Huang admitted infidelity amid reports of an affair with Alice Huang, a Megaspeed executive and Nvidia customer who is alleged to be a Chinese intelligence asset. The Wall Street Journal reported that the board is preparing to dismiss Huang and could meet as soon as Wednesday. That would be a reversal from days earlier, when the company said he would continue leading 'without interruption' and hired Wachtell, Lipton, Rosen & Katz to investigate. President Trump has publicly stood by Huang, according to The Hill.
 
 **Key facts**
-- The motion to refer the resolution to committee passed 211-204; Massie was the only Republican to vote against it, alongside all Democrats who voted.
-- Massie's resolution contained eight articles of impeachment.
-- House Democratic leader Hakeem Jeffries said he was a "hard yes" on impeachment; Senate Democratic leader Chuck Schumer also endorsed it.
-- Hegseth held his first Pentagon news conference in about six months on the day of the vote.
-- Democrats take control of the House and Senate in January.
+- Huang, 63, is reported to have had a relationship with Kimberly Powell, 48, Nvidia's vice president of health care.
+- Nvidia's board hired Wachtell, Lipton, Rosen & Katz, led by former acting US attorney Joon Kim, to run an independent investigation overseen by independent directors.
+- Nvidia shares closed up 2.9% at $173.73 on Wednesday, then fell after hours following the Times report; the company had lost about $311bn in market value since Friday.
+- US ambassador to China David Perdue said the situation is 'another reminder that we have to stay diligent' because 'economic security is national security.'
 
 **How it's being framed**
-- **Left:** The Guardian and Vox stressed that Republicans remain wary of crossing Trump after heavy midterm losses. They called Hegseth the public face of an unpopular eight-month war, quoted Jeffries at length, and said the reprieve is likely temporary. The Guardian also included Republican Rep. Warren Davidson's defense of Hegseth.
-- **Center:** AP (via the Korea Herald) and Axios called the vote a victory for Hegseth and GOP leaders but likely short-lived. AP gave space to Hegseth's defiant press conference, noted he offered few operational details, and tied the vote to Republican losses blamed partly on the Iran war and gas prices.
-- **Right:** The Daily Caller focused on the procedural mechanics and Massie's charges. It noted that the concurrent war powers resolution had no force of law and quoted Hegseth calling Massie "disgruntled and defeated." Reason's libertarian Volokh Conspiracy argued that Hegseth deserves impeachment, said the fight is "far from over," and suggested Republicans used the procedural route because they may have lacked the votes to defeat it outright.
+- **Left:** The Guardian focused on the board's choice of law firm, with lengthy background on Wachtell and Joon Kim, and quoted Ambassador Perdue on national security. The Verge led with the Journal's report that the board was preparing to fire Huang, noting the board apparently would not wait for its own investigation to finish.
+- **Center:** Axios stressed the stakes beyond one company, calling Huang arguably the world's most powerful CEO with no obvious successor. The Hill focused on Trump's defense of Huang and whether close ties between the president and industry leaders could undercut national security concerns.
+- **Right:** Fox News framed the story as part of a wider pattern of foreign 'honeytrap' espionage aimed at US tech executives, quoting former NSA analyst Ira Winkler and describing Megaspeed as a suspected front for evading export controls. The New York Post emphasized the board's sharp reversal from backing Huang days earlier.
 
 **Disputed or unclear**
-- Whether Hegseth's actions amount to impeachable offenses: Massie, Democrats and Reason's contributor say yes; Hegseth, Trump, Vance and Rep. Davidson say no.
-- Whether Republicans could have defeated the resolution in a direct vote is speculative.
-- Whether a future Senate could convict: Democrats are expected to hold 54-56 seats, short of the two-thirds needed without Republican votes.
+- Whether the board will actually remove Huang; the reports rely on unnamed sources cited by the Wall Street Journal.
+- Whether Alice Huang is a Chinese intelligence asset; Fox attributes this to US intelligence, while other outlets call her an 'alleged' spy.
+- Nvidia initially denied an improper relationship, and Huang's later admission of infidelity did not name Alice Huang directly.
+- Details of the alleged relationship with Powell, including reported video from the March GTC conference, have not been confirmed by Nvidia.
 
-**Why it matters:** The vote delays but likely does not end a fight over the Iran war and the Pentagon's conduct, which may dominate the next Congress.
+**Why it matters:** Nvidia sits at the center of the AI boom, so leadership turmoil there has consequences for markets, AI supply chains and US-China technology policy.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10933639) (center): House Republicans quash effort to impeach Defense Secretary Hegseth
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort) (lean-left): House Republicans block effort to impeach Pentagon chief Pete Hegseth
-- [The Daily Caller](https://dailycaller.com/2026/11/10/house-gop-tables-impeachment-pete-hegseth-thomas-massie) (right): House GOP Blocks Thomas Massie’s Attempt To Impeach Pete Hegseth
-- [Axios](https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie) (center): GOP House rejects Hegseth impeachment effort
-- [Vox](https://www.vox.com/the-logoff-newsletter-trump/510266/hegseth-massie-impeachment-procedural-house-vote) (left): Hegseth escapes impeachment — for now
-- [Reason](https://reason.com/volokh/2026/11/10/the-hegseth-impeachment-is-far-from-over/) (lean-right): The Hegseth Impeachment is Far From Over
+- [Axios](https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares) (center): Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship) (lean-left): Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
+- [Fox News](https://www.foxnews.com/us/foreign-spy-honeytraps-targeting-americas-tech-elite-spark-alarm-amid-nvidia-ceo-scandal) (right): Foreign spy ‘honeytraps’ targeting America’s tech elite spark alarm amid Nvidia CEO scandal
+- [The Hill](https://thehill.com/homenews/administration/6214652-trump-defends-nvidia-ceo-scandal/) (center): Trump embraces Huang as espionage scandal shakes Nvidia
+- [The Verge](https://www.theverge.com/tech/1031652/jensen-huang-rumor) (lean-left): Nvidia is reportedly preparing to fire Jensen Huang
+- [New York Post](https://nypost.com/2026/11/11/business/nvidia-preps-to-boot-jensen-huang-in-wake-of-alleged-affairs-chinese-spy-scandal/) (lean-right): Nvidia preps to boot Jensen Huang in wake of alleged affairs, Chinese ‘spy’ scandal
 
 
-## 2. Missing 11-month-old found alive buried in crate in Lexington County, S.C.; father in custody
+## 2. Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi Senate race
+`US Headlines` · Covered by 6 outlets (L 1 · C 4 · R 1)
+
+Democrat Scott Colom, a district attorney, defeated Republican Sen. Cindy Hyde-Smith in Mississippi after more than a week of counting. CNN projected the result first, and the Associated Press called it later Wednesday. Colom's lead grew as affidavit (provisional) ballots were counted, with strong margins in Hinds County. He becomes the first Democrat elected to the Senate from Mississippi since John Stennis in 1982, and its first Black senator since Reconstruction. Mississippi has no automatic recount; it is unclear whether Hyde-Smith will contest the result, a dispute that could ultimately reach the Senate.
+
+**Key facts**
+- Colom led 49.2% to 48.7%, a margin of roughly 4,400 to 4,500 votes; independent Ty Pinkins had about 2.1%.
+- Trump won Mississippi by about 23 points in 2024.
+- CNBC reported that Democrats have flipped seven Republican-held Senate seats, giving them at least 54 seats in January.
+- Local officials have until Friday to finish counting and certify results.
+
+**How it's being framed**
+- **Left:** PBS ran a brief AP bulletin announcing Colom's win, with no further framing.
+- **Center:** Outlets emphasized the historic nature of the result and the mechanics of the count. CNBC detailed affidavit ballots and the Hinds County vote; Newsweek covered the lack of a recount and Hyde-Smith's possible challenge, and cited pre-election polls showing her ahead; Axios called it part of a 'historic blue wave.'
+- **Right:** The New York Post called it an upset and a 'massive rebuke' of Trump and the GOP. It described Trump's campaign stop as a 'desperate bid' and listed other Democratic wins in red states.
+
+**Disputed or unclear**
+- Whether Hyde-Smith will challenge the result in court or before the Senate.
+- Reported shares of ballots counted varied by outlet and time (95% to 99%).
+- Outlets described Colom's milestone slightly differently: Newsweek called him the first Black Mississippian 'popularly elected' to the Senate, while others called him the state's first Black senator since Reconstruction.
+
+**Why it matters:** The result widens the Democrats' incoming Senate majority and is a rare Democratic win in a deep-red state.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/scott-colom-makes-history-with-mississippi-senate-win-cnn-projects-12661104) (center): Scott Colom Makes History With Mississippi Senate Win, CNN Projects
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi) (lean-left): Scott Colom wins Senate election in Mississippi
+- [New York Post](https://nypost.com/2026/11/11/us-news/mississippi-dem-scott-colom-defeats-hyde-smith-in-senate-race/) (lean-right): Dem Scott Colom defeats Mississippi Sen. Hyde-Smith after weeklong nailbiter
+- [CNBC](https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html) (center): Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes
+- [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith) (center): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
+- [The Hill](https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/) (center): Colom extends slim lead over Hyde-Smith in Mississippi Senate race
+
+
+## 3. Massie petition reaches 218 signatures, forcing House vote on second Epstein files bill
+`US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
+
+Rep. Thomas Massie (R-Ky.) announced that his discharge petition for the Epstein Files Transparency Act II reached the 218 signatures needed to force a House floor vote. Republicans Brian Fitzpatrick, Nancy Mace and Ralph Norman joined Massie and House Democrats; Democrats Adam Smith and John Garamendi supplied the final signatures. The bill would let survivors, state officials and members of Congress sue the attorney general to enforce the 2025 law requiring release of Epstein records. The Justice Department says it complied by releasing about 3.5 million pages, but lawmakers dispute this. Democrats, who take control of Congress in January, have promised hearings.
+
+**Key facts**
+- The petition reached 218 signatures on Wednesday, one day after the House blocked Massie's effort to impeach Pete Hegseth.
+- The original Epstein Files Transparency Act was signed in November 2025; just one House member voted against it.
+- The Republican-led House Oversight Committee said it found no documents implicating Trump in criminal activity related to Epstein and Maxwell.
+- Asked for comment, the White House pointed to a Trump post calling Massie a 'major LOSER' over the Hegseth vote; the post did not mention Epstein.
+
+**How it's being framed**
+- **Left:** Al Jazeera looked ahead to what Democratic majorities could do with subpoena power. It noted accusations that the administration thwarted transparency and that Trump-opposed Republicans lost primaries, while also quoting the Republican committee report's 'witch hunt' language.
+- **Center:** Newsweek, Axios and The Hill focused on the procedural milestone and on Massie as an outgoing Trump critic. They noted that survivors and lawmakers say records are still being withheld, and Newsweek included the White House's response.
+- **Right:** The Washington Examiner gave a short, straight procedural account of the signatures and who signed.
+
+**Disputed or unclear**
+- Whether the Justice Department has fully complied with the 2025 law; it says yes, while lawmakers cite millions of unpublished pages and heavy redactions.
+- When the vote will happen, and whether the bill could pass the Senate or survive a possible veto.
+
+**Why it matters:** The vote keeps the fight over the Epstein records alive as control of Congress shifts to Democrats.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/full-list-of-republicans-joining-thomas-massie-to-force-epstein-files-vote-12702268) (center): Short List of Republicans Joining Thomas Massie to Force Epstein Files Vote
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over) (lean-left): Can Democrats shed some new light on the Epstein files when they take over?
+- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4800597/thomas-massie-epstein-files-petition-vote/) (lean-right): Massie’s Epstein files discharge petition gathers enough support to force vote on bill
+- [Axios](https://www.axios.com/2026/11/11/massie-epstein-files-second-vote) (center): Outgoing Trump foe Massie forces new Epstein files showdown
+- [The Hill](https://thehill.com/homenews/house/6214408-massie-epstein-files-discharge-petition/) (center): Massie secures signatures to force vote on second Epstein files petition
+
+
+## 4. White House counsel warns Democrats their planned investigations 'may cross the line into blatant criminality'
+`US Headlines` · Covered by 5 outlets (L 3 · C 1 · R 1)
+
+White House counsel William Scharf sent a three-page letter to Rep. Robert Garcia, the expected incoming chair of the House Oversight Committee. The letter argued that Democrats' planned investigations could exceed constitutional limits and 'may cross the line into blatant criminality.' It cited Democratic statements such as Garcia's 'Lawyer up' post and pledges to issue subpoenas 'like candy.' Garcia replied that 'it appears Donald Trump has something to hide' and said Congress will not be deterred. The letter did not say what action the White House might take; Trump had earlier called Democrats' statements 'extortion.'
+
+**Key facts**
+- Democrats take control of both chambers when the new Congress is sworn in on January 3.
+- Scharf wrote that Democrats sought to 'intimidate and to interfere with the lawful functioning of government.'
+- Garcia said Congress's authority comes from Article I, 'not from the permission of the White House.'
+- Reason reported that Trump called for imprisonment and a DOJ investigation, and that Attorney General Todd Blanche agreed.
+
+**How it's being framed**
+- **Left:** Al Jazeera, PBS and The Guardian centered Garcia's rebuttal and his 'something to hide' quote, and published or summarized the letter. The Guardian tied the dispute to exit polling showing corruption was a major voter concern.
+- **Center:** The Hill described the letter as showing the administration's aggressive stance and as a move to 'investigate the investigators.'
+- **Right:** Reason, a libertarian outlet, was skeptical of the White House. It noted that neither Trump nor Blanche explained how political rhetoric amounts to a crime, called such rhetoric generally protected speech, and cited Politico calling the letter a departure from precedent.
+
+**Disputed or unclear**
+- Accounts differ on timing: Al Jazeera and The Hill say the letter was sent Monday, while PBS says Wednesday.
+- What, if any, legal action the administration might take against lawmakers.
+- Whether Democrats' planned probes serve a legitimate legislative purpose, as they say, or are meant to harass, as the White House argues.
+
+**Why it matters:** The exchange previews a likely clash between the executive branch and Congress over oversight once Democrats take power.
+
+**Read it yourself:**
+- [The Hill](https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/) (center): White House pushes back on Democrats, saying investigations could ‘cross the line’ into crime
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse) (lean-left): Trump’s White House calls Democratic plans for congressional probes ‘abuse’
+- [Reason](https://reason.com/2026/11/11/democrats-investigations-could-constitute-blatant-criminality-says-white-house-counsel/) (lean-right): Democrats' Investigations Could Constitute 'Blatant Criminality,' Says White House Counsel
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump) (lean-left): Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia) (lean-left): Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts
+
+
+## 5. Father charged with attempted murder after infant found buried alive in South Carolina
 `Charlotte Local` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-Koah Sharpe, an 11-month-old reported missing Monday in Lexington County, South Carolina, was found alive Tuesday afternoon. He was buried in a wire dog crate wrapped in a towel near his paternal grandfather's home. Sheriff Jay Koon said searchers found freshly disturbed dirt and heard the baby crying. The child had been last seen with his father, 25-year-old Michael Comer. Comer was arrested Monday night on a burglary charge, and the sheriff's office is working with prosecutors on possible additional charges. The infant is being treated at a hospital.
+Eleven-month-old Koah Sharp went missing Monday in Lexington County, South Carolina, after his father, Michael Comer, 25, left with him while the boy's grandmother was out. Comer was arrested Monday night hiding in an outbuilding; surveillance video had shown him without the baby. On Tuesday, searchers found freshly disturbed dirt near his father's home, heard crying, and dug Koah out of a buried dog crate wrapped in a towel. The sheriff's office now accuses Comer of burying the child alive and has charged him with attempted murder and other offenses. He has a bond hearing Thursday.
 
 **Key facts**
-- The baby is believed to have been buried for about 24 hours.
-- He was found roughly 50 yards from the home of Comer's father.
-- About 100 people took part in the search.
-- No Amber Alert was issued because no vehicle description was available, the sheriff said.
-- Comer had been placed on probation just over a month earlier after pleading guilty to aggravated breach of peace.
+- Comer faces charges of attempted murder, unlawful conduct toward a child, custodial interference and burglary.
+- About 100 law enforcement officers and first responders took part in the search.
+- Sheriff Jay Koon said the towel likely created an air pocket and that the child may have been buried for about 24 hours.
+- WBTV reported Koah was released from the hospital Wednesday and is expected to fully recover.
 
 **How it's being framed**
-- **Left:** The Guardian gave a straightforward account built on the sheriff's statements, emphasizing the rescue and the search effort.
-- **Center:** Local TV outlets provided more detail, including the timeline, why no Amber Alert was issued, the grandmother's reaction and Comer's prior record.
+- **Left:** PBS, running the AP story, emphasized the rescue and the sheriff's quotes. It included the great-aunt's account that Comer had talked of taking the baby to New York, and the sheriff's mention of domestic violence issues between the parents.
+- **Center:** Local stations and the BBC gave a detailed timeline of the search, the sheriff's quotes and Comer's prior record. WBTV reported the new charges and included the family's GoFundMe; the BBC quoted Comer's mother saying she 'never expected this.'
 
 **Disputed or unclear**
-- Accounts differ on who left the child with Comer: WBTV says Comer's mother, while the Guardian says the child's mother, who was running an errand.
-- Additional charges against Comer have not yet been announced.
+- No motive has been established.
+- It is unclear whether Comer has a lawyer.
 
-**Why it matters:** It is a developing criminal case, and the baby's survival depended on a large multi-agency search.
+**Why it matters:** It is a serious child-endangerment case, and it raises questions about how earlier domestic violence cases and probation were handled.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/10/sheriff-missing-lexington-county-baby-found-alive-after-being-buried-dog-crate/) (center): Sheriff: Missing Lexington County baby found alive after being buried in dog crate
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/11/baby-found-alive-buried-dog-crate-south-carolina) (lean-left): Baby found alive after being buried in dog crate for 24 hours, South Carolina police say
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/south-carolina/missing-11-month-old-found-buried-alive-in-south-carolina-father-arrested-sheriff/) (center): Missing 11-month-old found buried alive in South Carolina, father arrested: Sheriff
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/missing-11-month-old-boy-found-buried-alive-near-fathers-home/275-f4ddba22-41ae-4d48-b406-e76ae2ec3fb0) (center): Missing 11-month-old boy found buried alive near father's South Carolina home
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/11/father-baby-found-buried-alive-lexington-county-facing-new-charges/) (center): Father of baby found buried alive in Lexington County facing new charges
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-in-a-dog-crate-for-24-hours) (lean-left): Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/missing-11-month-old-baby-found-buried-alive-dog-crate-father-arrested/YG7552I3H5FRHCVA7VZJNNER54/) (center): Missing 11-month-old baby found buried alive in dog crate; father arrested
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss) (center): Missing 11-month-old baby found buried alive in a crate in South Carolina
 
 
-## 3. Nvidia hires outside counsel to investigate reports about CEO Huang and alleged Chinese spy
-`AI & Cybersecurity` `Korea` `Asia Business & Politics` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 6. Toyota revives Scion brand with Indiana-built kei truck capped at 25 mph
+`Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
 
-Nvidia's independent directors hired the law firm Wachtell, Lipton, Rosen & Katz, led by former acting Manhattan US attorney Joon H. Kim. The probe will examine whether company secrets or national security were compromised following reports that CEO Jensen Huang had a relationship with Alice Huang, a businesswoman US intelligence agencies reportedly believe was gathering information for Beijing. Jensen Huang admitted on Sunday that he had been unfaithful and apologized. Nvidia shares fell for two days before rebounding about 5% in premarket trading Wednesday, ahead of earnings on Nov. 17. In South Korea, officials said contracted GPU shipments are expected to proceed.
+Toyota is bringing back its Scion brand as 'Scion by Toyota,' an experimental line whose first vehicle is the KEI-01, a Japanese-style kei truck. The truck will be built in Princeton, Indiana, and is due in the second half of 2027. Because it is certified under federal low-speed vehicle rules, its top speed will be limited to 25 mph. Outlets noted President Trump's past enthusiasm for allowing kei vehicles in the US.
 
 **Key facts**
-- Nvidia shares fell 4.3% Monday and 5.47% Tuesday, then rose about 5.3% in premarket trading Wednesday.
-- Nvidia reports quarterly earnings on Nov. 17.
-- Morgan Stanley removed Nvidia from its top-pick list.
-- Nvidia has pledged 260,000 GPUs to South Korea; Vice Minister Ryu Je-myung said he expects shipments to proceed without disruption.
-- Madison Huang canceled her appearance at Nvidia AI Day in Seoul, citing family reasons.
+- The KEI-01 has a 660cc three-cylinder engine, on-demand 4WD and a payload of up to 600 pounds.
+- Toyota is investing $34 million in its Indiana plant for the truck.
+- More than 30,000 used kei trucks have been imported into the US since 2020.
+- The Washington Examiner reports the equivalent Japanese model can reach 87 mph.
 
 **How it's being framed**
-- **Center:** All coverage came from center outlets. CNBC focused on investor reaction and analyst scenarios. Yonhap focused on risks to Korea's AI partnerships and chip suppliers. The Korea Herald profiled the investigator, and The Hill reported the hiring.
+- **Left:** The Verge gave a feature-focused review of the truck's size, utility and likely low price, presenting Scion as a testing ground aimed at fleets and younger buyers.
+- **Center:** Ars Technica placed the truck in a policy context, arguing that US fuel economy rules have favored large SUVs, and noted the Transportation Department has said little about Trump's kei car push.
+- **Right:** The Washington Examiner highlighted Trump's admiration for kei trucks and the 'catch' of the 25 mph cap compared with the Japanese version.
 
 **Disputed or unclear**
-- The claim that Alice Huang was gathering intelligence for Beijing is attributed to US intelligence agencies via media reports and has not been confirmed publicly.
-- Whether any company secrets or national security information were compromised is the subject of the probe.
-- It is unclear whether the scandal will lead to tighter US regulation or changes in leadership.
+- Pricing and trim levels have not been announced.
 
-**Why it matters:** Nvidia is central to the global AI supply chain, so questions about its leadership could affect markets, export policy and allied tech partnerships.
+**Why it matters:** It tests whether there is a US market for very small, cheap utility vehicles.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261111005900320) (center): (News Focus) Jensen Huang scandal casts uncertainty over S. Korea's deepening AI ties with Nvidia
-- [CNBC](https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html) (center): Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings
-- [The Korea Herald](https://www.koreaherald.com/article/10933754) (center): Korean American ex-prosecutor to lead Nvidia probe into CEO's spy scandal
-- [The Hill](https://thehill.com/policy/technology/6212083-nvidia-hired-former-us-attorney/) (center): Nvidia hires former acting US attorney to investigate Jensen Huang
+- [Ars Technica](https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/) (center): Trump wanted little Kei trucks for America, Toyota makes it happen
+- [The Verge](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival) (lean-left): Toyota’s Scion is back, starting with an American-made, 25-mph kei truck
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/energy-and-environment/4800759/toyota-us-production-tiny-trucks-admired-by-trump/) (lean-right): Toyota set for US production of tiny ‘kei’ trucks admired by Trump, with a catch
 
 
-## 4. House Republicans elect Jim Jordan as minority leader; Senate GOP keeps Thune
-`US Headlines` · Covered by 4 outlets (L 1 · C 3 · R 0)
+## 7. House votes 211-204 to send Hegseth impeachment articles to committee, effectively ending the effort
+`US Headlines` · Covered by 5 outlets (L 0 · C 2 · R 3) · ⚠️ Mostly covered by right-leaning outlets
 
-House Republicans chose Rep. Jim Jordan of Ohio as their leader for the next Congress, defeating Majority Leader Steve Scalise 106-73 in a closed-door vote. Senate Republicans re-elected John Thune as their leader. The votes follow heavy Republican midterm losses that will give Democrats control of both chambers. Speaker Mike Johnson said he would not run for minority leader. Jordan, a Freedom Caucus founder and close Trump ally, will lead the party's response to promised Democratic investigations of the administration.
+The House voted 211-204 to refer Rep. Thomas Massie's articles of impeachment against Defense Secretary Pete Hegseth to the Republican-led Judiciary Committee, effectively ending the effort this Congress. The articles accuse Hegseth, among other things, of waging war on Iran without congressional authorization. All Republicans except Massie voted to refer the articles; 11 Democrats missed the vote, drawing criticism from colleagues. Hegseth called the effort a 'farce,' Trump called it a failure, and Democratic leader Hakeem Jeffries said 'this is not the end of it.' Democrats could revive impeachment when they take control in January.
 
 **Key facts**
-- Jordan beat Scalise 106-73.
-- This was Jordan's third bid to lead House Republicans, after failed attempts in 2018 and 2023.
-- WBTV reported that Republicans are down 30 House seats, with 14 races still uncalled.
-- Jordan takes over on Jan. 3, 2027.
+- The vote was 211-204 to refer the resolution to the Judiciary Committee.
+- Eleven Democrats and, according to Reason, seven Republicans missed the vote.
+- Massie's resolution contained eight articles, including three on the Iran war and alleged War Powers Resolution violations.
+- Several absent Democrats blamed traffic; Reason reported some had been at an 'Elect Democratic Women' reception.
 
 **How it's being framed**
-- **Left:** The Guardian described Jordan as a "strident defender" of Trump. It highlighted Republicans calling for a change in strategy, quoted Rep. Tim Burchett on admitting mistakes, and quoted Rep. Anna Paulina Luna blaming Scalise.
-- **Center:** CNBC and WBTV reported the vote and statements directly. Axios framed the choice as a bet that Republicans shouldn't move away from Trump and as Jordan's turn from insurgent to establishment.
+- **Center:** The BBC and The Hill reported the vote count, Trump's and Massie's reactions, and Democratic anger at absent colleagues, including Rep. Sydney Kamlager-Dove calling it 'shameful.'
+- **Right:** Right-leaning coverage was split. A New York Post opinion piece defended Hegseth's record on Iran and Venezuela and called a future Democratic impeachment partisan. A Daily Caller newsletter made the case for impeaching him, arguing Republicans put party over country. Reason focused on the absent Democrats and suggested many members preferred not to go on record.
 
 **Disputed or unclear**
-- The final size of the Republican minority is not settled, with 14 races uncalled per WBTV.
-- Whether Johnson will serve out the rest of his term is unclear.
+- Whether the Iran conflict amounts to an unauthorized war; the administration has disputed calling it a war, while critics say it violated the War Powers Resolution.
+- Whether Democratic leaders were content to see the vote fail, as Reason suggests.
 
-**Why it matters:** Jordan will shape how Republicans confront a Democratic Congress expected to investigate the Trump administration.
+**Why it matters:** The vote shows where House Republicans stand on Hegseth and sets up a likely Democratic impeachment push next year.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html) (center): Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader) (lean-left): Republicans elect Jim Jordan as House minority leader after midterm defeats
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/10/rep-jim-jordan-elected-new-house-gop-leader/) (center): Rep. Jim Jordan elected new House GOP leader
-- [Axios](https://www.axios.com/2026/11/11/jim-jordan-house-minority-leader-republicans) (center): House GOP bets on MAGA "fighter" Jim Jordan
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss) (center): US House blocks bid to impeach Defence Secretary Pete Hegseth
+- [New York Post](https://nypost.com/2026/11/11/opinion/pete-hegseths-success-draws-democrats-impeachment-fire/) (lean-right): Pete Hegseth’s success draws Democrats’ impeachment fire
+- [The Hill](https://thehill.com/homenews/house/6212860-house-democrat-kamlager-dove-hegseth-impeachment-vote/) (center): House Democrat rips colleagues who missed Hegseth vote: ‘Shameful’
+- [Reason](https://reason.com/2026/11/11/democrats-miss-hegseth-impeachment-vote-for-elect-democratic-women-event/) (lean-right): Democrats Miss Hegseth Impeachment Vote for 'Elect Democratic Women' Event
+- [The Daily Caller](https://dailycaller.com/2026/11/11/state-of-wednesday-pete-hegseth-impeachment-thomas-massie-house-republicans) (right): STATE OF WEDNESDAY: The Case For Impeaching Pete Hegseth
 
 
-## 5. Zelenskyy says he is encouraged by US envoys as Ukraine-Russia talks continue in Abu Dhabi
-`US Headlines` `Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 8. NC Republican lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board members say
+`Charlotte Local` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Ukrainian President Volodymyr Zelenskyy said he was "very happy" with messages from US envoys Jared Kushner and Steve Witkoff as the first US-led three-way talks with Russia since February opened in Abu Dhabi. Russian Foreign Minister Sergei Lavrov said Moscow would not agree to an immediate ceasefire and wanted to discuss a European security architecture first. Zelenskyy argued instead for a sequence of ending the war, then security guarantees for Ukraine, then broader security talks. In a speech to Denmark's parliament, he said Europe "must be at the table." A second day of talks was set for Wednesday.
+CMS board members Anna London and Dee Rankin say the staff of Republican state Rep. David Willis of Union County told them he plans a bill to split up Charlotte-Mecklenburg Schools and trigger school board recall elections. The district has recently fired its superintendent and faces multiple investigations into its finances. London said a breakup would harm students. Democratic Rep. Laura Budd called the plan a bid for relevance after the election, while critics of the district have long argued it is too large. Legislators return for a short session next week, before Democrats take control of the state House.
 
 **Key facts**
-- These are the first trilateral talks since February.
-- Kushner said the US had "narrowed the gaps," without giving details.
-- Zelenskyy said the US side confirmed Ukraine's assessment of the battlefield, disputing a Russian claim to occupy half of Donbas.
-- Lavrov said Russia would not accept an immediate ceasefire.
+- CMS has about 140,000 students in 185 schools and facilities.
+- Willis is a chair of the House K-12 education committee.
+- A 2018 legislative committee studied breaking up CMS but did not recommend it.
+- The Charlotte Ledger first reported the plan.
 
 **How it's being framed**
-- **Left:** The Guardian highlighted Zelenskyy's criticism of Putin's "different reality," his remarks to the Danish parliament, and his insistence on European involvement.
-- **Center:** Reuters (via the Korea Herald) focused on Zelenskyy's careful praise of US envoys and the disagreement with Lavrov over sequencing a ceasefire and security talks.
+- **Left:** WFAE included the view of critics who say CMS is too large and unwieldy, alongside London's concerns about inequities, and noted the incoming Democratic control of the state House.
+- **Center:** WSOC emphasized the district's recent controversies and quoted both London and Budd's dismissal of the plan. Queen City News gave a brief report attributed to WBT Radio.
 
 **Disputed or unclear**
-- Battlefield claims about Donbas are disputed between Russia and Ukraine.
-- It is unclear what the US and Russia discussed privately; Zelenskyy said no one had seen the documents.
-- How much the gaps have actually narrowed is unknown.
+- Willis has not publicly confirmed the bill or its timeline, and did not respond to requests for comment.
+- How a recall election would work is unclear.
 
-**Why it matters:** The talks are the first direct three-way diplomacy in months on Europe's largest war.
+**Why it matters:** Splitting one of the country's 20 largest school districts would reshape education for about 140,000 students.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10933683) (center): Ukraine's Zelenskyy says he is pleased with messages from US envoys on diplomatic efforts to end war
-- [The Guardian (World)](https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates) (lean-left): Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/) (center): Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says
+- [WFAE (Charlotte NPR)](https://www.wfae.org/education/2026-11-11/lawmaker-to-propose-bill-that-would-split-up-charlotte-mecklenburg-schools-board-member-says) (lean-left): Lawmaker to propose bill that would split up Charlotte-Mecklenburg Schools, board member says
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/nc-lawmaker-proposes-breaking-up-charlotte-mecklenburg-schools-report/) (center): NC lawmaker proposes breaking up Charlotte-Mecklenburg Schools: report
 
 
-## 6. Pedestrian killed in hit-and-run in south Charlotte
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 9. Records show blacklisted Chinese military-linked university bought Nvidia H200 chips
+`AI & Cybersecurity` `Asia Business & Politics` `Korea` · Covered by 2 outlets (L 0 · C 1 · R 1)
 
-A pedestrian was struck and killed Tuesday night near Nations Ford Road and East Arrowood Road in south Charlotte, and the driver left the scene, according to Charlotte-Mecklenburg Police. Police closed the area to investigate. No information about the victim or the vehicle has been released. WBTV noted several recent pedestrian crashes in the region.
+Reuters, citing procurement records, reported that Northwestern Polytechnical University, which has been on the US Entity List since 2001, bought two Nvidia H200 AI chips in October through a domestic supplier. The university also rented access to Nvidia-powered computing through five contracts. A Reuters review of 26 records found other Chinese institutions obtaining restricted chips the same way. The report comes as Nvidia CEO Jensen Huang faces scrutiny over his lobbying for looser export rules and his reported contacts with an alleged Chinese operative.
 
 **Key facts**
-- The crash happened Tuesday night, Nov. 10, near Nations Ford Road and East Arrowood Road.
-- CMPD is investigating it as a fatal hit-and-run.
+- The two chips cost 874,700 yuan (about $123,000), according to an October 21 procurement record.
+- The chips were bought from Shaanxi Bosuan Network Technology rather than from Nvidia directly.
+- The university belongs to the 'Seven Sons of National Defense' group and researches military aircraft, missiles and satellites.
+- Three Republican committee chairmen have requested a briefing with Huang on November 18.
 
 **How it's being framed**
-- **Center:** Local outlets gave brief, police-sourced reports. WBTV placed the crash in the context of other recent pedestrian crashes, including the death of a 6-year-old last month.
+- **Center:** The Korea Herald, carrying Reuters, focused on gaps in export control enforcement and included both Huang's argument for continued sales to China and lawmakers' security concerns.
+- **Right:** The Daily Caller relayed the Reuters findings and added a long list of past Chinese espionage cases, including the Fang Fang case involving Rep. Eric Swalwell, framing the purchase as part of a decades-long pattern.
 
 **Disputed or unclear**
-- Reported times differ: WBTV said around 9:40 p.m., while WSOC said just before 9 p.m.
-- The victim's identity and the driver are unknown.
+- Nvidia, the university and the Commerce Department did not respond, so how the chips reached the supplier is unknown.
 
-**Why it matters:** It adds to a run of pedestrian crashes in the Charlotte area that has drawn attention to road safety.
+**Why it matters:** The findings raise doubts about whether US export controls can keep advanced AI chips away from China's military.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/11/pedestrian-killed-hit-and-run-south-charlotte-police-report/) (center): Pedestrian killed in hit-and-run in south Charlotte, police report
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/fatal-hit-and-run-investigation-under-way-south-charlotte/GXQML2LLLFHCJAUP6PIK4DGGF4/) (center): Fatal hit-and-run investigation underway in south Charlotte
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/cmpd-investigates-fatal-hit-and-run-in-southwest-charlotte-tuesday-night/275-a909779c-54dd-48aa-87d2-6adc49dea8ee) (center): CMPD investigates fatal hit-and-run in southwest Charlotte Tuesday night
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/pedestrian-killed-in-hit-and-run-in-sw-charlotte-cmpd/) (center): Pedestrian killed in hit-and-run in SW Charlotte: CMPD
+- [The Korea Herald](https://www.koreaherald.com/article/10934237) (center): Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
+- [The Daily Caller](https://dailycaller.com/2026/11/11/powerful-american-ai-technology-finding-way-china) (right): Blacklisted Chinese Military University Gets Its Hands On Powerful American AI Chips
 
 
-## 7. CoreWeave raises outlook after strong quarter amid scrutiny of AI cloud firms
-`AI & Cybersecurity` · Covered by 2 outlets (L 0 · C 1 · R 1)
+## 10. South Korea to let travelers bring in up to three months of prescribed weight-loss drugs
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-CoreWeave shares rose about 11% in premarket trading Wednesday after the company reported third-quarter revenue up 168% to $3.7 billion and raised its full-year guidance. The company had drawn concern after spreads on its credit default swaps widened past 11%, a level generally seen as signaling distress. Other AI cloud providers, known as neoclouds, also rose. A Washington Examiner piece argued that these firms' reports matter because markets are increasingly worried about AI demand and debt loads.
+Starting Thursday, South Korea will allow travelers to bring in drugs such as Wegovy and Mounjaro in hand luggage if the drugs were legally prescribed and bought abroad. The limit is six units or a three-month supply. The change followed complaints that legally prescribed medicines were being treated like illicitly sourced ones. Lower prices in Japan have drawn Koreans there for prescriptions. Officials say they will monitor concerns about storage, misuse and resale.
 
 **Key facts**
-- Q3 revenue was $3.7 billion, up 168%.
-- 2026 revenue guidance is $13 billion to $13.3 billion, versus the $12.86 billion analysts expected.
-- Nebius rose 10.2% and IREN 6.3% in premarket trading.
+- Customs detected 1,097 unauthorized-entry cases involving these drugs from January to August, versus 134 in all of 2025.
+- The lowest-dose four-week supply of Mounjaro costs about 300,000 won in Korea, versus about 100,000 won at some Japanese clinics.
+- The rule does not apply to direct purchases from overseas.
 
 **How it's being framed**
-- **Center:** CNBC framed the results as easing fears of an AI slowdown and quoted an analyst who suggested it might be "the bottom" for the stock.
-- **Right:** The Washington Examiner emphasized wider risks: debt-heavy neoclouds, a reported drop in Anthropic's expected IPO valuation, and hotter-than-expected inflation data.
+- **Center:** Yonhap and The Korea Herald reported the policy straightforwardly. The Herald added price comparisons, the 'sushijaro' nickname and safety concerns raised by experts.
 
-**Disputed or unclear**
-- Whether demand for AI computing is sustainable remains contested.
-
-**Why it matters:** Results from AI infrastructure firms are being watched as a gauge of whether the AI investment boom is holding up.
+**Why it matters:** The change eases access to popular obesity drugs and may encourage medical travel to Japan.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html) (center): CoreWeave stock pops 11% after outlook raise eases AI slowdown concerns
-- [Washington Examiner](https://www.washingtonexaminer.com/opinion/4799453/why-the-coreweave-and-nebius-reports-offer-important-insights-to-the-ai-build-out/) (lean-right): Why the CoreWeave and Nebius reports are so important to the AI build-out
-
-
-## 8. Records show blacklisted Chinese defense university bought Nvidia H200 chips
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 2 outlets (L 1 · C 0 · R 1)
-
-Reuters reported that Northwestern Polytechnical University, a Chinese university with military ties that has been on a US export blacklist since 2001, bought two Nvidia H200 chips in October through a domestic supplier. The university also rented access to such chips this year. A Reuters review of 26 Chinese records found other institutions obtaining restricted Nvidia computing power in similar ways. Nvidia, the university and the US Commerce Department did not respond to requests for comment. The report comes as Nvidia CEO Jensen Huang faces scrutiny in Washington.
-
-**Key facts**
-- The university paid 874,700 yuan (about $123,000) for two H200 chips, according to an Oct. 21 procurement record.
-- The chips came from Shaanxi Bosuan Network Technology, not directly from Nvidia.
-- The Trump administration began allowing some H200 exports to China case by case in January, but that did not cover Entity List institutions.
-- Three Republican committee chairmen have requested a briefing with Huang on Nov. 18.
-
-**How it's being framed**
-- **Left:** Al Jazeera republished the Reuters findings and linked them to the scrutiny over Huang's affair with an alleged spy.
-- **Right:** The New York Post ran the same Reuters reporting, emphasizing PLA ties and gaps in Washington's export controls.
-
-**Disputed or unclear**
-- How the chips reached the supplier is not established.
-- Nvidia has not responded to the report.
-
-**Why it matters:** The findings point to gaps in US export controls on advanced AI chips at a time of intense scrutiny of Nvidia.
-
-**Read it yourself:**
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show) (lean-left): Chinese university buys Nvidia AI H200 chips despite US ban, records show
-- [New York Post](https://nypost.com/2026/11/11/business/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/) (lean-right): PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show
-
-
-## 9. Spain holds first general strike in 14 years over housing costs
-`US Headlines` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-Millions of Spanish workers joined a 24-hour general strike on Wednesday demanding government action on housing. The strike disrupted transport, factories and some flights. It was called by housing activists and the UGT and CCOO unions after the eviction and later death of 87-year-old Maricarmen Abascal in Madrid. It comes ahead of a Nov. 29 snap election that Prime Minister Pedro Sánchez called after parliament blocked his housing measures. The government backed the strike, while the conservative People's Party and the far-right Vox criticized it.
-
-**Key facts**
-- This is Spain's first general strike in 14 years.
-- The unions reported stoppages of 90% in the automotive and port sectors.
-- Average rent has nearly doubled in 10 years, per NPR and Al Jazeera.
-- Spain's national election is set for Nov. 29.
-
-**How it's being framed**
-- **Left:** NPR and Al Jazeera focused on housing affordability, union participation figures and tenant activists. They noted the election could bring the far right to power and included criticism from the PP and business groups.
-- **Center:** DW gave housing-deficit statistics, reported pepper-spray allegations in Madrid, and highlighted the dispute over whether the strike is aimed at the opposition.
-
-**Disputed or unclear**
-- Strikers said police used pepper spray at Mercamadrid; DW reported at least 13 people sought medical attention.
-- Whether the strike is politically aligned with Sánchez's party is contested by the PP and business groups.
-- Accounts of when the eviction happened differ: 'last month' (NPR) versus September (Al Jazeera).
-
-**Why it matters:** Housing has become a central issue in an election that could shift Spain's government.
-
-**Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf) (center): Spain: Housing crisis prompts general strike
-- [NPR](https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike) (lean-left): Spain's first general strike in 14 years demands solutions to housing crisis
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins) (lean-left): Spain’s first general strike in 14 years begins
-
-
-## 10. US charges three alleged Iran-backed operatives over plots in Europe, including RAF Fairford
-`US Headlines` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-Federal prosecutors in New York unsealed an eight-count indictment charging three men with directing nearly 20 attacks and attempted attacks in Europe and the US on behalf of Iran's IRGC and the Iraqi militia Kataib Hezbollah. The alleged plots included a September incident near RAF Fairford, a UK base used by US forces. The DOJ says the men operated through a front group called HAYI. HAYI claimed 18 attacks in Europe this spring, seven of them in the UK, including a stabbing of two Jewish men in London. Iran denies involvement in the Fairford incident. One defendant allegedly communicated from a New York jail.
-
-**Key facts**
-- The defendants are Mohsen Mohajeri, Mohammad Ali al-Hassani and Mohammad Baqer Saad Dawood al-Saadi.
-- The DOJ said HAYI claimed 18 attacks in Europe this spring, seven of them in the UK.
-- No explosives were found in the vans near RAF Fairford, but petrol was seized.
-- Seven men have been arrested in the UK over the Fairford incident.
-
-**How it's being framed**
-- **Left:** NPR detailed the indictment's allegations, including attacks allegedly coached remotely over FaceTime. PBS placed the charges in a news roundup alongside US aircraft moves from UK bases.
-- **Center:** The BBC focused on the UK angle and the Fairford timeline, and included Iran's denial and FBI Director Kash Patel's comments.
-
-**Disputed or unclear**
-- Iran denies involvement; the charges are allegations that have not been proven in court.
-- A Wall Street Journal report that the security threat behind US aircraft moves from RAF Mildenhall is linked to Iran has not been confirmed.
-
-**Why it matters:** The case alleges that the Iran conflict has extended to attacks on Jewish communities and allied bases in Europe.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss) (center): Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says
-- [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-u-s-charges-3-with-plotting-attacks-at-air-base-and-jewish-communities) (lean-left): News Wrap: U.S. charges 3 with plotting attacks
-- [NPR](https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy) (lean-left): Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets
+- [The Korea Herald](https://www.koreaherald.com/article/10934223) (center): Korea to allow limited carry-in of prescribed weight-loss drugs from overseas
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261111010900315) (center): Gov't allows bringing in up to 3 months' supply of weight-loss drugs
 
 
 ---
@@ -290,7 +296,4 @@ Federal prosecutors in New York unsealed an eight-count indictment charging thre
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles in this edition directly address AI regulation in the US or EU. The nearest coverage concerns US export controls on Nvidia chips to China (see s8).
-
----
-_Feeds that failed this run: Newsweek_
+No articles in this edition address AI regulation in the US or EU. The Nvidia stories touch on US export controls on AI chips but not on broader AI regulation.

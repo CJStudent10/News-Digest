@@ -1,155 +1,154 @@
-# The Lighter Brief: Morning edition
-_Wednesday, November 11, 2026 · 6:28 AM EST · 207 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Wednesday, November 11, 2026 · 6:09 PM EST · 305 articles from 23 outlets · summaries by Claude_
 
-> A fairly mixed day! Congress spent Tuesday evening voting on a proposed impeachment, Charlotte rolled out new street-vending rules, and the FDA added a rare eye-risk warning to popular GLP-1 drugs like Ozempic. On the lighter side, Method Man plays a rapper fighting AI copycats on TV, and Lil Yachty is bringing wrestling style to holiday shopping.
+> It's been a big week for election results: a historic Senate win in Mississippi and a wave of very close North Carolina House races, all settled by tiny margins. Beyond politics there's cheaper fuel in Jamaica, a Brandy and Monica reunion headed to Las Vegas, and a chart shake-up that has Drake shaking his head. We've also included a practical job-scam warning and a promising bit of breast cancer research.
 
 
 
 ---
 
-## 1. House Republicans set aside Hegseth impeachment, for now
+## 1. Scott Colom wins Mississippi's Senate race in a historic upset
 `US Headlines` · Covered by 5 outlets
 
-The House voted Tuesday evening to send a measure to impeach Defense Secretary Pete Hegseth back to committee, which effectively blocks it for now. The articles were filed by Republican Rep. Thomas Massie, who accused Hegseth of abusing his power and failing to protect civilians. Republican leaders had been bracing for possible defections, so the vote counts as a win for them and the administration. Axios notes Democrats are expected to raise the issue again when they take control of both chambers in January.
+Democrat Scott Colom, a local district attorney, narrowly beat Republican Sen. Cindy Hyde-Smith after more than a week of counting absentee and affidavit (provisional) ballots. He is the first Democrat Mississippi has elected to the Senate since 1982 and will be the state's first Black senator since Reconstruction. Colom built his campaign around the cost of living, including a viral 'pick another senator' ad. Mississippi has no automatic recount, and it's unclear whether Hyde-Smith will challenge the result.
 
 **Key facts**
-- The vote referred the impeachment measure back to committee instead of moving it forward.
-- Rep. Thomas Massie (R-Ky.) filed the articles of impeachment.
-- Rep. Melanie Stansbury (D-N.M.) said a traffic incident and police escort kept her and other lawmakers from reaching the Capitol in time to vote.
-- Democrats take majorities in the House and Senate in January.
+- With 98.6% of ballots counted, Colom led 49.2% to 48.7%, a margin of roughly 4,500 votes.
+- CNN projected the race first, and the Associated Press later called it for Colom.
+- The Cook Political Report had rated the race 'Likely Republican' going into election night.
+- The win follows midterms in which Democrats took control of both chambers of Congress.
 
-**Worth knowing:** It shows where things stand on a high-profile oversight fight that will likely come back once the new Congress is seated.
-
-**Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie): GOP House rejects Hegseth impeachment effort
-- [NPR](https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot): Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/charlotte-area-house-lawmakers-divided-on-pete-hegseth-impeachment/): Charlotte-area House lawmakers divided on Pete Hegseth impeachment
-- [The Hill](https://thehill.com/homenews/house/6212500-stansbury-misses-hegseth-vote/): House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment
-
-
-## 2. Jamaica's opposition presses PM over UN Cuba vote
-`Jamaica` · Covered by 1 outlet
-
-Opposition MP Anthony Hylton wants his censure motion against the government put back on Parliament's agenda after debate on it was cut short on November 3. He is also asking Prime Minister Andrew Holness to explain in Parliament why Jamaica abstained in the UN vote on lifting the US embargo on Cuba. Hylton argues that Parliament passed a Cuba resolution on October 27 believing Jamaica's position hadn't changed, only for Jamaica to abstain the next day.
-
-**Key facts**
-- Jamaica abstained in the UN vote on October 28.
-- Leader of Government Business Floyd Green moved to close the censure debate under Standing Order 38, and the 'ayes' prevailed.
-- Hylton says the abstention was a Cabinet decision, so Cabinet answers to Parliament collectively.
-
-**Good to know**
-- The opposition says it believes the abstention decision was sent to Jamaica's UN mission before or during the House debate. That is the opposition's claim and has not been confirmed in this article.
-
-**Worth knowing:** It raises the question of how much Parliament should be told about foreign-policy shifts before it votes on related resolutions.
+**Worth knowing:** It was the closest Senate race in the country and a major shift for a state that hadn't sent a Democrat to the Senate in more than 40 years.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261111/hylton-demands-pm-answer-questions-un-vote-return-censure-motion): Hylton demands PM answer questions on UN vote, return of censure motion
+- [Newsweek](https://www.newsweek.com/scott-colom-makes-history-with-mississippi-senate-win-cnn-projects-12661104): Scott Colom Makes History With Mississippi Senate Win, CNN Projects
+- [NPR](https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom): Democrat Scott Colom wins Mississippi Senate race
+- [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
+- [The Hill](https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/): Colom extends slim lead over Hyde-Smith in Mississippi Senate race
 
 
-## 3. Trinidad ruling gives hope to Jamaica buggery-law challenge
-`Jamaica` · Covered by 1 outlet
-
-The Privy Council, the final appeals court for Trinidad and Tobago, ruled that the island's anti-buggery laws can't be used to criminalise private, consensual relations between adult men. That ends an 11-year legal fight led by Jason Jones. Activist and lawyer Maurice Tomlinson says the ruling will be 'highly persuasive' for his own challenge to Jamaica's laws, which the same court is due to hear next year.
-
-**Key facts**
-- Jason Jones, 62, first won in Trinidad's High Court in 2018, but that win was overturned on appeal before this final ruling.
-- Tomlinson has been challenging Jamaica's laws since 2015.
-- Jamaica's laws date to the 1864 Offences Against the Person Act (sections 76, 77 and 79).
-- Jamaica's constitution has a 'savings law' clause that shields older laws from challenge, which Tomlinson plans to argue against.
-
-**Worth knowing:** A ruling from a court shared by several Caribbean countries could shape how similar laws are handled across the region.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261111/buggery-law-showdown-tomlinson-banking-trinidad-ruling-bolster-similar-legal): BUGGERY LAW SHOWDOWN - Tomlinson banking on Trinidad ruling to bolster similar legal challenge for Jamaica next year
-
-
-## 4. CMU fraud trial: witness says third-party payments were routine
-`Jamaica` · Covered by 1 outlet
-
-In the ongoing fraud trial over Caribbean Maritime University spending, a former treasurer was questioned about payments to JLP councillor Kim Brown Lawrence. He agreed she was a third-party payee under contracts between CMU and consultancy firm Optimum Customer Services Consultancy, and that none of the documents shown contained payment instructions from her. He also said all 14 to 15 meal contractors on a youth programme were paid the same way.
-
-**Key facts**
-- More than 60 documents, including cheque vouchers, have been admitted into evidence.
-- The prosecution alleges former CMU President Fritz Pinnock authorised millions in payments to several people for student meals.
-- The payments relate to the CAP-YES youth employment programme.
-
-**Good to know**
-- The payments are alleged to be fraudulent. The trial is ongoing and no verdict has been reached.
-
-**Worth knowing:** It's a closely watched case about how public university money was handled.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261111/cmu-third-party-payments-normal-says-witness): CMU third-party payments normal, says Witness
-
-
-## 5. Charlotte's new street-vending rules are in effect
+## 2. North Carolina's House delegation flips by razor-thin margins
 `Charlotte` · Covered by 2 outlets
 
-As of Monday, street vending on Charlotte's streets and sidewalks is allowed only in pre-approved areas, which for now are mostly in Uptown. The City Council also dropped criminal penalties for vending violations and replaced them with civil fines. Council members say the goal is to give vendors structure, not to shut them down. Some members worry the fines won't deter repeat violators.
+Republican Rep. Greg Murphy conceded North Carolina's 3rd District to Democrat Raymond Smith, who won by just 293 votes. Republican lawmakers had redrawn the district lines earlier this year to help their party, but the midterm wave flipped much of the state's delegation. The result has become a textbook example of a 'dummymander,' a gerrymander that ends up helping the other party.
 
 **Key facts**
-- Violations carry civil fines of up to $500 each and could lead to losing a vending license.
-- Approved spots are designated by Center City Partners.
-- There's no clear timeline yet for adding vending zones outside Uptown.
-- CMPD is building a system to track violations.
+- Smith beat four-term Rep. Greg Murphy by 293 votes.
+- Democrats are likely to hold 11 of the state's 14 House seats, pending the 5th District.
+- In NC-05, Democrat Chuck Hubbard leads Rep. Virginia Foxx by fewer than 300 votes.
+- Ten races were decided by less than 3%.
 
-**Worth knowing:** If you sell or shop from street vendors in Charlotte, where they can set up has changed.
+**Worth knowing:** A few hundred votes reshaped who represents North Carolinians in Congress, a good reminder that every ballot counts.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-implements-new-street-vending-regulations-approved-areas/TJQC3SYHVBELHJPH7PBCWDLYVM/): Charlotte implements new street vending regulations and approved areas
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/business/small-business/street-vending-banned-across-charlotte-no-criminal-penalties-for-violators/275-55e8c0c1-f61e-405b-8c1f-db46012cdedf): Street vending banned across Charlotte; no criminal penalties for violators
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/ncs-republican-drawn-congressional-districts-lead-narrow-democratic-victories/K2LQDQTW3NBFVFNLU7SIIBMULE/): NC’s Republican-drawn congressional districts lead to narrow Democratic victories
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/another-north-carolina-congressional-seat-flips-to-democrats/): Another North Carolina congressional seat flips to Democrats
 
 
-## 6. Offset says he and Quavo are still healing, together
-`Hip Hop & Celebrity` · Covered by 1 outlet
+## 3. YouTube streams return to the Billboard charts, and Drake has thoughts
+`Hip Hop & Celebrity` · Covered by 2 outlets
 
-Offset told DJ Whoo Kid on Shade 45 that he and Quavo had been talking privately well before they were seen together at Quavo's September album celebration. He said they are still grieving Takeoff and keeping much of that process private. The two are making music together again, and Quavo has talked about new Migos music and a Takeoff project.
+YouTube is rejoining the Billboard charts starting in 2027. It had pulled out in January 2026 over how Billboard weighted free, ad-supported streams compared with paid ones. Billboard is changing its formula so that ad-supported streams count for more, and Drake reacted on Instagram that the music 'game' is 'so cooked.'
 
 **Key facts**
-- Offset appears on 'Away' from Quavo's album QRÖMELIFE, released October 2.
-- Pharrell Williams executive produced QRÖMELIFE.
-- Quavo says future Migos work should honor Takeoff and benefit his estate.
+- The new rules take effect January 16, 2027.
+- One album unit will equal 1,500 ad-tier streams, down from 2,500, or 1,000 paid streams.
+- YouTube's Lyor Cohen said the new method 'better reflects how fans engage with music today.'
+- Coming up: the Latin Grammys on November 12 and Grammy nominations on November 16.
 
 **Good to know**
-- Plans for new Migos music and a Takeoff project have been discussed but not formally announced with dates.
+- Confirmed: the chart rule change and YouTube's return. Drake's comment is his personal reaction posted to his Instagram Story.
 
-**Worth knowing:** It's a sweet sign of family and bandmates finding their way back to each other after a hard loss.
+**Worth knowing:** Free listening on YouTube will soon count for more toward which albums top the charts.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/offset-says-he-and-quavo-still-need-time-to-heal/): Offset Says He And Quavo Still Need Time To Heal
+- [Billboard](https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/): Billboard’s Music Industry Events Calendar
+- [XXL](https://www.xxlmag.com/drake-reacts-billboard-counting-youtube-streams-again/): Drake Insists the Music Industry Is Cooked After Billboard Change
 
 
-## 7. Method Man takes on AI copycats on CBS's 'Cupertino'
-`Hip Hop & Celebrity` · Covered by 1 outlet
+## 4. State lawmaker plans a bill to split up Charlotte-Mecklenburg Schools
+`Charlotte` · Covered by 2 outlets
 
-Wu-Tang Clan's Method Man guest-stars on the CBS legal drama Cupertino as YUNGWOOD, a veteran rapper whose streaming income drops when an AI studio starts copying his music. The show's attorneys take the studio to court, and the case also puts lead lawyer Michael across the courtroom from his own father.
+Republican Rep. David Willis of Union County plans to introduce a bill that would break up Charlotte-Mecklenburg Schools and could force new school board elections, according to CMS board members his staff contacted. The district has faced controversy recently, including the firing of its superintendent and investigations into alleged mishandling of money. CMS board member Anna London said a split would be 'harmful to kids,' and Democratic Rep. Laura Budd called the idea a political maneuver that is 'going nowhere.'
 
 **Key facts**
-- The episode airs Thursday, November 12, at 10 p.m. ET/PT on CBS.
-- It streams live on Paramount+ Premium, and on demand the next day for Paramount+ Essential subscribers.
-- Mike Colter and Rachel Keller star in the series.
+- CMS serves about 140,000 students across 185 schools and facilities.
+- It is the state's second-largest district and one of the 20 largest in the country.
+- No timeline or other details were given.
+- The General Assembly could return to session as soon as next week.
 
-**Worth knowing:** It's a fun, timely TV plot about AI and music, with a familiar face in the lead.
+**Worth knowing:** Charlotte-area families may want to keep an eye on this as the legislature returns, though for now it is only a planned bill.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/method-man-cupertino-ai-music-lawsuit-role/): Method Man Takes AI Copycats To Court In New CBS Role
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/): Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/nc-lawmaker-proposes-breaking-up-charlotte-mecklenburg-schools-report/): NC lawmaker proposes breaking up Charlotte-Mecklenburg Schools: report
 
 
-## 8. Lil Yachty fronts a Lids holiday campaign with a WWE twist
-`Hip Hop & Celebrity` `US Headlines` · Covered by 1 outlet
+## 5. Jamaica's gas and diesel prices drop $4.50 a litre
+`Jamaica` `US Headlines` · Covered by 1 outlet
 
-Lil Yachty leads Lids' new holiday campaign alongside wrestler Jade Cargill, Chase B and Eladio Carrión, built around comedy about picking gifts people actually like. It follows his September WWE appearance in Atlanta, where he lasted five minutes against Baron Corbin without being pinned.
+Jamaican drivers will pay a bit less at the pump starting Thursday, November 12, based on Petrojam's latest ex-refinery prices. Gasoline and diesel are each down $4.50 per litre, with smaller cuts for kerosene and cooking gas.
 
 **Key facts**
-- The Concrete x WWE collection hits Lids on November 20.
-- The holiday lineup also includes gear from New Era, Mitchell & Ness and '47.
-- Yachty's September 6 match helped Trick Williams get a title shot, and Williams won the United States Championship.
+- 87-octane: $191.31 per litre; 90-octane: $200.07 per litre.
+- Automotive diesel: $241.91 per litre.
+- Butane is down $2.94, to $112.25 per litre.
 
-**Worth knowing:** It's a lighthearted rap-meets-wrestling crossover just in time for holiday shopping.
+**Worth knowing:** A small but welcome break for anyone filling up this week.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/lil-yachty-brings-wwe-connection-to-lids-holiday-campaign/): Lil Yachty Brings WWE Connection To Lids Holiday Campaign
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/gas-prices-diesel-4-50/): Gas prices, diesel down $4.50
+
+
+## 6. Jamaica warns citizens about suspicious overseas job offers
+`Jamaica` · Covered by 1 outlet
+
+Jamaica's foreign ministry is urging people to be careful with overseas job offers found on social media and messaging apps, especially ones promising unusually high pay, travel help or fast-tracked immigration. It specifically warned against offers linked to recruitment for Russia's war in Ukraine, citing reports of recruits misled about their duties and unable to get paid or return home. The Dominican Republic has issued similar warnings.
+
+**Key facts**
+- Be cautious if a recruiter asks for passport details, advance payments or unverified contracts.
+- Report suspicious offers to the Ministry of Labour and Social Security.
+- The ministry publishes a list of licensed employment agencies.
+
+**Worth knowing:** Practical advice for spotting risky job offers before handing over documents or money.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/govt-cautions-jamaicans-employment-offers-linked-russia-ukraine-war/): Gov’t cautions Jamaicans against employment offers linked to Russia-Ukraine war
+
+
+## 7. Busy Signal teams up with Egypt's Mohamed Ramadan on 'Make Banger'
+`Jamaica` · Covered by 1 outlet
+
+Jamaican dancehall star Busy Signal and Egyptian artist Mohamed Ramadan have released 'Make Banger,' a single that mixes Egyptian pop-rap with dancehall and Arabic with English lyrics. Promoters describe it as a cultural bridge between Jamaica and the Middle East and North Africa.
+
+**Key facts**
+- Produced by Crawba Genius and Blacksatin Music.
+- Out now on major streaming platforms.
+- Busy Signal: 'From Kingston to Cairo, we're showing that music has no borders.'
+
+**Worth knowing:** It's a fun cross-cultural team-up, and the 'Habibi mi fren' line alone makes it worth a listen.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/busy-signal-egyptian-mohamed-ramadan-unite-make-banger/): Busy Signal, Egyptian Mohamed Ramadan unite on ‘Make Banger’
+
+
+## 8. Brandy and Monica bring 'The Boy Is Mine' to Las Vegas
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+After their sold-out 2025 reunion tour, Brandy and Monica announced a 10-date residency at Resorts World Las Vegas, revealing it on Dancing With the Stars. Monica said the tour was meant to be 'one and done,' but the fans' response changed her mind, and staying in one place lets her children join her.
+
+**Key facts**
+- Shows run May 29 to July 17, 2027.
+- General ticket sales open November 20 at 10 a.m. PT, with presales on November 16 and 18.
+- Their 1998 duet spent 13 weeks at No. 1 on the Billboard Hot 100.
+- It is the Black Promoters Collective's first Las Vegas residency.
+
+**Worth knowing:** A feel-good reunion for R&B fans, nearly 30 years after the original hit.
+
+**Read it yourself:**
+- [VIBE](https://www.vibe.com/music/music-news/brandy-monica-boy-is-mine-tour-las-vegas-residency-tickets-1235202562/): Brandy and Monica Set ‘Boy Is Mine’ Residency in Las Vegas: “This Is Where We Belong”
+- [AllHipHop](https://allhiphop.com/news/brandy-monica-take-the-boy-is-mine-to-las-vegas-for-10-shows/): Brandy & Monica Take The Boy Is Mine To Las Vegas For 10 Shows
 
 
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Newsweek_
+_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_
