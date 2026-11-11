@@ -1,0 +1,754 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-11T02:16:53.919163+00:00",
+  "local_time": "Tuesday, November 10, 2026 · 9:16 PM EST",
+  "local_date": "Nov 10, 2026",
+  "slug": "2026-11-10-2116-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by fallout from last week's midterms, in which Democrats won both chambers of Congress. House Republicans blocked an impeachment push against Defense Secretary Pete Hegseth and elected Jim Jordan as their next leader. Also covered: the Nvidia CEO scandal, a US soldier arrested in Britain on Russia-related spying allegations, Anthropic's IPO filing, and several local and regional stories.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "House votes 211-204 to send Hegseth impeachment resolution to committee, stalling it",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Thomas Massie (R-Ky.) forced a vote on eight articles of impeachment against Defense Secretary Pete Hegseth. The articles cover the Iran war, boat strikes in the Caribbean, operations in Venezuela and Yemen, and Hegseth's dispute with Sen. Mark Kelly. Republicans voted 211-204 to refer the resolution to the Judiciary Committee, which Massie had warned would effectively kill it. Hegseth called the effort a 'farce' and a 'political spectacle,' and President Trump celebrated the outcome as an 'EXONERATION.' Democrats take control of both chambers in January, and outlets across the spectrum expect a renewed impeachment effort then.",
+      "key_facts": [
+        "The House voted 211-204 to refer the resolution to the Judiciary Committee.",
+        "Massie was the only Republican to vote against the referral; all Democrats present voted against it.",
+        "Massie's resolution contained eight articles of impeachment.",
+        "Incoming Speaker Hakeem Jeffries said he was 'a hard yes' on impeaching Hegseth.",
+        "The vote came a week after Republicans lost both the House and Senate in the midterms."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian stressed Republicans' continued wariness of crossing Trump after historic midterm losses. It quoted Jeffries at length on Hegseth as 'architect' of a 'reckless and costly war,' and also included GOP Rep. Warren Davidson's defense of Hegseth. A Vox piece written before the vote suggested enough Republicans might defect for impeachment to pass, and linked the Iran war to gas prices and the GOP's midterm losses."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios and DW presented the vote as a short-lived win for Trump and Hegseth, emphasizing that Democrats will likely revisit the issue in January. DW highlighted Massie's 'sinking ship' remark."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News and the Washington Examiner presented it as a GOP leadership success and described Massie as isolated and 'outgoing.' They quoted Hegseth's attacks on Massie's motives, Trump's 'major LOSER' post, and Republicans calling the effort a 'waste of time.' Both used the administration's title 'Secretary of War.' The Examiner noted Massie may refile the articles individually and that Democrats plan tougher oversight."
+        }
+      ],
+      "disputed": [
+        "Whether Hegseth's actions were illegal or amount to impeachable offenses: Massie and Democrats say yes; Hegseth and Republicans call it a policy dispute or a 'stunt.'",
+        "Whether Massie will refile the articles as separate resolutions.",
+        "The extent to which the Iran war drove the GOP's midterm losses."
+      ],
+      "why": "The vote previews the oversight and impeachment fights expected when Democrats take control of Congress in January.",
+      "coverage": {
+        "left": 3,
+        "center": 5,
+        "right": 4
+      },
+      "n_outlets": 12,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
+          "url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-11T02:04:00+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+          "published": "2026-11-10T23:56:11+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Hegseth impeachment dead … for now: House Republicans unite to block Massie’s efforts",
+          "url": "https://www.washingtonexaminer.com/news/house/4799498/house-republicans-unite-block-massie-hegseth-impeachment-effort/",
+          "published": "2026-11-10T23:18:58+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "GOP House rejects Hegseth impeachment effort",
+          "url": "https://www.axios.com/2026/11/10/pete-hegseth-impeachment-house-republicans-massie",
+          "published": "2026-11-10T23:06:08+00:00"
+        },
+        {
+          "source": "Vox",
+          "lean": "left",
+          "bucket": "left",
+          "title": "What to know about the Republican-led effort to impeach Pete Hegseth",
+          "url": "https://www.vox.com/podcasts/510204/hegseth-impeachment-massie-iran-house-vote",
+          "published": "2026-11-10T20:50:00+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "House GOP leaders block Massie's Hegseth impeachment push",
+          "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push",
+          "published": "2026-11-10T23:16:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Nvidia loses about $430 billion in value as scrutiny of CEO Jensen Huang's relationship with alleged Chinese spy grows",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "Nvidia CEO Jensen Huang has admitted being unfaithful to his wife after reports of his relationship with Alice Huang, a former executive at Singapore chip buyer Megaspeed whom US officials reportedly suspect of spying for China. Nvidia's independent directors hired former acting US Attorney Joon Kim of Wachtell Lipton to investigate, and the FBI is reportedly examining whether Huang was targeted by a foreign intelligence operation. The New York Times reported that Secretary of State Marco Rubio had briefed Trump on the intelligence. Trump said he believes Huang had 'absolutely no idea' the woman was a spy. Democrats are pressing for tighter chip export curbs, and House Foreign Affairs Chairman Brian Mast is seeking a briefing from Huang on Nov. 18, with Republicans prepared to subpoena him if he does not respond.",
+      "key_facts": [
+        "Nvidia lost about $430 billion in market value over two trading sessions; the stock is down 9.5% since the news broke.",
+        "Nvidia's board says it has 'no reason to believe' national security or company secrets were compromised.",
+        "Reports allege the relationship aided at least $7.5 billion in chip shipments to China.",
+        "Megaspeed has been under US investigation since 2024 and denies wrongdoing.",
+        "China has denied any spy plot and called the allegations a 'smear.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Center outlets covered governance and market risk, Schumer's and Jeffries' calls for export restrictions, and Megaspeed's background. A Bloomberg Opinion column carried by CNA argued that Huang's long advocacy for selling chips to China now looks 'murkier.'"
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business highlighted that a short seller, Culper Research, flagged the 'uncomfortably close' ties months earlier. The Washington Examiner focused on the board's investigator, Trump's sympathy for Huang, and House Republicans' subpoena threat."
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang is in fact a Chinese spy; China denies it.",
+        "Whether the relationship helped divert chips to China, and by how much.",
+        "When Trump first learned of the intelligence: the Times reports at least two briefings, while Trump says he did not know when Huang joined his May trip to China.",
+        "Whether Huang will appear before Congress."
+      ],
+      "why": "The scandal touches national security, US-China chip policy, and the world's dominant AI chipmaker.",
+      "coverage": {
+        "left": 0,
+        "center": 10,
+        "right": 2
+      },
+      "n_outlets": 12,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia faces scrutiny over China chip ties, CEO affair",
+          "url": "https://www.koreaherald.com/article/10933361",
+          "published": "2026-11-11T01:44:24+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Short seller flagged Jensen Huang’s 'uncomfortably close' ties to alleged Chinese spy months ago",
+          "url": "https://www.foxbusiness.com/markets/short-seller-flagged-jensen-huangs-uncomfortably-close-ties-alleged-chinese-spy-months-ago",
+          "published": "2026-11-10T20:41:50+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Megaspeed and the battle to go high-end Nvidia chips into China",
+          "url": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-10T14:32:00+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nvidia taps former acting US attorney to investigate CEO Jensen Huang",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4799477/nvidia-former-acting-us-attorney-investigation-jensen-huang/",
+          "published": "2026-11-10T23:46:30+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Commentary: Everything Jensen Huang said about China is out the window",
+          "url": "https://www.channelnewsasia.com/commentary/nvidia-ceo-jensen-huang-alice-china-ai-chips-6539051",
+          "published": "2026-11-10T21:59:00+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jeffries pushes tighter China chip restrictions amid Nvidia CEO scandal",
+          "url": "https://thehill.com/policy/technology/6210410-jeffries-backs-china-ai-chip-restrictions/",
+          "published": "2026-11-10T15:06:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "House Republicans elect Jim Jordan as minority leader over Steve Scalise",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "House Republicans chose Judiciary Chairman Jim Jordan of Ohio to lead them in the next Congress, defeating Majority Leader Steve Scalise 106-73 in a secret ballot. Jordan, a co-founder of the Freedom Caucus, pitched himself as a fighter ready to counter expected Democratic investigations of the Trump administration. Speaker Mike Johnson did not run for the post, and Trump said he stayed out of the race. Jordan will lead a conference that is set to shrink by more than 40 members in January.",
+      "key_facts": [
+        "The vote was 106-73.",
+        "Jordan co-founded the House Freedom Caucus and was its first chairman.",
+        "Tom Emmer and Lisa McClain keep their leadership posts.",
+        "Scalise had served in GOP leadership since 2014."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian profiled Jordan as a 'far-right Trump ideologue.' It noted his refusal of a Jan. 6 committee subpoena, his role in efforts to overturn the 2020 election, and the Ohio State abuse allegations, which he denies. PBS/AP gave a straighter account, including Scalise's fundraising pitch."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios and The Hill called it a major shake-up that elevates a hardliner who once antagonized party leaders, presented as a response to the midterm defeat."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner cast it as the party admitting it needs a new playbook. It quoted members praising Jordan as a fighter and one calling it the 'ascension of the Freedom Caucus.' The Daily Caller highlighted both candidates' warnings about Democratic 'weaponized' oversight, and noted they focused on that rather than cost of living."
+        }
+      ],
+      "disputed": [
+        "Allegations that Jordan ignored abuse at Ohio State, which he denies."
+      ],
+      "why": "Jordan will shape how Republicans respond to Democratic investigations over Trump's final two years in office.",
+      "coverage": {
+        "left": 3,
+        "center": 5,
+        "right": 2
+      },
+      "n_outlets": 10,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jim Jordan wins House GOP minority leader race",
+          "url": "https://www.axios.com/2026/11/10/jim-jordan-house-republicans-leadership-elections-scalise",
+          "published": "2026-11-10T20:57:20+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
+          "url": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+          "published": "2026-11-10T19:52:21+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Jim Jordan’s ascent to minority leader represents new chapter for Republicans",
+          "url": "https://www.washingtonexaminer.com/news/house/4799580/jim-jordan-minority-leader-new-chapter-republicans/",
+          "published": "2026-11-11T01:17:26+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jim Jordan elected minority leader by House GOP",
+          "url": "https://thehill.com/the-120/6211341-republicans-elect-jim-jordan-minority-leader/",
+          "published": "2026-11-10T19:22:35+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Who is Jim Jordan? Far-right Trump ideologue to lead diminished Republican ranks",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
+          "published": "2026-11-10T23:12:12+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Jim Jordan Will Become Next House GOP Leader After Mike Johnson Previously Bowed Out",
+          "url": "https://dailycaller.com/2026/11/10/jim-jordan-minority-leader-house-gop",
+          "published": "2026-11-10T19:24:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "US Army soldier arrested in England on suspicion of spying for Russia",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "British counterterrorism police arrested a 41-year-old US Army soldier, described as a 'senior soldier,' near Gloucester on suspicion of assisting a foreign intelligence service and obtaining or disclosing protected information under the National Security Act 2023. Police said the allegations relate to Russia and that the FBI and US military worked closely on the case. Police searched two locations in Gloucestershire, and the man is being held at a London police station. Police said the case is not linked to an Iran-related plot at RAF Fairford in September.",
+      "key_facts": [
+        "The suspect is 41 and has not been named.",
+        "FBI Director Kash Patel called the case of 'utmost concern.'",
+        "Gloucester is near GCHQ's headquarters in Cheltenham.",
+        "The investigation is ongoing."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS/AP and Al Jazeera placed the arrest alongside the Iran-related threats at UK bases and AP's tally of about 200 incidents of Russian-blamed sabotage in Europe."
+        },
+        {
+          "lean": "center",
+          "framing": "DW and The Record emphasized the sensitive intelligence sites around Gloucestershire and warnings from Britain's spy chief about Russian 'hybrid activity.'"
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News centered Patel's statements, including his claim of 167 counterintelligence arrests and a 53% increase under current FBI leadership."
+        }
+      ],
+      "disputed": [
+        "The suspect's identity, role, and what information was allegedly involved.",
+        "The Kremlin has not commented."
+      ],
+      "why": "The case raises concerns about insider threats within US forces stationed in allied countries.",
+      "coverage": {
+        "left": 2,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+          "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-10T19:35:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "U.S. soldier arrested in Britain accused of espionage linked to Russia",
+          "url": "https://www.pbs.org/newshour/nation/u-s-soldier-arrested-in-britain-accused-of-espionage-linked-to-russia",
+          "published": "2026-11-10T19:41:32+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Senior US Army soldier arrested in UK on suspicion of spying for Russia",
+          "url": "https://www.foxnews.com/world/senior-us-army-soldier-arrested-uk-suspicion-spying-russia",
+          "published": "2026-11-10T21:51:09+00:00"
+        },
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US Army member arrested in UK over allegations of spying for Russia",
+          "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+          "published": "2026-11-10T21:13:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US soldier arrested in UK on suspicion of spying for Russia",
+          "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage",
+          "published": "2026-11-10T20:41:53+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US soldier suspected of Russia-related espionage arrested in UK",
+          "url": "https://thehill.com/policy/international/6211589-us-army-soldier-arrested-espionage/",
+          "published": "2026-11-10T20:19:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Anthropic files IPO terms, seeking up to $64.4 billion from its share sale",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Anthropic's amended SEC filing sets a price range of $70-$78 for 825 million shares, with a listing possibly around Nov. 19. A separate $26 billion private placement with Google, Nvidia, Microsoft and AMD would bring total fundraising to as much as $90.4 billion. Outlets report differing valuations: Fox Business cites up to $1.02 trillion, below earlier talk of $1.5 trillion, while CNBC, TechCrunch and The Hill cite up to $1.4 trillion, apparently on a fully diluted basis. The filing shows rapid revenue growth alongside large losses.",
+      "key_facts": [
+        "Revenue for the first nine months of 2026 was $33.2 billion, up from $2.5 billion a year earlier.",
+        "The company reported a $1.3 billion operating loss and a $104 billion net loss, largely from noncash charges.",
+        "Each of the seven co-founders will sell 3,378,378 shares, worth about $250 million each at the midpoint price.",
+        "The founders will collectively control 51.1% of votes."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Center outlets focused on retail investor access, founder payouts, and the governance structure, citing the $1.4 trillion figure."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business framed the valuation as falling short of expectations amid investor caution about AI costs, while also quoting analysts who called the offering 'fairly bullish.'"
+        }
+      ],
+      "disputed": [
+        "The headline valuation differs by outlet ($1.02 trillion vs. $1.4 trillion), likely due to different share-count bases.",
+        "The final pricing and listing date."
+      ],
+      "why": "It would be one of the largest IPOs ever and a test of investor appetite for AI.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
+          "published": "2026-11-10T16:30:23+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Anthropic targets valuation around $1T in blockbuster AI IPO, below initial expectation",
+          "url": "https://www.foxbusiness.com/markets/anthropic-targets-valuation-around-1t-blockbuster-ai-ipo-below-initial-expectation",
+          "published": "2026-11-10T14:24:14+00:00"
+        },
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+          "published": "2026-11-10T19:57:52+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic seeks valuation of up to $1.4 trillion for IPO",
+          "url": "https://thehill.com/policy/technology/6210488-anthropic-seeking-trillion-ipo/",
+          "published": "2026-11-10T15:37:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Missing man Justin Lobdell found dead in Linville Gorge",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Search crews found the body of Justin Lobdell on Tuesday about a quarter mile down from the Pine Gap Trailhead in Pisgah National Forest, after an off-duty deputy spotted his car there on Nov. 8. He had been reported missing on Nov. 2, and one outlet says he was last seen on Halloween. Authorities say no foul play is suspected. An autopsy will determine the cause of death, and further updates will come from Black Mountain police.",
+      "key_facts": [
+        "His body was found Tuesday, Nov. 10.",
+        "More than 100 searchers took part.",
+        "Rescuers believe he may have slid a short distance on the mountainside."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local TV outlets reported the search and its outcome factually; WSOC added hikers' comments about the gorge's high rate of rescues."
+        }
+      ],
+      "disputed": [
+        "The cause of death is pending an autopsy."
+      ],
+      "why": "The case is a reminder of the risks of hiking in rugged terrain like the Linville Gorge.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing man found dead near trailhead in Pisgah National Forest: What we know",
+          "url": "https://www.wbtv.com/2026/11/10/missing-man-found-dead-near-trailhead-pisgah-national-forest-what-we-know/",
+          "published": "2026-11-10T22:48:37+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing father found dead after search in Linville Gorge",
+          "url": "https://www.wsoctv.com/news/local/search-underway-after-missing-mans-car-was-found-near-linville-gorge-trailhead/SWPUNICTGFHYNIXM7XPVWP3RV4/",
+          "published": "2026-11-10T21:34:05+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing hiker found dead after multi-agency search in the Linville Gorge",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/missing-hiker-found-dead-after-multi-agency-search-in-the-linville-gorge/",
+          "published": "2026-11-10T22:40:01+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing man found dead after multi-agency search in Pigsah National Forest",
+          "url": "https://www.wcnc.com/article/news/local/multiple-agencies-search-for-missin-nc-man/275-2ee308eb-6c10-48ce-a441-6802b1026a47",
+          "published": "2026-11-10T23:51:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Missing 11-month-old found alive buried in a crate in Lexington County, S.C.",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Lexington County deputies found 11-month-old Koah Sharpe alive Tuesday, buried in a wire dog crate wrapped in a towel near his paternal grandfather's home. The sheriff said the boy had been buried for about 24 hours. Investigators believe his father, 25-year-old Michael Comer, took him on Monday. Comer was arrested Monday night on a burglary charge and may face more charges. The baby is being treated at a hospital.",
+      "key_facts": [
+        "Deputies heard the baby crying under freshly disturbed dirt.",
+        "No Amber Alert was issued because there was no known vehicle description.",
+        "Comer had been placed on probation about a month earlier."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local outlets relied on the sheriff's account and highlighted the rescue and Comer's prior record."
+        }
+      ],
+      "disputed": [
+        "What additional charges Comer will face.",
+        "The child's condition beyond being hospitalized."
+      ],
+      "why": "The case raises questions about how Amber Alerts work and about child safety.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sheriff: Missing Lexington County baby found alive after being buried in dog crate",
+          "url": "https://www.wbtv.com/2026/11/10/sheriff-missing-lexington-county-baby-found-alive-after-being-buried-dog-crate/",
+          "published": "2026-11-10T23:04:30+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "11-month-old boy found buried alive in South Carolina",
+          "url": "https://www.wsoctv.com/news/local/11-month-old-boy-found-buried-alive-south-carolina/HI2LN6GFABFCVHCATKXDVSR4CM/",
+          "published": "2026-11-10T22:40:01+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing 11-month-old found buried alive in South Carolina, father arrested: Sheriff",
+          "url": "https://www.qcnews.com/news/u-s/south-carolina/missing-11-month-old-found-buried-alive-in-south-carolina-father-arrested-sheriff/",
+          "published": "2026-11-10T22:10:43+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing 11-month-old boy found buried alive near father's South Carolina home",
+          "url": "https://www.wcnc.com/article/news/crime/missing-11-month-old-boy-found-buried-alive-near-fathers-home/275-f4ddba22-41ae-4d48-b406-e76ae2ec3fb0",
+          "published": "2026-11-10T22:51:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Google releases November Pixel Drop and launches Pixel Tag tracker",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Google's quarterly Pixel Drop brings Gemini AI features from the Pixel 11 to the Pixel 10 lineup (excluding the 10a), along with new AI-generated icon styles. Separately, Google's Pixel Tag tracker went on sale at $29.99 each or $99.99 for a four-pack.",
+      "key_facts": [
+        "The Pixel Tag supports UWB and Bluetooth 6.0 Channel Sounding.",
+        "Google says the Pixel Tag runs more than a year on a coin battery.",
+        "The Pixel 10a is excluded from the new AI features."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge compared the Pixel Tag closely with Apple's AirTag 2."
+        },
+        {
+          "lean": "center",
+          "framing": "Ars Technica detailed which AI features are coming to which phones."
+        }
+      ],
+      "disputed": [],
+      "why": "Pixel owners get new features, and Android users get a first-party tracker.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+          "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+          "published": "2026-11-10T19:00:26+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Google’s Pixel Tag tracker is now available",
+          "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+          "published": "2026-11-10T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Rights groups press the UN on North Korea, while the US skips its UN rights review again",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Human Rights Watch urged the UN General Assembly to address North Korea's human rights record together with security issues in any diplomacy with Pyongyang, citing a UN report on rising public executions and surveillance. Separately, the US skipped its UN universal periodic review for a second year, becoming the first country ever to do so twice. The State Department said the US has withdrawn from the Human Rights Council. The UN has postponed deciding how to respond until early next year.",
+      "key_facts": [
+        "The universal periodic review is mandatory for all 193 UN member states.",
+        "The ACLU told reporters the administration is violating human rights.",
+        "Even North Korea takes part in the review."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR presented the US absence as unprecedented disengagement, quoting the ACLU and rights activists, alongside the State Department's written response."
+        },
+        {
+          "lean": "center",
+          "framing": "Yonhap reported HRW's argument that North Korean rights abuses, including forced labor, are linked to its weapons program."
+        }
+      ],
+      "disputed": [
+        "Whether the UN will hold the US review without US participation."
+      ],
+      "why": "Both stories test how far international human rights mechanisms can reach powerful or isolated states.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "HRW urges U.N. to address N. Korean human rights situation alongside security issues",
+          "url": "https://en.yna.co.kr/view/AEN20261111000300315",
+          "published": "2026-11-10T18:22:38+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "U.S. boycotts U.N. human rights review for second year running",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+          "published": "2026-11-10T18:53:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Revised Asian currency swap arrangement takes effect",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics"
+      ],
+      "summary": "A revision to the Chiang Mai Initiative Multilateralisation, the currency swap arrangement among ASEAN, China, Japan and South Korea, took effect Wednesday, the Bank of Korea said. It adds a Rapid Financing Facility for members facing urgent balance-of-payments needs.",
+      "key_facts": [
+        "The total pool is $240 billion, with South Korea contributing $38.4 billion.",
+        "All 13 members completed their signing procedures.",
+        "The revision was endorsed in May 2025."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Both outlets carried the same Yonhap report, which is factual and drawn from the central bank."
+        }
+      ],
+      "disputed": [],
+      "why": "It strengthens the regional financial safety net for Asian economies.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Revised regional currency swap arrangement takes effect",
+          "url": "https://en.yna.co.kr/view/AEN20261111001700320",
+          "published": "2026-11-11T01:00:03+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Revised regional currency swap arrangement takes effect",
+          "url": "https://www.koreaherald.com/article/10933277",
+          "published": "2026-11-11T01:15:01+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "TechCrunch reports New York is preparing to enforce its AI safety law. It will require major developers such as OpenAI and Anthropic to register, disclose their safety practices, and report critical incidents, or face fines. The provided articles say nothing about EU developments.",
+      "links": [
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "published": "2026-11-10T20:52:13+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 8,
+    "center": 26,
+    "right": 8
+  },
+  "stats": {
+    "articles": 617,
+    "stories_found": 405,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
