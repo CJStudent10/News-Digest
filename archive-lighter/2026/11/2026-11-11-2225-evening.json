@@ -1,0 +1,367 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-12T03:25:36.820391+00:00",
+  "local_time": "Wednesday, November 11, 2026 · 10:25 PM EST",
+  "local_date": "Nov 11, 2026",
+  "slug": "2026-11-11-2225-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Big civic news leads this edition: Mississippi elected a Democrat to the U.S. Senate for the first time in decades, and a North Carolina lawmaker wants to split up Charlotte-Mecklenburg Schools. Elsewhere, Russia and Ukraine agreed to a large prisoner swap, YouTube streams are heading back to the Billboard charts, Jamaican drivers get a break at the pump, and a dad in North Carolina won $100,000 with a little help from his daughter.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Scott Colom wins Mississippi's Senate seat in a close, historic race",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "After more than a week of counting absentee and provisional ballots, Democrat Scott Colom narrowly beat Republican Sen. Cindy Hyde-Smith, according to the Associated Press. He becomes Mississippi's first Democrat elected to the Senate since 1982 and the state's first Black senator since Reconstruction. Colom ran heavily on cost of living. Hyde-Smith conceded and wished him well. Independent candidate Ty Pinkins, who drew about 20,000 votes, says he mostly pulled votes from Republicans.",
+      "key_facts": [
+        "Colom won by just a few thousand votes, the closest Senate race in the country.",
+        "The result gives Democrats 55 Senate seats in the new Congress, with Alaska still undecided.",
+        "Hyde-Smith conceded in a video: 'I respect the decision of Mississippi voters.'",
+        "The Cook Political Report had rated the race Likely Republican going in."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a historic first for Mississippi and changes the balance of power in the U.S. Senate.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘What I actually did was split the Republican vote’: Independent Mississippi Senate candidate shares why he stayed in the race",
+          "url": "https://www.wbtv.com/2026/11/12/what-i-actually-did-was-split-republican-vote-independent-mississippi-senate-candidate-shares-why-he-stayed-race/",
+          "published": "2026-11-12T00:01:28+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+          "published": "2026-11-11T23:04:51+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip",
+          "url": "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
+          "published": "2026-11-11T23:46:31+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrats rally around Colom’s historic Mississippi victory",
+          "url": "https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/",
+          "published": "2026-11-12T03:02:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Russia and Ukraine agree to a big prisoner swap after talks",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "After two days of U.S.-mediated talks in Abu Dhabi, Russia and Ukraine agreed to a large exchange of prisoners of war. There was no major breakthrough on ending the war, but both sides confirmed the swap, and Russia's lead negotiator described the deal as 'in principle.' U.S. envoys Jared Kushner and Steve Witkoff plan to meet Putin in Moscow and Zelenskyy in Dublin next.",
+      "key_facts": [
+        "It was the first meeting between the two delegations since February.",
+        "A Russian official said the swap could happen within two to three weeks.",
+        "Last year's exchange returned 1,000 soldiers home.",
+        "European officials were not part of the three-way talks; Kushner said he hopes to add them."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Many families could see loved ones come home, and talks are moving again after nine months.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks",
+          "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/",
+          "published": "2026-11-11T15:26:50+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "published": "2026-11-11T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "NC lawmaker plans bill to split up Charlotte-Mecklenburg Schools",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "State Rep. David Willis, a Republican from Union County, plans to introduce a bill to divide CMS into several separate districts and create a process for recall elections for school board members. He says a full split would take years and require studies. Critics, including Rep. Laura Budd and board member Anna London, oppose it, calling it a political move and 'harmful to kids.' CMS is also under state investigations into financial irregularities and contracts.",
+      "key_facts": [
+        "The General Assembly could return to session as soon as next week.",
+        "The SBI and the State Auditor's Office are both looking into CMS.",
+        "Earlier split efforts came up in 2012 and 2018.",
+        "One town's mayor said his town can't afford to separate from CMS."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If it moves forward, it could reshape how schools are run for many Charlotte-area families, though implementing it would take years.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says",
+          "url": "https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/",
+          "published": "2026-11-12T02:30:24+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Parents react to NC lawmaker proposing bill to break up Charlotte-Mecklenburg Schools",
+          "url": "https://www.qcnews.com/news/charlotte-mecklenburg-schools/parents-react-to-nc-lawmaker-proposing-bill-to-divide-charlotte-mecklenburg-schools/",
+          "published": "2026-11-12T02:39:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Charlotte Jewish leaders turn to education after two antisemitic incidents",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "The Jewish Federation of Greater Charlotte is working with Charlotte Country Day School on education after the school investigated racist, misogynistic and antisemitic incidents among students. Separately, a man pleaded guilty to federal charges for putting up antisemitic flyers at Shalom Park in January. Federation CEO Adam Kolett says teaching people of all ages helps create allies.",
+      "key_facts": [
+        "Charlotte Country Day's head of school notified parents of the investigation on Nov. 7.",
+        "Dalton Mullis pleaded guilty; no sentencing date has been set.",
+        "Kolett: 'When you see something, when you hear something, address it right away.'"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "The community is responding with education and partnership, and Kolett says kids often help each other recognize and push back on hate.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte Jewish leaders focus on education after 2 antisemitic incidents",
+          "url": "https://www.wbtv.com/2026/11/11/charlotte-jewish-leaders-focus-education-after-2-antisemitic-incidents/",
+          "published": "2026-11-12T02:29:52+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte private school responds to recent racist, antisemitic incidents",
+          "url": "https://www.qcnews.com/charlotte/charlotte-private-school-responds-to-recent-racist-antisemitic-incidents-involving-students/",
+          "published": "2026-11-12T02:14:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Summer Walker's label fires back with a countersuit",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "LVRN, the Atlanta label and management company Summer Walker sued in August, has filed a countersuit saying she owes it commissions and royalties. Walker says LVRN mishandled her money; LVRN denies that. Her lawyer called the counterclaim 'disappointing' and says they'll fight it in court. Walker is also in a separate fight with Interscope over leaving her record deal.",
+      "key_facts": [
+        "LVRN claims it's owed a 7% tour cut, 20% of performance royalties and a 15% management commission.",
+        "The original contract dates to 2017.",
+        "Interscope sued Walker in October for at least $50 million.",
+        "A hearing in the Interscope case is set for April 15."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Both sides' claims are allegations in court filings; nothing has been decided by a judge.",
+        "LVRN denies Walker's accusations of skimming money; Walker's lawyer strongly disputes LVRN's counterclaims."
+      ],
+      "why": "It's a high-profile look at how artist contracts and money splits work in the music business.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Summer Walker Countersued by LVRN for Commissions and Royalties: ‘Stubbornly Litigious’",
+          "url": "https://www.billboard.com/pro/summer-walker-lawsuit-countersued-lvrn-commissions/",
+          "published": "2026-11-11T23:40:25+00:00"
+        },
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Summer Walker Faces LVRN Counterclaim Over Tour Money & Royalties",
+          "url": "https://allhiphop.com/news/summer-walker-faces-lvrn-counterclaim-over-tour-money-royalties/",
+          "published": "2026-11-12T01:30:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Jamaica's volunteer council calls for more support for volunteers",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "At its National Volunteer Conference, the Council of Voluntary Social Services urged more investment in training, technology and partnerships for volunteers. Chair Kerry Scott said volunteers should be seen as partners in national development, not just extra hands. Labour Minister Pearnel Charles Jr credited volunteers with helping the government reach 20,000 people after Hurricane Melissa.",
+      "key_facts": [
+        "Conference theme: 'Crisis to Capacity: Building a Future-Ready Volunteer Ecosystem for a Resilient Jamaica.'",
+        "Held at the AC Hotel in Kingston.",
+        "The government says volunteers helped it assist 20,000 people after Hurricane Melissa."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A nice reminder of how much everyday volunteers help their communities recover.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CVSS calls for more investment to strengthen volunteer sector",
+          "url": "https://www.jamaicaobserver.com/2026/11/11/cvss-calls-investment-strengthen-volunteer-sector/",
+          "published": "2026-11-12T02:37:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Brick and Lace's 'Love Is Wicked' goes silver in the UK, 22 years on",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaican sister duo Brick and Lace just picked up a UK silver certification for their 2000s hit 'Love Is Wicked.' Sisters Nyla and Nyanda Thorbourne talked with the Observer about the song's staying power, motherhood, their businesses and plans for new music.",
+      "key_facts": [
+        "The song came out 22 years ago.",
+        "Certification: silver in the United Kingdom.",
+        "The duo says new music is in the works."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A feel-good win for a song that still has people singing along two decades later.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "WATCH: 22 years later, Brick and Lace still ‘Wicked’",
+          "url": "https://www.jamaicaobserver.com/2026/11/11/watch-22-years-later-brick-lace-still-wicked/",
+          "published": "2026-11-12T02:22:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "YouTube streams return to Billboard charts, and Drake is not impressed",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "YouTube is rejoining the Billboard charts in 2027 after pulling out in January over how free, ad-supported streams were weighted. Billboard is updating its formula so ad-supported streams count for more. Drake reacted on Instagram, calling the music game 'so cooked.'",
+      "key_facts": [
+        "The change takes effect Jan. 16, 2027.",
+        "One album unit will equal 1,500 ad-supported streams, down from 2,500.",
+        "Paid streams stay at 1,000 per album unit.",
+        "The Grammy nominations announcement is Nov. 16, per Billboard's events calendar."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "How streams are counted shapes which songs and albums top the charts.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Billboard’s Music Industry Events Calendar",
+          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+          "published": "2026-11-11T22:29:00+00:00"
+        },
+        {
+          "source": "XXL",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Drake Insists the Music Industry Is Cooked After Billboard Change",
+          "url": "https://www.xxlmag.com/drake-reacts-billboard-counting-youtube-streams-again/",
+          "published": "2026-11-11T18:14:37+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 2,
+    "center": 14,
+    "right": 0
+  },
+  "stats": {
+    "articles": 298,
+    "stories_found": 245,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

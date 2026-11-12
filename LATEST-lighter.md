@@ -1,153 +1,155 @@
 # The Lighter Brief: Evening edition
-_Wednesday, November 11, 2026 · 6:09 PM EST · 305 articles from 23 outlets · summaries by Claude_
+_Wednesday, November 11, 2026 · 10:25 PM EST · 298 articles from 23 outlets · summaries by Claude_
 
-> It's been a big week for election results: a historic Senate win in Mississippi and a wave of very close North Carolina House races, all settled by tiny margins. Beyond politics there's cheaper fuel in Jamaica, a Brandy and Monica reunion headed to Las Vegas, and a chart shake-up that has Drake shaking his head. We've also included a practical job-scam warning and a promising bit of breast cancer research.
+> Big civic news leads this edition: Mississippi elected a Democrat to the U.S. Senate for the first time in decades, and a North Carolina lawmaker wants to split up Charlotte-Mecklenburg Schools. Elsewhere, Russia and Ukraine agreed to a large prisoner swap, YouTube streams are heading back to the Billboard charts, Jamaican drivers get a break at the pump, and a dad in North Carolina won $100,000 with a little help from his daughter.
 
 
 
 ---
 
-## 1. Scott Colom wins Mississippi's Senate race in a historic upset
-`US Headlines` · Covered by 5 outlets
+## 1. Scott Colom wins Mississippi's Senate seat in a close, historic race
+`US Headlines` · Covered by 6 outlets
 
-Democrat Scott Colom, a local district attorney, narrowly beat Republican Sen. Cindy Hyde-Smith after more than a week of counting absentee and affidavit (provisional) ballots. He is the first Democrat Mississippi has elected to the Senate since 1982 and will be the state's first Black senator since Reconstruction. Colom built his campaign around the cost of living, including a viral 'pick another senator' ad. Mississippi has no automatic recount, and it's unclear whether Hyde-Smith will challenge the result.
+After more than a week of counting absentee and provisional ballots, Democrat Scott Colom narrowly beat Republican Sen. Cindy Hyde-Smith, according to the Associated Press. He becomes Mississippi's first Democrat elected to the Senate since 1982 and the state's first Black senator since Reconstruction. Colom ran heavily on cost of living. Hyde-Smith conceded and wished him well. Independent candidate Ty Pinkins, who drew about 20,000 votes, says he mostly pulled votes from Republicans.
 
 **Key facts**
-- With 98.6% of ballots counted, Colom led 49.2% to 48.7%, a margin of roughly 4,500 votes.
-- CNN projected the race first, and the Associated Press later called it for Colom.
-- The Cook Political Report had rated the race 'Likely Republican' going into election night.
-- The win follows midterms in which Democrats took control of both chambers of Congress.
+- Colom won by just a few thousand votes, the closest Senate race in the country.
+- The result gives Democrats 55 Senate seats in the new Congress, with Alaska still undecided.
+- Hyde-Smith conceded in a video: 'I respect the decision of Mississippi voters.'
+- The Cook Political Report had rated the race Likely Republican going in.
 
-**Worth knowing:** It was the closest Senate race in the country and a major shift for a state that hadn't sent a Democrat to the Senate in more than 40 years.
+**Worth knowing:** It's a historic first for Mississippi and changes the balance of power in the U.S. Senate.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/scott-colom-makes-history-with-mississippi-senate-win-cnn-projects-12661104): Scott Colom Makes History With Mississippi Senate Win, CNN Projects
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/what-i-actually-did-was-split-republican-vote-independent-mississippi-senate-candidate-shares-why-he-stayed-race/): ‘What I actually did was split the Republican vote’: Independent Mississippi Senate candidate shares why he stayed in the race
 - [NPR](https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom): Democrat Scott Colom wins Mississippi Senate race
 - [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
-- [The Hill](https://thehill.com/homenews/campaign/6212685-mississippi-senate-race-scott-colom-cindy-hyde-smith-update/): Colom extends slim lead over Hyde-Smith in Mississippi Senate race
+- [The Hill](https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/): Democrats rally around Colom’s historic Mississippi victory
 
 
-## 2. North Carolina's House delegation flips by razor-thin margins
-`Charlotte` · Covered by 2 outlets
+## 2. Russia and Ukraine agree to a big prisoner swap after talks
+`Health & Medicine` · Covered by 2 outlets
 
-Republican Rep. Greg Murphy conceded North Carolina's 3rd District to Democrat Raymond Smith, who won by just 293 votes. Republican lawmakers had redrawn the district lines earlier this year to help their party, but the midterm wave flipped much of the state's delegation. The result has become a textbook example of a 'dummymander,' a gerrymander that ends up helping the other party.
+After two days of U.S.-mediated talks in Abu Dhabi, Russia and Ukraine agreed to a large exchange of prisoners of war. There was no major breakthrough on ending the war, but both sides confirmed the swap, and Russia's lead negotiator described the deal as 'in principle.' U.S. envoys Jared Kushner and Steve Witkoff plan to meet Putin in Moscow and Zelenskyy in Dublin next.
 
 **Key facts**
-- Smith beat four-term Rep. Greg Murphy by 293 votes.
-- Democrats are likely to hold 11 of the state's 14 House seats, pending the 5th District.
-- In NC-05, Democrat Chuck Hubbard leads Rep. Virginia Foxx by fewer than 300 votes.
-- Ten races were decided by less than 3%.
+- It was the first meeting between the two delegations since February.
+- A Russian official said the swap could happen within two to three weeks.
+- Last year's exchange returned 1,000 soldiers home.
+- European officials were not part of the three-way talks; Kushner said he hopes to add them.
 
-**Worth knowing:** A few hundred votes reshaped who represents North Carolinians in Congress, a good reminder that every ballot counts.
+**Worth knowing:** Many families could see loved ones come home, and talks are moving again after nine months.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/ncs-republican-drawn-congressional-districts-lead-narrow-democratic-victories/K2LQDQTW3NBFVFNLU7SIIBMULE/): NC’s Republican-drawn congressional districts lead to narrow Democratic victories
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/politics/election/north-carolina-elections/another-north-carolina-congressional-seat-flips-to-democrats/): Another North Carolina congressional seat flips to Democrats
+- [The Hill](https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/): Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks
+- [NPR](https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks): Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
 
 
-## 3. YouTube streams return to the Billboard charts, and Drake has thoughts
-`Hip Hop & Celebrity` · Covered by 2 outlets
+## 3. NC lawmaker plans bill to split up Charlotte-Mecklenburg Schools
+`Charlotte` · Covered by 2 outlets
 
-YouTube is rejoining the Billboard charts starting in 2027. It had pulled out in January 2026 over how Billboard weighted free, ad-supported streams compared with paid ones. Billboard is changing its formula so that ad-supported streams count for more, and Drake reacted on Instagram that the music 'game' is 'so cooked.'
+State Rep. David Willis, a Republican from Union County, plans to introduce a bill to divide CMS into several separate districts and create a process for recall elections for school board members. He says a full split would take years and require studies. Critics, including Rep. Laura Budd and board member Anna London, oppose it, calling it a political move and 'harmful to kids.' CMS is also under state investigations into financial irregularities and contracts.
 
 **Key facts**
-- The new rules take effect January 16, 2027.
-- One album unit will equal 1,500 ad-tier streams, down from 2,500, or 1,000 paid streams.
-- YouTube's Lyor Cohen said the new method 'better reflects how fans engage with music today.'
-- Coming up: the Latin Grammys on November 12 and Grammy nominations on November 16.
+- The General Assembly could return to session as soon as next week.
+- The SBI and the State Auditor's Office are both looking into CMS.
+- Earlier split efforts came up in 2012 and 2018.
+- One town's mayor said his town can't afford to separate from CMS.
+
+**Worth knowing:** If it moves forward, it could reshape how schools are run for many Charlotte-area families, though implementing it would take years.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/): Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/parents-react-to-nc-lawmaker-proposing-bill-to-divide-charlotte-mecklenburg-schools/): Parents react to NC lawmaker proposing bill to break up Charlotte-Mecklenburg Schools
+
+
+## 4. Charlotte Jewish leaders turn to education after two antisemitic incidents
+`Charlotte` · Covered by 2 outlets
+
+The Jewish Federation of Greater Charlotte is working with Charlotte Country Day School on education after the school investigated racist, misogynistic and antisemitic incidents among students. Separately, a man pleaded guilty to federal charges for putting up antisemitic flyers at Shalom Park in January. Federation CEO Adam Kolett says teaching people of all ages helps create allies.
+
+**Key facts**
+- Charlotte Country Day's head of school notified parents of the investigation on Nov. 7.
+- Dalton Mullis pleaded guilty; no sentencing date has been set.
+- Kolett: 'When you see something, when you hear something, address it right away.'
+
+**Worth knowing:** The community is responding with education and partnership, and Kolett says kids often help each other recognize and push back on hate.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/11/charlotte-jewish-leaders-focus-education-after-2-antisemitic-incidents/): Charlotte Jewish leaders focus on education after 2 antisemitic incidents
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-private-school-responds-to-recent-racist-antisemitic-incidents-involving-students/): Charlotte private school responds to recent racist, antisemitic incidents
+
+
+## 5. Summer Walker's label fires back with a countersuit
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+LVRN, the Atlanta label and management company Summer Walker sued in August, has filed a countersuit saying she owes it commissions and royalties. Walker says LVRN mishandled her money; LVRN denies that. Her lawyer called the counterclaim 'disappointing' and says they'll fight it in court. Walker is also in a separate fight with Interscope over leaving her record deal.
+
+**Key facts**
+- LVRN claims it's owed a 7% tour cut, 20% of performance royalties and a 15% management commission.
+- The original contract dates to 2017.
+- Interscope sued Walker in October for at least $50 million.
+- A hearing in the Interscope case is set for April 15.
 
 **Good to know**
-- Confirmed: the chart rule change and YouTube's return. Drake's comment is his personal reaction posted to his Instagram Story.
+- Both sides' claims are allegations in court filings; nothing has been decided by a judge.
+- LVRN denies Walker's accusations of skimming money; Walker's lawyer strongly disputes LVRN's counterclaims.
 
-**Worth knowing:** Free listening on YouTube will soon count for more toward which albums top the charts.
+**Worth knowing:** It's a high-profile look at how artist contracts and money splits work in the music business.
+
+**Read it yourself:**
+- [Billboard](https://www.billboard.com/pro/summer-walker-lawsuit-countersued-lvrn-commissions/): Summer Walker Countersued by LVRN for Commissions and Royalties: ‘Stubbornly Litigious’
+- [AllHipHop](https://allhiphop.com/news/summer-walker-faces-lvrn-counterclaim-over-tour-money-royalties/): Summer Walker Faces LVRN Counterclaim Over Tour Money & Royalties
+
+
+## 6. Jamaica's volunteer council calls for more support for volunteers
+`Jamaica` · Covered by 1 outlet
+
+At its National Volunteer Conference, the Council of Voluntary Social Services urged more investment in training, technology and partnerships for volunteers. Chair Kerry Scott said volunteers should be seen as partners in national development, not just extra hands. Labour Minister Pearnel Charles Jr credited volunteers with helping the government reach 20,000 people after Hurricane Melissa.
+
+**Key facts**
+- Conference theme: 'Crisis to Capacity: Building a Future-Ready Volunteer Ecosystem for a Resilient Jamaica.'
+- Held at the AC Hotel in Kingston.
+- The government says volunteers helped it assist 20,000 people after Hurricane Melissa.
+
+**Worth knowing:** A nice reminder of how much everyday volunteers help their communities recover.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/cvss-calls-investment-strengthen-volunteer-sector/): CVSS calls for more investment to strengthen volunteer sector
+
+
+## 7. Brick and Lace's 'Love Is Wicked' goes silver in the UK, 22 years on
+`Jamaica` · Covered by 1 outlet
+
+Jamaican sister duo Brick and Lace just picked up a UK silver certification for their 2000s hit 'Love Is Wicked.' Sisters Nyla and Nyanda Thorbourne talked with the Observer about the song's staying power, motherhood, their businesses and plans for new music.
+
+**Key facts**
+- The song came out 22 years ago.
+- Certification: silver in the United Kingdom.
+- The duo says new music is in the works.
+
+**Worth knowing:** A feel-good win for a song that still has people singing along two decades later.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/watch-22-years-later-brick-lace-still-wicked/): WATCH: 22 years later, Brick and Lace still ‘Wicked’
+
+
+## 8. YouTube streams return to Billboard charts, and Drake is not impressed
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+YouTube is rejoining the Billboard charts in 2027 after pulling out in January over how free, ad-supported streams were weighted. Billboard is updating its formula so ad-supported streams count for more. Drake reacted on Instagram, calling the music game 'so cooked.'
+
+**Key facts**
+- The change takes effect Jan. 16, 2027.
+- One album unit will equal 1,500 ad-supported streams, down from 2,500.
+- Paid streams stay at 1,000 per album unit.
+- The Grammy nominations announcement is Nov. 16, per Billboard's events calendar.
+
+**Worth knowing:** How streams are counted shapes which songs and albums top the charts.
 
 **Read it yourself:**
 - [Billboard](https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/): Billboard’s Music Industry Events Calendar
 - [XXL](https://www.xxlmag.com/drake-reacts-billboard-counting-youtube-streams-again/): Drake Insists the Music Industry Is Cooked After Billboard Change
-
-
-## 4. State lawmaker plans a bill to split up Charlotte-Mecklenburg Schools
-`Charlotte` · Covered by 2 outlets
-
-Republican Rep. David Willis of Union County plans to introduce a bill that would break up Charlotte-Mecklenburg Schools and could force new school board elections, according to CMS board members his staff contacted. The district has faced controversy recently, including the firing of its superintendent and investigations into alleged mishandling of money. CMS board member Anna London said a split would be 'harmful to kids,' and Democratic Rep. Laura Budd called the idea a political maneuver that is 'going nowhere.'
-
-**Key facts**
-- CMS serves about 140,000 students across 185 schools and facilities.
-- It is the state's second-largest district and one of the 20 largest in the country.
-- No timeline or other details were given.
-- The General Assembly could return to session as soon as next week.
-
-**Worth knowing:** Charlotte-area families may want to keep an eye on this as the legislature returns, though for now it is only a planned bill.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/): Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/nc-lawmaker-proposes-breaking-up-charlotte-mecklenburg-schools-report/): NC lawmaker proposes breaking up Charlotte-Mecklenburg Schools: report
-
-
-## 5. Jamaica's gas and diesel prices drop $4.50 a litre
-`Jamaica` `US Headlines` · Covered by 1 outlet
-
-Jamaican drivers will pay a bit less at the pump starting Thursday, November 12, based on Petrojam's latest ex-refinery prices. Gasoline and diesel are each down $4.50 per litre, with smaller cuts for kerosene and cooking gas.
-
-**Key facts**
-- 87-octane: $191.31 per litre; 90-octane: $200.07 per litre.
-- Automotive diesel: $241.91 per litre.
-- Butane is down $2.94, to $112.25 per litre.
-
-**Worth knowing:** A small but welcome break for anyone filling up this week.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/gas-prices-diesel-4-50/): Gas prices, diesel down $4.50
-
-
-## 6. Jamaica warns citizens about suspicious overseas job offers
-`Jamaica` · Covered by 1 outlet
-
-Jamaica's foreign ministry is urging people to be careful with overseas job offers found on social media and messaging apps, especially ones promising unusually high pay, travel help or fast-tracked immigration. It specifically warned against offers linked to recruitment for Russia's war in Ukraine, citing reports of recruits misled about their duties and unable to get paid or return home. The Dominican Republic has issued similar warnings.
-
-**Key facts**
-- Be cautious if a recruiter asks for passport details, advance payments or unverified contracts.
-- Report suspicious offers to the Ministry of Labour and Social Security.
-- The ministry publishes a list of licensed employment agencies.
-
-**Worth knowing:** Practical advice for spotting risky job offers before handing over documents or money.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/govt-cautions-jamaicans-employment-offers-linked-russia-ukraine-war/): Gov’t cautions Jamaicans against employment offers linked to Russia-Ukraine war
-
-
-## 7. Busy Signal teams up with Egypt's Mohamed Ramadan on 'Make Banger'
-`Jamaica` · Covered by 1 outlet
-
-Jamaican dancehall star Busy Signal and Egyptian artist Mohamed Ramadan have released 'Make Banger,' a single that mixes Egyptian pop-rap with dancehall and Arabic with English lyrics. Promoters describe it as a cultural bridge between Jamaica and the Middle East and North Africa.
-
-**Key facts**
-- Produced by Crawba Genius and Blacksatin Music.
-- Out now on major streaming platforms.
-- Busy Signal: 'From Kingston to Cairo, we're showing that music has no borders.'
-
-**Worth knowing:** It's a fun cross-cultural team-up, and the 'Habibi mi fren' line alone makes it worth a listen.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/busy-signal-egyptian-mohamed-ramadan-unite-make-banger/): Busy Signal, Egyptian Mohamed Ramadan unite on ‘Make Banger’
-
-
-## 8. Brandy and Monica bring 'The Boy Is Mine' to Las Vegas
-`Hip Hop & Celebrity` · Covered by 2 outlets
-
-After their sold-out 2025 reunion tour, Brandy and Monica announced a 10-date residency at Resorts World Las Vegas, revealing it on Dancing With the Stars. Monica said the tour was meant to be 'one and done,' but the fans' response changed her mind, and staying in one place lets her children join her.
-
-**Key facts**
-- Shows run May 29 to July 17, 2027.
-- General ticket sales open November 20 at 10 a.m. PT, with presales on November 16 and 18.
-- Their 1998 duet spent 13 weeks at No. 1 on the Billboard Hot 100.
-- It is the Black Promoters Collective's first Las Vegas residency.
-
-**Worth knowing:** A feel-good reunion for R&B fans, nearly 30 years after the original hit.
-
-**Read it yourself:**
-- [VIBE](https://www.vibe.com/music/music-news/brandy-monica-boy-is-mine-tour-las-vegas-residency-tickets-1235202562/): Brandy and Monica Set ‘Boy Is Mine’ Residency in Las Vegas: “This Is Where We Belong”
-- [AllHipHop](https://allhiphop.com/news/brandy-monica-take-the-boy-is-mine-to-las-vegas-for-10-shows/): Brandy & Monica Take The Boy Is Mine To Las Vegas For 10 Shows
 
 
 ---
