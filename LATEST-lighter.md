@@ -1,155 +1,154 @@
-# The Lighter Brief: Evening edition
-_Wednesday, November 11, 2026 · 10:25 PM EST · 298 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Morning edition
+_Thursday, November 12, 2026 · 6:54 AM EST · 220 articles from 23 outlets · summaries by Claude_
 
-> Big civic news leads this edition: Mississippi elected a Democrat to the U.S. Senate for the first time in decades, and a North Carolina lawmaker wants to split up Charlotte-Mecklenburg Schools. Elsewhere, Russia and Ukraine agreed to a large prisoner swap, YouTube streams are heading back to the Billboard charts, Jamaican drivers get a break at the pump, and a dad in North Carolina won $100,000 with a little help from his daughter.
+> Big civic news leads today: Democrat Scott Colom won Mississippi's U.S. Senate seat in a narrow, history-making upset. Closer to home there's a proposal to split up Charlotte-Mecklenburg Schools, a few Jamaica updates, a warm tribute to a civil rights pioneer, and some lighter fare, from Snoop Dogg's newest club to Voyager's first close look at Saturn's rings.
 
 
 
 ---
 
-## 1. Scott Colom wins Mississippi's Senate seat in a close, historic race
-`US Headlines` · Covered by 6 outlets
+## 1. Scott Colom wins Mississippi's Senate seat in a historic upset
+`US Headlines` · Covered by 7 outlets
 
-After more than a week of counting absentee and provisional ballots, Democrat Scott Colom narrowly beat Republican Sen. Cindy Hyde-Smith, according to the Associated Press. He becomes Mississippi's first Democrat elected to the Senate since 1982 and the state's first Black senator since Reconstruction. Colom ran heavily on cost of living. Hyde-Smith conceded and wished him well. Independent candidate Ty Pinkins, who drew about 20,000 votes, says he mostly pulled votes from Republicans.
+Democrat Scott Colom, a district attorney, narrowly beat Republican Sen. Cindy Hyde-Smith, according to an Associated Press race call. He is Mississippi's first Black senator since Reconstruction and the first Democrat the state has elected to the Senate since 1982. He campaigned door to door on affordability, keeping rural hospitals open and access to healthcare. Hyde-Smith conceded, saying she respects the decision of Mississippi voters.
 
 **Key facts**
-- Colom won by just a few thousand votes, the closest Senate race in the country.
-- The result gives Democrats 55 Senate seats in the new Congress, with Alaska still undecided.
-- Hyde-Smith conceded in a video: 'I respect the decision of Mississippi voters.'
-- The Cook Political Report had rated the race Likely Republican going in.
+- Colom won by fewer than 5,000 votes, with a small share of ballots still being counted (NPR).
+- He is reported as the first Black U.S. senator elected by popular vote. The two earlier Black senators, both from Mississippi, were chosen by the state Legislature in the 1870s.
+- He also flipped traditionally Republican areas such as Forrest County.
+- WSOC reports Democrats now hold a 55-44 Senate edge, with Alaska's race still undecided.
 
-**Worth knowing:** It's a historic first for Mississippi and changes the balance of power in the U.S. Senate.
+**Worth knowing:** It's a milestone for Mississippi and shifts the balance of power in the U.S. Senate.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/what-i-actually-did-was-split-republican-vote-independent-mississippi-senate-candidate-shares-why-he-stayed-race/): ‘What I actually did was split the Republican vote’: Independent Mississippi Senate candidate shares why he stayed in the race
-- [NPR](https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom): Democrat Scott Colom wins Mississippi Senate race
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/election-2026-scott-collom-wins-us-senate-seat-mississippi/OOKCQ6ZTJ5GLVKHYUOLOBRZSIM/): Election 2026: Scott Collom wins US Senate seat in Mississippi
+- [NPR](https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator): How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator
 - [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
 - [The Hill](https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/): Democrats rally around Colom’s historic Mississippi victory
 
 
-## 2. Russia and Ukraine agree to a big prisoner swap after talks
-`Health & Medicine` · Covered by 2 outlets
+## 2. Rock Hill honors Willie 'Dub' Massey of the Friendship Nine
+`Charlotte` · Covered by 3 outlets
 
-After two days of U.S.-mediated talks in Abu Dhabi, Russia and Ukraine agreed to a large exchange of prisoners of war. There was no major breakthrough on ending the war, but both sides confirmed the swap, and Russia's lead negotiator described the deal as 'in principle.' U.S. envoys Jared Kushner and Steve Witkoff plan to meet Putin in Moscow and Zelenskyy in Dublin next.
+Willie 'Dub' Massey, one of the Friendship Nine, died Tuesday at 84. In 1961 the group held a sit-in at a segregated Rock Hill lunch counter. They chose 30 days of jail labor over paying a fine, and that 'jail, no bail' approach helped revive the student sit-in movement. A former student remembers him as a beloved sixth-grade teacher who never mentioned he was a hero.
 
 **Key facts**
-- It was the first meeting between the two delegations since February.
-- A Russian official said the swap could happen within two to three weeks.
-- Last year's exchange returned 1,000 soldiers home.
-- European officials were not part of the three-way talks; Kushner said he hopes to add them.
+- The 1961 fine was $100, about $1,100 in today's money.
+- The group served 30 days at the York County Prison Farm.
+- David Williamson Jr. is now the last surviving member of the Friendship Nine.
+- Rock Hill honored Massey with an empty seat, a plate and a glass of water.
 
-**Worth knowing:** Many families could see loved ones come home, and talks are moving again after nine months.
+**Worth knowing:** His quiet courage shaped history, and his community is making sure the story keeps being told.
 
 **Read it yourself:**
-- [The Hill](https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/): Russia, Ukraine agree to large prisoner swap after Abu Dhabi talks
-- [NPR](https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks): Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/willie-dub-massey-member-friendship-9-dies-84/HA6ZKUX6BNHKXGONFDSERID7DM/): Willie ‘Dub’ Massey, member of Friendship 9, dies at 84
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/rock-hill/civil-rights-activist-willie-dub-massey-member-of-rock-hills-friendship-nine-dies-at-84/): Civil rights activist Willie 'Dub' Massey, member of Rock Hill's 'Friendship Nine', dies at 84
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/black-history/rock-hill-mourns-willie-dub-massey-friendship-nine-civil-rights-pioneer-who-helped-change-history-segregation-jail-no-bail/275-c554e9df-362d-444e-98ae-8e75e9000f81): Rock Hill mourns Willie 'Dub' Massey, Friendship Nine civil rights pioneer who helped change history
 
 
-## 3. NC lawmaker plans bill to split up Charlotte-Mecklenburg Schools
-`Charlotte` · Covered by 2 outlets
+## 3. Former U.S. envoy expects little change in Caribbean policy
+`Jamaica` `US Headlines` · Covered by 1 outlet
 
-State Rep. David Willis, a Republican from Union County, plans to introduce a bill to divide CMS into several separate districts and create a process for recall elections for school board members. He says a full split would take years and require studies. Critics, including Rep. Laura Budd and board member Anna London, oppose it, calling it a political move and 'harmful to kids.' CMS is also under state investigations into financial irregularities and contracts.
+Donald Tapia, a former U.S. ambassador to Jamaica, told The Gleaner he sees the midterm results as a vote against President Trump and his policies rather than against the Republican Party. Even so, he doesn't expect a reset in U.S. policy toward the Caribbean. He also discussed Kari Lake's nomination as ambassador to Jamaica and the need for U.S. immigration reform.
 
 **Key facts**
-- The General Assembly could return to session as soon as next week.
-- The SBI and the State Auditor's Office are both looking into CMS.
-- Earlier split efforts came up in 2012 and 2018.
-- One town's mayor said his town can't afford to separate from CMS.
+- Tapia is a former U.S. ambassador to Jamaica.
+- He urged Jamaica's political leaders to be bold in their dealings with the U.S.
 
-**Worth knowing:** If it moves forward, it could reshape how schools are run for many Charlotte-area families, though implementing it would take years.
+**Worth knowing:** It's one informed view on how U.S. election results might, or might not, affect Jamaica.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/no-reset-caribbean-tapia-sees-little-change-us-policy-despite-democratic): No reset for Caribbean - Tapia sees little change in US policy despite Democratic gains in mid-term elections
+
+
+## 4. Testimony continues in Jamaica's CMU fraud trial
+`Jamaica` · Covered by 1 outlet
+
+A former Universal Service Fund (USF) legal officer testified that the agency's training contracts with Caribbean Maritime University (CMU) and a private institute did not provide for participants' meals. Instead, participants received a monthly stipend to cover transport and food. The trial involves former CMU President Fritz Pinnock and former Education Minister Ruel Reid, among others.
+
+**Key facts**
+- Participants received a stipend of $10,600 a month, paid every two weeks.
+- The charges concern an alleged scheme to siphon more than $25 million in public funds between 2016 and 2019.
+- All the accused have pleaded not guilty.
+- The training program targeted 1,000 unemployed young people aged 18 to 35.
+
+**Worth knowing:** The case concerns how public money for youth training was spent.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/no-food-fine-print-former-usf-attorney-says-contracts-cmu-and-training): No food in the fine print - Former USF attorney says contracts with CMU and training institution made no provision for meals
+
+
+## 5. Holness says Jamaica may need overseas builders for rebuilding
+`Jamaica` · Covered by 1 outlet
+
+Prime Minister Andrew Holness said the National Reconstruction and Resilience Authority (NaRRA) may need to bring in skilled workers from abroad to rebuild western Jamaica, because the construction industry is short of skilled labour. He spoke at a ceremony where the National Housing Trust awarded construction scholarships to 25 young Jamaicans.
+
+**Key facts**
+- Each scholarship covers up to $1 million a year in tuition.
+- Holness said only about $40 billion of an $80 billion annual capital budget usually becomes physical infrastructure.
+- He encouraged the scholars to start their own contracting firms.
+
+**Worth knowing:** Training young people in construction could mean more jobs and faster rebuilding.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/holness-eyes-foreign-labour-narra): Holness eyes foreign labour for NaRRA
+
+
+## 6. Jamaican court awards woman over J$10 million for negligent dental care
+`Jamaica` `US Headlines` · Covered by 1 outlet
+
+Jamaica's Supreme Court ordered the government to pay more than J$10 million in damages to June Hyman of St Elizabeth. The case stems from a 2010 wisdom tooth extraction at a public clinic. The judge found the dentist noted Hyman's gum disease but never told her and did not order X-rays, which led to months of pain and later surgery.
+
+**Key facts**
+- She was awarded J$7.9 million in general damages, plus interest.
+- Special damages include US$16,312, about J$2.5 million.
+- Justice Kirk Anderson described her overall treatment as 'absolutely appalling'.
+
+**Worth knowing:** The ruling is a reminder that patients are entitled to be told about their own conditions.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/govt-slapped-massive-payout-judge-awards-st-elizabeth-woman-more-10-million): Gov’t slapped with massive payout - Judge awards St Elizabeth woman more than $10 million in damages for negligent medical care
+
+
+## 7. Lawmaker plans bill to split up Charlotte-Mecklenburg Schools
+`Charlotte` · Covered by 2 outlets
+
+State Rep. David Willis, a Republican from Union County, plans a bill to divide Charlotte-Mecklenburg Schools (CMS) into several districts. The bill would also create a way to hold recall elections for school board members. Willis says a full split would take years of study. Critics, including Rep. Laura Budd and board member Anna London, say the plan is political and would be harmful to kids. CMS is currently under state investigations into financial irregularities.
+
+**Key facts**
+- The State Bureau of Investigation and the State Auditor's Office are both looking into CMS.
+- Earlier split efforts came up in 2012 and 2018.
+- One town mayor said his town can't afford to leave CMS.
+- The legislature could return as soon as next week.
+
+**Worth knowing:** Any split would change how schooling works for many Charlotte-area families, but for now it is only a proposal.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/): Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says
 - [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/parents-react-to-nc-lawmaker-proposing-bill-to-divide-charlotte-mecklenburg-schools/): Parents react to NC lawmaker proposing bill to break up Charlotte-Mecklenburg Schools
 
 
-## 4. Charlotte Jewish leaders turn to education after two antisemitic incidents
-`Charlotte` · Covered by 2 outlets
-
-The Jewish Federation of Greater Charlotte is working with Charlotte Country Day School on education after the school investigated racist, misogynistic and antisemitic incidents among students. Separately, a man pleaded guilty to federal charges for putting up antisemitic flyers at Shalom Park in January. Federation CEO Adam Kolett says teaching people of all ages helps create allies.
-
-**Key facts**
-- Charlotte Country Day's head of school notified parents of the investigation on Nov. 7.
-- Dalton Mullis pleaded guilty; no sentencing date has been set.
-- Kolett: 'When you see something, when you hear something, address it right away.'
-
-**Worth knowing:** The community is responding with education and partnership, and Kolett says kids often help each other recognize and push back on hate.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/11/charlotte-jewish-leaders-focus-education-after-2-antisemitic-incidents/): Charlotte Jewish leaders focus on education after 2 antisemitic incidents
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-private-school-responds-to-recent-racist-antisemitic-incidents-involving-students/): Charlotte private school responds to recent racist, antisemitic incidents
-
-
-## 5. Summer Walker's label fires back with a countersuit
+## 8. Summer Walker's label countersues her as their legal fight grows
 `Hip Hop & Celebrity` · Covered by 2 outlets
 
-LVRN, the Atlanta label and management company Summer Walker sued in August, has filed a countersuit saying she owes it commissions and royalties. Walker says LVRN mishandled her money; LVRN denies that. Her lawyer called the counterclaim 'disappointing' and says they'll fight it in court. Walker is also in a separate fight with Interscope over leaving her record deal.
+LVRN, Summer Walker's label and management company, has filed a countersuit saying she owes it commissions and royalties. This follows her August lawsuit accusing LVRN of mishandling her money. She is also in a separate legal fight with Interscope over leaving her record deal.
 
 **Key facts**
-- LVRN claims it's owed a 7% tour cut, 20% of performance royalties and a 15% management commission.
-- The original contract dates to 2017.
-- Interscope sued Walker in October for at least $50 million.
+- LVRN says it is owed a 7% cut of her tour, 20% of her performance royalties and a 15% management commission.
+- Interscope sued in October for at least $50 million.
 - A hearing in the Interscope case is set for April 15.
 
 **Good to know**
-- Both sides' claims are allegations in court filings; nothing has been decided by a judge.
-- LVRN denies Walker's accusations of skimming money; Walker's lawyer strongly disputes LVRN's counterclaims.
+- Every claim on both sides is an allegation, and nothing has been proven in court.
+- LVRN denies Walker's claims that it diverted her money.
+- Her lawyer 'strongly disputes' the counterclaims.
+- Walker disputes Interscope's claim that she still owes albums.
 
-**Worth knowing:** It's a high-profile look at how artist contracts and money splits work in the music business.
+**Worth knowing:** It shows how complicated it can be for an artist to leave a long-term music deal.
 
 **Read it yourself:**
 - [Billboard](https://www.billboard.com/pro/summer-walker-lawsuit-countersued-lvrn-commissions/): Summer Walker Countersued by LVRN for Commissions and Royalties: ‘Stubbornly Litigious’
 - [AllHipHop](https://allhiphop.com/news/summer-walker-faces-lvrn-counterclaim-over-tour-money-royalties/): Summer Walker Faces LVRN Counterclaim Over Tour Money & Royalties
-
-
-## 6. Jamaica's volunteer council calls for more support for volunteers
-`Jamaica` · Covered by 1 outlet
-
-At its National Volunteer Conference, the Council of Voluntary Social Services urged more investment in training, technology and partnerships for volunteers. Chair Kerry Scott said volunteers should be seen as partners in national development, not just extra hands. Labour Minister Pearnel Charles Jr credited volunteers with helping the government reach 20,000 people after Hurricane Melissa.
-
-**Key facts**
-- Conference theme: 'Crisis to Capacity: Building a Future-Ready Volunteer Ecosystem for a Resilient Jamaica.'
-- Held at the AC Hotel in Kingston.
-- The government says volunteers helped it assist 20,000 people after Hurricane Melissa.
-
-**Worth knowing:** A nice reminder of how much everyday volunteers help their communities recover.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/cvss-calls-investment-strengthen-volunteer-sector/): CVSS calls for more investment to strengthen volunteer sector
-
-
-## 7. Brick and Lace's 'Love Is Wicked' goes silver in the UK, 22 years on
-`Jamaica` · Covered by 1 outlet
-
-Jamaican sister duo Brick and Lace just picked up a UK silver certification for their 2000s hit 'Love Is Wicked.' Sisters Nyla and Nyanda Thorbourne talked with the Observer about the song's staying power, motherhood, their businesses and plans for new music.
-
-**Key facts**
-- The song came out 22 years ago.
-- Certification: silver in the United Kingdom.
-- The duo says new music is in the works.
-
-**Worth knowing:** A feel-good win for a song that still has people singing along two decades later.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/11/watch-22-years-later-brick-lace-still-wicked/): WATCH: 22 years later, Brick and Lace still ‘Wicked’
-
-
-## 8. YouTube streams return to Billboard charts, and Drake is not impressed
-`Hip Hop & Celebrity` · Covered by 2 outlets
-
-YouTube is rejoining the Billboard charts in 2027 after pulling out in January over how free, ad-supported streams were weighted. Billboard is updating its formula so ad-supported streams count for more. Drake reacted on Instagram, calling the music game 'so cooked.'
-
-**Key facts**
-- The change takes effect Jan. 16, 2027.
-- One album unit will equal 1,500 ad-supported streams, down from 2,500.
-- Paid streams stay at 1,000 per album unit.
-- The Grammy nominations announcement is Nov. 16, per Billboard's events calendar.
-
-**Worth knowing:** How streams are counted shapes which songs and albums top the charts.
-
-**Read it yourself:**
-- [Billboard](https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/): Billboard’s Music Industry Events Calendar
-- [XXL](https://www.xxlmag.com/drake-reacts-billboard-counting-youtube-streams-again/): Drake Insists the Music Industry Is Cooked After Billboard Change
 
 
 ---

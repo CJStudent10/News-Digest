@@ -1,214 +1,239 @@
-# My Daily Brief: Evening edition
-_Wednesday, November 11, 2026 · 10:24 PM EST · 567 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Thursday, November 12, 2026 · 6:52 AM EST · 481 articles from 39 outlets · summaries by Claude_
 
-> This edition is led by mounting pressure on Nvidia CEO Jensen Huang after reports of a second affair, and by Democrat Scott Colom's narrow Senate win in Mississippi. It also covers a White House warning to incoming Democratic investigators, Spain's first general strike in 14 years, a South Carolina infant rescued after being buried alive, Toyota's US-built kei truck, and several regional stories from Charlotte and Korea.
+> Nvidia's board is reportedly weighing whether to remove CEO Jensen Huang after a second alleged affair surfaced, days after he admitted a relationship with a woman US intelligence reportedly believes is a Chinese asset. In US politics, Democrat Scott Colom won Mississippi's Senate race and an Alaska judge ruled against Mary Peltola's campaign in a ballot-records dispute. Abroad, Spain held its first general strike in 14 years, Indonesia's vice-president resigned, and US envoys moved from Ukraine-Russia talks in Abu Dhabi to a meeting with Vladimir Putin in Moscow.
 
 
-**Sources linked in this edition:** 11 left · 21 center · 7 right
+**Sources linked in this edition:** 11 left · 22 center · 9 right
 
 ---
 
-## 1. Nvidia shares fall as reports say board weighs removing CEO Jensen Huang after second alleged affair
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 13 outlets (L 3 · C 7 · R 3)
+## 1. Nvidia board reportedly weighs removing CEO Jensen Huang after second affair report
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 14 outlets (L 3 · C 9 · R 2)
 
-The New York Times reported that Nvidia CEO Jensen Huang, 63, had an extramarital relationship with Kimberly Powell, 48, Nvidia's vice president of healthcare, who reports directly to him. This follows Huang's admission days earlier of an affair with Alice Huang, a former Megaspeed executive whom US intelligence officials reportedly believe was recruited by Chinese intelligence. The Wall Street Journal reported that Nvidia's board is preparing to remove Huang and could meet as soon as Wednesday. Nvidia has launched an independent investigation and said it had no reason to believe national security or company secrets were compromised. House Republicans have sought a closed-door briefing from Huang, and the FBI is looking into the matter, according to President Trump.
+The Wall Street Journal reported that Nvidia's board was preparing to meet, as soon as Wednesday, to decide whether to oust co-founder and CEO Jensen Huang. The report followed a New York Times story that Huang had an extramarital relationship with Kimberly Powell, a senior health care executive who reports directly to him. On Sunday Huang had admitted to an affair with Alice Huang, an executive at Singapore-based Megaspeed whom US intelligence reportedly considers a Chinese intelligence asset; he is not related to her. Nvidia's board opened an independent investigation led by the law firm Wachtell, Lipton, Rosen & Katz and has said it has no reason to believe national security or company secrets were compromised. Nvidia shares fell sharply after hours, and members of Congress are pressing Huang for a briefing, with some calling for his resignation.
 
 **Key facts**
-- Nvidia stock fell more than 7% in after-hours trading Wednesday after the second report (The Verge).
-- Nvidia lost more than $427 billion in market value in the first two trading sessions after Huang's disclosure (Fox Business).
-- Republican Sen. Kevin Cramer called for Huang to resign; House Foreign Affairs Chair Brian Mast threatened a subpoena if Huang did not respond by the end of Wednesday.
-- Megaspeed bought more than $4.8 billion of Nvidia chips over about two years and denies helping Chinese firms obtain restricted chips.
-- Baird downgraded Nvidia to neutral; Morgan Stanley and Bank of America removed it from their top-pick lists.
+- Huang wrote to employees on Sunday: "I was unfaithful to my wife."
+- Nvidia shares fell roughly 7–9% in after-hours trading Wednesday after the Journal's report, according to different outlets.
+- Under Nvidia's bylaws, Huang can be removed "with or without cause" by a majority of its 11 directors, all but Huang considered independent.
+- Nvidia shareholders have filed a class action lawsuit alleging the company failed to disclose the relationship to investors.
+- President Trump defended Huang as an "honorable man" and said Huang did not know the woman was a suspected spy.
 
 **How it's being framed**
-- **Left:** Al Jazeera focused on national security, asking what Chinese intelligence might have learned and quoting lawmakers and experts on chip export controls and Megaspeed. It also noted Trump's defense of Huang as an 'honourable guy.' The Verge focused on the board's reported plan to fire Huang, details of the alleged Powell relationship, and Huang's earlier hiring of a crisis-communications firm known for sex scandals.
-- **Center:** Axios framed the story around market reaction and broader stakes, calling Huang arguably the world's most powerful CEO with no obvious successor. The Hill profiled Alice Huang and the allegations against her.
-- **Right:** Fox Business emphasised Wall Street fallout, including analyst downgrades and lost market value, alongside the WSJ report on Huang's possible removal. Washington Examiner briefly reported the ouster preparations, centring on the alleged Chinese spy.
+- **Left:** The Guardian focused on market consequences and succession. It quoted investors and analysts who said the market was pricing in Huang's exit, noted his concentrated control and lack of a successor, and set out the bylaws on removal. The Verge stressed that the second affair is alleged, noted the Times had not seen the video, and reported that Huang had hired a crisis communications firm known for handling sex scandals.
+- **Center:** The AFP report carried by the Korea Herald gave the basic chronology and placed Huang alongside Trump at White House events and among tech leaders who pledged to self-regulate AI. It also noted the shareholder lawsuit and the congressional briefing request. The Hill focused on the stock falling to its lowest level since June 2025.
+- **Right:** The Daily Caller emphasised the espionage angle and political fallout. It cited chip-smuggling scrutiny of Megaspeed, Beijing's denial, Trump's defence of Huang, calls from lawmakers including Republican Sen. Kevin Cramer for him to resign, and possible interim leaders. Fox Business centred on Wall Street reaction, including Baird's downgrade and Morgan Stanley and Bank of America removing Nvidia from their top-pick lists.
 
 **Disputed or unclear**
-- Whether Alice Huang was a Chinese intelligence operative is alleged by US officials, according to the Times, but unproven.
-- Whether any secrets were compromised: Nvidia says it has no reason to believe so, while experts and lawmakers question this.
-- The alleged Powell relationship rests on unnamed sources; the Times has not seen the hotel video they describe.
-- Whether the board will actually remove Huang had not been confirmed; Nvidia did not comment.
+- Whether the board has actually met or decided anything: some outlets say it met Wednesday, others that it was preparing to meet.
+- The Powell affair is reported through unnamed sources. Nvidia, Huang and Powell have not confirmed it, and the Times has not seen the reported video. Outlets also differ on her title (vice president vs. president of health care).
+- The intelligence assessment of Alice Huang is classified and unverified publicly, and Beijing denies the spying claims.
+- Estimates of lost market value vary: about $427bn–$430bn after the first sessions, and roughly $600bn–$685bn if after-hours losses hold.
+- Whether Huang knew of the alleged spy links: Trump said he did not.
 
-**Why it matters:** Nvidia is central to the AI industry and US-China chip policy, so leadership turmoil and espionage questions there have market and national-security consequences.
+**Why it matters:** Nvidia supplies chips that much of the AI industry depends on, so a leadership change or a national security finding could affect markets, the AI race, and US policy on chip sales to China.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/11/nvidia-jensen-huang-affair-shares) (center): Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair) (lean-left): What could Chinese intelligence have learned from Nvidia CEO’s affair?
-- [Fox Business](https://www.foxbusiness.com/markets/nvidia-preparing-replace-ceo-jensen-huang-second-alleged-affair-emerges-report) (lean-right): Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report
-- [The Hill](https://thehill.com/policy/international/6212857-alice-huang-spy-allegations-nvidia-ceo-relationship/) (center): Who is Alice Huang, alleged spy who reportedly had affair with Nvidia CEO?
+- [The Korea Herald](https://www.koreaherald.com/article/10935084) (center): Nvidia preparing to oust CEO Jensen Huang: US media
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair) (lean-left): Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges
+- [The Daily Caller](https://dailycaller.com/2026/11/11/nvidia-board-oust-jensen-huang-affairs) (right): REPORT: Nvidia Moves To Oust CEO After Second Affair Allegation
+- [The Hill](https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/) (center): Nvidia stock tanks after report of second Jensen Huang affair
 - [The Verge](https://www.theverge.com/tech/1031652/jensen-huang-rumor) (lean-left): Nvidia is reportedly preparing to fire Jensen Huang
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4800920/nvidia-board-oust-ceo-jensen-huang/) (lean-right): Nvidia board preparing to remove CEO Jensen Huang: Report
+- [Fox Business](https://www.foxbusiness.com/markets/nvidia-preparing-replace-ceo-jensen-huang-second-alleged-affair-emerges-report) (lean-right): Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report
 
 
 ## 2. Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi
-`US Headlines` · Covered by 13 outlets (L 4 · C 7 · R 2)
+`US Headlines` · Covered by 13 outlets (L 4 · C 8 · R 1)
 
-The AP projected that Democrat Scott Colom unseated Republican Sen. Cindy Hyde-Smith in Mississippi after more than a week of counting, by roughly half a percentage point. Colom becomes Mississippi's first Black senator since Reconstruction. Hyde-Smith conceded in a video, saying she respected voters' decision. Democrats celebrated the win as part of midterm gains that gave them control of both chambers of Congress.
+The Associated Press projected that Democrat Scott Colom defeated Republican Sen. Cindy Hyde-Smith after more than a week of ballot counting in Mississippi. Hyde-Smith conceded in a video and called Colom. The result gives Democrats at least 55 Senate seats in the chamber that convenes in January, with Alaska's race still uncalled. Colom becomes Mississippi's first Black senator since Reconstruction.
 
 **Key facts**
-- Colom won 49.19% to Hyde-Smith's 48.71%, per the AP as cited by the Daily Caller.
-- Trump won Mississippi with 60.9% in 2024; Hyde-Smith won in 2020 with 54.1%.
-- Daily Caller reports Democrats now hold 55 Senate seats, with Alaska's race still uncalled.
-- Colom's campaign ran a viral ad over Hyde-Smith's 'so many proteins to choose from' remark on beef prices.
+- Colom won 49.19% of the vote to Hyde-Smith's 48.71%, a lead of more than 4,500 votes.
+- Trump won Mississippi by nearly 23 points in 2024.
+- Mississippi has no mandatory recount law.
+- Hyde-Smith had blocked Colom's nomination by President Biden to a federal judgeship.
 
 **How it's being framed**
-- **Left:** The Guardian gave detailed, celebratory coverage of Colom's victory rally at Tougaloo College, emphasising historical significance, civil-rights-era attendees, prayer and his family's history. PBS briefly noted the result in a news roundup.
-- **Center:** Axios called it a 'stunning' upset and part of a 'historic blue wave,' highlighting the racial milestone. The Hill focused on Democrats rallying around the win, quoting Bill Clinton.
-- **Right:** Daily Caller reported the result straightforwardly with vote shares and Hyde-Smith's concession, and linked to pieces suggesting Democrats lack a mandate. Washington Examiner called it one of the biggest upsets of the midterms, citing Trump's 2024 margin in the state.
+- **Left:** The Guardian and PBS covered the historic and personal side, highlighting Colom's victory speech, his references to prayer and to Hiram Revels, and his pledge to serve all Mississippians. The Guardian also noted the last Democrat to win a Senate race in the state was a segregationist.
+- **Center:** DW, Axios and The Hill called it a historic upset and part of a broader midterm rebuke of Trump. They quoted Democratic leaders celebrating and noted some Democrats see it as evidence that the party's future runs through the South.
+- **Right:** The Daily Caller ran a short factual report. It led with Hyde-Smith's concession quote, mentioned Colom's viral beef-prices ad, and linked to pieces arguing Democrats lack a mandate despite rejecting MAGA.
 
 **Disputed or unclear**
-- Outlets differ on the last time Mississippi elected a Democratic senator: Axios says since 1982, while Daily Caller says Colom is the first Democrat to represent the state since 1989.
-- Framing of the milestone differs: Axios says first Black senator since Reconstruction; The Guardian says first elected since 1874.
+- Outlets differ on the historical benchmark: the first Democrat elected since 1982 (Axios, Guardian), since 1989 (Daily Caller), or the first new Democratic senator chosen since 1947 (DW).
 
-**Why it matters:** A Democratic Senate win in a deeply Republican state signals the scale of the midterm shift and affects the size of the incoming Senate majority.
+**Why it matters:** A Democratic win in a deeply Republican state widens the party's Senate majority and may reshape where both parties compete.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith) (center): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
-- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates) (lean-left): Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live
+- [Deutsche Welle](https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf) (center): Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith
+- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates) (lean-left): Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – as it happened
 - [The Daily Caller](https://dailycaller.com/2026/11/11/democrats-flip-yet-another-deep-red-seat) (right): Democrat Scott Colom Wins Mississippi Senate Seat
-- [The Hill](https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/) (center): Democrats rally around Colom’s historic Mississippi victory
+- [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith) (center): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
 - [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith) (lean-left): News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4788383/scott-colom-wins-mississippi-senate-race/) (lean-right): Scott Colom wins Mississippi Senate race in historic upset
+- [The Hill](https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/) (center): Democrats rally around Colom’s historic Mississippi victory
 
 
-## 3. White House letter warns Democrats' planned investigations 'may cross the line into blatant criminality'
-`US Headlines` · Covered by 5 outlets (L 3 · C 1 · R 1)
+## 3. Spain holds first general strike in 14 years over housing costs
+`Korea` `US Headlines` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-White House counsel William Scharf sent a letter to Rep. Robert Garcia, the likely incoming House Oversight chair, warning that Democrats' planned probes of the administration could exceed constitutional limits and 'may cross the line into blatant criminality.' The letter cited Democratic statements such as Garcia's 'lawyer up' post and pledges to issue many subpoenas. Garcia responded that Trump appears to have 'something to hide' and that Congress will not be deterred. The exchange comes as Democrats prepare to take control of Congress on January 3, and amid a wave of senior Justice Department resignations.
-
-**Key facts**
-- The letter was sent Monday and released publicly Wednesday.
-- Trump wrote on Truth Social that Democrats' statements were 'extortion at the highest level'; Attorney General Todd Blanche agreed they could be crimes.
-- Garcia said Congress's authority comes from Article I of the Constitution, 'not from the permission of the White House.'
-- Departing DOJ officials include Harmeet Dhillon, Brett Shumate and John Eisenberg (PBS).
-
-**How it's being framed**
-- **Left:** PBS described the letter as a threat and interviewed NYT reporter Devlin Barrett, who called it legally weak but politically significant and linked it to DOJ resignations. Al Jazeera and The Guardian gave substantial space to both the letter's text and Garcia's rebuttal, with The Guardian adding context on corruption as a midterm issue.
-- **Center:** The Hill framed the letter as the administration floating the idea of investigating the investigators, part of an aggressive stance toward oversight.
-- **Right:** Reason (lean-right) was critical of the White House, arguing that Democrats' remarks were ordinary political rhetoric and protected speech, and noting that neither Trump nor Blanche explained what crime was involved. It quoted Politico calling the letter a departure from precedent.
-
-**Disputed or unclear**
-- The letter does not say what action the White House might take if Democrats proceed.
-- Whether congressional oversight statements could be criminal is disputed; the administration has not set out a legal theory.
-- Reasons for the DOJ resignations are not fully clear; Barrett noted post-election departures are not unusual.
-
-**Why it matters:** The clash previews a likely legal and political fight over congressional subpoenas and executive-branch accountability once the new Congress is seated.
-
-**Read it yourself:**
-- [The Hill](https://thehill.com/homenews/administration/6213006-white-house-targets-democrat-congressional-investigators/) (center): White House pushes back on Democrats, saying investigations could ‘cross the line’ into crime
-- [PBS NewsHour](https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials) (lean-left): White House threatens Democrats over plans to investigate Trump officials
-- [Reason](https://reason.com/2026/11/11/democrats-investigations-could-constitute-blatant-criminality-says-white-house-counsel/) (lean-right): Democrats' Investigations Could Constitute 'Blatant Criminality,' Says White House Counsel
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse) (lean-left): Trump’s White House calls Democratic plans for congressional probes ‘abuse’
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia) (lean-left): Democrat says Trump has ‘something to hide’ after White House threatens oversight efforts
-
-
-## 4. South Carolina father charged with attempted murder after infant found buried alive
-`Charlotte Local` · Covered by 4 outlets (L 1 · C 3 · R 0)
-
-An 11-month-old boy, Koah, was found alive Tuesday in a buried dog crate in woods near his grandfather's home in Lexington County, South Carolina, after a search by about 100 first responders. Searchers spotted freshly disturbed soil and heard him crying. His father, 25-year-old Michael Comer, now faces charges including attempted murder, and the sheriff's office directly accused him of burying the child alive. The child has left the hospital and is expected to recover fully; Comer has a bond hearing Thursday.
+Spain's two largest unions led a nationwide 24-hour general strike on Wednesday over housing costs and wages, the first since 2012. Authorities estimated 120,000 people marched in Madrid and more than 50,000 in Barcelona. Evening clashes broke out in both cities, with masked groups setting fires and breaking shop windows, and police using tear gas and rubber or foam bullets. The strike comes ahead of a November 29 snap election called by Prime Minister Pedro Sánchez after parliament blocked his housing reforms, and his government supported the strike.
 
 **Key facts**
-- Comer is charged with attempted murder, unlawful conduct toward a child, custodial interference and burglary.
-- Sheriff Jay Koon said a towel around the crate likely created an air pocket; the baby was believed buried about 24 hours.
-- Comer was arrested Monday night hiding in an outbuilding, without the child.
-- Comer was placed on probation in October after a guilty plea and had earlier domestic violence arrests.
+- Police reported at least 73 arrests from at least 1,044 strike-related incidents by 9 p.m.
+- Unions said about 4 million workers, roughly one-fifth of the workforce, took part.
+- The central bank estimates a housing deficit of about 750,000 homes.
+- The protests followed the eviction and later death of 87-year-old Maricarmen Abascal in Madrid.
 
 **How it's being framed**
-- **Left:** PBS ran the AP report, focusing on the rescue, the sheriff's quotes and family members' accounts, including that Comer had talked of taking the baby to New York.
-- **Center:** WBTV gave the most detail, including the new charges, a timeline and Comer's criminal history. BBC and WCNC centred on the rescue and the sheriff's description, with the BBC quoting Comer's mother saying she 'never expected this.'
+- **Left:** Al Jazeera's photo essay concentrated on the clashes between protesters and police, including police use of rubber bullets and tear gas, set against anger over affordability.
+- **Center:** DW, the BBC and Reuters (via the Korea Herald) covered the scale of the strike, the housing figures and the election context. They quoted union leaders and protesters, gave the opposition leader's reaction, and noted the unusual dynamic of a government backing a strike. Reuters added that Sánchez hopes to shift attention from a Ceuta migration incident and a train crash, and that his party trails in polls.
 
 **Disputed or unclear**
-- The child's surname is spelled 'Sharp' by most outlets and 'Sharpe' by the BBC.
-- Comer's motive has not been established, and it was unclear whether he had a lawyer.
+- Turnout in Barcelona: city officials said 55,000, while housing activists claimed 400,000.
+- Participation was uneven across regions, and the 4 million figure comes from unions.
+- Strikers said police used pepper spray at a Madrid market, and at least 13 people sought medical care.
 
-**Why it matters:** The case raises questions about child safety where there is prior domestic violence, and it now moves to court.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/11/father-baby-found-buried-alive-lexington-county-facing-new-charges/) (center): Father of baby found buried alive in Lexington County facing new charges
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-in-a-dog-crate-for-24-hours) (lean-left): Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss) (center): Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/missing-11-month-old-boy-found-buried-alive-near-fathers-home/275-f4ddba22-41ae-4d48-b406-e76ae2ec3fb0) (center): Missing 11-month-old boy found buried alive near father's South Carolina home
-
-
-## 5. Toyota revives Scion brand with US-built kei truck capped at 25 mph
-`Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
-
-Toyota announced it is bringing back the Scion brand as 'Scion by Toyota,' an experimental line whose first vehicle, the KEI-01, is a Japanese-style kei truck to be built in Indiana. The truck will be certified as a federal low-speed vehicle, limiting top speed to 25 mph. Outlets linked the move to President Trump's stated interest last year in allowing kei vehicles in the US. It is due in the second half of 2027; pricing has not been announced.
-
-**Key facts**
-- The KEI-01 has a 660cc three-cylinder engine, CVT and on-demand four-wheel drive.
-- Toyota is investing $34 million in its Princeton, Indiana plant.
-- Washington Examiner reports the equivalent Japanese model can reach 87 mph.
-- More than 30,000 used kei trucks have been imported to the US since 2020 (The Verge).
-
-**How it's being framed**
-- **Left:** The Verge gave a detailed, generally positive product rundown, emphasising utility and fleet use while noting the cheap interior and speed cap.
-- **Center:** Ars Technica set the news in a policy context, arguing that US fuel-economy rules encouraged large SUVs and noting that the DOT has said little about Trump's kei push.
-- **Right:** Washington Examiner highlighted Trump's admiration for kei trucks and stressed the 'catch' of the 25 mph limit compared with the Japanese version.
-
-**Disputed or unclear**
-- Price and trim levels are not yet disclosed.
-- It is unclear what regulatory changes, if any, the DOT has made on kei vehicles.
-
-**Why it matters:** It tests whether Americans will buy very small utility vehicles, and how far federal rules will bend to allow them.
-
-**Read it yourself:**
-- [Ars Technica](https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/) (center): Trump wanted little Kei trucks for America, Toyota makes it happen
-- [The Verge](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival) (lean-left): Toyota’s Scion is back, starting with an American-made, 25-mph kei truck
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/energy-and-environment/4800759/toyota-us-production-tiny-trucks-admired-by-trump/) (lean-right): Toyota set for US production of tiny ‘kei’ trucks admired by Trump, with a catch
-
-
-## 6. Spain holds first general strike in 14 years over housing costs ahead of snap election
-`US Headlines` · Covered by 5 outlets (L 2 · C 3 · R 0)
-
-Millions of workers in Spain joined a 24-hour general strike Wednesday over housing shortages, rents and living costs, followed by mass evening marches in Madrid and Barcelona. Most protests were peaceful, but small groups clashed with police in Barcelona, burning bins, smashing shop windows and firing fireworks; more than 50 people were arrested nationwide. The strike comes before a November 29 snap election that Prime Minister Pedro Sánchez called after parliament blocked his housing reforms. The conservative People's Party and far-right Vox called it an 'election strike' meant to help the government, and polls point to a possible right-wing majority.
-
-**Key facts**
-- Officials estimated 120,000 marched in Madrid; Barcelona police estimated 55,000, while organisers claimed 400,000.
-- Tenants' groups said about 4 million people took part by midday.
-- The Bank of Spain estimates a shortage of about 750,000 homes, potentially rising to over 1 million.
-- The eviction of 87-year-old Maricarmen Abascal, who died weeks later, became a symbol of the crisis.
-
-**How it's being framed**
-- **Left:** The Guardian emphasised scale and participation figures, quoted tenants' union activists and older protesters worried for their children, and framed the election as one where the far right could gain power. Al Jazeera's short piece led with violence in Barcelona and the union turnout claim.
-- **Center:** DW, BBC and CNBC combined turnout, housing data and the Barcelona clashes, and set out the political dimension, quoting both union leaders and PP accusations of an 'election strike.' The BBC also quoted a protester describing the march as mostly peaceful and 'joyful.'
-
-**Disputed or unclear**
-- Turnout figures vary widely between police and organisers.
-- Who called the strike: The Guardian says tenants' associations first called it with unions later backing it; BBC and CNBC say the main unions called it.
-- Government stance: DW says the government supported the strike, while CNBC says it did not officially endorse it.
-- Pickets said police used pepper spray at Mercamadrid, sending at least 13 people for medical attention; this is a protester account.
-
-**Why it matters:** Housing affordability is reshaping Spain's election, which could bring a change of government in one of Europe's largest economies.
+**Why it matters:** Housing has become a central issue in an election Sánchez called after losing a parliamentary vote, and the strike tests how that issue will play with voters.
 
 **Read it yourself:**
 - [Deutsche Welle](https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf) (center): Spain: Housing crisis prompts general strike, mass nighttime protests
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs) (lean-left): Millions join Spain’s first general strike in 14 years in protest at housing costs
+- [Al Jazeera English](https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain) (lean-left): Photos: Protesters clash with police after housing cost rallies in Spain
 - [BBC News (World)](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss) (center): Clashes erupt in Barcelona after thousands join Spain general strike
-- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike) (lean-left): Barcelona erupts in violence after general strike
-- [CNBC](https://www.cnbc.com/2026/11/11/spain-protests-general-strikes-election.html) (center): General strikes to paralyze Spain as protestors clash with police ahead of election campaign
+- [The Korea Herald](https://www.koreaherald.com/article/10935093) (center): Millions of Spaniards stage first general strike in 14 years as anger over housing leads to clashes
 
 
-## 7. Charlotte police find car but not driver after fatal hit-and-run
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 4. Brooklyn building collapse kills at least four to five as search continues
+· Covered by 7 outlets (L 2 · C 3 · R 2)
 
-A pedestrian, 43-year-old Niceforo Garcia-Rufino, was struck and killed Tuesday night near Nations Ford Road and East Arrowood Road in Charlotte. Police say the driver of a red Mercedes-Benz was speeding and fled; the car has been found but the driver has not. City Council member Joi Mayo proposed an initiative to help residents report broken streetlights. Police are asking witnesses to contact investigators.
+A 1930s three-story mixed-use building at 1321 Flatbush Avenue in Brooklyn collapsed into an adjacent construction site where excavation was under way on Wednesday afternoon. More than 250 fire and EMS personnel responded and searched through the night using dogs, drones and vacuum trucks. Officials warned the death toll could rise and said it is unknown how many people remain trapped. Mayor Zohran Mamdani said the Department of Buildings and law enforcement will investigate the cause.
 
 **Key facts**
-- The crash happened around 8:50 p.m. Tuesday, Nov. 10.
-- Police say the victim was crossing outside a marked crosswalk.
-- Duke Energy maintains Charlotte's streetlights and runs an outage-reporting site.
+- The collapse was reported at 4:01 p.m., and firefighters arrived within one minute.
+- About 17–19 people were injured, four critically, including seven children.
+- A pregnant woman was pulled alive from the rubble around 6:30 p.m.
+- Workers were excavating the neighbouring site at the time of the collapse, according to the buildings commissioner.
 
 **How it's being framed**
-- **Center:** All four local outlets reported the police search; WBTV added the streetlight proposal, residents' safety concerns and a recent string of pedestrian deaths.
+- **Left:** The Guardian and Al Jazeera covered the rescue effort and officials' warnings of danger. Al Jazeera noted the neighbourhood's largely Black and Afro-Caribbean community, and the Guardian reported seeking comment from the construction project's owner, architect and contractor.
+- **Center:** The BBC and WSOC focused on the rescue, witness accounts, the 1930 building and the adjacent excavation, while noting the cause is not established.
+- **Right:** The New York Post and Fox News gave a developing-story account focused on the rising death toll and the overnight recovery of bodies, citing the FDNY.
 
 **Disputed or unclear**
-- The driver's identity is unknown.
-- Whether lighting played a role is not established; WBTV noted at least a dozen streetlights visible from the intersection.
+- The death toll differs by report time: two Wednesday night, four per the BBC and WSOC, five per the Post and Fox News.
+- It is not established whether the excavation caused the collapse.
+- The number of people still missing is unknown.
 
-**Why it matters:** It adds to a series of pedestrian deaths in the Charlotte area and to local debate over road safety.
+**Why it matters:** The investigation may raise questions about construction oversight next to older buildings in dense cities.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss) (center): New York building collapse kills at least four people
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen) (lean-left): Building collapse in Brooklyn kills two, injures more than a dozen
+- [New York Post](https://nypost.com/2026/11/12/us-news/at-least-4-confirmed-dead-in-collapsed-nyc-building-as-massive-rescue-operation-continues/) (lean-right): At least 5 confirmed dead in collapsed NYC building as massive rescue operation continues
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/4-killed-least-17-injured-after-nyc-apartment-building-collapses/KTTSAQJSDRCWLB7MQMDPBD4W5U/) (center): 4 killed, at least 17 injured after NYC apartment building collapses
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse) (lean-left): Brooklyn building collapse kills at least two people and traps others in wreckage
+- [Fox News](https://www.foxnews.com/us/nyc-building-collapse-third-body-recovered-first-responders-search-survivors) (right): NYC building collapse: Fifth body recovered as first responders search for survivors
+
+
+## 5. Indonesia's Vice-President Gibran resigns after courts question his education credentials
+`Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
+
+Gibran Rakabuming Raka, son of former President Joko Widodo, resigned as Indonesia's vice-president on Thursday. Rulings by the Constitutional Court and the Supreme Court had found his overseas education documents did not meet the requirement that candidates have completed senior high school or its equivalent. A petition by about 120 lawmakers had begun a process that could have led to impeachment. President Prabowo Subianto said he accepted the resignation "with a heavy heart" and will nominate two candidates, from whom the People's Consultative Assembly must choose a replacement within 60 days.
+
+**Key facts**
+- Gibran, 39, served two years of a five-year term.
+- A vice-presidential vacancy does not trigger a new election.
+- He is the first vice-president to resign before the end of his term since 1998, according to the AP report carried by the New York Post.
+- Widodo said his family would continue to support Prabowo's government.
+
+**How it's being framed**
+- **Left:** Al Jazeera placed the resignation within wider unrest, including protests over the economy, corruption, perceived authoritarianism and wildfire haze, as well as a police wiretapping probe.
+- **Center:** The BBC framed the resignation as a sign the Widodo–Prabowo alliance is fraying. It pointed to reshuffles of Widodo loyalists, Prabowo's shift away from the Nusantara capital project, and recent arrests of senior officials.
+- **Right:** The New York Post (AP) emphasised the legal process and critics' view that his candidacy reflected dynastic privilege and an earlier court ruling that exempted him from the age limit.
+
+**Disputed or unclear**
+- Gibran maintains his education was legitimate and had sought a chance to challenge the ruling.
+- How far Widodo–Prabowo tensions drove the outcome is an interpretation offered by the BBC.
+
+**Why it matters:** The resignation reshapes the balance of power in the world's third-largest democracy at a time of protests and political strain.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss) (center): Indonesia's vice-president resigns amid signs ruling alliance is fraying
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility) (lean-left): Indonesia vice president resigns amid dispute over eligibility
+- [New York Post](https://nypost.com/2026/11/12/world-news/indonesian-vice-president-gibran-rakabuming-raka-resigns/) (lean-right): Indonesia’s vice president Gibran Rakabuming Raka resigns as his eligibility and academic credentials are questioned
+
+
+## 6. Alaska judge denies Peltola campaign request for rejected-ballot records
+`US Headlines` `Charlotte Local` · Covered by 3 outlets (L 0 · C 2 · R 1)
+
+Superior Court Judge Thomas Matthews ruled that Alaska election officials do not have to give Democratic Senate candidate Mary Peltola's campaign records on rejected absentee ballots while counting is under way. He called the request "not reasonable" and raised privacy concerns. Peltola narrowly leads Republican Sen. Dan Sullivan in the only uncalled Senate race. Ranked-choice tabulation is planned for November 18 if no one tops 50%.
+
+**Key facts**
+- About 86% of votes were counted as of early Thursday.
+- The judge wrote: "The timing of the Campaign's request could simply not be worse."
+- Overseas absentee ballots can arrive until November 18.
+- A different candidate named Daniel J. Sullivan Jr. received about 1.6% of the vote.
+
+**How it's being framed**
+- **Center:** Newsweek and The Hill explained the ruling and both sides' arguments. Newsweek added context on the ballot deadlines and the Republican accusation that Democrats recruited the other Sullivan to confuse voters.
+- **Right:** The Washington Examiner reported the denial briefly, describing it as Peltola's "attempt to force" officials to hand over data in a razor-tight race.
+
+**Disputed or unclear**
+- Republicans accuse Democrats of recruiting Daniel J. Sullivan Jr.; it is unclear how many votes for him came from confusion.
+- The final outcome depends on remaining ballots and possible ranked-choice tabulation.
+
+**Why it matters:** The race decides whether Democrats hold 55 or 56 Senate seats.
+
+**Read it yourself:**
+- [Newsweek](https://www.newsweek.com/alaska-judge-rules-against-mary-peltola-over-ballot-request-12703001) (center): Alaska Judge Rules Against Mary Peltola Over Ballot Request
+- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4800965/judge-mary-peltola-ballot-data-alaska-senate-race/) (lean-right): Judge rules Peltola request for ballot data in Alaska Senate race ‘not reasonable’
+- [The Hill](https://thehill.com/regulation/court-battles/6215086-judge-denies-peltola-ballot-request/) (center): Alaska judge denies Peltola campaign request for list of rejected absentee ballots
+
+
+## 7. Huang affair raises national security questions and scrutiny of Trump's support
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 2 · R 0)
+
+Explainer and analysis pieces set out what is known about Alice Huang, the Megaspeed executive US intelligence reportedly views as a Chinese asset, and why the case matters beyond Jensen Huang's personal life. Megaspeed, an Nvidia customer that rents computing capacity to Chinese firms, has been investigated by the US and Singapore over suspected chip diversion to China; Nvidia and Megaspeed deny wrongdoing. The House China committee chairman, John Moolenaar, said Huang would likely be subpoenaed if he does not agree to a closed-door briefing. The Hill reported that Trump is standing by Huang, which it said raises questions about his close ties to industry leaders.
+
+**Key facts**
+- Megaspeed reportedly bought $4.8 billion in Nvidia chips over two years, according to TechCrunch.
+- The Justice Department has taken over the federal investigation into Megaspeed, per the New York Times as cited by TechCrunch.
+- Huang reportedly has about 60 direct reports, and Nvidia has no public succession plan.
+- Nvidia earlier described Huang's interactions with Alice Huang as "not unusual or unexpected."
+
+**How it's being framed**
+- **Left:** The Guardian's briefing focused on what is and isn't known. It stressed that the intelligence assessment is classified, explained Megaspeed's business with Chinese companies, and tied the story to Nvidia's market value.
+- **Center:** TechCrunch built a timeline that framed the story in terms of the US-China AI arms race and export restrictions, and noted congressional subpoena threats. The Hill focused on Trump's quick defence of Huang and what it suggests about his relationships with tech leaders.
+
+**Disputed or unclear**
+- What Alice Huang may have obtained, if anything, and which agency conducted the surveillance.
+- Whether Huang will agree to brief Congress or be subpoenaed.
+
+**Why it matters:** The case links a leading US tech firm, alleged Chinese espionage, and the administration's chip-export decisions, which lawmakers say they now want to review.
+
+**Read it yourself:**
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) (center): The unfolding Jensen Huang scandal: a timeline
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair) (lean-left): Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
+- [The Hill](https://thehill.com/homenews/administration/6214652-trump-defends-nvidia-ceo-scandal/) (center): Trump embraces Huang as espionage scandal shakes Nvidia
+
+
+## 8. Police seek driver after fatal hit-and-run in south Charlotte
+`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+
+A 43-year-old pedestrian, Niceforo Garcia-Rufino, was struck and killed Tuesday night near Nations Ford Road and East Arrowood Road. Police said a preliminary investigation found he was crossing outside a marked crosswalk when a red Mercedes-Benz travelling above the speed limit hit him and fled. Police have found the vehicle but not the driver. Council member Joi Mayo called for an initiative to help residents report broken streetlights.
+
+**Key facts**
+- The crash happened around 8:50 p.m. on November 10.
+- Garcia-Rufino was pronounced dead at the scene.
+- Anyone with information is asked to contact Detective D. Leung at 704-432-2169, ext. 6.
+- Duke Energy maintains Charlotte's streetlights and runs an outage-reporting website.
+
+**How it's being framed**
+- **Center:** Local stations focused on the police search. WBTV added the streetlight proposal, residents' safety worries, and a run of recent pedestrian deaths in the region.
+
+**Disputed or unclear**
+- The driver's identity and whether lighting played a role are unknown.
+
+**Why it matters:** The crash adds to a string of local pedestrian deaths and to pressure for safety measures.
 
 **Read it yourself:**
 - [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/charlotte-council-member-calls-streetlight-reporting-initiative-after-pedestrian-killed-hit-and-run/) (center): Charlotte council member calls for streetlight-reporting initiative after pedestrian killed in hit-and-run
@@ -217,73 +242,57 @@ A pedestrian, 43-year-old Niceforo Garcia-Rufino, was struck and killed Tuesday 
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/cmpd-investigates-fatal-hit-and-run-in-southwest-charlotte-tuesday-night/275-a909779c-54dd-48aa-87d2-6adc49dea8ee) (center): CMPD find car from fatal southwest Charlotte hit-and-run; still looking for suspect
 
 
-## 8. Former FBI agents say Nvidia case shows espionage risks for tech executives
-`AI & Cybersecurity` `US Headlines` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 1 · R 1)
+## 9. US envoys meet Putin after Abu Dhabi talks yield prisoner swap but no breakthrough
+· Covered by 5 outlets (L 2 · C 2 · R 1)
 
-Former FBI agents commented on the alleged Chinese spy affair involving Nvidia CEO Jensen Huang. Tracy Walder said Huang 'should have known better' and should have had advisers warning him. Mark Trott described Silicon Valley as 'a center for espionage' and said foreign intelligence officers target executives' vulnerabilities to obtain technology and influence policy.
-
-**Key facts**
-- Huang admitted the affair and apologised Sunday; Nvidia's board opened an independent investigation.
-- The board said it had no reason to believe national security or company secrets were compromised.
-
-**How it's being framed**
-- **Center:** The Hill focused on Walder's view that Huang's judgement was at fault and that his advisers failed him.
-- **Right:** Fox Business used Trott's interview to frame the case as part of a broader espionage threat to Silicon Valley, with practical advice for executives. It also linked to items on China denying the plot and a short seller who had flagged the ties.
-
-**Disputed or unclear**
-- China denies any spy plot and calls the allegations a 'smear,' according to a Fox Business headline.
-
-**Why it matters:** The case is drawing attention to foreign intelligence targeting of people with access to sensitive technology.
-
-**Read it yourself:**
-- [The Hill](https://thehill.com/policy/technology/6213351-jensen-huang-nvidia-national-security-probe/) (center): Nvidia CEO ‘should have known better’: Former FBI special agent
-- [Fox Business](https://www.foxbusiness.com/economy/silicon-valley-center-espionage-former-fbi-agent-warns-nvidia-spy-scandal) (lean-right): Silicon Valley is 'a center for espionage,' former FBI agent warns after Nvidia spy scandal
-
-
-## 9. K-pop group Cortis passes 1.5 billion Spotify streams
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-BigHit Music said K-pop boy band Cortis has passed 1.5 billion cumulative Spotify streams 15 months after debuting. Its most-streamed song, 'RedRed,' has about 276 million streams. The agency says the group reached the mark faster than other recent boy-band debuts.
+Two days of US-mediated Russia-Ukraine talks in Abu Dhabi ended Wednesday with an agreement in principle on a large prisoner exchange but no breakthrough on ending the war. US envoys Jared Kushner and Steve Witkoff flew to Moscow to meet Vladimir Putin, saying they would ask him to allow European participation in future talks, and are then due to meet Volodymyr Zelenskyy in Dublin. More than 40 European leaders are meeting in Dublin to discuss security. Zelenskyy said Ukraine's Starshield satellite service is again being deliberately throttled.
 
 **Key facts**
-- Yonhap reports nearly 1.6 billion streams as of Tuesday, about 1.2 billion of them this year.
-- The second EP, 'Greengreen,' had sold more than 4.4 million copies as of October (Korea Herald).
+- These were the first direct US-mediated Russia-Ukraine talks in nine months.
+- A Russian official said the swap could happen within two to three weeks.
+- Ukraine rejects Russian demands to cede the Donbas region.
+- France said the EU will sanction 150 more entities, including 50 banks.
 
 **How it's being framed**
-- **Center:** Both Korean outlets relayed the agency's announcement and milestone claims.
+- **Left:** PBS (AP) and Al Jazeera reported the modest outcome, quoting both delegations. They highlighted Russia's opposition to European involvement and Ukrainian scepticism that the Moscow meeting will change anything.
+- **Center:** DW and the BBC covered the diplomacy alongside continued fighting, including Ukraine's claimed strikes on Russian refineries and the Starshield dispute. They described Moscow's demands as maximalist and noted European worry about US softening toward the Kremlin.
+- **Right:** A Washington Examiner opinion piece called the talks a failure and argued they show Russia's war aims are unchanged.
 
 **Disputed or unclear**
-- The comparison group differs: Yonhap says boy bands that debuted in the past five years, while the Korea Herald says the past year.
-- Release timing differs: Yonhap says 'RedRed' came out in April, while the Herald says its EP came out in May.
+- The prisoner deal is only "in principle," and the numbers are not final.
+- Zelenskyy says Starshield is being systematically restricted, while Musk has denied deliberate throttling.
+- Ukraine's claims about its refinery strikes have not been independently verified.
 
-**Why it matters:** It reflects the commercial reach of newer K-pop acts on global streaming.
+**Why it matters:** The talks show whether US diplomacy can move toward ending a nearly five-year war and what role Europe will have in it.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261112006300315) (center): K-pop boy band Cortis racks up 1.5 bln Spotify streams
-- [The Korea Herald](https://www.koreaherald.com/article/10934859) (center): Cortis hits 1.5b on Spotify
+- [Deutsche Welle](https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf) (center): Ukraine peace talks: US envoys arrive in Russia to meet with Putin
+- [PBS NewsHour](https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough) (lean-left): Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough
+- [Washington Examiner](https://www.washingtonexaminer.com/op-eds/4800607/in-failed-talks-russia-proves-its-lies-on-ukraine-peace/) (lean-right): In failed talks, Russia proves its lies on Ukraine peace
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss) (center): US envoys arrive in Moscow for Ukraine talks with Vladimir Putin
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin) (lean-left): US envoys arrive in Moscow for Russia-Ukraine talks with Putin
 
 
-## 10. South Korea's Lee to attend ASEAN and APEC summits; Seoul sees slim chance of North Korea–US talks
-`Korea` `Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 10. Schlittler and Misiorowski win unanimous Cy Young Awards
+`Korea` · Covered by 2 outlets (L 0 · C 1 · R 1)
 
-President Lee Jae Myung will attend the ASEAN summit in Manila on Monday and Tuesday, then the APEC summit in Shenzhen, China, on Wednesday and Thursday. He plans to discuss critical minerals, transnational crime and food security, and to seek support for Seoul's North Korea policy. A presidential official said North Korea is unlikely to attend APEC and the chance of North Korea–US talks there is low. The official said a Trump-Xi-Putin meeting at APEC 'cannot be ruled out.'
+The Yankees' Cam Schlittler and the Brewers' Jacob Misiorowski each received all 30 first-place votes to win the American and National League Cy Young Awards. Both were in their first full major league seasons. It is only the third time both leagues have had unanimous winners in the same year. Misiorowski also won the World Series with Milwaukee.
 
 **Key facts**
-- Lee attends a welcome dinner hosted by Xi Jinping on Wednesday.
-- Trump said a possible meeting with Xi and Putin could cover denuclearization and ending the war in Iran.
-- South Korea's Cabinet approved a bill to extend its Cheonghae anti-piracy unit's operations toward the Strait of Hormuz, pending parliamentary consent.
+- Schlittler posted an AL-best 1.95 ERA with 239 strikeouts.
+- Misiorowski led MLB with a 1.80 ERA and 252 strikeouts.
+- Misiorowski is the first pitcher since Randy Johnson in 2001 to win the Cy Young and the World Series in the same season.
+- Mason Miller and Louis Varland won the inaugural Reliever of the Year awards.
 
 **How it's being framed**
-- **Center:** Yonhap focused on Lee's itinerary and goals; the Korea Herald led with the low likelihood of North Korea–US talks and the Hormuz deployment.
+- **Center:** The Korea Herald gave a statistics-driven account focused on records and historical comparisons.
+- **Right:** Fox News (OutKick) wrote a feature-style piece about the pitchers' velocity, team context and personal backgrounds.
 
-**Disputed or unclear**
-- Whether a Trump-Xi-Putin meeting or any Trump-Kim contact will happen remains speculative.
-
-**Why it matters:** The summits could shape regional diplomacy on North Korea, trade and security.
+**Why it matters:** Two second-year pitchers dominating at once marks a notable moment for baseball's next generation.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261112002752315) (center): (2nd LD) Lee to attend ASEAN, APEC summits in Philippines, China next week
-- [The Korea Herald](https://www.koreaherald.com/article/10935019) (center): N. Korea unlikely to attend APEC or hold talks with US: official
+- [The Korea Herald](https://www.koreaherald.com/article/10935232) (center): Schlittler, Misiorowski unanimously win MLB Cy Young Awards
+- [Fox News](https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season) (right): Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season
 
 
 ---
@@ -292,4 +301,4 @@ President Lee Jae Myung will attend the ASEAN summit in Manila on Monday and Tue
 
 ### What is happening with AI regulation in the US and EU?
 
-None of this edition's articles address AI regulation in the US or EU. The Nvidia coverage mentions US chip export restrictions to China but no new regulatory action.
+No articles this edition address US or EU AI regulation. The Nvidia coverage mentions only in passing that Trump has rejected calls for government oversight of AI.
