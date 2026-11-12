@@ -1,298 +1,287 @@
-# My Daily Brief: Morning edition
-_Thursday, November 12, 2026 · 6:52 AM EST · 481 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Thursday, November 12, 2026 · 5:27 PM EST · 550 articles from 39 outlets · summaries by Claude_
 
-> Nvidia's board is reportedly weighing whether to remove CEO Jensen Huang after a second alleged affair surfaced, days after he admitted a relationship with a woman US intelligence reportedly believes is a Chinese asset. In US politics, Democrat Scott Colom won Mississippi's Senate race and an Alaska judge ruled against Mary Peltola's campaign in a ballot-records dispute. Abroad, Spain held its first general strike in 14 years, Indonesia's vice-president resigned, and US envoys moved from Ukraine-Russia talks in Abu Dhabi to a meeting with Vladimir Putin in Moscow.
+> Nvidia co-founder Jensen Huang resigned as CEO after reports of extramarital affairs, including one with a woman US authorities suspect of spying for China, and President Trump suggested Apple's Tim Cook as his replacement. Trump also said the US no longer needs a deal with Iran and redirected Vice President Vance toward Democratic-run states, while US envoys met Putin and Zelenskyy after Ukraine talks in Abu Dhabi. Other stories include a global Microsoft 365 outage, a deadly building collapse in Brooklyn, oil price moves, and local and Korean news.
 
 
-**Sources linked in this edition:** 11 left · 22 center · 9 right
+**Sources linked in this edition:** 12 left · 23 center · 7 right
 
 ---
 
-## 1. Nvidia board reportedly weighs removing CEO Jensen Huang after second affair report
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 14 outlets (L 3 · C 9 · R 2)
+## 1. Jensen Huang resigns as Nvidia CEO after affair reports; CFO Colette Kress named interim chief
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 19 outlets (L 6 · C 10 · R 3)
 
-The Wall Street Journal reported that Nvidia's board was preparing to meet, as soon as Wednesday, to decide whether to oust co-founder and CEO Jensen Huang. The report followed a New York Times story that Huang had an extramarital relationship with Kimberly Powell, a senior health care executive who reports directly to him. On Sunday Huang had admitted to an affair with Alice Huang, an executive at Singapore-based Megaspeed whom US intelligence reportedly considers a Chinese intelligence asset; he is not related to her. Nvidia's board opened an independent investigation led by the law firm Wachtell, Lipton, Rosen & Katz and has said it has no reason to believe national security or company secrets were compromised. Nvidia shares fell sharply after hours, and members of Congress are pressing Huang for a briefing, with some calling for his resignation.
+Jensen Huang, who co-founded Nvidia in 1993 and led it since, resigned as president, CEO and board member effective immediately on Thursday. The resignation followed reports of affairs, including one with Alice Huang, a former Megaspeed executive whom US authorities suspect of spying for China, and another with Kimberly Powell, a vice president who reported directly to him. Reuters later reported a third relationship with another employee. CFO Colette Kress is interim CEO and director Harvey Jones becomes board chair while the board searches internally and externally for a permanent successor. Nvidia says it has no reason to believe national security or confidential information was compromised, China denies the spying allegation, and earnings are still due on Nov. 17.
 
 **Key facts**
-- Huang wrote to employees on Sunday: "I was unfaithful to my wife."
-- Nvidia shares fell roughly 7–9% in after-hours trading Wednesday after the Journal's report, according to different outlets.
-- Under Nvidia's bylaws, Huang can be removed "with or without cause" by a majority of its 11 directors, all but Huang considered independent.
-- Nvidia shareholders have filed a class action lawsuit alleging the company failed to disclose the relationship to investors.
-- President Trump defended Huang as an "honorable man" and said Huang did not know the woman was a suspected spy.
+- Huang resigned effective immediately on Thursday, ending a 33-year tenure; Kress, CFO since 2013, is interim CEO.
+- Harvey Jones, former Synopsys CEO, was named Nvidia's first board chair.
+- Shares fell about 13% at the open and closed down 4.3% on Thursday, per The Guardian; it put the day's loss at more than $180bn and the week's at around $490bn.
+- Law firm Wachtell, Lipton, Rosen & Katz is conducting the board's independent investigation into the Alice Huang relationship.
+- Nvidia's Q3 fiscal 2027 earnings release remains scheduled for Nov. 17.
 
 **How it's being framed**
-- **Left:** The Guardian focused on market consequences and succession. It quoted investors and analysts who said the market was pricing in Huang's exit, noted his concentrated control and lack of a successor, and set out the bylaws on removal. The Verge stressed that the second affair is alleged, noted the Times had not seen the video, and reported that Huang had hired a crisis communications firm known for handling sex scandals.
-- **Center:** The AFP report carried by the Korea Herald gave the basic chronology and placed Huang alongside Trump at White House events and among tech leaders who pledged to self-regulate AI. It also noted the shareholder lawsuit and the congressional briefing request. The Hill focused on the stock falling to its lowest level since June 2025.
-- **Right:** The Daily Caller emphasised the espionage angle and political fallout. It cited chip-smuggling scrutiny of Megaspeed, Beijing's denial, Trump's defence of Huang, calls from lawmakers including Republican Sen. Kevin Cramer for him to resign, and possible interim leaders. Fox Business centred on Wall Street reaction, including Baird's downgrade and Morgan Stanley and Bank of America removing Nvidia from their top-pick lists.
+- **Left:** The Guardian gave a detailed timeline, noted that the board's statement left out the scandal, and covered market losses, Trump's Tim Cook post and the Reuters report of a third affair. The Verge collected reactions from tech leaders such as Musk, Tim Sweeney and David Heinemeier Hansson, many of whom called the resignation a rushed overreaction.
+- **Center:** The Korea Herald and Axios focused on business continuity and Huang's importance to the AI boom. Axios cited Wall Street sources who said his exit could threaten an 'AI bubble' and predicted continued congressional scrutiny. The Korea Herald pointed to the impact on Korean suppliers Samsung and SK hynix.
+- **Right:** Fox Business led with Musk saying it would be 'an honor' to hire Huang, and covered analyst downgrades, Megaspeed's statement on export-control compliance and China's denial. Reason's podcast treated the episode as Huang being 'honeypotted' by a suspected spy.
 
 **Disputed or unclear**
-- Whether the board has actually met or decided anything: some outlets say it met Wednesday, others that it was preparing to meet.
-- The Powell affair is reported through unnamed sources. Nvidia, Huang and Powell have not confirmed it, and the Times has not seen the reported video. Outlets also differ on her title (vice president vs. president of health care).
-- The intelligence assessment of Alice Huang is classified and unverified publicly, and Beijing denies the spying claims.
-- Estimates of lost market value vary: about $427bn–$430bn after the first sessions, and roughly $600bn–$685bn if after-hours losses hold.
-- Whether Huang knew of the alleged spy links: Trump said he did not.
+- Whether Alice Huang is a Chinese intelligence asset: US authorities suspect it, and China calls the accusation 'slander.'
+- Whether any company secrets or national security information were compromised; Nvidia says it has no reason to believe so.
+- The identity and details of the third alleged relationship reported by Reuters.
+- Who will become permanent CEO.
 
-**Why it matters:** Nvidia supplies chips that much of the AI industry depends on, so a leadership change or a national security finding could affect markets, the AI race, and US policy on chip sales to China.
+**Why it matters:** Nvidia supplies most of the chips behind the AI boom, so a sudden leadership change touches markets, AI investment and US-China tech security.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10935084) (center): Nvidia preparing to oust CEO Jensen Huang: US media
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair) (lean-left): Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges
-- [The Daily Caller](https://dailycaller.com/2026/11/11/nvidia-board-oust-jensen-huang-affairs) (right): REPORT: Nvidia Moves To Oust CEO After Second Affair Allegation
-- [The Hill](https://thehill.com/business/6214833-nvidia-ceo-jesen-huang-affair/) (center): Nvidia stock tanks after report of second Jensen Huang affair
-- [The Verge](https://www.theverge.com/tech/1031652/jensen-huang-rumor) (lean-left): Nvidia is reportedly preparing to fire Jensen Huang
-- [Fox Business](https://www.foxbusiness.com/markets/nvidia-preparing-replace-ceo-jensen-huang-second-alleged-affair-emerges-report) (lean-right): Nvidia preparing to replace CEO Jensen Huang as second alleged affair emerges: report
+- [The Korea Herald](https://www.koreaherald.com/article/10935644) (center): Nvidia's Jensen Huang resigns as CEO amid spy scandal, CFO Kress takes over
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns) (lean-left): Jensen Huang resigns as Nvidia CEO after alleged affairs
+- [Fox Business](https://www.foxbusiness.com/fox-news-tech/musk-says-honor-hire-nvidias-embatteled-jensen-huang) (lean-right): Musk says it would be 'an honor' to hire Nvidia's embattled Jensen Huang
+- [Axios](https://www.axios.com/2026/11/12/nvidia-jensen-huang-out) (center): Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO
+- [The Verge](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions) (lean-left): ‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation
+- [Reason](https://reason.com/podcast/2026/11/12/jensen-huang-russell-brand-and-left-libertarians/) (lean-right): Jensen Huang, Russell Brand, and Left Libertarians
 
 
-## 2. Democrat Scott Colom defeats Sen. Cindy Hyde-Smith in Mississippi
-`US Headlines` · Covered by 13 outlets (L 4 · C 8 · R 1)
+## 2. Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide
+`AI & Cybersecurity` · Covered by 8 outlets (L 3 · C 5 · R 0)
 
-The Associated Press projected that Democrat Scott Colom defeated Republican Sen. Cindy Hyde-Smith after more than a week of ballot counting in Mississippi. Hyde-Smith conceded in a video and called Colom. The result gives Democrats at least 55 Senate seats in the chamber that convenes in January, with Alaska's race still uncalled. Colom becomes Mississippi's first Black senator since Reconstruction.
+A widespread outage on Thursday stopped many users worldwide from reaching Microsoft 365 services, including Outlook, Teams, SharePoint, OneDrive and Copilot. Microsoft first cited elevated infrastructure load, then said the load came from many servers unexpectedly becoming unavailable after failing automated health checks, not from more traffic. The company paused deployments, redistributed traffic, restarted servers and tested an alternative health-check method. It said configuration updates were a potential cause still under investigation, and by Thursday evening servers were beginning to return to service.
 
 **Key facts**
-- Colom won 49.19% of the vote to Hyde-Smith's 48.71%, a lead of more than 4,500 votes.
-- Trump won Mississippi by nearly 23 points in 2024.
-- Mississippi has no mandatory recount law.
-- Hyde-Smith had blocked Colom's nomination by President Biden to a federal judgeship.
+- Downdetector logged nearly 130,000 Outlook problem reports just after 1 p.m. ET.
+- Microsoft says the incident (MO1550821) began at 1:26 p.m. ET and could affect users in any region.
+- A separate Teams outage in the Americas earlier Thursday ran from 9:45 to 10:53 a.m. ET.
+- DW reported that Microsoft 365 connectors used by OpenAI and Anthropic were also affected.
 
 **How it's being framed**
-- **Left:** The Guardian and PBS covered the historic and personal side, highlighting Colom's victory speech, his references to prayer and to Hiram Revels, and his pledge to serve all Mississippians. The Guardian also noted the last Democrat to win a Senate race in the state was a segregationist.
-- **Center:** DW, Axios and The Hill called it a historic upset and part of a broader midterm rebuke of Trump. They quoted Democratic leaders celebrating and noted some Democrats see it as evidence that the party's future runs through the South.
-- **Right:** The Daily Caller ran a short factual report. It led with Hyde-Smith's concession quote, mentioned Colom's viral beef-prices ad, and linked to pieces arguing Democrats lack a mandate despite rejecting MAGA.
+- **Left:** The Guardian, The Verge and Al Jazeera tracked Microsoft's status updates step by step. The Guardian added an RMIT engineering professor who described a 'cascading' failure from misconfiguration and urged better testing and backup plans.
+- **Center:** BleepingComputer gave the most technical detail, including incident IDs and the earlier Teams outage. DW and WSOC focused on the scale of user reports and the effects on users.
 
 **Disputed or unclear**
-- Outlets differ on the historical benchmark: the first Democrat elected since 1982 (Axios, Guardian), since 1989 (Daily Caller), or the first new Democratic senator chosen since 1947 (DW).
+- The root cause: Microsoft named configuration updates as a potential cause but had not confirmed it.
+- Whether the earlier Teams incident is related to the later outage.
+- When full service will be restored.
 
-**Why it matters:** A Democratic win in a deeply Republican state widens the party's Senate majority and may reshape where both parties compete.
+**Why it matters:** Many businesses depend on Microsoft 365, so outages like this show the risk of relying on a single cloud provider.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf) (center): Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith
-- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates) (lean-left): Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – as it happened
-- [The Daily Caller](https://dailycaller.com/2026/11/11/democrats-flip-yet-another-deep-red-seat) (right): Democrat Scott Colom Wins Mississippi Senate Seat
-- [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith) (center): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
-- [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith) (lean-left): News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith
-- [The Hill](https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/) (center): Democrats rally around Colom’s historic Mississippi victory
+- [BleepingComputer](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/) (center): Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports) (lean-left): Global Microsoft outage affects Outlook and Teams users, with company ‘restarting’ servers
+- [Deutsche Welle](https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611?maca=en-rss-en-all-1573-rdf) (center): Microsoft reports mass outages in US, impacting customer accessibility
+- [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down) (lean-left): Microsoft Outlook is down
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/is-outlook-down-widespread-outage-hits-microsoft-apps/TVFG4OYJB5HRJIH66CM4WAQUQI/) (center): Is Outlook down? Widespread outage hits Microsoft apps
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users) (lean-left): Microsoft outage hits tens of thousands of users
 
 
-## 3. Spain holds first general strike in 14 years over housing costs
-`Korea` `US Headlines` · Covered by 4 outlets (L 1 · C 3 · R 0)
+## 3. Trump says US doesn't need an Iran deal and redirects Vance to Democratic-run states
+`US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
 
-Spain's two largest unions led a nationwide 24-hour general strike on Wednesday over housing costs and wages, the first since 2012. Authorities estimated 120,000 people marched in Madrid and more than 50,000 in Barcelona. Evening clashes broke out in both cities, with masked groups setting fires and breaking shop windows, and police using tear gas and rubber or foam bullets. The strike comes ahead of a November 29 snap election called by Prime Minister Pedro Sánchez after parliament blocked his housing reforms, and his government supported the strike.
+In a Truth Social post on Thursday, President Trump wrote that 'we don't need a deal with Iran,' saying the US has Iran's money and 'their Strait.' He told Vice President JD Vance, who had been leading efforts to restart negotiations, to give his 'complete and total attention' to what Trump called corruption and crime in Democratic-run cities and states. The post came about a week after large Republican midterm losses, which Vance has attributed to the war that the US and Israel began in February. Stocks fell and oil prices rose after the post.
 
 **Key facts**
-- Police reported at least 73 arrests from at least 1,044 strike-related incidents by 9 p.m.
-- Unions said about 4 million workers, roughly one-fifth of the workforce, took part.
-- The central bank estimates a housing deficit of about 750,000 homes.
-- The protests followed the eviction and later death of 87-year-old Maricarmen Abascal in Madrid.
+- Trump wrote: 'We don't need a deal with Iran. Those days have long since passed.'
+- He named Minnesota, California and Illinois as 'poorly run, corrupt disasters.'
+- The war began in late February and is in its ninth month; major strikes have largely stopped for several months.
+- Vance said after the midterms: 'The reason we lost is the war.'
 
 **How it's being framed**
-- **Left:** Al Jazeera's photo essay concentrated on the clashes between protesters and police, including police use of rubber bullets and tear gas, set against anger over affordability.
-- **Center:** DW, the BBC and Reuters (via the Korea Herald) covered the scale of the strike, the housing figures and the election context. They quoted union leaders and protesters, gave the opposition leader's reaction, and noted the unusual dynamic of a government backing a strike. Reuters added that Sánchez hopes to shift attention from a Ceuta migration incident and a train crash, and that his party trails in polls.
+- **Left:** The Guardian described the move as normalising a stalemate and sidelining Vance from the main foreign policy issue of his vice presidency. It detailed his contacts with mediators in Qatar and Pakistan and his statement blaming the war for the midterm losses.
+- **Center:** CNBC and Axios connected the post to the midterm defeat, the war's unpopularity and market reactions. CNBC described it as an attempt to 'flip the script' on corruption, an issue that favoured Democrats in the election.
+- **Right:** The Daily Caller presented the move as a reassignment to fighting fraud. It highlighted Vance's existing fraud task force and its reported findings in several states, and linked to a White House official's criticism of 'establishment ghouls' blaming Vance's peace efforts.
 
 **Disputed or unclear**
-- Turnout in Barcelona: city officials said 55,000, while housing activists claimed 400,000.
-- Participation was uneven across regions, and the 4 million figure comes from unions.
-- Strikers said police used pepper spray at a Madrid market, and at least 13 people sought medical care.
+- Trump's claims of billions of dollars stolen monthly in blue states, and that the budget could be balanced by stopping it, are his assertions and were not verified in the articles.
+- Whether diplomatic contacts with Iran will continue through Kushner and Witkoff.
+- Whether the US 'has' the Strait, given reports of shipping being hit.
 
-**Why it matters:** Housing has become a central issue in an election Sánchez called after losing a parliamentary vote, and the strike tests how that issue will play with voters.
+**Why it matters:** Dropping the push for a deal could prolong the war and keep energy prices high.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf) (center): Spain: Housing crisis prompts general strike, mass nighttime protests
-- [Al Jazeera English](https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain) (lean-left): Photos: Protesters clash with police after housing cost rallies in Spain
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss) (center): Clashes erupt in Barcelona after thousands join Spain general strike
-- [The Korea Herald](https://www.koreaherald.com/article/10935093) (center): Millions of Spaniards stage first general strike in 14 years as anger over housing leads to clashes
+- [CNBC](https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html) (center): Trump says ‘we don’t need a deal with Iran’
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war) (lean-left): Trump says no deal needed on Iran war and orders Vance to focus on domestic issues
+- [The Daily Caller](https://dailycaller.com/2026/11/12/trump-vance-iran-peace-deal-corruption-blue-states-midterms) (right): Trump Pulls Vance From Iran Negotiations, Orders Him To Focus On Blue State Corruption
+- [Axios](https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran) (center): Trump orders Vance to focus on "corruption" in Democrat-run areas, not Iran
+- [The Hill](https://thehill.com/homenews/administration/6215680-donald-trump-jd-vance-corruption-fraud-democratic-cities-states-iran-war/) (center): Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states
 
 
-## 4. Brooklyn building collapse kills at least four to five as search continues
-· Covered by 7 outlets (L 2 · C 3 · R 2)
+## 4. Trump suggests Apple's Tim Cook as Nvidia's next CEO
+`AI & Cybersecurity` `US Headlines` `Asia Business & Politics` · Covered by 5 outlets (L 0 · C 3 · R 2)
 
-A 1930s three-story mixed-use building at 1321 Flatbush Avenue in Brooklyn collapsed into an adjacent construction site where excavation was under way on Wednesday afternoon. More than 250 fire and EMS personnel responded and searched through the night using dogs, drones and vacuum trucks. Officials warned the death toll could rise and said it is unknown how many people remain trapped. Mayor Zohran Mamdani said the Department of Buildings and law enforcement will investigate the cause.
+After Jensen Huang's resignation, President Trump posted that 'there is only one man' to replace him, Apple executive chair Tim Cook, adding 'A Legend replaces a Legend!' Cook stepped down as Apple CEO on Sept. 1 and remains executive chairman. Trump did not say whether Cook was interested, and some outlets were unsure whether he was serious. Yale's Jeffrey Sonnenfeld had separately named Cook as a possible candidate.
 
 **Key facts**
-- The collapse was reported at 4:01 p.m., and firefighters arrived within one minute.
-- About 17–19 people were injured, four critically, including seven children.
-- A pregnant woman was pulled alive from the rubble around 6:30 p.m.
-- Workers were excavating the neighbouring site at the time of the collapse, according to the buildings commissioner.
+- Trump called Huang someone 'who has done a fantastic job.'
+- Cook led Apple from 2011 to 2026; John Ternus is now Apple's CEO.
+- Nvidia's board is considering both internal and external candidates.
+- Trump had defended Huang on Monday, saying he believed Huang did not know of the woman's alleged intelligence ties.
 
 **How it's being framed**
-- **Left:** The Guardian and Al Jazeera covered the rescue effort and officials' warnings of danger. Al Jazeera noted the neighbourhood's largely Black and Afro-Caribbean community, and the Guardian reported seeking comment from the construction project's owner, architect and contractor.
-- **Center:** The BBC and WSOC focused on the rescue, witness accounts, the 1930 building and the adjacent excavation, while noting the cause is not established.
-- **Right:** The New York Post and Fox News gave a developing-story account focused on the rising death toll and the overnight recovery of bodies, citing the FDNY.
+- **Center:** TechCrunch and Axios treated the endorsement with some scepticism, questioning whether Trump meant it as a joke. They noted he did not address the scandal and cited Sonnenfeld's similar suggestion.
+- **Right:** Fox Business and the Daily Caller reported the endorsement straightforwardly. The Daily Caller added Trump's ties to Cook, Apple's $500 billion US investment, a Bloomberg report via social media of a DOJ probe into Alice Huang, and an allegation that she helped move $7.5 billion in chips to China. Fox noted that no evidence has been publicly established that secrets were obtained.
 
 **Disputed or unclear**
-- The death toll differs by report time: two Wednesday night, four per the BBC and WSOC, five per the Post and Fox News.
-- It is not established whether the excavation caused the collapse.
-- The number of people still missing is unknown.
+- Whether Cook has any interest in the role.
+- The Daily Caller's claim that Alice Huang used the relationship to move more than $7.5 billion in Nvidia chips to China is unverified in the other coverage.
+- The reported DOJ probe into Alice Huang over Super Micro products was cited from a social media post of a Bloomberg report.
 
-**Why it matters:** The investigation may raise questions about construction oversight next to older buildings in dense cities.
+**Why it matters:** Presidential involvement in a private company's succession is unusual and may affect how Nvidia's board approaches the search.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss) (center): New York building collapse kills at least four people
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen) (lean-left): Building collapse in Brooklyn kills two, injures more than a dozen
-- [New York Post](https://nypost.com/2026/11/12/us-news/at-least-4-confirmed-dead-in-collapsed-nyc-building-as-massive-rescue-operation-continues/) (lean-right): At least 5 confirmed dead in collapsed NYC building as massive rescue operation continues
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/4-killed-least-17-injured-after-nyc-apartment-building-collapses/KTTSAQJSDRCWLB7MQMDPBD4W5U/) (center): 4 killed, at least 17 injured after NYC apartment building collapses
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse) (lean-left): Brooklyn building collapse kills at least two people and traps others in wreckage
-- [Fox News](https://www.foxnews.com/us/nyc-building-collapse-third-body-recovered-first-responders-search-survivors) (right): NYC building collapse: Fifth body recovered as first responders search for survivors
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/) (center): Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
+- [Fox Business](https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement) (lean-right): Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO
+- [Axios](https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple) (center): Trump pitches Apple's Tim Cook as new Nvidia CEO
+- [The Daily Caller](https://dailycaller.com/2026/11/12/donald-trump-replacements-nvidia-ceo-jensen-huang-apple-chairman-tim-cook-ceo) (right): Trump: ‘There’s Only One Man’ To Replace Ousted Nvidia CEO
+- [The Hill](https://thehill.com/policy/technology/6216293-trump-suggests-tim-cook-nvidia/) (center): Trump calls for Tim Cook to replace Jensen Huang at Nvidia
 
 
-## 5. Indonesia's Vice-President Gibran resigns after courts question his education credentials
-`Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
+## 5. US envoys meet Putin, then Zelenskyy, after Abu Dhabi talks end without a ceasefire
+`US Headlines` · Covered by 6 outlets (L 4 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
 
-Gibran Rakabuming Raka, son of former President Joko Widodo, resigned as Indonesia's vice-president on Thursday. Rulings by the Constitutional Court and the Supreme Court had found his overseas education documents did not meet the requirement that candidates have completed senior high school or its equivalent. A petition by about 120 lawmakers had begun a process that could have led to impeachment. President Prabowo Subianto said he accepted the resignation "with a heavy heart" and will nominate two candidates, from whom the People's Consultative Assembly must choose a replacement within 60 days.
+Two days of US-mediated talks between Russia and Ukraine in Abu Dhabi ended Wednesday without a ceasefire but with agreement on a large prisoner exchange, the exact numbers still to be set. Envoys Jared Kushner and Steve Witkoff then met Vladimir Putin in Moscow for about two hours. Putin kept his territorial demands for four annexed regions and said any European troops in Ukraine would be legitimate targets. Witkoff said Europeans would join the next round of talks, and the envoys went on to Dublin to brief Zelenskyy at a European Political Community summit. Zelenskyy separately said Ukraine faces 'systematic' restrictions on SpaceX's Starshield service.
 
 **Key facts**
-- Gibran, 39, served two years of a five-year term.
-- A vice-presidential vacancy does not trigger a new election.
-- He is the first vice-president to resign before the end of his term since 1998, according to the AP report carried by the New York Post.
-- Widodo said his family would continue to support Prabowo's government.
+- The Abu Dhabi talks were the first direct Russia-Ukraine talks in nine months.
+- Russia said a prisoner exchange could happen within two to three weeks.
+- Putin said European troops in Ukraine would mean 'the war would resume immediately.'
+- More than 40 European leaders met in Dublin; the EU has not named a single negotiator.
 
 **How it's being framed**
-- **Left:** Al Jazeera placed the resignation within wider unrest, including protests over the economy, corruption, perceived authoritarianism and wildfire haze, as well as a police wiretapping probe.
-- **Center:** The BBC framed the resignation as a sign the Widodo–Prabowo alliance is fraying. It pointed to reshuffles of Widodo loyalists, Prabowo's shift away from the Nusantara capital project, and recent arrests of senior officials.
-- **Right:** The New York Post (AP) emphasised the legal process and critics' view that his candidacy reflected dynastic privilege and an earlier court ruling that exempted him from the age limit.
+- **Left:** The Guardian, NPR, PBS (AP) and Al Jazeera emphasised Putin's hard line, European unease about Russia reframing the talks as a discussion of European security, and Kaja Kallas's objections. PBS noted Trump's past moves that dismayed Kyiv, and Al Jazeera focused on hybrid attacks across Europe.
+- **Center:** DW stressed the humanitarian outcome and quoted Ukrainian experts who were sceptical that the upbeat official statements reflect real progress. The BBC highlighted the Starlink/Starshield disruption and Putin's proposed local humanitarian truce.
 
 **Disputed or unclear**
-- Gibran maintains his education was legitimate and had sought a chance to challenge the ruling.
-- How far Widodo–Prabowo tensions drove the outcome is an interpretation offered by the BBC.
+- Who ordered the Starshield restrictions, and why, remains unclear.
+- Whether Europe will appoint a single representative.
+- Final numbers for the prisoner exchange.
+- Whether a deal is possible by year-end: Ukrainian negotiators are hopeful, while experts are doubtful.
 
-**Why it matters:** The resignation reshapes the balance of power in the world's third-largest democracy at a time of protests and political strain.
+**Why it matters:** These talks are the most active diplomacy in months on a war approaching its fifth year, with consequences for European security.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss) (center): Indonesia's vice-president resigns amid signs ruling alliance is fraying
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility) (lean-left): Indonesia vice president resigns amid dispute over eligibility
-- [New York Post](https://nypost.com/2026/11/12/world-news/indonesian-vice-president-gibran-rakabuming-raka-resigns/) (lean-right): Indonesia’s vice president Gibran Rakabuming Raka resigns as his eligibility and academic credentials are questioned
+- [Deutsche Welle](https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf) (center): What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink) (lean-left): Putin takes hard line in US talks as Ukraine says Starlink disrupted again
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss) (center): US envoys meet Zelensky in Dublin after talks with Putin in Moscow
+- [NPR](https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks) (lean-left): U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi
+- [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy) (lean-left): U.S. envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks) (lean-left): Regional security dominates European talks in Dublin amid hybrid attacks
 
 
-## 6. Alaska judge denies Peltola campaign request for rejected-ballot records
-`US Headlines` `Charlotte Local` · Covered by 3 outlets (L 0 · C 2 · R 1)
+## 6. Brooklyn building collapse kills eight; city records show earlier inspection concerns
+· Covered by 7 outlets (L 3 · C 2 · R 2)
 
-Superior Court Judge Thomas Matthews ruled that Alaska election officials do not have to give Democratic Senate candidate Mary Peltola's campaign records on rejected absentee ballots while counting is under way. He called the request "not reasonable" and raised privacy concerns. Peltola narrowly leads Republican Sen. Dan Sullivan in the only uncalled Senate race. Ranked-choice tabulation is planned for November 18 if no one tops 50%.
+A three-story 1930s apartment building in Flatbush, Brooklyn, collapsed into a neighbouring excavation site shortly after 4 p.m. Wednesday, killing eight people, including two children and two construction workers. Mayor Zohran Mamdani said 18 people were injured, including four firefighters. The FDNY finished searching the site Thursday afternoon and handed it to police and the Department of Buildings. The city has opened an investigation and is inspecting about 100 sites linked to the same five entities. Newsweek reported that a March pre-construction inspection rated the building's north wall 'poor' with visible cracks.
 
 **Key facts**
-- About 86% of votes were counted as of early Thursday.
-- The judge wrote: "The timing of the Campaign's request could simply not be worse."
-- Overseas absentee ballots can arrive until November 18.
-- A different candidate named Daniel J. Sullivan Jr. received about 1.6% of the vote.
+- 8 dead: 6 found at the scene and 2 who died in hospital.
+- About 250 first responders worked the site, and a pregnant woman was rescued from the rubble.
+- The DOB issued a stop-work order at the adjacent site on March 20; work resumed in violation of it and was allowed to continue on May 8.
+- The cause has not been determined.
 
 **How it's being framed**
-- **Center:** Newsweek and The Hill explained the ruling and both sides' arguments. Newsweek added context on the ballot deadlines and the Republican accusation that Democrats recruited the other Sullivan to confuse voters.
-- **Right:** The Washington Examiner reported the denial briefly, describing it as Peltola's "attempt to force" officials to hand over data in a razor-tight race.
+- **Left:** The Guardian and NPR focused on the rescue operation, the human toll and officials' statements, with NPR presenting a photo essay.
+- **Center:** The BBC centred residents' grief and the area's immigrant community. Newsweek examined permit and inspection records pointing to earlier warnings about the building's condition.
+- **Right:** The Daily Caller and Washington Examiner covered the death toll and rescue work. The Daily Caller profiled Jose Luis Caguana, an Ecuadorian worker who was killed.
 
 **Disputed or unclear**
-- Republicans accuse Democrats of recruiting Daniel J. Sullivan Jr.; it is unclear how many votes for him came from confusion.
-- The final outcome depends on remaining ballots and possible ranked-choice tabulation.
+- The cause of the collapse.
+- Injury counts differ slightly between reports (17 vs 18).
+- The developers and the engineer had not responded to Newsweek.
 
-**Why it matters:** The race decides whether Democrats hold 55 or 56 Senate seats.
+**Why it matters:** The collapse raises questions about how construction next to older buildings is overseen in New York City.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/alaska-judge-rules-against-mary-peltola-over-ballot-request-12703001) (center): Alaska Judge Rules Against Mary Peltola Over Ballot Request
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4800965/judge-mary-peltola-ballot-data-alaska-senate-race/) (lean-right): Judge rules Peltola request for ballot data in Alaska Senate race ‘not reasonable’
-- [The Hill](https://thehill.com/regulation/court-battles/6215086-judge-denies-peltola-ballot-request/) (center): Alaska judge denies Peltola campaign request for list of rejected absentee ballots
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss) (center): 'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc) (lean-left): Brooklyn building collapse kills at least two children and six adults, injuring 18
+- [The Daily Caller](https://dailycaller.com/2026/11/12/building-collapse-leaves-eight-dead-first-responders-scrambling-rescue-survivors) (right): Building Collapse Leaves 8 Dead, First Responders Scrambling To Rescue Survivors
+- [Newsweek](https://www.newsweek.com/new-york-building-collapse-planning-documents-raised-concerns-12706294) (center): New York Building Collapse: Planning Docs Raised Concerns Ahead of Tragedy
+- [NPR](https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos) (lean-left): Casualties continue to rise after Brooklyn building collapses
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4802076/brooklyn-apartment-building-collapse-nyc-conclusion-of-rescue-operations/) (lean-right): Eight dead, including two children, in Brooklyn apartment collapse
 
 
-## 7. Huang affair raises national security questions and scrutiny of Trump's support
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 7. Oil rises after Trump's Iran comments; South Korean import prices fall
+`US Headlines` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Explainer and analysis pieces set out what is known about Alice Huang, the Megaspeed executive US intelligence reportedly views as a Chinese asset, and why the case matters beyond Jensen Huang's personal life. Megaspeed, an Nvidia customer that rents computing capacity to Chinese firms, has been investigated by the US and Singapore over suspected chip diversion to China; Nvidia and Megaspeed deny wrongdoing. The House China committee chairman, John Moolenaar, said Huang would likely be subpoenaed if he does not agree to a closed-door briefing. The Hill reported that Trump is standing by Huang, which it said raises questions about his close ties to industry leaders.
+Oil prices rose Thursday after President Trump said the US did not need a deal with Iran, raising doubts that the war would end soon. Brent rose 1.9% to $94.48, though both benchmarks remain sharply down for November. Analysts quoted by CNBC said markets may have priced in peace too early and warned that renewed Iranian attacks on shipping could push prices higher. Separately, the Bank of Korea said October import prices fell 1.8% on a stronger won and lower oil prices.
 
 **Key facts**
-- Megaspeed reportedly bought $4.8 billion in Nvidia chips over two years, according to TechCrunch.
-- The Justice Department has taken over the federal investigation into Megaspeed, per the New York Times as cited by TechCrunch.
-- Huang reportedly has about 60 direct reports, and Nvidia has no public succession plan.
-- Nvidia earlier described Huang's interactions with Alice Huang as "not unusual or unexpected."
+- WTI rose 2% to $88.19.
+- WTI is down 16% and Brent down 20% in November.
+- South Korea's import price index fell 1.8% month-on-month in October, while export prices rose 0.7%.
 
 **How it's being framed**
-- **Left:** The Guardian's briefing focused on what is and isn't known. It stressed that the intelligence assessment is classified, explained Megaspeed's business with Chinese companies, and tied the story to Nvidia's market value.
-- **Center:** TechCrunch built a timeline that framed the story in terms of the US-China AI arms race and export restrictions, and noted congressional subpoena threats. The Hill focused on Trump's quick defence of Huang and what it suggests about his relationships with tech leaders.
+- **Center:** CNBC framed the rise through market analysts' views on the security premium and the blockade. Yonhap reported the Korean data in a straightforward, data-driven way.
 
 **Disputed or unclear**
-- What Alice Huang may have obtained, if anything, and which agency conducted the surveillance.
-- Whether Huang will agree to brief Congress or be subpoenaed.
+- Whether Iran will respond with further attacks on shipping.
 
-**Why it matters:** The case links a leading US tech firm, alleged Chinese espionage, and the administration's chip-export decisions, which lawmakers say they now want to review.
+**Why it matters:** Energy prices affect inflation and household costs worldwide.
 
 **Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) (center): The unfolding Jensen Huang scandal: a timeline
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair) (lean-left): Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
-- [The Hill](https://thehill.com/homenews/administration/6214652-trump-defends-nvidia-ceo-scandal/) (center): Trump embraces Huang as espionage scandal shakes Nvidia
+- [CNBC](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) (center): Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261112010000320) (center): Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
 
 
-## 8. Police seek driver after fatal hit-and-run in south Charlotte
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 8. South Carolina regulators monitor Silfab Solar as it resumes equipment testing
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-A 43-year-old pedestrian, Niceforo Garcia-Rufino, was struck and killed Tuesday night near Nations Ford Road and East Arrowood Road. Police said a preliminary investigation found he was crossing outside a marked crosswalk when a red Mercedes-Benz travelling above the speed limit hit him and fled. Police have found the vehicle but not the driver. Council member Joi Mayo called for an initiative to help residents report broken streetlights.
+Staff from South Carolina's Department of Environmental Services toured Silfab Solar's Fort Mill plant Thursday and will stay on site for several weeks while the company restarts commissioning of its solar-cell equipment. The state had earlier asked Silfab to halt commissioning after two chemical leaks this year. A court case over whether the operations are allowed under York County zoning is still pending, and some neighbours want Silfab to wait for the ruling.
 
 **Key facts**
-- The crash happened around 8:50 p.m. on November 10.
-- Garcia-Rufino was pronounced dead at the scene.
-- Anyone with information is asked to contact Detective D. Leung at 704-432-2169, ext. 6.
-- Duke Energy maintains Charlotte's streetlights and runs an outage-reporting website.
+- Two chemical leaks occurred earlier this year.
+- Oversight will continue until commissioning is complete.
 
 **How it's being framed**
-- **Center:** Local stations focused on the police search. WBTV added the streetlight proposal, residents' safety worries, and a run of recent pedestrian deaths in the region.
+- **Center:** Local TV stations reported the regulatory oversight and noted neighbours' concerns and the pending lawsuit.
 
 **Disputed or unclear**
-- The driver's identity and whether lighting played a role are unknown.
+- Whether the operations comply with York County zoning is before a court.
 
-**Why it matters:** The crash adds to a string of local pedestrian deaths and to pressure for safety measures.
+**Why it matters:** Nearby residents face potential safety risks while the legal question is unresolved.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/charlotte-council-member-calls-streetlight-reporting-initiative-after-pedestrian-killed-hit-and-run/) (center): Charlotte council member calls for streetlight-reporting initiative after pedestrian killed in hit-and-run
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/cmpd-searching-driver-after-fatal-hit-and-run-south-charlotte/QNOKKXI5N5DSHLGE2ZK5WPWT3Q/) (center): CMPD searching for driver after fatal hit-and-run in south Charlotte
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/police-seek-driver-after-fatal-hit-and-run-in-south-charlotte-cmpd/) (center): Police seek driver after fatal hit-and-run in south Charlotte: CMPD
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/cmpd-investigates-fatal-hit-and-run-in-southwest-charlotte-tuesday-night/275-a909779c-54dd-48aa-87d2-6adc49dea8ee) (center): CMPD find car from fatal southwest Charlotte hit-and-run; still looking for suspect
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/sc-regulators-monitor-silfab-solar-it-tests-production-equipment/HV7GVKZYCJGRPIJBHFLOE53464/) (center): SC regulators monitor Silfab Solar as it tests production equipment
+- [Queen City News (FOX 46)](https://www.qcnews.com/silfab-solar/south-carolina-regulators-on-site-at-silfab-as-facility-prepares-for-solar-cell-production/) (center): South Carolina regulators on-site at Silfab as facility prepares for solar cell production
 
 
-## 9. US envoys meet Putin after Abu Dhabi talks yield prisoner swap but no breakthrough
-· Covered by 5 outlets (L 2 · C 2 · R 1)
+## 9. NC lawmaker plans bill to split Charlotte-Mecklenburg Schools and allow board recalls
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Two days of US-mediated Russia-Ukraine talks in Abu Dhabi ended Wednesday with an agreement in principle on a large prisoner exchange but no breakthrough on ending the war. US envoys Jared Kushner and Steve Witkoff flew to Moscow to meet Vladimir Putin, saying they would ask him to allow European participation in future talks, and are then due to meet Volodymyr Zelenskyy in Dublin. More than 40 European leaders are meeting in Dublin to discuss security. Zelenskyy said Ukraine's Starshield satellite service is again being deliberately throttled.
+Union County state Rep. David Willis says he is drafting legislation to break up Charlotte-Mecklenburg Schools and allow recall elections for its board members. The proposal follows the firing of Dr. Crystal Hill and several investigations into the district. Willis acknowledges a split would likely take years because of lawsuits and pushback, and he wants a study committee to work out the new districts' geography and finances. CMS has not commented.
 
 **Key facts**
-- These were the first direct US-mediated Russia-Ukraine talks in nine months.
-- A Russian official said the swap could happen within two to three weeks.
-- Ukraine rejects Russian demands to cede the Donbas region.
-- France said the EU will sanction 150 more entities, including 50 banks.
+- CMS is North Carolina's second-largest school district.
+- The three at-large board seats are up next year; district seats are not up until 2029.
 
 **How it's being framed**
-- **Left:** PBS (AP) and Al Jazeera reported the modest outcome, quoting both delegations. They highlighted Russia's opposition to European involvement and Ukrainian scepticism that the Moscow meeting will change anything.
-- **Center:** DW and the BBC covered the diplomacy alongside continued fighting, including Ukraine's claimed strikes on Russian refineries and the Starshield dispute. They described Moscow's demands as maximalist and noted European worry about US softening toward the Kremlin.
-- **Right:** A Washington Examiner opinion piece called the talks a failure and argued they show Russia's war aims are unchanged.
+- **Center:** Local outlets relayed Willis's reasoning and quotes, noted the obstacles he acknowledges, and reported that CMS had not responded.
 
 **Disputed or unclear**
-- The prisoner deal is only "in principle," and the numbers are not final.
-- Zelenskyy says Starshield is being systematically restricted, while Musk has denied deliberate throttling.
-- Ukraine's claims about its refinery strikes have not been independently verified.
+- Whether the bill has enough legislative support to pass.
 
-**Why it matters:** The talks show whether US diplomacy can move toward ending a nearly five-year war and what role Europe will have in it.
+**Why it matters:** The proposal could reshape governance of a large urban school district.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf) (center): Ukraine peace talks: US envoys arrive in Russia to meet with Putin
-- [PBS NewsHour](https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough) (lean-left): Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough
-- [Washington Examiner](https://www.washingtonexaminer.com/op-eds/4800607/in-failed-talks-russia-proves-its-lies-on-ukraine-peace/) (lean-right): In failed talks, Russia proves its lies on Ukraine peace
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss) (center): US envoys arrive in Moscow for Ukraine talks with Vladimir Putin
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin) (lean-left): US envoys arrive in Moscow for Russia-Ukraine talks with Putin
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/rep-who-wants-split-cms-effort-would-likely-take-years/76XPIA5INJEJ3FUGIVZ6RLRTPQ/) (center): Rep who wants to split CMS: Effort would likely take years
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/could-charlotte-mecklenburg-schools-be-broken-up/) (center): Could Charlotte-Mecklenburg Schools be broken up?
 
 
-## 10. Schlittler and Misiorowski win unanimous Cy Young Awards
-`Korea` · Covered by 2 outlets (L 0 · C 1 · R 1)
+## 10. North Korea rejects G7 call for denuclearization
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-The Yankees' Cam Schlittler and the Brewers' Jacob Misiorowski each received all 30 first-place votes to win the American and National League Cy Young Awards. Both were in their first full major league seasons. It is only the third time both leagues have had unanimous winners in the same year. Misiorowski also won the World Series with Milwaukee.
+North Korean Foreign Minister Choe Son-hui rejected a G7 foreign ministers' statement from Paris that called for North Korea's complete denuclearization. In a statement carried by state media, she said Pyongyang's 'will for nuclear possession' is steadfast and accused the G7 of double standards because some members hold nuclear weapons. She also criticised the US, Britain and Japan.
 
 **Key facts**
-- Schlittler posted an AL-best 1.95 ERA with 239 strikeouts.
-- Misiorowski led MLB with a 1.80 ERA and 252 strikeouts.
-- Misiorowski is the first pitcher since Randy Johnson in 2001 to win the Cy Young and the World Series in the same season.
-- Mason Miller and Louis Varland won the inaugural Reliever of the Year awards.
+- Choe called nuclear weapons the 'most powerful guarantee' of sovereignty.
+- UN Security Council resolutions ban North Korea's nuclear and missile programs.
 
 **How it's being framed**
-- **Center:** The Korea Herald gave a statistics-driven account focused on records and historical comparisons.
-- **Right:** Fox News (OutKick) wrote a feature-style piece about the pitchers' velocity, team context and personal backgrounds.
+- **Center:** Yonhap and The Korea Herald reported Choe's remarks directly, giving the context of the G7 statement and the UN resolutions.
 
-**Why it matters:** Two second-year pitchers dominating at once marks a notable moment for baseball's next generation.
+**Why it matters:** The statement signals that North Korea has no intention of negotiating away its nuclear arsenal.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10935232) (center): Schlittler, Misiorowski unanimously win MLB Cy Young Awards
-- [Fox News](https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season) (right): Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261112012200315) (center): N. Korean FM slams G7 nations' call for denuclearization, says its nuclear pursuit remains 'steadfast'
+- [The Korea Herald](https://www.koreaherald.com/article/10935602) (center): N. Korean FM reaffirms 'steadfast will' for nuclear possession
 
 
 ---
@@ -301,4 +290,4 @@ The Yankees' Cam Schlittler and the Brewers' Jacob Misiorowski each received all
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles this edition address US or EU AI regulation. The Nvidia coverage mentions only in passing that Trump has rejected calls for government oversight of AI.
+None of today's articles address AI regulation in the US or EU.

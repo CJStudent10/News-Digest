@@ -1,155 +1,167 @@
-# The Lighter Brief: Morning edition
-_Thursday, November 12, 2026 · 6:54 AM EST · 220 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Thursday, November 12, 2026 · 5:28 PM EST · 274 articles from 22 outlets · summaries by Claude_
 
-> Big civic news leads today: Democrat Scott Colom won Mississippi's U.S. Senate seat in a narrow, history-making upset. Closer to home there's a proposal to split up Charlotte-Mecklenburg Schools, a few Jamaica updates, a warm tribute to a civil rights pioneer, and some lighter fare, from Snoop Dogg's newest club to Voyager's first close look at Saturn's rings.
+> A big day for business news: Nvidia's Jensen Huang has stepped down after an affair scandal, and 50 Cent jokingly offered him a job. Mississippi elected its first Black U.S. senator in nearly 150 years, the American Cancer Society updated its prostate screening advice, and Charlotte is getting a new nonstop flight to Seattle. Snoop Dogg is also throwing a Christmas party on NBC, with Martha Stewart on the guest list.
 
 
 
 ---
 
-## 1. Scott Colom wins Mississippi's Senate seat in a historic upset
-`US Headlines` · Covered by 7 outlets
+## 1. Nvidia's Jensen Huang steps down as CEO
+`US Headlines` · Covered by 6 outlets
 
-Democrat Scott Colom, a district attorney, narrowly beat Republican Sen. Cindy Hyde-Smith, according to an Associated Press race call. He is Mississippi's first Black senator since Reconstruction and the first Democrat the state has elected to the Senate since 1982. He campaigned door to door on affordability, keeping rural hospitals open and access to healthcare. Hyde-Smith conceded, saying she respects the decision of Mississippi voters.
-
-**Key facts**
-- Colom won by fewer than 5,000 votes, with a small share of ballots still being counted (NPR).
-- He is reported as the first Black U.S. senator elected by popular vote. The two earlier Black senators, both from Mississippi, were chosen by the state Legislature in the 1870s.
-- He also flipped traditionally Republican areas such as Forrest County.
-- WSOC reports Democrats now hold a 55-44 Senate edge, with Alaska's race still undecided.
-
-**Worth knowing:** It's a milestone for Mississippi and shifts the balance of power in the U.S. Senate.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/election-2026-scott-collom-wins-us-senate-seat-mississippi/OOKCQ6ZTJ5GLVKHYUOLOBRZSIM/): Election 2026: Scott Collom wins US Senate seat in Mississippi
-- [NPR](https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator): How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator
-- [Axios](https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith): Scott Colom ousts Cindy Hyde-Smith in historic Mississippi Senate flip
-- [The Hill](https://thehill.com/homenews/campaign/6215058-colom-makes-mississippi-history/): Democrats rally around Colom’s historic Mississippi victory
-
-
-## 2. Rock Hill honors Willie 'Dub' Massey of the Friendship Nine
-`Charlotte` · Covered by 3 outlets
-
-Willie 'Dub' Massey, one of the Friendship Nine, died Tuesday at 84. In 1961 the group held a sit-in at a segregated Rock Hill lunch counter. They chose 30 days of jail labor over paying a fine, and that 'jail, no bail' approach helped revive the student sit-in movement. A former student remembers him as a beloved sixth-grade teacher who never mentioned he was a hero.
+Jensen Huang, the founder of chip giant Nvidia and a central figure in the AI boom, resigned on November 12. He had admitted to an affair days earlier, and reports have linked him to a businesswoman whom U.S. intelligence reportedly suspected of ties to Chinese intelligence. CFO Colette Kress is now interim CEO. 50 Cent added some levity with a tongue-in-cheek job offer to run AI at G-Unit.
 
 **Key facts**
-- The 1961 fine was $100, about $1,100 in today's money.
-- The group served 30 days at the York County Prison Farm.
-- David Williamson Jr. is now the last surviving member of the Friendship Nine.
-- Rock Hill honored Massey with an empty seat, a plate and a glass of water.
-
-**Worth knowing:** His quiet courage shaped history, and his community is making sure the story keeps being told.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/willie-dub-massey-member-friendship-9-dies-84/HA6ZKUX6BNHKXGONFDSERID7DM/): Willie ‘Dub’ Massey, member of Friendship 9, dies at 84
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/rock-hill/civil-rights-activist-willie-dub-massey-member-of-rock-hills-friendship-nine-dies-at-84/): Civil rights activist Willie 'Dub' Massey, member of Rock Hill's 'Friendship Nine', dies at 84
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/black-history/rock-hill-mourns-willie-dub-massey-friendship-nine-civil-rights-pioneer-who-helped-change-history-segregation-jail-no-bail/275-c554e9df-362d-444e-98ae-8e75e9000f81): Rock Hill mourns Willie 'Dub' Massey, Friendship Nine civil rights pioneer who helped change history
-
-
-## 3. Former U.S. envoy expects little change in Caribbean policy
-`Jamaica` `US Headlines` · Covered by 1 outlet
-
-Donald Tapia, a former U.S. ambassador to Jamaica, told The Gleaner he sees the midterm results as a vote against President Trump and his policies rather than against the Republican Party. Even so, he doesn't expect a reset in U.S. policy toward the Caribbean. He also discussed Kari Lake's nomination as ambassador to Jamaica and the need for U.S. immigration reform.
-
-**Key facts**
-- Tapia is a former U.S. ambassador to Jamaica.
-- He urged Jamaica's political leaders to be bold in their dealings with the U.S.
-
-**Worth knowing:** It's one informed view on how U.S. election results might, or might not, affect Jamaica.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/no-reset-caribbean-tapia-sees-little-change-us-policy-despite-democratic): No reset for Caribbean - Tapia sees little change in US policy despite Democratic gains in mid-term elections
-
-
-## 4. Testimony continues in Jamaica's CMU fraud trial
-`Jamaica` · Covered by 1 outlet
-
-A former Universal Service Fund (USF) legal officer testified that the agency's training contracts with Caribbean Maritime University (CMU) and a private institute did not provide for participants' meals. Instead, participants received a monthly stipend to cover transport and food. The trial involves former CMU President Fritz Pinnock and former Education Minister Ruel Reid, among others.
-
-**Key facts**
-- Participants received a stipend of $10,600 a month, paid every two weeks.
-- The charges concern an alleged scheme to siphon more than $25 million in public funds between 2016 and 2019.
-- All the accused have pleaded not guilty.
-- The training program targeted 1,000 unemployed young people aged 18 to 35.
-
-**Worth knowing:** The case concerns how public money for youth training was spent.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/no-food-fine-print-former-usf-attorney-says-contracts-cmu-and-training): No food in the fine print - Former USF attorney says contracts with CMU and training institution made no provision for meals
-
-
-## 5. Holness says Jamaica may need overseas builders for rebuilding
-`Jamaica` · Covered by 1 outlet
-
-Prime Minister Andrew Holness said the National Reconstruction and Resilience Authority (NaRRA) may need to bring in skilled workers from abroad to rebuild western Jamaica, because the construction industry is short of skilled labour. He spoke at a ceremony where the National Housing Trust awarded construction scholarships to 25 young Jamaicans.
-
-**Key facts**
-- Each scholarship covers up to $1 million a year in tuition.
-- Holness said only about $40 billion of an $80 billion annual capital budget usually becomes physical infrastructure.
-- He encouraged the scholars to start their own contracting firms.
-
-**Worth knowing:** Training young people in construction could mean more jobs and faster rebuilding.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/holness-eyes-foreign-labour-narra): Holness eyes foreign labour for NaRRA
-
-
-## 6. Jamaican court awards woman over J$10 million for negligent dental care
-`Jamaica` `US Headlines` · Covered by 1 outlet
-
-Jamaica's Supreme Court ordered the government to pay more than J$10 million in damages to June Hyman of St Elizabeth. The case stems from a 2010 wisdom tooth extraction at a public clinic. The judge found the dentist noted Hyman's gum disease but never told her and did not order X-rays, which led to months of pain and later surgery.
-
-**Key facts**
-- She was awarded J$7.9 million in general damages, plus interest.
-- Special damages include US$16,312, about J$2.5 million.
-- Justice Kirk Anderson described her overall treatment as 'absolutely appalling'.
-
-**Worth knowing:** The ruling is a reminder that patients are entitled to be told about their own conditions.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261112/govt-slapped-massive-payout-judge-awards-st-elizabeth-woman-more-10-million): Gov’t slapped with massive payout - Judge awards St Elizabeth woman more than $10 million in damages for negligent medical care
-
-
-## 7. Lawmaker plans bill to split up Charlotte-Mecklenburg Schools
-`Charlotte` · Covered by 2 outlets
-
-State Rep. David Willis, a Republican from Union County, plans a bill to divide Charlotte-Mecklenburg Schools (CMS) into several districts. The bill would also create a way to hold recall elections for school board members. Willis says a full split would take years of study. Critics, including Rep. Laura Budd and board member Anna London, say the plan is political and would be harmful to kids. CMS is currently under state investigations into financial irregularities.
-
-**Key facts**
-- The State Bureau of Investigation and the State Auditor's Office are both looking into CMS.
-- Earlier split efforts came up in 2012 and 2018.
-- One town mayor said his town can't afford to leave CMS.
-- The legislature could return as soon as next week.
-
-**Worth knowing:** Any split would change how schooling works for many Charlotte-area families, but for now it is only a proposal.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/lawmaker-plans-bill-break-up-charlotte-mecklenburg-schools-board-member-says/J5HL5EXXLJGVDFDCGJ6NLVTJ3M/): Lawmaker plans bill to break up Charlotte-Mecklenburg Schools, board member says
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/parents-react-to-nc-lawmaker-proposing-bill-to-divide-charlotte-mecklenburg-schools/): Parents react to NC lawmaker proposing bill to break up Charlotte-Mecklenburg Schools
-
-
-## 8. Summer Walker's label countersues her as their legal fight grows
-`Hip Hop & Celebrity` · Covered by 2 outlets
-
-LVRN, Summer Walker's label and management company, has filed a countersuit saying she owes it commissions and royalties. This follows her August lawsuit accusing LVRN of mishandling her money. She is also in a separate legal fight with Interscope over leaving her record deal.
-
-**Key facts**
-- LVRN says it is owed a 7% cut of her tour, 20% of her performance royalties and a 15% management commission.
-- Interscope sued in October for at least $50 million.
-- A hearing in the Interscope case is set for April 15.
+- Huang resigned as president, CEO and board member effective immediately on November 12.
+- Colette Kress is interim CEO while staying on as CFO, and Harvey C. Jones was named Nvidia's first-ever chairman.
+- Independent directors hired former acting U.S. Attorney Joon H. Kim and the law firm Wachtell, Lipton to run an investigation.
+- 50 Cent's offer came with an AI-generated video and is a joke, not an actual hire.
 
 **Good to know**
-- Every claim on both sides is an allegation, and nothing has been proven in court.
-- LVRN denies Walker's claims that it diverted her money.
-- Her lawyer 'strongly disputes' the counterclaims.
-- Walker disputes Interscope's claim that she still owes albums.
+- Confirmed: Huang admitted in a November 8 note to employees that he was unfaithful to his wife.
+- Alleged: The spying claims about businesswoman Alice Huang (no relation) come from New York Times reporting citing unnamed sources. NPR has not independently confirmed them, and China calls them baseless.
+- Reported: The New York Times reported a second affair with Nvidia executive Kimberly Powell.
+- The board said on November 8 it had no reason to believe national security or company secrets had been compromised.
 
-**Worth knowing:** It shows how complicated it can be for an artist to leave a long-term music deal.
+**Worth knowing:** Nvidia makes most of the chips that power AI, so a leadership change there could ripple through the stock market and the tech world.
 
 **Read it yourself:**
-- [Billboard](https://www.billboard.com/pro/summer-walker-lawsuit-countersued-lvrn-commissions/): Summer Walker Countersued by LVRN for Commissions and Royalties: ‘Stubbornly Litigious’
-- [AllHipHop](https://allhiphop.com/news/summer-walker-faces-lvrn-counterclaim-over-tour-money-royalties/): Summer Walker Faces LVRN Counterclaim Over Tour Money & Royalties
+- [AllHipHop](https://allhiphop.com/news/50-cent-offers-jensen-huang-an-ai-job-as-nvidia-ceo-resigns/): 50 Cent Offers Jensen Huang An AI Job As Nvidia CEO Resigns
+- [NPR](https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down): Nvidia CEO Jensen Huang steps down amid alleged spy scandal
+- [Axios](https://www.axios.com/2026/11/12/nvidia-jensen-huang-out): Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO
+- [The Hill](https://thehill.com/policy/technology/6216479-warren-jensen-huang-nvidia-resignation/): Warren says Huang’s resignation ‘does not absolve him,’ Nvidia
+
+
+## 2. NC lawmaker proposes splitting up Charlotte-Mecklenburg Schools
+`Charlotte` · Covered by 2 outlets
+
+State Rep. David Willis of Union County plans to introduce legislation to break up CMS and allow recall elections for its school board. The proposal follows the firing of Dr. Crystal Hill and several ongoing investigations into the district. Willis himself says a split would likely take years.
+
+**Key facts**
+- CMS is North Carolina's second-largest school district.
+- Willis wants a study committee to look at how new district lines and funding would work.
+- The three at-large board seats are up for election next year, and district seats not until 2029.
+- CMS has not commented on the proposal.
+
+**Worth knowing:** If you have kids in CMS, this could eventually change how the district is run and when you get to vote on its leaders.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/rep-who-wants-split-cms-effort-would-likely-take-years/76XPIA5INJEJ3FUGIVZ6RLRTPQ/): Rep who wants to split CMS: Effort would likely take years
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/could-charlotte-mecklenburg-schools-be-broken-up/): Could Charlotte-Mecklenburg Schools be broken up?
+
+
+## 3. Alaska Airlines is coming to Charlotte
+`Charlotte` · Covered by 2 outlets
+
+Charlotte Douglas International Airport announced that Alaska Airlines will start a daily nonstop flight to Seattle-Tacoma next summer. That gives travelers a second nonstop option to Seattle, alongside American Airlines.
+
+**Key facts**
+- The first flight is June 10, 2027.
+- It arrives in Charlotte at 4:51 p.m. and departs for Seattle at 5:54 p.m. Eastern.
+- The flight takes about six hours.
+- Alaska will be the ninth airline at CLT.
+
+**Worth knowing:** More choice for Charlotte travelers heading to the Pacific Northwest.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/new-airline-coming-charlotte-airport-2027-what-know/): New airline coming to Charlotte airport in 2027: What to know
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/alaska-airlines-to-begin-flights-between-charlotte-and-seattle/): Alaska Airlines to begin flights between Charlotte and Seattle
+
+
+## 4. Remembering Irma P. Hall, 'Soul Food's' Big Mama Jo
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+Actress Irma P. Hall, beloved as Josephine "Big Mama Jo" Joseph in 1997's "Soul Food," died in Dallas at 91. She taught high school for 27 years before acting and didn't land a major film role until she was 60. Her family remembered her as an actress, author, poet, educator and speaker.
+
+**Key facts**
+- Her "Soul Food" role won her an NAACP Image Award, and she reprised it in the TV series.
+- Her credits include "A Family Thing," "Patch Adams," "Beloved" and "The Ladykillers."
+- She co-founded the Dallas Minority Repertory Theatre and joined the Texas Film Hall of Fame in 2005.
+- No cause of death was given.
+
+**Worth knowing:** Her story is a lovely reminder that it's never too late to find your calling.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/irma-p-hall-soul-food-ladykillers-actress-dies-91/D4OHJRG2JJD5ZBQUDMJ444RJOI/): Irma P. Hall, ‘Soul Food,’ ‘The Ladykillers’ actress, dies at 91
+- [VIBE](https://www.vibe.com/news/national/irma-p-hall-big-mama-role-soul-food-dead-91-1235202732/): ’Soul Food’ Actress Irma P. Hall, Known for “Big Mama Jo” Role, Dead at 91
+
+
+## 5. Former NC lawmaker and Mooresville commissioner indicted
+`Charlotte` · Covered by 2 outlets
+
+A Wake County grand jury indicted former state Rep. Jason Saine and former Mooresville commissioner David Coble on felony charges tied to the nonprofit Greater Carolina, Inc. Prosecutors say money raised to promote pro-business policy was used for personal benefit. The investigation began after an ethics complaint over a 2024 bourbon trip to Kentucky.
+
+**Key facts**
+- Saine faces four felony charges and is accused of aiding and abetting, not of embezzling himself.
+- Coble, the nonprofit's treasurer, faces five felony charges.
+- Search warrants tie more than $400,000 in payments to the nonprofit's credit card.
+- Saine says he committed no crime and looks forward to clearing his name.
+
+**Good to know**
+- These are charges, not convictions. Both men are presumed innocent.
+
+**Worth knowing:** The case tests how political nonprofits handle donor money in North Carolina.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/former-nc-lawmaker-former-mooresville-commissioner-face-embezzlement-charges/): Former NC lawmaker and former Mooresville commissioner face embezzlement charges
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/politics/former-nc-lawmaker-indicted-on-embezzlement-other-charges-in-bourbon-trail-probe/275-89b82836-c2ab-4422-bf79-d173d4100119): Former NC lawmaker indicted on embezzlement, other charges in Bourbon Trail probe
+
+
+## 6. Mississippi elects its first Black senator since the 1800s
+`Health & Medicine` `US Headlines` · Covered by 2 outlets
+
+Democrat Scott Colom narrowly defeated incumbent Republican Sen. Cindy Hyde-Smith, becoming the first Black person from Mississippi seated in the U.S. Senate since Blanche Bruce in 1881. Hyde-Smith conceded and wished him well. Supporters credited grassroots organizing.
+
+**Key facts**
+- Colom won 49.2% to 48.7%, a margin of fewer than 5,000 votes out of nearly a million.
+- Colom is 43.
+- Democrats will hold 55 Senate seats, with Alaska still uncalled.
+- Trump won Mississippi by more than 22 points in 2024.
+
+**Worth knowing:** It's a historic first for Mississippi, chosen this time directly by voters, and a gracious concession capped it off.
+
+**Read it yourself:**
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss): Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century
+- [Axios](https://www.axios.com/2026/11/12/scott-colom-mississippi-senate-black-representation): Scott Colom's win in Mississippi puts political change to the test
+
+
+## 7. After the election: Mississippi math and a White House warning
+`US Headlines` · Covered by 2 outlets
+
+Analysts are looking at how late-counted ballots decided Mississippi's Senate race, and Alaska's contest remains undecided. Separately, the White House counsel sent a letter warning incoming House Democrats that some planned investigations could cross legal lines. Rep. Robert Garcia says Democrats won't be deterred.
+
+**Key facts**
+- White House Counsel Will Scharf wrote to Rep. Robert Garcia, expected to lead House Oversight.
+- NPR's analysis says Black representation in the House is still set to decline after a Supreme Court ruling weakened the Voting Rights Act.
+- The new Congress starts in January.
+
+**Worth knowing:** It previews a likely tug-of-war over congressional oversight next year.
+
+**Read it yourself:**
+- [The Hill](https://thehill.com/homenews/campaign/data-nerds/6215990-alexandria-ocasio-cortez-white-house-bid-senate-run-live-discussion/): Mississippi Senate race: How late ballots sealed the outcome for Democrats
+- [NPR](https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia): Colom wins Mississippi Senate race. And, White House warns Dems over future probes
+
+
+## 8. New prostate cancer screening advice from the American Cancer Society
+`Health & Medicine` · Covered by 2 outlets
+
+The American Cancer Society updated its guideline to directly recommend regular PSA blood-test screening for men. The goal is to catch cancer before it spreads.
+
+**Key facts**
+- Average-risk men aged 50 to 69: PSA screening every two years.
+- Black men and men with a strong family history: yearly screening starting at 45.
+
+**Good to know**
+- This is a screening guideline, not a new treatment.
+- ACS says clinicians should make sure patients understand the potential benefits, limitations and harms before starting screening.
+
+**Worth knowing:** It's a useful nudge to talk with your doctor, or to pass along to the men in your life.
+
+**Read it yourself:**
+- [Medical Xpress](https://medicalxpress.com/news/2026-11-american-cancer-society-prostate-screening.html): American Cancer Society updates prostate cancer screening guideline: Regular PSA testing for average- and high-risk men
+- [The Hill](https://thehill.com/policy/healthcare/6216792-acs-updates-prostate-screening/): American Cancer Society recommends regular prostate cancer testing in updated guidelines
 
 
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_
+_Feeds that failed this run: Jamaica Observer, Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_

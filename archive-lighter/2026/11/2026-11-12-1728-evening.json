@@ -1,0 +1,392 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-12T22:28:51.293380+00:00",
+  "local_time": "Thursday, November 12, 2026 · 5:28 PM EST",
+  "local_date": "Nov 12, 2026",
+  "slug": "2026-11-12-1728-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A big day for business news: Nvidia's Jensen Huang has stepped down after an affair scandal, and 50 Cent jokingly offered him a job. Mississippi elected its first Black U.S. senator in nearly 150 years, the American Cancer Society updated its prostate screening advice, and Charlotte is getting a new nonstop flight to Seattle. Snoop Dogg is also throwing a Christmas party on NBC, with Martha Stewart on the guest list.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia's Jensen Huang steps down as CEO",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Jensen Huang, the founder of chip giant Nvidia and a central figure in the AI boom, resigned on November 12. He had admitted to an affair days earlier, and reports have linked him to a businesswoman whom U.S. intelligence reportedly suspected of ties to Chinese intelligence. CFO Colette Kress is now interim CEO. 50 Cent added some levity with a tongue-in-cheek job offer to run AI at G-Unit.",
+      "key_facts": [
+        "Huang resigned as president, CEO and board member effective immediately on November 12.",
+        "Colette Kress is interim CEO while staying on as CFO, and Harvey C. Jones was named Nvidia's first-ever chairman.",
+        "Independent directors hired former acting U.S. Attorney Joon H. Kim and the law firm Wachtell, Lipton to run an investigation.",
+        "50 Cent's offer came with an AI-generated video and is a joke, not an actual hire."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: Huang admitted in a November 8 note to employees that he was unfaithful to his wife.",
+        "Alleged: The spying claims about businesswoman Alice Huang (no relation) come from New York Times reporting citing unnamed sources. NPR has not independently confirmed them, and China calls them baseless.",
+        "Reported: The New York Times reported a second affair with Nvidia executive Kimberly Powell.",
+        "The board said on November 8 it had no reason to believe national security or company secrets had been compromised."
+      ],
+      "why": "Nvidia makes most of the chips that power AI, so a leadership change there could ripple through the stock market and the tech world.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "50 Cent Offers Jensen Huang An AI Job As Nvidia CEO Resigns",
+          "url": "https://allhiphop.com/news/50-cent-offers-jensen-huang-an-ai-job-as-nvidia-ceo-resigns/",
+          "published": "2026-11-12T17:59:10+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+          "published": "2026-11-12T14:17:20+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+          "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+          "published": "2026-11-12T15:37:35+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warren says Huang’s resignation ‘does not absolve him,’ Nvidia",
+          "url": "https://thehill.com/policy/technology/6216479-warren-jensen-huang-nvidia-resignation/",
+          "published": "2026-11-12T17:02:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "NC lawmaker proposes splitting up Charlotte-Mecklenburg Schools",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "State Rep. David Willis of Union County plans to introduce legislation to break up CMS and allow recall elections for its school board. The proposal follows the firing of Dr. Crystal Hill and several ongoing investigations into the district. Willis himself says a split would likely take years.",
+      "key_facts": [
+        "CMS is North Carolina's second-largest school district.",
+        "Willis wants a study committee to look at how new district lines and funding would work.",
+        "The three at-large board seats are up for election next year, and district seats not until 2029.",
+        "CMS has not commented on the proposal."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you have kids in CMS, this could eventually change how the district is run and when you get to vote on its leaders.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rep who wants to split CMS: Effort would likely take years",
+          "url": "https://www.wsoctv.com/news/local/rep-who-wants-split-cms-effort-would-likely-take-years/76XPIA5INJEJ3FUGIVZ6RLRTPQ/",
+          "published": "2026-11-12T22:06:23+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Could Charlotte-Mecklenburg Schools be broken up?",
+          "url": "https://www.qcnews.com/news/charlotte-mecklenburg-schools/could-charlotte-mecklenburg-schools-be-broken-up/",
+          "published": "2026-11-12T21:49:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Alaska Airlines is coming to Charlotte",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte Douglas International Airport announced that Alaska Airlines will start a daily nonstop flight to Seattle-Tacoma next summer. That gives travelers a second nonstop option to Seattle, alongside American Airlines.",
+      "key_facts": [
+        "The first flight is June 10, 2027.",
+        "It arrives in Charlotte at 4:51 p.m. and departs for Seattle at 5:54 p.m. Eastern.",
+        "The flight takes about six hours.",
+        "Alaska will be the ninth airline at CLT."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "More choice for Charlotte travelers heading to the Pacific Northwest.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "New airline coming to Charlotte airport in 2027: What to know",
+          "url": "https://www.wbtv.com/2026/11/12/new-airline-coming-charlotte-airport-2027-what-know/",
+          "published": "2026-11-12T19:41:36+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alaska Airlines to begin flights between Charlotte and Seattle",
+          "url": "https://www.qcnews.com/charlotte-airport/alaska-airlines-to-begin-flights-between-charlotte-and-seattle/",
+          "published": "2026-11-12T17:59:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Remembering Irma P. Hall, 'Soul Food's' Big Mama Jo",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Actress Irma P. Hall, beloved as Josephine \"Big Mama Jo\" Joseph in 1997's \"Soul Food,\" died in Dallas at 91. She taught high school for 27 years before acting and didn't land a major film role until she was 60. Her family remembered her as an actress, author, poet, educator and speaker.",
+      "key_facts": [
+        "Her \"Soul Food\" role won her an NAACP Image Award, and she reprised it in the TV series.",
+        "Her credits include \"A Family Thing,\" \"Patch Adams,\" \"Beloved\" and \"The Ladykillers.\"",
+        "She co-founded the Dallas Minority Repertory Theatre and joined the Texas Film Hall of Fame in 2005.",
+        "No cause of death was given."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Her story is a lovely reminder that it's never too late to find your calling.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Irma P. Hall, ‘Soul Food,’ ‘The Ladykillers’ actress, dies at 91",
+          "url": "https://www.wsoctv.com/news/trending/irma-p-hall-soul-food-ladykillers-actress-dies-91/D4OHJRG2JJD5ZBQUDMJ444RJOI/",
+          "published": "2026-11-12T18:40:36+00:00"
+        },
+        {
+          "source": "VIBE",
+          "lean": "center",
+          "bucket": "center",
+          "title": "’Soul Food’ Actress Irma P. Hall, Known for “Big Mama Jo” Role, Dead at 91",
+          "url": "https://www.vibe.com/news/national/irma-p-hall-big-mama-role-soul-food-dead-91-1235202732/",
+          "published": "2026-11-12T18:02:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Former NC lawmaker and Mooresville commissioner indicted",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "A Wake County grand jury indicted former state Rep. Jason Saine and former Mooresville commissioner David Coble on felony charges tied to the nonprofit Greater Carolina, Inc. Prosecutors say money raised to promote pro-business policy was used for personal benefit. The investigation began after an ethics complaint over a 2024 bourbon trip to Kentucky.",
+      "key_facts": [
+        "Saine faces four felony charges and is accused of aiding and abetting, not of embezzling himself.",
+        "Coble, the nonprofit's treasurer, faces five felony charges.",
+        "Search warrants tie more than $400,000 in payments to the nonprofit's credit card.",
+        "Saine says he committed no crime and looks forward to clearing his name."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are charges, not convictions. Both men are presumed innocent."
+      ],
+      "why": "The case tests how political nonprofits handle donor money in North Carolina.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Former NC lawmaker and former Mooresville commissioner face embezzlement charges",
+          "url": "https://www.wbtv.com/2026/11/12/former-nc-lawmaker-former-mooresville-commissioner-face-embezzlement-charges/",
+          "published": "2026-11-12T17:23:50+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Former NC lawmaker indicted on embezzlement, other charges in Bourbon Trail probe",
+          "url": "https://www.wcnc.com/article/news/politics/former-nc-lawmaker-indicted-on-embezzlement-other-charges-in-bourbon-trail-probe/275-89b82836-c2ab-4422-bf79-d173d4100119",
+          "published": "2026-11-12T16:36:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Mississippi elects its first Black senator since the 1800s",
+      "topics": [
+        "Health & Medicine",
+        "US Headlines"
+      ],
+      "summary": "Democrat Scott Colom narrowly defeated incumbent Republican Sen. Cindy Hyde-Smith, becoming the first Black person from Mississippi seated in the U.S. Senate since Blanche Bruce in 1881. Hyde-Smith conceded and wished him well. Supporters credited grassroots organizing.",
+      "key_facts": [
+        "Colom won 49.2% to 48.7%, a margin of fewer than 5,000 votes out of nearly a million.",
+        "Colom is 43.",
+        "Democrats will hold 55 Senate seats, with Alaska still uncalled.",
+        "Trump won Mississippi by more than 22 points in 2024."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a historic first for Mississippi, chosen this time directly by voters, and a gracious concession capped it off.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T12:56:55+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom's win in Mississippi puts political change to the test",
+          "url": "https://www.axios.com/2026/11/12/scott-colom-mississippi-senate-black-representation",
+          "published": "2026-11-12T20:47:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "After the election: Mississippi math and a White House warning",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Analysts are looking at how late-counted ballots decided Mississippi's Senate race, and Alaska's contest remains undecided. Separately, the White House counsel sent a letter warning incoming House Democrats that some planned investigations could cross legal lines. Rep. Robert Garcia says Democrats won't be deterred.",
+      "key_facts": [
+        "White House Counsel Will Scharf wrote to Rep. Robert Garcia, expected to lead House Oversight.",
+        "NPR's analysis says Black representation in the House is still set to decline after a Supreme Court ruling weakened the Voting Rights Act.",
+        "The new Congress starts in January."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It previews a likely tug-of-war over congressional oversight next year.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Mississippi Senate race: How late ballots sealed the outcome for Democrats",
+          "url": "https://thehill.com/homenews/campaign/data-nerds/6215990-alexandria-ocasio-cortez-white-house-bid-senate-run-live-discussion/",
+          "published": "2026-11-12T15:36:44+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+          "published": "2026-11-12T12:15:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "New prostate cancer screening advice from the American Cancer Society",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "The American Cancer Society updated its guideline to directly recommend regular PSA blood-test screening for men. The goal is to catch cancer before it spreads.",
+      "key_facts": [
+        "Average-risk men aged 50 to 69: PSA screening every two years.",
+        "Black men and men with a strong family history: yearly screening starting at 45."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "This is a screening guideline, not a new treatment.",
+        "ACS says clinicians should make sure patients understand the potential benefits, limitations and harms before starting screening."
+      ],
+      "why": "It's a useful nudge to talk with your doctor, or to pass along to the men in your life.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Medical Xpress",
+          "lean": "center",
+          "bucket": "center",
+          "title": "American Cancer Society updates prostate cancer screening guideline: Regular PSA testing for average- and high-risk men",
+          "url": "https://medicalxpress.com/news/2026-11-american-cancer-society-prostate-screening.html",
+          "published": "2026-11-12T18:40:10+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "American Cancer Society recommends regular prostate cancer testing in updated guidelines",
+          "url": "https://thehill.com/policy/healthcare/6216792-acs-updates-prostate-screening/",
+          "published": "2026-11-12T18:15:14+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 2,
+    "center": 16,
+    "right": 0
+  },
+  "stats": {
+    "articles": 274,
+    "stories_found": 226,
+    "sources_ok": 22,
+    "sources_total": 26,
+    "failed": [
+      "Jamaica Observer",
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}
