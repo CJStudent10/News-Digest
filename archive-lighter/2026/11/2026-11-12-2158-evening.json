@@ -1,0 +1,384 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-13T02:58:05.064731+00:00",
+  "local_time": "Thursday, November 12, 2026 · 9:58 PM EST",
+  "local_date": "Nov 12, 2026",
+  "slug": "2026-11-12-2158-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A mixed bag today: a Microsoft hiccup gave a lot of office workers an unplanned break from email, Charlotte is getting a new nonstop flight to Seattle, and the Wienermobile is cruising around town. On the bigger stage, a couple of notable election results came in, Nvidia's longtime CEO stepped down amid a scandal, and a long-buried Tupac interview is finally coming out.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Microsoft Outlook and Teams had a rough Thursday",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "A widespread Microsoft outage left many people unable to send or receive email in Outlook, with Teams, Copilot and other Microsoft 365 apps also affected. Microsoft said some servers unexpectedly went offline after failing automated health checks, and it was testing a fix. Charlotte-area workers described error messages and stuck emails, though one said the downtime gave her a chance to catch up on other work.",
+      "key_facts": [
+        "Nearly 130,000 Outlook problem reports hit Downdetector just after 1 p.m. ET on Thursday",
+        "Microsoft said part of its infrastructure was under 'elevated load' and it was rerouting traffic to balance it",
+        "Microsoft said Teams problems in North America had been restored, though some users still reported issues",
+        "Microsoft has not disclosed the root cause or a full restoration timeline"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The exact cause is unknown. A cybersecurity expert said Microsoft hasn't clearly ruled out malicious activity, but that doesn't mean it was a cyberattack."
+      ],
+      "why": "If your inbox acted strange Thursday, it wasn't just you, and it's a good nudge to keep a backup way to reach coworkers.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Local workers feel impact of nationwide Microsoft outage",
+          "url": "https://www.wsoctv.com/news/local/local-workers-feel-impact-nationwide-microsoft-outage/SROCVU5V2VB6XPKOTMO6DZ2VPY/",
+          "published": "2026-11-13T02:41:04+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+          "published": "2026-11-13T01:26:24+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Users report email app Microsoft Outlook is down",
+          "url": "https://www.wbtv.com/2026/11/12/users-report-email-app-microsoft-outlook-is-down/",
+          "published": "2026-11-12T18:52:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Alaska Airlines is coming to Charlotte, with daily flights to Seattle",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte Douglas International Airport announced that Alaska Airlines will start a daily nonstop route to Seattle-Tacoma on June 10, 2027. Alaska will become the ninth airline at the airport, giving travelers another nonstop option to the Pacific Northwest.",
+      "key_facts": [
+        "First flight: June 10, 2027",
+        "The flight arrives in Charlotte at 4:51 p.m. EST and leaves for Seattle at 5:54 p.m. EST",
+        "The trip takes roughly six hours",
+        "American Airlines already flies Charlotte to Seattle nonstop"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "More choice on the Charlotte–Seattle route could mean more convenient times and more options for travelers.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "New airline coming to Charlotte airport in 2027: What to know",
+          "url": "https://www.wbtv.com/2026/11/12/new-airline-coming-charlotte-airport-2027-what-know/",
+          "published": "2026-11-12T19:41:36+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alaska Airlines to begin flights between Charlotte and Seattle",
+          "url": "https://www.qcnews.com/charlotte-airport/alaska-airlines-to-begin-flights-between-charlotte-and-seattle/",
+          "published": "2026-11-12T17:59:22+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alaska Airlines to add daily nonstop flights between CLT and Seattle",
+          "url": "https://www.wcnc.com/article/news/community/transportation/alaska-airlines-to-add-non-stop-flights-to-seattle-charlotte-clt-daily/275-2499bf4c-c644-4904-a9b1-b878a751e5d0",
+          "published": "2026-11-13T00:13:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Nvidia CEO Jensen Huang resigns amid affair scandal",
+      "topics": [],
+      "summary": "Jensen Huang, who has led AI chipmaker Nvidia since 1993, resigned Thursday after reports of extramarital affairs, including one with a woman U.S. intelligence reportedly suspected of being a Chinese spy. Lawmakers are pressing him to brief Congress, and Nvidia's stock value has dropped sharply. Colette Kress is interim CEO while the company searches for a permanent replacement.",
+      "key_facts": [
+        "Nvidia lost about $550 billion in stock market value in five days",
+        "Huang admitted on Sunday to being 'unfaithful' to his wife",
+        "Senators Elizabeth Warren and Chris Coons are among those demanding he brief Congress",
+        "Colette Kress is serving as interim CEO"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: Huang resigned, and he admitted being unfaithful.",
+        "Alleged: the New York Times reported that one affair was with Alice Huang (no relation), a Singapore-based executive suspected of being a Chinese intelligence asset. NPR said it had not independently confirmed this.",
+        "China calls the spying claim a smear, and the U.S. Attorney General said the Justice Department has not reached any conclusions about espionage.",
+        "Reported by U.S. media: a second affair with Nvidia executive Kimberly Powell, who reported to him. Nvidia and Huang's representative declined to comment."
+      ],
+      "why": "Nvidia is one of the most important companies in the AI boom, so who leads it next affects tech, markets and national security debates.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T02:39:00+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+          "published": "2026-11-12T22:45:40+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "11 names to watch in the Jensen Huang succession search",
+          "url": "https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions",
+          "published": "2026-11-12T23:06:30+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Warren says Huang’s resignation ‘does not absolve him,’ Nvidia",
+          "url": "https://thehill.com/policy/technology/6216479-warren-jensen-huang-nvidia-resignation/",
+          "published": "2026-11-12T17:02:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Jamaica's House Speaker tells party faithful to tune out online criticism",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Speaker Juliet Holness told a Jamaica Labour Party constituency conference in West Kingston that negative things said about the party on social media are lies. She pointed to government work like fixing potholes, repairing schools after Hurricane Melissa, and providing water and play areas. Finance Minister Fayval Williams urged members not to share such posts and to check with their MP instead.",
+      "key_facts": [
+        "The remarks came Thursday at Tivoli Gardens High School",
+        "Holness is MP for St Andrew East Rural and Speaker of the House",
+        "Williams told members to delete such posts and call their MP to ask if they're true"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a window into how Jamaica's governing party is rallying supporters as social media shapes political debate.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Anything you hear about the JLP that’s not good is a lie’, says Juliet Holness",
+          "url": "https://www.jamaicaobserver.com/2026/11/12/anything-hear-jlp-thats-not-good-lie-says-juliet-holness/",
+          "published": "2026-11-13T02:46:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Jamaica's Finance Minister praises the Speaker's firm hand in Parliament",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "At the same conference, Finance Minister Fayval Williams said Speaker Juliet Holness has opposition PNP lawmakers 'under heavy manners' and has brought discipline to Parliament. Holness said she simply enforces the standing orders, Parliament's rules. Relations between the Speaker and the opposition have been strained, including a heated confrontation between MPs on November 3.",
+      "key_facts": [
+        "Opposition MPs have accused the Speaker of biased behaviour",
+        "On November 3, opposition MP Mikael Phillips had to be separated from government member Desmond McKenzie; Phillips later apologised for his language",
+        "Holness said the standing orders have stayed largely the same for 64 years"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "How Parliament is run shapes how debates on laws affecting Jamaicans actually play out.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Fayval says House Speaker has PNP MPs ‘under heavy manners’",
+          "url": "https://www.jamaicaobserver.com/2026/11/12/fayval-says-house-speaker-pnp-mps-heavy-manners/",
+          "published": "2026-11-13T02:42:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Democrat Cindy Holscher wins the Kansas governor's race",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "State Sen. Cindy Holscher defeated Republican state Senate President Ty Masterson, who was endorsed by President Trump, to keep the Kansas governor's office in Democratic hands. Kansas had been seen as the governorship most likely to flip parties this year. Holscher campaigned on supporting public schools, opposing school vouchers, pausing new data centers and legalizing cannabis to raise state revenue.",
+      "key_facts": [
+        "Holscher succeeds term-limited Gov. Laura Kelly, who served eight years",
+        "Masterson campaigned on lower property taxes and being pro-agriculture and pro-business",
+        "Both candidates are 57"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "The result shapes Kansas policy on schools, taxes and cannabis for the next four years.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Cindy Holscher wins Kansas governor’s mansion, keeping it in Democrats’ hands",
+          "url": "https://thehill.com/homenews/campaign/6190120-cindy-holscher-kansas-governor-race/",
+          "published": "2026-11-12T20:04:59+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+          "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+          "published": "2026-11-12T23:36:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Angie Martinez's long-unheard Tupac interview is coming to Netflix",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "In 1996, radio host Angie Martinez recorded a long interview with Tupac Shakur at his home but aired only parts of it, worried some remarks could hurt people or inflame an already tense rap rivalry. Thirty years later, she's sharing the full conversation in a four-part Netflix podcast series, with hip-hop voices adding context. Martinez says she hopes listeners come away with more empathy for the real people behind the headlines.",
+      "key_facts": [
+        "'The Tupac Tapes' premieres November 27 on Netflix",
+        "Guests include RZA, Charlamagne tha God, Joe Budden, Big Boy and Dream Hampton",
+        "The interview was one of Tupac's last; he died a few months later at age 25"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a rare piece of music history, shared thoughtfully and with context.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "VIBE",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Angie Martinez’s Unaired Tupac Shakur Interview Set for Release After 30 Years",
+          "url": "https://www.vibe.com/news/movies-tv/lost-tupac-shakur-interview-netflix-1235202735/",
+          "published": "2026-11-12T15:28:52+00:00"
+        },
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Angie Martinez Explains Why Tupac's Unheard Interview Stayed Locked Away",
+          "url": "https://allhiphop.com/news/angie-martinez-tupac-tapes-netflix-withheld-interview/",
+          "published": "2026-11-12T22:30:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Mississippi elects its first Black U.S. senator in about 150 years",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "Democrat Scott Colom defeated incumbent Sen. Cindy Hyde-Smith in a close race. He'll be Mississippi's third Black senator ever, following Hiram Revels and Blanche Bruce, who served during Reconstruction. Strong turnout from young voters and Black voters was a big factor, and some students at Jackson State University cast their first-ever votes for him.",
+      "key_facts": [
+        "Mississippi last sent a Democrat to the U.S. Senate in 1982",
+        "Hiram Revels (1870–71) was the first Black person to serve in the Senate",
+        "Blanche Bruce (1875–81), born into slavery, was the first Black senator to serve a full term",
+        "Mississippi has the largest share of Black residents of any U.S. state"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a historic milestone, and first-time voters helped make it happen.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T14:12:55+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scott Colom's win in Mississippi puts political change to the test",
+          "url": "https://www.axios.com/2026/11/12/scott-colom-mississippi-senate-black-representation",
+          "published": "2026-11-12T20:47:56+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 3,
+    "center": 15,
+    "right": 0
+  },
+  "stats": {
+    "articles": 303,
+    "stories_found": 255,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

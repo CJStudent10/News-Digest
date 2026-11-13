@@ -1,287 +1,285 @@
 # My Daily Brief: Evening edition
-_Thursday, November 12, 2026 · 5:27 PM EST · 550 articles from 39 outlets · summaries by Claude_
+_Thursday, November 12, 2026 · 9:56 PM EST · 571 articles from 39 outlets · summaries by Claude_
 
-> Nvidia co-founder Jensen Huang resigned as CEO after reports of extramarital affairs, including one with a woman US authorities suspect of spying for China, and President Trump suggested Apple's Tim Cook as his replacement. Trump also said the US no longer needs a deal with Iran and redirected Vice President Vance toward Democratic-run states, while US envoys met Putin and Zelenskyy after Ukraine talks in Abu Dhabi. Other stories include a global Microsoft 365 outage, a deadly building collapse in Brooklyn, oil price moves, and local and Korean news.
+> This edition is dominated by Nvidia CEO Jensen Huang's resignation over reported affairs, including one with a woman US authorities suspect of spying for China, along with the questions that follow about his successor, chip exports and national security. Also covered: a long Microsoft 365 outage, a narrow Democratic win in the Kansas governor's race, a challenge to Chuck Schumer's Senate leadership, US seizures tied to North Korea's Binance hack, and Korean and Charlotte-area local news.
 
 
-**Sources linked in this edition:** 12 left · 23 center · 7 right
+**Sources linked in this edition:** 8 left · 22 center · 12 right
 
 ---
 
-## 1. Jensen Huang resigns as Nvidia CEO after affair reports; CFO Colette Kress named interim chief
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 19 outlets (L 6 · C 10 · R 3)
+## 1. Jensen Huang resigns as Nvidia CEO after reported affairs, including one with suspected Chinese spy
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 17 outlets (L 5 · C 9 · R 3)
 
-Jensen Huang, who co-founded Nvidia in 1993 and led it since, resigned as president, CEO and board member effective immediately on Thursday. The resignation followed reports of affairs, including one with Alice Huang, a former Megaspeed executive whom US authorities suspect of spying for China, and another with Kimberly Powell, a vice president who reported directly to him. Reuters later reported a third relationship with another employee. CFO Colette Kress is interim CEO and director Harvey Jones becomes board chair while the board searches internally and externally for a permanent successor. Nvidia says it has no reason to believe national security or confidential information was compromised, China denies the spying allegation, and earnings are still due on Nov. 17.
+Jensen Huang, who co-founded Nvidia in 1993 and led it for 33 years, resigned Thursday as president, CEO and board member, effective immediately. His exit followed reports of extramarital affairs, including one with Alice Huang, a former executive at Singapore-based Megaspeed International whom US authorities suspect of spying for China, and one with a direct report. CFO Colette Kress is interim CEO, and longtime director Harvey Jones becomes the board's first chair. On Sunday the board had expressed confidence in Huang while opening an independent investigation into whether national security or company secrets were compromised. The case has prompted calls in Congress for tighter chip export controls and for answers from Huang, Nvidia and the Trump administration.
 
 **Key facts**
-- Huang resigned effective immediately on Thursday, ending a 33-year tenure; Kress, CFO since 2013, is interim CEO.
-- Harvey Jones, former Synopsys CEO, was named Nvidia's first board chair.
-- Shares fell about 13% at the open and closed down 4.3% on Thursday, per The Guardian; it put the day's loss at more than $180bn and the week's at around $490bn.
-- Law firm Wachtell, Lipton, Rosen & Katz is conducting the board's independent investigation into the Alice Huang relationship.
-- Nvidia's Q3 fiscal 2027 earnings release remains scheduled for Nov. 17.
+- Huang, 63, stepped down Thursday; Colette Kress, CFO since 2013, is interim CEO and keeps her finance role.
+- Nvidia shares fell more than 10% in US premarket trading Thursday.
+- Nvidia says it has no reason to believe national security or its confidential information was compromised; China denies Alice Huang was a spy.
+- House Speaker Mike Johnson cited a 'developing consensus in Congress' on limiting chip exports to China.
+- Nvidia says its quarterly earnings report will go ahead as scheduled on Nov. 17.
 
 **How it's being framed**
-- **Left:** The Guardian gave a detailed timeline, noted that the board's statement left out the scandal, and covered market losses, Trump's Tim Cook post and the Reuters report of a third affair. The Verge collected reactions from tech leaders such as Musk, Tim Sweeney and David Heinemeier Hansson, many of whom called the resignation a rushed overreaction.
-- **Center:** The Korea Herald and Axios focused on business continuity and Huang's importance to the AI boom. Axios cited Wall Street sources who said his exit could threaten an 'AI bubble' and predicted continued congressional scrutiny. The Korea Herald pointed to the impact on Korean suppliers Samsung and SK hynix.
-- **Right:** Fox Business led with Musk saying it would be 'an honor' to hire Huang, and covered analyst downgrades, Megaspeed's statement on export-control compliance and China's denial. Reason's podcast treated the episode as Huang being 'honeypotted' by a suspected spy.
+- **Left:** The Guardian and PBS focused on national security and accountability. They quoted Democrats Chuck Schumer, who asked what President Trump knew when he invited Huang aboard Air Force One, and Hakeem Jeffries, who is demanding a classified briefing. They also covered bipartisan pressure for chip export curbs. PBS guest Dmitri Alperovitch argued the larger issue is possible illegal chip smuggling to China, not Huang's private life.
+- **Center:** The Korea Herald and Axios took a corporate-governance and business angle: the board's reversal, the succession search, the share drop, reassurances about operations, and what it means for Nvidia's Korean suppliers Samsung and SK hynix.
+- **Right:** Fox Business framed it mainly as an investor story, quoting analysts who called Kress a 'steady hand' while warning that losing Huang's vision and dealmaking is a major risk. Reason's podcast treated it more lightly, describing Huang as having been 'honeypotted.'
 
 **Disputed or unclear**
-- Whether Alice Huang is a Chinese intelligence asset: US authorities suspect it, and China calls the accusation 'slander.'
-- Whether any company secrets or national security information were compromised; Nvidia says it has no reason to believe so.
-- The identity and details of the third alleged relationship reported by Reuters.
-- Who will become permanent CEO.
+- Whether Alice Huang was in fact a spy, and whether any Nvidia secrets were compromised, has not been established.
+- Accounts differ on who first reported the relationship with an Nvidia employee and when: the Korea Herald cites a New York Times report on Wednesday, while Reason cites a Reuters report after the resignation.
+- Fox Business described Huang's exit as a board 'ouster'; other outlets called it a resignation.
+- Reports that Huang will testify before Congress are still developing (see s2).
 
-**Why it matters:** Nvidia supplies most of the chips behind the AI boom, so a sudden leadership change touches markets, AI investment and US-China tech security.
+**Why it matters:** Nvidia makes the chips behind the AI boom, so its leadership and any security breach affect markets, US-China tech policy and the wider AI industry.
 
 **Read it yourself:**
 - [The Korea Herald](https://www.koreaherald.com/article/10935644) (center): Nvidia's Jensen Huang resigns as CEO amid spy scandal, CFO Kress takes over
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns) (lean-left): Jensen Huang resigns as Nvidia CEO after alleged affairs
-- [Fox Business](https://www.foxbusiness.com/fox-news-tech/musk-says-honor-hire-nvidias-embatteled-jensen-huang) (lean-right): Musk says it would be 'an honor' to hire Nvidia's embattled Jensen Huang
-- [Axios](https://www.axios.com/2026/11/12/nvidia-jensen-huang-out) (center): Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO
-- [The Verge](https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions) (lean-left): ‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation
+- [The Guardian (World)](https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates) (lean-left): Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live
+- [Fox Business](https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns) (lean-right): Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns
+- [Axios](https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions) (center): 11 names to watch in the Jensen Huang succession search
+- [PBS NewsHour](https://www.pbs.org/newshour/show/what-huangs-resignation-mean-for-chipmakers-ai-and-u-s-national-security) (lean-left): What Huang's resignation mean for chipmakers, AI and U.S. national security
 - [Reason](https://reason.com/podcast/2026/11/12/jensen-huang-russell-brand-and-left-libertarians/) (lean-right): Jensen Huang, Russell Brand, and Left Libertarians
 
 
-## 2. Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide
-`AI & Cybersecurity` · Covered by 8 outlets (L 3 · C 5 · R 0)
+## 2. Trump suggests Tim Cook should succeed Huang as Nvidia CEO
+`AI & Cybersecurity` `US Headlines` `Asia Business & Politics` · Covered by 6 outlets (L 1 · C 3 · R 2)
 
-A widespread outage on Thursday stopped many users worldwide from reaching Microsoft 365 services, including Outlook, Teams, SharePoint, OneDrive and Copilot. Microsoft first cited elevated infrastructure load, then said the load came from many servers unexpectedly becoming unavailable after failing automated health checks, not from more traffic. The company paused deployments, redistributed traffic, restarted servers and tested an alternative health-check method. It said configuration updates were a potential cause still under investigation, and by Thursday evening servers were beginning to return to service.
-
-**Key facts**
-- Downdetector logged nearly 130,000 Outlook problem reports just after 1 p.m. ET.
-- Microsoft says the incident (MO1550821) began at 1:26 p.m. ET and could affect users in any region.
-- A separate Teams outage in the Americas earlier Thursday ran from 9:45 to 10:53 a.m. ET.
-- DW reported that Microsoft 365 connectors used by OpenAI and Anthropic were also affected.
-
-**How it's being framed**
-- **Left:** The Guardian, The Verge and Al Jazeera tracked Microsoft's status updates step by step. The Guardian added an RMIT engineering professor who described a 'cascading' failure from misconfiguration and urged better testing and backup plans.
-- **Center:** BleepingComputer gave the most technical detail, including incident IDs and the earlier Teams outage. DW and WSOC focused on the scale of user reports and the effects on users.
-
-**Disputed or unclear**
-- The root cause: Microsoft named configuration updates as a potential cause but had not confirmed it.
-- Whether the earlier Teams incident is related to the later outage.
-- When full service will be restored.
-
-**Why it matters:** Many businesses depend on Microsoft 365, so outages like this show the risk of relying on a single cloud provider.
-
-**Read it yourself:**
-- [BleepingComputer](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/) (center): Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports) (lean-left): Global Microsoft outage affects Outlook and Teams users, with company ‘restarting’ servers
-- [Deutsche Welle](https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611?maca=en-rss-en-all-1573-rdf) (center): Microsoft reports mass outages in US, impacting customer accessibility
-- [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down) (lean-left): Microsoft Outlook is down
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/is-outlook-down-widespread-outage-hits-microsoft-apps/TVFG4OYJB5HRJIH66CM4WAQUQI/) (center): Is Outlook down? Widespread outage hits Microsoft apps
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users) (lean-left): Microsoft outage hits tens of thousands of users
-
-
-## 3. Trump says US doesn't need an Iran deal and redirects Vance to Democratic-run states
-`US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
-
-In a Truth Social post on Thursday, President Trump wrote that 'we don't need a deal with Iran,' saying the US has Iran's money and 'their Strait.' He told Vice President JD Vance, who had been leading efforts to restart negotiations, to give his 'complete and total attention' to what Trump called corruption and crime in Democratic-run cities and states. The post came about a week after large Republican midterm losses, which Vance has attributed to the war that the US and Israel began in February. Stocks fell and oil prices rose after the post.
+Shortly after Huang resigned, President Trump wrote on Truth Social that 'there is only one man' to replace him: Apple executive chairman and former CEO Tim Cook, adding 'A Legend replaces a Legend!' On a podcast, Trump repeated the idea and said Huang called him and is 'going through hell.' He said whether Huang should have resigned depends on whether the woman was a spy, which he said he did not know had been determined. There is no indication Cook is interested, and Nvidia's board says it will consider internal and external candidates.
 
 **Key facts**
-- Trump wrote: 'We don't need a deal with Iran. Those days have long since passed.'
-- He named Minnesota, California and Illinois as 'poorly run, corrupt disasters.'
-- The war began in late February and is in its ninth month; major strikes have largely stopped for several months.
-- Vance said after the midterms: 'The reason we lost is the war.'
+- Trump posted on Truth Social Thursday: 'there is only one man to take his place - TIM COOK of Apple.'
+- Cook stepped down as Apple CEO on Sept. 1, 2026, and became executive chairman; John Ternus is Apple's CEO.
+- Yale's Jeffrey Sonnenfeld had separately suggested Cook as a candidate in a Time op-ed.
+- Trump said Monday he believed Huang's account that he did not know of the woman's alleged intelligence ties.
 
 **How it's being framed**
-- **Left:** The Guardian described the move as normalising a stalemate and sidelining Vance from the main foreign policy issue of his vice presidency. It detailed his contacts with mediators in Qatar and Pakistan and his statement blaming the war for the midterm losses.
-- **Center:** CNBC and Axios connected the post to the midterm defeat, the war's unpopularity and market reactions. CNBC described it as an attempt to 'flip the script' on corruption, an issue that favoured Democrats in the election.
-- **Right:** The Daily Caller presented the move as a reassignment to fighting fraud. It highlighted Vance's existing fraud task force and its reported findings in several states, and linked to a White House official's criticism of 'establishment ghouls' blaming Vance's peace efforts.
+- **Left:** The Verge quoted Trump's podcast remarks at length, including his sympathy for Huang. It noted Cook's close relationship with Trump, citing a gold statue Cook gave him and a Trump post about Apple's head calling to 'kiss my ass.'
+- **Center:** TechCrunch, Axios and The Hill reported the suggestion with some skepticism. Axios said it was unclear whether Trump was joking and noted he did not address the controversy. TechCrunch added Sonnenfeld's similar view.
+- **Right:** Fox Business reported the endorsement straight and stressed that no evidence has publicly shown Huang disclosed secrets. The Daily Caller added harder claims: a DOJ probe of Alice Huang over Super Micro smuggling (via a social media post citing Bloomberg), an allegation that she helped move more than $7.5 billion in Nvidia chips to China, and that Huang agreed to testify before the House Foreign Affairs Committee before Thanksgiving.
 
 **Disputed or unclear**
-- Trump's claims of billions of dollars stolen monthly in blue states, and that the budget could be balanced by stopping it, are his assertions and were not verified in the articles.
-- Whether diplomatic contacts with Iran will continue through Kushner and Witkoff.
-- Whether the US 'has' the Strait, given reports of shipping being hit.
+- Whether Trump's suggestion was serious, and whether Cook has any interest.
+- The Daily Caller's claims about $7.5 billion in chips moved to China and a DOJ probe were not reported by other outlets here.
+- Huang's congressional testimony: The Guardian says he is 'expected' to testify; the Daily Caller says he agreed to appear before Thanksgiving.
+- Nvidia's market value: TechCrunch puts it at about $3.8 trillion; the Daily Caller says it fell below $4 trillion.
 
-**Why it matters:** Dropping the push for a deal could prolong the war and keep energy prices high.
-
-**Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html) (center): Trump says ‘we don’t need a deal with Iran’
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war) (lean-left): Trump says no deal needed on Iran war and orders Vance to focus on domestic issues
-- [The Daily Caller](https://dailycaller.com/2026/11/12/trump-vance-iran-peace-deal-corruption-blue-states-midterms) (right): Trump Pulls Vance From Iran Negotiations, Orders Him To Focus On Blue State Corruption
-- [Axios](https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran) (center): Trump orders Vance to focus on "corruption" in Democrat-run areas, not Iran
-- [The Hill](https://thehill.com/homenews/administration/6215680-donald-trump-jd-vance-corruption-fraud-democratic-cities-states-iran-war/) (center): Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states
-
-
-## 4. Trump suggests Apple's Tim Cook as Nvidia's next CEO
-`AI & Cybersecurity` `US Headlines` `Asia Business & Politics` · Covered by 5 outlets (L 0 · C 3 · R 2)
-
-After Jensen Huang's resignation, President Trump posted that 'there is only one man' to replace him, Apple executive chair Tim Cook, adding 'A Legend replaces a Legend!' Cook stepped down as Apple CEO on Sept. 1 and remains executive chairman. Trump did not say whether Cook was interested, and some outlets were unsure whether he was serious. Yale's Jeffrey Sonnenfeld had separately named Cook as a possible candidate.
-
-**Key facts**
-- Trump called Huang someone 'who has done a fantastic job.'
-- Cook led Apple from 2011 to 2026; John Ternus is now Apple's CEO.
-- Nvidia's board is considering both internal and external candidates.
-- Trump had defended Huang on Monday, saying he believed Huang did not know of the woman's alleged intelligence ties.
-
-**How it's being framed**
-- **Center:** TechCrunch and Axios treated the endorsement with some scepticism, questioning whether Trump meant it as a joke. They noted he did not address the scandal and cited Sonnenfeld's similar suggestion.
-- **Right:** Fox Business and the Daily Caller reported the endorsement straightforwardly. The Daily Caller added Trump's ties to Cook, Apple's $500 billion US investment, a Bloomberg report via social media of a DOJ probe into Alice Huang, and an allegation that she helped move $7.5 billion in chips to China. Fox noted that no evidence has been publicly established that secrets were obtained.
-
-**Disputed or unclear**
-- Whether Cook has any interest in the role.
-- The Daily Caller's claim that Alice Huang used the relationship to move more than $7.5 billion in Nvidia chips to China is unverified in the other coverage.
-- The reported DOJ probe into Alice Huang over Super Micro products was cited from a social media post of a Bloomberg report.
-
-**Why it matters:** Presidential involvement in a private company's succession is unusual and may affect how Nvidia's board approaches the search.
+**Why it matters:** A president publicly weighing in on a private company's CEO pick is unusual and adds political pressure to Nvidia's succession.
 
 **Read it yourself:**
 - [TechCrunch (AI)](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/) (center): Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
+- [The Verge](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang) (lean-left): Donald Trump really wants Tim Cook to run Nvidia
 - [Fox Business](https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement) (lean-right): Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO
 - [Axios](https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple) (center): Trump pitches Apple's Tim Cook as new Nvidia CEO
 - [The Daily Caller](https://dailycaller.com/2026/11/12/donald-trump-replacements-nvidia-ceo-jensen-huang-apple-chairman-tim-cook-ceo) (right): Trump: ‘There’s Only One Man’ To Replace Ousted Nvidia CEO
 - [The Hill](https://thehill.com/policy/technology/6216293-trump-suggests-tim-cook-nvidia/) (center): Trump calls for Tim Cook to replace Jensen Huang at Nvidia
 
 
-## 5. US envoys meet Putin, then Zelenskyy, after Abu Dhabi talks end without a ceasefire
-`US Headlines` · Covered by 6 outlets (L 4 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 3. Microsoft 365 outage disrupts Outlook, Teams and other services for hours
+· Covered by 10 outlets (L 4 · C 5 · R 1)
 
-Two days of US-mediated talks between Russia and Ukraine in Abu Dhabi ended Wednesday without a ceasefire but with agreement on a large prisoner exchange, the exact numbers still to be set. Envoys Jared Kushner and Steve Witkoff then met Vladimir Putin in Moscow for about two hours. Putin kept his territorial demands for four annexed regions and said any European troops in Ukraine would be legitimate targets. Witkoff said Europeans would join the next round of talks, and the envoys went on to Dublin to brief Zelenskyy at a European Political Community summit. Zelenskyy separately said Ukraine faces 'systematic' restrictions on SpaceX's Starshield service.
-
-**Key facts**
-- The Abu Dhabi talks were the first direct Russia-Ukraine talks in nine months.
-- Russia said a prisoner exchange could happen within two to three weeks.
-- Putin said European troops in Ukraine would mean 'the war would resume immediately.'
-- More than 40 European leaders met in Dublin; the EU has not named a single negotiator.
-
-**How it's being framed**
-- **Left:** The Guardian, NPR, PBS (AP) and Al Jazeera emphasised Putin's hard line, European unease about Russia reframing the talks as a discussion of European security, and Kaja Kallas's objections. PBS noted Trump's past moves that dismayed Kyiv, and Al Jazeera focused on hybrid attacks across Europe.
-- **Center:** DW stressed the humanitarian outcome and quoted Ukrainian experts who were sceptical that the upbeat official statements reflect real progress. The BBC highlighted the Starlink/Starshield disruption and Putin's proposed local humanitarian truce.
-
-**Disputed or unclear**
-- Who ordered the Starshield restrictions, and why, remains unclear.
-- Whether Europe will appoint a single representative.
-- Final numbers for the prisoner exchange.
-- Whether a deal is possible by year-end: Ukrainian negotiators are hopeful, while experts are doubtful.
-
-**Why it matters:** These talks are the most active diplomacy in months on a war approaching its fifth year, with consequences for European security.
-
-**Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf) (center): What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink) (lean-left): Putin takes hard line in US talks as Ukraine says Starlink disrupted again
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss) (center): US envoys meet Zelensky in Dublin after talks with Putin in Moscow
-- [NPR](https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks) (lean-left): U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi
-- [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy) (lean-left): U.S. envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks) (lean-left): Regional security dominates European talks in Dublin amid hybrid attacks
-
-
-## 6. Brooklyn building collapse kills eight; city records show earlier inspection concerns
-· Covered by 7 outlets (L 3 · C 2 · R 2)
-
-A three-story 1930s apartment building in Flatbush, Brooklyn, collapsed into a neighbouring excavation site shortly after 4 p.m. Wednesday, killing eight people, including two children and two construction workers. Mayor Zohran Mamdani said 18 people were injured, including four firefighters. The FDNY finished searching the site Thursday afternoon and handed it to police and the Department of Buildings. The city has opened an investigation and is inspecting about 100 sites linked to the same five entities. Newsweek reported that a March pre-construction inspection rated the building's north wall 'poor' with visible cracks.
+A Microsoft 365 outage on Thursday afternoon cut off access to Outlook and Exchange Online for many users and also affected Teams, SharePoint, Copilot and other services. Microsoft said a number of servers had become unexpectedly unavailable, overloading the rest of its infrastructure. It paused deployments, rerouted traffic and restarted servers. By evening it reported only limited recovery and was weighing whether to roll back recent configuration updates, with no estimate for full restoration. The outage also broke Microsoft connectors used by OpenAI and Anthropic.
 
 **Key facts**
-- 8 dead: 6 found at the scene and 2 who died in hospital.
-- About 250 first responders worked the site, and a pregnant woman was rescued from the rubble.
-- The DOB issued a stop-work order at the adjacent site on March 20; work resumed in violation of it and was allowed to continue on May 8.
-- The cause has not been determined.
+- Downdetector logged nearly 130,000 Outlook reports at the peak around 1 p.m. ET.
+- Microsoft says the incident began at 1:26 p.m. ET; a separate Teams outage earlier that day (9:45 to 10:53 a.m. ET) was resolved.
+- A Microsoft spokesperson said the company had 'no indication of a cyber-attack.'
+- The disruption lasted more than five hours, with only partial recovery reported by about 6 p.m. ET.
 
 **How it's being framed**
-- **Left:** The Guardian and NPR focused on the rescue operation, the human toll and officials' statements, with NPR presenting a photo essay.
-- **Center:** The BBC centred residents' grief and the area's immigrant community. Newsweek examined permit and inspection records pointing to earlier warnings about the building's condition.
-- **Right:** The Daily Caller and Washington Examiner covered the death toll and rescue work. The Daily Caller profiled Jose Luis Caguana, an Ecuadorian worker who was killed.
+- **Left:** The Guardian and The Verge followed Microsoft's technical updates closely. The Guardian quoted RMIT's Mark Gregory, who described a 'cascading problem' likely caused by a network misconfiguration and urged better testing and backup plans. It also noted a separate Azure outage last month.
+- **Center:** BleepingComputer and DW gave detailed technical timelines. WSOC centered on Charlotte workers who could not send email, and quoted an expert who said Microsoft had not clearly ruled out malicious activity, though that does not mean an attack occurred.
+- **Right:** The Washington Examiner gave a brief factual account focused on the number of affected users.
 
 **Disputed or unclear**
-- The cause of the collapse.
-- Injury counts differ slightly between reports (17 vs 18).
-- The developers and the engineer had not responded to Newsweek.
+- The root cause is not confirmed. Microsoft cited unavailable servers and possibly recent configuration changes; an outside expert suggested a network-layer misconfiguration.
+- Start times differ: around noon (WSOC), just before 1 p.m. (The Verge), and 1:26 p.m. ET (Microsoft).
+- Whether the earlier Teams incident is related is unknown.
+- DW described the outage as mainly in the US; others said users in any region could be affected.
 
-**Why it matters:** The collapse raises questions about how construction next to older buildings is overseen in New York City.
+**Why it matters:** Huge numbers of businesses depend on Microsoft's cloud tools, so outages like this can halt everyday work.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss) (center): 'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc) (lean-left): Brooklyn building collapse kills at least two children and six adults, injuring 18
-- [The Daily Caller](https://dailycaller.com/2026/11/12/building-collapse-leaves-eight-dead-first-responders-scrambling-rescue-survivors) (right): Building Collapse Leaves 8 Dead, First Responders Scrambling To Rescue Survivors
-- [Newsweek](https://www.newsweek.com/new-york-building-collapse-planning-documents-raised-concerns-12706294) (center): New York Building Collapse: Planning Docs Raised Concerns Ahead of Tragedy
-- [NPR](https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos) (lean-left): Casualties continue to rise after Brooklyn building collapses
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4802076/brooklyn-apartment-building-collapse-nyc-conclusion-of-rescue-operations/) (lean-right): Eight dead, including two children, in Brooklyn apartment collapse
+- [BleepingComputer](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/) (center): Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports) (lean-left): Microsoft begins restoring services as global outage affects Outlook and Teams
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4802243/microsoft-outlook-outage-impact/) (lean-right): Outage hits Microsoft Outlook, impacting more than 120,000 users
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/local-workers-feel-impact-nationwide-microsoft-outage/SROCVU5V2VB6XPKOTMO6DZ2VPY/) (center): Local workers feel impact of nationwide Microsoft outage
+- [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down) (lean-left): Microsoft Outlook is still down
+- [Deutsche Welle](https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611?maca=en-rss-en-all-1573-rdf) (center): Microsoft reports mass outages in US, impacting customer accessibility
 
 
-## 7. Oil rises after Trump's Iran comments; South Korean import prices fall
-`US Headlines` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 4. Who is Colette Kress, Nvidia's interim CEO
+`AI & Cybersecurity` · Covered by 5 outlets (L 0 · C 4 · R 1)
 
-Oil prices rose Thursday after President Trump said the US did not need a deal with Iran, raising doubts that the war would end soon. Brent rose 1.9% to $94.48, though both benchmarks remain sharply down for November. Analysts quoted by CNBC said markets may have priced in peace too early and warned that renewed Iranian attacks on shipping could push prices higher. Separately, the Bank of Korea said October import prices fell 1.8% on a stronger won and lower oil prices.
+Colette Kress, Nvidia's CFO since 2013, is now interim CEO while the board searches for Huang's permanent successor. In emails to staff, Kress thanked employees for their resilience during an 'extraordinarily difficult period' and announced a company meeting on Nov. 18. Board chair Harvey Jones said the board has 'full confidence' in her. Analysts see her as a familiar, trusted figure, though some doubt she would get the job permanently, and names floated as successors include Chris Malachowsky, Ian Buck, Tim Cook and Arm's Rene Haas.
 
 **Key facts**
-- WTI rose 2% to $88.19.
-- WTI is down 16% and Brent down 20% in November.
-- South Korea's import price index fell 1.8% month-on-month in October, while export prices rose 0.7%.
+- Kress is 59 and previously worked at Texas Instruments, Microsoft (1997 to 2010) and Cisco.
+- Forbes estimates her net worth at about $1.2 billion.
+- Nvidia's revenue grew from $4.13 billion in the fiscal year she joined to $215.9 billion in fiscal 2026.
+- An all-company meeting is set for Nov. 18 at 9 a.m. PT.
 
 **How it's being framed**
-- **Center:** CNBC framed the rise through market analysts' views on the security premium and the blockade. Yonhap reported the Korean data in a straightforward, data-driven way.
+- **Center:** CNBC published the internal staff emails in full. BBC and TechCrunch profiled Kress and surveyed possible successors, citing analysts who suggest the company may eventually want an engineer as CEO.
+- **Right:** Fox Business focused on her personal fortune and career path. It noted that Nvidia's at-will employment means executives can be fired without pre-negotiated severance, and referred to the board's 'ouster' of Huang.
 
 **Disputed or unclear**
-- Whether Iran will respond with further attacks on shipping.
+- Who will become permanent CEO, and whether Kress is a serious candidate for the role.
 
-**Why it matters:** Energy prices affect inflation and household costs worldwide.
+**Why it matters:** Kress's first test comes with the Nov. 17 earnings report, when investors will judge Nvidia's stability without Huang.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html) (center): Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261112010000320) (center): Import prices fall again in Oct. on stronger S. Korean won, lower oil prices
+- [CNBC](https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html) (center): Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees
+- [Fox Business](https://www.foxbusiness.com/technology/meet-nvidias-new-interim-ceo-fortune-rise-colette-kress) (lean-right): Meet Nvidia’s new interim CEO: The fortune and rise of Colette Kress
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss) (center): Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/) (center): Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?
+- [The Hill](https://thehill.com/policy/technology/6216664-nvidia-interim-ceo-colette-kress-jensen-huang-resignation-affairs/) (center): Who is interim Nvidia CEO Colette Kress?
 
 
-## 8. South Carolina regulators monitor Silfab Solar as it resumes equipment testing
+## 5. Democrat Cindy Holscher wins Kansas governor's race
+`US Headlines` · Covered by 5 outlets (L 2 · C 1 · R 2)
+
+Democratic state Sen. Cindy Holscher defeated Republican Kansas Senate President Ty Masterson, who was endorsed by Trump, to succeed term-limited Democratic Gov. Laura Kelly. The Associated Press called the race Thursday, two days after Election Day. Holscher campaigned on a moratorium on new AI data centers, support for public schools over vouchers, and legalizing cannabis. Masterson focused on property tax cuts. He conceded, and he will return to the GOP-controlled state Senate.
+
+**Key facts**
+- The Washington Examiner reported Holscher leading 50.3% to 49.7% when AP called the race.
+- Trump won Kansas by 16 points in 2024.
+- PBS/AP reported the Republican Governors Association spent $19 million on ads, and Republicans outspent Democrats more than 3 to 1 overall.
+- It is the third straight Kansas governor's race won by a Democrat.
+
+**How it's being framed**
+- **Left:** PBS/AP and NPR framed the win as part of a national Democratic wave, alongside other Kansas Democratic victories for US Senate and attorney general. They highlighted her populist and data-center messaging and how heavily Republicans outspent her.
+- **Center:** The Hill described it as denying Republicans one of their best pickup chances this year.
+- **Right:** Fox News stressed that Democrats keep winning Kansas governor's races despite the state's Republican lean. It noted scrutiny of Holscher's 2023 posts suggesting Jesus could have been transgender, and highlighted Masterson's concession and continued GOP control of the legislature.
+
+**Why it matters:** A Democratic win in a strongly Republican state, by a candidate who ran against AI data centers, is a sign of the national political mood after the midterms.
+
+**Read it yourself:**
+- [The Hill](https://thehill.com/homenews/campaign/6190120-cindy-holscher-kansas-governor-race/) (center): Cindy Holscher wins Kansas governor’s mansion, keeping it in Democrats’ hands
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories) (lean-left): Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories
+- [Fox News](https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion) (right): Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion
+- [NPR](https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson) (lean-left): Cindy Holscher wins in Kansas, holding governor's office for Democrats
+- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/state/4788590/cindy-holscher-2026-kansas-governor-race/) (lean-right): Democrat Cindy Holscher elected next governor of Kansas
+
+
+## 6. Van Hollen to challenge Schumer for Senate Democratic leader
+`US Headlines` · Covered by 4 outlets (L 1 · C 1 · R 2)
+
+Sen. Chris Van Hollen (D-Md.) announced Thursday that he will challenge Chuck Schumer for majority leader when Democrats take control of the Senate in January. Van Hollen said voters called for change and that the party needs 'new leadership.' Schumer replied within a minute that he has the votes to remain leader, pointing to '55 seats and counting.' Senate Democrats will choose their leader by secret ballot on Dec. 1.
+
+**Key facts**
+- The leadership vote is a secret ballot on Dec. 1.
+- Schumer, 75, has led Senate Democrats since 2017; Van Hollen, 67, has been in Congress since 2003.
+- Senator-elect Abdul El-Sayed of Michigan endorsed Van Hollen.
+
+**How it's being framed**
+- **Left:** The Guardian framed the race as progressive versus centrist and as a choice about how forcefully to confront Trump. It pointed to Van Hollen's 2025 trip to El Salvador over a wrongly deported constituent, and covered El-Sayed's endorsement and his primary win over Schumer's preferred candidate.
+- **Center:** Axios highlighted the nearly three-week window for activists to pressure senators, and the Democratic divisions the race exposes despite the party's midterm success.
+- **Right:** Fox News called Van Hollen a 'progressive darling,' noted his criticism that Schumer favored the crypto industry and AIPAC over progressive candidates, and pointed to Bernie Sanders saying he won't back Schumer. The Washington Examiner cited a 'growing chorus' of Democrats seeking new leadership.
+
+**Disputed or unclear**
+- Schumer's claim that he has the votes to stay leader is unverified.
+
+**Why it matters:** The winner will lead the new Senate majority and shape how Democrats handle the Trump administration.
+
+**Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader) (center): Chris Van Hollen to challenge Schumer for Senate majority leader
+- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump) (lean-left): Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – live
+- [Fox News](https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep) (right): Van Hollen challenges Schumer for Senate leadership after Democratic election sweep
+- [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4802382/chris-van-hollen-schumer-senate-majority-leader/) (lean-right): Chris Van Hollen launches bid to unseat Schumer as Senate majority leader
+
+
+## 7. US freezes and seizes funds from North Korea-linked Binance hack and disrupts 'FaceStealer' scheme
+`Korea` `AI & Cybersecurity` `US Headlines` · Covered by 3 outlets (L 0 · C 1 · R 2) · ⚠️ Mostly covered by right-leaning outlets
+
+The Justice Department said more than $2.7 billion of the roughly $6.3 billion stolen from Binance in an Oct. 29 hack has been frozen, and it has court authorization to seize or restrain more than $1.2 billion. The FBI and Binance attribute the theft to the North Korean hacking group TraderTraitor, which officials say is still laundering the remaining funds. Binance says it has fully covered affected customer assets. Officials also announced the disruption of 'FaceStealer,' a scheme that used deepfakes and malicious video-call links to steal more than $400 million over 18 months.
+
+**Key facts**
+- Total stolen: about $6.3 billion; more than $2.7 billion frozen; more than $1.2 billion seized or restrained.
+- Binance says the attack began with a fraudulent job interview that compromised an employee's computer.
+- The FBI seized more than 900 webcam videos of FaceStealer victims.
+- The FBI says North Korea uses stolen crypto to fund its weapons programs.
+
+**How it's being framed**
+- **Center:** The Record focused on laundering techniques, citing Elliptic and DTEX, and noted that the FBI does not know whether FaceStealer was used in the Binance breach.
+- **Right:** Fox Business and the Washington Examiner emphasized the government's rapid response, quoting U.S. Attorney Jeanine Pirro, and Binance's assurance that customers are made whole.
+
+**Disputed or unclear**
+- Whether FaceStealer played any role in the Binance breach is unknown.
+- How much of the remaining stolen funds can be recovered.
+
+**Why it matters:** This is one of the largest crypto thefts on record, and it is tied to funding for North Korea's weapons programs.
+
+**Read it yourself:**
+- [The Record (Recorded Future News)](https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted) (center): Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools
+- [Fox Business](https://www.foxbusiness.com/technology/us-authorities-freeze-billions-stolen-binance-crypto-massive-north-korean-hack) (lean-right): US authorities freeze billions in stolen Binance crypto after massive North Korean hack
+- [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4802216/doj-north-korea-crypto-theft-binance-hack/) (lean-right): DOJ cracks down on North Korean crypto theft after $6.3 billion Binance heist
+
+
+## 8. Alaska Airlines to launch daily Charlotte-Seattle nonstop in June 2027
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+Charlotte Douglas International Airport announced that Alaska Airlines will begin a daily nonstop route to Seattle-Tacoma on June 10, 2027. Alaska will become the ninth airline at the airport. American Airlines already flies the route nonstop.
+
+**Key facts**
+- The first flight is June 10, 2027.
+- The flight arrives in Charlotte at 4:51 p.m. and departs for Seattle at 5:54 p.m. Eastern, taking roughly six hours.
+
+**How it's being framed**
+- **Center:** Local TV outlets reported it as a straightforward service announcement, quoting the airport's statement on expanded connectivity.
+
+**Why it matters:** It adds another nonstop option and carrier competition for Charlotte travelers.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/new-airline-coming-charlotte-airport-2027-what-know/) (center): New airline coming to Charlotte airport in 2027: What to know
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/alaska-airlines-to-begin-flights-between-charlotte-and-seattle/) (center): Alaska Airlines to begin flights between Charlotte and Seattle
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/community/transportation/alaska-airlines-to-add-non-stop-flights-to-seattle-charlotte-clt-daily/275-2499bf4c-c644-4904-a9b1-b878a751e5d0) (center): Alaska Airlines to add daily nonstop flights between CLT and Seattle
+
+
+## 9. Korean fashion retailer Musinsa to enter Thailand through Central Retail partnership
+`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Musinsa signed an exclusive distribution deal with Central Marketing Group, part of Thai conglomerate Central Retail, to open Musinsa Standard stores in Thailand. It is Musinsa's fifth Southeast Asian agreement, though no stores have opened yet in the other four markets. No timeline for store openings was given.
+
+**Key facts**
+- The agreement was signed Nov. 4.
+- Musinsa says Thai transaction value on its global online store rose 26% in the first half of the year.
+- Musinsa operates 49 Musinsa Standard stores in South Korea and plans its first Japan store next year.
+
+**How it's being framed**
+- **Center:** The Korea Herald and Yonhap reported it as a business expansion story driven by demand for K-fashion. Yonhap noted that the earlier Southeast Asian deals have not yet produced open stores.
+
+**Disputed or unclear**
+- The timeline for opening stores has not been announced.
+
+**Why it matters:** It shows Korean retailers trying to turn the popularity of K-culture into physical stores across Asia.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10936226) (center): Musinsa expands Southeast Asian footprint with Thailand market entry
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261113002300320) (center): Musinsa eyes Thailand expansion
+
+
+## 10. Former NC lawmaker Jason Saine and ex-Mooresville commissioner David Coble indicted in nonprofit embezzlement case
 `Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Staff from South Carolina's Department of Environmental Services toured Silfab Solar's Fort Mill plant Thursday and will stay on site for several weeks while the company restarts commissioning of its solar-cell equipment. The state had earlier asked Silfab to halt commissioning after two chemical leaks this year. A court case over whether the operations are allowed under York County zoning is still pending, and some neighbours want Silfab to wait for the ruling.
+A Wake County grand jury indicted former Republican state Rep. Jason Saine and former Mooresville commissioner David Coble on felony charges tied to the nonprofit Greater Carolina, Inc. Search warrants say the group's credit card, assigned to Coble, was used at strip club operators, a men's clinic, an Armani store, vacation rentals and other venues, with payments over $400,000. Saine is accused of aiding and abetting rather than embezzlement itself. He denies wrongdoing and says the group's independent board made spending decisions.
 
 **Key facts**
-- Two chemical leaks occurred earlier this year.
-- Oversight will continue until commissioning is complete.
+- Saine faces four felony charges; Coble faces five.
+- The investigation began after an ethics complaint over a 2024 bourbon trip to Kentucky with lawmakers and lobbyists.
+- Saine helped create Greater Carolina in 2018; Coble was its treasurer.
 
 **How it's being framed**
-- **Center:** Local TV stations reported the regulatory oversight and noted neighbours' concerns and the pending lawsuit.
+- **Center:** WBTV detailed the search-warrant findings and included Saine's denial in full. WCNC briefly noted Saine's past as a high-ranking lawmaker and the link to the Bourbon Trail probe.
 
 **Disputed or unclear**
-- Whether the operations comply with York County zoning is before a court.
+- Saine denies the charges, and Coble's response was not reported in detail.
 
-**Why it matters:** Nearby residents face potential safety risks while the legal question is unresolved.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/sc-regulators-monitor-silfab-solar-it-tests-production-equipment/HV7GVKZYCJGRPIJBHFLOE53464/) (center): SC regulators monitor Silfab Solar as it tests production equipment
-- [Queen City News (FOX 46)](https://www.qcnews.com/silfab-solar/south-carolina-regulators-on-site-at-silfab-as-facility-prepares-for-solar-cell-production/) (center): South Carolina regulators on-site at Silfab as facility prepares for solar cell production
-
-
-## 9. NC lawmaker plans bill to split Charlotte-Mecklenburg Schools and allow board recalls
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-Union County state Rep. David Willis says he is drafting legislation to break up Charlotte-Mecklenburg Schools and allow recall elections for its board members. The proposal follows the firing of Dr. Crystal Hill and several investigations into the district. Willis acknowledges a split would likely take years because of lawsuits and pushback, and he wants a study committee to work out the new districts' geography and finances. CMS has not commented.
-
-**Key facts**
-- CMS is North Carolina's second-largest school district.
-- The three at-large board seats are up next year; district seats are not up until 2029.
-
-**How it's being framed**
-- **Center:** Local outlets relayed Willis's reasoning and quotes, noted the obstacles he acknowledges, and reported that CMS had not responded.
-
-**Disputed or unclear**
-- Whether the bill has enough legislative support to pass.
-
-**Why it matters:** The proposal could reshape governance of a large urban school district.
+**Why it matters:** The case raises questions about political nonprofits and how lawmakers are tied to them in North Carolina.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/rep-who-wants-split-cms-effort-would-likely-take-years/76XPIA5INJEJ3FUGIVZ6RLRTPQ/) (center): Rep who wants to split CMS: Effort would likely take years
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/could-charlotte-mecklenburg-schools-be-broken-up/) (center): Could Charlotte-Mecklenburg Schools be broken up?
-
-
-## 10. North Korea rejects G7 call for denuclearization
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-North Korean Foreign Minister Choe Son-hui rejected a G7 foreign ministers' statement from Paris that called for North Korea's complete denuclearization. In a statement carried by state media, she said Pyongyang's 'will for nuclear possession' is steadfast and accused the G7 of double standards because some members hold nuclear weapons. She also criticised the US, Britain and Japan.
-
-**Key facts**
-- Choe called nuclear weapons the 'most powerful guarantee' of sovereignty.
-- UN Security Council resolutions ban North Korea's nuclear and missile programs.
-
-**How it's being framed**
-- **Center:** Yonhap and The Korea Herald reported Choe's remarks directly, giving the context of the G7 statement and the UN resolutions.
-
-**Why it matters:** The statement signals that North Korea has no intention of negotiating away its nuclear arsenal.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261112012200315) (center): N. Korean FM slams G7 nations' call for denuclearization, says its nuclear pursuit remains 'steadfast'
-- [The Korea Herald](https://www.koreaherald.com/article/10935602) (center): N. Korean FM reaffirms 'steadfast will' for nuclear possession
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/former-nc-lawmaker-former-mooresville-commissioner-face-embezzlement-charges/) (center): Former NC lawmaker and former Mooresville commissioner face embezzlement charges
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/politics/former-nc-lawmaker-indicted-on-embezzlement-other-charges-in-bourbon-trail-probe/275-89b82836-c2ab-4422-bf79-d173d4100119) (center): Former NC lawmaker indicted on embezzlement, other charges in Bourbon Trail probe
 
 
 ---
@@ -290,4 +288,4 @@ North Korean Foreign Minister Choe Son-hui rejected a G7 foreign ministers' stat
 
 ### What is happening with AI regulation in the US and EU?
 
-None of today's articles address AI regulation in the US or EU.
+No articles in this edition addressed AI regulation in the US or EU. The closest related item is congressional talk of tighter AI chip export controls to China after Huang's resignation (s1).
