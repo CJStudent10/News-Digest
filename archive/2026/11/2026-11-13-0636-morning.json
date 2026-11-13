@@ -1,0 +1,705 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-13T11:36:11.225869+00:00",
+  "local_time": "Friday, November 13, 2026 · 6:36 AM EST",
+  "local_date": "Nov 13, 2026",
+  "slug": "2026-11-13-0636-morning",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "Nvidia's leadership crisis dominates this edition: Jensen Huang has resigned amid affair revelations, including one with a woman US officials suspect of spying for China, and Congress is now calling him and Commerce Secretary Howard Lutnick to testify. Also covered: a global Microsoft 365 outage, a challenge to Chuck Schumer's Senate Democratic leadership, an FBI action against North Korean crypto hackers, European jockeying over Ukraine peace talks, and stories from South Korea and Charlotte.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "Jensen Huang, Nvidia's co-founder and CEO since 1993, resigned Thursday after reports of multiple extramarital affairs. One reported affair was with Alice Huang, a Megaspeed executive whom US officials suspect of being a Chinese spy; China denies this. Nvidia named chief financial officer Colette Kress interim CEO, and the board has begun searching for a permanent replacement among internal and external candidates. The New York Times reported that President Trump called Huang and urged him to fight for his job before he resigned. Kress's first big test is Nvidia's quarterly earnings report on Tuesday, Nov. 17.",
+      "key_facts": [
+        "Huang co-founded Nvidia in 1993 and led it for more than 30 years.",
+        "Colette Kress, 59, has been Nvidia's CFO since 2013 and will serve as both interim CEO and interim CFO.",
+        "Harvey C. Jones is the newly named chair of Nvidia's board.",
+        "The Guardian reports the scandal wiped more than $600bn from Nvidia's valuation.",
+        "Nvidia reports quarterly earnings on Tuesday, Nov. 17."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on the succession and the scandal's timeline. It profiled Kress, citing a Wall Street Journal report that Huang called her 'a deer in the headlights' in an August meeting, and quoted analysts who doubt a finance executive can be Nvidia's long-term visionary. Its timeline traced Megaspeed's ties to Alice Huang and its receipt of Nvidia chips that were rented to Chinese firms such as Tencent and Alibaba."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios framed the story as a high-stakes succession, noting the next CEO will need political as well as technical skill. The Hill highlighted the New York Times report that Trump urged Huang to fight for his job."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business focused on investors, quoting several analysts who called Kress a steady, credible 'safe pair of hands' while questioning her global stature and how Nvidia will innovate without Huang. A Fox News opinion piece cast the resignation as a Chinese spy taking out 'America's No. 1 AI player'. It urged vigilance toward China, support for Nvidia's competitors and continued AI investment."
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang is a Chinese intelligence asset: US officials reportedly suspect so, and China calls it a 'smear'.",
+        "Who will be the permanent CEO. Names floated include Kress, Ian Buck and Rene Haas, and DW reports Trump suggested Tim Cook.",
+        "Nvidia's market value is reported inconsistently: Fox News cites a $5 trillion milestone, while the Guardian puts it at around $4tn."
+      ],
+      "why": "Nvidia supplies the chips much of the AI industry depends on, so its leadership turmoil affects markets, AI companies and US-China tech policy.",
+      "coverage": {
+        "left": 5,
+        "center": 5,
+        "right": 2
+      },
+      "n_outlets": 12,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "11 names to watch in the Jensen Huang succession search",
+          "url": "https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions",
+          "published": "2026-11-12T23:06:30+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+          "published": "2026-11-13T03:02:06+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "A spy took out Nvidia’s CEO. Here’s how America still wins the AI race",
+          "url": "https://www.foxnews.com/opinion/spy-took-out-nvidias-ceo-heres-how-america-still-wins-ai-race",
+          "published": "2026-11-13T09:50:01+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump told Huang to fight for his job after affair scandals: Report",
+          "url": "https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/",
+          "published": "2026-11-13T04:05:58+00:00"
+        },
+        {
+          "source": "The Guardian (Asia-Pacific)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+          "published": "2026-11-13T04:00:08+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns",
+          "url": "https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns",
+          "published": "2026-11-12T21:50:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Global Microsoft 365 outage disrupts Outlook and Teams for more than 12 hours",
+      "topics": [],
+      "summary": "A Microsoft 365 outage that began around 1 p.m. ET Thursday cut off access to Outlook email, and to a lesser extent Teams, Copilot and other services, for users worldwide. Microsoft blamed server and infrastructure problems, said several attempted fixes did not work as expected, and said it was not aware of any malicious activity. By Friday morning it reported 'early signs of stabilisation' but said capacity had not returned to normal. Governments, airlines, financial firms and the UK's NHS reported disruptions, and Microsoft says it will publish a post-incident report.",
+      "key_facts": [
+        "Downdetector logged nearly 130,000 US reports of problems, with reports from 74 countries and territories.",
+        "It is the second disruption to Microsoft 365 services this year.",
+        "Microsoft extended its email timeout window to 48 hours to protect delayed messages.",
+        "Microsoft 365 connectors used by OpenAI and Anthropic were also affected.",
+        "Microsoft says more than 430 million people use Microsoft 365 apps."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian detailed Microsoft's recovery updates and the impact on the NHS and UK government services, and quoted a Microsoft executive's apology. The Verge followed Microsoft's technical status updates as they came in."
+        },
+        {
+          "lean": "center",
+          "framing": "DW and the BBC covered the global scale and Microsoft's statement ruling out known malicious activity. WSOC-TV focused on how local Charlotte workers were affected and quoted a security expert who said a cyberattack had not been clearly ruled out."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post stressed the business and government fallout, including Taiwanese firms confirming trades by fax and delayed earnings releases. It quoted an analyst warning that repeated outages could lead customers to rethink relying on Microsoft."
+        }
+      ],
+      "disputed": [
+        "The root cause has not been confirmed; Microsoft points to server settings and elevated load.",
+        "Outlets differ on whether malicious activity has been fully ruled out.",
+        "There is no timeline for full restoration."
+      ],
+      "why": "Huge numbers of businesses and governments rely on one provider for email and collaboration, so outages like this ripple widely.",
+      "coverage": {
+        "left": 3,
+        "center": 5,
+        "right": 1
+      },
+      "n_outlets": 9,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Microsoft rules out 'malicious activity' as cause for global outage",
+          "url": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-13T07:46:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "published": "2026-11-13T10:15:13+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage",
+          "url": "https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/",
+          "published": "2026-11-13T08:16:30+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Local workers feel impact of nationwide Microsoft outage",
+          "url": "https://www.wsoctv.com/news/local/local-workers-feel-impact-nationwide-microsoft-outage/SROCVU5V2VB6XPKOTMO6DZ2VPY/",
+          "published": "2026-11-13T04:18:18+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Microsoft Outlook is still down",
+          "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+          "published": "2026-11-12T23:24:13+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch: How Microsoft services went down around the world",
+          "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T07:18:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Van Hollen to challenge Schumer for Senate Democratic leader",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Sen. Chris Van Hollen of Maryland announced he will run for Senate majority leader, challenging Chuck Schumer after Democrats won the Senate majority in the midterms. Schumer says he has the votes to keep his post. The secret-ballot caucus vote is set for early December (Axios says Dec. 1) and would be the first contested Democratic leader race in decades. Sen.-elect Abdul El-Sayed and Sen. Bernie Sanders have backed Van Hollen, while others, including incoming Ohio Sen. Sherrod Brown, back Schumer.",
+      "key_facts": [
+        "Schumer said '55 seats and counting is an amazing result' and that he has the votes.",
+        "Van Hollen is 67 and Schumer is 75.",
+        "The leadership vote is a closed-door secret ballot in early December.",
+        "Sanders and El-Sayed endorsed Van Hollen."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian framed the race as progressive versus centrist and as a choice about how to confront Trump. It described Schumer as widely criticized for failing to stand up to Trump and highlighted Van Hollen's 2025 trip to El Salvador over Kilmar Ábrego's deportation."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via WBTV), Axios and The Hill presented Schumer as the favorite while noting party divisions and a base pushing for generational change. They also noted Schumer's role in recruiting winning candidates."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News led with Sanders's endorsement of Van Hollen and quoted an RNC spokesperson who called the race 'chaos, infighting' and attacked Van Hollen over the Salvadoran deportation case."
+        }
+      ],
+      "disputed": [
+        "How many senators actually support each candidate; many have not said publicly."
+      ],
+      "why": "The winner will lead the new Democratic Senate majority and shape how it deals with the Trump administration.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+          "url": "https://www.wbtv.com/2026/11/13/van-hollen-challenge-schumer-senate-democratic-leader-saying-voters-called-change/",
+          "published": "2026-11-13T03:02:01+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+          "published": "2026-11-13T03:04:16+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Sen Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post",
+          "url": "https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post",
+          "published": "2026-11-13T11:06:30+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+          "url": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
+          "published": "2026-11-13T03:02:55+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Van Hollen says he will challenge Schumer for majority leader",
+          "url": "https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/",
+          "published": "2026-11-13T02:43:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Congress calls Huang and Lutnick to testify over Nvidia chip exports",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines",
+        "Asia Business & Politics"
+      ],
+      "summary": "Senate Banking Committee Chair Tim Scott has asked former Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify about national security concerns tied to the Nvidia scandal and chip exports to China. Lutnick's spokesperson says he has agreed to appear voluntarily, and Scott says he would consider subpoenaing Huang if he does not. Three House committee chairs separately asked Huang and Nvidia's general counsel to sit for closed-door interviews. Lawmakers from both parties are questioning whether the Commerce Department did enough to restrict chip sales to China, and the AP and Reuters reported that the White House is discussing whether to push Lutnick out.",
+      "key_facts": [
+        "CNBC reports hearings on Dec. 3 for Huang and Dec. 10 for Lutnick; Al Jazeera reports a Dec. 3 hearing for both.",
+        "House chairs Mast, Moolenaar and Crawford asked Huang and general counsel Tim Teter to appear Dec. 1 and 2 or face subpoenas.",
+        "CNBC reports Megaspeed bought more than $4.8 billion of Nvidia chips over two years.",
+        "Republican Sen. John Cornyn said 'Heads should roll.'",
+        "China says it opposes the 'abuse of export control measures' and denies spying."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian centred on pressure on Lutnick, the delay in blacklisting Megaspeed and a reported US intelligence report on Huang's relationship that was circulated within the administration. It quoted Schumer questioning Trump's ties to Huang. Al Jazeera noted the subpoena threats, Nvidia's market value falling below $4 trillion and Blumenthal's concerns about a reported Nvidia donation."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and DW stressed the bipartisan scrutiny, quoting critics from both parties including Banks, Warren and Wyden, while noting Rep. Mast still has confidence in Lutnick. DW also mentioned Trump's earlier defense of Huang."
+        }
+      ],
+      "disputed": [
+        "Whether Lutnick will be fired; this is based on anonymous sources.",
+        "The hearing dates differ between outlets.",
+        "Whether Commerce used 'loopholes' to allow chip sales, as Sen. Banks alleges.",
+        "Whether Huang will appear voluntarily."
+      ],
+      "why": "The hearings could reshape US export controls on AI chips and test how the administration has handled China-related national security.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+          "published": "2026-11-13T10:54:40+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+          "published": "2026-11-13T09:41:22+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+          "url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-13T08:02:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US Senate summons Nvidia’s Huang, Lutnick to testify",
+          "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate",
+          "published": "2026-11-13T08:49:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "FBI disrupts North Korean video-call crypto scam; $2.7 billion in stolen Binance funds frozen",
+      "topics": [
+        "Korea",
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "The Justice Department said it seized cloud infrastructure used in a North Korean scheme the FBI calls 'FaceStealer'. The scheme used fake video calls, recorded webcam footage of previous victims and malware to steal more than $400 million in cryptocurrency over 18 months. Separately, authorities and private firms have frozen more than $2.7 billion of the more than $6 billion stolen from Binance on or around Oct. 29, an attack attributed to the North Korean group TraderTraitor. Courts have authorized seizing or restraining more than $1.2 billion of those funds. North Korea denies involvement in the Binance hack.",
+      "key_facts": [
+        "FaceStealer stole more than $400 million over 18 months.",
+        "The FBI seized more than 900 webcam videos of victims.",
+        "Binance says the hack's total impact was about $6.3 billion and that it has fully covered affected assets.",
+        "The FBI links FaceStealer to a group known as Sapphire Sleet or UNC1069, separate from TraderTraitor."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "DW and the BBC explained in detail how the scam works and quoted FBI officials warning that even experts can be fooled."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business led with the frozen Binance funds and Binance's reassurance to customers, and quoted U.S. Attorney Jeanine Pirro on the speed of the response. It treated FaceStealer as a secondary development."
+        }
+      ],
+      "disputed": [
+        "North Korea denies involvement in the Binance hack.",
+        "The BBC describes 900 victims, while other outlets cite 900 seized videos."
+      ],
+      "why": "The scheme shows how trusted video calls and deepfakes can be turned into tools for large-scale theft, and US officials say these thefts fund North Korea's weapons program.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
+          "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-13T04:19:00+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "US authorities freeze billions in stolen Binance crypto after massive North Korean hack",
+          "url": "https://www.foxbusiness.com/technology/us-authorities-freeze-billions-stolen-binance-crypto-massive-north-korean-hack",
+          "published": "2026-11-13T02:13:37+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T02:48:29+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FBI: North Korean hackers have stolen $400 million in crypto over last 18 months",
+          "url": "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/",
+          "published": "2026-11-12T22:52:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "US envoys say Europe will join next round of Ukraine peace talks",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "After meeting Vladimir Putin in Moscow, US envoys Jared Kushner and Steve Witkoff met Volodymyr Zelensky in Dublin and said European delegates will take part in the next talks with Russia. Zelensky welcomed the move. EU leaders gathered at the European Political Community summit in Dublin have not agreed on who should represent them; Kaja Kallas and António Costa are seen as likely options. Russia and Ukraine also agreed to what Kushner described as the largest prisoner exchange of the war, though details were not given.",
+      "key_facts": [
+        "47 European leaders met in Dublin.",
+        "Putin said Russia's position, including its territorial demands, has not changed.",
+        "Italian PM Giorgia Meloni criticised European disunity in a letter to Costa.",
+        "Russia occupies roughly one-fifth of Ukraine."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian's live blog captured the summit's atmosphere and leaders' remarks, including Latvia's PM saying Europe must 'grow some bigger balls' and Luxembourg's PM saying neither Americans nor Russians should decide Europe's future."
+        },
+        {
+          "lean": "center",
+          "framing": "DW stressed European frustration at being sidelined, internal divisions and fears that the US could accept Russian demands on NATO. The BBC focused on Zelensky welcoming the European role, the prisoner swap and tensions over Starlink restrictions."
+        }
+      ],
+      "disputed": [
+        "Who will represent Europe in the talks.",
+        "The size and timing of the prisoner exchange.",
+        "Whether Russia has real momentum toward a deal; Kallas doubts it."
+      ],
+      "why": "Europe's role at the table could shape both the terms of any Ukraine settlement and Europe's future security arrangements.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+          "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-12T22:00:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+          "published": "2026-11-13T11:12:22+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T02:01:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "South Korea's ruling party rift goes public as council members boycott meeting",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Three of the Democratic Party's five elected supreme council members boycotted a leadership meeting and called for an ethics probe into party chair Kim Min-seok. Their protest followed Kim's order for an ethics investigation into Rep. Choi Min-hee, who had suggested that President Lee Jae Myung opposed former President Yoon Suk Yeol's impeachment. Choi later said she had been mistaken. The feud dates back to the August leadership race and to Kim's allegations involving the Shincheonji religious group, for which he has since apologized.",
+      "key_facts": [
+        "Kim beat Jung Chung-rae in August with 54.08% of the vote to 45.92%.",
+        "The presidential office called Choi's remarks 'groundless'.",
+        "An internal party probe found no evidence for Kim's Shincheonji allegations."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald and Yonhap gave factual accounts of both sides, quoting the boycotting members and a pro-Kim spokesperson who called the boycott 'highly inappropriate'. The Herald added background on the factional rivalry."
+        }
+      ],
+      "disputed": [
+        "Whether Kim has handled the Shincheonji report fairly, given that its results have not been publicly released."
+      ],
+      "why": "Infighting inside the ruling party could weaken President Lee's political base.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Why ruling party feud erupts into open challenge to its leader",
+          "url": "https://www.koreaherald.com/article/10936699",
+          "published": "2026-11-13T09:06:36+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Top ruling party officials boycott meeting amid deepening factional rift",
+          "url": "https://en.yna.co.kr/view/AEN20261113006500315",
+          "published": "2026-11-13T07:39:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "KOSPI falls nearly 1% on uncertainty over Nvidia leadership",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea"
+      ],
+      "summary": "South Korea's KOSPI index opened higher on Friday but closed down 0.98% at 5,290.53, as foreign investors sold amid uncertainty following Jensen Huang's exit from Nvidia. Tech stocks led the losses, including SK hynix and Naver, in which Nvidia is the third-largest shareholder.",
+      "key_facts": [
+        "Foreign investors sold a net 550.5 billion won of stocks.",
+        "SK hynix fell 3.03% and Naver fell 5.12%.",
+        "Korea Electric Power fell 9.79%."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald ran the same straightforward market report, which attributes the decline to AI-related uncertainty."
+        }
+      ],
+      "disputed": [
+        "The articles say the won was trading lower, but also give a quote 'up 6 won', which is unclear."
+      ],
+      "why": "It shows how the Nvidia turmoil is spreading to markets for other Asian chip and tech stocks.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(2nd LD) Seoul shares drop nearly 1 pct, erasing earlier gains following Nvidia jitters",
+          "url": "https://en.yna.co.kr/view/AEN20261113005352320",
+          "published": "2026-11-13T07:34:51+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Seoul shares drop nearly 1%, erasing earlier gains following Nvidia jitters",
+          "url": "https://www.koreaherald.com/article/10936578",
+          "published": "2026-11-13T07:14:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Charlotte leaders seek pause on tree clearing near billboards",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "State Sen. Caleb Theodros is calling for a pause on tree removal near billboards in the Charlotte area, saying 40 permits have been approved for Adams Outdoor and Lamar Advertising. A 2024 law and a change in this year's state budget let billboard companies clear vegetation for a $400 fee, subject to NCDOT approval. Clearing in Plaza Midwood has upset local business owners and residents, and advocates want the companies to consult neighbors first.",
+      "key_facts": [
+        "40 removal projects have been approved in Mecklenburg County.",
+        "Companies can pay $400 to clear up to 500 feet of vegetation.",
+        "Advocates say only three of eight marked, legally protected dogwoods remain at the Plaza Midwood site."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WSOC-TV and WBTV both centred residents' and advocates' concerns about lost tree canopy and noise. Neither billboard company had responded to requests for comment."
+        }
+      ],
+      "disputed": [
+        "Whether the removal of the dogwoods breaks any laws."
+      ],
+      "why": "The dispute shows how a state law change can reshape neighborhoods with little local input.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte lawmaker says dozens of spots could have trees cleared near billboards",
+          "url": "https://www.wsoctv.com/news/local/charlotte-lawmaker-says-dozens-spots-could-have-trees-cleared-near-billboards/26F7MR7ZENGHRPILQWZ4FYFVKA/",
+          "published": "2026-11-13T04:23:47+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Advocates push back as trees get cut down in Mecklenburg County to make billboards more visible",
+          "url": "https://www.wbtv.com/2026/11/12/mecklenburg-county-leaders-advocates-push-back-against-tree-cutting-billboards/",
+          "published": "2026-11-13T02:10:51+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Former NC Rep. Jason Saine and ex-Mooresville commissioner indicted over nonprofit funds",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "A Wake County grand jury indicted former Republican state Rep. Jason Saine and former Mooresville commissioner David Coble on felony charges tied to the nonprofit Greater Carolina, Inc. Search warrants show the nonprofit's credit card, assigned to Coble, was used at adult entertainment businesses, a men's clinic, an Armani store and vacation spots. Saine is accused of aiding and abetting rather than embezzling directly. He denies any crime and says he looks forward to clearing his name.",
+      "key_facts": [
+        "Saine faces four felony charges; Coble faces five.",
+        "Payments of more than $400,000 were tied to the nonprofit's credit card.",
+        "The investigation began after an ethics complaint over a 2024 bourbon trip."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WBTV detailed the alleged spending and quoted Saine's denial at length. Queen City News framed the case as a public corruption probe into a conservative nonprofit."
+        }
+      ],
+      "disputed": [
+        "Saine's role is disputed: he says an independent board made the spending decisions."
+      ],
+      "why": "The case raises questions about political nonprofits and accountability among North Carolina officials.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Former NC lawmaker and former Mooresville commissioner face embezzlement charges",
+          "url": "https://www.wbtv.com/2026/11/12/former-nc-lawmaker-former-mooresville-commissioner-face-embezzlement-charges/",
+          "published": "2026-11-13T02:11:05+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Former Lincoln County lawmaker Jason Saine charged with embezzlement, fraud in corruption probe",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/lincoln-county/former-lincoln-county-lawmaker-jason-saine-charged-with-embezzlement-fraud-in-corruption-probe/",
+          "published": "2026-11-13T03:42:02+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "None of today's articles address AI regulation in the US or EU. The coverage of US export controls on Nvidia chips to China is related but does not cover broader AI regulation.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 8,
+    "center": 23,
+    "right": 5
+  },
+  "stats": {
+    "articles": 444,
+    "stories_found": 333,
+    "sources_ok": 38,
+    "sources_total": 39,
+    "failed": [
+      "Newsweek"
+    ]
+  }
+}
