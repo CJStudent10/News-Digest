@@ -1,0 +1,89 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-13T22:15:46.892423+00:00",
+  "local_time": "Friday, November 13, 2026 · 5:15 PM EST",
+  "local_date": "Nov 13, 2026",
+  "slug": "2026-11-13-1715-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A mixed Friday: a nationwide FAA equipment outage briefly held departures at every U.S. airport, and a leadership race is brewing among Senate Democrats. On the lighter side there's a Jamaican dance season that got rave reviews, a long-awaited Drake bonus track finally on streaming, and a chilly, frosty weekend ahead for Charlotte.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Equipment outage briefly pauses departures at all U.S. airports",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "On Friday afternoon the FAA ordered a nationwide ground stop after a communication problem hit all of its Air Route Traffic Control Centers. Departing flights, including at Charlotte Douglas, were held until further notice, while inbound flights could still land. Technicians were investigating, and the story was still developing.",
+      "key_facts": [
+        "Transportation Secretary Sean Duffy confirmed the ground stop on X Friday afternoon.",
+        "ABC News reported this is only the second nationwide ground stop since Sept. 11, 2001; the last was in 2023 when the NOTAM system went down.",
+        "Inbound flights could still land; international arrivals were handled case by case.",
+        "Travelers are advised to check directly with their airline for flight status."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're flying soon, check with your airline: delays from a nationwide stop can ripple through the schedule even after it's lifted.",
+      "coverage": {
+        "left": 1,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FAA equipment outage halts departures at airports across the country, including Charlotte Douglas",
+          "url": "https://www.wsoctv.com/news/local/faa-equipment-outage-halts-departures-airports-across-country-including-charlotte-douglas/6GKOCJM6NJB2LMSIJQZTVS2VKA/",
+          "published": "2026-11-13T22:04:57+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "FAA issues nationwide ground stop for all U.S. airports",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+          "published": "2026-11-13T21:55:13+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FAA orders nationwide ground stop",
+          "url": "https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/",
+          "published": "2026-11-13T21:23:00+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FAA issues nationwide ground stop, impacting Charlotte flights",
+          "url": "https://www.qcnews.com/charlotte-airport/faa-issues-nationwide-ground-stop-impacting-charlotte-flights/",
+          "published": "2026-11-13T21:33:31+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 3,
+    "right": 0
+  },
+  "stats": {
+    "articles": 267,
+    "stories_found": 234,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

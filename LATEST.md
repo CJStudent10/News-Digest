@@ -1,285 +1,296 @@
-# My Daily Brief: Morning edition
-_Friday, November 13, 2026 · 6:36 AM EST · 444 articles from 38 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Friday, November 13, 2026 · 5:14 PM EST · 489 articles from 39 outlets · summaries by Claude_
 
-> Nvidia's leadership crisis dominates this edition: Jensen Huang has resigned amid affair revelations, including one with a woman US officials suspect of spying for China, and Congress is now calling him and Commerce Secretary Howard Lutnick to testify. Also covered: a global Microsoft 365 outage, a challenge to Chuck Schumer's Senate Democratic leadership, an FBI action against North Korean crypto hackers, European jockeying over Ukraine peace talks, and stories from South Korea and Charlotte.
+> A nationwide FAA ground stop halted U.S. departures on Friday after a communications outage hit air traffic control centers, while a tanker struck a docked river cruise ship in New Orleans. The Nvidia scandal widened into an open dispute between Treasury Secretary Bessent and Commerce Secretary Lutnick, and Senate Democrats face their first contested leadership race in decades. Also covered: recovery from a global Microsoft outage, U.S. actions against North Korean crypto theft, and two Charlotte-area stories.
 
 
-**Sources linked in this edition:** 8 left · 23 center · 5 right
+**Sources linked in this edition:** 13 left · 18 center · 12 right
 
 ---
 
-## 1. Nvidia names CFO Colette Kress interim CEO after Jensen Huang resigns
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 12 outlets (L 5 · C 5 · R 2)
+## 1. FAA orders nationwide ground stop after air traffic control communications outage
+· Covered by 13 outlets (L 3 · C 6 · R 4)
 
-Jensen Huang, Nvidia's co-founder and CEO since 1993, resigned Thursday after reports of multiple extramarital affairs. One reported affair was with Alice Huang, a Megaspeed executive whom US officials suspect of being a Chinese spy; China denies this. Nvidia named chief financial officer Colette Kress interim CEO, and the board has begun searching for a permanent replacement among internal and external candidates. The New York Times reported that President Trump called Huang and urged him to fight for his job before he resigned. Kress's first big test is Nvidia's quarterly earnings report on Tuesday, Nov. 17.
+The FAA halted departures at all U.S. airports on Friday afternoon after what it called a communication issue affecting Air Route Traffic Control Centers. Planes already in the air were allowed to land, and inbound international flights were handled case by case. Transportation Secretary Sean Duffy said FAA technicians were investigating. Homeland Security Secretary Markwayne Mullin told reporters there was no current reason to suspect a cyberattack, but that no cause had been ruled out. Outlets said this is only the second nationwide ground stop since the Sept. 11, 2001 attacks, the other being a NOTAM system failure in January 2023.
 
 **Key facts**
-- Huang co-founded Nvidia in 1993 and led it for more than 30 years.
-- Colette Kress, 59, has been Nvidia's CFO since 2013 and will serve as both interim CEO and interim CFO.
-- Harvey C. Jones is the newly named chair of Nvidia's board.
-- The Guardian reports the scandal wiped more than $600bn from Nvidia's valuation.
-- Nvidia reports quarterly earnings on Tuesday, Nov. 17.
+- The FAA cited 'extraordinary circumstances and for reasons of safety'; departures were held until further notice.
+- Inbound flights could still land; international arrivals were managed case by case.
+- FlightAware listed 7,884 U.S. flights as delayed as of 4:56 p.m. ET, per The Verge.
+- The last nationwide ground stop, on Jan. 11, 2023, followed a NOTAM system failure and lasted about 90 minutes, according to CNN.
 
 **How it's being framed**
-- **Left:** The Guardian focused on the succession and the scandal's timeline. It profiled Kress, citing a Wall Street Journal report that Huang called her 'a deer in the headlights' in an August meeting, and quoted analysts who doubt a finance executive can be Nvidia's long-term visionary. Its timeline traced Megaspeed's ties to Alice Huang and its receipt of Nvidia chips that were rented to Chinese firms such as Tencent and Alibaba.
-- **Center:** Axios framed the story as a high-stakes succession, noting the next CEO will need political as well as technical skill. The Hill highlighted the New York Times report that Trump urged Huang to fight for his job.
-- **Right:** Fox Business focused on investors, quoting several analysts who called Kress a steady, credible 'safe pair of hands' while questioning her global stature and how Nvidia will innovate without Huang. A Fox News opinion piece cast the resignation as a Chinese spy taking out 'America's No. 1 AI player'. It urged vigilance toward China, support for Nvidia's competitors and continued AI investment.
+- **Left:** The Verge and NPR led with Duffy's statement. The Verge added airline-facing detail citing radar and frequency impacts, delay counts, and Mullin's comment that a cyberattack was neither suspected nor ruled out.
+- **Center:** WSOC-TV focused on local effects at Charlotte Douglas and practical advice for travelers. The Hill briefly relayed Duffy's confirmation.
+- **Right:** Fox Business stressed how rare the move is and quoted statements from airports in Atlanta, Boston and Miami. The Washington Examiner reported, citing two FAA employees and documents, that a 'rolling frequency outage' was to blame.
 
 **Disputed or unclear**
-- Whether Alice Huang is a Chinese intelligence asset: US officials reportedly suspect so, and China calls it a 'smear'.
-- Who will be the permanent CEO. Names floated include Kress, Ian Buck and Rene Haas, and DW reports Trump suggested Tim Cook.
-- Nvidia's market value is reported inconsistently: Fox News cites a $5 trillion milestone, while the Guardian puts it at around $4tn.
+- The cause of the outage is not yet known, and officials have not ruled out any possibility.
+- Duffy said 'all' traffic control centers were affected, while the FAA's statement to Fox News Digital said 'multiple' centers.
+- How long the ground stop will last was not reported.
 
-**Why it matters:** Nvidia supplies the chips much of the AI industry depends on, so its leadership turmoil affects markets, AI companies and US-China tech policy.
+**Why it matters:** A nationwide halt to departures can ripple through air travel across the country and raises questions about how resilient air traffic control systems are.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions) (center): 11 names to watch in the Jensen Huang succession search
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement) (lean-left): Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?
-- [Fox News](https://www.foxnews.com/opinion/spy-took-out-nvidias-ceo-heres-how-america-still-wins-ai-race) (right): A spy took out Nvidia’s CEO. Here’s how America still wins the AI race
-- [The Hill](https://thehill.com/homenews/administration/6217994-trump-nvidia-ceo-huang-resignation/) (center): Trump told Huang to fight for his job after affair scandals: Report
-- [The Guardian (Asia-Pacific)](https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline) (lean-left): A timeline of the affair scandal that sank Nvidia’s Jensen Huang
-- [Fox Business](https://www.foxbusiness.com/markets/colette-kress-named-nvidia-interim-ceo-jensen-huangs-abrupt-resignation-raises-investor-concerns) (lean-right): Colette Kress named Nvidia interim CEO as Jensen Huang's abrupt resignation raises investor concerns
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/faa-equipment-outage-halts-departures-airports-across-country-including-charlotte-douglas/6GKOCJM6NJB2LMSIJQZTVS2VKA/) (center): FAA equipment outage halts departures at airports across the country, including Charlotte Douglas
+- [The Verge](https://www.theverge.com/news/1033489/faa-ground-stop) (lean-left): FAA ground stop shuts down flights nationwide
+- [Fox Business](https://www.foxbusiness.com/fox-news-us/faa-issues-nationwide-ground-stop-extraordinary-circumstances) (lean-right): FAA issues nationwide ground stop due to 'extraordinary circumstances'
+- [The Hill](https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/) (center): FAA orders nationwide ground stop
+- [NPR](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports) (lean-left): FAA issues nationwide ground stop for all U.S. airports
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4802941/faa-imposes-nationwide-ground-stop-on-all-flights/) (lean-right): FAA imposes nationwide ground stop on all flights
 
 
-## 2. Global Microsoft 365 outage disrupts Outlook and Teams for more than 12 hours
-· Covered by 9 outlets (L 3 · C 5 · R 1)
+## 2. Nvidia's Jensen Huang resigns amid reported affairs, including one with suspected Chinese spy
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 8 outlets (L 3 · C 3 · R 2)
 
-A Microsoft 365 outage that began around 1 p.m. ET Thursday cut off access to Outlook email, and to a lesser extent Teams, Copilot and other services, for users worldwide. Microsoft blamed server and infrastructure problems, said several attempted fixes did not work as expected, and said it was not aware of any malicious activity. By Friday morning it reported 'early signs of stabilisation' but said capacity had not returned to normal. Governments, airlines, financial firms and the UK's NHS reported disruptions, and Microsoft says it will publish a post-incident report.
+Nvidia co-founder Jensen Huang stepped down as CEO after reports of several extramarital affairs. One reported relationship is with Alice Huang (no relation), a Megaspeed executive whom U.S. officials suspect of being a Chinese spy. CFO Colette Kress is interim CEO, and the Financial Times reports the board has approached Arm CEO Rene Haas. The scandal has spread to Washington: Commerce Secretary Howard Lutnick faces criticism from Treasury Secretary Scott Bessent and members of both parties over not blacklisting Megaspeed. Huang and Lutnick are due to testify before the Senate Banking Committee next month.
 
 **Key facts**
-- Downdetector logged nearly 130,000 US reports of problems, with reports from 74 countries and territories.
-- It is the second disruption to Microsoft 365 services this year.
-- Microsoft extended its email timeout window to 48 hours to protect delayed messages.
-- Microsoft 365 connectors used by OpenAI and Anthropic were also affected.
-- Microsoft says more than 430 million people use Microsoft 365 apps.
+- Colette Kress, Nvidia's CFO since 2013, is interim CEO; the board will consider internal and external candidates.
+- Megaspeed reportedly bought $4.8 billion of Nvidia chips over two years and has been investigated by the U.S. and Singapore over possible diversion of chips to China.
+- Nvidia stock is down about 6% since Huang admitted the Alice Huang affair on Sunday, per the New York Post.
+- Investor Leo KoGuan, who previously invested about $1.3 billion in Nvidia, said 'No further investment without Jensen.'
+- Republican Sen. John Cornyn said 'Heads should roll'; Senate Banking Chair Tim Scott has asked Lutnick and Huang to appear.
 
 **How it's being framed**
-- **Left:** The Guardian detailed Microsoft's recovery updates and the impact on the NHS and UK government services, and quoted a Microsoft executive's apology. The Verge followed Microsoft's technical status updates as they came in.
-- **Center:** DW and the BBC covered the global scale and Microsoft's statement ruling out known malicious activity. WSOC-TV focused on how local Charlotte workers were affected and quoted a security expert who said a cyberattack had not been clearly ruled out.
-- **Right:** The New York Post stressed the business and government fallout, including Taiwanese firms confirming trades by fax and delayed earnings releases. It quoted an analyst warning that repeated outages could lead customers to rethink relying on Microsoft.
+- **Left:** The Guardian focused on political accountability: pressure on Lutnick, AP-reported White House talk of firing him, criticism from Republican senators, and Schumer's questions about Trump's ties to Huang, including a reported Trump call urging Huang to fight for his job.
+- **Center:** TechCrunch offered a detailed timeline linking the personal scandal to the U.S.-China AI chip race and reported Huang's doubts about Kress. CNBC looked back at Huang's career and Nvidia's history through archival interviews.
+- **Right:** The New York Post and Fox Business focused on business fallout: an investor pulling back, market value concerns, Nvidia's board statements praising Huang, and possible successor Rene Haas.
 
 **Disputed or unclear**
-- The root cause has not been confirmed; Microsoft points to server settings and elevated load.
-- Outlets differ on whether malicious activity has been fully ruled out.
-- There is no timeline for full restoration.
+- Nvidia, Huang and Kimberly Powell have not confirmed the reported Huang–Powell relationship.
+- U.S. officials suspect Alice Huang is a Chinese spy; this has not been proven publicly.
+- Accounts differ on timing: TechCrunch says Huang gave up his role Wednesday night, while others say he resigned Thursday.
+- What Trump and senior officials knew about the relationship, and when, is still under scrutiny.
 
-**Why it matters:** Huge numbers of businesses and governments rely on one provider for email and collaboration, so outages like this ripple widely.
+**Why it matters:** The leadership of the world's most important AI chipmaker, and possible gaps in U.S. export controls on China, are both at stake.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf) (center): Microsoft rules out 'malicious activity' as cause for global outage
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports) (lean-left): Microsoft scrambles to fix global outage affecting Teams and Outlook
-- [New York Post](https://nypost.com/2026/11/13/business/microsoft-platforms-including-outlook-teams-down-as-tech-giant-struggles-to-fix-outage/) (lean-right): Microsoft platforms including Outlook, Teams down as tech giant struggles to fix outage
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/local-workers-feel-impact-nationwide-microsoft-outage/SROCVU5V2VB6XPKOTMO6DZ2VPY/) (center): Local workers feel impact of nationwide Microsoft outage
-- [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down) (lean-left): Microsoft Outlook is still down
-- [BBC News (World)](https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss) (center): Watch: How Microsoft services went down around the world
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) (center): The unfolding Jensen Huang scandal: a timeline
+- [The Guardian (US)](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china) (lean-left): Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
+- [New York Post](https://nypost.com/2026/11/13/business/chinese-billionaire-refuses-to-invest-in-nvidia-without-jensen-after-ceo-quits-over-affairs-scandal/) (lean-right): Chinese billionaire refuses to invest in Nvidia ‘without Jensen’ after CEO quits over affairs scandal
+- [CNBC](https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html) (center): Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here
+- [The Guardian (Asia-Pacific)](https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest) (lean-left): Why the Nvidia scandal is far from over – The Latest
+- [Fox Business](https://www.foxbusiness.com/fox-news-tech/new-candidate-emerges-replace-jensen-huang-nvidia-ceo) (lean-right): New candidate emerges to replace Jensen Huang as Nvidia CEO
 
 
-## 3. Van Hollen to challenge Schumer for Senate Democratic leader
-`US Headlines` · Covered by 5 outlets (L 1 · C 3 · R 1)
+## 3. Tanker strikes docked river cruise ship in New Orleans; rescues underway
+· Covered by 11 outlets (L 2 · C 6 · R 3)
 
-Sen. Chris Van Hollen of Maryland announced he will run for Senate majority leader, challenging Chuck Schumer after Democrats won the Senate majority in the midterms. Schumer says he has the votes to keep his post. The secret-ballot caucus vote is set for early December (Axios says Dec. 1) and would be the first contested Democratic leader race in decades. Sen.-elect Abdul El-Sayed and Sen. Bernie Sanders have backed Van Hollen, while others, including incoming Ohio Sen. Sherrod Brown, back Schumer.
+Around 12:30 p.m. Friday, the tanker Atlantic Asphalt struck American Cruise Lines' American Heritage, which was docked at the Port of New Orleans with about 129 passengers plus crew aboard. Video showed the cruise boat listing onto its side as people clung to railings or entered the river in life jackets. Officials said multiple people were rescued and search operations continued. Local hospitals received about two dozen patients. The Coast Guard closed the river between mile markers 93 and 96, and the cause of the collision has not been confirmed.
 
 **Key facts**
-- Schumer said '55 seats and counting is an amazing result' and that he has the votes.
+- The American Heritage had docked about two hours earlier to let passengers off.
+- LCMC Health hospitals received an estimated two dozen patients; Acadian Ambulance transported eight.
+- The Mississippi was closed to vessel traffic between mile markers 93 and 96.
+- The port reported clear weather at the time of the collision, with water around 66 degrees.
+
+**How it's being framed**
+- **Left:** The Guardian's live coverage described dramatic video and quoted a Tulane maritime expert who suspected steering or engine failure. It also cited a source saying the tanker may have lost power. PBS ran a short AP report.
+- **Center:** Axios and The Hill relied on the Port of New Orleans release and gave basic facts about the collision and the ongoing rescue.
+- **Right:** Fox News gave the most detail on the emergency response, including hospital and ambulance figures, Coast Guard involvement, and statements from DHS Secretary Mullin, the cruise line and Gov. Landry. The Washington Examiner ran a brief factual account.
+
+**Disputed or unclear**
+- Whether anyone died or remains missing was not confirmed; Mullin referred to 'missing passengers.'
+- The cause is unknown; possible power, steering or engine failure is speculation.
+- Total people aboard varies by report: '129 passengers plus crew,' 'more than 129,' or 'more than 130.'
+
+**Why it matters:** It is a major accident on a key commercial waterway, and the investigation could raise safety questions for river traffic near docked vessels.
+
+**Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike) (center): Mississippi River cruise ship struck by tanker in New Orleans
+- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates) (lean-left): New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates
+- [Fox News](https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue) (right): Tanker slams into docked New Orleans river cruiser carrying 129 passengers, sparking rescue
+- [The Hill](https://thehill.com/policy/transportation/6219491-tanker-collides-with-riverboat-on-mississippi-river-at-port-of-new-orleans/) (center): Tanker collides with riverboat on Mississippi River at Port of New Orleans
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/rescues-operations-underway-in-new-orleans-after-tanker-hits-river-cruise-boat) (lean-left): Rescues operations underway in New Orleans after tanker hits river cruise boat
+- [Washington Examiner](https://www.washingtonexaminer.com/news/4803302/tanker-crash-river-cruise-ship-new-orleans-port/) (lean-right): Tanker crashes into river cruise ship carrying over 100 passengers in Port of New Orleans
+
+
+## 4. Van Hollen challenges Schumer for Senate Democratic leader
+`US Headlines` · Covered by 8 outlets (L 3 · C 3 · R 2)
+
+Sen. Chris Van Hollen of Maryland announced Thursday that he will challenge Chuck Schumer for Senate Democratic leader, saying voters 'called for change' after the party's midterm wins. Schumer says he has the votes, citing '55 seats and counting.' The secret-ballot election is expected in early December and is the first contested Democratic leader race in decades. Van Hollen has said he favors ending the filibuster and has dropped a possible 2028 presidential bid. Early endorsements so far favor Schumer.
+
+**Key facts**
+- A Washington Examiner tally counts 15 caucus members backing Schumer and four backing Van Hollen.
+- A winner needs 28 votes, or 29 if Democrats win the Alaska Senate race, which is still being counted.
+- Sen.-elect Peggy Flanagan of Minnesota endorsed Van Hollen.
 - Van Hollen is 67 and Schumer is 75.
-- The leadership vote is a closed-door secret ballot in early December.
-- Sanders and El-Sayed endorsed Van Hollen.
 
 **How it's being framed**
-- **Left:** The Guardian framed the race as progressive versus centrist and as a choice about how to confront Trump. It described Schumer as widely criticized for failing to stand up to Trump and highlighted Van Hollen's 2025 trip to El Salvador over Kilmar Ábrego's deportation.
-- **Center:** AP (via WBTV), Axios and The Hill presented Schumer as the favorite while noting party divisions and a base pushing for generational change. They also noted Schumer's role in recruiting winning candidates.
-- **Right:** Fox News led with Sanders's endorsement of Van Hollen and quoted an RNC spokesperson who called the race 'chaos, infighting' and attacked Van Hollen over the Salvadoran deportation case.
+- **Left:** PBS (AP) presented a caucus torn between credit for Schumer's role in recruiting and fundraising and progressive pressure for generational change. A Guardian op-ed by Bernie Sanders cast the race as a choice between status-quo politics and a grassroots, working-class party.
+- **Center:** Axios framed the race as exposing divisions after a sweeping win and tracked endorsements. The Hill reported Flanagan's backing of Van Hollen.
+- **Right:** Fox News called it a 'progressive rebellion' and highlighted Van Hollen's support for ending the filibuster, quoting activists who want Schumer out. The Washington Examiner stressed Schumer's lead and called Van Hollen the 'underdog.'
 
 **Disputed or unclear**
-- How many senators actually support each candidate; many have not said publicly.
+- Schumer says he has the votes, but many senators have not said publicly how they will vote.
+- The final size of the majority depends on the Alaska count.
 
-**Why it matters:** The winner will lead the new Democratic Senate majority and shape how it deals with the Trump administration.
+**Why it matters:** The winner will lead the new Democratic Senate majority and shape its agenda toward the Trump administration, including the filibuster.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/13/van-hollen-challenge-schumer-senate-democratic-leader-saying-voters-called-change/) (center): Van Hollen to challenge Schumer for Senate Democratic leader
-- [The Guardian (US)](https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump) (lean-left): Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – as it happened
-- [Fox News](https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post) (right): Sen Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post
-- [Axios](https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader) (center): Chris Van Hollen to challenge Schumer for Senate majority leader
-- [The Hill](https://thehill.com/homenews/senate/6217923-van-hollen-challenges-schumer/) (center): Van Hollen says he will challenge Schumer for majority leader
+- [Axios](https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader) (center): The senators who could join Van Hollen's insurgency against Schumer
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader) (lean-left): Van Hollen to challenge Schumer for Senate Democratic leader
+- [Fox News](https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected) (right): Schumer's leadership rival reveals major Senate rule change he'd pursue if elected
+- [The Hill](https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen/) (center): Democratic Sen.-elect Flanagan backs Van Hollen over Schumer
+- [The Guardian (US)](https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader) (lean-left): What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders
+- [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4802873/chuck-schumer-chris-van-hollen-majority-leader-whip-count-versus-noncommittal-members-thus-far/) (lean-right): Schumer leads ‘underdog’ Van Hollen in early majority leader endorsements
 
 
-## 4. Congress calls Huang and Lutnick to testify over Nvidia chip exports
-`AI & Cybersecurity` `US Headlines` `Asia Business & Politics` · Covered by 4 outlets (L 2 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 5. Microsoft restores services after global Outlook and Teams outage
+· Covered by 11 outlets (L 3 · C 7 · R 1)
 
-Senate Banking Committee Chair Tim Scott has asked former Nvidia CEO Jensen Huang and Commerce Secretary Howard Lutnick to testify about national security concerns tied to the Nvidia scandal and chip exports to China. Lutnick's spokesperson says he has agreed to appear voluntarily, and Scott says he would consider subpoenaing Huang if he does not. Three House committee chairs separately asked Huang and Nvidia's general counsel to sit for closed-door interviews. Lawmakers from both parties are questioning whether the Commerce Department did enough to restrict chip sales to China, and the AP and Reuters reported that the White House is discussing whether to push Lutnick out.
+A Microsoft outage that began Thursday disrupted Outlook, Teams, Copilot and other 365 services for users in dozens of countries. On Friday, Microsoft apologized and said it was seeing 'broad recovery.' It traced the problem to an issue introduced during an earlier network capacity upgrade and said the outage was not related to cyberattacks or AI agents. Governments, courts, police, airlines and healthcare systems reported disruptions. A full post-incident report is promised.
 
 **Key facts**
-- CNBC reports hearings on Dec. 3 for Huang and Dec. 10 for Lutnick; Al Jazeera reports a Dec. 3 hearing for both.
-- House chairs Mast, Moolenaar and Crawford asked Huang and general counsel Tim Teter to appear Dec. 1 and 2 or face subpoenas.
-- CNBC reports Megaspeed bought more than $4.8 billion of Nvidia chips over two years.
-- Republican Sen. John Cornyn said 'Heads should roll.'
-- China says it opposes the 'abuse of export control measures' and denies spying.
+- Down Detector logged nearly 130,000 problem reports in 74 countries.
+- Microsoft extended its email timeout window to 48 hours so delayed messages are not bounced.
+- Connectors used by OpenAI and Anthropic services were affected.
+- Microsoft shares dipped about 1.1% at Friday's open, per The Guardian.
 
 **How it's being framed**
-- **Left:** The Guardian centred on pressure on Lutnick, the delay in blacklisting Megaspeed and a reported US intelligence report on Huang's relationship that was circulated within the administration. It quoted Schumer questioning Trump's ties to Huang. Al Jazeera noted the subpoena threats, Nvidia's market value falling below $4 trillion and Blumenthal's concerns about a reported Nvidia donation.
-- **Center:** CNBC and DW stressed the bipartisan scrutiny, quoting critics from both parties including Banks, Warren and Wyden, while noting Rep. Mast still has confidence in Lutnick. DW also mentioned Trump's earlier defense of Huang.
+- **Left:** The Guardian detailed effects on public services in the UK and US, including police, schools, rail and Congress. The Verge reported sourcing that linked the outage to Azure VNet configuration changes.
+- **Center:** Axios looked at how the outage affected courts and governments, such as Maine's warning about protection orders filed by email. The BBC and The Hill tracked recovery progress.
+- **Right:** Fox Business explained the technical causes and recovery timeline and highlighted disruptions to businesses, including Indian airlines.
 
 **Disputed or unclear**
-- Whether Lutnick will be fired; this is based on anonymous sources.
-- The hearing dates differ between outlets.
-- Whether Commerce used 'loopholes' to allow chip sales, as Sen. Banks alleges.
-- Whether Huang will appear voluntarily.
+- The full root cause awaits Microsoft's report.
+- Reported duration varies: about 18 hours (The Guardian) versus 'almost two days' (The Verge).
 
-**Why it matters:** The hearings could reshape US export controls on AI chips and test how the administration has handled China-related national security.
+**Why it matters:** Many governments and businesses depend on Microsoft for basic operations, so a single failure can disrupt services worldwide.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html) (center): Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales
-- [The Guardian (US)](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china) (lean-left): Nvidia scandal: Howard Lutnick under pressure over alleged lack of action
-- [Deutsche Welle](https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf) (center): US Senate asks Huang, Lutnick to testify on Nvidia
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate) (lean-left): US Senate summons Nvidia’s Huang, Lutnick to testify
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss) (center): Watch: How the Microsoft outage affected North America
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports) (lean-left): Microsoft scrambles to fix global outage affecting Teams and Outlook
+- [Fox Business](https://www.foxbusiness.com/technology/microsoft-apologizes-after-major-outlook-outage-worldwide-blames-technical-issue) (lean-right): Microsoft apologizes after major Outlook outage worldwide, blames technical issue
+- [Axios](https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress) (center): How the Microsoft outage impacted courts and governments
+- [The Verge](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage) (lean-left): Microsoft’s massive Outlook outage might be over
+- [The Hill](https://thehill.com/policy/technology/6218199-microsoft-outage-recovery-process/) (center): Microsoft ‘seeing encouraging recovery progress’ in global Outlook, Teams outage
 
 
-## 5. FBI disrupts North Korean video-call crypto scam; $2.7 billion in stolen Binance funds frozen
-`Korea` `AI & Cybersecurity` `US Headlines` · Covered by 4 outlets (L 0 · C 3 · R 1)
+## 6. Bessent says Commerce Department, not Treasury, held up Megaspeed blacklisting
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 4 outlets (L 1 · C 2 · R 1)
 
-The Justice Department said it seized cloud infrastructure used in a North Korean scheme the FBI calls 'FaceStealer'. The scheme used fake video calls, recorded webcam footage of previous victims and malware to steal more than $400 million in cryptocurrency over 18 months. Separately, authorities and private firms have frozen more than $2.7 billion of the more than $6 billion stolen from Binance on or around Oct. 29, an attack attributed to the North Korean group TraderTraitor. Courts have authorized seizing or restraining more than $1.2 billion of those funds. North Korea denies involvement in the Binance hack.
+On CNBC, Treasury Secretary Scott Bessent said Treasury, State, the Pentagon and the U.S. Trade Representative had for months favored adding Megaspeed to the Entity List, the U.S. trade blacklist, but that Commerce 'has the pen.' He said he was frustrated because Trump had made clear China should not receive Nvidia chips above H100s. The New York Times reported that Commerce Secretary Lutnick resisted tighter limits on chip sales to China. Commerce did not immediately comment on the CNBC remarks, though a spokesperson denied an earlier reported Bessent–Lutnick conversation.
 
 **Key facts**
-- FaceStealer stole more than $400 million over 18 months.
-- The FBI seized more than 900 webcam videos of victims.
-- Binance says the hack's total impact was about $6.3 billion and that it has fully covered affected assets.
-- The FBI links FaceStealer to a group known as Sapphire Sleet or UNC1069, separate from TraderTraitor.
+- Bessent: 'Treasury, War, USTR and State were in favor of putting Megaspeed on the entity list for months.'
+- Bessent: 'Commerce has the pen, and you will have to ask them about their internal processes.'
+- Megaspeed says it takes export-control compliance 'extremely seriously' and previously said there was 'no evidence' of illicit exports.
+- Bessent said the 'real story' is whether Nvidia knew its customer.
 
 **How it's being framed**
-- **Center:** DW and the BBC explained in detail how the scam works and quoted FBI officials warning that even experts can be fooled.
-- **Right:** Fox Business led with the frozen Binance funds and Binance's reassurance to customers, and quoted U.S. Attorney Jeanine Pirro on the speed of the response. It treated FaceStealer as a secondary development.
+- **Left:** PBS (AP) described the remarks as an unusually public rebuke and noted Lutnick's reported closeness to Huang. It included Megaspeed's denial.
+- **Center:** Axios and The Hill emphasized the visible tension between Bessent and Lutnick and Bessent's choice not to deny reports of friction.
+- **Right:** The Daily Caller said Bessent 'threw Lutnick under the bus,' called the situation an export 'fiasco,' and highlighted Bessent's point that Nvidia's own diligence should be examined.
 
 **Disputed or unclear**
-- North Korea denies involvement in the Binance hack.
-- The BBC describes 900 victims, while other outlets cite 900 seized videos.
+- Commerce denied that a reported Situation Room conversation between Bessent and Lutnick took place; Bessent declined to discuss it.
+- The Daily Caller cited The Information reporting that Alice Huang helped move at least $7.5 billion in chips to Chinese firms; other reports put Megaspeed's purchases at $4.8 billion. These claims are not confirmed.
+- Whether chips reached China through Megaspeed is still under investigation.
 
-**Why it matters:** The scheme shows how trusted video calls and deepfakes can be turned into tools for large-scale theft, and US officials say these thefts fund North Korea's weapons program.
+**Why it matters:** An open dispute between cabinet members points to possible gaps in how the U.S. enforces chip export controls on China.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-rdf) (center): US disrupts North Korea's $400 million crypto scam, FBI says
-- [Fox Business](https://www.foxbusiness.com/technology/us-authorities-freeze-billions-stolen-binance-crypto-massive-north-korean-hack) (lean-right): US authorities freeze billions in stolen Binance crypto after massive North Korean hack
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss) (center): North Korean hackers used fake video calls in $400m crypto hack, says FBI
-- [The Hill](https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/) (center): FBI: North Korean hackers have stolen $400 million in crypto over last 18 months
+- [Axios](https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia) (center): Bessent puts Megaspeed heat on Lutnick: "Commerce has the pen"
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china) (lean-left): Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China
+- [The Daily Caller](https://dailycaller.com/2026/11/13/treasury-secretary-scott-bessent-commerce-howard-lutnick-china-nvidia-ceo-jensen-huang-megaspeed) (right): Bessent Throws Lutnick Under The Bus On Trump’s Chip Export Fiasco
+- [The Hill](https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute/) (center): Bessent: Treasury pushed to blacklist Megaspeed, but ‘Commerce has the pen’
 
 
-## 6. US envoys say Europe will join next round of Ukraine peace talks
-`US Headlines` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 7. Charlotte native and Commanders QB Sam Hartman named next 'Bachelor'
+`Charlotte Local` · Covered by 3 outlets (L 1 · C 1 · R 1)
 
-After meeting Vladimir Putin in Moscow, US envoys Jared Kushner and Steve Witkoff met Volodymyr Zelensky in Dublin and said European delegates will take part in the next talks with Russia. Zelensky welcomed the move. EU leaders gathered at the European Political Community summit in Dublin have not agreed on who should represent them; Kaja Kallas and António Costa are seen as likely options. Russia and Ukraine also agreed to what Kushner described as the largest prisoner exchange of the war, though details were not given.
+ABC announced that Sam Hartman, 27, a Washington Commanders practice-squad quarterback from Charlotte, will star in the 30th season of 'The Bachelor,' premiering March 21. The franchise has not aired a show since summer 2025, after the canceled Taylor Frankie Paul 'Bachelorette' season. Hartman played college football at Wake Forest and Notre Dame. He said a conversation with host Jesse Palmer changed his mind about doing the show.
 
 **Key facts**
-- 47 European leaders met in Dublin.
-- Putin said Russia's position, including its territorial demands, has not changed.
-- Italian PM Giorgia Meloni criticised European disunity in a letter to Costa.
-- Russia occupies roughly one-fifth of Ukraine.
+- Season 30 premieres March 21 on ABC.
+- Hartman has not yet played a regular-season NFL game.
+- At Wake Forest he threw for 12,967 yards and 110 touchdowns.
 
 **How it's being framed**
-- **Left:** The Guardian's live blog captured the summit's atmosphere and leaders' remarks, including Latvia's PM saying Europe must 'grow some bigger balls' and Luxembourg's PM saying neither Americans nor Russians should decide Europe's future.
-- **Center:** DW stressed European frustration at being sidelined, internal divisions and fears that the US could accept Russian demands on NATO. The BBC focused on Zelensky welcoming the European role, the prisoner swap and tensions over Starlink restrictions.
+- **Left:** PBS (AP) placed the casting in the context of the franchise's troubles and its past NFL leads, and quoted Hartman's remarks on 'Good Morning America.'
+- **Center:** Queen City News emphasized his Charlotte roots.
+- **Right:** The Daily Caller focused on his college football record and the show's return after its hiatus.
 
-**Disputed or unclear**
-- Who will represent Europe in the talks.
-- The size and timing of the prisoner exchange.
-- Whether Russia has real momentum toward a deal; Kallas doubts it.
-
-**Why it matters:** Europe's role at the table could shape both the terms of any Ukraine settlement and Europe's future security arrangements.
+**Why it matters:** A local native is taking the lead role as a long-running reality franchise returns.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-rdf) (center): EU leaders tussle over whom to send to Ukraine, Russia peace talks
-- [The Guardian (World)](https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates) (lean-left): Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss) (center): Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-born-nfl-quarterback-sam-hartman-is-the-next-bachelor-for-season-30/) (center): Charlotte-born NFL quarterback Sam Hartman is the next 'Bachelor' for season 30
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/meet-the-new-bachelor-a-quarterback-for-the-washington-commanders) (lean-left): Meet the new 'Bachelor,' a quarterback for the Washington Commanders
+- [The Daily Caller](https://dailycaller.com/2026/11/13/washington-commanders-quarterback-sam-hartman-the-bachelor-reality-show-abc-romance-dating) (right): Washington Commanders Quarterback Sam Hartman To Star In ‘The Bachelor’
 
 
-## 7. South Korea's ruling party rift goes public as council members boycott meeting
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 8. FBI says North Korean 'FaceStealer' scheme stole over $400 million in crypto via fake video calls
+`Korea` `US Headlines` `AI & Cybersecurity` · Covered by 2 outlets (L 0 · C 1 · R 1)
 
-Three of the Democratic Party's five elected supreme council members boycotted a leadership meeting and called for an ethics probe into party chair Kim Min-seok. Their protest followed Kim's order for an ethics investigation into Rep. Choi Min-hee, who had suggested that President Lee Jae Myung opposed former President Yoon Suk Yeol's impeachment. Choi later said she had been mistaken. The feud dates back to the August leadership race and to Kim's allegations involving the Shincheonji religious group, for which he has since apologized.
+The FBI and Justice Department said North Korea-linked hackers stole more than $400 million in cryptocurrency over 18 months through 'FaceStealer.' The scheme uses hijacked accounts, secretly recorded webcam footage and AI deepfakes in fake Zoom or Teams meetings, then tricks victims into installing malware disguised as an audio fix. Authorities seized the cloud infrastructure behind the scheme and more than 900 victim videos. Officials said the proceeds fund North Korea's weapons programs.
 
 **Key facts**
-- Kim beat Jung Chung-rae in August with 54.08% of the vote to 45.92%.
-- The presidential office called Choi's remarks 'groundless'.
-- An internal party probe found no evidence for Kim's Shincheonji allegations.
+- More than $400 million stolen over 18 months, per the FBI.
+- Hackers recorded more than 900 tech workers.
+- The activity is linked to the BlueNoroff/APT38 threat cluster.
 
 **How it's being framed**
-- **Center:** The Korea Herald and Yonhap gave factual accounts of both sides, quoting the boycotting members and a pro-Kim spokesperson who called the boycott 'highly inappropriate'. The Herald added background on the factional rivalry.
+- **Center:** The Hacker News gave technical detail on the attack chain, its links to prior research such as Kaspersky's 'GhostCall,' and threat-actor names.
+- **Right:** The Daily Caller presented it as an FBI crackdown, quoting FBI and DOJ officials including U.S. Attorney Jeanine Pirro, and added Binance's own recovery figures.
 
 **Disputed or unclear**
-- Whether Kim has handled the Shincheonji report fairly, given that its results have not been publicly released.
+- How much of the $400 million can be recovered was not stated.
 
-**Why it matters:** Infighting inside the ruling party could weaken President Lee's political base.
+**Why it matters:** The scheme shows that even familiar faces on a video call can be faked, a risk for anyone in tech or finance.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10936699) (center): Why ruling party feud erupts into open challenge to its leader
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261113006500315) (center): Top ruling party officials boycott meeting amid deepening factional rift
+- [The Hacker News](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html) (center): FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls
+- [The Daily Caller](https://dailycaller.com/2026/11/13/fbi-north-korea-facestealer-cryptocurrency-scheme) (right): FBI Pulls Plug On North Korean ‘FaceStealer’ Scheme That Swiped $400 Million In Crypto
 
 
-## 8. KOSPI falls nearly 1% on uncertainty over Nvidia leadership
-`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 9. Charlotte protester sentenced to five months over ICE facility assault
+`Charlotte Local` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-South Korea's KOSPI index opened higher on Friday but closed down 0.98% at 5,290.53, as foreign investors sold amid uncertainty following Jensen Huang's exit from Nvidia. Tech stocks led the losses, including SK hynix and Naver, in which Nvidia is the third-largest shareholder.
+U.S. District Judge Matthew Orso sentenced Heather Morrow, 45, to five months in federal prison and seven months of supervised release. A jury convicted her in September of assault and three other misdemeanors from a November 2025 protest at ICE's Charlotte office during 'Operation Charlotte's Web.' Morrow is a CMS bus driver and a former county commission candidate. She plans to appeal.
 
 **Key facts**
-- Foreign investors sold a net 550.5 billion won of stocks.
-- SK hynix fell 3.03% and Naver fell 5.12%.
-- Korea Electric Power fell 9.79%.
+- Sentence: five months in prison plus seven months of supervised release.
+- Co-defendant William Stanley, 25, received one year of probation last month.
+- Prosecutors say the two blocked entrances and disobeyed officers.
 
 **How it's being framed**
-- **Center:** Yonhap and the Korea Herald ran the same straightforward market report, which attributes the decline to AI-related uncertainty.
+- **Left:** WFAE described Morrow as a protester and gave her background and her attorney's plan to appeal.
+- **Center:** Queen City News led with the officer assault, citing the U.S. Attorney's Office.
 
 **Disputed or unclear**
-- The articles say the won was trading lower, but also give a quote 'up 6 won', which is unclear.
+- Morrow plans to appeal the conviction.
 
-**Why it matters:** It shows how the Nvidia turmoil is spreading to markets for other Asian chip and tech stocks.
+**Why it matters:** The case is a local test of how federal courts handle immigration enforcement protests.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261113005352320) (center): (2nd LD) Seoul shares drop nearly 1 pct, erasing earlier gains following Nvidia jitters
-- [The Korea Herald](https://www.koreaherald.com/article/10936578) (center): Seoul shares drop nearly 1%, erasing earlier gains following Nvidia jitters
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-woman-gets-prison-time-for-assaulting-officer-during-attempted-arrest-at-ice-facility-doj/) (center): Charlotte woman gets prison time for assaulting officer during attempted arrest at ICE facility: DOJ
+- [WFAE (Charlotte NPR)](https://www.wfae.org/crime-justice/2026-11-13/operation-charlottes-web-protester-sentenced-to-5-months-in-federal-prison) (lean-left): 'Operation Charlotte's Web' protester sentenced to 5 months in federal prison
 
 
-## 9. Charlotte leaders seek pause on tree clearing near billboards
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 10. U.S. moves to seize $1.2 billion stolen in North Korea-linked Binance hack
+`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-State Sen. Caleb Theodros is calling for a pause on tree removal near billboards in the Charlotte area, saying 40 permits have been approved for Adams Outdoor and Lamar Advertising. A 2024 law and a change in this year's state budget let billboard companies clear vegetation for a $400 fee, subject to NCDOT approval. Clearing in Plaza Midwood has upset local business owners and residents, and advocates want the companies to consult neighbors first.
+The Justice Department said it obtained court authorization to seize or restrain more than $1.2 billion in cryptocurrency stolen from Binance on Oct. 29. The FBI attributes the theft of over $6 billion to the North Korean military group 'TraderTraitor.' More than $2.7 billion has been frozen by government and private partners, while the hackers keep laundering funds. The announcement came alongside the FaceStealer disruption.
 
 **Key facts**
-- 40 removal projects have been approved in Mecklenburg County.
-- Companies can pay $400 to clear up to 500 feet of vegetation.
-- Advocates say only three of eight marked, legally protected dogwoods remain at the Plaza Midwood site.
+- Over $6 billion was stolen from Binance on Oct. 29.
+- More than $2.7 billion has been frozen, including the $1.2 billion subject to seizure or restraint.
+- The FBI, Secret Service and IRS issued an alert attributing the theft to North Korea.
 
 **How it's being framed**
-- **Center:** WSOC-TV and WBTV both centred residents' and advocates' concerns about lost tree canopy and noise. Neither billboard company had responded to requests for comment.
+- **Center:** CNBC and Yonhap reported the DOJ announcement straightforwardly, quoting DOJ's M. Scott Proctor and noting that laundering is ongoing.
 
 **Disputed or unclear**
-- Whether the removal of the dogwoods breaks any laws.
+- Frozen totals differ: DOJ cites over $2.7 billion, while Binance told the Daily Caller about $2.85 billion, of roughly $6.34 billion affected.
+- Recovery efforts are ongoing.
 
-**Why it matters:** The dispute shows how a state law change can reshape neighborhoods with little local input.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-lawmaker-says-dozens-spots-could-have-trees-cleared-near-billboards/26F7MR7ZENGHRPILQWZ4FYFVKA/) (center): Charlotte lawmaker says dozens of spots could have trees cleared near billboards
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/mecklenburg-county-leaders-advocates-push-back-against-tree-cutting-billboards/) (center): Advocates push back as trees get cut down in Mecklenburg County to make billboards more visible
-
-
-## 10. Former NC Rep. Jason Saine and ex-Mooresville commissioner indicted over nonprofit funds
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-A Wake County grand jury indicted former Republican state Rep. Jason Saine and former Mooresville commissioner David Coble on felony charges tied to the nonprofit Greater Carolina, Inc. Search warrants show the nonprofit's credit card, assigned to Coble, was used at adult entertainment businesses, a men's clinic, an Armani store and vacation spots. Saine is accused of aiding and abetting rather than embezzling directly. He denies any crime and says he looks forward to clearing his name.
-
-**Key facts**
-- Saine faces four felony charges; Coble faces five.
-- Payments of more than $400,000 were tied to the nonprofit's credit card.
-- The investigation began after an ethics complaint over a 2024 bourbon trip.
-
-**How it's being framed**
-- **Center:** WBTV detailed the alleged spending and quoted Saine's denial at length. Queen City News framed the case as a public corruption probe into a conservative nonprofit.
-
-**Disputed or unclear**
-- Saine's role is disputed: he says an independent board made the spending decisions.
-
-**Why it matters:** The case raises questions about political nonprofits and accountability among North Carolina officials.
+**Why it matters:** It is one of the largest crypto thefts reported, and officials say the proceeds fund North Korea's weapons programs.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/12/former-nc-lawmaker-former-mooresville-commissioner-face-embezzlement-charges/) (center): Former NC lawmaker and former Mooresville commissioner face embezzlement charges
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/lincoln-county/former-lincoln-county-lawmaker-jason-saine-charged-with-embezzlement-fraud-in-corruption-probe/) (center): Former Lincoln County lawmaker Jason Saine charged with embezzlement, fraud in corruption probe
+- [CNBC](https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html) (center): U.S. seizes $1.2 billion in cryptocurrency stolen from Binance
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261113008800315) (center): U.S. obtains court approval to seize, restrain over US$1.2 bln stolen in N.K. Binance theft
 
 
 ---
@@ -288,7 +299,4 @@ A Wake County grand jury indicted former Republican state Rep. Jason Saine and f
 
 ### What is happening with AI regulation in the US and EU?
 
-None of today's articles address AI regulation in the US or EU. The coverage of US export controls on Nvidia chips to China is related but does not cover broader AI regulation.
-
----
-_Feeds that failed this run: Newsweek_
+None of today's articles address AI regulation in the US or EU.
