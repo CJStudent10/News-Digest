@@ -1,0 +1,704 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-14T10:56:52.261158+00:00",
+  "local_time": "Saturday, November 14, 2026 · 5:56 AM EST",
+  "local_date": "Nov 14, 2026",
+  "slug": "2026-11-14-0556-morning",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "A communications failure at US air traffic control centres led the FAA to halt all US departures for about four hours, while a separate, day-long Microsoft 365 outage disrupted governments and businesses in more than 70 countries; officials said neither appears to be an attack. The White House announced a first-ever Trump–Xi–Putin meeting in China next week, and the fallout from Jensen Huang's exit from Nvidia is moving to Congress. Also in this edition: a Democrat wins Alaska's governorship, a report says the US has lost its measles-elimination status, and two Charlotte-area local stories.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "FAA lifts nationwide ground stop after air traffic control communications failure",
+      "topics": [],
+      "summary": "The Federal Aviation Administration halted departures at all US airports on Friday afternoon after communications problems hit regional air traffic control centres. The stop was lifted at 8:15pm ET, about four hours later. Transportation Secretary Sean Duffy blamed an 'incredibly old' system whose routers 'got overloaded with data.' Homeland Security Secretary Markwayne Mullin said preliminary checks showed no sign of a 'nefarious attack.' Thousands of flights were cancelled or delayed, delays spread to departures from Europe and South Korea, and officials warned that getting back to normal will be slow.",
+      "key_facts": [
+        "Problems began at 3:36pm ET Friday and the ground stop was lifted at 8:15pm ET, according to Duffy.",
+        "More than 3,500 planes were in the air when the stop was issued; critical medevac, cargo and law enforcement flights were allowed to continue.",
+        "It was the first nationwide ground stop since January 2023 and only the second since the 9/11 attacks.",
+        "Duffy asked Congress for $50 billion in emergency funding to modernise air traffic control and said he could not rule out another outage.",
+        "US-bound flights from Incheon were delayed about two hours, and Eurocontrol suspended US-bound departures from Europe until 5am UTC Saturday."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on chaos for passengers, with traveller interviews at JFK. It noted that the White House briefing 'quickly turned into a plea for funding' and quoted critics: Gov. Gavin Newsom said the administration was not giving travellers clear answers, and Rep. Ro Khanna said he was waiting for a briefing."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios and The Korea Herald stuck to logistics: the ripple effects on airlines and crews, the international delays, and officials' explanation of outdated equipment. They did not include much political reaction."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business centred on Duffy's briefing and timeline: his statements that the stop was an 'abundance of caution' and that not all communications were lost, and his point that President Trump had been seeking modernisation funds. It also included a statement from AI contractor ASI denying any role. The Daily Caller ran an early report built mostly on the FAA's official notices."
+        }
+      ],
+      "disputed": [
+        "Flight disruption figures vary by source: FlightRadar24, cited by the Guardian, counted more than 6,600 cancellations and 8,600 delays, while FlightAware counted more than 11,000 flights delayed or cancelled.",
+        "The cause is preliminary. Duffy attributed it to router overload, while an earlier Fox Business report said the FAA had not ruled out a cyberattack at that point.",
+        "How long airline schedules will take to recover is unclear; analysts said disruption could last days."
+      ],
+      "why": "The outage shows how fragile the ageing US air traffic control system is, and it is now part of a funding fight between the administration and Congress.",
+      "coverage": {
+        "left": 6,
+        "center": 10,
+        "right": 2
+      },
+      "n_outlets": 18,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US ground stop delays flights from Incheon Airport",
+          "url": "https://www.koreaherald.com/article/10936928",
+          "published": "2026-11-14T01:36:14+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Airport chaos continues after US ground stop lifted – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
+          "published": "2026-11-14T05:55:53+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary",
+          "url": "https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary",
+          "published": "2026-11-13T21:28:37+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FAA ends hours-long nationwide ground stop",
+          "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+          "published": "2026-11-14T02:10:10+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
+          "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+          "published": "2026-11-14T02:15:53+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "FAA Issues Nationwide Ground Stop, Halting All US Flight Departures",
+          "url": "https://dailycaller.com/2026/11/13/faa-nationwide-ground-stop-us-flight-departures-sean-duffy",
+          "published": "2026-11-13T21:41:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "White House says Trump, Xi and Putin will hold first three-way meeting at APEC in China",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines",
+        "Korea"
+      ],
+      "summary": "The White House said President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin will meet on Thursday on the sidelines of the APEC summit in Shenzhen, the first meeting of its kind. US officials said Trump will push for nuclear arms reductions and raise the war in Iran, but will not discuss Ukraine, which they said is being handled on a separate track. A senior official said no agreement is expected and described the meeting as a first conversation. Beijing has not confirmed the three-way meeting, and Ukraine's President Zelensky has warned it could become a Yalta-style carve-up of spheres of influence.",
+      "key_facts": [
+        "The meeting is planned for Thursday in Shenzhen; Trump will also hold a bilateral meeting and lunch with Xi, their fourth meeting since 2025.",
+        "The US-Russia New START treaty expired in February; Trump rejected a one-year extension and wants a new deal that includes China.",
+        "A senior US official said: 'We do not expect to get to any kind of agreement.'",
+        "Trump will also attend an ASEAN summit in the Philippines; no meeting with North Korea's Kim Jong Un is planned.",
+        "Elon Musk will travel with Trump but will not attend the meeting."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera foregrounded the arms-control context: no caps on the two largest arsenals for the first time in over 50 years. It stressed low expectations and covered the Yalta comparisons, quoting both Kremlin spokesman Dmitry Peskov and Zelensky's concern about a deal made behind Kyiv's back."
+        },
+        {
+          "lean": "center",
+          "framing": "BBC, CNA and DW led with the White House announcement and quoted spokeswoman Olivia Wales. They added context on China's long refusal to join trilateral nuclear talks, Zelensky's Yalta warning, and European concern over the administration softening toward Moscow. DW quoted an official saying China should 'step up… to the adults' table.' The Korea Herald and The Hill ran short logistical reports."
+        }
+      ],
+      "disputed": [
+        "China and Russia have not publicly confirmed the trilateral meeting. Chinese state media have mentioned only 'bilateral' talks, and in October China's Foreign Ministry said joining trilateral nuclear talks was 'neither fair, reasonable nor realistic.'",
+        "Accounts of Moscow's response differ: Al Jazeera reports Peskov called the meeting 'extremely significant,' while BBC and DW say Moscow has yet to comment on the announcement.",
+        "Whether Ukraine will truly stay off the agenda is questioned by Zelensky."
+      ],
+      "why": "A meeting of the three largest nuclear powers could shape arms control and great-power relations, even if no deal comes out of it.",
+      "coverage": {
+        "left": 1,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
+          "url": "https://www.channelnewsasia.com/east-asia/trump-xi-putin-trilateral-summit-apec-6551001",
+          "published": "2026-11-14T01:16:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump, Xi and Putin to hold first three-way summit in China",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+          "published": "2026-11-14T04:55:58+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T05:52:31+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+          "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-14T04:11:00+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump to hold talks with Xi, Putin next week",
+          "url": "https://www.koreaherald.com/article/10936945",
+          "published": "2026-11-14T01:56:10+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+          "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+          "published": "2026-11-14T01:30:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Microsoft says services restored after global outage of Outlook, Teams and Copilot",
+      "topics": [],
+      "summary": "Microsoft said on Saturday it had fully restored Microsoft 365 services after an outage of more than a day that disrupted Outlook, Teams, Copilot and other tools in more than 70 countries. The company apologised and said the problem was introduced during a 'network capacity upgrade' and was not caused by a cyberattack or an AI agent. The outage affected government agencies, hospitals, courts, schools and businesses from Australia and Japan to the UK and US. Microsoft says it will publish a full report once its assessment is complete.",
+      "key_facts": [
+        "Reports began around 12:25–1pm ET Thursday; Microsoft announced full restoration early Saturday.",
+        "Downdetector logged more than 7.4 million reports worldwide, peaking at nearly 20,000 a minute.",
+        "Microsoft said it is 'deeply sorry' and had not detected any malicious activity.",
+        "The affected products have more than 430 million users, according to the BBC.",
+        "Microsoft extended the retry window for delayed emails to 48 hours to protect messages."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on Australia. It quoted experts warning of billion-dollar costs and possible small-business closures, and centred concerns about 'Australia's reliance on foreign technology.' It also quoted a risk adviser who said a change that 'should have been tested' was pushed out."
+        },
+        {
+          "lean": "center",
+          "framing": "BBC, CNBC, DW and The Korea Herald gave detailed accounts of the timeline and Microsoft's technical explanation, with examples of impact on governments, health services and ordinary workers. They framed the event as a reminder of dependence on a few Big Tech providers."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post took a market and business angle. It cited flat share performance, an estimate of $300–500 million in insured losses compared with the 2024 CrowdStrike outage, and analysts' worry that repeated Microsoft 365 outages this year raise reliability questions."
+        }
+      ],
+      "disputed": [
+        "The economic cost is unsettled: Australian experts warned of billions in costs there, while a Morningstar DBRS analyst put global insured losses at $300–500 million.",
+        "Microsoft's explanation has shifted. It initially cited a traffic surge and a server-health component, then a problem from an earlier network capacity upgrade. A full report is pending.",
+        "Reported duration varies by time zone and source, from roughly 18 hours to more than 24 hours."
+      ],
+      "why": "Many governments and businesses depend on a single provider's email and collaboration tools, and this outage showed how far one failure can spread.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 1
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-14T06:42:27+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+          "published": "2026-11-14T06:19:04+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Microsoft restores service to Outlook and Teams after historic outage crippled businesses, governments",
+          "url": "https://nypost.com/2026/11/14/business/microsoft-restores-service-to-outlook-and-teams-after-historic-outage-crippled-businesses-governments/",
+          "published": "2026-11-14T09:28:56+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+          "published": "2026-11-14T08:11:28+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Microsoft says all services working again",
+          "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-14T09:06:00+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Microsoft apologizes as global service outage stretches into second day",
+          "url": "https://www.koreaherald.com/article/10936977",
+          "published": "2026-11-14T03:04:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor's race",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Former state lawmaker Jonathan Kreiss-Tomkins, a Democrat, won Alaska's ranked-choice race for governor after more than a week of vote counting, according to AP and Decision Desk HQ. He defeated three Republicans: Trump-endorsed Bernadette Wilson, former Anchorage mayor Dave Bronson and former attorney general Treg Taylor. He replaces term-limited Republican Gov. Mike Dunleavy and takes office Dec. 7. A ballot measure to repeal ranked-choice voting failed.",
+      "key_facts": [
+        "Kreiss-Tomkins, 37, will be the youngest governor in Alaska history; the last Democratic governor, Tony Knowles, was elected in 1998 and left office in 2002.",
+        "He was endorsed by Republican Sen. Lisa Murkowski and three former governors: a Democrat, an independent and a Republican.",
+        "Trump endorsed Wilson and criticised Bronson and Taylor for staying in the race.",
+        "With this and other midterm results, Democrats will hold 30 governorships, up from 24."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR emphasised Kreiss-Tomkins' bipartisan 'man of the middle' pitch and his cross-party endorsements. It also described Alaska's challenges, including school closures, high costs, a looming natural gas shortage and out-migration."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill gave a brief race call, noting he is the first Democrat to win the office in more than 20 years."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News framed the result around Republican infighting, with multiple GOP candidates splitting the field despite Trump's endorsement, and explained ranked-choice mechanics. The New York Post placed it within a national Democratic midterm wave and detailed his platform: school funding, taxing oil and gas producers, and a data-centre moratorium. It also noted the tension between Trump and Republicans who backed ranking."
+        }
+      ],
+      "disputed": [],
+      "why": "A Democrat winning a reliably Republican state adds to a broader shift in governorships and is a test for Alaska's ranked-choice system.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 2
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat flips Alaska governor’s office",
+          "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/",
+          "published": "2026-11-14T05:05:12+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+          "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+          "published": "2026-11-14T05:12:43+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+          "url": "https://nypost.com/2026/11/14/us-news/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska/",
+          "published": "2026-11-14T07:17:04+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+          "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
+          "published": "2026-11-14T06:09:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Report: US loses measles-elimination status after 26 years",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "The Pan American Health Organization has revoked the United States' measles-elimination status, the Wall Street Journal reported, citing people familiar with the matter. The report says PAHO found the virus had circulated continuously in the US for more than 12 months. PAHO has not publicly confirmed the decision. The US has seen its highest measles case counts in over three decades, during a period of falling vaccination rates under Health Secretary Robert F. Kennedy Jr. To regain the status, the US would need to end transmission and stay outbreak-free for at least 12 months.",
+      "key_facts": [
+        "The US achieved measles-elimination status in 2000.",
+        "The CDC reported 5,182 confirmed cases in 2026 as of Thursday, from 45 states, NYC and DC, compared with 2,289 in 2025.",
+        "Canada, Spain and the UK have recently lost their elimination status.",
+        "There is no formal penalty for losing the status.",
+        "The US left the WHO but remains a member of PAHO."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNA and DW framed the loss as preventable, quoting public health experts such as Noel Brewer ('unconscionable') and William Moss, who said it damages US public-health standing. They linked the outbreak to vaccine hesitancy under Kennedy, who they noted has spread doubts about vaccines without scientific evidence."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner reported the decision as a 'major setback' and a likely 'black mark' on Kennedy's tenure, citing his vaccine skepticism. It noted that kindergarten vaccination rates are below the 95% threshold and placed the US alongside other countries that lost status. It said it had sought comment from HHS."
+        }
+      ],
+      "disputed": [
+        "The decision rests on anonymous-source reports; PAHO has not publicly confirmed it.",
+        "Case and death counts differ between outlets: 5,182 cases versus more than 5,400 this year, and 13 deaths since 2025 versus at least 10 this year.",
+        "The CDC's report to PAHO remains confidential."
+      ],
+      "why": "Losing elimination status signals sustained domestic spread of a vaccine-preventable disease that can cause serious harm, especially to children.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US loses measles-free status after continued spread of the disease: Report",
+          "url": "https://www.channelnewsasia.com/world/us-lose-measles-free-status-disease-transmission-6550971",
+          "published": "2026-11-14T04:21:12+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "US loses measles elimination status amid surge in cases: Report",
+          "url": "https://www.washingtonexaminer.com/policy/healthcare/4803790/us-loses-measles-elimination-status/",
+          "published": "2026-11-14T03:50:53+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US loses measles-elimination status after 26 years, WSJ reports",
+          "url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-14T09:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Officials say FAA ground stop was a telecom outage, not an attack",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "These reports cover the same FAA nationwide ground stop as the first story, as it unfolded on Friday. Homeland Security Secretary Markwayne Mullin said there was no indication of an attack and that all flights in the air were accounted for. Transportation Secretary Sean Duffy said a communications issue affected the 22 regional centres that guide planes between airports. Hundreds of flights were diverted and travellers were stranded.",
+      "key_facts": [
+        "Mullin: 'There's no indication as of yet that this was a nefarious attack… It's just a telecommunications outage as of right now.'",
+        "At least 827 flights were diverted as of 7:05pm EST, according to Cirium: 670 returned to their origin and 157 went elsewhere.",
+        "About 11,000 flights carrying more than 1.5 million passengers were scheduled to depart US airports after 4pm EST.",
+        "Some flights within Alaska and Hawaii were not affected, according to Alaska Airlines."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS ran AP's report centred on Mullin's reassurance that the stoppage 'isn't another 9/11.'"
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald, also carrying AP reporting, combined officials' statements with diversion data and accounts from stranded travellers."
+        }
+      ],
+      "disputed": [
+        "These were early reports. PBS said the stop would run through at least 11pm ET, but later reports say it was lifted at 8:15pm ET."
+      ],
+      "why": "Officials moved quickly to rule out an attack, which shaped how the public understood the disruption.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Flights halted at airports across US due to air traffic control communications problems",
+          "url": "https://www.koreaherald.com/article/10936914",
+          "published": "2026-11-14T01:22:38+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Homeland Security Secretary Mullin says FAA flight stoppage 'isn't another 9/11'",
+          "url": "https://www.pbs.org/newshour/nation/watch-homeland-security-secretary-mullin-says-faa-flight-stoppage-isnt-another-9-11",
+          "published": "2026-11-13T23:00:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "US officials say Trump won't raise Nvidia spy allegations with Xi",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Senior US officials said President Trump is not expected to raise allegations about Alice Huang with Xi Jinping during his China trip. Alice Huang is a former Megaspeed executive accused of being a Chinese intelligence asset, and she had an affair with former Nvidia CEO Jensen Huang. Officials said the trade talks will focus on implementing an existing trade agreement and that export controls are not negotiable. They also confirmed that Elon Musk will accompany Trump, citing his business interests and role in national security. China has called the allegations baseless.",
+      "key_facts": [
+        "An official said: 'The situation with Nvidia should not really have any bearing on the trip.'",
+        "Another official said: 'I don't expect the president to raise it — the Alice Huang issue.'",
+        "APEC in Shenzhen is Nov. 18–19; Trump leaves Monday for Manila first.",
+        "Megaspeed is under scrutiny for possibly helping move restricted Nvidia chips to China."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC reported the officials' statements and connected the scandal to questions about whether Commerce Secretary Howard Lutnick's department has been aggressive enough on chip exports. It also included the exchange over why Musk is going."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner reported the same official quotes and laid out Trump's full itinerary. It noted that Musk is travelling 'despite the controversy' and that no Trump–Kim meeting is planned."
+        }
+      ],
+      "disputed": [
+        "The allegation that Alice Huang is a Chinese spy is unproven; China calls it baseless.",
+        "Whether restricted chips were diverted through Megaspeed is still under investigation."
+      ],
+      "why": "How the administration handles a chip-smuggling and espionage scandal alongside diplomacy with Beijing will shape US technology and security policy toward China.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+          "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+          "published": "2026-11-14T01:34:11+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Jensen Huang Chinese spy scandal won’t be discussed as Trump prepares for historic trilateral with Xi and Putin",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4803638/jensen-huang-chinese-spy-scandal-trump-trilateral-xi-putin/",
+          "published": "2026-11-14T05:14:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Congress prepares inquiries after Jensen Huang's resignation from Nvidia",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "Jensen Huang resigned as Nvidia CEO this week after reports of an affair with Alice Huang, a Megaspeed executive some US officials allege is a Chinese spy. Lawmakers in both parties are now preparing investigations. Senate Banking Chair Tim Scott summoned Huang and Commerce Secretary Howard Lutnick to testify in December and threatened to subpoena Huang. Lutnick agreed to appear voluntarily. Democrats, who take control of Congress in January, have signalled further oversight, and commentators say the episode could reshape US policy on AI chip exports.",
+      "key_facts": [
+        "Huang resigned as Nvidia CEO on Thursday.",
+        "Senate Majority Leader John Thune said he would 'expect there would be some follow-up.'",
+        "Schumer said Congress 'must demand answers from Mr. Huang and others at Nvidia.'",
+        "The NYT reported that Nvidia's general counsel told Commerce investigators he had been in touch with the head of the Bureau of Industry and Security; the Megaspeed probe was later moved to the Justice Department."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Vox treated Huang's fall as a political and policy turning point. It described a broad coalition cheering it, including China hawks, populists, AI-safety advocates, OpenAI and Anthropic, and some Trump officials. It said the coalition was united against his push to sell more chips abroad. Vox also reported allegations of affairs with two Nvidia employees."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC focused on the congressional mechanics: Republican summonses during the lame-duck session, Democrats' plans for January, and scrutiny of Lutnick and the Bureau of Industry and Security."
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang was spying for China remains an allegation by some US officials.",
+        "It is unclear whether Huang will testify voluntarily.",
+        "Reports that Lutnick stalled crackdowns on firms routing chips to China have not been confirmed in these articles."
+      ],
+      "why": "The investigations could change how strictly the US limits advanced AI chip sales to China.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+          "published": "2026-11-13T23:54:36+00:00"
+        },
+        {
+          "source": "Vox",
+          "lean": "left",
+          "bucket": "left",
+          "title": "Why the left and right are both cheering Jensen Huang’s downfall",
+          "url": "https://www.vox.com/politics/510820/jensen-huang-nvidia-critics-hawks-populists-ai-safety",
+          "published": "2026-11-13T21:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Matthews to host first 'Pride in the Park' as protest planned outside",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "The first Pride in the Park event in Matthews, N.C., takes place Sunday, Nov. 15 at Stumptown Park, with more than 50 local vendors. Organizer Melissa Easley calls it a family-friendly business event. Lisa Metzger of Protecting North Carolina Kids plans to protest outside, objecting to advertised drag shows as inappropriate for children. The town says the event is privately organised, not town-sponsored, and that park rental rules apply equally regardless of viewpoint.",
+      "key_facts": [
+        "The event is Sunday, Nov. 15 at Stumptown Park.",
+        "Both the organiser and the protest leader called for the day to stay peaceful.",
+        "Matthews police will be present, as at any event."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WBTV gave both the organiser and the protester space to explain their positions and included the town's statement on equal access to public facilities. Queen City News named critics Leon Threatt and Lisa Metzger."
+        }
+      ],
+      "disputed": [
+        "Whether drag performances are appropriate at a family event is disputed between the organiser and protesters."
+      ],
+      "why": "The event is a local test of how towns handle contested uses of public space.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "First-ever ‘Pride in the Park’ in Matthews to feature local vendors amid planned protest",
+          "url": "https://www.wbtv.com/2026/11/14/first-ever-pride-park-matthews-feature-local-vendors-amid-planned-protest/",
+          "published": "2026-11-14T03:49:08+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Organizers of Pride event scheduled in Mecklenburg County town puzzled by planned protest",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/organizers-of-pride-event-scheduled-in-mecklenburg-county-town-puzzled-by-planned-protest/",
+          "published": "2026-11-14T02:15:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Driver killed in crash with tractor-trailer in Lancaster County, S.C.",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "A sedan driver was killed Thursday night when a tractor-trailer heading east on Highway 9 collided with her 2002 Toyota Camry at Old Camden Monroe Road in Lancaster County, troopers said. The victim was identified as Rhonda Watts Douglas, 56, of Lancaster. The truck driver was not hurt. The crash is under investigation.",
+      "key_facts": [
+        "The crash happened around 8:45–8:47pm Thursday.",
+        "The Camry was travelling north on Old Camden Monroe Road.",
+        "The tractor-trailer driver was uninjured."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WSOC and WCNC gave brief, factual accounts based on state troopers' information."
+        }
+      ],
+      "disputed": [
+        "The cause of the crash has not been released."
+      ],
+      "why": "It is a fatal crash at a rural intersection that local drivers use.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "1 killed in crash involving 18-wheeler, sedan at rural intersection in Lancaster County",
+          "url": "https://www.wsoctv.com/news/local/1-killed-crash-involving-18-wheeler-sedan-rural-intersection-lancaster-county/5DN35BHHDNDYXMO7HTBXQG5PCI/",
+          "published": "2026-11-13T22:50:50+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Deadly crash involving tractor-trailer in Lancaster County under investigation",
+          "url": "https://www.wcnc.com/article/traffic/deadly-crash-tractor-trailer-lancaster-county/275-572081b1-4512-4dec-a72d-ce88d8da3804",
+          "published": "2026-11-14T02:20:34+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "No articles directly address AI regulation in the US or EU. Indirectly related: the Nvidia/Jensen Huang story notes that lawmakers and some officials may push for tighter US export controls on AI chips to China. US officials said export controls will not be negotiated with Beijing.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 7,
+    "center": 21,
+    "right": 7
+  },
+  "stats": {
+    "articles": 303,
+    "stories_found": 213,
+    "sources_ok": 38,
+    "sources_total": 39,
+    "failed": [
+      "Newsweek"
+    ]
+  }
+}

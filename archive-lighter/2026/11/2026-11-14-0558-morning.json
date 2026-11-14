@@ -1,0 +1,90 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-14T10:58:17.656313+00:00",
+  "local_time": "Saturday, November 14, 2026 · 5:58 AM EST",
+  "local_date": "Nov 14, 2026",
+  "slug": "2026-11-14-0558-morning",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Friday was a rough one for air travel: an equipment failure grounded every US flight for about four hours, and airlines are still catching up. Elsewhere, Alaska picked a 37-year-old Democrat as its next governor, Jamaica's leaders talked voter lists and hospitals, and the Beastie Boys are celebrating 40 years of a landmark album. There's also a careful new look at what actually slows aging.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Old equipment grounds every US flight for four hours",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The FAA halted departures at all US airports Friday afternoon after a telecommunications outage hit regional air traffic control centers. The airspace reopened that evening, but the backlog spilled into Saturday with thousands of cancellations. Transportation Secretary Sean Duffy blamed aging 'legacy' equipment and urged Congress to fund upgrades. Officials said the public was never in danger.",
+      "key_facts": [
+        "The ground stop began around 4:11 p.m. Friday, Nov. 13, and was lifted by 8:15 p.m.",
+        "FlightAware reported more than 10,000 delays Friday and nearly 3,300 cancellations by early Saturday.",
+        "Homeland Security Secretary Markwayne Mullin said there was no evidence of a cyberattack and no link to Thursday's Microsoft outage, though investigators are still checking.",
+        "A day earlier, Duffy asked Congress for $30 billion to modernize air traffic control."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're flying soon, especially with Thanksgiving coming, check with your airline before heading to the airport. Officials expect delays while things catch up.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US ground stop lifted after several hours, thousands of delayed flights",
+          "url": "https://www.wbtv.com/2026/11/14/us-ground-stop-lifted-after-several-hours-thousands-delayed-flights/",
+          "published": "2026-11-14T01:57:46+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US grounds all flights, sparking travel chaos",
+          "url": "https://www.jamaicaobserver.com/2026/11/14/us-grounds-flights-sparking-travel-chaos/",
+          "published": "2026-11-14T05:14:00+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Travelers scramble for hotels and rentals after Charlotte ground stop",
+          "url": "https://www.wsoctv.com/news/local/travelers-scramble-hotels-rentals-after-charlotte-ground-stop/XAP422TYGZDGTCULXFKAAWLQAU/",
+          "published": "2026-11-14T03:32:35+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day",
+          "url": "https://www.axios.com/2026/11/14/faa-ground-stop-saturday",
+          "published": "2026-11-14T10:28:42+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 4,
+    "right": 0
+  },
+  "stats": {
+    "articles": 169,
+    "stories_found": 139,
+    "sources_ok": 22,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Newsweek",
+      "Positive News"
+    ]
+  }
+}

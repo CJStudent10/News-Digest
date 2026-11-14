@@ -1,304 +1,287 @@
-# My Daily Brief: Evening edition
-_Friday, November 13, 2026 · 9:42 PM EST · 478 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Saturday, November 14, 2026 · 5:56 AM EST · 303 articles from 38 outlets · summaries by Claude_
 
-> A nationwide FAA ground stop halted US air travel for hours on Friday. Officials blamed aging equipment and said there was no sign of a cyberattack, and they used the moment to press Congress for modernization money. The Nvidia scandal widened into a public dispute inside the Trump cabinet. Also in this edition: a challenge to Chuck Schumer's Senate leadership, Microsoft's global outage, a cruise boat collision in New Orleans, and a planned Trump–Xi–Putin meeting.
+> A communications failure at US air traffic control centres led the FAA to halt all US departures for about four hours, while a separate, day-long Microsoft 365 outage disrupted governments and businesses in more than 70 countries; officials said neither appears to be an attack. The White House announced a first-ever Trump–Xi–Putin meeting in China next week, and the fallout from Jensen Huang's exit from Nvidia is moving to Congress. Also in this edition: a Democrat wins Alaska's governorship, a report says the US has lost its measles-elimination status, and two Charlotte-area local stories.
 
 
-**Sources linked in this edition:** 15 left · 27 center · 7 right
+**Sources linked in this edition:** 7 left · 21 center · 7 right
 
 ---
 
-## 1. FAA lifts nationwide ground stop; officials blame old equipment, not a cyberattack
-· Covered by 21 outlets (L 6 · C 10 · R 5)
+## 1. FAA lifts nationwide ground stop after air traffic control communications failure
+· Covered by 18 outlets (L 6 · C 10 · R 2)
 
-The FAA lifted a nationwide ground stop at 8:15 p.m. ET Friday, about four hours after communication and radar problems led it to halt departures. At a White House briefing, Transportation Secretary Sean Duffy said overloaded routers in an 'incredibly old' air traffic control system went down, and he warned that recovery would be slow. Homeland Security Secretary Markwayne Mullin said there was no evidence of a cyberattack and no link to the concurrent Microsoft outage, though agencies had not ruled anything out. Both officials used the briefing to urge Congress to fund a new air traffic control system. Disruptions are expected to carry into the weekend.
+The Federal Aviation Administration halted departures at all US airports on Friday afternoon after communications problems hit regional air traffic control centres. The stop was lifted at 8:15pm ET, about four hours later. Transportation Secretary Sean Duffy blamed an 'incredibly old' system whose routers 'got overloaded with data.' Homeland Security Secretary Markwayne Mullin said preliminary checks showed no sign of a 'nefarious attack.' Thousands of flights were cancelled or delayed, delays spread to departures from Europe and South Korea, and officials warned that getting back to normal will be slow.
 
 **Key facts**
-- The ground stop began just before 4 p.m. ET Friday and was lifted at 8:15 p.m. ET.
-- Duffy said more than 3,500 planes were airborne when the stop was issued; by 8 p.m. ET fewer than 400 remained in the air.
-- FlightAware counted roughly 10,500 or more delays and about 3,580 cancellations.
-- Duffy said the FAA did not lose all radar or communications, and medevac and law enforcement flights continued.
-- ASI, the contractor rolling out the FAA's new AI-based 'Smart' tool, said the ground stop was not caused by its system.
+- Problems began at 3:36pm ET Friday and the ground stop was lifted at 8:15pm ET, according to Duffy.
+- More than 3,500 planes were in the air when the stop was issued; critical medevac, cargo and law enforcement flights were allowed to continue.
+- It was the first nationwide ground stop since January 2023 and only the second since the 9/11 attacks.
+- Duffy asked Congress for $50 billion in emergency funding to modernise air traffic control and said he could not rule out another outage.
+- US-bound flights from Incheon were delayed about two hours, and Eurocontrol suspended US-bound departures from Europe until 5am UTC Saturday.
 
 **How it's being framed**
-- **Left:** The Guardian stressed travel chaos and described the briefing as quickly turning into a funding plea. It quoted Democrats Gavin Newsom and Ro Khanna criticizing the administration's communication, along with frustrated passengers. It also noted Mullin's suggestion that new technology may have overwhelmed the older system, and CNN's report that the trouble began at Chicago Midway.
-- **Center:** AFP, via the Korea Herald, and Axios focused on the official explanation: old hardware, no cyberattack, and the request to Congress for funding. AFP also noted that Trump had not commented hours into the disruption, and that officials defended him on this.
-- **Right:** Fox Business and the Washington Examiner gave a detailed timeline built on Duffy's account and his emphasis on caution and safety. They highlighted the funding request and noted that the FAA had not ruled out a cyberattack. Fox included ASI's statement denying any role.
+- **Left:** The Guardian focused on chaos for passengers, with traveller interviews at JFK. It noted that the White House briefing 'quickly turned into a plea for funding' and quoted critics: Gov. Gavin Newsom said the administration was not giving travellers clear answers, and Rep. Ro Khanna said he was waiting for a briefing.
+- **Center:** Axios and The Korea Herald stuck to logistics: the ripple effects on airlines and crews, the international delays, and officials' explanation of outdated equipment. They did not include much political reaction.
+- **Right:** Fox Business centred on Duffy's briefing and timeline: his statements that the stop was an 'abundance of caution' and that not all communications were lost, and his point that President Trump had been seeking modernisation funds. It also included a statement from AI contractor ASI denying any role. The Daily Caller ran an early report built mostly on the FAA's official notices.
 
 **Disputed or unclear**
-- The exact root cause: Duffy described overloaded routers, while Mullin suggested new equipment overwhelmed the old system. Duffy denied that the new Smart system was responsible.
-- The size of the funding request: AFP reported a $30 billion request made the previous day, while Fox Business reported Duffy now seeking $50 billion in emergency funding.
-- Whether a cyberattack has been fully ruled out: officials said there is no evidence of one, but investigations are continuing.
+- Flight disruption figures vary by source: FlightRadar24, cited by the Guardian, counted more than 6,600 cancellations and 8,600 delays, while FlightAware counted more than 11,000 flights delayed or cancelled.
+- The cause is preliminary. Duffy attributed it to router overload, while an earlier Fox Business report said the FAA had not ruled out a cyberattack at that point.
+- How long airline schedules will take to recover is unclear; analysts said disruption could last days.
 
-**Why it matters:** A failure that grounded the entire US air system raises questions about the reliability of aviation infrastructure and is likely to shape a major funding fight in Congress.
+**Why it matters:** The outage shows how fragile the ageing US air traffic control system is, and it is now part of a funding fight between the administration and Congress.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10936972) (center): US says airspace now 'opened up,' no cyberattack
-- [The Guardian (US)](https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights) (lean-left): US aviation agency lifts nationwide ground stop affecting all air travel
+- [The Korea Herald](https://www.koreaherald.com/article/10936928) (center): US ground stop delays flights from Incheon Airport
+- [The Guardian (World)](https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues) (lean-left): Airport chaos continues after US ground stop lifted – as it happened
 - [Fox Business](https://www.foxbusiness.com/fox-news-us/nationwide-faa-ground-stop-lifted-cancellations-significant-delays-continue-transportation-secretary) (lean-right): Nationwide FAA ground stop lifted but cancellations, significant delays to continue: Transportation secretary
 - [Axios](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop) (center): FAA ends hours-long nationwide ground stop
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained) (lean-left): What to know about the rare nationwide ground stop issued by the FAA
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/national-security/4803692/faa-lifts-nationwide-ground-stop-halt-air-travel/) (lean-right): FAA lifts nationwide ground stop following historic halt on all air travel
+- [The Guardian (US)](https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights) (lean-left): Flights slowly resume after US aviation agency lifts nationwide ground stop
+- [The Daily Caller](https://dailycaller.com/2026/11/13/faa-nationwide-ground-stop-us-flight-departures-sean-duffy) (right): FAA Issues Nationwide Ground Stop, Halting All US Flight Departures
 
 
-## 2. Nvidia's Jensen Huang resigns amid affair reports and spy concerns; board seeks successor
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 7 outlets (L 3 · C 3 · R 1)
+## 2. White House says Trump, Xi and Putin will hold first three-way meeting at APEC in China
+`Asia Business & Politics` `US Headlines` `Korea` · Covered by 7 outlets (L 1 · C 6 · R 0)
 
-Nvidia co-founder Jensen Huang resigned as CEO on Thursday after reports of several extramarital affairs. One reported relationship was with Alice Huang (no relation), an executive at Singapore-based Megaspeed whom US officials reportedly suspect of spying for China. Megaspeed, a major buyer of Nvidia chips, has been investigated over suspected diversion of restricted chips to China. CFO Colette Kress is interim CEO, and the Financial Times reports that the board has approached Arm CEO Rene Haas. Huang and Commerce Secretary Howard Lutnick are due to testify before the Senate Banking Committee, and Democrats have opened their own inquiry into the administration's handling of the matter.
-
-**Key facts**
-- Huang resigned Thursday after 33 years leading Nvidia; Colette Kress is interim CEO.
-- Nvidia's board says it will consider internal and external candidates for permanent CEO; Arm said 'no comment' on the Haas report.
-- TechCrunch reported that Megaspeed bought about $4.8 billion of Nvidia chips over two years.
-- Senate Banking chair Tim Scott has asked Huang and Lutnick to testify; Lutnick is scheduled for next month.
-- The New York Times reported that Trump called Huang two days before he stepped down and urged him to fight for his job.
-
-**How it's being framed**
-- **Left:** The Guardian focused on political accountability, especially pressure on Lutnick and Trump's ties to Huang. It quoted Democrats Schumer and Jeffries as well as Republicans Curtis and Cornyn ('Heads should roll'), and cited AP reporting that White House officials were discussing whether Lutnick should be fired.
-- **Center:** TechCrunch built a detailed timeline that included the national security stakes and reports of Huang's state of mind. CNBC looked back at Nvidia's history and the stakes for its AI dominance. Newsweek covered the viral AI-generated memes and quoted a misinformation expert.
-- **Right:** Fox Business concentrated on corporate succession: the FT report on Rene Haas, Kress's appointment, and the board's praise for Huang's contributions. Its coverage was largely free of the political accountability angle.
-
-**Disputed or unclear**
-- The claim that Alice Huang is a Chinese spy rests on reported suspicions of US officials and has not been proven.
-- Nvidia, Huang and Kimberly Powell have not confirmed the reported affair with Powell; a further Reuters report of another affair cites an unnamed employee.
-- Estimates of chip volumes differ: $4.8 billion purchased by Megaspeed (TechCrunch) versus at least $7.5 billion moved to Chinese firms (The Information, via the Daily Caller).
-- What Trump and administration officials knew, and when, remains under investigation.
-
-**Why it matters:** A leadership crisis at the world's leading AI chipmaker touches markets, US–China tech competition, and national security policy all at once.
-
-**Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) (center): The unfolding Jensen Huang scandal: a timeline
-- [The Guardian (US)](https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china) (lean-left): Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
-- [Fox Business](https://www.foxbusiness.com/fox-news-tech/new-candidate-emerges-replace-jensen-huang-nvidia-ceo) (lean-right): New candidate emerges to replace Jensen Huang as Nvidia CEO
-- [Newsweek](https://www.newsweek.com/jensen-huang-nvidia-resignation-ai-memes-deepfakes-12714595) (center): Jensen Huang Built the AI Meme Machine. Now It's Turning on Him
-- [The Guardian (Asia-Pacific)](https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest) (lean-left): Why the Nvidia scandal is far from over – The Latest
-- [CNBC](https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html) (center): Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here
-
-
-## 3. Van Hollen launches challenge to Schumer for Senate Democratic leader
-`US Headlines` · Covered by 8 outlets (L 3 · C 4 · R 1)
-
-Maryland Sen. Chris Van Hollen announced Thursday that he will challenge Chuck Schumer for leader of Senate Democrats, who take the majority on January 4 after their midterm wins. Van Hollen said voters 'chose change,' called for new leadership, and backed ending the filibuster. Schumer said he welcomes the discussion and has the votes to stay on. The secret-ballot vote is expected in early December.
+The White House said President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin will meet on Thursday on the sidelines of the APEC summit in Shenzhen, the first meeting of its kind. US officials said Trump will push for nuclear arms reductions and raise the war in Iran, but will not discuss Ukraine, which they said is being handled on a separate track. A senior official said no agreement is expected and described the meeting as a first conversation. Beijing has not confirmed the three-way meeting, and Ukraine's President Zelensky has warned it could become a Yalta-style carve-up of spheres of influence.
 
 **Key facts**
-- The winner needs 28 votes, or 29 if Democrats win Alaska's Senate race.
-- Bernie Sanders, Senator-elect Abdul El-Sayed and Senator-elect Peggy Flanagan back Van Hollen.
-- Senators Jacky Rosen and Kirsten Gillibrand back Schumer.
-- Schumer has led Senate Democrats since 2017; Fox reports there has been no contested Democratic leadership election since 1994.
-- Van Hollen said he is no longer pursuing a possible 2028 presidential bid.
+- The meeting is planned for Thursday in Shenzhen; Trump will also hold a bilateral meeting and lunch with Xi, their fourth meeting since 2025.
+- The US-Russia New START treaty expired in February; Trump rejected a one-year extension and wants a new deal that includes China.
+- A senior US official said: 'We do not expect to get to any kind of agreement.'
+- Trump will also attend an ASEAN summit in the Philippines; no meeting with North Korea's Kim Jong Un is planned.
+- Elon Musk will travel with Trump but will not attend the meeting.
 
 **How it's being framed**
-- **Left:** PBS analyzed the vote math and concluded that Schumer has the advantage, while noting that many newly elected senators oppose him. The Guardian ran an op-ed by Bernie Sanders casting the race as a choice between establishment politics and a grassroots, working-class agenda.
-- **Center:** The BBC, Axios and The Hill presented the race as a test of Democratic divisions. They quoted endorsements on both sides and noted that Schumer remains the favorite.
-- **Right:** Fox News called it a 'progressive rebellion,' reporting from a Denver Democratic conference. It highlighted Van Hollen's pledge to end the filibuster and quoted activists calling for Schumer to go.
+- **Left:** Al Jazeera foregrounded the arms-control context: no caps on the two largest arsenals for the first time in over 50 years. It stressed low expectations and covered the Yalta comparisons, quoting both Kremlin spokesman Dmitry Peskov and Zelensky's concern about a deal made behind Kyiv's back.
+- **Center:** BBC, CNA and DW led with the White House announcement and quoted spokeswoman Olivia Wales. They added context on China's long refusal to join trilateral nuclear talks, Zelensky's Yalta warning, and European concern over the administration softening toward Moscow. DW quoted an official saying China should 'step up… to the adults' table.' The Korea Herald and The Hill ran short logistical reports.
 
 **Disputed or unclear**
-- Whether Schumer actually has the votes: he says he does, but PBS reports he lacks a public majority of pledges.
-- Alaska's Senate race between Mary Peltola and Dan Sullivan is still being counted, which affects the vote threshold.
+- China and Russia have not publicly confirmed the trilateral meeting. Chinese state media have mentioned only 'bilateral' talks, and in October China's Foreign Ministry said joining trilateral nuclear talks was 'neither fair, reasonable nor realistic.'
+- Accounts of Moscow's response differ: Al Jazeera reports Peskov called the meeting 'extremely significant,' while BBC and DW say Moscow has yet to comment on the announcement.
+- Whether Ukraine will truly stay off the agenda is questioned by Zelensky.
 
-**Why it matters:** The outcome will shape how the new Democratic majority uses its power, including on the filibuster and its approach to Trump.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss) (center): Democratic Senate leader Schumer set to face leadership challenge
-- [PBS NewsHour](https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race) (lean-left): Does Van Hollen have enough support to beat Schumer in Senate leadership race?
-- [Fox News](https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected) (right): Schumer's leadership rival reveals major Senate rule change he'd pursue if elected
-- [Axios](https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader) (center): The senators who could join Van Hollen's insurgency against Schumer
-- [The Guardian (US)](https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader) (lean-left): What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders
-- [The Hill](https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen/) (center): Democratic Sen.-elect Flanagan backs Van Hollen over Schumer
-
-
-## 4. Microsoft apologizes for global outage, cites network change
-· Covered by 11 outlets (L 4 · C 7 · R 0)
-
-A Microsoft 365 outage hit Outlook, Teams, Copilot and other services for millions of users in more than 70 countries, lasting roughly a day or more before recovery began. Microsoft said it was 'deeply sorry' and blamed an issue from an earlier network capacity upgrade that surfaced after a recent network change. The company said the problem was not related to cyberattacks or AI agents. Courts, hospitals, police forces and government offices were affected in several countries. Microsoft says it will publish a full post-incident report.
-
-**Key facts**
-- Microsoft said the outage was 'a technical issue not related to cyber or AI / agents.'
-- The company said services were restored gradually to ensure stability, with some users still facing intermittent issues and delayed email.
-- Maine's courts warned that protection-order requests filed by email might not have been received.
-- In Australia, some health facilities returned to paper scripts; UK police forces asked the public to phone instead of reporting crimes online.
-
-**How it's being framed**
-- **Left:** The Guardian emphasized the economic damage and dependence on foreign technology, quoting Australian experts who warned of billion-dollar costs and closures of small businesses. PBS ran an explainer on why email outages take longer to recover from. The Verge reported a sourced link to Azure network configuration changes.
-- **Center:** The BBC, Axios and The Hill focused on the scale of the disruption, Microsoft's statements, and vulnerabilities for courts and governments.
-
-**Disputed or unclear**
-- The precise technical cause awaits Microsoft's post-incident report; the Azure VNet link comes from a Verge correspondent's sources.
-- Reports differ on timing, with start dates given as Thursday, November 12 or Friday depending on time zone, and some services still degraded.
-- Australian cost estimates in the billions are expert projections.
-
-**Why it matters:** The outage showed how much of daily business and government depends on a single provider's software.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/cmpqrzpq193do?at_medium=RSS&at_campaign=rss) (center): Watch: How the Microsoft outage affected North America
-- [The Guardian (World)](https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia) (lean-left): Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia
-- [Axios](https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress) (center): How the Microsoft outage impacted courts and governments
-- [PBS NewsHour](https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services) (lean-left): What to know about Microsoft's outage and why it takes so long to restore email services
-- [The Hill](https://thehill.com/policy/technology/6218199-microsoft-outage-recovery-process/) (center): Microsoft ‘seeing encouraging recovery progress’ in global Outlook, Teams outage
-- [The Verge](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage) (lean-left): Microsoft’s massive Outlook outage might be over
-
-
-## 5. Bessent says Commerce held up blacklisting of Nvidia customer Megaspeed
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 5 outlets (L 1 · C 3 · R 1)
-
-Treasury Secretary Scott Bessent told CNBC that Treasury, War, USTR and State had favored adding Megaspeed to the US entity list 'for months,' but that 'Commerce has the pen.' The comment directed scrutiny at Commerce Secretary Howard Lutnick. Bessent said he was frustrated by chip 'leakage' to China. He also said the real story was whether Nvidia properly vetted its customers. Lutnick is due to testify before the Senate Banking Committee in December.
-
-**Key facts**
-- Bessent: 'Treasury, War, USTR and State were in favor of putting Megaspeed on the entity list for months. But Commerce has the pen.'
-- Bessent said Trump made clear that China should not receive any Nvidia chips above H100s.
-- Megaspeed is not on the entity list.
-- A Commerce spokesperson denied that a reported conversation between Bessent and Lutnick took place; Bessent said, 'We don't repeat conversations in the Situation Room.'
-
-**How it's being framed**
-- **Left:** PBS framed the story as a public fight between Trump advisers. It highlighted Lutnick's closeness to Huang and recounted the history of export controls, including the Commerce Department's 2025 decision to drop a Biden-era chip rule, with analysis from a former Biden NSC official.
-- **Center:** The BBC, Axios and The Hill described a rare public rift in the cabinet. They noted past Bessent–Lutnick tensions and gave weight to Bessent's point that Nvidia's own oversight should be examined.
-- **Right:** The Daily Caller used pointed language ('Throws Lutnick Under The Bus,' 'Chip Export Fiasco') and cited The Information's $7.5 billion figure. It described Huang as having shipped chips to China following the relationship.
-
-**Disputed or unclear**
-- Whether Bessent and Lutnick had the reported Situation Room exchange; Commerce denies it.
-- Whether Megaspeed diverted advanced chips to China, and how many, remains under investigation.
-- Whether Nvidia knew or should have known that it was selling to pass-through companies.
-
-**Why it matters:** The dispute could determine who in the administration is held accountable for advanced US chips reaching China.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss) (center): Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague
-- [PBS NewsHour](https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips) (lean-left): Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips
-- [The Daily Caller](https://dailycaller.com/2026/11/13/treasury-secretary-scott-bessent-commerce-howard-lutnick-china-nvidia-ceo-jensen-huang-megaspeed) (right): Bessent Throws Lutnick Under The Bus On Trump’s Chip Export Fiasco
-- [Axios](https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia) (center): Bessent puts Megaspeed heat on Lutnick: "Commerce has the pen"
-- [The Hill](https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute/) (center): Bessent: Treasury pushed to blacklist Megaspeed, but ‘Commerce has the pen’
-
-
-## 6. Tanker strikes docked river cruise boat in New Orleans; 32 hospitalized, no deaths
-· Covered by 8 outlets (L 2 · C 5 · R 1)
-
-The tanker Atlantic Asphalt struck the docked paddlewheel cruise boat American Heritage on the Mississippi River in New Orleans on Friday at about 12:30 p.m. The impact caused the cruise boat to tip over and partly sink while passengers were disembarking. All passengers and crew were accounted for, and 32 people were hospitalized, none critically. Mayor Helena Moreno called it 'a miracle on the Mississippi.' The cause is under investigation.
-
-**Key facts**
-- 129 passengers were aboard; Axios cites about 180 people in total including crew.
-- 32 people were hospitalized, none with critical injuries, and no deaths were reported.
-- The mayor said the tanker 'lost control and collided into the cruise ship.'
-- The 160-meter, Marshall Islands–flagged tanker carries asphalt and bitumen.
-- The river was closed to vessel traffic.
-
-**How it's being framed**
-- **Left:** Al Jazeera and PBS gave straightforward accounts that drew on official figures, details about the vessels, and witness quotes.
-- **Center:** DW, Axios and a CBS affiliate emphasized the rescue, the mayor's 'miracle' remark, and eyewitness accounts.
-- **Right:** The Daily Caller covered the early rescue with embedded social media posts and praised the speed of the emergency response. Its reporting came before injury figures were available.
-
-**Disputed or unclear**
-- The cause of the collision and whether the tanker was carrying cargo are unknown.
-- Reported totals of people aboard vary: nearly 130, 129 passengers, and about 180 including crew.
-
-**Why it matters:** Serious accidents on a busy commercial waterway raise questions about port safety and traffic on the river.
-
-**Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf) (center): Tanker collides with cruise ship on Mississippi in New Orleans
-- [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-tanker-crashes-into-river-cruise-boat-in-new-orleans) (lean-left): News Wrap: Tanker crashes into river cruise boat in New Orleans
-- [The Daily Caller](https://dailycaller.com/2026/11/13/rescue-effort-underway-tanker-collides-with-river-boat-cruise-ship-port-of-new-orleans-american-cruise-lines) (right): Rescue Effort Underway After Tanker Collides With River Boat Cruise Ship
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/this-is-real-bad-witness-reacts-mississippi-river-ship-collision/) (center): ‘This is real bad’: Witness reacts to Mississippi River ship collision
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us) (lean-left): 32 passengers taken to hospital after tanker hits river cruise boat in US
-- [Axios](https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike) (center): Mississippi River cruise crash has no fatalities, critical injuries
-
-
-## 7. Charlotte ICE protester sentenced to five months in federal prison
-`Charlotte Local` `US Headlines` · Covered by 4 outlets (L 1 · C 3 · R 0)
-
-A federal judge sentenced Heather Morrow, 45, a Charlotte school bus driver, to five months in prison followed by seven months of supervised release. The charges stem from a November 2025 protest at an ICE office during 'Operation Charlotte's Web.' A jury convicted her in September of assault and other misdemeanors. Prosecutors had sought eight months. Her lawyer says she will appeal, and she reports to prison on January 13, 2027.
-
-**Key facts**
-- Judge Matthew E. Orso imposed five months in prison plus seven months of supervised release.
-- Prosecutors had asked for eight months.
-- Co-defendant William Stanley received one year of probation last month.
-- Morrow apologized in court.
-
-**How it's being framed**
-- **Left:** WFAE (NPR) gave a brief factual report that noted Morrow's job, her unsuccessful run for county commissioner, and her planned appeal.
-- **Center:** Local TV outlets presented both sides: the US Attorney's Office called the case interference with law enforcement, not protected speech, while supporters said the government wanted to make an example of her.
-
-**Disputed or unclear**
-- Supporters argue that the sentence was meant to send a message; prosecutors say it reflects the crime. An appeal is planned.
-
-**Why it matters:** The case is an early test of how federal courts sentence protesters at immigration enforcement sites.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/woman-convicted-assaulting-ice-officer-be-sentenced-friday/UWCZ4CEVHZHBBBLXCXTLC4O44Q/) (center): Judge sentences Charlotte woman for assaulting ICE officer
-- [WFAE (Charlotte NPR)](https://www.wfae.org/crime-justice/2026-11-13/operation-charlottes-web-protester-sentenced-to-5-months-in-federal-prison) (lean-left): 'Operation Charlotte's Web' protester sentenced to 5 months in federal prison
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/charlotte-woman-sentencing-interfering-ice-agents-charlotte-north-carolina/275-bc88d1e1-3d78-4296-9b92-cd9e5a822a03) (center): Charlotte woman sentenced to prison for interfering with ICE
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-woman-gets-prison-time-for-assaulting-officer-during-attempted-arrest-at-ice-facility-doj/) (center): Charlotte woman gets prison time for assaulting officer during attempted arrest at ICE facility: DOJ
-
-
-## 8. FAA grounds all US flights for first time since 2023
-`Korea` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-This is early coverage of Friday's FAA ground stop, issued over communication problems at the 22 regional air traffic control centers. It was only the second nationwide stop since the 9/11 attacks. Homeland Security Secretary Mullin said there was no sign yet of a nefarious act. Hundreds of flights were diverted, and the disruption spread to US-bound flights from Australia.
-
-**Key facts**
-- The previous nationwide ground stop was in January 2023.
-- Cirium counted at least 827 diversions as of 7:05 p.m. EST.
-- Some 11,000 flights carrying more than 1.5 million passengers were scheduled to depart after 4 p.m. EST.
-- Some flights within Alaska and Hawaii were unaffected.
-
-**How it's being framed**
-- **Left:** PBS carried AP's report focused on stranded travelers and official reassurances. The Guardian covered delays at Sydney, Melbourne and Brisbane.
-- **Center:** The Korea Herald ran the same AP-based account, with passenger stories and diversion statistics.
-
-**Disputed or unclear**
-- The cause was still under investigation when these reports were written; see the related story on the ground stop being lifted.
-
-**Why it matters:** It shows how a single US system failure can spread to international travel.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10936914) (center): Flights halted at airports across US due to air traffic control communications problems
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems) (lean-left): FAA grounds all flights at U.S. airports due to air traffic control communications problems
-- [The Guardian (World)](https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel) (lean-left): US-bound flights out of Australia delayed after telecommunications outage grounded American planes
-
-
-## 9. Trump to meet Xi and Putin together in China next week
-`Asia Business & Politics` `US Headlines` `Korea` · Covered by 4 outlets (L 0 · C 4 · R 0)
-
-The White House said Trump, Xi Jinping and Vladimir Putin will hold the first-ever three-way meeting between US, Chinese and Russian leaders on Thursday, on the sidelines of the APEC summit in Shenzhen. Officials said Trump will raise reducing nuclear arsenals and the war in Iran. Ukraine is not expected to be discussed, and neither are the Nvidia scandal or chip export controls. Trump will first attend an ASEAN summit in the Philippines, and a US official said there are no plans to engage North Korea.
-
-**Key facts**
-- The meeting is scheduled for Thursday in Shenzhen, alongside APEC.
-- Trump will also hold a bilateral lunch and meeting with Xi, their fourth meeting since his return to office; no separate meeting with Putin is planned.
-- Elon Musk will accompany Trump but will not join the trilateral meeting.
-- Trump leaves Washington Monday for the Philippines.
-
-**How it's being framed**
-- **Center:** CNA detailed the agenda from White House officials. Yonhap and the Korea Herald focused on the absence of North Korea engagement and framed the meeting in the context of efforts to end the Ukraine war.
-
-**Disputed or unclear**
-- Yonhap and the Korea Herald link the meeting to Ukraine diplomacy, while US officials told CNA that Ukraine will not be discussed there.
-
-**Why it matters:** An unprecedented meeting of the three nuclear powers could affect arms control and several ongoing conflicts.
+**Why it matters:** A meeting of the three largest nuclear powers could shape arms control and great-power relations, even if no deal comes out of it.
 
 **Read it yourself:**
 - [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/trump-xi-putin-trilateral-summit-apec-6551001) (center): Trump, Xi, Putin to hold historic meeting in China: White House
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261114001151315) (center): (LEAD) Trump to meet Xi, Putin in China next week; no plans for N. Korea engagement: reports
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china) (lean-left): Trump, Xi and Putin to hold first three-way summit in China
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss) (center): Trump, Putin and Xi plan historic joint meeting in China next week, White House says
+- [Deutsche Welle](https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf) (center): Trump to meet Xi, Putin for three-way huddle on nuclear arms talks
 - [The Korea Herald](https://www.koreaherald.com/article/10936945) (center): Trump to hold talks with Xi, Putin next week
 - [The Hill](https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/) (center): Trump, Putin and Xi to meet in first trilateral meeting between leaders
 
 
-## 10. Charlotte-born QB Sam Hartman named star of 'The Bachelor' season 30
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 2 · R 1)
+## 3. Microsoft says services restored after global outage of Outlook, Teams and Copilot
+· Covered by 7 outlets (L 1 · C 5 · R 1)
 
-ABC named Washington Commanders backup quarterback Sam Hartman, a 27-year-old Charlotte native, as the lead of The Bachelor's 30th season. The show returns after a two-year hiatus, with a premiere on March 21. Hartman previously played at Wake Forest and Notre Dame.
+Microsoft said on Saturday it had fully restored Microsoft 365 services after an outage of more than a day that disrupted Outlook, Teams, Copilot and other tools in more than 70 countries. The company apologised and said the problem was introduced during a 'network capacity upgrade' and was not caused by a cyberattack or an AI agent. The outage affected government agencies, hospitals, courts, schools and businesses from Australia and Japan to the UK and US. Microsoft says it will publish a full report once its assessment is complete.
 
 **Key facts**
-- The season premieres March 21 (2027) on ABC and streams on Hulu.
-- Hartman threw for 12,967 yards and 110 touchdowns at Wake Forest.
+- Reports began around 12:25–1pm ET Thursday; Microsoft announced full restoration early Saturday.
+- Downdetector logged more than 7.4 million reports worldwide, peaking at nearly 20,000 a minute.
+- Microsoft said it is 'deeply sorry' and had not detected any malicious activity.
+- The affected products have more than 430 million users, according to the BBC.
+- Microsoft extended the retry window for delayed emails to 48 hours to protect messages.
 
 **How it's being framed**
-- **Center:** Charlotte outlets emphasized his local roots.
-- **Right:** The Daily Caller focused on his football career and on past athlete Bachelors.
+- **Left:** The Guardian focused on Australia. It quoted experts warning of billion-dollar costs and possible small-business closures, and centred concerns about 'Australia's reliance on foreign technology.' It also quoted a risk adviser who said a change that 'should have been tested' was pushed out.
+- **Center:** BBC, CNBC, DW and The Korea Herald gave detailed accounts of the timeline and Microsoft's technical explanation, with examples of impact on governments, health services and ordinary workers. They framed the event as a reminder of dependence on a few Big Tech providers.
+- **Right:** The New York Post took a market and business angle. It cited flat share performance, an estimate of $300–500 million in insured losses compared with the 2024 CrowdStrike outage, and analysts' worry that repeated Microsoft 365 outages this year raise reliability questions.
 
-**Why it matters:** It is a light local-interest story for Charlotte readers.
+**Disputed or unclear**
+- The economic cost is unsettled: Australian experts warned of billions in costs there, while a Morningstar DBRS analyst put global insured losses at $300–500 million.
+- Microsoft's explanation has shifted. It initially cited a traffic surge and a server-health component, then a problem from an earlier network capacity upgrade. A full report is pending.
+- Reported duration varies by time zone and source, from roughly 18 hours to more than 24 hours.
+
+**Why it matters:** Many governments and businesses depend on a single provider's email and collaboration tools, and this outage showed how far one failure can spread.
 
 **Read it yourself:**
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-born-nfl-quarterback-sam-hartman-is-the-next-bachelor-for-season-30/) (center): Charlotte-born NFL quarterback Sam Hartman is the next 'Bachelor' for season 30
-- [The Daily Caller](https://dailycaller.com/2026/11/13/washington-commanders-quarterback-sam-hartman-the-bachelor-reality-show-abc-romance-dating) (right): Washington Commanders Quarterback Sam Hartman To Star In ‘The Bachelor’
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/entertainment-news/sam-hartman-bachelor-charlotte-native-washington-quarterback-season-30/275-9847934a-bd1b-4032-8738-16e05d47c928) (center): 'The Bachelor' casts Charlotte native, Washington quarterback as Season 30 star
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss) (center): Microsoft says services fully restored after day-long global outage
+- [The Guardian (World)](https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia) (lean-left): Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia
+- [New York Post](https://nypost.com/2026/11/14/business/microsoft-restores-service-to-outlook-and-teams-after-historic-outage-crippled-businesses-governments/) (lean-right): Microsoft restores service to Outlook and Teams after historic outage crippled businesses, governments
+- [CNBC](https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html) (center): Microsoft apologizes for massive outage that took down Outlook and other 365 services
+- [Deutsche Welle](https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf) (center): Microsoft says all services working again
+- [The Korea Herald](https://www.koreaherald.com/article/10936977) (center): Microsoft apologizes as global service outage stretches into second day
+
+
+## 4. Democrat Jonathan Kreiss-Tomkins wins Alaska governor's race
+`US Headlines` · Covered by 4 outlets (L 1 · C 1 · R 2)
+
+Former state lawmaker Jonathan Kreiss-Tomkins, a Democrat, won Alaska's ranked-choice race for governor after more than a week of vote counting, according to AP and Decision Desk HQ. He defeated three Republicans: Trump-endorsed Bernadette Wilson, former Anchorage mayor Dave Bronson and former attorney general Treg Taylor. He replaces term-limited Republican Gov. Mike Dunleavy and takes office Dec. 7. A ballot measure to repeal ranked-choice voting failed.
+
+**Key facts**
+- Kreiss-Tomkins, 37, will be the youngest governor in Alaska history; the last Democratic governor, Tony Knowles, was elected in 1998 and left office in 2002.
+- He was endorsed by Republican Sen. Lisa Murkowski and three former governors: a Democrat, an independent and a Republican.
+- Trump endorsed Wilson and criticised Bronson and Taylor for staying in the race.
+- With this and other midterm results, Democrats will hold 30 governorships, up from 24.
+
+**How it's being framed**
+- **Left:** NPR emphasised Kreiss-Tomkins' bipartisan 'man of the middle' pitch and his cross-party endorsements. It also described Alaska's challenges, including school closures, high costs, a looming natural gas shortage and out-migration.
+- **Center:** The Hill gave a brief race call, noting he is the first Democrat to win the office in more than 20 years.
+- **Right:** Fox News framed the result around Republican infighting, with multiple GOP candidates splitting the field despite Trump's endorsement, and explained ranked-choice mechanics. The New York Post placed it within a national Democratic midterm wave and detailed his platform: school funding, taxing oil and gas producers, and a data-centre moratorium. It also noted the tension between Trump and Republicans who backed ranking.
+
+**Why it matters:** A Democrat winning a reliably Republican state adds to a broader shift in governorships and is a test for Alaska's ranked-choice system.
+
+**Read it yourself:**
+- [The Hill](https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/) (center): Democrat flips Alaska governor’s office
+- [NPR](https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins) (lean-left): Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican
+- [New York Post](https://nypost.com/2026/11/14/us-news/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska/) (lean-right): Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska
+- [Fox News](https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting) (right): Democrat flips Alaska governor's mansion after Trump-backed GOP infighting
+
+
+## 5. Report: US loses measles-elimination status after 26 years
+`Asia Business & Politics` · Covered by 3 outlets (L 0 · C 2 · R 1)
+
+The Pan American Health Organization has revoked the United States' measles-elimination status, the Wall Street Journal reported, citing people familiar with the matter. The report says PAHO found the virus had circulated continuously in the US for more than 12 months. PAHO has not publicly confirmed the decision. The US has seen its highest measles case counts in over three decades, during a period of falling vaccination rates under Health Secretary Robert F. Kennedy Jr. To regain the status, the US would need to end transmission and stay outbreak-free for at least 12 months.
+
+**Key facts**
+- The US achieved measles-elimination status in 2000.
+- The CDC reported 5,182 confirmed cases in 2026 as of Thursday, from 45 states, NYC and DC, compared with 2,289 in 2025.
+- Canada, Spain and the UK have recently lost their elimination status.
+- There is no formal penalty for losing the status.
+- The US left the WHO but remains a member of PAHO.
+
+**How it's being framed**
+- **Center:** CNA and DW framed the loss as preventable, quoting public health experts such as Noel Brewer ('unconscionable') and William Moss, who said it damages US public-health standing. They linked the outbreak to vaccine hesitancy under Kennedy, who they noted has spread doubts about vaccines without scientific evidence.
+- **Right:** The Washington Examiner reported the decision as a 'major setback' and a likely 'black mark' on Kennedy's tenure, citing his vaccine skepticism. It noted that kindergarten vaccination rates are below the 95% threshold and placed the US alongside other countries that lost status. It said it had sought comment from HHS.
+
+**Disputed or unclear**
+- The decision rests on anonymous-source reports; PAHO has not publicly confirmed it.
+- Case and death counts differ between outlets: 5,182 cases versus more than 5,400 this year, and 13 deaths since 2025 versus at least 10 this year.
+- The CDC's report to PAHO remains confidential.
+
+**Why it matters:** Losing elimination status signals sustained domestic spread of a vaccine-preventable disease that can cause serious harm, especially to children.
+
+**Read it yourself:**
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/world/us-lose-measles-free-status-disease-transmission-6550971) (center): US loses measles-free status after continued spread of the disease: Report
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/healthcare/4803790/us-loses-measles-elimination-status/) (lean-right): US loses measles elimination status amid surge in cases: Report
+- [Deutsche Welle](https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf) (center): US loses measles-elimination status after 26 years, WSJ reports
+
+
+## 6. Officials say FAA ground stop was a telecom outage, not an attack
+`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+These reports cover the same FAA nationwide ground stop as the first story, as it unfolded on Friday. Homeland Security Secretary Markwayne Mullin said there was no indication of an attack and that all flights in the air were accounted for. Transportation Secretary Sean Duffy said a communications issue affected the 22 regional centres that guide planes between airports. Hundreds of flights were diverted and travellers were stranded.
+
+**Key facts**
+- Mullin: 'There's no indication as of yet that this was a nefarious attack… It's just a telecommunications outage as of right now.'
+- At least 827 flights were diverted as of 7:05pm EST, according to Cirium: 670 returned to their origin and 157 went elsewhere.
+- About 11,000 flights carrying more than 1.5 million passengers were scheduled to depart US airports after 4pm EST.
+- Some flights within Alaska and Hawaii were not affected, according to Alaska Airlines.
+
+**How it's being framed**
+- **Left:** PBS ran AP's report centred on Mullin's reassurance that the stoppage 'isn't another 9/11.'
+- **Center:** The Korea Herald, also carrying AP reporting, combined officials' statements with diversion data and accounts from stranded travellers.
+
+**Disputed or unclear**
+- These were early reports. PBS said the stop would run through at least 11pm ET, but later reports say it was lifted at 8:15pm ET.
+
+**Why it matters:** Officials moved quickly to rule out an attack, which shaped how the public understood the disruption.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10936914) (center): Flights halted at airports across US due to air traffic control communications problems
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/watch-homeland-security-secretary-mullin-says-faa-flight-stoppage-isnt-another-9-11) (lean-left): WATCH: Homeland Security Secretary Mullin says FAA flight stoppage 'isn't another 9/11'
+
+
+## 7. US officials say Trump won't raise Nvidia spy allegations with Xi
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 0 · C 1 · R 1)
+
+Senior US officials said President Trump is not expected to raise allegations about Alice Huang with Xi Jinping during his China trip. Alice Huang is a former Megaspeed executive accused of being a Chinese intelligence asset, and she had an affair with former Nvidia CEO Jensen Huang. Officials said the trade talks will focus on implementing an existing trade agreement and that export controls are not negotiable. They also confirmed that Elon Musk will accompany Trump, citing his business interests and role in national security. China has called the allegations baseless.
+
+**Key facts**
+- An official said: 'The situation with Nvidia should not really have any bearing on the trip.'
+- Another official said: 'I don't expect the president to raise it — the Alice Huang issue.'
+- APEC in Shenzhen is Nov. 18–19; Trump leaves Monday for Manila first.
+- Megaspeed is under scrutiny for possibly helping move restricted Nvidia chips to China.
+
+**How it's being framed**
+- **Center:** CNBC reported the officials' statements and connected the scandal to questions about whether Commerce Secretary Howard Lutnick's department has been aggressive enough on chip exports. It also included the exchange over why Musk is going.
+- **Right:** The Washington Examiner reported the same official quotes and laid out Trump's full itinerary. It noted that Musk is travelling 'despite the controversy' and that no Trump–Kim meeting is planned.
+
+**Disputed or unclear**
+- The allegation that Alice Huang is a Chinese spy is unproven; China calls it baseless.
+- Whether restricted chips were diverted through Megaspeed is still under investigation.
+
+**Why it matters:** How the administration handles a chip-smuggling and espionage scandal alongside diplomacy with Beijing will shape US technology and security policy toward China.
+
+**Read it yourself:**
+- [CNBC](https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html) (center): Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4803638/jensen-huang-chinese-spy-scandal-trump-trilateral-xi-putin/) (lean-right): Jensen Huang Chinese spy scandal won’t be discussed as Trump prepares for historic trilateral with Xi and Putin
+
+
+## 8. Congress prepares inquiries after Jensen Huang's resignation from Nvidia
+`AI & Cybersecurity` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Jensen Huang resigned as Nvidia CEO this week after reports of an affair with Alice Huang, a Megaspeed executive some US officials allege is a Chinese spy. Lawmakers in both parties are now preparing investigations. Senate Banking Chair Tim Scott summoned Huang and Commerce Secretary Howard Lutnick to testify in December and threatened to subpoena Huang. Lutnick agreed to appear voluntarily. Democrats, who take control of Congress in January, have signalled further oversight, and commentators say the episode could reshape US policy on AI chip exports.
+
+**Key facts**
+- Huang resigned as Nvidia CEO on Thursday.
+- Senate Majority Leader John Thune said he would 'expect there would be some follow-up.'
+- Schumer said Congress 'must demand answers from Mr. Huang and others at Nvidia.'
+- The NYT reported that Nvidia's general counsel told Commerce investigators he had been in touch with the head of the Bureau of Industry and Security; the Megaspeed probe was later moved to the Justice Department.
+
+**How it's being framed**
+- **Left:** Vox treated Huang's fall as a political and policy turning point. It described a broad coalition cheering it, including China hawks, populists, AI-safety advocates, OpenAI and Anthropic, and some Trump officials. It said the coalition was united against his push to sell more chips abroad. Vox also reported allegations of affairs with two Nvidia employees.
+- **Center:** CNBC focused on the congressional mechanics: Republican summonses during the lame-duck session, Democrats' plans for January, and scrutiny of Lutnick and the Bureau of Industry and Security.
+
+**Disputed or unclear**
+- Whether Alice Huang was spying for China remains an allegation by some US officials.
+- It is unclear whether Huang will testify voluntarily.
+- Reports that Lutnick stalled crackdowns on firms routing chips to China have not been confirmed in these articles.
+
+**Why it matters:** The investigations could change how strictly the US limits advanced AI chip sales to China.
+
+**Read it yourself:**
+- [CNBC](https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html) (center): Nvidia is done with Jensen Huang. The fallout in Washington is just beginning
+- [Vox](https://www.vox.com/politics/510820/jensen-huang-nvidia-critics-hawks-populists-ai-safety) (left): Why the left and right are both cheering Jensen Huang’s downfall
+
+
+## 9. Matthews to host first 'Pride in the Park' as protest planned outside
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+The first Pride in the Park event in Matthews, N.C., takes place Sunday, Nov. 15 at Stumptown Park, with more than 50 local vendors. Organizer Melissa Easley calls it a family-friendly business event. Lisa Metzger of Protecting North Carolina Kids plans to protest outside, objecting to advertised drag shows as inappropriate for children. The town says the event is privately organised, not town-sponsored, and that park rental rules apply equally regardless of viewpoint.
+
+**Key facts**
+- The event is Sunday, Nov. 15 at Stumptown Park.
+- Both the organiser and the protest leader called for the day to stay peaceful.
+- Matthews police will be present, as at any event.
+
+**How it's being framed**
+- **Center:** WBTV gave both the organiser and the protester space to explain their positions and included the town's statement on equal access to public facilities. Queen City News named critics Leon Threatt and Lisa Metzger.
+
+**Disputed or unclear**
+- Whether drag performances are appropriate at a family event is disputed between the organiser and protesters.
+
+**Why it matters:** The event is a local test of how towns handle contested uses of public space.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/first-ever-pride-park-matthews-feature-local-vendors-amid-planned-protest/) (center): First-ever ‘Pride in the Park’ in Matthews to feature local vendors amid planned protest
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/organizers-of-pride-event-scheduled-in-mecklenburg-county-town-puzzled-by-planned-protest/) (center): Organizers of Pride event scheduled in Mecklenburg County town puzzled by planned protest
+
+
+## 10. Driver killed in crash with tractor-trailer in Lancaster County, S.C.
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+A sedan driver was killed Thursday night when a tractor-trailer heading east on Highway 9 collided with her 2002 Toyota Camry at Old Camden Monroe Road in Lancaster County, troopers said. The victim was identified as Rhonda Watts Douglas, 56, of Lancaster. The truck driver was not hurt. The crash is under investigation.
+
+**Key facts**
+- The crash happened around 8:45–8:47pm Thursday.
+- The Camry was travelling north on Old Camden Monroe Road.
+- The tractor-trailer driver was uninjured.
+
+**How it's being framed**
+- **Center:** WSOC and WCNC gave brief, factual accounts based on state troopers' information.
+
+**Disputed or unclear**
+- The cause of the crash has not been released.
+
+**Why it matters:** It is a fatal crash at a rural intersection that local drivers use.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/1-killed-crash-involving-18-wheeler-sedan-rural-intersection-lancaster-county/5DN35BHHDNDYXMO7HTBXQG5PCI/) (center): 1 killed in crash involving 18-wheeler, sedan at rural intersection in Lancaster County
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/traffic/deadly-crash-tractor-trailer-lancaster-county/275-572081b1-4512-4dec-a72d-ce88d8da3804) (center): Deadly crash involving tractor-trailer in Lancaster County under investigation
 
 
 ---
@@ -307,4 +290,7 @@ ABC named Washington Commanders backup quarterback Sam Hartman, a 27-year-old Ch
 
 ### What is happening with AI regulation in the US and EU?
 
-None of this edition's articles address AI regulation in the US or EU. The Nvidia stories cover chip export controls, not AI regulation itself.
+No articles directly address AI regulation in the US or EU. Indirectly related: the Nvidia/Jensen Huang story notes that lawmakers and some officials may push for tighter US export controls on AI chips to China. US officials said export controls will not be negotiated with Beijing.
+
+---
+_Feeds that failed this run: Newsweek_
