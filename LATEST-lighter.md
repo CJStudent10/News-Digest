@@ -1,30 +1,29 @@
 # The Lighter Brief: Evening edition
-_Friday, November 13, 2026 · 5:15 PM EST · 267 articles from 23 outlets · summaries by Claude_
+_Friday, November 13, 2026 · 9:43 PM EST · 277 articles from 23 outlets · summaries by Claude_
 
-> A mixed Friday: a nationwide FAA equipment outage briefly held departures at every U.S. airport, and a leadership race is brewing among Senate Democrats. On the lighter side there's a Jamaican dance season that got rave reviews, a long-awaited Drake bonus track finally on streaming, and a chilly, frosty weekend ahead for Charlotte.
+> A pretty lively Friday: a surprise nationwide flight pause had college football teams hopping on buses, Senate Democrats are sorting out who should lead them, and the Grammys are moving most of their trophy handouts to Disney+. Plus some handy reading on stress, a new statin study for older adults, and Jamaican schoolboy football drama.
 
 
 
 ---
 
-## 1. Equipment outage briefly pauses departures at all U.S. airports
-`Charlotte` · Covered by 7 outlets
+## 1. Van Hollen challenges Schumer for top Senate Democrat job
+`US Headlines` · Covered by 6 outlets
 
-On Friday afternoon the FAA ordered a nationwide ground stop after a communication problem hit all of its Air Route Traffic Control Centers. Departing flights, including at Charlotte Douglas, were held until further notice, while inbound flights could still land. Technicians were investigating, and the story was still developing.
+Sen. Chris Van Hollen of Maryland announced Thursday that he's running against Chuck Schumer to lead Senate Democrats, saying 'we need new leadership.' The challenge comes days after Democrats' big midterm win, which puts them on track to retake both the House and Senate. Some in the party want a fresh direction, while others credit Schumer for the results. Van Hollen is also signaling that, in the majority, he'd hold hearings on the administration's foreign aid cuts.
 
 **Key facts**
-- Transportation Secretary Sean Duffy confirmed the ground stop on X Friday afternoon.
-- ABC News reported this is only the second nationwide ground stop since Sept. 11, 2001; the last was in 2023 when the NOTAM system went down.
-- Inbound flights could still land; international arrivals were handled case by case.
-- Travelers are advised to check directly with their airline for flight status.
+- Van Hollen has been a senator since 2017 and announced his challenge Thursday, Nov. 12.
+- Minnesota Sen.-elect Peggy Flanagan endorsed Van Hollen on Friday.
+- Axios reports Schumer has far more support so far.
 
-**Worth knowing:** If you're flying soon, check with your airline: delays from a nationwide stop can ripple through the schedule even after it's lifted.
+**Worth knowing:** Whoever wins will shape what a Democratic-led Senate prioritizes next year.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/faa-equipment-outage-halts-departures-airports-across-country-including-charlotte-douglas/6GKOCJM6NJB2LMSIJQZTVS2VKA/): FAA equipment outage halts departures at airports across the country, including Charlotte Douglas
-- [NPR](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports): FAA issues nationwide ground stop for all U.S. airports
-- [The Hill](https://thehill.com/policy/transportation/6219722-faa-issues-us-flight-ground-stop/): FAA orders nationwide ground stop
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/faa-issues-nationwide-ground-stop-impacting-charlotte-flights/): FAA issues nationwide ground stop, impacting Charlotte flights
+- [Axios](https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader): The senators who could join Van Hollen's insurgency against Schumer
+- [NPR Health](https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid): How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front
+- [The Hill](https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen/): Democratic Sen.-elect Flanagan backs Van Hollen over Schumer
+- [NPR](https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight): With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate
 
 
 ---

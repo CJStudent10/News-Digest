@@ -1,0 +1,88 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-14T02:43:38.053839+00:00",
+  "local_time": "Friday, November 13, 2026 · 9:43 PM EST",
+  "local_date": "Nov 13, 2026",
+  "slug": "2026-11-13-2143-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A pretty lively Friday: a surprise nationwide flight pause had college football teams hopping on buses, Senate Democrats are sorting out who should lead them, and the Grammys are moving most of their trophy handouts to Disney+. Plus some handy reading on stress, a new statin study for older adults, and Jamaican schoolboy football drama.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Van Hollen challenges Schumer for top Senate Democrat job",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Sen. Chris Van Hollen of Maryland announced Thursday that he's running against Chuck Schumer to lead Senate Democrats, saying 'we need new leadership.' The challenge comes days after Democrats' big midterm win, which puts them on track to retake both the House and Senate. Some in the party want a fresh direction, while others credit Schumer for the results. Van Hollen is also signaling that, in the majority, he'd hold hearings on the administration's foreign aid cuts.",
+      "key_facts": [
+        "Van Hollen has been a senator since 2017 and announced his challenge Thursday, Nov. 12.",
+        "Minnesota Sen.-elect Peggy Flanagan endorsed Van Hollen on Friday.",
+        "Axios reports Schumer has far more support so far."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Whoever wins will shape what a Democratic-led Senate prioritizes next year.",
+      "coverage": {
+        "left": 2,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "The senators who could join Van Hollen's insurgency against Schumer",
+          "url": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader",
+          "published": "2026-11-13T20:10:49+00:00"
+        },
+        {
+          "source": "NPR Health",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+          "published": "2026-11-13T15:46:35+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democratic Sen.-elect Flanagan backs Van Hollen over Schumer",
+          "url": "https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen/",
+          "published": "2026-11-13T17:37:38+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+          "published": "2026-11-13T21:06:09+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 2,
+    "center": 2,
+    "right": 0
+  },
+  "stats": {
+    "articles": 277,
+    "stories_found": 229,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}
