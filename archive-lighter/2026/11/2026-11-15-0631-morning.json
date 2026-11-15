@@ -1,0 +1,301 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-15T11:31:38.009497+00:00",
+  "local_time": "Sunday, November 15, 2026 · 6:31 AM EST",
+  "local_date": "Nov 15, 2026",
+  "slug": "2026-11-15-0631-morning",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A gentle mix today: a sunny-but-chilly Sunday in Charlotte, an NFL game in Munich with a rock band at halftime, and a promising Alzheimer's study about spotting early warning signs years ahead. There's also some celebrity back-and-forth, a new leadership book from Jamaica, and a look at how Congress plans to dig into drug-pricing deals.",
+  "stories": [
+    {
+      "id": "s2",
+      "headline": "Montego Bay remembers Deputy Mayor 'Debo' Crawford",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Montego Bay Deputy Mayor Dwight 'Debo' Crawford died suddenly at 48, and colleagues across party lines are remembering him for his service. Just two weeks earlier he told young people at a Junior Mayor event that 'leadership is not a title, it is a lifestyle.' He had also worked on recovery in communities hit by Hurricane Melissa.",
+      "key_facts": [
+        "First elected councillor for Spring Garden Division in 2016",
+        "Became deputy mayor in March 2024",
+        "Spoke to young leaders on October 30"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "His encouragement to young people, 'just be purposeful, be passionate and be you,' is a nice thing to carry forward.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Leadership is not a title’ - MoBay mourns ‘Debo’ Crawford Deputy mayor, 48, remembered for service beyond political lines",
+          "url": "http://jamaica-gleaner.com/article/news/20261115/leadership-not-title-mobay-mourns-debo-crawford-deputy-mayor-48-remembered",
+          "published": "2026-11-15T06:10:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Luz Longsworth: 'Don't let our firsts be our lasts'",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Veteran academic and corporate leader Dr Luz Longsworth launched her new book in Montego Bay, arguing that women breaking glass ceilings doesn't mean all barriers are gone. Written as letters to her daughter Marissa, the book urges leaders to look 'below the surface' at hidden office politics, and it includes candid stories from her own career.",
+      "key_facts": [
+        "Book title: Through the Glass Bottom … Navigating Leadership's Hidden Currents",
+        "Launch held at Westport in Montego Freeport, St James",
+        "She noted Jamaica has had only one female prime minister"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a thoughtful, personal take on leadership that's useful to anyone working their way up.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "We’ve broken the glass ceiling, but have we overcome? – Luz Longsworth",
+          "url": "http://jamaica-gleaner.com/article/news/20261115/weve-broken-glass-ceiling-have-we-overcome-luz-longsworth",
+          "published": "2026-11-15T06:10:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Charlotte: sunny and cool today",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Expect a bright but chilly day around Charlotte. Temperatures will drop into the low 30s again overnight.",
+      "key_facts": [
+        "Overnight lows in the low 30s"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Good day for a walk, but grab a jacket for the evening.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sunny but cool for the Charlotte area today",
+          "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+          "published": "2026-11-15T10:29:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Khloé Kardashian is done with Lamar Odom's comments",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "On the November 12 episode of The Kardashians, Khloé Kardashian said she's cut ties with ex-husband Lamar Odom after their dispute over his Netflix documentary. She says she took part unpaid to help him, then felt his remarks painted their marriage as a fame move. Odom has denied saying he married her for fame.",
+      "key_facts": [
+        "Documentary 'Untold: The Death & Life of Lamar Odom' came out March 31",
+        "They married in 2009; divorce was final in 2016",
+        "Her quote: 'The bridge is burned… So he is dead to me'"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: Kardashian made these remarks on her show",
+        "Disputed: whether Odom said he married her for fame. He said in June, 'That never came out of my mouth'"
+      ],
+      "why": "It's the latest chapter in a long, public on-and-off relationship fans have followed for years.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Khloe Kardashian Slams Lamar Odom Over Marriage Comments: “He’s Dead To Me”",
+          "url": "https://allhiphop.com/news/khloe-kardashian-slams-lamar-odom-over-marriage-comments-hes-dead-to-me/",
+          "published": "2026-11-15T09:04:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Patriots vs. Lions in Munich, with Cage The Elephant at halftime",
+      "topics": [
+        "Cute Animals"
+      ],
+      "summary": "The NFL heads to Germany today as the New England Patriots take on the Detroit Lions at FC Bayern Munich Stadium. Grammy-winning rock band Cage The Elephant plays the halftime show, and both national anthems get live performances.",
+      "key_facts": [
+        "Kickoff Sunday, Nov. 15 at 9:30 a.m. ET on FOX",
+        "Patriots are 5-4; Lions are 6-2",
+        "Sixth NFL regular-season game ever played in Germany",
+        "Drew Baldridge sings the U.S. anthem; LaBrassBanda performs Germany's"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A fun Sunday-morning game with a concert in the middle.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NFL Munich Game Halftime Show 2026: Here’s Where to Watch Cage The Elephant Perform Live Online Free",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-munich-game-cage-the-elephant-halftime-watch-live-free-1236380798/",
+          "published": "2026-11-15T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Band stranded in Charlotte while their gear flies ahead",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "After Friday night's nationwide ground stoppage, most flights are back on track, but some travelers are still catching up. One San Diego alternative band is stuck in Charlotte while its instruments sit in Albany, as the musicians race to make the first stop of their tour.",
+      "key_facts": [
+        "Ground stoppage happened Friday night",
+        "The band is starting a nine-city tour",
+        "Most flights are back on schedule as of Saturday"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're flying this weekend, it's worth double-checking your flight, though things are mostly back to normal.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "'Our instruments are in Albany without us.': San Diego-based alternative band stuck in Charlotte after nationwide ground stoppage",
+          "url": "https://www.qcnews.com/charlotte-airport/our-instruments-are-in-albany-without-us-san-diego-based-alternative-band-stuck-in-charlotte-after-nationwide-ground-stoppage/",
+          "published": "2026-11-15T03:55:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Brain-heart signals might hint at recovery after oxygen loss",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "Researchers at the Paris Brain Institute studied whether the way the brain and heart interact can predict survival after resuscitation from severe oxygen loss. The work builds on earlier findings and is published in the journal eNeuro.",
+      "key_facts": [
+        "Led by Diego Candia-Rivera and Sofia Carrion-Falgarona",
+        "Published in eNeuro"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "This was done in rats, so it's early-stage research and not yet tested as a tool for people"
+      ],
+      "why": "It could one day help doctors better predict recovery for patients.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Medical Xpress",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Brain–heart interactions may predict recovery from oxygen loss",
+          "url": "https://medicalxpress.com/news/2026-11-brainheart-interactions-recovery-oxygen-loss.html",
+          "published": "2026-11-15T06:00:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Alzheimer's may leave early clues up to a decade ahead",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "Johns Hopkins scientists studying hundreds of brain scans found that two regions, the entorhinal cortex and amygdala, start shrinking before the hippocampus, which is where doctors usually look. These changes are linked to tau protein buildup and could help spot risk years before memory problems begin.",
+      "key_facts": [
+        "Changes may appear as much as 10 years before symptoms",
+        "Published in NeuroImage Reports",
+        "Being presented at Neuroscience 2026"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "This is research based on brain scans. It isn't an approved diagnostic test yet, and the researchers say it 'could eventually' help with earlier detection"
+      ],
+      "why": "Earlier detection could give future treatments a better chance to protect the brain.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "ScienceDaily (Health & Medicine)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+          "published": "2026-11-15T04:31:56+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 8,
+    "right": 0
+  },
+  "stats": {
+    "articles": 102,
+    "stories_found": 92,
+    "sources_ok": 22,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Newsweek",
+      "Positive News"
+    ]
+  }
+}

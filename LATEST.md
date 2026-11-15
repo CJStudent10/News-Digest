@@ -1,292 +1,268 @@
-# My Daily Brief: Evening edition
-_Saturday, November 14, 2026 · 9:09 PM EST · 316 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Sunday, November 15, 2026 · 6:30 AM EST · 253 articles from 38 outlets · summaries by Claude_
 
-> This edition leads with SpaceX catching the upper stage of its Starship rocket for the first time, and with the fallout from Friday's nationwide US flight ground stop, which officials linked to a contractor's equipment upgrade. It also covers investor pressure at Nvidia after Jensen Huang's resignation, a tanker crash on the Mississippi in New Orleans, a bomb found at an Illinois ethanol plant, and the first Eurovision Asia. Shorter items cover a Concord house fire, North Korea-linked hacking targets and an AI exam-cheating confession in South Korea.
+> This edition leads with a federal judge's temporary order keeping Washington's East Potomac Park and golf course open, SpaceX's first catch of a returning Starship upper stage, and a South Korean exam cheating scandal involving generative AI. Also covered: Zelensky's account of a US idea linking Donbas to NATO membership, a senior North Korean aide's trip to Moscow, Portugal's housing protests, a Lazarus-linked hacking target list, the first Eurovision Asia, and two fires in North Carolina.
 
 
-**Sources linked in this edition:** 11 left · 21 center · 8 right
+**Sources linked in this edition:** 8 left · 20 center · 3 right
 
 ---
 
-## 1. SpaceX catches Starship upper stage with launch tower for first time; booster lost
-· Covered by 12 outlets (L 5 · C 4 · R 3)
+## 1. Judge temporarily blocks closure of East Potomac Park and golf course in Washington
+`US Headlines` · Covered by 6 outlets (L 2 · C 2 · R 2)
 
-SpaceX caught the upper stage of its Starship rocket with the mechanical arms of its Texas launch tower after a flight of about 22 hours, the first time it has recovered that part of the vehicle this way. The 15th test flight was meant to recover both stages, but the Super Heavy booster aborted its planned catch minutes after Friday's launch, diverted over the water and exploded. In orbit, the ship deployed 26 Starlink satellites and circled Earth 14 times before returning to Starbase on Saturday. SpaceX is still investigating the booster failure. The program matters to NASA's plan to land astronauts on the Moon in 2028.
+US District Judge Ana Reyes issued a temporary restraining order on Saturday that bars the Trump administration from closing East Potomac Park and its golf course. The closure had been set for Sunday so the course could be renovated over 15 months. Reyes wrote that the government's reasons were "pretextual" and that it had violated at least two federal laws "to meet an arbitrary deadline." The order does not require the government to actively manage the park or run golf operations there. It lasts until November 28 unless the court acts sooner, and the underlying lawsuit by the DC Preservation League continues alongside a separate ethics inquiry into Justice Department lawyers.
 
 **Key facts**
-- 15th Starship test flight; the first attempt to catch both stages
-- The upper stage completed 14 orbits and deployed 26 Starlink V3 satellites
-- SpaceX has caught the Super Heavy booster on three earlier flights
-- The booster exploded over the Gulf after an automated abort; Musk said it was "slightly low on fuel"
-- NASA Administrator Jared Isaacman praised the flight on X: "Making more believers by the day"
+- The temporary restraining order runs through November 28, 2026, or until further order of the court.
+- Reyes's decision is 30 pages long and calls the government's justifications "pretextual."
+- The suit was filed in February by the DC Preservation League and two local residents, who are represented by Democracy Forward.
+- The course is 106 years old and is one of three public courses the National Park Service runs in the capital.
+- The Justice Department said "nothing in the Court's order precludes planning for the development of a world class golf course to continue."
 
 **How it's being framed**
-- **Left:** The Guardian called it a victory and a milestone toward human spaceflight. It quoted a SpaceX spokesperson explaining the booster abort, and it noted that Isaacman is a Musk ally whom Musk advised Trump to appoint. It also tied Starship to Musk's 'satellite internet empire.' The Verge focused on the catch itself, called it a milestone though not a complete success, and suggested the booster failure was not insurmountable.
-- **Center:** BBC and CNBC covered the economics of reusability and the stakes for NASA's 2028 Moon timeline and for SpaceX shareholders now that the company is public. BBC quoted an aerospace expert who called the booster loss a setback but the ship recovery a substantial step. CNBC added that Hawaii briefly paused some flights over debris risk.
-- **Right:** Fox Business framed it as SpaceX 'making history.' It highlighted praise from Musk biographer Walter Isaacson and War Secretary Pete Hegseth, who called Musk 'a great American.' The Washington Examiner ran the AP account, which called the return 'triumphant' while noting the missed double catch.
+- **Left:** The Guardian and NPR presented the ruling as the latest court setback for Trump's wider effort to remake Washington, citing the ballroom, the Kennedy Center and the arch. They quoted Democracy Forward calling the plan a "vanity project." The Guardian noted that Trump has called Reyes a "lunatic" and that the Justice Department sought her recusal, which she denied. NPR also carried the Justice Department's statement.
+- **Center:** The BBC laid out the legal timeline: the October tree-cutting, the late notice given to the court, and the ethics inquiry with a special master. It also quoted Trump at length on the course's condition and his renovation goals. The Hill emphasised that the order is a setback for Trump's planned Tom Fazio-designed championship course.
+- **Right:** Fox News gave prominent space to Trump's "Trash Island" posts and his description of unsafe conditions. It noted that Reyes was nominated by Biden and that she had for months been reluctant to grant work stoppages. The New York Post ran wire copy nearly identical to NPR's, quoting both the Justice Department and Democracy Forward.
 
 **Disputed or unclear**
-- Why the booster failed: Musk said it was low on fuel, a SpaceX spokesperson said guidance systems found it out of position for a catch, and Fox Business reported its engines shut down prematurely. Engineers are still investigating.
-- Whether SpaceX can recover both stages reliably on the same flight has not yet been shown.
+- Plaintiffs say the plan would make the course unaffordable and change its character; Trump denies this.
+- Officials say the tree removal was part of a 2019 plan. The judge has questioned whether the government acted in good faith, and an ethics inquiry into Justice Department lawyers is ongoing.
+- Accounts differ on when Trump first announced the renovation: Fox says May, while the BBC and Guardian cite announcements in October.
 
-**Why it matters:** A fully reusable Starship could sharply cut launch costs, and NASA's crewed Moon landing plans depend on it.
+**Why it matters:** The case is a test of how far courts will limit the president's construction projects on federal land in the capital.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss) (center): Judge temporarily blocks Trump from closing Washington DC golf course for renovation
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course) (lean-left): US judge blocks Trump’s plan to renovate historic DC golf course
+- [New York Post](https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/) (lean-right): Federal judge blocks Trump from moving ahead on Washington public golf course redevelopment
+- [The Hill](https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/) (center): Federal judge temporarily blocks Trump administration from closing East Potomac Park
+- [NPR](https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks) (lean-left): Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment
+- [Fox News](https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure) (right): Federal judge blocks Trump's renovations of DC golf course hours before its closure
+
+
+## 2. SpaceX catches Starship upper stage with launch tower for first time; booster lost
+· Covered by 8 outlets (L 2 · C 5 · R 1)
+
+On its 15th test flight, SpaceX caught the Starship upper stage with the mechanical arms of its launch tower in Texas after a flight of about 22 hours. The Super Heavy booster triggered an automated abort on its return and exploded over the Gulf, so SpaceX missed its goal of recovering both stages on one flight. The upper stage deployed 26 Starlink satellites and completed 14 orbits. Engineers are investigating the booster failure, and NASA is relying on Starship for its Artemis Moon program.
+
+**Key facts**
+- This was Starship's 15th test flight and the first attempt to catch both stages.
+- The upper stage completed 14 orbits and deployed 26 Starlink satellites.
+- SpaceX had caught the booster on three earlier flights.
+- The rocket stands 124 meters (407 feet) tall.
+
+**How it's being framed**
+- **Left:** NPR and The Verge called the catch a historic milestone while noting that it was not a complete success. NPR focused on NASA's Artemis plans and Musk's Mars ambitions.
+- **Center:** The BBC and CNBC paired the success with the booster loss. The BBC quoted an expert calling the booster loss "a setback," and CNBC stressed Starlink as SpaceX's commercial driver and mentioned flight disruptions in Hawaii. The Hill focused on praise from Washington.
+- **Right:** Fox Business framed the flight as SpaceX "making history" and highlighted congratulations from Walter Isaacson, War Secretary Pete Hegseth and NASA Administrator Jared Isaacman. It used the name "Gulf of America."
+
+**Disputed or unclear**
+- The cause of the booster failure is under investigation; Musk said it was "slightly low on fuel."
+- Whether the 2028 lunar landing timeline is achievable is uncertain; the BBC called it highly ambitious.
+
+**Why it matters:** Full reusability is key to cutting launch costs and to NASA's plans to return astronauts to the Moon.
 
 **Read it yourself:**
 - [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss) (center): SpaceX successfully catches top of huge Starship rocket for first time
-- [The Guardian (World)](https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch) (lean-left): SpaceX’s Starship returns to launch pad from orbit in victory for company
+- [NPR](https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history) (lean-left): SpaceX successfully catches Starship and makes history
 - [Fox Business](https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time) (lean-right): SpaceX makes history as Starship spacecraft caught by launch tower for first time
 - [CNBC](https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html) (center): SpaceX catches upper stage of Starship rocket in historic first
 - [The Verge](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch) (lean-left): Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4804048/spacex-starship-returns-orbit-captured-launch-pad-arms-dramatic-first/) (lean-right): SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first
+- [The Hill](https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/) (center): SpaceX catches Starship for first time, drawing praise in Washington
 
 
-## 2. Nvidia investors urge careful CEO search, including a possible Huang return
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 5 outlets (L 0 · C 3 · R 2)
+## 3. Top scorer in South Korea's tax accountant exam admits cheating with AI
+`Korea` `AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Two major Nvidia shareholders, Altimeter Capital's Brad Gerstner and Atreides Management's Gavin Baker, asked the board to take a slow, deliberate approach to choosing a permanent leader and to consider 'the potential return of Jensen Huang.' Huang resigned Thursday amid reports of extramarital affairs, including one with a woman described as a suspected Chinese spy who worked with Megaspeed, a Singapore company under Justice Department investigation over possible diversion of restricted chips to China. Former CFO Colette Kress is interim CEO. Elon Musk said he signed a petition to reinstate Huang and warned that 'critical deals will be lost' without him. Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10, and Huang has also been asked to testify.
-
-**Key facts**
-- Huang resigned Thursday; Colette Kress, CFO for 13 years, is interim CEO
-- Altimeter held about 9.4 million Nvidia shares worth nearly $1.9 billion as of June 30
-- The investor letter did not call for Huang's immediate reinstatement
-- Lutnick is due to testify before the Senate Banking Committee on Dec. 10
-- Megaspeed has denied wrongdoing
-
-**How it's being framed**
-- **Center:** CNBC reported the investor letter, the petition and Musk's comments, along with the congressional testimony requests and Trump's upcoming China trip. TechCrunch asked what Nvidia's security team knew. It noted turnover in the chief security officer role while saying nothing publicly links that change to Megaspeed, and it quoted a former intelligence officer on how affairs can give foreign spies leverage.
-- **Right:** A New York Post column used the episode to defend short sellers. It described the woman as someone 'the feds believe could be a Chinese spy,' argued the ouster exposed governance flaws, and quoted an anonymous short seller who said the 'AI cycle is over.' The Washington Examiner headlined investors pushing for Huang's reinstatement and framed the departure as sparking a political battle inside the Trump administration.
-
-**Disputed or unclear**
-- The espionage suspicion about Alice Huang is reported but unproven, and Megaspeed denies wrongdoing.
-- The 'Stand with Jensen' petition's claim of more than 100,000 signatures, including over 5,000 Nvidia employees, is unverified.
-- Musk's claim that many supply deals were handshake agreements with Huang has not been confirmed.
-- Outlets differ on emphasis: the Examiner says investors 'push for' reinstatement, while CNBC notes the letter did not call for it immediately.
-- It is unclear what Nvidia's security team or board knew about the Megaspeed inquiry and Huang's relationships.
-
-**Why it matters:** Leadership at one of the world's most valuable chip companies is tied up with US-China tech export controls and wider AI market confidence.
-
-**Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) (center): Where was Nvidia’s security team?
-- [New York Post](https://nypost.com/2026/11/14/business/consider-nvidias-jensen-huang-led-implosion-a-massive-win-for-short-stock-sellers/) (lean-right): Consider Nvidia’s Jensen Huang-led implosion a massive win for short sellers
-- [CNBC](https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html) (center): Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors
-- [Washington Examiner](https://www.washingtonexaminer.com/news/business/4804015/investors-push-jensen-huang-reinstate-nvidia-ceo/) (lean-right): Investors push for Jensen Huang to be reinstated as Nvidia CEO after affair with suspected spy
-- [The Hill](https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/) (center): Musk: ‘Critical deals will be lost’ at Nvidia without Huang
-
-
-## 3. Philippines' Carmelle wins first Eurovision Song Contest Asia in Bangkok
-`Asia Business & Politics` · Covered by 5 outlets (L 2 · C 3 · R 0)
-
-Nineteen-year-old Filipino singer Carmelle won the first Eurovision Song Contest Asia in Bangkok with 'Sobra-Sobra,' a song about female empowerment sung in Tagalog and English. Eleven countries competed, with hosts Thailand second and Vietnam third. China, Japan and India did not take part, tickets were still available hours before the show, and the arena was not full. Organisers say it may take years for the contest to establish itself.
+The top scorer in this year's South Korean certified tax accountant exam, identified by the Korea Herald as Han Won-seok, 34, confessed on a lawyer's YouTube channel to cheating in both rounds. He said he photographed questions with a miniature camera, sent them to an AI tool, and read the answers on a smartphone. He also admitted cheating on a certified public accountant exam, and he submitted a written confession to Seoul police. The presidential office called an emergency meeting and announced an investigation into suspected AI cheating across national certification tests, ahead of Thursday's college entrance exam.
 
 **Key facts**
-- Philippines won with 211 points: 93 from juries and 118 from the public
-- Thailand finished second with 170 points and Vietnam third with 164
-- 11 countries took part; voting was split 50/50 between juries and the public
-- Eurovision drew 131 million viewers in 2026, down 35 million after a boycott by five countries over Israel's participation
-- The winner receives a trophy but no prize money
+- He scored 397.5 out of 400 in the first round, missing one of 160 questions.
+- He had previously denied the cheating allegations in a media interview.
+- Seoul police received his written confession and say they will investigate.
+- Under the law, cheaters can have their result invalidated and be barred from the exam for five years; criminal charges are also possible.
 
 **How it's being framed**
-- **Left:** The Guardian focused on Carmelle's personal story and the staging of each act, including Nepal's singer appealing for support after deadly floods. It also explained the voting details, including paid extra votes, and Laos's technical problems.
-- **Center:** BBC, DW and CNA covered the results and festive atmosphere but questioned the contest's staying power, pointing to a thin local turnout, unsold tickets, absent major nations and the failed US spinoff. CNA noted the Israel-related boycott in Europe, which organisers say is unrelated to the expansion.
+- **Left:** The Guardian emphasised the scandal's social weight in a country where tests shape social mobility, and the added pressure on the upcoming college entrance exam.
+- **Center:** Yonhap focused on the government response and possible penalties. The Korea Herald detailed the statistical anomalies in his scores and his earlier denials.
 
 **Disputed or unclear**
-- Accounts of Laos's broadcast mishap differ: BBC says a music video was replayed over an apparent technical issue, while the Guardian says her dress rehearsal was aired after the live performances.
-- Whether regional broadcasters will commit to future editions is unclear.
+- The extent of cheating on the CPA exam and whether others did the same are still under investigation.
+- Whether he will face criminal charges depends on the police investigation.
 
-**Why it matters:** It tests whether one of the world's biggest TV music events can grow beyond Europe.
+**Why it matters:** The case raises questions about how high-stakes exams can stay fair as AI tools spread.
 
 **Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/waiting-so-long-fans-gather-eurovisions-first-asia-show-6551791) (center): 'Waiting so long': Fans gather for Eurovision's first Asia show
-- [The Guardian (World)](https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia) (lean-left): Philippines’ Carmelle wins first Eurovision contest in Asia
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss) (center): Philippines wins first Eurovision Song Contest Asia
-- [The Guardian (Asia-Pacific)](https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures) (lean-left): The inaugural Eurovision Asia 2026 – in pictures
-- [Deutsche Welle](https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf) (center): Philippines wins first Eurovision Song Contest Asia
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000753315) (center): (3rd LD) Top scorer in tax accountant exam turns himself in over AI-assisted cheating
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam) (lean-left): 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
+- [The Korea Herald](https://www.koreaherald.com/article/10937374) (center): Tax accountant exam's top scorer admits to AI-assisted cheating
 
 
-## 4. New Orleans port sues tanker owners after collision capsizes docked riverboat
-· Covered by 7 outlets (L 1 · C 3 · R 3)
+## 4. Tens of thousands march in Portugal over housing costs
+`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-A tanker, the Atlantic Asphalt, appeared to lose steering near the Crescent City Connection bridge on Friday and struck the docked paddlewheel cruise ship American Heritage, which capsized and partly sank. Everyone aboard survived; 32 people were taken to hospitals and eight remained hospitalized Saturday. The Port of New Orleans filed a federal lawsuit alleging negligence and at least $1 million in terminal damage, and a judge authorized seizure of the tanker. The NTSB has recovered the tanker's voyage data recorder and expects a preliminary report in about 30 days, while the Coast Guard says removing the cruise ship will take weeks.
+Protesters marched in more than 30 Portuguese cities and towns on Saturday, in what the AP described as the largest protest yet against rising housing costs. Activists are calling for rent caps, stronger tenant protections and more affordable housing. The government has cut taxes on new construction, restricted short-term rentals and promised 145,000 new homes, but says the effects will take time. President Antonio Jose Seguro met some protesters on Friday.
 
 **Key facts**
-- The lawsuit names the tanker, owner Nave Shipping SA and manager Thome Ship Management
-- Chief US District Judge Wendy Vitter granted the request to arrest the vessel
-- Nave Shipping is a subsidiary of China State Shipbuilding Corporation
-- 16,000 gallons of fuel must be removed from the American Heritage before salvage
-- The NTSB final report is expected in 18 to 24 months
+- Portugal's home price-to-income ratio rose 61% between 2015 and 2025, the largest increase in the EU, according to Eurostat.
+- Housing prices rose nearly 20% in the year to the first quarter of 2026.
+- Rents have risen 68% since 2020, according to the government.
 
 **How it's being framed**
-- **Left:** PBS, running the AP account, led with the port suing to seize a vessel 'owned by a subsidiary of a Chinese company.' It featured a survivor's account of being thrown into the river and details of the NTSB investigation.
-- **Center:** BBC and WBTV focused on the lawsuit's details and the officials' 'miracle on the Mississippi' description. BBC also noted the Chinese parent company and that it had requested comment.
-- **Right:** Fox News emphasized the rescue: about 100 people pulled from the river, the injured captain who was last to leave, and the Coast Guard saying there was no indication of terrorism. Fox Business focused on the lawsuit and seizure, and noted it was unclear whether the warrant had been executed.
+- **Left:** Al Jazeera centred protesters' view that the government's measures are not enough.
+- **Center:** The Korea Herald, running AP copy, combined personal testimony with statistics and an account of the government's response, and pointed to causes including foreign buyers, tourism and short-term rentals.
 
 **Disputed or unclear**
-- Reported numbers aboard vary: 192 passengers, 197 passengers and crew, 191 passengers and crew, or about 129 passengers plus crew.
-- Fox reported two people in serious condition, while other outlets said no injuries were critical.
-- The cause is unconfirmed; officials point to a possible steering loss.
-- Fox Business said it was unclear whether the warrant had been executed, while PBS reported federal officials had control of the ship.
+- Riot police have been accused of heavy-handed tactics in dispersing some protests.
 
-**Why it matters:** The crash disrupted traffic on a major US shipping artery and raises questions about vessel safety and liability.
+**Why it matters:** Housing affordability is driving unrest in several European countries.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/port-new-orleans-sues-tanker-owners-following-ship-collision-mississippi-river/) (center): Port of New Orleans sues tanker owners following ship collision on Mississippi River
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river) (lean-left): New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River
-- [Fox News](https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort) (right): At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss) (center): New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision
-- [Fox Business](https://www.foxbusiness.com/economy/new-orleans-port-seeks-tanker-seizure-cruise-ship-crash-sparks-lawsuit) (lean-right): New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit
-- [BBC News (World)](https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss) (center): Watch: Cruise ship overturns after collision with tanker in New Orleans
+- [The Korea Herald](https://www.koreaherald.com/article/10937467) (center): Portuguese march against home prices
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices) (lean-left): Thousands in Portugal protest against surging rental prices
 
 
-## 5. Stranded travelers face weekend disruption after nationwide ground stop
-`US Headlines` `Charlotte Local` · Covered by 4 outlets (L 2 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-Travelers at airports including Charlotte Douglas spent Friday night on floors and benches after the FAA halted all US flights for several hours. Passengers described missed funerals, lost bookings and little information from airlines or the FAA. Transportation Secretary Sean Duffy blamed aging legacy equipment. FAA officials expect schedules to return to normal by the end of Sunday.
-
-**Key facts**
-- Only the second nationwide ground stop of its kind since 9/11, and described as the longest
-- FAA chief Bryan Bedford said crews and aircraft were out of position after 12,000 lost flights
-- American Airlines said it was prioritizing international flights and flights to non-hub airports
-
-**How it's being framed**
-- **Left:** Al Jazeera focused on the official explanation, Duffy's vow to 'hold people accountable,' L3Harris's response and the denial of a cyberattack. The Guardian's video piece noted that the homeland security and transportation secretaries suggested older technology was overwhelmed.
-- **Center:** WBTV centered on frustrated Charlotte passengers and their complaints about poor communication from airlines and the FAA. The Hill ran live updates on the recovery.
-
-**Disputed or unclear**
-- Reported duration varies from about four hours to nearly five.
-- The root cause is still under investigation.
-
-**Why it matters:** Knock-on disruption is still affecting travelers ahead of the Thanksgiving travel period.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/fiasco-exhaustion-frustration-charlotte-airport-amid-impacts-nationwide-ground-stop/) (center): ‘A fiasco’: Exhaustion, frustration at Charlotte airport amid impacts from nationwide ground stop
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9) (lean-left): US blames system upgrade for longest nationwide FAA ground stop since 9/11
-- [The Hill](https://thehill.com/homenews/administration/6220447-live-trump-admin-faa-federalist-society/) (center): Live updates: US air travel recovers from ground stop
-- [The Guardian (US)](https://www.theguardian.com/world/video/2026/nov/14/rare-nationwide-ground-stop-halts-us-air-traffic-video) (lean-left): Rare nationwide ground stop halts US air traffic – video
-
-
-## 6. Duffy links ground stop to L3Harris upgrade, says cause is still being determined
-· Covered by 5 outlets (L 2 · C 1 · R 2)
-
-Transportation Secretary Sean Duffy said Friday's ground stop followed routine work by contractor L3Harris to switch a remote FAA telecom line from copper to fiber. He said a router then flooded other routers with more than 1,000 connection attempts every four to five seconds, disrupting radar feeds and communications. Duffy said officials are still determining whether the cause was installer error or a faulty router, and FAA Administrator Bryan Bedford said there was 'zero evidence' of anything nefarious or AI-related. L3Harris said it is supporting the investigation and has completed more than 70% of the conversion. Duffy used the moment to press Congress for more modernization money.
-
-**Key facts**
-- Duffy said L3Harris owns the FAA's legacy telecom network and has worked for the agency for over 20 years
-- Congress approved $12.5 billion for air traffic control modernization in July 2025
-- About 9,000 US flights were canceled Friday, according to FlightAware
-- Duffy said AT&T, Verizon and Lumen will work on the new architecture
-
-**How it's being framed**
-- **Left:** NPR and The Verge reported Duffy's account and L3Harris's full statement, and noted his renewed funding request and his description of a 'partial payment' from Congress.
-- **Center:** CNBC placed the outage within the wider struggle with aging infrastructure. It included Bedford's explanation for grounding flights and how airlines are offering crews extra pay to recover.
-- **Right:** Fox Business profiled L3Harris and emphasized Duffy appearing to blame the company and saying he is 'stuck' with it. The Washington Examiner framed the story as Duffy criticizing the contractor.
-
-**Disputed or unclear**
-- Whether L3Harris error or faulty equipment caused the failure has not been determined.
-- Friday delay counts differ: CNBC reported more than 7,000 and NPR nearly 25,000.
-
-**Why it matters:** The outage puts a spotlight on fragile air traffic infrastructure and on the coming funding fight in Congress.
-
-**Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html) (center): Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy
-- [NPR](https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel) (lean-left): FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade
-- [Fox Business](https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage) (lean-right): Who is L3Harris, the federal contractor Sec. Duffy says may have caused the FAA outage?
-- [The Verge](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire) (lean-left): Work to replace old copper wire led to the FAA’s ground stop
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4803968/duffy-criticize-faa-l3harris-ground-stop/) (lean-right): Duffy criticizes FAA telecommunications provider L3Harris for mishap that led to ground stop
-
-
-## 7. Two-alarm fire destroys Concord home; no injuries
+## 5. 12-year-old dies after house fire in Kannapolis
 `Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Concord firefighters responded shortly after midnight Saturday to a two-story house fire on Millstone Circle SW and brought it under control at 1:16 a.m. No one was injured. The Red Cross is helping the displaced family, and the fire marshal is investigating the cause.
+A 12-year-old died after a fire on Saturday afternoon at a home in the 900 block of Polo Avenue in Kannapolis, North Carolina. Firefighters pulled the child from the burning house, and WCNC reports the child was flown to a regional burn center. A second victim, found on the lawn, remains in hospital. The cause of the fire is under investigation.
 
 **Key facts**
-- Dispatched at 12:21 a.m.; second alarm at 12:32 a.m.
-- 36 firefighters from Concord and Harrisburg responded
+- Firefighters were called around 1 p.m., and the fire was under control around 1:45 p.m.
+- It was a two-alarm fire with help from several neighbouring agencies.
 
 **How it's being framed**
-- **Center:** Local Charlotte stations gave straightforward incident reports.
+- **Center:** Local outlets gave straightforward accounts based on statements from the fire department.
 
 **Disputed or unclear**
-- Cause under investigation.
+- The cause of the fire has not been determined.
 
-**Why it matters:** It is a local safety incident for Cabarrus County residents.
+**Why it matters:** It is a fatal local house fire that remains under investigation.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/fire-destroys-two-story-home-concord-early-saturday-morning/IC44HKKFSRAS5CCEMF7MS5ET7U/) (center): Fire destroys two-story home in Concord early Saturday morning
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/cabarrus-county/concord/family-displaced-after-two-alarm-house-fire-in-concord/) (center): Family displaced after two-alarm house fire in Concord
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/house-fire-in-concord-under-investigation/275-c9576fcd-3922-4e21-92d0-2850e1564003) (center): House fire in Concord under investigation
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/two-hurt-two-alarm-house-fire-kannapolis/LXHLVBUCS5DLHPRHVH4U6ZVPLY/) (center): 12-year-old dies from injuries sustained in Kannapolis house fire
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/kannapolis/two-hurt-in-two-alarm-fire-in-kannapolis/) (center): Child killed, one hurt in two-alarm fire in Kannapolis
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/two-people-hurt-in-house-fire-in-kannapolis-two-alarm/275-b26f6069-166e-45e0-8c41-b6d42fbf3eaf) (center): 12-year-old dies in Kannapolis house fire; another person remains in the hospital
 
 
-## 8. Bomb found at Peoria ethanol plant; evacuation lifted after search
-`US Headlines` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 6. Multiple structure and woods fires burn north of Morganton
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-Authorities found a bomb at the BioUrja Renewables ethanol plant in Peoria, Illinois, on Friday and rendered it safe. A one-mile evacuation zone covering parts of Peoria and East Peoria was in place overnight. After a search found no other devices, police lifted the order Saturday afternoon. The FBI and ATF are investigating, and no arrests have been announced.
+Nine fire departments responded on Saturday evening to several structure fires and nearby woods fires near Sundance Lane in Burke County's Chesterfield community. The first call came around 6:45 p.m. The North Carolina Forest Service assisted, and the incident was still active Saturday night. Queen City News reported that multiple buildings were destroyed.
 
 **Key facts**
-- The evacuation covered a one-mile radius and was lifted around 1 p.m. Saturday
-- About 60 to 80 people stayed at a shelter at Manual High School
-- No injuries were reported
-- Mayor Rita Ali confirmed the device was a bomb
+- Nine fire departments from Burke and Caldwell counties responded.
+- The first report came in around 6:45 p.m. on Saturday.
 
 **How it's being framed**
-- **Left:** The Guardian and NPR stressed officials' insistence that the threat was real, not a hoax, and the FBI's vow to find whoever was responsible. They also covered local cancellations. NPR noted that most bomb threats do not prove credible.
-- **Center:** WBTV focused on the lifted evacuation and official statements.
+- **Center:** Local outlets reported the basic facts of the response from county officials.
 
 **Disputed or unclear**
-- The type of device and any motive or suspect have not been disclosed.
-- Accounts differ on whether the device was found Friday afternoon or Friday night.
+- No cause, injuries or damage totals have been reported.
 
-**Why it matters:** A confirmed bomb at a plant holding combustible chemicals is a serious public safety threat.
+**Why it matters:** The fires were still active, and residents near the area may be affected.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/evacuation-order-lifted-after-bomb-found-illinois-ethanol-plant/) (center): Evacuation order lifted after bomb found at Illinois ethanol plant
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb) (lean-left): Evacuation zone lifted after bomb found at Illinois ethanol plant
-- [NPR](https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations) (lean-left): Bomb found near ethanol plant in central Illinois forces evacuations
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/multiple-crews-respond-fires-chesterfield-community-north-morganton/VS326MNKBFCQDOGPHJ4C5ESDTI/) (center): Multiple crews respond to fires in Chesterfield Community north of Morganton
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/burke-county/multiple-fires-destroy-homes-woods-in-morganton/) (center): Multiple fires destroy homes, woods in Morganton
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/firefighters-battle-multiple-structure-fires-in-morganton-saturday-night/275-e03ec357-a924-4ecd-aa28-ab47381484c4) (center): Firefighters battle multiple structure fires in Morganton Saturday night
 
 
-## 9. Security firm says North Korea-linked hackers listed 30 South Korean servers as targets
+## 7. Philippines wins first Eurovision Song Contest Asia
+`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+The Philippines won the inaugural Eurovision Song Contest Asia in Bangkok with 19-year-old Carmelle Collado's "Sobra-Sobra." Eleven countries took part, but China, Japan and India did not. Thailand placed second, Vietnam third and Malaysia fourth.
+
+**Key facts**
+- The Philippines scored 211 points, ahead of Thailand with 170 and Vietnam with 164.
+- Eleven countries competed.
+
+**How it's being framed**
+- **Left:** The Guardian covered the event with a photo gallery.
+- **Center:** DW reported the results and questioned whether the format will catch on, noting that tickets were still available hours before the show.
+
+**Disputed or unclear**
+- It is unclear whether the contest will become popular or last.
+
+**Why it matters:** It is a regional expansion of one of the world's most-watched TV events.
+
+**Read it yourself:**
+- [Deutsche Welle](https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf) (center): Philippines wins first Eurovision Song Contest Asia
+- [The Guardian (Asia-Pacific)](https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures) (lean-left): The inaugural Eurovision Asia 2026 – in pictures
+
+
+## 8. Zelensky says US envoys raised NATO membership in exchange for withdrawal from Donbas
+`US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Ukrainian President Volodymyr Zelensky said US envoys Jared Kushner and Steve Witkoff asked whether Ukraine would withdraw from Donbas if it joined NATO. He said it was the first time the idea had been raised. The US has not confirmed this account; an official said "many ideas continue to be discussed," and Kushner urged confidentiality. Zelensky said he would put any specific proposal that included security guarantees to a referendum. Russia's position appears unchanged.
+
+**Key facts**
+- Zelensky's remarks were released on Saturday.
+- The envoys met Putin in Moscow and Zelensky in Dublin.
+- Russia controls most of the Donbas region.
+
+**How it's being framed**
+- **Left:** Al Jazeera explored whether the pitch could work, quoting analysts who called it a surprising departure and doubted that Moscow or some NATO members would accept it.
+- **Center:** The BBC stressed that the claim is unconfirmed and suggested Zelensky may have gone public to reopen the NATO question or to push back against Russia.
+
+**Disputed or unclear**
+- The US has not confirmed that the proposal was made.
+- Russia and some NATO members are likely to oppose it.
+- The articles differ on whether the idea was raised in Abu Dhabi or in Dublin.
+
+**Why it matters:** If real, the idea would be a major shift in peace talks on the war.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss) (center): US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia) (lean-left): Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?
+
+
+## 9. Senior Kim Jong-un aide visits Moscow ahead of US-China-Russia summit
+`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Jo Yong-won, one of North Korean leader Kim Jong-un's closest aides, arrived in Moscow on Saturday at the invitation of Dmitry Medvedev. The visit comes days before a planned meeting of Trump, Xi Jinping and Putin at the APEC summit in Shenzhen. Analysts quoted by the Korea Herald suggest Jo may be carrying a message from Kim. Seoul fears being sidelined in any talks on North Korea's nuclear program.
+
+**Key facts**
+- Jo arrived on Saturday, according to North Korea's state news agency KCNA.
+- The three-way summit is planned for Thursday in Shenzhen.
+
+**How it's being framed**
+- **Center:** Yonhap framed the trip as part of deepening North Korea-Russia ties. The Korea Herald stressed Seoul's worries and analysts' speculation.
+
+**Disputed or unclear**
+- Whether Jo is carrying a personal message from Kim is speculation.
+- A possible Kim visit to Russia is also speculative.
+
+**Why it matters:** Talks among the major powers could affect how North Korea's nuclear status is treated.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10937539) (center): Kim Jong-un's top aide visits Russia ahead of US-China-Russia summit
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000600315) (center): N. Korean leader's close aide visits Russia amid deepening bilateral ties
+
+
+## 10. Report says Lazarus-linked hackers listed 30 South Korean servers as targets
 `AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Cybersecurity firm Cyfirma says it obtained a list of 216 servers in 10 countries, compiled in October by Korean-speaking hackers it links with 'high confidence' to North Korea's Lazarus Group. Thirty of the servers are in South Korea. The targets include government agencies, banks, telecoms and infrastructure providers. Cyfirma said being on the list does not mean a server was breached.
+Cybersecurity firm Cyfirma says it obtained a list of 216 servers in 10 countries compiled by Korean-speaking hackers it links with "high confidence" to North Korea's Lazarus Group. Thirty of the servers are in South Korea. The firm says being on the list does not mean a server was breached. It urged administrators to install security patches and restart affected programs.
 
 **Key facts**
-- The list was completed Oct. 24
-- 148 targets were in Asia-Pacific, 49 in North America and 19 in the Middle East
-- The US and Japan accounted for 44.4% of the targets
+- The list covers 216 servers, 30 of them in South Korea.
+- The list was completed on October 24.
+- Servers in the US and Japan make up 44.4% of the total.
 
 **How it's being framed**
-- **Center:** Yonhap and the Korea Herald ran the same report, relaying Cyfirma's findings and its advice to patch and restart affected programs.
+- **Center:** Both outlets ran the same Yonhap report, relying on Cyfirma's findings.
 
 **Disputed or unclear**
-- The attribution comes from a single private firm, and no breaches are confirmed.
+- The attribution to Lazarus is the firm's own assessment.
+- It is unknown whether any of the listed servers were breached.
 
-**Why it matters:** It points to continued state-linked cyber threats against critical infrastructure in several countries.
+**Why it matters:** The targets include government agencies, banks and telecom and infrastructure providers.
 
 **Read it yourself:**
 - [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000400320) (center): N. Korea-linked hackers target 30 S. Korean servers: report
 - [The Korea Herald](https://www.koreaherald.com/article/10937359) (center): N. Korea-linked hackers target 30 S. Korean servers: report
-
-
-## 10. Top scorer on South Korean tax accountant exam confesses to AI-assisted cheating
-`AI & Cybersecurity` `Korea` · Covered by 1 outlet (L 0 · C 1 · R 0)
-
-Han Won-seok, 34, who placed first on South Korea's tax accountant exam, turned himself in to Seoul police. In a video, he admitted using a miniature camera to photograph questions, sending them to an AI tool and reading the answers on a smartphone. He also admitted cheating the same way on the first round of the CPA exam in March. He had earlier denied the allegations, which arose from scores far above the average.
-
-**Key facts**
-- He scored 397.5 out of 400 in the first round
-- The average score in introductory tax law was 30.18; he scored a perfect 100
-- Prime Minister Han Seong-sook vowed zero tolerance for exam cheating
-
-**How it's being framed**
-- **Center:** The Korea Herald detailed his confession, his statistically unusual scores and his earlier denials.
-
-**Disputed or unclear**
-- Legal consequences and any changes to exam security are still pending.
-
-**Why it matters:** The case shows how AI tools are creating new cheating risks for high-stakes professional exams.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10937374) (center): Tax accountant exam's top scorer admits to AI-assisted cheating
 
 
 ---
@@ -295,5 +271,7 @@ Han Won-seok, 34, who placed first on South Korea's tax accountant exam, turned 
 
 ### What is happening with AI regulation in the US and EU?
 
-The only matching item is a Verge interview with former OpenAI board member Helen Toner, who argues AI company CEOs still cannot be trusted. The available excerpt does not report any new US or EU regulatory action.
-- [The Verge](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) (lean-left): The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs
+No articles in this edition address AI regulation in the US or EU. The Korean exam cheating story touches on government responses to AI misuse in testing, but not on regulation in those regions.
+
+---
+_Feeds that failed this run: Newsweek_
