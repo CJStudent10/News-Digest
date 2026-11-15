@@ -1,268 +1,215 @@
-# My Daily Brief: Midday edition
-_Saturday, November 14, 2026 · 3:58 PM EST · 310 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Saturday, November 14, 2026 · 9:09 PM EST · 316 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by fallout from two big infrastructure failures, a multi-day Microsoft 365 outage and a nationwide U.S. flight ground stop that officials link to a contractor's network upgrade, alongside the widening Nvidia leadership scandal and its political spillover onto Commerce Secretary Howard Lutnick. Also covered: a bomb found at an Illinois ethanol plant, Zelensky's account of a U.S. question on trading Donbas for NATO membership, the first Eurovision Asia, and Charlotte-area local news.
+> This edition leads with SpaceX catching the upper stage of its Starship rocket for the first time, and with the fallout from Friday's nationwide US flight ground stop, which officials linked to a contractor's equipment upgrade. It also covers investor pressure at Nvidia after Jensen Huang's resignation, a tanker crash on the Mississippi in New Orleans, a bomb found at an Illinois ethanol plant, and the first Eurovision Asia. Shorter items cover a Concord house fire, North Korea-linked hacking targets and an AI exam-cheating confession in South Korea.
 
 
-**Sources linked in this edition:** 11 left · 23 center · 5 right
+**Sources linked in this edition:** 11 left · 21 center · 8 right
 
 ---
 
-## 1. After Jensen Huang's exit, Asian governments react and two investors urge Nvidia's board to consider his return
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 5 outlets (L 1 · C 3 · R 1)
+## 1. SpaceX catches Starship upper stage with launch tower for first time; booster lost
+· Covered by 12 outlets (L 5 · C 4 · R 3)
 
-Jensen Huang resigned as Nvidia CEO on Thursday amid affair allegations, including one with Alice Huang, a former Megaspeed executive whom reports describe as a suspected Chinese spy. Nvidia's board had launched an independent investigation on November 8, and CFO Colette Kress is now interim CEO. Two major shareholders, Brad Gerstner of Altimeter Capital and Gavin Baker of Atreides Management, published a letter asking the board for a 'slow, measured' succession process that keeps 'the potential return of Jensen Huang' open. Elon Musk said he signed a petition to reinstate Huang and warned that 'critical deals will be lost.' Across Asia, China called the spy allegations groundless, South Korea said Nvidia reaffirmed a 260,000-GPU supply plan, and Singapore described its investigation into Megaspeed.
+SpaceX caught the upper stage of its Starship rocket with the mechanical arms of its Texas launch tower after a flight of about 22 hours, the first time it has recovered that part of the vehicle this way. The 15th test flight was meant to recover both stages, but the Super Heavy booster aborted its planned catch minutes after Friday's launch, diverted over the water and exploded. In orbit, the ship deployed 26 Starlink satellites and circled Earth 14 times before returning to Starbase on Saturday. SpaceX is still investigating the booster failure. The program matters to NASA's plan to land astronauts on the Moon in 2028.
 
 **Key facts**
-- Huang resigned Thursday; Colette Kress, Nvidia's CFO for 13 years, is interim CEO.
-- The investor letter does not call for Huang's immediate reinstatement; Altimeter held a 9.4 million-share Nvidia stake worth nearly $1.9 billion as of June 30.
-- China's foreign ministry called the spy allegations 'groundless' and a smear.
-- South Korea's Science Ministry said Nvidia reaffirmed plans to supply 260,000 advanced GPUs.
-- Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10; Huang has also been asked to testify.
+- 15th Starship test flight; the first attempt to catch both stages
+- The upper stage completed 14 orbits and deployed 26 Starlink V3 satellites
+- SpaceX has caught the Super Heavy booster on three earlier flights
+- The booster exploded over the Gulf after an automated abort; Musk said it was "slightly low on fuel"
+- NASA Administrator Jared Isaacman praised the flight on X: "Making more believers by the day"
 
 **How it's being framed**
-- **Left:** The Verge ran an analytical feature casting Huang's exit as the end of the 'visionary showman founder CEO' era. It stressed his alleged role in two chip-smuggling scandals and three alleged affairs, Nvidia's lack of a succession plan, and risks to the AI industry and the stock market, quoting industry analysts on how central he was to the company.
-- **Center:** TechCrunch, CNBC and The Hill focused on concrete reactions: Asian governments' statements, Singapore's investigation details, the investor letter and its holders' stakes, Musk's petition and comments, upcoming congressional testimony, and the timing of Trump's China trip. CNBC noted that the letter stops short of demanding reinstatement.
-- **Right:** The Washington Examiner led with investors pushing for Huang's reinstatement and framed the affair as having 'sparked a political battle within the Trump administration,' noting 'mounting questions' over the intelligence allegations.
+- **Left:** The Guardian called it a victory and a milestone toward human spaceflight. It quoted a SpaceX spokesperson explaining the booster abort, and it noted that Isaacman is a Musk ally whom Musk advised Trump to appoint. It also tied Starship to Musk's 'satellite internet empire.' The Verge focused on the catch itself, called it a milestone though not a complete success, and suggested the booster failure was not insurmountable.
+- **Center:** BBC and CNBC covered the economics of reusability and the stakes for NASA's 2028 Moon timeline and for SpaceX shareholders now that the company is public. BBC quoted an aerospace expert who called the booster loss a setback but the ship recovery a substantial step. CNBC added that Hawaii briefly paused some flights over debris risk.
+- **Right:** Fox Business framed it as SpaceX 'making history.' It highlighted praise from Musk biographer Walter Isaacson and War Secretary Pete Hegseth, who called Musk 'a great American.' The Washington Examiner ran the AP account, which called the return 'triumphant' while noting the missed double catch.
 
 **Disputed or unclear**
-- Whether Alice Huang is a spy is unproven; China denies it, and outlets describe her as an 'alleged' or 'suspected' spy.
-- Singapore found insufficient evidence of false-declaration offenses by Alice Huang, but its investigation into Megaspeed and six other people continues.
-- According to The New York Times, a Commerce investigation into Megaspeed moved to the Justice Department after Nvidia's lawyer contacted a senior Commerce official; the significance of this is under scrutiny.
-- A 'Stand with Jensen' petition claims more than 100,000 signatures, including more than 5,000 Nvidia employees; these figures are unverified.
-- The Washington Examiner names the firm and investor as 'Altmeter' and 'Gavin Barker,' while CNBC uses 'Altimeter' and 'Gavin Baker.'
-- Uncertainty hangs over more than $3 billion in Chinese AI projects reliant on restricted Nvidia chips, according to Reuters' review.
+- Why the booster failed: Musk said it was low on fuel, a SpaceX spokesperson said guidance systems found it out of position for a catch, and Fox Business reported its engines shut down prematurely. Engineers are still investigating.
+- Whether SpaceX can recover both stages reliably on the same flight has not yet been shown.
 
-**Why it matters:** Nvidia's chips underpin the global AI boom and the company makes up about 6% of the S&P 500, so its leadership turmoil and the espionage questions carry market and national-security stakes.
+**Why it matters:** A fully reusable Starship could sharply cut launch costs, and NASA's crewed Moon landing plans depend on it.
 
 **Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) (center): Asian governments react to Nvidia CEO Jensen Huang’s exit
-- [The Verge](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) (lean-left): Jensen Huang and the decline of the visionary showman founder CEO
-- [Washington Examiner](https://www.washingtonexaminer.com/news/business/4804015/investors-push-jensen-huang-reinstate-nvidia-ceo/) (lean-right): Investors push for Jensen Huang to be reinstated as Nvidia CEO after affair with suspected spy
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss) (center): SpaceX successfully catches top of huge Starship rocket for first time
+- [The Guardian (World)](https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch) (lean-left): SpaceX’s Starship returns to launch pad from orbit in victory for company
+- [Fox Business](https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time) (lean-right): SpaceX makes history as Starship spacecraft caught by launch tower for first time
+- [CNBC](https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html) (center): SpaceX catches upper stage of Starship rocket in historic first
+- [The Verge](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch) (lean-left): Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4804048/spacex-starship-returns-orbit-captured-launch-pad-arms-dramatic-first/) (lean-right): SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first
+
+
+## 2. Nvidia investors urge careful CEO search, including a possible Huang return
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 5 outlets (L 0 · C 3 · R 2)
+
+Two major Nvidia shareholders, Altimeter Capital's Brad Gerstner and Atreides Management's Gavin Baker, asked the board to take a slow, deliberate approach to choosing a permanent leader and to consider 'the potential return of Jensen Huang.' Huang resigned Thursday amid reports of extramarital affairs, including one with a woman described as a suspected Chinese spy who worked with Megaspeed, a Singapore company under Justice Department investigation over possible diversion of restricted chips to China. Former CFO Colette Kress is interim CEO. Elon Musk said he signed a petition to reinstate Huang and warned that 'critical deals will be lost' without him. Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10, and Huang has also been asked to testify.
+
+**Key facts**
+- Huang resigned Thursday; Colette Kress, CFO for 13 years, is interim CEO
+- Altimeter held about 9.4 million Nvidia shares worth nearly $1.9 billion as of June 30
+- The investor letter did not call for Huang's immediate reinstatement
+- Lutnick is due to testify before the Senate Banking Committee on Dec. 10
+- Megaspeed has denied wrongdoing
+
+**How it's being framed**
+- **Center:** CNBC reported the investor letter, the petition and Musk's comments, along with the congressional testimony requests and Trump's upcoming China trip. TechCrunch asked what Nvidia's security team knew. It noted turnover in the chief security officer role while saying nothing publicly links that change to Megaspeed, and it quoted a former intelligence officer on how affairs can give foreign spies leverage.
+- **Right:** A New York Post column used the episode to defend short sellers. It described the woman as someone 'the feds believe could be a Chinese spy,' argued the ouster exposed governance flaws, and quoted an anonymous short seller who said the 'AI cycle is over.' The Washington Examiner headlined investors pushing for Huang's reinstatement and framed the departure as sparking a political battle inside the Trump administration.
+
+**Disputed or unclear**
+- The espionage suspicion about Alice Huang is reported but unproven, and Megaspeed denies wrongdoing.
+- The 'Stand with Jensen' petition's claim of more than 100,000 signatures, including over 5,000 Nvidia employees, is unverified.
+- Musk's claim that many supply deals were handshake agreements with Huang has not been confirmed.
+- Outlets differ on emphasis: the Examiner says investors 'push for' reinstatement, while CNBC notes the letter did not call for it immediately.
+- It is unclear what Nvidia's security team or board knew about the Megaspeed inquiry and Huang's relationships.
+
+**Why it matters:** Leadership at one of the world's most valuable chip companies is tied up with US-China tech export controls and wider AI market confidence.
+
+**Read it yourself:**
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) (center): Where was Nvidia’s security team?
+- [New York Post](https://nypost.com/2026/11/14/business/consider-nvidias-jensen-huang-led-implosion-a-massive-win-for-short-stock-sellers/) (lean-right): Consider Nvidia’s Jensen Huang-led implosion a massive win for short sellers
 - [CNBC](https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html) (center): Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors
+- [Washington Examiner](https://www.washingtonexaminer.com/news/business/4804015/investors-push-jensen-huang-reinstate-nvidia-ceo/) (lean-right): Investors push for Jensen Huang to be reinstated as Nvidia CEO after affair with suspected spy
 - [The Hill](https://thehill.com/policy/technology/6220693-elon-musk-predicts-nvidia-losses/) (center): Musk: ‘Critical deals will be lost’ at Nvidia without Huang
 
 
-## 2. Philippines' Carmelle wins the first Eurovision Song Contest Asia in Bangkok
-`Asia Business & Politics` `Korea` · Covered by 4 outlets (L 2 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 3. Philippines' Carmelle wins first Eurovision Song Contest Asia in Bangkok
+`Asia Business & Politics` · Covered by 5 outlets (L 2 · C 3 · R 0)
 
-Nineteen-year-old Filipino singer Carmelle won the first Eurovision Song Contest Asia in Bangkok on Saturday with 'Sobra-Sobra,' a women's empowerment song in Tagalog and English. She scored 211 points and topped both the jury and public votes. Hosts Thailand placed second and Vietnam third among 11 competing countries. Organisers hope the format grows in Asia, but reports noted unsold tickets, an arena that was not full, and uncertainty over broadcasters' commitment.
+Nineteen-year-old Filipino singer Carmelle won the first Eurovision Song Contest Asia in Bangkok with 'Sobra-Sobra,' a song about female empowerment sung in Tagalog and English. Eleven countries competed, with hosts Thailand second and Vietnam third. China, Japan and India did not take part, tickets were still available hours before the show, and the arena was not full. Organisers say it may take years for the contest to establish itself.
 
 **Key facts**
-- Carmelle scored 211 points: 93 from juries and 118 from the public.
-- Final top three: Philippines 211, Thailand (MANG x DAOU) 170, Vietnam 164.
-- Eleven countries competed; India, Japan and China did not take part.
-- Results were split 50% jury and 50% public vote, and viewers could not vote for their own country.
-- Carmelle receives a trophy but no prize money.
+- Philippines won with 211 points: 93 from juries and 118 from the public
+- Thailand finished second with 170 points and Vietnam third with 164
+- 11 countries took part; voting was split 50/50 between juries and the public
+- Eurovision drew 131 million viewers in 2026, down 35 million after a boycott by five countries over Israel's participation
+- The winner receives a trophy but no prize money
 
 **How it's being framed**
-- **Left:** The Guardian's preview took a witty, critical tone toward individual entries and noted that LGBTQ+ representation and campness were toned down because of restrictive attitudes in some broadcast countries. Its results piece highlighted Carmelle's humble background, her quotes about Filipino women, and Nepal's entrant appealing for support after deadly floods.
-- **Center:** CNA and the BBC centred on fans, the atmosphere and results. Both raised doubts about whether the contest will catch on in Asia: CNA noted unsold tickets and Eurovision's 2026 viewership drop after a boycott over Israel, and the BBC noted the crowd thinned and broadcasters' commitment is unclear.
+- **Left:** The Guardian focused on Carmelle's personal story and the staging of each act, including Nepal's singer appealing for support after deadly floods. It also explained the voting details, including paid extra votes, and Laos's technical problems.
+- **Center:** BBC, DW and CNA covered the results and festive atmosphere but questioned the contest's staying power, pointing to a thin local turnout, unsold tickets, absent major nations and the failed US spinoff. CNA noted the Israel-related boycott in Europe, which organisers say is unrelated to the expansion.
 
 **Disputed or unclear**
-- Whether the contest continues and expands beyond 11 countries is not yet clear.
-- Accounts of the Laos technical problem differ: the BBC says a music video was played, while the Guardian says the dress-rehearsal performance was aired.
-- The venue is named as both One Bangkok Forum and One Bangkok Arena.
+- Accounts of Laos's broadcast mishap differ: BBC says a music video was replayed over an apparent technical issue, while the Guardian says her dress rehearsal was aired after the live performances.
+- Whether regional broadcasters will commit to future editions is unclear.
 
-**Why it matters:** The contest tests whether one of the world's biggest TV music franchises can expand beyond Europe.
+**Why it matters:** It tests whether one of the world's biggest TV music events can grow beyond Europe.
 
 **Read it yourself:**
 - [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/waiting-so-long-fans-gather-eurovisions-first-asia-show-6551791) (center): 'Waiting so long': Fans gather for Eurovision's first Asia show
-- [The Guardian (Asia-Pacific)](https://www.theguardian.com/tv-and-radio/2026/nov/14/eurovision-asia-bangkok-thailand) (lean-left): Mesh masks, Nana’s lampshade and the other Beck: what to watch for at Eurovision Asia
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss) (center): Philippines wins first Eurovision Song Contest Asia
 - [The Guardian (World)](https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia) (lean-left): Philippines’ Carmelle wins first Eurovision contest in Asia
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss) (center): Philippines wins first Eurovision Song Contest Asia
+- [The Guardian (Asia-Pacific)](https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures) (lean-left): The inaugural Eurovision Asia 2026 – in pictures
+- [Deutsche Welle](https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf) (center): Philippines wins first Eurovision Song Contest Asia
 
 
-## 3. Microsoft says 365 services are restored after a global outage it traced to a network upgrade
-`Asia Business & Politics` `Korea` · Covered by 4 outlets (L 1 · C 3 · R 0)
+## 4. New Orleans port sues tanker owners after collision capsizes docked riverboat
+· Covered by 7 outlets (L 1 · C 3 · R 3)
 
-Microsoft said Saturday it had fixed the underlying issue and restored service after an outage that began around midday Thursday U.S. time and disrupted Outlook, Teams, SharePoint and Copilot worldwide. The company apologised Friday and said the problem was introduced during an earlier network capacity upgrade. It said there was no indication of malicious activity and that the outage was not related to cyberattacks or AI agents. Governments, health services and businesses in many countries reported disruption, and Microsoft says it will publish a full report.
+A tanker, the Atlantic Asphalt, appeared to lose steering near the Crescent City Connection bridge on Friday and struck the docked paddlewheel cruise ship American Heritage, which capsized and partly sank. Everyone aboard survived; 32 people were taken to hospitals and eight remained hospitalized Saturday. The Port of New Orleans filed a federal lawsuit alleging negligence and at least $1 million in terminal damage, and a judge authorized seizure of the tanker. The NTSB has recovered the tanker's voyage data recorder and expects a preliminary report in about 30 days, while the Coast Guard says removing the cruise ship will take weeks.
 
 **Key facts**
-- Problems began shortly before 1 p.m. ET Thursday; service was declared restored Saturday.
-- Microsoft said it is 'deeply sorry' and attributed the outage to an issue during an earlier network capacity upgrade.
-- Downdetector logged outage reports from more than 70 countries and territories, and more than 7.4 million reports overall per Deutsche Welle.
-- The U.K.'s NHS was affected, with some staff reportedly using paper records.
-- South Korea's ICT ministry will inspect domestic damage and form a joint response team with Microsoft Korea.
+- The lawsuit names the tanker, owner Nave Shipping SA and manager Thome Ship Management
+- Chief US District Judge Wendy Vitter granted the request to arrest the vessel
+- Nave Shipping is a subsidiary of China State Shipbuilding Corporation
+- 16,000 gallons of fuel must be removed from the American Heritage before salvage
+- The NTSB final report is expected in 18 to 24 months
 
 **How it's being framed**
-- **Left:** PBS (AP) emphasised the cascading risk of so many institutions depending on one provider, quoting a Glasgow academic on resilience and noting that some lawmakers outside the U.S. cite overreliance on American tech.
-- **Center:** CNBC detailed the technical recovery steps and the business impact. Deutsche Welle stressed the outage's length, effects on German businesses, and 'perilous reliance' on a few Big Tech firms. Yonhap covered the South Korean government's response.
+- **Left:** PBS, running the AP account, led with the port suing to seize a vessel 'owned by a subsidiary of a Chinese company.' It featured a survivor's account of being thrown into the river and details of the NTSB investigation.
+- **Center:** BBC and WBTV focused on the lawsuit's details and the officials' 'miracle on the Mississippi' description. BBC also noted the Chinese parent company and that it had requested comment.
+- **Right:** Fox News emphasized the rescue: about 100 people pulled from the river, the injured captain who was last to leave, and the Coast Guard saying there was no indication of terrorism. Fox Business focused on the lawsuit and seizure, and noted it was unclear whether the warrant had been executed.
 
 **Disputed or unclear**
-- Microsoft's full root-cause report is still pending.
-- Duration is described variously as 'hours,' 'nearly 24 hours' and 'more than 24 hours.'
-- User figures differ: more than 430 million users per Microsoft's website, versus more than 450 million paid commercial subscriptions.
+- Reported numbers aboard vary: 192 passengers, 197 passengers and crew, 191 passengers and crew, or about 129 passengers plus crew.
+- Fox reported two people in serious condition, while other outlets said no injuries were critical.
+- The cause is unconfirmed; officials point to a possible steering loss.
+- Fox Business said it was unclear whether the warrant had been executed, while PBS reported federal officials had control of the ship.
 
-**Why it matters:** It shows how a single provider's failure can disrupt governments, hospitals and businesses worldwide at once.
+**Why it matters:** The crash disrupted traffic on a major US shipping artery and raises questions about vessel safety and liability.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html) (center): Microsoft apologizes for massive outage that took down Outlook and other 365 services
-- [PBS NewsHour](https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage) (lean-left): Microsoft says services fully restored after global outage
-- [Deutsche Welle](https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-rdf) (center): Microsoft says all services working again
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261114002000315) (center): ICT ministry to inspect domestic disruptions after Microsoft services outage
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/port-new-orleans-sues-tanker-owners-following-ship-collision-mississippi-river/) (center): Port of New Orleans sues tanker owners following ship collision on Mississippi River
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river) (lean-left): New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River
+- [Fox News](https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort) (right): At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss) (center): New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision
+- [Fox Business](https://www.foxbusiness.com/economy/new-orleans-port-seeks-tanker-seizure-cruise-ship-crash-sparks-lawsuit) (lean-right): New Orleans port seeks tanker seizure after cruise ship crash sparks $1M lawsuit
+- [BBC News (World)](https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss) (center): Watch: Cruise ship overturns after collision with tanker in New Orleans
 
 
-## 4. Duffy links U.S. ground stop to a contractor's copper-to-fiber upgrade; cause still under investigation
-· Covered by 6 outlets (L 3 · C 1 · R 2)
+## 5. Stranded travelers face weekend disruption after nationwide ground stop
+`US Headlines` `Charlotte Local` · Covered by 4 outlets (L 2 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
 
-Transportation Secretary Sean Duffy said Friday's nationwide ground stop followed work by contractor L3Harris to switch a remote FAA telecommunications line from copper wire to fiber optic cable. He said a router then 'flooded' other air traffic control routers with over 1,000 connection attempts every four to five seconds, disrupting radar feeds and communications. Duffy said investigators are still determining whether the cause was contractor error or a faulty router, and he vowed to 'hold people accountable.' FAA chief Bryan Bedford said there was 'zero evidence' of anything nefarious or AI-related. L3Harris said it is supporting the investigation.
+Travelers at airports including Charlotte Douglas spent Friday night on floors and benches after the FAA halted all US flights for several hours. Passengers described missed funerals, lost bookings and little information from airlines or the FAA. Transportation Secretary Sean Duffy blamed aging legacy equipment. FAA officials expect schedules to return to normal by the end of Sunday.
 
 **Key facts**
-- The ground stop lasted more than four hours, the longest pause on U.S. departures in about 25 years.
-- Duffy cited 'over 1,000 connection attempts every 4 to 5 seconds' from the affected router.
-- L3Harris says it has completed more than 70% of the FAA's planned copper-to-fiber conversion.
-- Congress approved $12.5 billion for air traffic control modernization in July 2025; Duffy is seeking more.
-- The FAA expects full schedule recovery by Sunday.
+- Only the second nationwide ground stop of its kind since 9/11, and described as the longest
+- FAA chief Bryan Bedford said crews and aircraft were out of position after 12,000 lost flights
+- American Airlines said it was prioritizing international flights and flights to non-hub airports
 
 **How it's being framed**
-- **Left:** NPR, Al Jazeera and The Verge reported Duffy's account of the cause, his open question about 'incompetence' versus faulty hardware, and his push for more funding, and each carried L3Harris's statement. Al Jazeera highlighted Duffy's vow to 'hold people accountable' and his remark that L3Harris 'didn't meet the moment.'
-- **Center:** CNBC paired the official explanation with passenger impact: cancellation counts, airlines offering crews extra or double pay, and fee waivers ahead of Thanksgiving.
-- **Right:** Fox Business and the Washington Examiner centred on Duffy's criticism of L3Harris, including his comment that he is 'stuck' with the company until funding allows AT&T, Verizon and Lumen to build a new network. Fox also profiled L3Harris's broader defense work.
+- **Left:** Al Jazeera focused on the official explanation, Duffy's vow to 'hold people accountable,' L3Harris's response and the denial of a cyberattack. The Guardian's video piece noted that the homeland security and transportation secretaries suggested older technology was overwhelmed.
+- **Center:** WBTV centered on frustrated Charlotte passengers and their complaints about poor communication from airlines and the FAA. The Hill ran live updates on the recovery.
 
 **Disputed or unclear**
-- The FAA has not determined whether the failure came from installer error or a faulty router.
-- Duffy's characterisation of L3Harris's responsibility has not been accepted by the company, which says only that it is supporting the investigation.
-- A root-cause analysis has been promised but not yet released.
+- Reported duration varies from about four hours to nearly five.
+- The root cause is still under investigation.
 
-**Why it matters:** The explanation shapes who is held responsible and how much more money Congress gives for air traffic control modernization.
+**Why it matters:** Knock-on disruption is still affecting travelers ahead of the Thanksgiving travel period.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/fiasco-exhaustion-frustration-charlotte-airport-amid-impacts-nationwide-ground-stop/) (center): ‘A fiasco’: Exhaustion, frustration at Charlotte airport amid impacts from nationwide ground stop
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9) (lean-left): US blames system upgrade for longest nationwide FAA ground stop since 9/11
+- [The Hill](https://thehill.com/homenews/administration/6220447-live-trump-admin-faa-federalist-society/) (center): Live updates: US air travel recovers from ground stop
+- [The Guardian (US)](https://www.theguardian.com/world/video/2026/nov/14/rare-nationwide-ground-stop-halts-us-air-traffic-video) (lean-left): Rare nationwide ground stop halts US air traffic – video
+
+
+## 6. Duffy links ground stop to L3Harris upgrade, says cause is still being determined
+· Covered by 5 outlets (L 2 · C 1 · R 2)
+
+Transportation Secretary Sean Duffy said Friday's ground stop followed routine work by contractor L3Harris to switch a remote FAA telecom line from copper to fiber. He said a router then flooded other routers with more than 1,000 connection attempts every four to five seconds, disrupting radar feeds and communications. Duffy said officials are still determining whether the cause was installer error or a faulty router, and FAA Administrator Bryan Bedford said there was 'zero evidence' of anything nefarious or AI-related. L3Harris said it is supporting the investigation and has completed more than 70% of the conversion. Duffy used the moment to press Congress for more modernization money.
+
+**Key facts**
+- Duffy said L3Harris owns the FAA's legacy telecom network and has worked for the agency for over 20 years
+- Congress approved $12.5 billion for air traffic control modernization in July 2025
+- About 9,000 US flights were canceled Friday, according to FlightAware
+- Duffy said AT&T, Verizon and Lumen will work on the new architecture
+
+**How it's being framed**
+- **Left:** NPR and The Verge reported Duffy's account and L3Harris's full statement, and noted his renewed funding request and his description of a 'partial payment' from Congress.
+- **Center:** CNBC placed the outage within the wider struggle with aging infrastructure. It included Bedford's explanation for grounding flights and how airlines are offering crews extra pay to recover.
+- **Right:** Fox Business profiled L3Harris and emphasized Duffy appearing to blame the company and saying he is 'stuck' with it. The Washington Examiner framed the story as Duffy criticizing the contractor.
+
+**Disputed or unclear**
+- Whether L3Harris error or faulty equipment caused the failure has not been determined.
+- Friday delay counts differ: CNBC reported more than 7,000 and NPR nearly 25,000.
+
+**Why it matters:** The outage puts a spotlight on fragile air traffic infrastructure and on the coming funding fight in Congress.
 
 **Read it yourself:**
 - [CNBC](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html) (center): Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy
 - [NPR](https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel) (lean-left): FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade
 - [Fox Business](https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage) (lean-right): Who is L3Harris, the federal contractor Sec. Duffy says may have caused the FAA outage?
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9) (lean-left): US blames system upgrade for longest nationwide FAA ground stop since 9/11
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4803968/duffy-criticize-faa-l3harris-ground-stop/) (lean-right): Duffy criticizes FAA telecommunications provider L3Harris for mishap that led to ground stop
 - [The Verge](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire) (lean-left): Work to replace old copper wire led to the FAA’s ground stop
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4803968/duffy-criticize-faa-l3harris-ground-stop/) (lean-right): Duffy criticizes FAA telecommunications provider L3Harris for mishap that led to ground stop
 
 
-## 5. Evacuation lifted after bomb found at Peoria, Illinois, ethanol plant; no arrests yet
-`US Headlines` · Covered by 4 outlets (L 2 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-A bomb was found Friday at the BioUrja Renewables ethanol plant in Peoria, Illinois, prompting a one-mile evacuation that reached into East Peoria. Bomb technicians rendered the device safe Friday night. Authorities lifted the evacuation Saturday afternoon after searching the large facility and finding no other items of concern. The FBI is investigating, no arrests or injuries have been reported, and officials have not said who placed the device or why.
-
-**Key facts**
-- BioUrja notified police of a threat at 1:08 p.m. Friday.
-- The device was rendered safe at about 9:12 p.m. Friday.
-- The evacuation was lifted around 1:25 p.m. local time Saturday.
-- Peoria Mayor Rita Ali: 'We know it is a bomb.'
-- The FBI's Springfield field office vowed to find those responsible.
-
-**How it's being framed**
-- **Left:** The Guardian and NPR stressed that officials confirmed a real bomb rather than a hoax, quoting the mayor, the police chief and a state senator ('This is not a hoax'). NPR noted that most bomb threats do not prove credible.
-- **Center:** Newsweek and WBTV gave detailed timelines and local impact, including shelters and Caterpillar's shift cancellation. Newsweek focused on open questions and the ethanol fire hazard.
-
-**Disputed or unclear**
-- The person responsible, the motive and the type of device are unknown.
-- NPR describes the bomb as found 'near' the plant, while others say it was at the facility.
-- The FBI agent's name is spelled Presley and Pressley in different reports.
-
-**Why it matters:** A confirmed explosive at a facility storing flammable fuel raises questions about industrial-site security.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/illinois-bomb-scare-questions-remain-after-evacuations-lifted-12716262) (center): Illinois Bomb Scare: Questions Remain After Evacuations Lifted
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb) (lean-left): Evacuation zone lifted after bomb found at Illinois ethanol plant
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/fbi-part-investigation-into-credible-bomb-threat-illinois-ethanol-plant/) (center): FBI part of investigation into credible bomb threat at Illinois ethanol plant
-- [NPR](https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations) (lean-left): Bomb found near ethanol plant in central Illinois forces evacuations
-
-
-## 6. Thousands of flights cancelled as airlines recover from the nationwide ground stop
-· Covered by 5 outlets (L 1 · C 2 · R 2)
-
-The FAA lifted its nationwide ground stop around 8:15 p.m. ET Friday after more than four hours. Thousands of cancellations followed on Saturday as airlines repositioned planes and crews. Officials said the system is stable, apologised to travelers, and expect a full recovery by Sunday. Homeland Security Secretary Markwayne Mullin said there was no indication of a cyberattack or 'nefarious act.' Airlines are offering free rebooking or refunds, and Duffy renewed calls for Congress to fund an air traffic control overhaul.
-
-**Key facts**
-- The ground stop began around 4 p.m. ET Friday and lifted around 8:15 p.m. ET.
-- Bedford said about 12,000 scheduled flights were unable to take off Friday.
-- The FAA expected up to 5,000 of 41,000 Saturday flights to be cancelled.
-- Passengers on cancelled flights are entitled to free rebooking or a full refund.
-
-**How it's being framed**
-- **Left:** PBS (AP) offered a practical guide for travelers: refund and rebooking rights, recovery timeline, Bedford's apology, and officials' assurances that safety was not compromised.
-- **Center:** Axios and The Hill gave brief, data-driven updates on cancellations and the hardest-hit airports, with Axios noting the government's 'old technology' explanation.
-- **Right:** The Daily Caller emphasised Duffy's blame on decades-old analog technology, his $50 billion emergency funding request, and Mullin's insistence that there was no attack and no comparison to 9/11. The New York Post ran a lighter human-interest piece on rock bands staging an in-flight singalong during the delays.
-
-**Disputed or unclear**
-- Cancellation and delay counts vary widely by source and time of day.
-- The total number of stranded passengers is uncertain; Cirium estimated 1.5 million.
-
-**Why it matters:** The disruption hit millions of travelers just before the Thanksgiving travel period.
-
-**Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/14/faa-ground-stop-saturday) (center): 3,000 flights cancelled as FAA ground stop chaos stretches into 2nd day
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop) (lean-left): What to know about flights after the U.S. nationwide ground stop
-- [New York Post](https://nypost.com/2026/11/14/us-news/rock-bands-perform-on-southwest-flight-during-faa-ground-stop/) (lean-right): Rock legends turn Southwest flight from LAX into wild singalong amid nationwide ground stop
-- [The Hill](https://thehill.com/policy/transportation/6220654-us-air-traffic-cancellations-delays/) (center): 3,000+ flights canceled after FAA’s ground stop
-- [The Daily Caller](https://dailycaller.com/2026/11/14/faa-ground-stop-aging-technology-duffy-mullin) (right): FAA Lets Flights Resume After Hours-Long Ground Stop. Mullin Says Disruption Wasn’t A ‘Nefarious Attack.’
-
-
-## 7. Zelensky says U.S. envoys asked whether Ukraine would leave Donbas in exchange for NATO membership
-`US Headlines` · Covered by 3 outlets (L 1 · C 2 · R 0)
-
-Ukrainian President Volodymyr Zelensky said U.S. negotiators asked, for the first time, whether Ukraine would withdraw from the Donbas region if it joined NATO. The U.S. has not confirmed his account. Zelensky repeated that he will not cede territory or accept neutrality. He said he would put a comprehensive deal, including security guarantees, an unconstrained military and reconstruction funds, to a national referendum. The comments follow talks in Abu Dhabi and meetings between U.S. envoys Jared Kushner and Steve Witkoff and both Putin and Zelensky.
-
-**Key facts**
-- Zelensky quote: 'What if Ukraine joins NATO? Would Ukraine withdraw from Donbas?'
-- Zelensky said this was the first time the idea had been raised.
-- He said any deal would not recognise occupied territories as Russian.
-- European powers will join future peace talks with the U.S. and Ukraine, but not with Russia.
-
-**How it's being framed**
-- **Left:** Al Jazeera headlined the U.S. suggestion as fact attributed to Zelensky, stressed his refusal to cede land or accept neutrality, and included ongoing drone and missile attacks.
-- **Center:** The BBC and Deutsche Welle emphasised that the U.S. had not confirmed the claim. The BBC analysed whether envoys were testing Ukraine's red lines and whether Zelensky went public to reopen the NATO question; DW focused on the referendum offer and battlefield developments.
-
-**Disputed or unclear**
-- The U.S. has not confirmed the proposal, and the BBC says it is unclear whether NATO membership is really on offer.
-- Al Jazeera reports Zelensky said the areas in question are ones Russia does not control.
-- Reports differ on Europe's negotiating team: Al Jazeera includes Italy, while DW lists Germany, France, the UK and Poland.
-
-**Why it matters:** Linking territory to NATO membership would mark a major shift in the terms of possible peace talks.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss) (center): US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato) (lean-left): US suggested Ukraine cede parts of Donbas to Russia to become part of NATO
-- [Deutsche Welle](https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-all-1573-rdf) (center): Ukraine: Zelenskyy says security deal could go to referendum
-
-
-## 8. Record field runs Charlotte Marathon with bibs honoring runner killed in hit-and-run
+## 7. Two-alarm fire destroys Concord home; no injuries
 `Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-A record of more than 13,250 runners registered for the 22nd Novant Health Charlotte Marathon on Saturday, run in temperatures in the 30s. Race bibs carry a silhouette of Lance Sotelo, a former Queens University runner killed in a hit-and-run in east Charlotte in January. The Charlotte Sports Foundation says honoring a member of the running community on the bibs will become an annual tradition.
+Concord firefighters responded shortly after midnight Saturday to a two-story house fire on Millstone Circle SW and brought it under control at 1:16 a.m. No one was injured. The Red Cross is helping the displaced family, and the fire marshal is investigating the cause.
 
 **Key facts**
-- More than 13,250 registered runners, the largest Charlotte Marathon to date.
-- Runners came from 47 states and several countries; about 70% are from North Carolina.
-- Luke Kuechly served as race starter and Grand Marshal.
-- Temperatures were in the 30s for the first time in three years.
+- Dispatched at 12:21 a.m.; second alarm at 12:32 a.m.
+- 36 firefighters from Concord and Harrisburg responded
 
 **How it's being framed**
-- **Center:** Local outlets mixed event logistics and record turnout with a human-interest focus on Sotelo's memorial, quoting Sotelo's partner and race organisers.
-
-**Why it matters:** It is the city's largest marathon and a community memorial to a local hit-and-run victim.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/charlotte-marathon-race-bibs-honor-runner-killed-hit-and-run/) (center): Charlotte Marathon race bibs honor runner killed in hit-and-run
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-marathon-takes-over-queen-city-streets/ESCJKY4JOJAJRPYXU2JYXMZEDE/) (center): Charlotte Marathon takes over Queen City streets
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/thousands-of-runners-brave-cold-temperatures-during-charlotte-marathon/) (center): Thousands of runners brave cold temperatures during Charlotte Marathon
-
-
-## 9. Two-alarm fire displaces family in Concord; cause under investigation
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-Firefighters responded at 12:21 a.m. Saturday to a two-story house fire on Millstone Circle SW in Concord and had it under control by 1:16 a.m. No injuries were reported. The Red Cross is helping the displaced family, and the fire marshal is investigating the cause.
-
-**Key facts**
-- Dispatched at 12:21 a.m.; fire under control at 1:16 a.m.
-- 36 firefighters from Concord and Harrisburg responded.
-- No injuries were reported.
-
-**How it's being framed**
-- **Center:** Local outlets gave straightforward incident reports.
+- **Center:** Local Charlotte stations gave straightforward incident reports.
 
 **Disputed or unclear**
-- The cause of the fire has not been determined.
+- Cause under investigation.
 
-**Why it matters:** It is a local emergency that left a family displaced.
+**Why it matters:** It is a local safety incident for Cabarrus County residents.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/fire-destroys-two-story-home-concord-early-saturday-morning/IC44HKKFSRAS5CCEMF7MS5ET7U/) (center): Fire destroys two-story home in Concord early Saturday morning
@@ -270,26 +217,76 @@ Firefighters responded at 12:21 a.m. Saturday to a two-story house fire on Mills
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/house-fire-in-concord-under-investigation/275-c9576fcd-3922-4e21-92d0-2850e1564003) (center): House fire in Concord under investigation
 
 
-## 10. Lutnick faces calls to resign over reports he shielded Nvidia from oversight
-`AI & Cybersecurity` `US Headlines` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 8. Bomb found at Peoria ethanol plant; evacuation lifted after search
+`US Headlines` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
 
-Commerce Secretary Howard Lutnick is under growing scrutiny over the Nvidia scandal, according to Axios, including from Republicans on Capitol Hill, fellow Cabinet members and the MAGA base. Democratic Sen. Richard Blumenthal said Lutnick 'must go' over reports that he shielded Nvidia from federal oversight. The criticism follows Jensen Huang's resignation as Nvidia CEO.
+Authorities found a bomb at the BioUrja Renewables ethanol plant in Peoria, Illinois, on Friday and rendered it safe. A one-mile evacuation zone covering parts of Peoria and East Peoria was in place overnight. After a search found no other devices, police lifted the order Saturday afternoon. The FBI and ATF are investigating, and no arrests have been announced.
 
 **Key facts**
-- Sen. Richard Blumenthal (D-Conn.) said Lutnick 'must go.'
-- Axios reports that scrutiny comes from Republicans, Cabinet colleagues and the MAGA base.
+- The evacuation covered a one-mile radius and was lifted around 1 p.m. Saturday
+- About 60 to 80 people stayed at a shelter at Manual High School
+- No injuries were reported
+- Mayor Rita Ali confirmed the device was a bomb
 
 **How it's being framed**
-- **Center:** Axios framed Lutnick as the face of the administration's troubled response to Chinese espionage, facing bipartisan pressure. The Hill focused on Blumenthal's call for resignation.
+- **Left:** The Guardian and NPR stressed officials' insistence that the threat was real, not a hoax, and the FBI's vow to find whoever was responsible. They also covered local cancellations. NPR noted that most bomb threats do not prove credible.
+- **Center:** WBTV focused on the lifted evacuation and official statements.
 
 **Disputed or unclear**
-- Reports that Lutnick shielded Nvidia from oversight are allegations, and the articles include no response from him.
+- The type of device and any motive or suspect have not been disclosed.
+- Accounts differ on whether the device was found Friday afternoon or Friday night.
 
-**Why it matters:** The scandal now reaches a Cabinet official responsible for chip export controls.
+**Why it matters:** A confirmed bomb at a plant holding combustible chemicals is a serious public safety threat.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/14/lutnick-commerce-china) (center): MAGA turns on Lutnick amid China spy scandal
-- [The Hill](https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/) (center): Blumenthal says Lutnick ‘must go’ following Nvidia scandal
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/evacuation-order-lifted-after-bomb-found-illinois-ethanol-plant/) (center): Evacuation order lifted after bomb found at Illinois ethanol plant
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb) (lean-left): Evacuation zone lifted after bomb found at Illinois ethanol plant
+- [NPR](https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations) (lean-left): Bomb found near ethanol plant in central Illinois forces evacuations
+
+
+## 9. Security firm says North Korea-linked hackers listed 30 South Korean servers as targets
+`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Cybersecurity firm Cyfirma says it obtained a list of 216 servers in 10 countries, compiled in October by Korean-speaking hackers it links with 'high confidence' to North Korea's Lazarus Group. Thirty of the servers are in South Korea. The targets include government agencies, banks, telecoms and infrastructure providers. Cyfirma said being on the list does not mean a server was breached.
+
+**Key facts**
+- The list was completed Oct. 24
+- 148 targets were in Asia-Pacific, 49 in North America and 19 in the Middle East
+- The US and Japan accounted for 44.4% of the targets
+
+**How it's being framed**
+- **Center:** Yonhap and the Korea Herald ran the same report, relaying Cyfirma's findings and its advice to patch and restart affected programs.
+
+**Disputed or unclear**
+- The attribution comes from a single private firm, and no breaches are confirmed.
+
+**Why it matters:** It points to continued state-linked cyber threats against critical infrastructure in several countries.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000400320) (center): N. Korea-linked hackers target 30 S. Korean servers: report
+- [The Korea Herald](https://www.koreaherald.com/article/10937359) (center): N. Korea-linked hackers target 30 S. Korean servers: report
+
+
+## 10. Top scorer on South Korean tax accountant exam confesses to AI-assisted cheating
+`AI & Cybersecurity` `Korea` · Covered by 1 outlet (L 0 · C 1 · R 0)
+
+Han Won-seok, 34, who placed first on South Korea's tax accountant exam, turned himself in to Seoul police. In a video, he admitted using a miniature camera to photograph questions, sending them to an AI tool and reading the answers on a smartphone. He also admitted cheating the same way on the first round of the CPA exam in March. He had earlier denied the allegations, which arose from scores far above the average.
+
+**Key facts**
+- He scored 397.5 out of 400 in the first round
+- The average score in introductory tax law was 30.18; he scored a perfect 100
+- Prime Minister Han Seong-sook vowed zero tolerance for exam cheating
+
+**How it's being framed**
+- **Center:** The Korea Herald detailed his confession, his statistically unusual scores and his earlier denials.
+
+**Disputed or unclear**
+- Legal consequences and any changes to exam security are still pending.
+
+**Why it matters:** The case shows how AI tools are creating new cheating risks for high-stakes professional exams.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10937374) (center): Tax accountant exam's top scorer admits to AI-assisted cheating
 
 
 ---
@@ -298,5 +295,5 @@ Commerce Secretary Howard Lutnick is under growing scrutiny over the Nvidia scan
 
 ### What is happening with AI regulation in the US and EU?
 
-The only matching article is a Verge interview with Helen Toner, the former OpenAI board member, arguing that AI CEOs still can't be trusted. The excerpt contains no concrete news on U.S. or EU AI regulation.
+The only matching item is a Verge interview with former OpenAI board member Helen Toner, who argues AI company CEOs still cannot be trusted. The available excerpt does not report any new US or EU regulatory action.
 - [The Verge](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) (lean-left): The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs
