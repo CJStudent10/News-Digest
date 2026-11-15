@@ -1,268 +1,278 @@
-# My Daily Brief: Morning edition
-_Sunday, November 15, 2026 · 6:30 AM EST · 253 articles from 38 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Sunday, November 15, 2026 · 4:21 PM EST · 303 articles from 39 outlets · summaries by Claude_
 
-> This edition leads with a federal judge's temporary order keeping Washington's East Potomac Park and golf course open, SpaceX's first catch of a returning Starship upper stage, and a South Korean exam cheating scandal involving generative AI. Also covered: Zelensky's account of a US idea linking Donbas to NATO membership, a senior North Korean aide's trip to Moscow, Portugal's housing protests, a Lazarus-linked hacking target list, the first Eurovision Asia, and two fires in North Carolina.
+> This edition is led by the fallout from Friday's nationwide FAA ground stop, with Trump and Transportation Secretary Sean Duffy pressing Congress for more air traffic control money while Democrats push back. The Nvidia leadership crisis continues, with Treasury Secretary Scott Bessent calling for a shakeup and Megaspeed launching an internal probe, and Estonia announces it will close its Russian border crossings after a foiled sabotage attempt. Also covered: an AI-assisted exam cheating scandal in South Korea, a Korean actor's drunk-driving crash, and Charlotte local news.
 
 
-**Sources linked in this edition:** 8 left · 20 center · 3 right
+**Sources linked in this edition:** 7 left · 20 center · 5 right
 
 ---
 
-## 1. Judge temporarily blocks closure of East Potomac Park and golf course in Washington
-`US Headlines` · Covered by 6 outlets (L 2 · C 2 · R 2)
+## 1. Trump comments on FAA ground stop two days later, blames Biden administration and seeks more funding
+`US Headlines` `AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 1 · R 2)
 
-US District Judge Ana Reyes issued a temporary restraining order on Saturday that bars the Trump administration from closing East Potomac Park and its golf course. The closure had been set for Sunday so the course could be renovated over 15 months. Reyes wrote that the government's reasons were "pretextual" and that it had violated at least two federal laws "to meet an arbitrary deadline." The order does not require the government to actively manage the park or run golf operations there. It lasts until November 28 unless the court acts sooner, and the underlying lawsuit by the DC Preservation League continues alongside a separate ethics inquiry into Justice Department lawyers.
+President Trump made his first public comments Sunday on Friday's nationwide FAA ground stop, which lasted more than four hours and led to thousands of cancellations and delays. In Truth Social posts he blamed the Biden administration for making an "old and broken" system worse and urged Congress to provide modernization money "FAST!" Transportation Secretary Sean Duffy said officials are analyzing two recently installed routers at FAA facilities in Arkansas and Texas, and that the root cause is still undetermined. Duffy and Homeland Security Secretary Markwayne Mullin said there was no indication of a cyberattack.
 
 **Key facts**
-- The temporary restraining order runs through November 28, 2026, or until further order of the court.
-- Reyes's decision is 30 pages long and calls the government's justifications "pretextual."
-- The suit was filed in February by the DC Preservation League and two local residents, who are represented by Democracy Forward.
-- The course is 106 years old and is one of three public courses the National Park Service runs in the capital.
-- The Justice Department said "nothing in the Court's order precludes planning for the development of a world class golf course to continue."
+- The ground stop began at 3:54 p.m. ET Friday, Nov. 13, and lasted more than four hours; about 3,500 flights were in the air.
+- The FAA said its equipment became unstable after a high volume of data flooded its network; contractor work at one site may be related.
+- Congress approved $12.5 billion for the FAA last year; Duffy calls it a down payment on a broader overhaul.
+- Biden's infrastructure law set aside $25 billion for FAA airport and air traffic control improvements, according to the agency.
+- Previous nationwide ground stops followed the Sept. 11 attacks and a January 2023 computer outage.
 
 **How it's being framed**
-- **Left:** The Guardian and NPR presented the ruling as the latest court setback for Trump's wider effort to remake Washington, citing the ballroom, the Kennedy Center and the arch. They quoted Democracy Forward calling the plan a "vanity project." The Guardian noted that Trump has called Reyes a "lunatic" and that the Justice Department sought her recusal, which she denied. NPR also carried the Justice Department's statement.
-- **Center:** The BBC laid out the legal timeline: the October tree-cutting, the late notice given to the court, and the ethics inquiry with a special master. It also quoted Trump at length on the course's condition and his renovation goals. The Hill emphasised that the order is a setback for Trump's planned Tom Fazio-designed championship course.
-- **Right:** Fox News gave prominent space to Trump's "Trash Island" posts and his description of unsafe conditions. It noted that Reyes was nominated by Biden and that she had for months been reluctant to grant work stoppages. The New York Post ran wire copy nearly identical to NPR's, quoting both the Justice Department and Democracy Forward.
+- **Left:** PBS/AP highlighted that Trump was "conspicuously quiet" for two days while posting about unrelated matters, and noted the $25 billion the Biden-era infrastructure law provided to the FAA, alongside Duffy's push to find the root cause.
+- **Center:** CNBC led with Trump's blame of Biden and call for funding, and added context on prior funding, the FAA's technical explanation and the rarity of nationwide ground stops.
+- **Right:** Fox News gave a detailed timeline emphasizing the federal response, the security review that found no signs of a cyberattack, and the White House's credit to Trump's leadership, plus disruption to college football teams. The Washington Examiner focused on Duffy saying there was no indication of a hack and describing a "whole-of-government" response led by Trump.
 
 **Disputed or unclear**
-- Plaintiffs say the plan would make the course unaffordable and change its character; Trump denies this.
-- Officials say the tree removal was part of a 2019 plan. The judge has questioned whether the government acted in good faith, and an ethics inquiry into Justice Department lawyers is ongoing.
-- Accounts differ on when Trump first announced the renovation: Fox says May, while the BBC and Guardian cite announcements in October.
+- The root cause remains under investigation; routers in Arkansas and Texas and contractor work are being examined.
+- Trump's claim that the Biden administration worsened the system is contested by outlets noting Biden-era FAA funding.
+- The White House credits Trump's leadership for the speed of the recovery; critics note his two-day silence.
 
-**Why it matters:** The case is a test of how far courts will limit the president's construction projects on federal land in the capital.
+**Why it matters:** The outage exposed how vulnerable the national air traffic system is and is shaping a funding fight in Congress.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss) (center): Judge temporarily blocks Trump from closing Washington DC golf course for renovation
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course) (lean-left): US judge blocks Trump’s plan to renovate historic DC golf course
-- [New York Post](https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/) (lean-right): Federal judge blocks Trump from moving ahead on Washington public golf course redevelopment
-- [The Hill](https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/) (center): Federal judge temporarily blocks Trump administration from closing East Potomac Park
-- [NPR](https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks) (lean-left): Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment
-- [Fox News](https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure) (right): Federal judge blocks Trump's renovations of DC golf course hours before its closure
+- [CNBC](https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html) (center): Trump breaks silence about FAA nationwide ground stop, blames Biden administration
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress) (lean-left): Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown
+- [Fox News](https://www.foxnews.com/politics/faa-ground-stop-timeline-weekend-chaos-grounds-planes-postpones-games) (right): FAA ground stop timeline: Weekend chaos grounds planes and postpones games
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4804173/cause-of-nationwide-ground-stop-sean-duffy/) (lean-right): Root cause of nationwide ground stop still unknown, Duffy says
 
 
-## 2. SpaceX catches Starship upper stage with launch tower for first time; booster lost
-· Covered by 8 outlets (L 2 · C 5 · R 1)
+## 2. Bessent urges Nvidia to pick an outside CEO and questions its China-linked sales
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 4 outlets (L 0 · C 3 · R 1)
 
-On its 15th test flight, SpaceX caught the Starship upper stage with the mechanical arms of its launch tower in Texas after a flight of about 22 hours. The Super Heavy booster triggered an automated abort on its return and exploded over the Gulf, so SpaceX missed its goal of recovering both stages on one flight. The upper stage deployed 26 Starlink satellites and completed 14 orbits. Engineers are investigating the booster failure, and NASA is relying on Starship for its Artemis Moon program.
+Treasury Secretary Scott Bessent said Sunday on Fox News that Nvidia needs a "dramatic shakeup" after CEO Jensen Huang's resignation and should hire an outsider. He questioned whether the company pursued "seemingly illicit sales" to boost earnings, citing a fall in China sales and a rise in Singapore revenue, and demanded answers from the board within 10 days. His remarks come amid a public dispute with Commerce Secretary Howard Lutnick over why Megaspeed was not added to the export blacklist. House Intelligence Chair Rick Crawford said it is "premature" to blame Lutnick.
 
 **Key facts**
-- This was Starship's 15th test flight and the first attempt to catch both stages.
-- The upper stage completed 14 orbits and deployed 26 Starlink satellites.
-- SpaceX had caught the booster on three earlier flights.
-- The rocket stands 124 meters (407 feet) tall.
+- Huang resigned Thursday; CFO Colette Kress is interim CEO.
+- Nvidia's board says it will consider internal and external candidates; the FT reported the board approached Arm CEO Rene Haas.
+- Bessent said several agencies favored blacklisting Megaspeed for months, "but Commerce has the pen."
+- Axios reports Nvidia shares have lost more than $1.2 trillion in market value since the scandal broke in late October.
+- Nvidia stopped separately reporting Singapore revenue in November 2025, citing a new methodology.
 
 **How it's being framed**
-- **Left:** NPR and The Verge called the catch a historic milestone while noting that it was not a complete success. NPR focused on NASA's Artemis plans and Musk's Mars ambitions.
-- **Center:** The BBC and CNBC paired the success with the booster loss. The BBC quoted an expert calling the booster loss "a setback," and CNBC stressed Starlink as SpaceX's commercial driver and mentioned flight disruptions in Hawaii. The Hill focused on praise from Washington.
-- **Right:** Fox Business framed the flight as SpaceX "making history" and highlighted congratulations from Walter Isaacson, War Secretary Pete Hegseth and NASA Administrator Jared Isaacman. It used the name "Gulf of America."
+- **Center:** CNBC and Axios focused on Bessent's questioning of Nvidia's earnings quality and the Bessent-Lutnick feud, including Cantor Fitzgerald's ties to Nvidia partners and Commerce's denial of a reported confrontation; Axios stressed market risk. The Hill featured a Republican defense of Lutnick.
+- **Right:** Fox Business emphasized Bessent's call for an outside CEO, his claim about Singapore shell companies, Huang's alleged relationships, and the CEO search including the Haas report; it did not dwell on the Lutnick feud.
 
 **Disputed or unclear**
-- The cause of the booster failure is under investigation; Musk said it was "slightly low on fuel."
-- Whether the 2028 lunar landing timeline is achievable is uncertain; the BBC called it highly ambitious.
+- Whether Nvidia knowingly made illicit sales is unproven; Bessent framed it as a question.
+- Bessent's cited figure that only 1% of chips sold in Singapore stayed there comes from unspecified reporting.
+- Commerce denies Axios's report of a Situation Room confrontation.
+- CNBC notes there is no evidence Lutnick shared sensitive information with his sons or that Cantor traded on it.
 
-**Why it matters:** Full reusability is key to cutting launch costs and to NASA's plans to return astronauts to the Moon.
+**Why it matters:** Nvidia is central to the AI economy and US growth, and a cabinet-level challenge to its leadership and finances could affect markets and export policy.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss) (center): SpaceX successfully catches top of huge Starship rocket for first time
-- [NPR](https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history) (lean-left): SpaceX successfully catches Starship and makes history
-- [Fox Business](https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time) (lean-right): SpaceX makes history as Starship spacecraft caught by launch tower for first time
-- [CNBC](https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html) (center): SpaceX catches upper stage of Starship rocket in historic first
-- [The Verge](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch) (lean-left): Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship
-- [The Hill](https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/) (center): SpaceX catches Starship for first time, drawing praise in Washington
+- [CNBC](https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html) (center): Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO
+- [Fox Business](https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo) (lean-right): Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO
+- [Axios](https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo) (center): Bessent questions did Nvidia "goose" earnings with suspect China chip sales
+- [The Hill](https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/) (center): Crawford says it’s ‘premature’ to place blame on Lutnick for Nvidia chip sales
 
 
-## 3. Top scorer in South Korea's tax accountant exam admits cheating with AI
-`Korea` `AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 3. Top scorer on South Korea's tax accountant exam admits using AI to cheat
+`Korea` `AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-The top scorer in this year's South Korean certified tax accountant exam, identified by the Korea Herald as Han Won-seok, 34, confessed on a lawyer's YouTube channel to cheating in both rounds. He said he photographed questions with a miniature camera, sent them to an AI tool, and read the answers on a smartphone. He also admitted cheating on a certified public accountant exam, and he submitted a written confession to Seoul police. The presidential office called an emergency meeting and announced an investigation into suspected AI cheating across national certification tests, ahead of Thursday's college entrance exam.
+Han Won-seok, 34, who ranked first on this year's certified tax accountant exam, admitted in a video on his lawyer's YouTube channel that he cheated in both rounds using a miniature camera, generative AI and a smartphone. He said he submitted a written confession to Seoul police, who have assigned investigators, and that he used the same method on a CPA exam. The presidential office ordered a full investigation into suspected AI cheating across national certification tests, days before Thursday's college entrance exam. Officials are moving to invalidate his result, and the exam administrator is considering a criminal complaint.
 
 **Key facts**
-- He scored 397.5 out of 400 in the first round, missing one of 160 questions.
-- He had previously denied the cheating allegations in a media interview.
-- Seoul police received his written confession and say they will investigate.
-- Under the law, cheaters can have their result invalidated and be barred from the exam for five years; criminal charges are also possible.
+- He scored 397.5 out of 400 in the April first round, missing one of 160 questions.
+- Two proctors were assigned to his exam room, per the exam administrator.
+- Cheaters face invalidation and a five-year ban from the exam.
+- Prime Minister Han Seong-sook is to meet ministry officials Monday on prevention measures.
 
 **How it's being framed**
-- **Left:** The Guardian emphasised the scandal's social weight in a country where tests shape social mobility, and the added pressure on the upcoming college entrance exam.
-- **Center:** Yonhap focused on the government response and possible penalties. The Korea Herald detailed the statistical anomalies in his scores and his earlier denials.
+- **Left:** The Guardian stressed that his scores looked too good to be true, his earlier denials, and the role of standardized tests in South Korean social mobility, ahead of the college exam.
+- **Center:** Yonhap, BBC and the Korea Herald gave detailed accounts of the method, scores, government response and penalties; the BBC noted his stated motives and remorse, and the Korea Herald highlighted that he cheated in front of two proctors.
 
 **Disputed or unclear**
-- The extent of cheating on the CPA exam and whether others did the same are still under investigation.
-- Whether he will face criminal charges depends on the police investigation.
+- Whether criminal charges will follow depends on the police investigation.
+- How widespread AI cheating is on other national exams is unknown pending the government review.
 
-**Why it matters:** The case raises questions about how high-stakes exams can stay fair as AI tools spread.
+**Why it matters:** It shows how generative AI is challenging the integrity of high-stakes exams, just before South Korea's national college entrance test.
 
 **Read it yourself:**
 - [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000753315) (center): (3rd LD) Top scorer in tax accountant exam turns himself in over AI-assisted cheating
 - [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam) (lean-left): 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
-- [The Korea Herald](https://www.koreaherald.com/article/10937374) (center): Tax accountant exam's top scorer admits to AI-assisted cheating
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss) (center): South Korea's top scorer in tax accountancy exam admits cheating
+- [The Korea Herald](https://www.koreaherald.com/article/10937594) (center): Mini camera, AI and smartphone: How tax exam top scorer says he cheated under two proctors’ noses
 
 
-## 4. Tens of thousands march in Portugal over housing costs
-`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 4. Duffy blames past administrations and Congress for ground stop; Van Hollen pushes back
+`US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
 
-Protesters marched in more than 30 Portuguese cities and towns on Saturday, in what the AP described as the largest protest yet against rising housing costs. Activists are calling for rent caps, stronger tenant protections and more affordable housing. The government has cut taxes on new construction, restricted short-term rentals and promised 145,000 new homes, but says the effects will take time. President Antonio Jose Seguro met some protesters on Friday.
-
-**Key facts**
-- Portugal's home price-to-income ratio rose 61% between 2015 and 2025, the largest increase in the EU, according to Eurostat.
-- Housing prices rose nearly 20% in the year to the first quarter of 2026.
-- Rents have risen 68% since 2020, according to the government.
-
-**How it's being framed**
-- **Left:** Al Jazeera centred protesters' view that the government's measures are not enough.
-- **Center:** The Korea Herald, running AP copy, combined personal testimony with statistics and an account of the government's response, and pointed to causes including foreign buyers, tourism and short-term rentals.
-
-**Disputed or unclear**
-- Riot police have been accused of heavy-handed tactics in dispersing some protests.
-
-**Why it matters:** Housing affordability is driving unrest in several European countries.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10937467) (center): Portuguese march against home prices
-- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices) (lean-left): Thousands in Portugal protest against surging rental prices
-
-
-## 5. 12-year-old dies after house fire in Kannapolis
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-A 12-year-old died after a fire on Saturday afternoon at a home in the 900 block of Polo Avenue in Kannapolis, North Carolina. Firefighters pulled the child from the burning house, and WCNC reports the child was flown to a regional burn center. A second victim, found on the lawn, remains in hospital. The cause of the fire is under investigation.
+Transportation Secretary Sean Duffy said Sunday on CNN that prior administrations and insufficient congressional funding left the air traffic system vulnerable, saying the $12.5 billion approved last year cannot fund new telecom architecture, software or towers. He said botched routine maintenance by a contractor, replacing copper lines with fiber optic, triggered the stoppage, and that the root cause is still being investigated. Sen. Chris Van Hollen (D-Md.) said it was "really rich" to blame Congress when it gave the administration what it requested, but said he would support whatever money is necessary on a bipartisan basis. Duffy defended Trump's two-day delay in commenting, saying the president was fully engaged.
 
 **Key facts**
-- Firefighters were called around 1 p.m., and the fire was under control around 1:45 p.m.
-- It was a two-alarm fire with help from several neighbouring agencies.
+- Duffy: "I take responsibility for what was given to me by prior administrations."
+- The contractor, L3Harris, is reportedly running diagnostics.
+- Van Hollen: "I will support whatever level of money is necessary to fix this problem."
 
 **How it's being framed**
-- **Center:** Local outlets gave straightforward accounts based on statements from the fire department.
+- **Left:** The Guardian framed it as the administration shifting blame, giving weight to Van Hollen's criticism and Trump's delayed response while including Duffy's detailed explanation of funding limits.
+- **Center:** The Hill led with Duffy blaming predecessors and Congress for underfunding.
+- **Right:** The Washington Examiner led with Van Hollen pledging bipartisan funding, while noting he rejected Duffy's blame.
 
 **Disputed or unclear**
-- The cause of the fire has not been determined.
+- Whether existing funds have been adequately spent, as Van Hollen suggests, or are insufficient in scope, as Duffy says.
+- The precise cause of the maintenance failure is still under investigation.
 
-**Why it matters:** It is a fatal local house fire that remains under investigation.
+**Why it matters:** The blame dispute will shape whether and how quickly Congress funds air traffic control upgrades.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/two-hurt-two-alarm-house-fire-kannapolis/LXHLVBUCS5DLHPRHVH4U6ZVPLY/) (center): 12-year-old dies from injuries sustained in Kannapolis house fire
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/kannapolis/two-hurt-in-two-alarm-fire-in-kannapolis/) (center): Child killed, one hurt in two-alarm fire in Kannapolis
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/two-people-hurt-in-house-fire-in-kannapolis-two-alarm/275-b26f6069-166e-45e0-8c41-b6d42fbf3eaf) (center): 12-year-old dies in Kannapolis house fire; another person remains in the hospital
+- [The Hill](https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/) (center): Duffy pins ground stop on Congress’s lack of funding
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag) (lean-left): Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage
+- [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4804232/van-hollen-funding-atc-system-duffy-ground-stop/) (lean-right): Van Hollen vows funding to fix air traffic control system, rejects Duffy blame
 
 
-## 6. Multiple structure and woods fires burn north of Morganton
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
+## 5. Rollover crash briefly closes I-77 northbound in Huntersville
+`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
 
-Nine fire departments responded on Saturday evening to several structure fires and nearby woods fires near Sundance Lane in Burke County's Chesterfield community. The first call came around 6:45 p.m. The North Carolina Forest Service assisted, and the incident was still active Saturday night. Queen City News reported that multiple buildings were destroyed.
+A rollover crash just after noon Sunday on I-77 northbound before Exit 23 near Gilead Road in Huntersville closed all northbound lanes. Medic said one person was taken to a hospital with serious injuries; Huntersville Fire said two people were treated. Lanes reopened around 2:20 p.m. The cause is under investigation.
 
 **Key facts**
-- Nine fire departments from Burke and Caldwell counties responded.
-- The first report came in around 6:45 p.m. on Saturday.
+- Crash occurred around noon Sunday, Nov. 15, near Exit 23 (Gilead Road).
+- One person hospitalized with serious injuries.
+- Northbound lanes reopened around 2:20 p.m.
 
 **How it's being framed**
-- **Center:** Local outlets reported the basic facts of the response from county officials.
+- **Center:** All four local stations reported it as a straightforward traffic incident, focusing on injuries and lane closures.
 
 **Disputed or unclear**
-- No cause, injuries or damage totals have been reported.
+- The cause of the crash and the injured person's condition were not reported.
 
-**Why it matters:** The fires were still active, and residents near the area may be affected.
+**Why it matters:** It affected a major commuter route north of Charlotte.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/multiple-crews-respond-fires-chesterfield-community-north-morganton/VS326MNKBFCQDOGPHJ4C5ESDTI/) (center): Multiple crews respond to fires in Chesterfield Community north of Morganton
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/burke-county/multiple-fires-destroy-homes-woods-in-morganton/) (center): Multiple fires destroy homes, woods in Morganton
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/firefighters-battle-multiple-structure-fires-in-morganton-saturday-night/275-e03ec357-a924-4ecd-aa28-ab47381484c4) (center): Firefighters battle multiple structure fires in Morganton Saturday night
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/rollover-crash-closes-all-lanes-i-77-huntersville/) (center): Rollover crash closes all lanes of I-77 northbound in Huntersville
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/crews-work-clean-up-i-777-after-overturned-vehicle-closes-northbound-lanes/Y54Z6R2N2RDUBGQSDZZHHSP4NQ/) (center): Crews work to clean up I-77 after overturned vehicle closes northbound lanes
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/huntersville/one-person-seriously-injured-after-rollover-crash-on-i-77-in-huntersville-medic/) (center): One person seriously injured after rollover crash on I-77 in Huntersville: Medic
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/crash-on-i-77-north-shuts-down-all-lanes-near-gilead-rd/275-c3d2cdc2-7411-41df-8f7f-8d5e58e3636b) (center): Crash on I-77 North shuts down all lanes near Gilead Rd.
 
 
-## 7. Philippines wins first Eurovision Song Contest Asia
-`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 6. Analyst says Jensen Huang will not return to Nvidia despite reported comeback push
+`AI & Cybersecurity` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-The Philippines won the inaugural Eurovision Song Contest Asia in Bangkok with 19-year-old Carmelle Collado's "Sobra-Sobra." Eleven countries took part, but China, Japan and India did not. Thailand placed second, Vietnam third and Malaysia fourth.
+The Financial Times reported that former Nvidia CEO Jensen Huang has discussed returning, with allies organizing a "war room" of tech executives to lobby the board and seek White House backing. Wedbush-turned-Yorkville analyst Dan Ives told Newsweek he sees "no chance" of a return, suggesting outside candidates such as Tim Cook or Nikesh Arora. A Verge newsletter traced the scandal from an Oct. 29 New York Times report on a suspected Chinese spy plot to Huang's admission of an affair and his resignation.
 
 **Key facts**
-- The Philippines scored 211 points, ahead of Thailand with 170 and Vietnam with 164.
-- Eleven countries competed.
+- Huang resigned Thursday after 33 years leading the company he co-founded.
+- Nvidia's board is investigating the conduct that led to his resignation.
+- China has denied the espionage allegations; Nvidia previously said it had no reason to believe security or secrets were compromised.
 
 **How it's being framed**
-- **Left:** The Guardian covered the event with a photo gallery.
-- **Center:** DW reported the results and questioned whether the format will catch on, noting that tickets were still available hours before the show.
+- **Left:** The Verge offered a timeline emphasizing national security stakes, Huang's push to loosen export restrictions, and his closeness to Trump, while noting disagreement among US intelligence officials on the evidence.
+- **Center:** Newsweek centered on investor and analyst views about a possible comeback and succession, quoting Ives and a governance expert.
 
 **Disputed or unclear**
-- It is unclear whether the contest will become popular or last.
+- Whether Huang is actually seeking a return rests on anonymous sources.
+- US intelligence officials reportedly disagree over the strength of evidence linking Alice Huang to Beijing.
+- Ives's speculation about a new company or SpaceX role is unconfirmed.
 
-**Why it matters:** It is a regional expansion of one of the world's most-watched TV events.
+**Why it matters:** Nvidia's leadership future affects the AI industry and a large share of US market value.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/philippines-wins-first-eurovision-song-contest-asia/a-79950050?maca=en-rss-en-all-1573-rdf) (center): Philippines wins first Eurovision Song Contest Asia
-- [The Guardian (Asia-Pacific)](https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures) (lean-left): The inaugural Eurovision Asia 2026 – in pictures
+- [Newsweek](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954) (center): Dan Ives Rejects Jensen Huang Comeback as Nvidia Investors Push for Return
+- [The Verge](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) (lean-left): An overview of Jensen Huang’s messy days
 
 
-## 8. Zelensky says US envoys raised NATO membership in exchange for withdrawal from Donbas
-`US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 7. Estonia to close road border crossings with Russia after foiled attack on drone maker
+· Covered by 5 outlets (L 2 · C 2 · R 1)
 
-Ukrainian President Volodymyr Zelensky said US envoys Jared Kushner and Steve Witkoff asked whether Ukraine would withdraw from Donbas if it joined NATO. He said it was the first time the idea had been raised. The US has not confirmed this account; an official said "many ideas continue to be discussed," and Kushner urged confidentiality. Zelensky said he would put any specific proposal that included security guarantees to a referendum. Russia's position appears unchanged.
+Estonia will close its border crossings with Russia from Dec. 1 after what authorities say was a GRU-ordered attempt to bomb and burn drone maker Threod Systems near Tallinn on Saturday. Security staff and police intervened; eight suspects, reportedly from Latvia, were detained, and custody is being sought for five. Prime Minister Kristen Michal called it part of Russia's hybrid war to weaken support for Ukraine. Russia's foreign ministry spokeswoman called the border plan "aggressive and unrestrained Russophobia."
 
 **Key facts**
-- Zelensky's remarks were released on Saturday.
-- The envoys met Putin in Moscow and Zelensky in Dublin.
-- Russia controls most of the Donbas region.
+- Closure takes effect Dec. 1; its duration was not specified.
+- Estonia has three crossings with Russia: Narva, Koidula and Luhamaa.
+- Estonia attributed an August arson attack on Milrem Robotics to Russian intelligence; the Kremlin denied it.
+- No injuries were reported.
 
 **How it's being framed**
-- **Left:** Al Jazeera explored whether the pitch could work, quoting analysts who called it a surprising departure and doubted that Moscow or some NATO members would accept it.
-- **Center:** The BBC stressed that the claim is unconfirmed and suggested Zelensky may have gone public to reopen the NATO question or to push back against Russia.
+- **Left:** The Guardian and Al Jazeera emphasized Estonian officials' framing of a Russian shadow war, included Russia's Russophobia response, and Al Jazeera added Latvian and parliamentary voices urging asymmetric responses.
+- **Center:** Newsweek and DW reported the official Estonian statements, with Newsweek adding context on Estonian history and recent US-mediated Russia-Ukraine talks.
+- **Right:** The New York Post framed it as a NATO ally foiling a Russian plot, highlighting that the suspects came from Latvia and KAPO's warning against Russian 'job offers'; it said Russia had not immediately commented.
 
 **Disputed or unclear**
-- The US has not confirmed that the proposal was made.
-- Russia and some NATO members are likely to oppose it.
-- The articles differ on whether the idea was raised in Abu Dhabi or in Dublin.
+- Estonia says it has clear evidence of GRU involvement; Russia rejects such accusations.
+- Outlets differ on whether all crossings or only road crossings will close.
 
-**Why it matters:** If real, the idea would be a major shift in peace talks on the war.
+**Why it matters:** A NATO member sealing its border with Russia marks an escalation in Europe's response to alleged Russian sabotage.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss) (center): US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia) (lean-left): Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?
+- [Newsweek](https://www.newsweek.com/nato-member-estonia-to-shut-russia-border-after-sabotage-attack-12717506) (center): NATO Member Estonia to Shut Russia Border Roads After 'Sabotage Attack'
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker) (lean-left): Estonia to close all border crossings with Russia after attack on drone maker
+- [New York Post](https://nypost.com/2026/11/15/world-news/estonia-closes-all-russia-border-crossings-after-suspected-arson-attack/) (lean-right): NATO ally foils arson attack on drone factory — and says Russia is to blame
+- [Deutsche Welle](https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf) (center): Estonia closes border to Russia after suspected drone factory arson
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker) (lean-left): Estonia to close border crossings with Russia after attack on drone maker
 
 
-## 9. Senior Kim Jong-un aide visits Moscow ahead of US-China-Russia summit
-`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 8. Megaspeed says Alice Huang left in 2025 and launches internal probe
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-Jo Yong-won, one of North Korean leader Kim Jong-un's closest aides, arrived in Moscow on Saturday at the invitation of Dmitry Medvedev. The visit comes days before a planned meeting of Trump, Xi Jinping and Putin at the APEC summit in Shenzhen. Analysts quoted by the Korea Herald suggest Jo may be carrying a message from Kim. Seoul fears being sidelined in any talks on North Korea's nuclear program.
+Singapore-based Megaspeed, the largest buyer of Nvidia chips in Southeast Asia, said Alice Huang left the company effective Aug. 30, 2025, and that it has hired outside lawyers for an internal investigation. The company said reports about its business and supply chain are "not supported by verifiable evidence" and that it complies with US export controls. It is suspected of giving Chinese companies access to Nvidia chips through data centres in Malaysia, Indonesia and Thailand. Lutnick has been called to testify before the Senate Banking Committee next month.
 
 **Key facts**
-- Jo arrived on Saturday, according to North Korea's state news agency KCNA.
-- The three-way summit is planned for Thursday in Shenzhen.
+- Singapore began investigating Megaspeed in February 2025, including possible false declarations on server purchases.
+- Singapore found insufficient evidence that Alice Huang committed a crime.
+- Bessent said whether she is a spy "doesn't matter to me"; his focus is Nvidia's compliance culture.
+- China denies Alice Huang is a spy.
 
 **How it's being framed**
-- **Center:** Yonhap framed the trip as part of deepening North Korea-Russia ties. The Korea Herald stressed Seoul's worries and analysts' speculation.
+- **Left:** PBS/AP focused on Megaspeed's statement, Singapore's investigation history and Bessent's comments on Nvidia's culture.
+- **Center:** The BBC covered the same statement, adding the Bessent-Lutnick dispute, congressional scrutiny, Singapore's position on foreign export controls, and China's warning against a technological blockade.
 
 **Disputed or unclear**
-- Whether Jo is carrying a personal message from Kim is speculation.
-- A possible Kim visit to Russia is also speculative.
+- Whether Megaspeed diverted chips to China is alleged but unproven.
+- Whether Alice Huang was a Chinese intelligence asset is disputed.
 
-**Why it matters:** Talks among the major powers could affect how North Korea's nuclear status is treated.
+**Why it matters:** The case tests how well US export controls on advanced AI chips can be enforced abroad.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10937539) (center): Kim Jong-un's top aide visits Russia ahead of US-China-Russia summit
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000600315) (center): N. Korean leader's close aide visits Russia amid deepening bilateral ties
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss) (center): Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+- [PBS NewsHour](https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout) (lean-left): Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout
 
 
-## 10. Report says Lazarus-linked hackers listed 30 South Korean servers as targets
-`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 9. Actor Ko Kyung-pyo apologizes for drunk-driving crash and suspends work
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Cybersecurity firm Cyfirma says it obtained a list of 216 servers in 10 countries compiled by Korean-speaking hackers it links with "high confidence" to North Korea's Lazarus Group. Thirty of the servers are in South Korea. The firm says being on the list does not mean a server was breached. It urged administrators to install security patches and restart affected programs.
+South Korean actor Ko Kyung-pyo, 36, apologized on Instagram after crashing into a district cleaning truck while drunk around 3:30 a.m. Saturday in Seoul's Mapo district. Police said his blood alcohol exceeded the 0.08% license-revocation threshold; a truck driver in his 60s was slightly injured. Ko said he will suspend activities and cooperate with police, and addressed questions about footage of him pocketing an object, which he said was his car key. Several shows are editing out his appearances.
 
 **Key facts**
-- The list covers 216 servers, 30 of them in South Korea.
-- The list was completed on October 24.
-- Servers in the US and Japan make up 44.4% of the total.
+- Crash occurred around 3:30 a.m. Saturday in Donggyo-dong, Mapo-gu.
+- His exact blood alcohol level was not disclosed.
+- Fan meetings scheduled for next Saturday were canceled.
 
 **How it's being framed**
-- **Center:** Both outlets ran the same Yonhap report, relying on Cyfirma's findings.
+- **Center:** The Korea Herald and Yonhap reported his apology and the production fallout; the Herald addressed the surveillance-footage controversy and why he drove on after the collision.
 
 **Disputed or unclear**
-- The attribution to Lazarus is the firm's own assessment.
-- It is unknown whether any of the listed servers were breached.
+- Online speculation about what he pocketed; he says it was his car key.
 
-**Why it matters:** The targets include government agencies, banks and telecom and infrastructure providers.
+**Why it matters:** It is a prominent case of celebrity drunk driving with immediate effects on Korean TV productions.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000400320) (center): N. Korea-linked hackers target 30 S. Korean servers: report
-- [The Korea Herald](https://www.koreaherald.com/article/10937359) (center): N. Korea-linked hackers target 30 S. Korean servers: report
+- [The Korea Herald](https://www.koreaherald.com/article/10937702) (center): Ko Kyung-pyo vows to pause activities after drunk-driving crash
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115003100315) (center): Actor Ko Kyung-pyo apologizes for drunk driving, puts career on hold
+
+
+## 10. Charlotte stays sunny and chilly before warming this week
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Charlotte saw a sunny but cold Sunday with highs struggling to reach the mid-50s. Patchy frost is likely Monday morning, with lows near or below freezing. Afternoons warm to the 60s midweek and near 70 by Friday, with little chance of needed rain.
+
+**Key facts**
+- Lows in the 20s and 30s Monday morning.
+- Highs near 70 expected Friday and the weekend.
+- Little rain is forecast.
+
+**How it's being framed**
+- **Center:** Local stations gave a routine forecast, noting the dry pattern.
+
+**Why it matters:** Frost and dry conditions may affect commutes, plants and outdoor plans.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/sunny-chilly-sunday-charlotte-before-temperatures-warm-this-week/) (center): Sunny but chilly Sunday in Charlotte before temperatures warm this week
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550) (center): Sunny but cool for the Charlotte area today
 
 
 ---
@@ -271,7 +281,4 @@ Cybersecurity firm Cyfirma says it obtained a list of 216 servers in 10 countrie
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles in this edition address AI regulation in the US or EU. The Korean exam cheating story touches on government responses to AI misuse in testing, but not on regulation in those regions.
-
----
-_Feeds that failed this run: Newsweek_
+No articles in this edition address AI regulation in the US or EU. Related coverage concerns US export controls on Nvidia AI chips and South Korea's response to AI-assisted exam cheating, but neither covers AI regulation as such.

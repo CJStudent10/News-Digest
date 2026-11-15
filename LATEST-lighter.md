@@ -1,147 +1,150 @@
-# The Lighter Brief: Morning edition
-_Sunday, November 15, 2026 · 6:31 AM EST · 102 articles from 22 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Sunday, November 15, 2026 · 4:22 PM EST · 163 articles from 23 outlets · summaries by Claude_
 
-> A gentle mix today: a sunny-but-chilly Sunday in Charlotte, an NFL game in Munich with a rock band at halftime, and a promising Alzheimer's study about spotting early warning signs years ahead. There's also some celebrity back-and-forth, a new leadership book from Jamaica, and a look at how Congress plans to dig into drug-pricing deals.
+> A fairly gentle Sunday edition: Charlotte is chilly and sunny with a warm-up on the way, a local restaurant handed out Thanksgiving turkey checks, and doctors reported a first-of-its-kind bone marrow transplant. In politics, Mike Pence weighed in on where Republicans go after the midterms, and Jamaica's prime minister spoke on Cuba and on tensions in Parliament.
 
 
 
 ---
 
-## 1. Montego Bay remembers Deputy Mayor 'Debo' Crawford
+## 1. Holness: Jamaica stands with Cuba's people, charts its own foreign policy
 `Jamaica` · Covered by 1 outlet
 
-Montego Bay Deputy Mayor Dwight 'Debo' Crawford died suddenly at 48, and colleagues across party lines are remembering him for his service. Just two weeks earlier he told young people at a Junior Mayor event that 'leadership is not a title, it is a lifestyle.' He had also worked on recovery in communities hit by Hurricane Melissa.
+Speaking at the Jamaica Labour Party's annual conference, Prime Minister Andrew Holness said Jamaica stands in solidarity with the Cuban people and will keep welcoming Cuban professionals under Jamaican and international law. He defended the government's recent abstention on a UN vote calling for an end to the US embargo on Cuba, which the opposition PNP has criticized. Holness said dialogue between the US and Cuba, plus reforms in Cuba, are the practical path forward.
 
 **Key facts**
-- First elected councillor for Spring Garden Division in 2016
-- Became deputy mayor in March 2024
-- Spoke to young leaders on October 30
+- Remarks made at the JLP's 83rd annual conference in Montego Bay
+- Jamaica abstained on a UN vote on ending the US embargo of Cuba
+- The abstention came a day after Parliament approved a motion calling for the embargo to be lifted, a motion with bipartisan support for 30+ years
+- The opposition has also objected to curbs on the Cuban medical programme
 
-**Worth knowing:** His encouragement to young people, 'just be purposeful, be passionate and be you,' is a nice thing to carry forward.
+**Worth knowing:** It signals how Jamaica plans to balance its relationships with Cuba and the West, including the doctors and nurses who work in its health system.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261115/leadership-not-title-mobay-mourns-debo-crawford-deputy-mayor-48-remembered): ‘Leadership is not a title’ - MoBay mourns ‘Debo’ Crawford Deputy mayor, 48, remembered for service beyond political lines
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/15/jamaica-stands-solidarity-cuba-eschews-outdated-ideological-rhetoric-holness/): Jamaica stands in solidarity with Cuba but eschews outdated ideological rhetoric—Holness
 
 
-## 2. Luz Longsworth: 'Don't let our firsts be our lasts'
+## 2. Jamaica's PM defends Speaker, who is also his wife, amid tense Parliament
 `Jamaica` · Covered by 1 outlet
 
-Veteran academic and corporate leader Dr Luz Longsworth launched her new book in Montego Bay, arguing that women breaking glass ceilings doesn't mean all barriers are gone. Written as letters to her daughter Marissa, the book urges leaders to look 'below the surface' at hidden office politics, and it includes candid stories from her own career.
+Andrew Holness strongly defended House Speaker Juliet Holness, his wife, after a standoff with opposition members earlier this month. He said the government won't allow 'bullyism and disorder' in Parliament, while describing his party as peace-loving and focused on order and rules. Relations between the Speaker and the opposition PNP have been strained.
 
 **Key facts**
-- Book title: Through the Glass Bottom … Navigating Leadership's Hidden Currents
-- Launch held at Westport in Montego Freeport, St James
-- She noted Jamaica has had only one female prime minister
+- Spoken at the JLP conference in Montego Bay on Sunday
+- A near-fistfight in the House on November 3 involved the PNP's Mikael Phillips and the JLP's Desmond McKenzie
+- Juliet Holness serves as Speaker of the House of Representatives
 
-**Worth knowing:** It's a thoughtful, personal take on leadership that's useful to anyone working their way up.
+**Worth knowing:** Heated relations in Parliament can affect how smoothly Jamaica's laws get debated and passed.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261115/weve-broken-glass-ceiling-have-we-overcome-luz-longsworth): We’ve broken the glass ceiling, but have we overcome? – Luz Longsworth
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/15/holness-defends-wife-warns-bullies-will-not-allowed-take-parliament/): Holness defends wife, warns bullies will not be allowed to take over Parliament
 
 
-## 3. Charlotte: sunny and cool today
-`Charlotte` · Covered by 1 outlet
+## 3. Charlotte: frosty mornings, then a slow climb toward 70
+`Charlotte` · Covered by 2 outlets
 
-Expect a bright but chilly day around Charlotte. Temperatures will drop into the low 30s again overnight.
+Sunday was sunny but chilly, with highs struggling to reach the mid-50s. Patchy frost is likely Monday morning, but afternoons warm up through the week, reaching near 70 by Friday and the weekend. Lots of sunshine, though very little of the rain the area needs.
 
 **Key facts**
-- Overnight lows in the low 30s
+- Monday morning lows near or below freezing
+- Highs in the 60s midweek, near 70 Friday and the weekend
+- Nights stay in the 30s
+- Little chance of rain all week
 
-**Worth knowing:** Good day for a walk, but grab a jacket for the evening.
+**Worth knowing:** Grab a jacket for the Monday commute, and save the weekend for being outside.
 
 **Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/sunny-chilly-sunday-charlotte-before-temperatures-warm-this-week/): Sunny but chilly Sunday in Charlotte before temperatures warm this week
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Sunny but cool for the Charlotte area today
 
 
-## 4. Khloé Kardashian is done with Lamar Odom's comments
+## 4. T-Boz's daughter Chase Rolison on lupus recovery and her vintage clothing dream
 `Hip Hop & Celebrity` · Covered by 1 outlet
 
-On the November 12 episode of The Kardashians, Khloé Kardashian said she's cut ties with ex-husband Lamar Odom after their dispute over his Netflix documentary. She says she took part unpaid to help him, then felt his remarks painted their marriage as a fame move. Odom has denied saying he married her for fame.
+Chase Rolison, daughter of TLC's T-Boz and rapper Mack 10, told Reginae Carter that a lupus hospitalization last year lasted 20-some days, though she remembers it as about three, and that she had to relearn walking. She credited her mom's openness about living with sickle cell disease for helping her cope. She also talked about her vintage clothing business, Anela Vintage, and her hopes to design her own pieces.
 
 **Key facts**
-- Documentary 'Untold: The Death & Life of Lamar Odom' came out March 31
-- They married in 2009; divorce was final in 2016
-- Her quote: 'The bridge is burned… So he is dead to me'
+- Interview aired on Reginae Carter's YouTube channel
+- Anela Vintage focuses on late-1990s and early-2000s styles, with an appointment-based showroom in West Hollywood
+- Her long-term goal is a store on Melrose
 
 **Good to know**
-- Confirmed: Kardashian made these remarks on her show
-- Disputed: whether Odom said he married her for fame. He said in June, 'That never came out of my mouth'
+- These are Chase's own personal accounts from an interview; no medical details beyond what she shared were reported
 
-**Worth knowing:** It's the latest chapter in a long, public on-and-off relationship fans have followed for years.
+**Worth knowing:** It's a candid look at living with a chronic illness, and a nice reminder that life and ambitions keep going.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/khloe-kardashian-slams-lamar-odom-over-marriage-comments-hes-dead-to-me/): Khloe Kardashian Slams Lamar Odom Over Marriage Comments: “He’s Dead To Me”
+- [AllHipHop](https://allhiphop.com/news/t-bozs-daughter-chase-rolison-recalls-memory-loss-during-lupus-hospitalization/): T-Boz’s Daughter Chase Rolison Recalls Memory Loss During Lupus Hospitalization
 
 
-## 5. Patriots vs. Lions in Munich, with Cage The Elephant at halftime
+## 5. Charlotte spot hands out 500 turkey checks for Thanksgiving
+`Charlotte` `US Headlines` · Covered by 1 outlet
+
+Marquee Charlotte, a west Charlotte restaurant and lounge, gave away 500 Butterball gift checks to area residents on Sunday. Each check is worth $25 and can be used for turkey and other groceries wherever Butterball products are sold.
+
+**Key facts**
+- 500 gift checks, $25 each
+- Redeemable for turkey and other grocery items
+- Given out Sunday, ahead of Thanksgiving
+
+**Worth knowing:** A small local business helping hundreds of families get dinner on the table.
+
+**Read it yourself:**
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/marquee-charlotte-gives-away-500-turkey-gift-checks-ahead-of-thanksgiving/): Marquee Charlotte gives away 500 turkey gift checks ahead of Thanksgiving
+
+
+## 6. First-of-its-kind marrow transplant from an organ donor treats aplastic anemia
 `Cute Animals` · Covered by 1 outlet
 
-The NFL heads to Germany today as the New England Patriots take on the Detroit Lions at FC Bayern Munich Stadium. Grammy-winning rock band Cage The Elephant plays the halftime show, and both national anthems get live performances.
+Doctors at Franciscan Health say they performed the first reported transplant using bone marrow from a deceased organ donor to treat severe aplastic anemia, a non-cancerous disease. Six months later, the 40-year-old patient's blood counts are restored and she no longer needs transfusions. The marrow came from Ossium, which banks marrow recovered from organ donors.
 
 **Key facts**
-- Kickoff Sunday, Nov. 15 at 9:30 a.m. ET on FOX
-- Patriots are 5-4; Lions are 6-2
-- Sixth NFL regular-season game ever played in Germany
-- Drew Baldridge sings the U.S. anthem; LaBrassBanda performs Germany's
-
-**Worth knowing:** A fun Sunday-morning game with a concert in the middle.
-
-**Read it yourself:**
-- [Billboard](https://www.billboard.com/culture/product-recommendations/nfl-munich-game-cage-the-elephant-halftime-watch-live-free-1236380798/): NFL Munich Game Halftime Show 2026: Here’s Where to Watch Cage The Elephant Perform Live Online Free
-
-
-## 6. Band stranded in Charlotte while their gear flies ahead
-`Charlotte` · Covered by 1 outlet
-
-After Friday night's nationwide ground stoppage, most flights are back on track, but some travelers are still catching up. One San Diego alternative band is stuck in Charlotte while its instruments sit in Albany, as the musicians race to make the first stop of their tour.
-
-**Key facts**
-- Ground stoppage happened Friday night
-- The band is starting a nine-city tour
-- Most flights are back on schedule as of Saturday
-
-**Worth knowing:** If you're flying this weekend, it's worth double-checking your flight, though things are mostly back to normal.
-
-**Read it yourself:**
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/our-instruments-are-in-albany-without-us-san-diego-based-alternative-band-stuck-in-charlotte-after-nationwide-ground-stoppage/): 'Our instruments are in Albany without us.': San Diego-based alternative band stuck in Charlotte after nationwide ground stoppage
-
-
-## 7. Brain-heart signals might hint at recovery after oxygen loss
-`Health & Medicine` · Covered by 1 outlet
-
-Researchers at the Paris Brain Institute studied whether the way the brain and heart interact can predict survival after resuscitation from severe oxygen loss. The work builds on earlier findings and is published in the journal eNeuro.
-
-**Key facts**
-- Led by Diego Candia-Rivera and Sofia Carrion-Falgarona
-- Published in eNeuro
+- Transplant performed April 18 on a 40-year-old woman with a 10-year history of the disease
+- She has full donor chimerism, meaning her blood is now made entirely by donor cells, without complications
+- Ossium plans more transplants through its HOPE Program
 
 **Good to know**
-- This was done in rats, so it's early-stage research and not yet tested as a tool for people
+- This is a single patient case reported by the hospital and the marrow bank, not a clinical trial
+- Six months of follow-up is encouraging but still early for long-term results
 
-**Worth knowing:** It could one day help doctors better predict recovery for patients.
+**Worth knowing:** Banking marrow from organ donors could give more patients a match when they have no living donor.
 
 **Read it yourself:**
-- [Medical Xpress](https://medicalxpress.com/news/2026-11-brainheart-interactions-recovery-oxygen-loss.html): Brain–heart interactions may predict recovery from oxygen loss
+- [Good News Network](https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/): World-First Bone Marrow Transplant Successfully Treats Non-Malignant Disease
 
 
-## 8. Alzheimer's may leave early clues up to a decade ahead
-`Health & Medicine` · Covered by 1 outlet
+## 7. Pence urges an open 2028 GOP race and disagrees with Vance on midterm loss
+`US Headlines` · Covered by 2 outlets
 
-Johns Hopkins scientists studying hundreds of brain scans found that two regions, the entorhinal cortex and amygdala, start shrinking before the hippocampus, which is where doctors usually look. These changes are linked to tau protein buildup and could help spot risk years before memory problems begin.
+On NBC's Meet the Press, former Vice President Mike Pence called for a competitive 2028 Republican primary and declined to call Vice President JD Vance the frontrunner. He disagreed with Vance's view that the Iran conflict cost Republicans the midterms, arguing instead that voters were frustrated the operation stopped after five weeks. Vance hasn't said whether he'll run, citing his family.
 
 **Key facts**
-- Changes may appear as much as 10 years before symptoms
-- Published in NeuroImage Reports
-- Being presented at Neuroscience 2026
+- Republicans lost control of both the House and Senate in this year's midterms
+- Vance wrote on X that 'the reason we lost is the war'
+- Pence called Vance 'a good man' but said he is 'wrong'
+- Pence wants the party to return to its traditional conservative agenda
 
-**Good to know**
-- This is research based on brain scans. It isn't an approved diagnostic test yet, and the researchers say it 'could eventually' help with earlier detection
-
-**Worth knowing:** Earlier detection could give future treatments a better chance to protect the brain.
+**Worth knowing:** It's an early look at the debate over the Republican Party's direction heading toward 2028.
 
 **Read it yourself:**
-- [ScienceDaily (Health & Medicine)](https://www.sciencedaily.com/releases/2026/11/261114202130.htm): Alzheimer’s may start shrinking two brain regions years before memory loss
+- [Newsweek](https://www.newsweek.com/mike-pence-calls-competitive-gop-primary-vance-weighs-bid-12717779): Mike Pence Calls for Competitive 2028 GOP Primary as JD Vance Weighs Bid
+- [The Hill](https://thehill.com/homenews/administration/6221381-pence-vance-midterm-losses/): Pence calls Vance ‘wrong’ on Iran war, GOP midterm losses
+
+
+## 8. Study finds brain activity varies widely among autistic people
+`Health & Medicine` · Covered by 1 outlet
+
+University of Iowa researchers compared brain activity in people with and without autism and found remarkable variability among autistic individuals. The study was published in JNeurosci.
+
+**Key facts**
+- Led by Dorit Kliemann and James Traer, University of Iowa
+- Published in JNeurosci
+
+**Worth knowing:** It supports the idea that autism looks different from person to person.
+
+**Read it yourself:**
+- [Medical Xpress](https://medicalxpress.com/news/2026-11-people-autism-remarkable-variability-brain.html): People with autism show remarkable variability in brain activity
 
 
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Newsweek, Positive News_
+_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_
