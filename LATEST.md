@@ -1,145 +1,187 @@
 # My Daily Brief: Evening edition
-_Sunday, November 15, 2026 · 4:21 PM EST · 303 articles from 39 outlets · summaries by Claude_
+_Sunday, November 15, 2026 · 9:24 PM EST · 341 articles from 39 outlets · summaries by Claude_
 
-> This edition is led by the fallout from Friday's nationwide FAA ground stop, with Trump and Transportation Secretary Sean Duffy pressing Congress for more air traffic control money while Democrats push back. The Nvidia leadership crisis continues, with Treasury Secretary Scott Bessent calling for a shakeup and Megaspeed launching an internal probe, and Estonia announces it will close its Russian border crossings after a foiled sabotage attempt. Also covered: an AI-assisted exam cheating scandal in South Korea, a Korean actor's drunk-driving crash, and Charlotte local news.
+> This edition is dominated by the fallout from Jensen Huang's resignation at Nvidia. It covers Treasury Secretary Scott Bessent's call for an outside CEO, a campaign to bring Huang back, and scrutiny of the Singapore chip buyer Megaspeed. It also covers Friday's nationwide FAA ground stop, early federal findings in the New Orleans tanker-riverboat collision, an Apple health-AI study, South Korean diplomacy and exam-cheating fears, and two local incidents in the Carolinas.
 
 
-**Sources linked in this edition:** 7 left · 20 center · 5 right
+**Sources linked in this edition:** 10 left · 19 center · 6 right
 
 ---
 
-## 1. Trump comments on FAA ground stop two days later, blames Biden administration and seeks more funding
-`US Headlines` `AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 1 · R 2)
+## 1. Bessent urges Nvidia to pick an outside CEO and asks whether China-linked sales inflated earnings
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 5 outlets (L 1 · C 2 · R 2)
 
-President Trump made his first public comments Sunday on Friday's nationwide FAA ground stop, which lasted more than four hours and led to thousands of cancellations and delays. In Truth Social posts he blamed the Biden administration for making an "old and broken" system worse and urged Congress to provide modernization money "FAST!" Transportation Secretary Sean Duffy said officials are analyzing two recently installed routers at FAA facilities in Arkansas and Texas, and that the root cause is still undetermined. Duffy and Homeland Security Secretary Markwayne Mullin said there was no indication of a cyberattack.
+On Fox's 'Sunday Morning Futures,' Treasury Secretary Scott Bessent said Nvidia's board should look outside the company for Jensen Huang's successor, saying the company needs 'a dramatic shake-up.' He asked whether Nvidia pushed 'seemingly illicit sales' to 'goose' its revenue and earnings. He said he wants answers from the board and outside counsel within 10 days. Bessent pointed to what he described as a crash in Nvidia sales to China followed by a surge in sales to Singapore, citing reporting that only 1% of chips sold there stayed there. He also said existing export controls are sufficient but need better enforcement, while a bipartisan group in Congress seeks tighter rules, and House Intelligence chair Rick Crawford said it is premature to blame Commerce Secretary Howard Lutnick for enforcement delays.
 
 **Key facts**
-- The ground stop began at 3:54 p.m. ET Friday, Nov. 13, and lasted more than four hours; about 3,500 flights were in the air.
-- The FAA said its equipment became unstable after a high volume of data flooded its network; contractor work at one site may be related.
-- Congress approved $12.5 billion for the FAA last year; Duffy calls it a down payment on a broader overhaul.
-- Biden's infrastructure law set aside $25 billion for FAA airport and air traffic control improvements, according to the agency.
-- Previous nationwide ground stops followed the Sept. 11 attacks and a January 2023 computer outage.
+- Bessent said on Sunday that the board 'need[s] to go outside the company' for a new CEO.
+- Bessent asked for answers 'in the next 10 days from the board and from the outside counsel.'
+- Colette Kress, Nvidia's CFO, is interim CEO; Nvidia says it will consider internal and external candidates.
+- Axios reports Nvidia has lost more than $1.2 trillion in market value since the scandal broke in late October.
+- Sens. Jim Banks (R) and Elizabeth Warren (D) are seeking to tighten chip export controls through the annual defense bill.
 
 **How it's being framed**
-- **Left:** PBS/AP highlighted that Trump was "conspicuously quiet" for two days while posting about unrelated matters, and noted the $25 billion the Biden-era infrastructure law provided to the FAA, alongside Duffy's push to find the root cause.
-- **Center:** CNBC led with Trump's blame of Biden and call for funding, and added context on prior funding, the FAA's technical explanation and the rarity of nationwide ground stops.
-- **Right:** Fox News gave a detailed timeline emphasizing the federal response, the security review that found no signs of a cyberattack, and the White House's credit to Trump's leadership, plus disruption to college football teams. The Washington Examiner focused on Duffy saying there was no indication of a hack and describing a "whole-of-government" response led by Trump.
+- **Left:** Al Jazeera gave the fullest background. It covered Huang's ties to the Trump administration, including the 2025 H20 deal in which the US government takes 15% of sales, and Beijing's denial of the spy allegations. It set Bessent's view that existing laws are enough against the bipartisan push in Congress for tighter controls.
+- **Center:** Axios stressed the market stakes, noting the $1.2 trillion loss in value and how a Treasury secretary questioning Nvidia's results could hit a shaky market. The Hill focused on infighting within the administration, quoting Rep. Crawford, who said blaming Lutnick is premature.
+- **Right:** Fox Business centred on Bessent's compliance concerns and his claims about Singapore shell companies. It added succession news, including a Financial Times report that the board approached Arm CEO Rene Haas. The Washington Examiner highlighted Bessent's praise of Nvidia and Huang alongside his point that innovation 'does not abrogate their duties of compliance.'
 
 **Disputed or unclear**
-- The root cause remains under investigation; routers in Arkansas and Texas and contractor work are being examined.
-- Trump's claim that the Biden administration worsened the system is contested by outlets noting Biden-era FAA funding.
-- The White House credits Trump's leadership for the speed of the recovery; critics note his two-day silence.
+- Whether Nvidia knowingly allowed chips to be diverted to China is unproven; Bessent framed it as a question.
+- The '1% of chips stayed in Singapore' figure comes from reporting Bessent cited, not from official data.
+- Accounts differ on when Huang resigned: most outlets say Thursday, while the Washington Examiner says 'last Sunday.'
+- Whether the Commerce Department is to blame for slow enforcement is disputed within Republican ranks.
 
-**Why it matters:** The outage exposed how vulnerable the national air traffic system is and is shaping a funding fight in Congress.
+**Why it matters:** Nvidia sits at the centre of the AI economy, and a senior official openly questioning the quality of its earnings could affect markets and US chip export policy.
+
+**Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo) (center): Bessent questions did Nvidia "goose" earnings with suspect China chip sales
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia) (lean-left): US Treasury chief calls for outsider to lead embattled tech firm Nvidia
+- [Fox Business](https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo) (lean-right): Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO
+- [The Hill](https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/) (center): Crawford: It’s ‘premature’ to place blame on Lutnick for Nvidia chip sales
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/) (lean-right): Bessent: Nvidia should ‘go outside the company’ for next CEO
+
+
+## 2. Petition and tech figures push for Jensen Huang's return as Nvidia CEO
+`AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 2 · R 1)
+
+An online 'Stand with Jensen' petition has gathered more than 150,000 to 160,000 signatures calling for Huang to be reinstated or given a fair process. Backers include Elon Musk and Tim Sweeney, among others. The Financial Times reports Huang has discussed a comeback with allies, one of whom plans a lobbying 'war room' and would seek White House support. Investors Brad Gerstner and Gavin Baker urged the board to consider all options. Hurdles remain, including the board's ongoing investigation and planned congressional inquiries, and some critics argue his conduct warranted removal.
+
+**Key facts**
+- The petition site says signers' affiliations are self-reported and unverified.
+- Huang co-founded Nvidia in 1993 and resigned as president, CEO and board member last week.
+- Megaspeed says Alice Huang left the company effective August 30, 2025.
+- A Financial Times source quoted one ally saying, 'Having an affair with a subordinate is a fireable offense.'
+
+**How it's being framed**
+- **Left:** The Verge questioned how authentic the signatures are, citing joke entries such as 'Xi Jingping.' It quoted Anne Wojcicki on power and corruption and noted Bloomberg reporting that many women in Silicon Valley see the case as an abuse of power.
+- **Center:** CNBC detailed the support from executives, employees and investors while noting the significant obstacles to a return. TechCrunch's podcast discussed how quickly Huang's support crumbled, Nvidia's lack of a succession plan, and the effects on the wider AI economy.
+- **Right:** Fox Business led with the comeback effort and the 'war room.' It quoted at length the supporters' arguments about 'due process, not mob justice' and Steve Chen's statement on Huang as a Taiwanese American role model.
+
+**Disputed or unclear**
+- Reported signature totals vary (over 150,000 versus over 160,000), and their authenticity is unverified.
+- How seriously Huang is pursuing a comeback rests on anonymous sourcing in the Financial Times.
+- Whether the board gave Huang a fair process is contested by his supporters.
+
+**Why it matters:** The fight over Huang's future will shape leadership at one of the world's most valuable companies and tests how boards handle founder misconduct.
+
+**Read it yourself:**
+- [CNBC](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) (center): Tech world's calls for Jensen Huang to return to Nvidia are growing
+- [The Verge](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed) (lean-left): Jensen Huang might be plotting a return and more of the latest Nvidia drama
+- [Fox Business](https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report) (lean-right): Jensen Huang weighs Nvidia CEO comeback as ally plans ‘war room’: report
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/) (center): Is bad news for Jensen Huang also bad news for the AI industry?
+
+
+## 3. Trump and Duffy blame past administrations and Congress for FAA ground stop; Democrats point to unspent funds
+`US Headlines` · Covered by 5 outlets (L 2 · C 2 · R 1)
+
+After Friday's four-hour-plus nationwide FAA ground stop, President Trump blamed the Biden administration for an 'old and broken' air traffic system and urged Congress to provide more money 'FAST.' Transportation Secretary Sean Duffy blamed prior administrations and insufficient funding. He said the $12.5 billion Congress approved in 2025 cannot be used for new telecom architecture, software or towers, and the administration has requested $50 billion in emergency funding. Democrats argue the administration has not spent most of the existing money. Duffy attributed the outage to botched maintenance by contractor L3Harris during a copper-to-fiber conversion, the FAA says the root cause is still under investigation, and Duffy expects flights to return to normal by Monday.
+
+**Key facts**
+- The ground stop on Friday, Nov. 13 lasted more than four hours; the Guardian calls it the longest nationwide stop in 25 years.
+- Congress approved $12.5 billion for air traffic control in 2025; the White House and Duffy requested $50 billion more on Friday.
+- Reps. Larsen and Carson say $4.3 billion has been obligated and only $1 billion spent.
+- The investigation points to two sites: a radar site in Amarillo, Texas and a radio site in El Dorado, Arkansas.
+- L3Harris says it has completed more than 70% of the copper-to-fiber conversion and is supporting the FAA probe.
+
+**How it's being framed**
+- **Left:** The Guardian and NPR gave weight to Democratic rebuttals, including Sen. Van Hollen's remark that it's 'really rich' to blame Congress and the Larsen/Carson spending figures. The Guardian noted that Trump took two days to comment, and NPR detailed the technical cause and ongoing disruptions.
+- **Center:** CNBC led with Trump's first comments and his blame of Biden, adding the FAA's explanation and how rare such stops are. The Hill led with Duffy pinning the outage on a lack of funding from Congress.
+- **Right:** The Washington Examiner focused on Van Hollen pledging to support 'whatever level of money is necessary' on a bipartisan basis, framing it as a funding commitment while noting he rejected Duffy's blame.
+
+**Disputed or unclear**
+- The root cause is still under investigation; the FAA says contractor work 'may be related.'
+- Whether existing funds can be used for the needed upgrades is disputed between Duffy and Democrats.
+- Cancellation and delay counts differ by outlet and time of day (about 2,000 to 2,300 cancelled; 8,000 to 8,600 delayed).
+
+**Why it matters:** The outcome will shape whether Congress approves tens of billions more for air traffic control and how reliable US air travel is.
 
 **Read it yourself:**
 - [CNBC](https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html) (center): Trump breaks silence about FAA nationwide ground stop, blames Biden administration
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress) (lean-left): Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown
-- [Fox News](https://www.foxnews.com/politics/faa-ground-stop-timeline-weekend-chaos-grounds-planes-postpones-games) (right): FAA ground stop timeline: Weekend chaos grounds planes and postpones games
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/infrastructure/4804173/cause-of-nationwide-ground-stop-sean-duffy/) (lean-right): Root cause of nationwide ground stop still unknown, Duffy says
-
-
-## 2. Bessent urges Nvidia to pick an outside CEO and questions its China-linked sales
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 4 outlets (L 0 · C 3 · R 1)
-
-Treasury Secretary Scott Bessent said Sunday on Fox News that Nvidia needs a "dramatic shakeup" after CEO Jensen Huang's resignation and should hire an outsider. He questioned whether the company pursued "seemingly illicit sales" to boost earnings, citing a fall in China sales and a rise in Singapore revenue, and demanded answers from the board within 10 days. His remarks come amid a public dispute with Commerce Secretary Howard Lutnick over why Megaspeed was not added to the export blacklist. House Intelligence Chair Rick Crawford said it is "premature" to blame Lutnick.
-
-**Key facts**
-- Huang resigned Thursday; CFO Colette Kress is interim CEO.
-- Nvidia's board says it will consider internal and external candidates; the FT reported the board approached Arm CEO Rene Haas.
-- Bessent said several agencies favored blacklisting Megaspeed for months, "but Commerce has the pen."
-- Axios reports Nvidia shares have lost more than $1.2 trillion in market value since the scandal broke in late October.
-- Nvidia stopped separately reporting Singapore revenue in November 2025, citing a new methodology.
-
-**How it's being framed**
-- **Center:** CNBC and Axios focused on Bessent's questioning of Nvidia's earnings quality and the Bessent-Lutnick feud, including Cantor Fitzgerald's ties to Nvidia partners and Commerce's denial of a reported confrontation; Axios stressed market risk. The Hill featured a Republican defense of Lutnick.
-- **Right:** Fox Business emphasized Bessent's call for an outside CEO, his claim about Singapore shell companies, Huang's alleged relationships, and the CEO search including the Haas report; it did not dwell on the Lutnick feud.
-
-**Disputed or unclear**
-- Whether Nvidia knowingly made illicit sales is unproven; Bessent framed it as a question.
-- Bessent's cited figure that only 1% of chips sold in Singapore stayed there comes from unspecified reporting.
-- Commerce denies Axios's report of a Situation Room confrontation.
-- CNBC notes there is no evidence Lutnick shared sensitive information with his sons or that Cantor traded on it.
-
-**Why it matters:** Nvidia is central to the AI economy and US growth, and a cabinet-level challenge to its leadership and finances could affect markets and export policy.
-
-**Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html) (center): Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO
-- [Fox Business](https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo) (lean-right): Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO
-- [Axios](https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo) (center): Bessent questions did Nvidia "goose" earnings with suspect China chip sales
-- [The Hill](https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/) (center): Crawford says it’s ‘premature’ to place blame on Lutnick for Nvidia chip sales
-
-
-## 3. Top scorer on South Korea's tax accountant exam admits using AI to cheat
-`Korea` `AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 3 · R 0)
-
-Han Won-seok, 34, who ranked first on this year's certified tax accountant exam, admitted in a video on his lawyer's YouTube channel that he cheated in both rounds using a miniature camera, generative AI and a smartphone. He said he submitted a written confession to Seoul police, who have assigned investigators, and that he used the same method on a CPA exam. The presidential office ordered a full investigation into suspected AI cheating across national certification tests, days before Thursday's college entrance exam. Officials are moving to invalidate his result, and the exam administrator is considering a criminal complaint.
-
-**Key facts**
-- He scored 397.5 out of 400 in the April first round, missing one of 160 questions.
-- Two proctors were assigned to his exam room, per the exam administrator.
-- Cheaters face invalidation and a five-year ban from the exam.
-- Prime Minister Han Seong-sook is to meet ministry officials Monday on prevention measures.
-
-**How it's being framed**
-- **Left:** The Guardian stressed that his scores looked too good to be true, his earlier denials, and the role of standardized tests in South Korean social mobility, ahead of the college exam.
-- **Center:** Yonhap, BBC and the Korea Herald gave detailed accounts of the method, scores, government response and penalties; the BBC noted his stated motives and remorse, and the Korea Herald highlighted that he cheated in front of two proctors.
-
-**Disputed or unclear**
-- Whether criminal charges will follow depends on the police investigation.
-- How widespread AI cheating is on other national exams is unknown pending the government review.
-
-**Why it matters:** It shows how generative AI is challenging the integrity of high-stakes exams, just before South Korea's national college entrance test.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115000753315) (center): (3rd LD) Top scorer in tax accountant exam turns himself in over AI-assisted cheating
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam) (lean-left): 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss) (center): South Korea's top scorer in tax accountancy exam admits cheating
-- [The Korea Herald](https://www.koreaherald.com/article/10937594) (center): Mini camera, AI and smartphone: How tax exam top scorer says he cheated under two proctors’ noses
-
-
-## 4. Duffy blames past administrations and Congress for ground stop; Van Hollen pushes back
-`US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
-
-Transportation Secretary Sean Duffy said Sunday on CNN that prior administrations and insufficient congressional funding left the air traffic system vulnerable, saying the $12.5 billion approved last year cannot fund new telecom architecture, software or towers. He said botched routine maintenance by a contractor, replacing copper lines with fiber optic, triggered the stoppage, and that the root cause is still being investigated. Sen. Chris Van Hollen (D-Md.) said it was "really rich" to blame Congress when it gave the administration what it requested, but said he would support whatever money is necessary on a bipartisan basis. Duffy defended Trump's two-day delay in commenting, saying the president was fully engaged.
-
-**Key facts**
-- Duffy: "I take responsibility for what was given to me by prior administrations."
-- The contractor, L3Harris, is reportedly running diagnostics.
-- Van Hollen: "I will support whatever level of money is necessary to fix this problem."
-
-**How it's being framed**
-- **Left:** The Guardian framed it as the administration shifting blame, giving weight to Van Hollen's criticism and Trump's delayed response while including Duffy's detailed explanation of funding limits.
-- **Center:** The Hill led with Duffy blaming predecessors and Congress for underfunding.
-- **Right:** The Washington Examiner led with Van Hollen pledging bipartisan funding, while noting he rejected Duffy's blame.
-
-**Disputed or unclear**
-- Whether existing funds have been adequately spent, as Van Hollen suggests, or are insufficient in scope, as Duffy says.
-- The precise cause of the maintenance failure is still under investigation.
-
-**Why it matters:** The blame dispute will shape whether and how quickly Congress funds air traffic control upgrades.
-
-**Read it yourself:**
-- [The Hill](https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/) (center): Duffy pins ground stop on Congress’s lack of funding
 - [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag) (lean-left): Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage
 - [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4804232/van-hollen-funding-atc-system-duffy-ground-stop/) (lean-right): Van Hollen vows funding to fix air traffic control system, rejects Duffy blame
+- [The Hill](https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/) (center): Duffy pins ground stop on Congress’s lack of funding
+- [NPR](https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday) (lean-left): Flight disruptions expected to last into Monday
 
 
-## 5. Rollover crash briefly closes I-77 northbound in Huntersville
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 4. Megaspeed says Alice Huang left in 2025 and launches internal probe; Jensen Huang to testify to Congress
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
 
-A rollover crash just after noon Sunday on I-77 northbound before Exit 23 near Gilead Road in Huntersville closed all northbound lanes. Medic said one person was taken to a hospital with serious injuries; Huntersville Fire said two people were treated. Lanes reopened around 2:20 p.m. The cause is under investigation.
+Singapore-based Megaspeed, a major Nvidia customer, said Alice Huang left effective August 30, 2025 and has no current role. It called media assertions about its business 'not supported by verifiable evidence' and said it has hired outside counsel for an internal investigation. Critics, including the research group C4ADS and short seller Culper Research, have suggested she remained in control of the company. Singapore, Taiwan and Malaysia have taken action or opened probes, and Rep. John Moolenaar said Jensen Huang has agreed to testify behind closed doors to three House committees without subpoenas.
 
 **Key facts**
-- Crash occurred around noon Sunday, Nov. 15, near Exit 23 (Gilead Road).
-- One person hospitalized with serious injuries.
-- Northbound lanes reopened around 2:20 p.m.
+- Megaspeed has bought nearly $5 billion in Nvidia chips and hardware over three years, per the Guardian.
+- Singapore investigated Megaspeed from February 2025, held Alice Huang's passport and barred her from re-entry.
+- Taiwan has also barred Alice Huang from re-entry, and Malaysia is investigating a Megaspeed subsidiary.
+- Bessent said several agencies wanted Megaspeed on the entity list 'for months' but 'Commerce has the pen.'
 
 **How it's being framed**
-- **Center:** All four local stations reported it as a straightforward traffic incident, focusing on injuries and lane closures.
+- **Left:** The Guardian stressed Megaspeed's 'puzzling' corporate footprint, including empty offices and a rural Australian lottery shop as a registered address. It also cited the Culper Research claim that she was 'still our boss.' PBS (AP) focused on Megaspeed's statement and Bessent's view that whether she is a spy 'doesn't matter' compared with Nvidia's compliance culture.
+- **Center:** BBC paired Megaspeed's denial with C4ADS's claim that Alice Huang remained 'practically in control,' and reported Huang's agreement to testify. It also said the BBC understands his reinstatement is very unlikely while the company's investigations are ongoing.
 
 **Disputed or unclear**
-- The cause of the crash and the injured person's condition were not reported.
+- Whether Alice Huang is a Chinese intelligence asset is alleged by unnamed US officials and denied by Beijing.
+- Her departure date is unclear: the BBC says she stepped down as director near the end of 2023, while Megaspeed gives August 2025.
+- Whether Megaspeed diverted chips to China is unproven; the company denies wrongdoing.
+- Dates for Huang's testimony are not yet set.
+
+**Why it matters:** The probes could reveal whether advanced US AI chips reached China despite export controls.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss) (center): Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang) (lean-left): Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’
+- [PBS NewsHour](https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout) (lean-left): Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout
+
+
+## 5. NTSB says tanker's steering failed before it hit docked New Orleans riverboat; port sues owners
+· Covered by 6 outlets (L 3 · C 2 · R 1)
+
+The NTSB said the tanker Atlantic Asphalt suffered a 'steering casualty' about two minutes before striking the docked riverboat American Heritage on Friday. The rudder stayed to starboard and the ship veered toward the east bank. Voyage data recorder audio captured whistles, radio warnings, anchor commands and emergency orders, and the riverboat capsized in about 22 minutes. Everyone aboard survived and 32 people were hospitalized. The Port of New Orleans sued the tanker's owner Nave Shipping and manager Thome Ship Management for at least $1 million, and a judge approved seizing the ship; four riverboat crew members filed a separate suit, and a preliminary NTSB report is due in about 30 days.
+
+**Key facts**
+- The NTSB says 140 passengers and 50 crew were aboard the American Heritage.
+- 32 people were hospitalized with no critical injuries; six remained in hospital as of Sunday.
+- The collision occurred around 12:28 p.m. Friday at the Thalia Street terminal.
+- Nave Shipping is a subsidiary of China State Shipbuilding Corporation, per the BBC.
+- The tanker sails under the Marshall Islands flag.
+
+**How it's being framed**
+- **Left:** NPR, PBS (AP) and the Guardian combined the NTSB timeline with the lawsuits and the cleanup. The Guardian added a survivor's account and the crew members' lawsuit, while NPR covered the fuel removal and river restrictions.
+- **Center:** BBC ran separate pieces on the port lawsuit, including its request to seize and sell the tanker and the Chinese state ownership of Nave Shipping, and on the NTSB findings.
+- **Right:** Fox News gave a detailed account of the NTSB timeline and rescue, including praise for the captain staying aboard until last. It framed the event much like other outlets, with an emphasis on the 'miracle' rescue.
+
+**Disputed or unclear**
+- What caused the steering failure is not yet known.
+- Passenger counts vary: the port authority cited about 129 passengers, while the NTSB says 140 passengers.
+- The fuel aboard is reported as 160,000 gallons by NPR and 16,000 gallons by Fox.
+- Negligence claims in the lawsuits are allegations.
+
+**Why it matters:** The findings will shape liability claims and safety rules for heavy ship traffic on the Mississippi.
+
+**Read it yourself:**
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss) (center): New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision
+- [NPR](https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship) (lean-left): New Orleans port sues owners of tanker involved in Mississippi crash
+- [Fox News](https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat) (right): NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss) (center): Steering failure preceded New Orleans cruise ship collision, says NTSB
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans) (lean-left): Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash) (lean-left): US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash
+
+
+## 6. Rollover crash briefly closes I-77 northbound in Huntersville
+`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+
+A vehicle overturned on I-77 northbound near Exit 23 (Gilead Road) in Huntersville just after noon Sunday, shutting all northbound lanes. MEDIC said one person was taken to hospital with serious injuries. Lanes reopened around 2:20 p.m. The cause is under investigation.
+
+**Key facts**
+- The crash happened around noon Sunday, Nov. 15 near Exit 23.
+- One person was hospitalized with serious injuries.
+- Lanes reopened around 2:20 p.m.
+
+**How it's being framed**
+- **Center:** Local Charlotte TV stations gave straightforward traffic and injury updates with no differences in framing.
+
+**Disputed or unclear**
+- WSOC reported that two people were treated for injuries; other outlets mention only the one person hospitalized.
+- The cause of the crash is unknown.
 
 **Why it matters:** It affected a major commuter route north of Charlotte.
 
@@ -150,129 +192,95 @@ A rollover crash just after noon Sunday on I-77 northbound before Exit 23 near G
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/crash-on-i-77-north-shuts-down-all-lanes-near-gilead-rd/275-c3d2cdc2-7411-41df-8f7f-8d5e58e3636b) (center): Crash on I-77 North shuts down all lanes near Gilead Rd.
 
 
-## 6. Analyst says Jensen Huang will not return to Nvidia despite reported comeback push
+## 7. Deputy fatally shoots man who fired at him at South Carolina gun show
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 1 · R 1)
+
+A Lexington County deputy working security at the South Carolina Arms Collectors Association gun show at Jamil Temple was shot at around 1:30 p.m. Saturday, authorities said. The deputy returned fire, killing 34-year-old Telvin Pierre Portee of Columbia. The deputy was hospitalized and is in stable condition. What led to the shooting is unclear, and the South Carolina Law Enforcement Division is investigating.
+
+**Key facts**
+- The shooting happened Nov. 14 around 1:30 p.m.
+- Portee, 34, died at the scene, according to the coroner.
+- Sunday's show was cancelled.
+
+**How it's being framed**
+- **Center:** WBTV described the panic at the scene and the handoff of the investigation to SLED.
+- **Right:** The New York Post reported similar facts, adding that the deputy underwent surgery and the show was cancelled, with a headline describing Portee as a customer who fired first.
+
+**Disputed or unclear**
+- The motive and the events leading to the gunfire are unknown.
+
+**Why it matters:** It is a fatal officer-involved shooting at a public event, now under state investigation.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/deputy-kills-man-accused-shooting-him-during-gun-show/) (center): Deputy kills man accused of shooting at him during gun show
+- [New York Post](https://nypost.com/2026/11/15/us-news/deputy-working-security-at-south-carolina-gun-show-fatally-shoots-customer-who-shot-at-him/) (lean-right): Deputy working security at South Carolina gun show fatally shoots customer who fired at him
+
+
+## 8. Apple launches health AI study app with OpenEvidence
 `AI & Cybersecurity` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-The Financial Times reported that former Nvidia CEO Jensen Huang has discussed returning, with allies organizing a "war room" of tech executives to lobby the board and seek White House backing. Wedbush-turned-Yorkville analyst Dan Ives told Newsweek he sees "no chance" of a return, suggesting outside candidates such as Tim Cook or Nikesh Arora. A Verge newsletter traced the scandal from an Oct. 29 New York Times report on a suspected Chinese spy plot to Huang's admission of an affair and his resignation.
+Apple and OpenEvidence launched a US study app in which participants ask health questions and rate answers grounded in clinical sources such as NEJM and JAMA. Apple aims to enrol up to 200,000 adults aged 21 and over for more than 12 months. Participants can choose to share HealthKit data to personalise answers. Apple says data will be anonymised and not used to train AI models.
 
 **Key facts**
-- Huang resigned Thursday after 33 years leading the company he co-founded.
-- Nvidia's board is investigating the conduct that led to his resignation.
-- China has denied the espionage allegations; Nvidia previously said it had no reason to believe security or secrets were compromised.
+- Up to 200,000 participants; US only; ages 21 and older; requires iOS 26 or later.
+- TechCrunch reports OpenEvidence deletes query data after 24 hours.
+- Sumbul Desai of Apple said the study reflects 'scientific rigor and clinical grounding.'
 
 **How it's being framed**
-- **Left:** The Verge offered a timeline emphasizing national security stakes, Huang's push to loosen export restrictions, and his closeness to Trump, while noting disagreement among US intelligence officials on the evidence.
-- **Center:** Newsweek centered on investor and analyst views about a possible comeback and succession, quoting Ives and a governance expert.
+- **Left:** The Verge focused on how the study works and on privacy, noting the app is not integrated with Siri or Apple Intelligence.
+- **Center:** TechCrunch placed it in the context of competition with OpenAI and Anthropic in health chatbots and noted the scale of health queries.
 
 **Disputed or unclear**
-- Whether Huang is actually seeking a return rests on anonymous sources.
-- US intelligence officials reportedly disagree over the strength of evidence linking Alice Huang to Beijing.
-- Ives's speculation about a new company or SpaceX role is unconfirmed.
+- Device requirements conflict: TechCrunch says iPhone 15 or later with Apple Intelligence enabled, while The Verge says iPhone 15 Pro and that the app doesn't use Apple Intelligence.
+- It is unclear whether Apple plans to bring these features to Siri or the Health app.
 
-**Why it matters:** Nvidia's leadership future affects the AI industry and a large share of US market value.
+**Why it matters:** It signals how a major tech company may approach consumer health AI.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954) (center): Dan Ives Rejects Jensen Huang Comeback as Nvidia Investors Push for Return
-- [The Verge](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation) (lean-left): An overview of Jensen Huang’s messy days
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/) (center): Apple launches new app to study how people use AI for health
+- [The Verge](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools) (lean-left): Apple’s new study looks to improve the effectiveness of AI health tools
 
 
-## 7. Estonia to close road border crossings with Russia after foiled attack on drone maker
-· Covered by 5 outlets (L 2 · C 2 · R 1)
+## 9. South Korea's Lee heads to ASEAN and APEC summits, with talks planned with Japan's Takaichi
+`Korea` `Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Estonia will close its border crossings with Russia from Dec. 1 after what authorities say was a GRU-ordered attempt to bomb and burn drone maker Threod Systems near Tallinn on Saturday. Security staff and police intervened; eight suspects, reportedly from Latvia, were detained, and custody is being sought for five. Prime Minister Kristen Michal called it part of Russia's hybrid war to weaken support for Ukraine. Russia's foreign ministry spokeswoman called the border plan "aggressive and unrestrained Russophobia."
+President Lee Jae Myung leaves Monday on a four-day trip to the ASEAN summit in Manila and the APEC summit in Shenzhen, China. He plans bilateral talks with the leaders of Thailand and the Philippines and a Tuesday summit with Japanese Prime Minister Sanae Takaichi. He will also seek support for Seoul's peaceful coexistence policy toward North Korea.
 
 **Key facts**
-- Closure takes effect Dec. 1; its duration was not specified.
-- Estonia has three crossings with Russia: Narva, Koidula and Luhamaa.
-- Estonia attributed an August arson attack on Milrem Robotics to Russian intelligence; the Kremlin denied it.
-- No injuries were reported.
+- APEC will be held in Shenzhen on Wednesday and Thursday, including a dinner hosted by Xi Jinping.
+- This will be the fourth Lee-Takaichi summit; they last met in May in Andong.
+- Lee cited negotiations to upgrade the Korea-ASEAN free trade agreement.
 
 **How it's being framed**
-- **Left:** The Guardian and Al Jazeera emphasized Estonian officials' framing of a Russian shadow war, included Russia's Russophobia response, and Al Jazeera added Latvian and parliamentary voices urging asymmetric responses.
-- **Center:** Newsweek and DW reported the official Estonian statements, with Newsweek adding context on Estonian history and recent US-mediated Russia-Ukraine talks.
-- **Right:** The New York Post framed it as a NATO ally foiling a Russian plot, highlighting that the suspects came from Latvia and KAPO's warning against Russian 'job offers'; it said Russia had not immediately commented.
+- **Center:** Korean outlets relayed the government's itinerary and goals, largely drawing on official statements.
+
+**Why it matters:** The meetings could affect regional trade, North Korea policy and Korea-Japan ties.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10938154) (center): Lee set to depart for ASEAN, APEC summits in Manila, Shenzhen
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261116001100315) (center): S. Korea's Lee, Japan's Takaichi to hold summit on sidelines of ASEAN gathering
+
+
+## 10. South Korea forms emergency team against AI cheating ahead of college entrance exam
+`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Prime Minister Han Seong-sook pledged to mobilise 'all national capabilities' against AI cheating on the College Scholastic Ability Test, which is three days away. Her pledge followed the top scorer on the certified tax accountant exam admitting he cheated using a miniature camera, a smartphone and generative AI. The government will set up an interagency emergency response team and look into AI-based detection tools. Han also ordered measures for other state exams.
+
+**Key facts**
+- The tax exam top scorer confessed on Sunday and said he used the same method on a CPA exam.
+- Han said results showing 'abnormal signs' will be reviewed even after the exam.
+
+**How it's being framed**
+- **Center:** Yonhap and the Korea Herald carried the same wire report, focused on the government's response.
 
 **Disputed or unclear**
-- Estonia says it has clear evidence of GRU involvement; Russia rejects such accusations.
-- Outlets differ on whether all crossings or only road crossings will close.
+- How widespread AI-assisted cheating is remains unknown.
 
-**Why it matters:** A NATO member sealing its border with Russia marks an escalation in Europe's response to alleged Russian sabotage.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/nato-member-estonia-to-shut-russia-border-after-sabotage-attack-12717506) (center): NATO Member Estonia to Shut Russia Border Roads After 'Sabotage Attack'
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker) (lean-left): Estonia to close all border crossings with Russia after attack on drone maker
-- [New York Post](https://nypost.com/2026/11/15/world-news/estonia-closes-all-russia-border-crossings-after-suspected-arson-attack/) (lean-right): NATO ally foils arson attack on drone factory — and says Russia is to blame
-- [Deutsche Welle](https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf) (center): Estonia closes border to Russia after suspected drone factory arson
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker) (lean-left): Estonia to close border crossings with Russia after attack on drone maker
-
-
-## 8. Megaspeed says Alice Huang left in 2025 and launches internal probe
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
-
-Singapore-based Megaspeed, the largest buyer of Nvidia chips in Southeast Asia, said Alice Huang left the company effective Aug. 30, 2025, and that it has hired outside lawyers for an internal investigation. The company said reports about its business and supply chain are "not supported by verifiable evidence" and that it complies with US export controls. It is suspected of giving Chinese companies access to Nvidia chips through data centres in Malaysia, Indonesia and Thailand. Lutnick has been called to testify before the Senate Banking Committee next month.
-
-**Key facts**
-- Singapore began investigating Megaspeed in February 2025, including possible false declarations on server purchases.
-- Singapore found insufficient evidence that Alice Huang committed a crime.
-- Bessent said whether she is a spy "doesn't matter to me"; his focus is Nvidia's compliance culture.
-- China denies Alice Huang is a spy.
-
-**How it's being framed**
-- **Left:** PBS/AP focused on Megaspeed's statement, Singapore's investigation history and Bessent's comments on Nvidia's culture.
-- **Center:** The BBC covered the same statement, adding the Bessent-Lutnick dispute, congressional scrutiny, Singapore's position on foreign export controls, and China's warning against a technological blockade.
-
-**Disputed or unclear**
-- Whether Megaspeed diverted chips to China is alleged but unproven.
-- Whether Alice Huang was a Chinese intelligence asset is disputed.
-
-**Why it matters:** The case tests how well US export controls on advanced AI chips can be enforced abroad.
+**Why it matters:** It shows how AI is challenging the integrity of high-stakes exams.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss) (center): Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
-- [PBS NewsHour](https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout) (lean-left): Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout
-
-
-## 9. Actor Ko Kyung-pyo apologizes for drunk-driving crash and suspends work
-`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-South Korean actor Ko Kyung-pyo, 36, apologized on Instagram after crashing into a district cleaning truck while drunk around 3:30 a.m. Saturday in Seoul's Mapo district. Police said his blood alcohol exceeded the 0.08% license-revocation threshold; a truck driver in his 60s was slightly injured. Ko said he will suspend activities and cooperate with police, and addressed questions about footage of him pocketing an object, which he said was his car key. Several shows are editing out his appearances.
-
-**Key facts**
-- Crash occurred around 3:30 a.m. Saturday in Donggyo-dong, Mapo-gu.
-- His exact blood alcohol level was not disclosed.
-- Fan meetings scheduled for next Saturday were canceled.
-
-**How it's being framed**
-- **Center:** The Korea Herald and Yonhap reported his apology and the production fallout; the Herald addressed the surveillance-footage controversy and why he drove on after the collision.
-
-**Disputed or unclear**
-- Online speculation about what he pocketed; he says it was his car key.
-
-**Why it matters:** It is a prominent case of celebrity drunk driving with immediate effects on Korean TV productions.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10937702) (center): Ko Kyung-pyo vows to pause activities after drunk-driving crash
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261115003100315) (center): Actor Ko Kyung-pyo apologizes for drunk driving, puts career on hold
-
-
-## 10. Charlotte stays sunny and chilly before warming this week
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-Charlotte saw a sunny but cold Sunday with highs struggling to reach the mid-50s. Patchy frost is likely Monday morning, with lows near or below freezing. Afternoons warm to the 60s midweek and near 70 by Friday, with little chance of needed rain.
-
-**Key facts**
-- Lows in the 20s and 30s Monday morning.
-- Highs near 70 expected Friday and the weekend.
-- Little rain is forecast.
-
-**How it's being framed**
-- **Center:** Local stations gave a routine forecast, noting the dry pattern.
-
-**Why it matters:** Frost and dry conditions may affect commutes, plants and outdoor plans.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/sunny-chilly-sunday-charlotte-before-temperatures-warm-this-week/) (center): Sunny but chilly Sunday in Charlotte before temperatures warm this week
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550) (center): Sunny but cool for the Charlotte area today
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261116002151315) (center): (LEAD) PM vows to mobilize all national capabilities to prevent AI cheating on college entrance exam
+- [The Korea Herald](https://www.koreaherald.com/article/10938149) (center): PM vows to mobilize all national capabilities to prevent AI cheating on college entrance exam
 
 
 ---
@@ -281,4 +289,4 @@ Charlotte saw a sunny but cold Sunday with highs struggling to reach the mid-50s
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles in this edition address AI regulation in the US or EU. Related coverage concerns US export controls on Nvidia AI chips and South Korea's response to AI-assisted exam cheating, but neither covers AI regulation as such.
+No articles in this edition addressed AI regulation in the US or EU. The closest related item is the congressional push to tighten chip export controls in story s1.
