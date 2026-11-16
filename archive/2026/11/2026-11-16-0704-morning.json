@@ -1,0 +1,616 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-16T12:04:01.270369+00:00",
+  "local_time": "Monday, November 16, 2026 · 7:04 AM EST",
+  "local_date": "Nov 16, 2026",
+  "slug": "2026-11-16-0704-morning",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is dominated by the fallout from Jensen Huang's resignation as Nvidia CEO: a campaign to bring him back, scrutiny of chip buyer Megaspeed, and congressional pressure on the Commerce Department, all ahead of a first-ever Trump–Xi–Putin summit in Shenzhen on Thursday. Also covered: Houthi advances toward Aden in Yemen, a surge of migrant arrivals in Spain's Canary Islands, a cyber incident at Australian retailer Coles, and two Charlotte-area local stories.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Tech leaders campaign for Jensen Huang's return to Nvidia as board investigation continues",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "A 'Stand with Jensen' petition calling for Nvidia's board to reinstate former CEO Jensen Huang has gathered roughly 150,000 to 175,000 signatures, depending on the report. Backers include Elon Musk, Garry Tan, Tim Sweeney and Travis Kalanick. Huang resigned last week after reports of extramarital affairs, including one with Alice Huang, a woman US officials suspect of ties to Chinese intelligence, and another reportedly with a subordinate executive. The Financial Times reported that Huang has discussed a comeback with confidants and that an ally is organising a 'war room' to lobby the board and seek White House support. The board is running an independent investigation and searching for a successor, with finance chief Colette Kress serving as interim CEO.",
+      "key_facts": [
+        "Huang co-founded Nvidia in 1993 and resigned as president, CEO and board member last Thursday.",
+        "Colette Kress, Nvidia's longtime finance chief, is interim CEO.",
+        "The petition says signers' affiliations are self-reported and not verified, and organisers said they were removing fraudulent entries.",
+        "Investors Brad Gerstner and Gavin Baker asked the board for a 'slow, measured and deliberate process' that keeps Huang's return as an option.",
+        "Treasury Secretary Scott Bessent has called for Nvidia to hire its next CEO from outside the company."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera gave an explainer focused on why Silicon Valley backs Huang. It quoted Musk's warning that 'handshake' deals could be lost, the investor open letter, and the petition's statement that no evidence has been shown that the woman was a spy. The Guardian focused on Megaspeed, its denial of wrongdoing, its thin physical presence overseas, and the investigations into it in Singapore, Malaysia and Taiwan."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and the BBC centred on the size of the campaign and its prominent signatories, including employee testimonials. Both also stressed the obstacles: the board probe, congressional and FBI investigations, and Bessent's call for an outside hire. The BBC reported its understanding that reinstatement is unlikely. Newsweek, in a tongue-in-cheek analysis, framed the saga as a fight inside the Trump administration over 'America First' chip policy, setting Bessent's restrictive approach against Lutnick's export-friendly one."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business led with the FT report of Huang weighing a comeback and the 'war room'. It gave space to supporters' due-process arguments, including Kalanick's statement and an exclusive quote from YouTube co-founder Steve Chen saying he wants a fair process, not an endorsement of Huang's conduct. It also noted allies' worry that an affair with a subordinate is a 'fireable offense.'"
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang acted as a Chinese intelligence asset is unproven; Beijing denies it.",
+        "Signature counts vary between reports (150,000 to more than 175,000), and the signers' identities are not verified.",
+        "Whether Huang will actually seek reinstatement, and whether the White House would support it, is unclear.",
+        "Musk's claim that critical supply deals will be lost without Huang is unverified."
+      ],
+      "why": "Leadership of the world's dominant AI chipmaker affects markets, AI supply chains and US–China technology policy.",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "published": "2026-11-16T10:31:09+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+          "published": "2026-11-16T01:17:04+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Jensen Huang weighs Nvidia CEO comeback as ally plans ‘war room’: report",
+          "url": "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report",
+          "published": "2026-11-15T22:57:14+00:00"
+        },
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Why Nvidia Is a War Over 'America First'",
+          "url": "https://www.newsweek.com/why-nvidia-war-over-america-first-12719151",
+          "published": "2026-11-16T10:44:13+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+          "url": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster",
+          "published": "2026-11-16T11:05:47+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang allies campaign to reinstate the former Nvidia boss",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T11:45:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "South Korea warns against being sidelined at US–China–Russia summit",
+      "topics": [
+        "Asia Business & Politics",
+        "Korea"
+      ],
+      "summary": "Ahead of Thursday's first trilateral summit between Donald Trump, Xi Jinping and Vladimir Putin in Shenzhen, South Korean officials and opposition lawmakers voiced concern that North Korea's nuclear program could be discussed without Seoul at the table. A senior Foreign Ministry official said the meeting 'must not become a second Yalta Conference' and that Seoul opposes any deal effectively recognising North Korea as a nuclear state. Opposition lawmaker Na Kyung-won accused the Lee Jae Myung administration of weakening trust in the US alliance. Separately, the summit's main US goal is a new nuclear arms deal, which China has long resisted.",
+      "key_facts": [
+        "The summit is set for Thursday in Shenzhen, on the sidelines of APEC.",
+        "New START, the treaty limiting US and Russian strategic nuclear weapons, lapsed in February.",
+        "Under New START, each side was capped at 1,550 deployed strategic warheads.",
+        "The US and Russia hold about 86% of the world's nuclear warheads."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera gave a background explainer on arms control history. It focused on why China resists joining a treaty, citing its smaller arsenal, and on the Trump administration's insistence that any new deal include Beijing."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald focused on Seoul's fear of exclusion. It quoted government and opposition figures using the Yalta analogy and highlighted domestic criticism of President Lee's alliance management."
+        }
+      ],
+      "disputed": [
+        "Whether North Korea will actually be discussed at the summit is uncertain."
+      ],
+      "why": "Any big-power understanding on nuclear arms could reshape security on the Korean Peninsula and beyond.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Concerns grow over S. Korea’s role as US, China, Russia prepare for landmark summit",
+          "url": "https://www.koreaherald.com/article/10938944",
+          "published": "2026-11-16T08:56:12+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Why is China resisting a nuclear treaty with the US and Russia?",
+          "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia",
+          "published": "2026-11-16T07:54:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Spain's maritime rescue service said nearly 2,200 migrants arrived in the Canary Islands by boat over two days, most landing on El Hierro, an island of 12,000 people. Spain declared a migration emergency on the islands last Tuesday after a rise in arrivals, particularly from sub-Saharan Africa. The surge comes two weeks before Spain's early general election. Al Jazeera reported that the boats crossed from Senegal, while the AP said most boats on this route depart from Mauritania.",
+      "key_facts": [
+        "On one day, 1,324 people on 14 dinghies were assisted, close to the route's daily record of 1,461 set in 2020.",
+        "More than 13,000 of the roughly 28,000 sea arrivals to Spain from January through October landed in the Canaries.",
+        "Spain holds an early general election in two weeks."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera's short video report emphasised the dangers of the Atlantic route and migrants' hopes for a better future in Europe."
+        },
+        {
+          "lean": "center",
+          "framing": "The AP report, carried by The Korea Herald, gave official figures, the Red Cross response, the emergency declaration and the upcoming election, and noted the route is among the world's deadliest."
+        }
+      ],
+      "disputed": [
+        "The reports differ on where the boats departed: Al Jazeera says Senegal, while AP says most boats on the route leave from Mauritania."
+      ],
+      "why": "The arrivals add pressure on Spain's migration policy just before a national election.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says",
+          "url": "https://www.koreaherald.com/article/10938541",
+          "published": "2026-11-16T03:14:27+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands",
+          "published": "2026-11-16T08:23:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Panthers beat Saints 20-17 on last-second field goal to lead NFC South",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Ryan Fitzgerald kicked a 54-yard field goal as time expired to give the Carolina Panthers a 20-17 win in New Orleans and sole possession of first place in the NFC South. Chuba Hubbard ran for two touchdowns and gained 172 yards from scrimmage. Carolina won despite a franchise-record 17 penalties for 152 yards, and coach Dave Canales said the team must cut down on procedural mistakes. The Panthers host Baltimore next Sunday.",
+      "key_facts": [
+        "Final score: Panthers 20, Saints 17.",
+        "A 30-yard pass interference penalty set up the winning kick with 21 seconds left.",
+        "Carolina is 4-5; New Orleans is 3-6.",
+        "Carolina committed 17 penalties for 152 yards, a franchise record."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE kept it brief, centring on the division lead and the record penalty total, with quotes from Canales."
+        },
+        {
+          "lean": "center",
+          "framing": "WSOC carried a detailed AP game recap with play-by-play, statistics and injury notes."
+        }
+      ],
+      "disputed": [],
+      "why": "The win puts Carolina atop its division at midseason.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South",
+          "url": "https://www.wsoctv.com/news/local/hubbard-helps-panthers-top-saints-20-17-retain-first-place-nfc-south/JJAJEXX6LJFM5JIUVHHAQUDEU4/",
+          "published": "2026-11-15T22:05:09+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Panthers take NFC South lead despite record penalty total",
+          "url": "https://www.wfae.org/sports/2026-11-16/panthers-take-nfc-south-lead-despite-record-penalty-total",
+          "published": "2026-11-16T11:48:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "12-year-old dies after house fire in Kannapolis",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "A 12-year-old died Saturday evening after being rescued from a house fire on Polo Avenue in Kannapolis that started around 1 p.m. Firefighters gave the child CPR, and the child was taken to a burn center. A second victim remains hospitalised. The cause is under investigation, and officials have not released the child's identity.",
+      "key_facts": [
+        "The fire started around 1 p.m. Saturday on Polo Avenue.",
+        "One other person was injured and remains hospitalised.",
+        "The cause of the fire is under investigation."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE gave a short factual report, citing WBTV."
+        },
+        {
+          "lean": "center",
+          "framing": "WSOC focused on the community's grief, quoting neighbours who saw the rescue attempt."
+        }
+      ],
+      "disputed": [
+        "The cause of the fire has not been determined."
+      ],
+      "why": "It is a local tragedy, and an investigation into the cause is ongoing.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Really tough’: Community mourns 12-year-old after fatal house fire in Kannapolis",
+          "url": "https://www.wsoctv.com/news/local/tragic-community-mourns-12-year-old-after-fatal-house-fire-kannapolis/TP3655RN2FD3PBAXLL3IRT6TBQ/",
+          "published": "2026-11-15T23:14:36+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Child dies after house fire in Kannapolis",
+          "url": "https://www.wfae.org/crime-justice/2026-11-16/child-dies-after-house-fire-in-kannapolis",
+          "published": "2026-11-16T11:47:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Coles investigates cybersecurity incident, says no evidence data was taken",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Coles, Australia's second-largest retailer, said it is investigating a cyber security incident with the Australian Cyber Security Centre and outside experts. The company said it has found no evidence that customer, employee or supplier data was compromised, and that stores and online shopping are operating normally. It urged customers to watch for scam messages and to use unique passwords. Separately, Woolworths said it is looking into reports of compromised e-gift cards.",
+      "key_facts": [
+        "Coles employs over 115,000 people and runs more than 1,800 outlets.",
+        "Coles said no evidence of data theft has been found so far.",
+        "Coles noted Liquorland click-and-collect issues affecting a small number of customers, without linking them to the incident.",
+        "Some Woolworths customers reported losing up to $500 on e-gift cards."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian highlighted Coles' apology to customers and paired the story with the unrelated Woolworths gift card problem."
+        },
+        {
+          "lean": "center",
+          "framing": "BleepingComputer gave technical context, noting that Coles has not said when it found the incident, whether there was a ransom demand, or whether any group has claimed the attack."
+        }
+      ],
+      "disputed": [
+        "It is not yet known whether any data was stolen, when the attack began, or who is responsible."
+      ],
+      "why": "Millions of Australian shoppers and Flybuys members could be affected if data turns out to have been exposed.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Australian retail giant Coles investigates cybersecurity incident",
+          "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+          "published": "2026-11-16T11:18:09+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Coles investigates cyber-attack and apologises to customers",
+          "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+          "published": "2026-11-16T04:04:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Sen. Cantwell accuses Commerce Department of failing to stop AI chip flows to China",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Sen. Maria Cantwell, the top Democrat on the Senate commerce committee, wrote to Commerce Secretary Howard Lutnick alleging his department failed to enforce export controls and let advanced AI chips reach China. She cited the department's reported failure to act on warnings about Megaspeed. She also raised possible conflicts of interest involving Cantor Fitzgerald, which she said held $1.2 billion in Nvidia stock when Lutnick was nominated, and the administration's 25% fee on certain Nvidia chip sales to China. The Commerce Department did not immediately respond. Lutnick has agreed to testify before the Senate banking committee in December.",
+      "key_facts": [
+        "The letter was sent Sunday, ahead of the Trump–Xi meeting this week.",
+        "Senate banking committee chair Tim Scott (R) summoned Huang and Lutnick to testify in December.",
+        "A Nov. 9 New York Times report alleged Commerce may have slow-walked its Megaspeed investigation.",
+        "Democrats take control of both chambers of Congress in January."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge quoted Cantwell's charges at length, including her criticism over Alibaba and ByteDance access to chips. It contrasted them with a Wall Street Journal report that Lutnick plans to name Nvidia and others as AI 'national champions' with faster export approvals."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC presented the letter alongside bipartisan pressure on Commerce, the scheduled hearings, and Democratic document-preservation demands, and noted Lutnick's close relationship with Huang."
+        }
+      ],
+      "disputed": [
+        "Cantwell's allegations of enforcement failures and conflicts of interest have not been answered by Commerce.",
+        "The planned 'national champion' initiative is reported by the WSJ but not confirmed."
+      ],
+      "why": "How the US enforces chip export controls bears directly on the AI race with China.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+          "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
+          "published": "2026-11-16T10:00:01+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+          "url": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+          "published": "2026-11-16T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Trump, Xi and Putin to hold first trilateral summit in Shenzhen",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines",
+        "AI & Cybersecurity"
+      ],
+      "summary": "China confirmed that Xi Jinping, Donald Trump and Vladimir Putin will meet Thursday on the sidelines of APEC in Shenzhen. A Chinese foreign ministry spokeswoman said they will discuss 'world peace' and strategic stability. US officials said Trump wants to discuss reducing nuclear arsenals and the Iran war but not Ukraine, and a White House official said no denuclearization agreement is expected. Trump will first attend the ASEAN summit in Manila.",
+      "key_facts": [
+        "The meeting is set for Thursday, Nov. 19, in Shenzhen.",
+        "China's spokeswoman Mao Ning called the meeting of 'ground-breaking significance.'",
+        "A White House official called the trilateral an 'entry point' and said no agreement is expected.",
+        "China has long said the US and Russia should cut their arsenals before it joins talks."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR framed the trip in light of Republican midterm losses and the Nvidia fallout, which it said could weaken Trump's hand. It quoted analyst Edgard Kagan on China's reluctance and noted that Elon Musk is joining Trump."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA led with Beijing's framing of the talks and noted German President Steinmeier's account of Xi's 'irritation' at the idea of discussing Ukraine."
+        }
+      ],
+      "disputed": [
+        "The agenda remains uncertain, especially whether nuclear issues will be substantively discussed."
+      ],
+      "why": "It is the first meeting of the three largest nuclear powers' leaders, at a time when no treaty limits nuclear arsenals.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "China says Xi, Trump, Putin to discuss 'world peace' in trilateral meeting",
+          "url": "https://www.channelnewsasia.com/asia/donald-trump-xi-jinping-vladimir-putin-china-meeting-6553826",
+          "published": "2026-11-16T01:32:00+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+          "published": "2026-11-16T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Houthis advance toward Aden as Yemeni government forces redeploy",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Saudi-backed Southern Armed Forces said they were withdrawing from the Bab al-Mandab area near the Red Sea to reinforce Yemen's interim capital, Aden. Sources told AFP the Houthis are about 60 km from the city. The Houthis said they took over the evacuated territory and also released 600 detained government fighters, according to the ICRC. The UN says nearly 330,000 people have been displaced since fighting escalated after a truce collapsed in July.",
+      "key_facts": [
+        "Houthi forces are about 60 km from Aden, according to AFP sources.",
+        "A Houthi missile attack on a checkpoint in Lahj province killed eight people, according to AFP sources.",
+        "The Houthis released 600 government fighters, per the ICRC.",
+        "The UN says more than 60% of documented civilian casualties since August have been women and children."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "All three outlets (The Korea Herald via AFP, the BBC and DW) reported the advance and the withdrawal in similar terms. The BBC added context on oil prices and UN humanitarian concerns. DW noted the siege of Taiz and an unconfirmed Houthi claim of an attack on Riyadh."
+        }
+      ],
+      "disputed": [
+        "The death toll from the Oct. 15 palace attack is reported as four (AFP) or five (BBC).",
+        "The Houthi claim of attacking Riyadh is unconfirmed by Saudi Arabia."
+      ],
+      "why": "Control of the Bab al-Mandab Strait affects global shipping and oil prices.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Houthis advance on Aden as government bolsters city defenses",
+          "url": "https://www.koreaherald.com/article/10938546",
+          "published": "2026-11-16T03:23:05+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Yemeni forces retreat to defend port city from Houthis",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T11:09:38+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+          "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-15T23:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Megaspeed says Alice Huang left in 2025; Jensen Huang agrees to testify to House committees",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "Singapore-based Megaspeed, a major Nvidia customer, said Alice Huang left her executive role on Aug. 30, 2025. It called media assertions about its business unsupported by verifiable evidence and said it hired outside counsel for an internal investigation. Washington-based group C4ADS has said she remained 'practically in control' of the company. Rep. John Moolenaar said Jensen Huang agreed to testify behind closed doors before three House committees without subpoenas. Singapore barred Alice Huang from re-entering the country after finding she gave inaccurate information to investigators.",
+      "key_facts": [
+        "Megaspeed says Alice Huang left Aug. 30, 2025.",
+        "Singapore held her passport for about eight months and is investigating Megaspeed over suspected false declarations.",
+        "Beijing called the spying allegations 'entirely groundless.'",
+        "Colette Kress will present Nvidia's results on Nov. 17."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera centred on Megaspeed's statement, Beijing's denial, and Singapore's investigation, and noted that Alice Huang has not commented."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC paired Megaspeed's statement with C4ADS's contrary account, Moolenaar's testimony announcement, and Bessent's criticism of Commerce."
+        }
+      ],
+      "disputed": [
+        "Reports differ on when and whether Alice Huang truly left: Megaspeed says August 2025, C4ADS says she stepped down as director in late 2023 but stayed in practical control, and a short seller quoted an employee calling her 'still our boss.'",
+        "The espionage allegations are unproven."
+      ],
+      "why": "The case tests whether US export controls on AI chips are being circumvented.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T01:47:57+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025",
+          "url": "https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025",
+          "published": "2026-11-16T04:46:49+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "No articles in this edition address AI regulation in the US or EU directly. The only related item is AI chip export-control enforcement, covered in the Nvidia stories.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 10,
+    "center": 14,
+    "right": 1
+  },
+  "stats": {
+    "articles": 390,
+    "stories_found": 295,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

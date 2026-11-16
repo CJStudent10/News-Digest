@@ -1,286 +1,268 @@
-# My Daily Brief: Evening edition
-_Sunday, November 15, 2026 · 9:24 PM EST · 341 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Monday, November 16, 2026 · 7:04 AM EST · 390 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by the fallout from Jensen Huang's resignation at Nvidia. It covers Treasury Secretary Scott Bessent's call for an outside CEO, a campaign to bring Huang back, and scrutiny of the Singapore chip buyer Megaspeed. It also covers Friday's nationwide FAA ground stop, early federal findings in the New Orleans tanker-riverboat collision, an Apple health-AI study, South Korean diplomacy and exam-cheating fears, and two local incidents in the Carolinas.
+> This edition is dominated by the fallout from Jensen Huang's resignation as Nvidia CEO: a campaign to bring him back, scrutiny of chip buyer Megaspeed, and congressional pressure on the Commerce Department, all ahead of a first-ever Trump–Xi–Putin summit in Shenzhen on Thursday. Also covered: Houthi advances toward Aden in Yemen, a surge of migrant arrivals in Spain's Canary Islands, a cyber incident at Australian retailer Coles, and two Charlotte-area local stories.
 
 
-**Sources linked in this edition:** 10 left · 19 center · 6 right
+**Sources linked in this edition:** 10 left · 14 center · 1 right
 
 ---
 
-## 1. Bessent urges Nvidia to pick an outside CEO and asks whether China-linked sales inflated earnings
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 5 outlets (L 1 · C 2 · R 2)
+## 1. Tech leaders campaign for Jensen Huang's return to Nvidia as board investigation continues
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 6 outlets (L 2 · C 3 · R 1)
 
-On Fox's 'Sunday Morning Futures,' Treasury Secretary Scott Bessent said Nvidia's board should look outside the company for Jensen Huang's successor, saying the company needs 'a dramatic shake-up.' He asked whether Nvidia pushed 'seemingly illicit sales' to 'goose' its revenue and earnings. He said he wants answers from the board and outside counsel within 10 days. Bessent pointed to what he described as a crash in Nvidia sales to China followed by a surge in sales to Singapore, citing reporting that only 1% of chips sold there stayed there. He also said existing export controls are sufficient but need better enforcement, while a bipartisan group in Congress seeks tighter rules, and House Intelligence chair Rick Crawford said it is premature to blame Commerce Secretary Howard Lutnick for enforcement delays.
-
-**Key facts**
-- Bessent said on Sunday that the board 'need[s] to go outside the company' for a new CEO.
-- Bessent asked for answers 'in the next 10 days from the board and from the outside counsel.'
-- Colette Kress, Nvidia's CFO, is interim CEO; Nvidia says it will consider internal and external candidates.
-- Axios reports Nvidia has lost more than $1.2 trillion in market value since the scandal broke in late October.
-- Sens. Jim Banks (R) and Elizabeth Warren (D) are seeking to tighten chip export controls through the annual defense bill.
-
-**How it's being framed**
-- **Left:** Al Jazeera gave the fullest background. It covered Huang's ties to the Trump administration, including the 2025 H20 deal in which the US government takes 15% of sales, and Beijing's denial of the spy allegations. It set Bessent's view that existing laws are enough against the bipartisan push in Congress for tighter controls.
-- **Center:** Axios stressed the market stakes, noting the $1.2 trillion loss in value and how a Treasury secretary questioning Nvidia's results could hit a shaky market. The Hill focused on infighting within the administration, quoting Rep. Crawford, who said blaming Lutnick is premature.
-- **Right:** Fox Business centred on Bessent's compliance concerns and his claims about Singapore shell companies. It added succession news, including a Financial Times report that the board approached Arm CEO Rene Haas. The Washington Examiner highlighted Bessent's praise of Nvidia and Huang alongside his point that innovation 'does not abrogate their duties of compliance.'
-
-**Disputed or unclear**
-- Whether Nvidia knowingly allowed chips to be diverted to China is unproven; Bessent framed it as a question.
-- The '1% of chips stayed in Singapore' figure comes from reporting Bessent cited, not from official data.
-- Accounts differ on when Huang resigned: most outlets say Thursday, while the Washington Examiner says 'last Sunday.'
-- Whether the Commerce Department is to blame for slow enforcement is disputed within Republican ranks.
-
-**Why it matters:** Nvidia sits at the centre of the AI economy, and a senior official openly questioning the quality of its earnings could affect markets and US chip export policy.
-
-**Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo) (center): Bessent questions did Nvidia "goose" earnings with suspect China chip sales
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia) (lean-left): US Treasury chief calls for outsider to lead embattled tech firm Nvidia
-- [Fox Business](https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo) (lean-right): Bessent calls for Nvidia leadership shake-up amid China chip scandal, urges outside CEO
-- [The Hill](https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/) (center): Crawford: It’s ‘premature’ to place blame on Lutnick for Nvidia chip sales
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4804325/bessent-nvidia-go-outside-company-next-ceo/) (lean-right): Bessent: Nvidia should ‘go outside the company’ for next CEO
-
-
-## 2. Petition and tech figures push for Jensen Huang's return as Nvidia CEO
-`AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 2 · R 1)
-
-An online 'Stand with Jensen' petition has gathered more than 150,000 to 160,000 signatures calling for Huang to be reinstated or given a fair process. Backers include Elon Musk and Tim Sweeney, among others. The Financial Times reports Huang has discussed a comeback with allies, one of whom plans a lobbying 'war room' and would seek White House support. Investors Brad Gerstner and Gavin Baker urged the board to consider all options. Hurdles remain, including the board's ongoing investigation and planned congressional inquiries, and some critics argue his conduct warranted removal.
+A 'Stand with Jensen' petition calling for Nvidia's board to reinstate former CEO Jensen Huang has gathered roughly 150,000 to 175,000 signatures, depending on the report. Backers include Elon Musk, Garry Tan, Tim Sweeney and Travis Kalanick. Huang resigned last week after reports of extramarital affairs, including one with Alice Huang, a woman US officials suspect of ties to Chinese intelligence, and another reportedly with a subordinate executive. The Financial Times reported that Huang has discussed a comeback with confidants and that an ally is organising a 'war room' to lobby the board and seek White House support. The board is running an independent investigation and searching for a successor, with finance chief Colette Kress serving as interim CEO.
 
 **Key facts**
-- The petition site says signers' affiliations are self-reported and unverified.
-- Huang co-founded Nvidia in 1993 and resigned as president, CEO and board member last week.
-- Megaspeed says Alice Huang left the company effective August 30, 2025.
-- A Financial Times source quoted one ally saying, 'Having an affair with a subordinate is a fireable offense.'
+- Huang co-founded Nvidia in 1993 and resigned as president, CEO and board member last Thursday.
+- Colette Kress, Nvidia's longtime finance chief, is interim CEO.
+- The petition says signers' affiliations are self-reported and not verified, and organisers said they were removing fraudulent entries.
+- Investors Brad Gerstner and Gavin Baker asked the board for a 'slow, measured and deliberate process' that keeps Huang's return as an option.
+- Treasury Secretary Scott Bessent has called for Nvidia to hire its next CEO from outside the company.
 
 **How it's being framed**
-- **Left:** The Verge questioned how authentic the signatures are, citing joke entries such as 'Xi Jingping.' It quoted Anne Wojcicki on power and corruption and noted Bloomberg reporting that many women in Silicon Valley see the case as an abuse of power.
-- **Center:** CNBC detailed the support from executives, employees and investors while noting the significant obstacles to a return. TechCrunch's podcast discussed how quickly Huang's support crumbled, Nvidia's lack of a succession plan, and the effects on the wider AI economy.
-- **Right:** Fox Business led with the comeback effort and the 'war room.' It quoted at length the supporters' arguments about 'due process, not mob justice' and Steve Chen's statement on Huang as a Taiwanese American role model.
+- **Left:** Al Jazeera gave an explainer focused on why Silicon Valley backs Huang. It quoted Musk's warning that 'handshake' deals could be lost, the investor open letter, and the petition's statement that no evidence has been shown that the woman was a spy. The Guardian focused on Megaspeed, its denial of wrongdoing, its thin physical presence overseas, and the investigations into it in Singapore, Malaysia and Taiwan.
+- **Center:** CNBC and the BBC centred on the size of the campaign and its prominent signatories, including employee testimonials. Both also stressed the obstacles: the board probe, congressional and FBI investigations, and Bessent's call for an outside hire. The BBC reported its understanding that reinstatement is unlikely. Newsweek, in a tongue-in-cheek analysis, framed the saga as a fight inside the Trump administration over 'America First' chip policy, setting Bessent's restrictive approach against Lutnick's export-friendly one.
+- **Right:** Fox Business led with the FT report of Huang weighing a comeback and the 'war room'. It gave space to supporters' due-process arguments, including Kalanick's statement and an exclusive quote from YouTube co-founder Steve Chen saying he wants a fair process, not an endorsement of Huang's conduct. It also noted allies' worry that an affair with a subordinate is a 'fireable offense.'
 
 **Disputed or unclear**
-- Reported signature totals vary (over 150,000 versus over 160,000), and their authenticity is unverified.
-- How seriously Huang is pursuing a comeback rests on anonymous sourcing in the Financial Times.
-- Whether the board gave Huang a fair process is contested by his supporters.
+- Whether Alice Huang acted as a Chinese intelligence asset is unproven; Beijing denies it.
+- Signature counts vary between reports (150,000 to more than 175,000), and the signers' identities are not verified.
+- Whether Huang will actually seek reinstatement, and whether the White House would support it, is unclear.
+- Musk's claim that critical supply deals will be lost without Huang is unverified.
 
-**Why it matters:** The fight over Huang's future will shape leadership at one of the world's most valuable companies and tests how boards handle founder misconduct.
-
-**Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) (center): Tech world's calls for Jensen Huang to return to Nvidia are growing
-- [The Verge](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed) (lean-left): Jensen Huang might be plotting a return and more of the latest Nvidia drama
-- [Fox Business](https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report) (lean-right): Jensen Huang weighs Nvidia CEO comeback as ally plans ‘war room’: report
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/) (center): Is bad news for Jensen Huang also bad news for the AI industry?
-
-
-## 3. Trump and Duffy blame past administrations and Congress for FAA ground stop; Democrats point to unspent funds
-`US Headlines` · Covered by 5 outlets (L 2 · C 2 · R 1)
-
-After Friday's four-hour-plus nationwide FAA ground stop, President Trump blamed the Biden administration for an 'old and broken' air traffic system and urged Congress to provide more money 'FAST.' Transportation Secretary Sean Duffy blamed prior administrations and insufficient funding. He said the $12.5 billion Congress approved in 2025 cannot be used for new telecom architecture, software or towers, and the administration has requested $50 billion in emergency funding. Democrats argue the administration has not spent most of the existing money. Duffy attributed the outage to botched maintenance by contractor L3Harris during a copper-to-fiber conversion, the FAA says the root cause is still under investigation, and Duffy expects flights to return to normal by Monday.
-
-**Key facts**
-- The ground stop on Friday, Nov. 13 lasted more than four hours; the Guardian calls it the longest nationwide stop in 25 years.
-- Congress approved $12.5 billion for air traffic control in 2025; the White House and Duffy requested $50 billion more on Friday.
-- Reps. Larsen and Carson say $4.3 billion has been obligated and only $1 billion spent.
-- The investigation points to two sites: a radar site in Amarillo, Texas and a radio site in El Dorado, Arkansas.
-- L3Harris says it has completed more than 70% of the copper-to-fiber conversion and is supporting the FAA probe.
-
-**How it's being framed**
-- **Left:** The Guardian and NPR gave weight to Democratic rebuttals, including Sen. Van Hollen's remark that it's 'really rich' to blame Congress and the Larsen/Carson spending figures. The Guardian noted that Trump took two days to comment, and NPR detailed the technical cause and ongoing disruptions.
-- **Center:** CNBC led with Trump's first comments and his blame of Biden, adding the FAA's explanation and how rare such stops are. The Hill led with Duffy pinning the outage on a lack of funding from Congress.
-- **Right:** The Washington Examiner focused on Van Hollen pledging to support 'whatever level of money is necessary' on a bipartisan basis, framing it as a funding commitment while noting he rejected Duffy's blame.
-
-**Disputed or unclear**
-- The root cause is still under investigation; the FAA says contractor work 'may be related.'
-- Whether existing funds can be used for the needed upgrades is disputed between Duffy and Democrats.
-- Cancellation and delay counts differ by outlet and time of day (about 2,000 to 2,300 cancelled; 8,000 to 8,600 delayed).
-
-**Why it matters:** The outcome will shape whether Congress approves tens of billions more for air traffic control and how reliable US air travel is.
+**Why it matters:** Leadership of the world's dominant AI chipmaker affects markets, AI supply chains and US–China technology policy.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html) (center): Trump breaks silence about FAA nationwide ground stop, blames Biden administration
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag) (lean-left): Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage
-- [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4804232/van-hollen-funding-atc-system-duffy-ground-stop/) (lean-right): Van Hollen vows funding to fix air traffic control system, rejects Duffy blame
-- [The Hill](https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/) (center): Duffy pins ground stop on Congress’s lack of funding
-- [NPR](https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday) (lean-left): Flight disruptions expected to last into Monday
-
-
-## 4. Megaspeed says Alice Huang left in 2025 and launches internal probe; Jensen Huang to testify to Congress
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-Singapore-based Megaspeed, a major Nvidia customer, said Alice Huang left effective August 30, 2025 and has no current role. It called media assertions about its business 'not supported by verifiable evidence' and said it has hired outside counsel for an internal investigation. Critics, including the research group C4ADS and short seller Culper Research, have suggested she remained in control of the company. Singapore, Taiwan and Malaysia have taken action or opened probes, and Rep. John Moolenaar said Jensen Huang has agreed to testify behind closed doors to three House committees without subpoenas.
-
-**Key facts**
-- Megaspeed has bought nearly $5 billion in Nvidia chips and hardware over three years, per the Guardian.
-- Singapore investigated Megaspeed from February 2025, held Alice Huang's passport and barred her from re-entry.
-- Taiwan has also barred Alice Huang from re-entry, and Malaysia is investigating a Megaspeed subsidiary.
-- Bessent said several agencies wanted Megaspeed on the entity list 'for months' but 'Commerce has the pen.'
-
-**How it's being framed**
-- **Left:** The Guardian stressed Megaspeed's 'puzzling' corporate footprint, including empty offices and a rural Australian lottery shop as a registered address. It also cited the Culper Research claim that she was 'still our boss.' PBS (AP) focused on Megaspeed's statement and Bessent's view that whether she is a spy 'doesn't matter' compared with Nvidia's compliance culture.
-- **Center:** BBC paired Megaspeed's denial with C4ADS's claim that Alice Huang remained 'practically in control,' and reported Huang's agreement to testify. It also said the BBC understands his reinstatement is very unlikely while the company's investigations are ongoing.
-
-**Disputed or unclear**
-- Whether Alice Huang is a Chinese intelligence asset is alleged by unnamed US officials and denied by Beijing.
-- Her departure date is unclear: the BBC says she stepped down as director near the end of 2023, while Megaspeed gives August 2025.
-- Whether Megaspeed diverted chips to China is unproven; the company denies wrongdoing.
-- Dates for Huang's testimony are not yet set.
-
-**Why it matters:** The probes could reveal whether advanced US AI chips reached China despite export controls.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss) (center): Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+- [CNBC](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html) (center): The tech world's calls for Jensen Huang to return to Nvidia are growing
 - [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang) (lean-left): Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’
-- [PBS NewsHour](https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout) (lean-left): Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout
+- [Fox Business](https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report) (lean-right): Jensen Huang weighs Nvidia CEO comeback as ally plans ‘war room’: report
+- [Newsweek](https://www.newsweek.com/why-nvidia-war-over-america-first-12719151) (center): Why Nvidia Is a War Over 'America First'
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster) (lean-left): Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss) (center): Jensen Huang allies campaign to reinstate the former Nvidia boss
 
 
-## 5. NTSB says tanker's steering failed before it hit docked New Orleans riverboat; port sues owners
-· Covered by 6 outlets (L 3 · C 2 · R 1)
+## 2. South Korea warns against being sidelined at US–China–Russia summit
+`Asia Business & Politics` `Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-The NTSB said the tanker Atlantic Asphalt suffered a 'steering casualty' about two minutes before striking the docked riverboat American Heritage on Friday. The rudder stayed to starboard and the ship veered toward the east bank. Voyage data recorder audio captured whistles, radio warnings, anchor commands and emergency orders, and the riverboat capsized in about 22 minutes. Everyone aboard survived and 32 people were hospitalized. The Port of New Orleans sued the tanker's owner Nave Shipping and manager Thome Ship Management for at least $1 million, and a judge approved seizing the ship; four riverboat crew members filed a separate suit, and a preliminary NTSB report is due in about 30 days.
-
-**Key facts**
-- The NTSB says 140 passengers and 50 crew were aboard the American Heritage.
-- 32 people were hospitalized with no critical injuries; six remained in hospital as of Sunday.
-- The collision occurred around 12:28 p.m. Friday at the Thalia Street terminal.
-- Nave Shipping is a subsidiary of China State Shipbuilding Corporation, per the BBC.
-- The tanker sails under the Marshall Islands flag.
-
-**How it's being framed**
-- **Left:** NPR, PBS (AP) and the Guardian combined the NTSB timeline with the lawsuits and the cleanup. The Guardian added a survivor's account and the crew members' lawsuit, while NPR covered the fuel removal and river restrictions.
-- **Center:** BBC ran separate pieces on the port lawsuit, including its request to seize and sell the tanker and the Chinese state ownership of Nave Shipping, and on the NTSB findings.
-- **Right:** Fox News gave a detailed account of the NTSB timeline and rescue, including praise for the captain staying aboard until last. It framed the event much like other outlets, with an emphasis on the 'miracle' rescue.
-
-**Disputed or unclear**
-- What caused the steering failure is not yet known.
-- Passenger counts vary: the port authority cited about 129 passengers, while the NTSB says 140 passengers.
-- The fuel aboard is reported as 160,000 gallons by NPR and 16,000 gallons by Fox.
-- Negligence claims in the lawsuits are allegations.
-
-**Why it matters:** The findings will shape liability claims and safety rules for heavy ship traffic on the Mississippi.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss) (center): New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision
-- [NPR](https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship) (lean-left): New Orleans port sues owners of tanker involved in Mississippi crash
-- [Fox News](https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat) (right): NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss) (center): Steering failure preceded New Orleans cruise ship collision, says NTSB
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans) (lean-left): Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash) (lean-left): US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash
-
-
-## 6. Rollover crash briefly closes I-77 northbound in Huntersville
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
-
-A vehicle overturned on I-77 northbound near Exit 23 (Gilead Road) in Huntersville just after noon Sunday, shutting all northbound lanes. MEDIC said one person was taken to hospital with serious injuries. Lanes reopened around 2:20 p.m. The cause is under investigation.
+Ahead of Thursday's first trilateral summit between Donald Trump, Xi Jinping and Vladimir Putin in Shenzhen, South Korean officials and opposition lawmakers voiced concern that North Korea's nuclear program could be discussed without Seoul at the table. A senior Foreign Ministry official said the meeting 'must not become a second Yalta Conference' and that Seoul opposes any deal effectively recognising North Korea as a nuclear state. Opposition lawmaker Na Kyung-won accused the Lee Jae Myung administration of weakening trust in the US alliance. Separately, the summit's main US goal is a new nuclear arms deal, which China has long resisted.
 
 **Key facts**
-- The crash happened around noon Sunday, Nov. 15 near Exit 23.
-- One person was hospitalized with serious injuries.
-- Lanes reopened around 2:20 p.m.
+- The summit is set for Thursday in Shenzhen, on the sidelines of APEC.
+- New START, the treaty limiting US and Russian strategic nuclear weapons, lapsed in February.
+- Under New START, each side was capped at 1,550 deployed strategic warheads.
+- The US and Russia hold about 86% of the world's nuclear warheads.
 
 **How it's being framed**
-- **Center:** Local Charlotte TV stations gave straightforward traffic and injury updates with no differences in framing.
+- **Left:** Al Jazeera gave a background explainer on arms control history. It focused on why China resists joining a treaty, citing its smaller arsenal, and on the Trump administration's insistence that any new deal include Beijing.
+- **Center:** The Korea Herald focused on Seoul's fear of exclusion. It quoted government and opposition figures using the Yalta analogy and highlighted domestic criticism of President Lee's alliance management.
 
 **Disputed or unclear**
-- WSOC reported that two people were treated for injuries; other outlets mention only the one person hospitalized.
-- The cause of the crash is unknown.
+- Whether North Korea will actually be discussed at the summit is uncertain.
 
-**Why it matters:** It affected a major commuter route north of Charlotte.
+**Why it matters:** Any big-power understanding on nuclear arms could reshape security on the Korean Peninsula and beyond.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/rollover-crash-closes-all-lanes-i-77-huntersville/) (center): Rollover crash closes all lanes of I-77 northbound in Huntersville
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/crews-work-clean-up-i-777-after-overturned-vehicle-closes-northbound-lanes/Y54Z6R2N2RDUBGQSDZZHHSP4NQ/) (center): Crews work to clean up I-77 after overturned vehicle closes northbound lanes
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/huntersville/one-person-seriously-injured-after-rollover-crash-on-i-77-in-huntersville-medic/) (center): One person seriously injured after rollover crash on I-77 in Huntersville: Medic
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/crash-on-i-77-north-shuts-down-all-lanes-near-gilead-rd/275-c3d2cdc2-7411-41df-8f7f-8d5e58e3636b) (center): Crash on I-77 North shuts down all lanes near Gilead Rd.
+- [The Korea Herald](https://www.koreaherald.com/article/10938944) (center): Concerns grow over S. Korea’s role as US, China, Russia prepare for landmark summit
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia) (lean-left): Why is China resisting a nuclear treaty with the US and Russia?
 
 
-## 7. Deputy fatally shoots man who fired at him at South Carolina gun show
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 1 · R 1)
+## 3. Nearly 2,200 migrants reach Spain's Canary Islands in two days
+`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-A Lexington County deputy working security at the South Carolina Arms Collectors Association gun show at Jamil Temple was shot at around 1:30 p.m. Saturday, authorities said. The deputy returned fire, killing 34-year-old Telvin Pierre Portee of Columbia. The deputy was hospitalized and is in stable condition. What led to the shooting is unclear, and the South Carolina Law Enforcement Division is investigating.
+Spain's maritime rescue service said nearly 2,200 migrants arrived in the Canary Islands by boat over two days, most landing on El Hierro, an island of 12,000 people. Spain declared a migration emergency on the islands last Tuesday after a rise in arrivals, particularly from sub-Saharan Africa. The surge comes two weeks before Spain's early general election. Al Jazeera reported that the boats crossed from Senegal, while the AP said most boats on this route depart from Mauritania.
 
 **Key facts**
-- The shooting happened Nov. 14 around 1:30 p.m.
-- Portee, 34, died at the scene, according to the coroner.
-- Sunday's show was cancelled.
+- On one day, 1,324 people on 14 dinghies were assisted, close to the route's daily record of 1,461 set in 2020.
+- More than 13,000 of the roughly 28,000 sea arrivals to Spain from January through October landed in the Canaries.
+- Spain holds an early general election in two weeks.
 
 **How it's being framed**
-- **Center:** WBTV described the panic at the scene and the handoff of the investigation to SLED.
-- **Right:** The New York Post reported similar facts, adding that the deputy underwent surgery and the show was cancelled, with a headline describing Portee as a customer who fired first.
+- **Left:** Al Jazeera's short video report emphasised the dangers of the Atlantic route and migrants' hopes for a better future in Europe.
+- **Center:** The AP report, carried by The Korea Herald, gave official figures, the Red Cross response, the emergency declaration and the upcoming election, and noted the route is among the world's deadliest.
 
 **Disputed or unclear**
-- The motive and the events leading to the gunfire are unknown.
+- The reports differ on where the boats departed: Al Jazeera says Senegal, while AP says most boats on the route leave from Mauritania.
 
-**Why it matters:** It is a fatal officer-involved shooting at a public event, now under state investigation.
+**Why it matters:** The arrivals add pressure on Spain's migration policy just before a national election.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/deputy-kills-man-accused-shooting-him-during-gun-show/) (center): Deputy kills man accused of shooting at him during gun show
-- [New York Post](https://nypost.com/2026/11/15/us-news/deputy-working-security-at-south-carolina-gun-show-fatally-shoots-customer-who-shot-at-him/) (lean-right): Deputy working security at South Carolina gun show fatally shoots customer who fired at him
+- [The Korea Herald](https://www.koreaherald.com/article/10938541) (center): Nearly 2,200 migrants reach Canary Islands in 2 days, Spain says
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands) (lean-left): Over 2,000 people cross over from Senegal into Spain’s Canary Islands
 
 
-## 8. Apple launches health AI study app with OpenEvidence
+## 4. Panthers beat Saints 20-17 on last-second field goal to lead NFC South
+`Charlotte Local` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Ryan Fitzgerald kicked a 54-yard field goal as time expired to give the Carolina Panthers a 20-17 win in New Orleans and sole possession of first place in the NFC South. Chuba Hubbard ran for two touchdowns and gained 172 yards from scrimmage. Carolina won despite a franchise-record 17 penalties for 152 yards, and coach Dave Canales said the team must cut down on procedural mistakes. The Panthers host Baltimore next Sunday.
+
+**Key facts**
+- Final score: Panthers 20, Saints 17.
+- A 30-yard pass interference penalty set up the winning kick with 21 seconds left.
+- Carolina is 4-5; New Orleans is 3-6.
+- Carolina committed 17 penalties for 152 yards, a franchise record.
+
+**How it's being framed**
+- **Left:** WFAE kept it brief, centring on the division lead and the record penalty total, with quotes from Canales.
+- **Center:** WSOC carried a detailed AP game recap with play-by-play, statistics and injury notes.
+
+**Why it matters:** The win puts Carolina atop its division at midseason.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/hubbard-helps-panthers-top-saints-20-17-retain-first-place-nfc-south/JJAJEXX6LJFM5JIUVHHAQUDEU4/) (center): Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South
+- [WFAE (Charlotte NPR)](https://www.wfae.org/sports/2026-11-16/panthers-take-nfc-south-lead-despite-record-penalty-total) (lean-left): Panthers take NFC South lead despite record penalty total
+
+
+## 5. 12-year-old dies after house fire in Kannapolis
+`Charlotte Local` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+A 12-year-old died Saturday evening after being rescued from a house fire on Polo Avenue in Kannapolis that started around 1 p.m. Firefighters gave the child CPR, and the child was taken to a burn center. A second victim remains hospitalised. The cause is under investigation, and officials have not released the child's identity.
+
+**Key facts**
+- The fire started around 1 p.m. Saturday on Polo Avenue.
+- One other person was injured and remains hospitalised.
+- The cause of the fire is under investigation.
+
+**How it's being framed**
+- **Left:** WFAE gave a short factual report, citing WBTV.
+- **Center:** WSOC focused on the community's grief, quoting neighbours who saw the rescue attempt.
+
+**Disputed or unclear**
+- The cause of the fire has not been determined.
+
+**Why it matters:** It is a local tragedy, and an investigation into the cause is ongoing.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/tragic-community-mourns-12-year-old-after-fatal-house-fire-kannapolis/TP3655RN2FD3PBAXLL3IRT6TBQ/) (center): ‘Really tough’: Community mourns 12-year-old after fatal house fire in Kannapolis
+- [WFAE (Charlotte NPR)](https://www.wfae.org/crime-justice/2026-11-16/child-dies-after-house-fire-in-kannapolis) (lean-left): Child dies after house fire in Kannapolis
+
+
+## 6. Coles investigates cybersecurity incident, says no evidence data was taken
 `AI & Cybersecurity` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-Apple and OpenEvidence launched a US study app in which participants ask health questions and rate answers grounded in clinical sources such as NEJM and JAMA. Apple aims to enrol up to 200,000 adults aged 21 and over for more than 12 months. Participants can choose to share HealthKit data to personalise answers. Apple says data will be anonymised and not used to train AI models.
+Coles, Australia's second-largest retailer, said it is investigating a cyber security incident with the Australian Cyber Security Centre and outside experts. The company said it has found no evidence that customer, employee or supplier data was compromised, and that stores and online shopping are operating normally. It urged customers to watch for scam messages and to use unique passwords. Separately, Woolworths said it is looking into reports of compromised e-gift cards.
 
 **Key facts**
-- Up to 200,000 participants; US only; ages 21 and older; requires iOS 26 or later.
-- TechCrunch reports OpenEvidence deletes query data after 24 hours.
-- Sumbul Desai of Apple said the study reflects 'scientific rigor and clinical grounding.'
+- Coles employs over 115,000 people and runs more than 1,800 outlets.
+- Coles said no evidence of data theft has been found so far.
+- Coles noted Liquorland click-and-collect issues affecting a small number of customers, without linking them to the incident.
+- Some Woolworths customers reported losing up to $500 on e-gift cards.
 
 **How it's being framed**
-- **Left:** The Verge focused on how the study works and on privacy, noting the app is not integrated with Siri or Apple Intelligence.
-- **Center:** TechCrunch placed it in the context of competition with OpenAI and Anthropic in health chatbots and noted the scale of health queries.
+- **Left:** The Guardian highlighted Coles' apology to customers and paired the story with the unrelated Woolworths gift card problem.
+- **Center:** BleepingComputer gave technical context, noting that Coles has not said when it found the incident, whether there was a ransom demand, or whether any group has claimed the attack.
 
 **Disputed or unclear**
-- Device requirements conflict: TechCrunch says iPhone 15 or later with Apple Intelligence enabled, while The Verge says iPhone 15 Pro and that the app doesn't use Apple Intelligence.
-- It is unclear whether Apple plans to bring these features to Siri or the Health app.
+- It is not yet known whether any data was stolen, when the attack began, or who is responsible.
 
-**Why it matters:** It signals how a major tech company may approach consumer health AI.
-
-**Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/) (center): Apple launches new app to study how people use AI for health
-- [The Verge](https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools) (lean-left): Apple’s new study looks to improve the effectiveness of AI health tools
-
-
-## 9. South Korea's Lee heads to ASEAN and APEC summits, with talks planned with Japan's Takaichi
-`Korea` `Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-President Lee Jae Myung leaves Monday on a four-day trip to the ASEAN summit in Manila and the APEC summit in Shenzhen, China. He plans bilateral talks with the leaders of Thailand and the Philippines and a Tuesday summit with Japanese Prime Minister Sanae Takaichi. He will also seek support for Seoul's peaceful coexistence policy toward North Korea.
-
-**Key facts**
-- APEC will be held in Shenzhen on Wednesday and Thursday, including a dinner hosted by Xi Jinping.
-- This will be the fourth Lee-Takaichi summit; they last met in May in Andong.
-- Lee cited negotiations to upgrade the Korea-ASEAN free trade agreement.
-
-**How it's being framed**
-- **Center:** Korean outlets relayed the government's itinerary and goals, largely drawing on official statements.
-
-**Why it matters:** The meetings could affect regional trade, North Korea policy and Korea-Japan ties.
+**Why it matters:** Millions of Australian shoppers and Flybuys members could be affected if data turns out to have been exposed.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10938154) (center): Lee set to depart for ASEAN, APEC summits in Manila, Shenzhen
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261116001100315) (center): S. Korea's Lee, Japan's Takaichi to hold summit on sidelines of ASEAN gathering
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/) (center): Australian retail giant Coles investigates cybersecurity incident
+- [The Guardian (World)](https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data) (lean-left): Coles investigates cyber-attack and apologises to customers
 
 
-## 10. South Korea forms emergency team against AI cheating ahead of college entrance exam
-`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 7. Sen. Cantwell accuses Commerce Department of failing to stop AI chip flows to China
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-Prime Minister Han Seong-sook pledged to mobilise 'all national capabilities' against AI cheating on the College Scholastic Ability Test, which is three days away. Her pledge followed the top scorer on the certified tax accountant exam admitting he cheated using a miniature camera, a smartphone and generative AI. The government will set up an interagency emergency response team and look into AI-based detection tools. Han also ordered measures for other state exams.
+Sen. Maria Cantwell, the top Democrat on the Senate commerce committee, wrote to Commerce Secretary Howard Lutnick alleging his department failed to enforce export controls and let advanced AI chips reach China. She cited the department's reported failure to act on warnings about Megaspeed. She also raised possible conflicts of interest involving Cantor Fitzgerald, which she said held $1.2 billion in Nvidia stock when Lutnick was nominated, and the administration's 25% fee on certain Nvidia chip sales to China. The Commerce Department did not immediately respond. Lutnick has agreed to testify before the Senate banking committee in December.
 
 **Key facts**
-- The tax exam top scorer confessed on Sunday and said he used the same method on a CPA exam.
-- Han said results showing 'abnormal signs' will be reviewed even after the exam.
+- The letter was sent Sunday, ahead of the Trump–Xi meeting this week.
+- Senate banking committee chair Tim Scott (R) summoned Huang and Lutnick to testify in December.
+- A Nov. 9 New York Times report alleged Commerce may have slow-walked its Megaspeed investigation.
+- Democrats take control of both chambers of Congress in January.
 
 **How it's being framed**
-- **Center:** Yonhap and the Korea Herald carried the same wire report, focused on the government's response.
+- **Left:** The Verge quoted Cantwell's charges at length, including her criticism over Alibaba and ByteDance access to chips. It contrasted them with a Wall Street Journal report that Lutnick plans to name Nvidia and others as AI 'national champions' with faster export approvals.
+- **Center:** CNBC presented the letter alongside bipartisan pressure on Commerce, the scheduled hearings, and Democratic document-preservation demands, and noted Lutnick's close relationship with Huang.
 
 **Disputed or unclear**
-- How widespread AI-assisted cheating is remains unknown.
+- Cantwell's allegations of enforcement failures and conflicts of interest have not been answered by Commerce.
+- The planned 'national champion' initiative is reported by the WSJ but not confirmed.
 
-**Why it matters:** It shows how AI is challenging the integrity of high-stakes exams.
+**Why it matters:** How the US enforces chip export controls bears directly on the AI race with China.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261116002151315) (center): (LEAD) PM vows to mobilize all national capabilities to prevent AI cheating on college entrance exam
-- [The Korea Herald](https://www.koreaherald.com/article/10938149) (center): PM vows to mobilize all national capabilities to prevent AI cheating on college entrance exam
+- [CNBC](https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html) (center): Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting
+- [The Verge](https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick) (lean-left): Senator slams Commerce Secretary for flow of Nvidia AI chips to China
+
+
+## 8. Trump, Xi and Putin to hold first trilateral summit in Shenzhen
+`Asia Business & Politics` `US Headlines` `AI & Cybersecurity` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+China confirmed that Xi Jinping, Donald Trump and Vladimir Putin will meet Thursday on the sidelines of APEC in Shenzhen. A Chinese foreign ministry spokeswoman said they will discuss 'world peace' and strategic stability. US officials said Trump wants to discuss reducing nuclear arsenals and the Iran war but not Ukraine, and a White House official said no denuclearization agreement is expected. Trump will first attend the ASEAN summit in Manila.
+
+**Key facts**
+- The meeting is set for Thursday, Nov. 19, in Shenzhen.
+- China's spokeswoman Mao Ning called the meeting of 'ground-breaking significance.'
+- A White House official called the trilateral an 'entry point' and said no agreement is expected.
+- China has long said the US and Russia should cut their arsenals before it joins talks.
+
+**How it's being framed**
+- **Left:** NPR framed the trip in light of Republican midterm losses and the Nvidia fallout, which it said could weaken Trump's hand. It quoted analyst Edgard Kagan on China's reluctance and noted that Elon Musk is joining Trump.
+- **Center:** CNA led with Beijing's framing of the talks and noted German President Steinmeier's account of Xi's 'irritation' at the idea of discussing Ukraine.
+
+**Disputed or unclear**
+- The agenda remains uncertain, especially whether nuclear issues will be substantively discussed.
+
+**Why it matters:** It is the first meeting of the three largest nuclear powers' leaders, at a time when no treaty limits nuclear arsenals.
+
+**Read it yourself:**
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/donald-trump-xi-jinping-vladimir-putin-china-meeting-6553826) (center): China says Xi, Trump, Putin to discuss 'world peace' in trilateral meeting
+- [NPR](https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia) (lean-left): Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout
+
+
+## 9. Houthis advance toward Aden as Yemeni government forces redeploy
+`Korea` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+Saudi-backed Southern Armed Forces said they were withdrawing from the Bab al-Mandab area near the Red Sea to reinforce Yemen's interim capital, Aden. Sources told AFP the Houthis are about 60 km from the city. The Houthis said they took over the evacuated territory and also released 600 detained government fighters, according to the ICRC. The UN says nearly 330,000 people have been displaced since fighting escalated after a truce collapsed in July.
+
+**Key facts**
+- Houthi forces are about 60 km from Aden, according to AFP sources.
+- A Houthi missile attack on a checkpoint in Lahj province killed eight people, according to AFP sources.
+- The Houthis released 600 government fighters, per the ICRC.
+- The UN says more than 60% of documented civilian casualties since August have been women and children.
+
+**How it's being framed**
+- **Center:** All three outlets (The Korea Herald via AFP, the BBC and DW) reported the advance and the withdrawal in similar terms. The BBC added context on oil prices and UN humanitarian concerns. DW noted the siege of Taiz and an unconfirmed Houthi claim of an attack on Riyadh.
+
+**Disputed or unclear**
+- The death toll from the Oct. 15 palace attack is reported as four (AFP) or five (BBC).
+- The Houthi claim of attacking Riyadh is unconfirmed by Saudi Arabia.
+
+**Why it matters:** Control of the Bab al-Mandab Strait affects global shipping and oil prices.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10938546) (center): Houthis advance on Aden as government bolsters city defenses
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss) (center): Yemeni forces retreat to defend port city from Houthis
+- [Deutsche Welle](https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf) (center): Yemen: Anti-Houthi forces pull back as rebels advance
+
+
+## 10. Megaspeed says Alice Huang left in 2025; Jensen Huang agrees to testify to House committees
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
+
+Singapore-based Megaspeed, a major Nvidia customer, said Alice Huang left her executive role on Aug. 30, 2025. It called media assertions about its business unsupported by verifiable evidence and said it hired outside counsel for an internal investigation. Washington-based group C4ADS has said she remained 'practically in control' of the company. Rep. John Moolenaar said Jensen Huang agreed to testify behind closed doors before three House committees without subpoenas. Singapore barred Alice Huang from re-entering the country after finding she gave inaccurate information to investigators.
+
+**Key facts**
+- Megaspeed says Alice Huang left Aug. 30, 2025.
+- Singapore held her passport for about eight months and is investigating Megaspeed over suspected false declarations.
+- Beijing called the spying allegations 'entirely groundless.'
+- Colette Kress will present Nvidia's results on Nov. 17.
+
+**How it's being framed**
+- **Left:** Al Jazeera centred on Megaspeed's statement, Beijing's denial, and Singapore's investigation, and noted that Alice Huang has not commented.
+- **Center:** The BBC paired Megaspeed's statement with C4ADS's contrary account, Moolenaar's testimony announcement, and Bessent's criticism of Commerce.
+
+**Disputed or unclear**
+- Reports differ on when and whether Alice Huang truly left: Megaspeed says August 2025, C4ADS says she stepped down as director in late 2023 but stayed in practical control, and a short seller quoted an employee calling her 'still our boss.'
+- The espionage allegations are unproven.
+
+**Why it matters:** The case tests whether US export controls on AI chips are being circumvented.
+
+**Read it yourself:**
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss) (center): Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/16/megaspeed-firm-at-centre-of-nvidia-scandal-says-alice-huang-left-in-2025) (lean-left): Megaspeed, firm at centre of Nvidia scandal, says Alice Huang left in 2025
 
 
 ---
@@ -289,4 +271,4 @@ Prime Minister Han Seong-sook pledged to mobilise 'all national capabilities' ag
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles in this edition addressed AI regulation in the US or EU. The closest related item is the congressional push to tighten chip export controls in story s1.
+No articles in this edition address AI regulation in the US or EU directly. The only related item is AI chip export-control enforcement, covered in the Nvidia stories.

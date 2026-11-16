@@ -1,151 +1,146 @@
-# The Lighter Brief: Evening edition
-_Sunday, November 15, 2026 · 9:26 PM EST · 173 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Morning edition
+_Monday, November 16, 2026 · 7:05 AM EST · 151 articles from 23 outlets · summaries by Claude_
 
-> A fairly gentle Sunday: the Panthers grabbed a last-second win to stay atop their division, Akon and Eminem's 'Smack That' went Diamond, and Ludacris finally has a new Walk of Fame date. In Jamaica, the governing JLP held its annual conference amid a debate over hurricane relief, and in Charlotte a local restaurant handed out Thanksgiving turkey money.
+> A gentle mix today: Charlotte gets a crisp, sunny week that warms toward the 70s, Grammy nominations are rolling out, and Flo Rida helped fill Thanksgiving baskets in Miami Gardens. From Jamaica there's a proud honour roll, a debate over foreign policy, and an audit on hurricane relief heading to Parliament.
 
 
 
 ---
 
-## 1. I-77 North in Huntersville Reopened After Rollover Crash
-`Charlotte` · Covered by 4 outlets
-
-A rollover crash near Exit 23 (Gilead Road) closed all northbound lanes of I-77 around noon Sunday. One person was taken to the hospital with serious injuries. The lanes reopened around 2:20 p.m.
-
-**Key facts**
-- Location: I-77 North near Exit 23, Gilead Road
-- Lanes reopened around 2:20 p.m.
-- Cause not yet known
-
-**Worth knowing:** If you drive I-77 through Huntersville, traffic is moving again.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/15/rollover-crash-closes-all-lanes-i-77-huntersville/): Rollover crash closes all lanes of I-77 northbound in Huntersville
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/crews-work-clean-up-i-777-after-overturned-vehicle-closes-northbound-lanes/Y54Z6R2N2RDUBGQSDZZHHSP4NQ/): Crews work to clean up I-77 after overturned vehicle closes northbound lanes
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/huntersville/one-person-seriously-injured-after-rollover-crash-on-i-77-in-huntersville-medic/): One person seriously injured after rollover crash on I-77 in Huntersville: Medic
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/crash-on-i-77-north-shuts-down-all-lanes-near-gilead-rd/275-c3d2cdc2-7411-41df-8f7f-8d5e58e3636b): Crash on I-77 North shuts down all lanes near Gilead Rd.
-
-
-## 2. Jamaica's League Leaders Tru-Juice Go for Five Straight Wins
-`Jamaica` · Covered by 1 outlet
-
-Tru-Juice FC, top of the Jamaica Premier League, faced third-place Racing United on Sunday at Ferdie Neita Park while chasing a fifth straight win. Tyrone Mullings leads the league with eight goals and was facing his old club. Several other matches were also on Sunday's schedule.
-
-**Key facts**
-- Tru-Juice have conceded just two goals in a five-game unbeaten run
-- Mullings and Daniel Roberts have scored 12 of the team's 18 goals
-- Arnett Gardens' Giovanni Taylor has seven goals
-
-**Worth knowing:** A top-of-the-table matchup between two of the league's highest-scoring teams.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/15/racing-vs-tru-juice-legend-jpl/): Tru-Juice seek fifth straight win against Racing United
-
-
-## 3. Jamaica's PM Pushes Back on Hurricane Relief Criticism
-`Jamaica` · Covered by 1 outlet
-
-At the JLP's 83rd annual conference, Prime Minister Andrew Holness urged supporters to push back against what he called lies about how Hurricane Melissa relief has been handed out. He also said he himself is not satisfied with how fast aid has reached people. The government has been in a public back-and-forth with dancehall artist Beenie Man, who has questioned where donations went and released a song called 'Weh di money deh.'
-
-**Key facts**
-- The conference was a delegates-only event in Montego Bay
-- Holness floated a database where people could look up who received aid
-- Justice Minister Delroy Chuck said last week the government had not explained relief allocation well enough
-
-**Worth knowing:** How hurricane relief reaches people is a live public question in Jamaica, and both sides are pressing for clearer answers.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/15/holness-urges-labourites-push-back-lies-misinformation/): Holness urges labourites to push back against ‘lies and misinformation’
-
-
-## 4. Panthers Beat the Saints on a Last-Second Field Goal
+## 1. Charlotte: Chilly Mornings, Sunny Days, Warmer Weekend
 `Charlotte` · Covered by 2 outlets
 
-Ryan Fitzgerald hit a 54-yard field goal as time ran out to give the Carolina Panthers a 20-17 win in New Orleans. Chuba Hubbard was the star, with 172 total yards and two rushing touchdowns. The win keeps Carolina in first place in the NFC South, even though the team committed 17 penalties.
+The Carolinas are in for a dry, sunny week. Mornings start frosty, but afternoons are comfortable, and a warming trend kicks in Thursday. Next weekend looks mild and pleasant.
 
 **Key facts**
-- Final score: Panthers 20, Saints 17
-- Hubbard: 92 rushing yards, 80 receiving yards, 2 TDs
-- Panthers are now 4-5; Saints are 3-6
-- Panthers host Baltimore next Sunday
+- Overnight lows in the 20s and 30s early in the week
+- Highs in the 60s Tuesday and Wednesday
+- Upper 60s to low 70s from Thursday through the weekend
 
-**Worth knowing:** A walk-off kick for first place is a fun way to end a Sunday if you're a Carolina fan.
+**Worth knowing:** Keep the coat handy for mornings, but it's a great week for getting outside in the afternoons.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/hubbard-helps-panthers-top-saints-20-17-retain-first-place-nfc-south/JJAJEXX6LJFM5JIUVHHAQUDEU4/): Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South
-- [Queen City News (FOX 46)](https://www.qcnews.com/nfl/carolina-panthers/hubbard-helps-the-panthers-top-the-saints-20-17-and-retain-first-place-in-the-nfc-south/): Hubbard helps the Panthers top the Saints, 20-17, and retain first place in the NFC South
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/14/first-alert-freezing-temperatures-ahead-before-warmup-carolinas/): First Alert: Tracking a cold but sunny start to the week in the Carolinas
+- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/frosty-start-sunny-finish-charlottes-quiet-stretch-of-fall-weather-continues/): Frosty start, sunny finish: Charlotte's quiet stretch of Fall weather continues
 
 
-## 5. About 6,000 Delegates Gather for JLP Conference
+## 2. Hurricane Melissa Relief Audit Heads to Jamaica's Parliament
 `Jamaica` · Covered by 1 outlet
 
-Members of the Jamaica Labour Party came to the Montego Bay Convention Centre for the party's 83rd annual conference. This year it was a scaled-back business meeting for delegates only.
+An Auditor General's report on how ODPEM and the Jamaica Constabulary Force handled donated goods after Hurricane Melissa is expected to be tabled in Parliament. It looks at whether controls were strong enough to prevent fraud and waste, including how donated Starlink devices were distributed.
 
 **Key facts**
-- About 6,000 delegates attended
-- Held at the Montego Bay Convention Centre, St James
-- 83rd annual conference
+- Report sent to Parliament on November 3 but not yet tabled
+- An earlier audit found only $26 million of $1.44 billion in cash donations (1.8%) had been spent on storm victims as of February 23, 2026
+- PM Holness says the government has spent about $84 billion on the overall response
 
-**Worth knowing:** This was the setting for the party's big announcements this weekend.
+**Worth knowing:** It's a public check on whether donations meant for hurricane survivors are being used well.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/15/watch-labourites-flock-montego-bay-jlps-83rd-annual-conference/): WATCH: Labourites flock to Montego Bay for JLP’s 83rd annual conference
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261116/odpem-jcf-under-scrutiny-melissa-relief-audit): ODPEM, JCF under scrutiny in Melissa relief audit
 
 
-## 6. JLP Creates $15 Million Fund for Hurricane-Hit Party Workers
+## 3. Holness Pitches a 'Jamaica First' Foreign Policy
 `Jamaica` · Covered by 1 outlet
 
-Holness announced that the Jamaica Labour Party will set up a $15 million fund to help party workers who are still recovering from Hurricane Melissa. The money will be divided by constituency, and people can be recommended to the party secretariat.
+At the JLP's 83rd annual conference in Montego Bay, PM Andrew Holness said Jamaica won't be tied to any single ideological bloc. The speech comes amid debate over Jamaica abstaining on a UN resolution calling for an end to the US embargo on Cuba. He said foreign policy should deliver practical results like jobs, investment, and border security.
 
 **Key facts**
-- $15 million fund from the party treasury
-- Split up by constituency
-- Available by the second week of January
+- Jamaica was one of three CARICOM countries to abstain on the October 28 UN vote
+- Trinidad and Tobago voted against the resolution
+- The US State Department praised the abstention; the opposition PNP has criticised the government's stance
 
-**Worth knowing:** It's extra recovery help for people still rebuilding after the hurricane.
+**Worth knowing:** It signals how Jamaica plans to handle relationships with bigger powers going forward.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/15/jlp-set-15-million-fund-assist-party-workers-affected-melissa-holness/): JLP set up $15 million fund to assist party workers affected by Melissa – Holness
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261116/jamaica-first-no-blind-loyalty-foreign-powers-holness-tells-labourites): JAMAICA FIRST - No blind loyalty to foreign powers, Holness tells Labourites
 
 
-## 7. Akon and Eminem's 'Smack That' Goes Diamond
-`Hip Hop & Celebrity` · Covered by 1 outlet
+## 4. Chinese Cars Are Catching On in Jamaica
+`Jamaica` · Covered by 1 outlet
 
-The RIAA has certified Akon's 2006 hit 'Smack That,' featuring Eminem, as Diamond, which means 10 million U.S. units. In the same update, Akon's 'I Wanna Love You' and 'Don't Matter' reached six-times Platinum. When it first came out, the song made a record jump on the Billboard Hot 100.
+China's ambassador, Wang Jinfeng, urged Chinese auto companies in Jamaica to hire and train more local engineers as their vehicles grow in popularity. A cut in import duties on newer electric vehicles has helped lower-priced Chinese EVs gain ground. He also pointed to solar power as a future area of cooperation.
 
 **Key facts**
-- Diamond award dated November 13, 2026
-- Diamond = 10 million U.S. units; 150 streams count as one download
-- In 2006 it jumped from No. 95 to No. 7 on the Hot 100, a record at the time
-- All three songs are from Akon's 2006 album Konvicted
+- Import duty on EVs three years old or less was cut from 30% to 10%
+- Jamaica imported US$133.16 million in vehicles and auto equipment from China in 2025
+- Brands include BYD, GWM, MG, Changan and others
+
+**Worth knowing:** More affordable EVs and potential local training jobs could be good news for Jamaican drivers and workers.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261116/wang-calls-skills-transfer-chinese-auto-brands-gain-ground-jamaica): Wang calls for skills transfer as Chinese auto brands gain ground in Jamaica
+
+
+## 5. Montego Bay Students Shine After a Tough Hurricane Year
+`Jamaica` · Covered by 1 outlet
+
+Montego Bay Community College named 112 students to its 2026 Principal's Honour Roll and handed out 35 scholarships and bursaries. The ceremony's theme, 'Rebuilding Stronger,' marked the college's recovery from Hurricane Melissa.
+
+**Key facts**
+- Top male student: Domar Hilton, IT, 3.70 GPA
+- Top female student: Kristen Jobson, pre-university science, 3.84 GPA
+- Lowell F. Hawthorne Foundation pledged US$8,000 to help affected students
+
+**Worth knowing:** A lovely reminder that students kept excelling through a really disruptive year.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261116/hilton-jobson-lead-mbccs-2026-academic-honours): Hilton, Jobson lead MBCC’s 2026 academic honours
+
+
+## 6. Matthews Holds Its First Pride in the Park
+`Charlotte` · Covered by 2 outlets
+
+The town of Matthews, NC, hosted its first Pride in the Park at Stumptown Park, with 50 vendors, food trucks and live music. The event raised money for a local LGBTQ+ nonprofit. Some protesters showed up to oppose the event, and there were tense moments between the two groups.
+
+**Key facts**
+- Held Sunday at Stumptown Park
+- Funds went to the Twirl to the World Foundation
+- Town Commissioner Brian Hacker called it a time for the community to come together
+
+**Worth knowing:** It's a new community event in town, and the response shows it's a topic people locally feel strongly about.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/first-ever-pride-park-held-stumptown-park-matthews/5CWIDFFD2VG5RJMA3NYRAP6HAE/): First-ever Pride in the Park held at Stumptown Park in Matthews
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/matthews/matthews-first-ever-pride-event-met-with-protests/): Matthews first-ever Pride event met with protests
+
+
+## 7. Flo Rida Helps Feed Miami Gardens Families for Thanksgiving
+`Hip Hop & Celebrity` `US Headlines` · Covered by 1 outlet
+
+Flo Rida backed his annual Thanksgiving food drive on November 14 at Studio 183 in Miami Gardens. Baskets with turkey, stuffing and more were meant to feed ten people each. He and his manager Freezy were also honored this fall in the Congressional Record for their community work.
+
+**Key facts**
+- Law firm Kelley | Uustal is supporting for a third straight year
+- Rep. Frederica Wilson's tribute was entered October 6
+- The pair co-founded Big Dreams for Kids, offering youth sports programs
 
 **Good to know**
-- Confirmed: the certification appears in the RIAA's official records.
+- Confirmed through partner announcements and local reporting; no disputes noted
 
-**Worth knowing:** A nice reminder that mid-2000s hits are still being played a lot, 20 years later.
+**Worth knowing:** A warm holiday story about a star giving back to his hometown community.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/akons-smack-that-with-eminem-earns-diamond-certification/): Akon’s “Smack That” With Eminem Earns Diamond Certification
+- [AllHipHop](https://allhiphop.com/news/flo-rida-backs-thanksgiving-food-drive-for-miami-gardens-families/): Flo Rida Backs Thanksgiving Food Drive For Miami Gardens Families
 
 
-## 8. Ludacris and Organized Noize Get a New Walk of Fame Date
-`Hip Hop & Celebrity` · Covered by 1 outlet
+## 8. Study Links Breastfeeding With Fewer Depressive Symptoms in Moms
+`Health & Medicine` · Covered by 1 outlet
 
-The Black Music & Entertainment Walk of Fame ceremony in Atlanta was postponed in June because FIFA-related fencing blocked the site. It now has a new date. Ludacris, Organized Noize, Davido and others will be inducted on February 11, 2027, during Black History Month.
+Researchers at the University of Sharjah looked at breastfeeding and maternal depressive symptoms in low- and middle-income countries in Africa and South Asia. They found breastfeeding was associated with fewer symptoms.
 
 **Key facts**
-- New ceremony date: February 11, 2027
-- Also honored: Davido, Bishop Paul S. Morton, Jack the Rapper and former Atlanta Mayor Maynard H. Jackson
-- Signia by Hilton Atlanta is the host hotel
-- Organized Noize produced hits like TLC's 'Waterfalls' and Outkast's 'So Fresh, So Clean'
+- Published in Discover Mental Health
+- Focused on selected countries in Africa and South Asia
 
 **Good to know**
-- Confirmed by an organizers' announcement dated November 13.
+- This shows an association, not proof that breastfeeding causes better mood
+- Only a brief summary was available, so study size and methods aren't detailed here
 
-**Worth knowing:** Atlanta music legends get their delayed moment, and it lands during Black History Month.
+**Worth knowing:** It adds to research on supporting new mothers' mental health.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/ludacris-organized-noize-get-new-walk-of-fame-date/): Ludacris & Organized Noize Get New Walk Of Fame Date
+- [Medical Xpress](https://medicalxpress.com/news/2026-11-breastfeeding-maternal-depressive-symptoms.html): Breastfeeding is associated with fewer maternal depressive symptoms, study finds
 
 
 ---
