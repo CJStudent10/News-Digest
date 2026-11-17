@@ -1,0 +1,420 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-17T00:32:11.913220+00:00",
+  "local_time": "Monday, November 16, 2026 · 7:32 PM EST",
+  "local_date": "Nov 16, 2026",
+  "slug": "2026-11-16-1932-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Air travel was the big theme this edition: after Friday's rare nationwide ground stop, flights are mostly back to normal, though a short United outage on Monday added a bump. Elsewhere, the Grammy nominations are out (reggae fans, take note), Charlotte's school district laid out a slow, survey-driven plan to pick its next superintendent, and one lucky shopper's checkout-line impulse buy paid off in a big way.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Charlotte travelers still sorting out the ground-stop aftermath",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte Douglas was still feeling the ripple effects on Monday from Friday's nationwide FAA ground stop, with some travelers rebooked several times and luggage scattered. Investigators are looking at a newly installed router at a radio facility in El Dorado, Arkansas, as one of two likely causes. Transportation Secretary Sean Duffy said the failure may have started during an upgrade of old equipment, and the FBI is helping look into it.",
+      "key_facts": [
+        "It was only the second nationwide ground stop since Sept. 11, 2001, and the longest in 25 years.",
+        "The FAA said more than 12,000 flights were canceled Friday; other outlets report different totals.",
+        "FlightAware showed 800+ delays and 270+ cancellations nationwide by Monday afternoon.",
+        "FAA administrator Bryan Bedford says affected passengers should be rebooked or get a full refund."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If your flight was affected, the FAA says you're owed either a new flight or a full refund.",
+      "coverage": {
+        "left": 0,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Passengers at Charlotte airport still reeling from FAA ground stop",
+          "url": "https://www.wsoctv.com/news/local/passengers-charlotte-airport-still-reeling-faa-ground-stop/DVRTKG4FXNC57L2JVDJJX5ENKY/",
+          "published": "2026-11-16T22:12:47+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What we know about what caused the FAA's nationwide ground stop",
+          "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
+          "published": "2026-11-16T19:30:04+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What to know about the Arkansas router that led to the FAA groundings",
+          "url": "https://thehill.com/policy/technology/6222677-faa-ground-stop-router/",
+          "published": "2026-11-16T17:23:03+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte airport sees continued delays, cancellations after nationwide ground stop",
+          "url": "https://www.qcnews.com/charlotte-airport/charlotte-airport-sees-continued-delays-cancellations-after-nationwide-ground-stop/",
+          "published": "2026-11-16T14:45:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "United hits a brief tech snag, then fixes it",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "United Airlines had a 'widespread system outage' Monday that held departing flights at the gate for roughly an hour to 90 minutes before it was resolved. Some pilots said it affected weight-and-balance calculations. The outage came the same day a JPMorgan Chase software bug caused online banking and Zelle delays.",
+      "key_facts": [
+        "United said flights already in the air and United Express flights were not affected.",
+        "United said there's no sign it was a cybersecurity issue; Chase also said its bug wasn't cyber-related.",
+        "Only one Charlotte flight, to Denver, was affected.",
+        "Charlotte had 310 delays and about 30 cancellations Monday, close to a normal day."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The cause of United's outage hasn't been explained yet."
+      ],
+      "why": "It was a quick fix, and Charlotte travel was largely back to normal by Monday.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "United Fixes Widespread System Outage Days After FAA Failure",
+          "url": "https://www.newsweek.com/united-working-hard-on-widespread-system-outage-days-after-faa-failure-12724256",
+          "published": "2026-11-16T22:15:35+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "How United Airlines outage impacted Charlotte airport on Monday",
+          "url": "https://www.wbtv.com/2026/11/17/how-united-airlines-outage-impacted-charlotte-airport-monday/",
+          "published": "2026-11-17T00:19:02+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "United Airlines resolves \"widespread system outage\" that delayed flights",
+          "url": "https://www.axios.com/2026/11/16/united-airlines-outage-faa",
+          "published": "2026-11-16T23:41:45+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "United Airlines says system outage resolved",
+          "url": "https://thehill.com/policy/transportation/6223837-united-airlines-resolves-tech-outage/",
+          "published": "2026-11-16T23:18:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Charlotte schools take it slow on picking a new superintendent",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "The Charlotte-Mecklenburg Schools search committee is planning a longer, more community-focused search, with a decision possibly coming in June 2027. Parents, students, staff and residents will get an online survey about what they want in a leader, plus spring town halls. Committee chair Anna London said the district needs to show it actually uses the feedback.",
+      "key_facts": [
+        "Former Superintendent Crystal Hill was terminated in September and received a $341,000 severance.",
+        "The 2023 search took about four months and cost about $60,000; no budget is set for this one.",
+        "Proposed steps: search firm picked in February, applications open in March, semifinalists May 24.",
+        "The committee meets again Nov. 30 to finalize the timeline and survey."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're in the district, you'll get a real chance to weigh in on who leads Charlotte's schools.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CMS search committee plans community surveys to rebuild public trust",
+          "url": "https://www.wsoctv.com/news/local/cms-search-committee-plans-community-surveys-rebuild-public-trust/EQKX4LV6UBCU7AUZ4535QWHCZQ/",
+          "published": "2026-11-16T22:02:24+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CMS search committee discusses timeline for naming next superintendent",
+          "url": "https://www.wbtv.com/2026/11/17/cms-search-committee-discusses-timeline-naming-next-superintendent/",
+          "published": "2026-11-17T00:19:27+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CMS search committee outlines timeline for next superintendent hire",
+          "url": "https://www.qcnews.com/news/charlotte-mecklenburg-schools/charlotte-mecklenburg-schools-to-discuss-superintendent-search-monday/",
+          "published": "2026-11-16T17:08:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "U.S. flights nearly back to normal after the big ground stop",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Air travel across the U.S. was close to normal on Monday after Friday's four-hour nationwide halt on takeoffs. Officials blamed aging equipment that became overloaded, and Transportation Secretary Sean Duffy is now asking Congress for $50 billion to modernize air traffic control. President Trump blamed old equipment and said he doesn't take responsibility, calling on Congress to fund upgrades.",
+      "key_facts": [
+        "The halt was lifted at 8:15 p.m. Friday after about four hours.",
+        "The Wall Street Journal reported old networking gear in Arkansas, and possibly Texas, overloaded and affected 17 of 22 major air control centers.",
+        "Total cancellations topped 17,000 by Sunday, per Bloomberg.",
+        "The FAA said some radio and radar feeds stayed working, so controllers could still track planes."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "How Congress responds to the funding request could shape air travel for years, and airlines say they're ready for the holiday rush.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US flights returning to normal levels after weekend of disruption",
+          "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-16T17:34:22+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US flights nearly back to normal after rare no take-off order",
+          "url": "https://www.jamaicaobserver.com/2026/11/16/us-flights-nearly-back-normal-rare-no-take-off-order/",
+          "published": "2026-11-16T23:42:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Two arrested in $196K email scam aimed at Ashe County hospital",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Ashe Memorial Hospital lost more than $196,000 after scammers posing as vendors emailed staff and asked them to change payment details. Investigators traced the money through banks in several states, and two men have been arrested and brought to North Carolina. A third person has been charged and is still being sought.",
+      "key_facts": [
+        "Themba Machila was arrested in Georgia and extradited Oct. 21.",
+        "Richard Folarin Eniola Shodolamu of Yonkers, N.Y., was extradited Nov. 9.",
+        "The SBI and West Jefferson Police are leading the case and expect more arrests."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are charges and allegations; the suspects have not been convicted."
+      ],
+      "why": "It's a good reminder: always double-check any email asking to change where payments go.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 arrested in alleged $196K fraud scheme targeting Ashe County hospital",
+          "url": "https://www.wbtv.com/2026/11/16/2-arrested-alleged-196k-fraud-scheme-targeting-ashe-county-hospital/",
+          "published": "2026-11-16T19:49:09+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ashe Memorial Hospital loses $196K in business email scam",
+          "url": "https://www.wsoctv.com/news/local/ashe-memorial-hospital-loses-196k-business-email-scam/HQXSJLTHGBA4XNDLV5UYGTAP6Q/",
+          "published": "2026-11-16T20:57:36+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2 men arrested in multi-state hospital fraud scheme that began in NC",
+          "url": "https://www.wcnc.com/article/news/crime/multi-state-hospital-fraud-scheme-arrests/275-cbb6dd6b-ea35-43a4-b751-99b53cbd9996",
+          "published": "2026-11-16T19:30:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "U.S. expected to lose its 'measles eliminated' status",
+      "topics": [
+        "Health & Medicine",
+        "Jamaica"
+      ],
+      "summary": "The U.S. is expected to lose its measles-elimination designation this week, which it earned in 2000, as cases keep spreading. 'Eliminated' doesn't mean zero cases; it means outbreaks end within a year, and that's no longer happening. Health experts point to falling vaccination rates.",
+      "key_facts": [
+        "5,182 confirmed U.S. cases so far in 2026, the most since 1991, per the CDC.",
+        "Almost all of this year's cases were in unvaccinated people.",
+        "A Pan American Health Organization expert panel made the recommendation; a news conference is set for Tuesday."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The panel's ruling was reported through anonymous sources; the PAHO director still has to make the final call.",
+        "HHS did not respond to a request for comment."
+      ],
+      "why": "The measles vaccine remains the main protection, so it's a good time to check that your family's shots are current.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US set to lose measles-free certification",
+          "url": "https://www.jamaicaobserver.com/2026/11/16/us-set-lose-measles-free-certification/",
+          "published": "2026-11-16T21:47:32+00:00"
+        },
+        {
+          "source": "Medical Xpress",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US set to lose measles-free certification",
+          "url": "https://medicalxpress.com/news/2026-11-measles-free-certification.html",
+          "published": "2026-11-16T21:20:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Trump heads to Asia; Democrats sort out leadership",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump left for Asia this week, starting at the ASEAN summit in the Philippines before heading to China for the APEC summit, including a three-way meeting with Xi Jinping and Vladimir Putin. Back home, Democrats, who take control of Congress in January, are deciding their leaders.",
+      "key_facts": [
+        "No one has challenged Rep. Hakeem Jeffries for House speaker so far.",
+        "Sen. Chris Van Hollen is challenging Chuck Schumer to lead Senate Democrats and needs 30 votes.",
+        "The Senate leadership vote is by secret ballot in a few weeks."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "These meetings and leadership picks will shape policy in the new year.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live updates: Trump en route to Asia; Nvidia scandal, national ground stop fallout loom large",
+          "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/",
+          "published": "2026-11-16T20:10:58+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+          "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+          "published": "2026-11-16T12:08:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Grammy nominations are out!",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "The Recording Academy announced nominees for the 69th Grammys across 100 categories, including five new ones like Best Asian Pop Music Performance and Best Traditional Folk Album. The show moves to ABC after 50 years on CBS and will stream on Disney+ and Hulu.",
+      "key_facts": [
+        "The ceremony is Feb. 7, 2027, at Crypto.com Arena in Los Angeles.",
+        "Best Rap Song nominees: Don Toliver, Cardi B, Doechii feat. SZA, T.I., and Yung Miami.",
+        "Beyoncé, Kehlani, Victoria Monét, Jill Scott and Tems are up for Best R&B Solo Performance.",
+        "A host hasn't been announced yet."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Plenty of new music to explore before the big night in February.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "VIBE",
+          "lean": "center",
+          "bucket": "center",
+          "title": "The 2027 Grammy Nominations Are Here",
+          "url": "https://www.vibe.com/music/music-news/grammy-nominations-2027-full-list-1235203118/",
+          "published": "2026-11-16T13:30:47+00:00"
+        },
+        {
+          "source": "XXL",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nominees for Best Rap Song at 2027 Grammy Awards",
+          "url": "https://www.xxlmag.com/best-rap-song-nominees-2027-grammy-awards/",
+          "published": "2026-11-16T13:58:04+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 21,
+    "right": 0
+  },
+  "stats": {
+    "articles": 279,
+    "stories_found": 239,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}
