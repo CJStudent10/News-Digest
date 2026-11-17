@@ -1,0 +1,399 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-17T23:41:54.608608+00:00",
+  "local_time": "Tuesday, November 17, 2026 · 6:41 PM EST",
+  "local_date": "Nov 17, 2026",
+  "slug": "2026-11-17-1841-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Today's mix runs from serious-but-useful health news (measles status, flu shots before Thanksgiving) to a big tech shake-up at Nvidia and a presidential trip through Asia. Locally, Charlotte settled a long-running protest lawsuit and a Mooresville school is still closed for mold cleanup. For the fun stuff: the West Coast's first-ever sea turtle hatchlings, a reconnected bridge in Jamaica, new music, and LL Cool J taking NCIS worldwide.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "The US has lost its 'measles eliminated' status",
+      "topics": [
+        "Health & Medicine"
+      ],
+      "summary": "The Pan American Health Organization says measles has spread continuously in the US for more than 12 months, so the country no longer counts as having eliminated it, a status it held for 26 years. Mexico and Bolivia lost the status too. Health experts link the comeback to falling vaccination rates. The CDC says it is working to win the status back by expanding vaccine access.",
+      "key_facts": [
+        "About 5,400 US measles cases this year, with 10 measles-related deaths",
+        "Kindergarten vaccination rates are at 92.4%, below the roughly 95% needed to prevent outbreaks",
+        "Two MMR doses are 97% effective against measles",
+        "Countries that lost the status must submit corrective action plans"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "HHS Secretary Robert F. Kennedy Jr. argues the rise began before he took office and notes that neighboring countries have also seen more cases; some experts say the federal response hasn't been strong enough",
+        "The MMR vaccine itself is long established and widely recommended; this news is about vaccination rates, not a new treatment"
+      ],
+      "why": "It's a good nudge to check that your family's MMR shots are up to date, and Canada's progress this year shows the status can be won back.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US loses measles elimination status after 26 years amid record case numbers",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T21:04:00+00:00"
+        },
+        {
+          "source": "NPR Health",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Health organization to announce that the U.S. has lost its measles elimination status",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status",
+          "published": "2026-11-17T09:46:43+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US officially a measles endemic country",
+          "url": "https://thehill.com/newsletters/healthcare/6226673-us-officially-a-measles-endemic-country/",
+          "published": "2026-11-17T23:12:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Ex-Nvidia boss Jensen Huang offers to return, but the board says no",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Jensen Huang, who resigned as Nvidia CEO on Nov. 12 after admitting personal misconduct, said he'd be 'honored' to come back if the board asked. Hours later, board chair Harvey Jones said the board unanimously accepted his resignation and doesn't intend to reinstate him. Huang is also set to answer questions from House committees about national security concerns.",
+      "key_facts": [
+        "Huang resigned Nov. 12; Colette Kress is interim CEO",
+        "Closed-door House committee sessions are scheduled for Dec. 1 and 2",
+        "Lawmakers also want answers on alleged chip smuggling and export-control evasion",
+        "Nvidia formed a new board committee to oversee national security and export compliance"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: Huang admitted being unfaithful to his wife and said he made 'serious mistakes'; the board says it won't reinstate him",
+        "Reported but not independently confirmed by NPR: ties to a woman US intelligence officials say was recruited by China's spy agency, and to an Nvidia executive",
+        "Beijing denies any involvement; Megaspeed says it does lawful business and is running an internal review",
+        "The board's independent investigation of his conduct is still ongoing"
+      ],
+      "why": "Nvidia is central to the AI boom, so its leadership and the congressional questions about chip exports matter well beyond Silicon Valley.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T18:24:21+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+          "published": "2026-11-17T17:36:31+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang says he'd be \"honored\" to return as Nvidia CEO",
+          "url": "https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings",
+          "published": "2026-11-17T17:06:41+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democratic lawmakers slam Huang statement on possible Nvidia return: ‘Slow your roll’",
+          "url": "https://thehill.com/business/6226369-democrats-oppose-huang-nvidia-return/",
+          "published": "2026-11-17T21:36:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Trump kicks off an Asia trip that ends with a Xi and Putin summit",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump arrived in Manila for the ASEAN summit, where a band played 'Y.M.C.A.' as he stepped off the plane. He met Quad partners India, Japan and Australia, and signed a trade deal with Thailand. Next he heads to Shenzhen, China, for first-ever three-way nuclear talks with Xi Jinping and Vladimir Putin, which some US allies are watching nervously.",
+      "key_facts": [
+        "The trip lasts three days and is his first abroad since the midterm elections",
+        "The US takes 24% of Thailand's exports",
+        "Southeast Asian exports to the US rose 30% last year thanks to the AI boom",
+        "The stated goal of the Xi-Putin meeting is to start nuclear disarmament talks"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A first-ever meeting of these three leaders on nuclear arms could shape global security and trade for years.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-17T20:25:46+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump arrives in Philippines to kick off Asia trip",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+          "published": "2026-11-17T10:43:55+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "U.S. allies on edge as Trump heads to summit with Xi and Putin",
+          "url": "https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried",
+          "published": "2026-11-17T10:10:10+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What Trump, Putin and Xi want from superpower summit",
+          "url": "https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/",
+          "published": "2026-11-17T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Flu came early this year, and there's still time to get a shot before Thanksgiving",
+      "topics": [
+        "Health & Medicine",
+        "US Headlines"
+      ],
+      "summary": "CDC tracking shows more flu than usual this fall. Experts say a flu shot takes about 10 days to work fully, so getting one now still covers Thanksgiving gatherings. Flu, COVID and RSV vaccines are widely available at pharmacies.",
+      "key_facts": [
+        "AAA expects about 82 million people to travel 50+ miles over Thanksgiving",
+        "The flu shot takes about 10 days to reach full strength",
+        "Seniors, young kids and people with health conditions are most at risk"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "These are established, widely available vaccines; a flu shot won't guarantee you avoid the flu, but it lowers your chance of ending up in the hospital"
+      ],
+      "why": "It's an easy, practical step to help you enjoy the holidays healthy.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Medical Xpress",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Flu shots: Timing for maximum protection",
+          "url": "https://medicalxpress.com/news/2026-11-flu-shots-maximum.html",
+          "published": "2026-11-17T21:00:05+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+          "published": "2026-11-17T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Charlotte approves a $1.7M settlement with 2020 protesters",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte City Council approved a $1.7 million settlement with 67 people who said police trapped them and used tear gas during a June 2, 2020 protest in Uptown. The city doesn't admit wrongdoing, but CMPD has changed its policies. One claimant said the settlement finally lets her start healing.",
+      "key_facts": [
+        "67 claimants will each get $25,746",
+        "The lawsuit was filed five years ago, and a Nov. 9 trial was canceled",
+        "CMPD no longer uses chemical munitions on peaceful protesters, and officers can't block designated exit routes"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It ends a long legal fight and puts lasting limits on how police handle peaceful protests.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte approves $1.7M settlement in 2020 protest lawsuit",
+          "url": "https://www.wbtv.com/2026/11/17/charlotte-approves-1725m-settlement-2020-protest-lawsuit/",
+          "published": "2026-11-17T22:59:15+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte City Council approves $1.7M settlement in CMPD kettling lawsuit",
+          "url": "https://www.wsoctv.com/news/local/charlotte-city-council-approves-17m-settlement-cmpd-kettling-lawsuit/VGCMKCLSFBFSTC4DXSOLESJRYQ/",
+          "published": "2026-11-17T23:16:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Mooresville elementary stays closed as the mold cleanup restarts",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Coddle Creek Elementary in Mooresville remains closed to students after new tests found higher mold levels, including toxic mold, despite earlier cleanups. The district approved a new cleanup contract, and parents pressed the school board for accountability at Monday's meeting.",
+      "key_facts": [
+        "The district was notified in July, and August testing found toxic mold",
+        "Black mold in the cafeteria measured 235, compared with zero outdoors",
+        "Officials say earlier remediation attempts weren't done correctly",
+        "No return date for students has been announced"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Local families are waiting to learn when kids can safely return to class.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Parents demand answers over mold concerns at Iredell County elementary school",
+          "url": "https://www.wsoctv.com/news/local/iredell-statesville-schools-approves-mold-removal-contract-coddle-creek-elementary/VEOWLEST2JBN3PLCXCF4J6RT5A/",
+          "published": "2026-11-17T22:16:13+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Mooresville school to remain closed for mold cleanup, district says",
+          "url": "https://www.wcnc.com/article/news/health/coddle-creek-elementary-school-remain-closed-mold-air-quality-concerns/275-20366f08-d307-474b-bd5d-930f8930f0ce",
+          "published": "2026-11-17T12:38:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Lady Songbird brings 'rooftop reggae' to a new EP",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Reggae singer Lady Songbird will release 'Queen of Hearts,' a five-track EP about love and growing up emotionally, in early January 2027. Made with European producer Mokart Beats, it mixes reggae with nightclub energy, and she hopes it lands her spots at European reggae festivals next summer.",
+      "key_facts": [
+        "Tracks: King and Queen, Give Thanks, Touched Your Heart, Tell the Truth, She Was the Star",
+        "She wrote all the lyrics and arranged the vocals",
+        "She's aiming for summer 2027 European festivals"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Fresh music with a feel-good message about moving on gracefully.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lady Songbird eyes European reggae festivals with new EP ‘Queen of Hearts’",
+          "url": "https://www.jamaicaobserver.com/2026/11/17/lady-songbird-eyes-european-reggae-festivals-new-ep-queen-hearts/",
+          "published": "2026-11-17T23:30:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "A Jamaican village gets its bridge back after Hurricane Melissa",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The Over River Bridge in St James, swept downriver by Hurricane Melissa's floodwaters, is open to traffic again. The National Works Agency put it back on its base and raised it higher to better withstand future floods. One resident reportedly hugged the bridge, saying, 'we miss you.'",
+      "key_facts": [
+        "Traffic resumed Monday evening",
+        "The work is about 95% finished, with road patching to come in a few days",
+        "Communities like Over River and Hurlock had faced long detours"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A sweet sign of recovery, with neighbors reconnected to their main road.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Over River Bridge back in use after Hurricane Melissa",
+          "url": "https://www.jamaicaobserver.com/2026/11/17/river-bridge-back-use-hurricane-melissa/",
+          "published": "2026-11-17T23:23:10+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 4,
+    "center": 15,
+    "right": 0
+  },
+  "stats": {
+    "articles": 287,
+    "stories_found": 234,
+    "sources_ok": 22,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News",
+      "Fierce Pharma"
+    ]
+  }
+}
