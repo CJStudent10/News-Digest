@@ -5,7 +5,7 @@ site_title: The Lighter Brief
 timezone: America/New_York
 style: light                    # friendly tone, no left/center/right panels, heavy stories left out
 
-lookback_hours: 14
+lookback_hours: 18              # covers the overnight gap between the two daily editions
 max_stories: 8
 max_articles_per_story: 4       # center-leaning outlets are picked first
 min_sources_per_story: 2

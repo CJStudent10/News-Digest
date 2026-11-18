@@ -100,5 +100,5 @@ def build_feed(digests: list[dict], site_title: str, subdir: str = "") -> str:
                      f"<pubDate>{pub}</pubDate><description>{escape(desc)}</description></item>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
             f"<title>{escape(site_title)}</title><link>{escape(base)}</link>"
-            "<description>A personal news brief, three times a day.</description>"
+            "<description>A personal news brief, twice a day.</description>"
             + "".join(items) + "</channel></rss>\n")

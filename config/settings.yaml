@@ -3,7 +3,7 @@
 site_title: My Daily Brief
 timezone: America/New_York      # used for edition names (Morning / Midday / Evening) and timestamps
 
-lookback_hours: 14              # only consider articles published in this window
+lookback_hours: 18              # covers the overnight gap between the two daily editions
 max_stories: 10                 # top stories per edition
 max_articles_per_story: 6       # links per story (picked to spread across left/center/right)
 min_sources_per_story: 2        # a general story needs this many outlets (topic matches are exempt)

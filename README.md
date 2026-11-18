@@ -3,7 +3,7 @@
 [![Build digest](../../actions/workflows/digest.yml/badge.svg)](../../actions/workflows/digest.yml)
 [![Tests](../../actions/workflows/tests.yml/badge.svg)](../../actions/workflows/tests.yml)
 
-A personal news brief that builds itself **three times a day**. It reads free, paywall-free outlets from across
+A personal news brief that builds itself **twice a day**. It reads free, paywall-free outlets from across
 the political spectrum, finds the stories several of them are covering, and writes a short, neutral brief for
 each one. Every brief shows **how the left, center and right framed the story** and links to every original
 article, so you can check the sources yourself.
@@ -139,10 +139,10 @@ so it costs a bit less).
 With Claude, each edition sends about 40-50K input tokens (8 stories × up to 6 articles) and gets back about
 5-10K. These are rough estimates; check your usage in the Anthropic Console after a few runs:
 
-| Model (`llm.model` in settings) | ≈ per edition | ≈ per month (3/day) |
+| Model (`llm.model` in settings) | ≈ per edition | ≈ per month (2/day) |
 |---|---|---|
-| `claude-opus-5-5` (default, best writing) | $0.30-0.40 | ~$30 |
-| `claude-sonnet-5-5` | $0.15-0.20 | ~$15 |
+| `claude-opus-5-5` (default, best writing) | $0.30-0.40 | ~$20 |
+| `claude-sonnet-5-5` | $0.15-0.20 | ~$10 |
 | `claude-haiku-5-5` | ~$0.01 | ~$1 |
 
 Lowering `max_stories`, `max_articles_per_story` or `full_text_chars`, or setting `effort: low`, also cuts cost.
