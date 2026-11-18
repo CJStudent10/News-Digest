@@ -1,167 +1,162 @@
 # The Lighter Brief: Evening edition
-_Tuesday, November 17, 2026 · 6:41 PM EST · 287 articles from 22 outlets · summaries by Claude_
+_Tuesday, November 17, 2026 · 10:54 PM EST · 300 articles from 23 outlets · summaries by Claude_
 
-> Today's mix runs from serious-but-useful health news (measles status, flu shots before Thanksgiving) to a big tech shake-up at Nvidia and a presidential trip through Asia. Locally, Charlotte settled a long-running protest lawsuit and a Mooresville school is still closed for mold cleanup. For the fun stuff: the West Coast's first-ever sea turtle hatchlings, a reconnected bridge in Jamaica, new music, and LL Cool J taking NCIS worldwide.
+> Big week for politics and a few surprises: Alaska's long vote count finally wrapped up, House Democrats are about to pick their leader, and Nvidia's board says no to bringing back its famous co-founder. On the lighter side, Charlotte lit its big holiday tree, Brazil's soccer team ran up the score, and the West Coast saw its first-ever sea turtle hatchlings head out to sea.
 
 
 
 ---
 
-## 1. The US has lost its 'measles eliminated' status
-`Health & Medicine` · Covered by 3 outlets
+## 1. Nvidia's Board Says No to Jensen Huang's Return
+`US Headlines` · Covered by 5 outlets
 
-The Pan American Health Organization says measles has spread continuously in the US for more than 12 months, so the country no longer counts as having eliminated it, a status it held for 26 years. Mexico and Bolivia lost the status too. Health experts link the comeback to falling vaccination rates. The CDC says it is working to win the status back by expanding vaccine access.
-
-**Key facts**
-- About 5,400 US measles cases this year, with 10 measles-related deaths
-- Kindergarten vaccination rates are at 92.4%, below the roughly 95% needed to prevent outbreaks
-- Two MMR doses are 97% effective against measles
-- Countries that lost the status must submit corrective action plans
-
-**Good to know**
-- HHS Secretary Robert F. Kennedy Jr. argues the rise began before he took office and notes that neighboring countries have also seen more cases; some experts say the federal response hasn't been strong enough
-- The MMR vaccine itself is long established and widely recommended; this news is about vaccination rates, not a new treatment
-
-**Worth knowing:** It's a good nudge to check that your family's MMR shots are up to date, and Canada's progress this year shows the status can be won back.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss): US loses measles elimination status after 26 years amid record case numbers
-- [NPR Health](https://www.npr.org/2026/11/17/nx-s1-6042892/health-organization-to-announce-that-the-u-s-has-lost-its-measles-elimination-status): Health organization to announce that the U.S. has lost its measles elimination status
-- [The Hill](https://thehill.com/newsletters/healthcare/6226673-us-officially-a-measles-endemic-country/): US officially a measles endemic country
-
-
-## 2. Ex-Nvidia boss Jensen Huang offers to return, but the board says no
-`US Headlines` · Covered by 4 outlets
-
-Jensen Huang, who resigned as Nvidia CEO on Nov. 12 after admitting personal misconduct, said he'd be 'honored' to come back if the board asked. Hours later, board chair Harvey Jones said the board unanimously accepted his resignation and doesn't intend to reinstate him. Huang is also set to answer questions from House committees about national security concerns.
+Former Nvidia CEO Jensen Huang said he'd be 'honored' to come back if the board wanted him, after some investors and Silicon Valley figures pushed for his return. Hours later, board chair Harvey Jones said the board unanimously accepted his resignation and doesn't plan to reinstate him. The news landed on the same day Nvidia reported record quarterly revenue.
 
 **Key facts**
-- Huang resigned Nov. 12; Colette Kress is interim CEO
-- Closed-door House committee sessions are scheduled for Dec. 1 and 2
-- Lawmakers also want answers on alleged chip smuggling and export-control evasion
-- Nvidia formed a new board committee to oversee national security and export compliance
+- Huang resigned Nov. 12 after disclosing personal conduct the company said broke its code of conduct; he had led Nvidia for 33 years.
+- Nvidia reported record quarterly revenue of $115.8 billion, up 103% from a year earlier.
+- CFO Colette Kress is serving as interim CEO; the board will consider internal and external candidates.
+- Huang and Nvidia's general counsel are set to answer questions in closed-door House committee sessions on Dec. 1 and 2.
 
 **Good to know**
-- Confirmed: Huang admitted being unfaithful to his wife and said he made 'serious mistakes'; the board says it won't reinstate him
-- Reported but not independently confirmed by NPR: ties to a woman US intelligence officials say was recruited by China's spy agency, and to an Nvidia executive
-- Beijing denies any involvement; Megaspeed says it does lawful business and is running an internal review
-- The board's independent investigation of his conduct is still ongoing
+- Confirmed: Huang resigned, acknowledged 'serious mistakes in my personal life,' and offered to return; the board said it won't reinstate him.
+- Reported but not independently confirmed by NPR: links to a woman U.S. intelligence officials say was recruited by China's spy agency, and to another woman who is an Nvidia executive.
+- Lawmakers' questions about alleged chip smuggling and export-control evasion are allegations under review; an independent board investigation is ongoing.
 
-**Worth knowing:** Nvidia is central to the AI boom, so its leadership and the congressional questions about chip exports matter well beyond Silicon Valley.
+**Worth knowing:** Nvidia makes many of the chips that power AI, so who leads it, and how it handles national security rules, matters well beyond Silicon Valley.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss): Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him
+- [Newsweek](https://www.newsweek.com/nvidia-shuts-door-on-jensen-huang-comeback-hours-after-he-offers-to-return-12730954): Nvidia Shuts Door on Jensen Huang Comeback Hours After He Offers to Return
 - [NPR](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress): Nvidia board says it does not intend to reinstate Jensen Huang as CEO
 - [Axios](https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings): Jensen Huang says he'd be "honored" to return as Nvidia CEO
 - [The Hill](https://thehill.com/business/6226369-democrats-oppose-huang-nvidia-return/): Democratic lawmakers slam Huang statement on possible Nvidia return: ‘Slow your roll’
 
 
-## 3. Trump kicks off an Asia trip that ends with a Xi and Putin summit
+## 2. Mary Peltola Wins Alaska's Senate Race
 `US Headlines` · Covered by 4 outlets
 
-President Trump arrived in Manila for the ASEAN summit, where a band played 'Y.M.C.A.' as he stepped off the plane. He met Quad partners India, Japan and Australia, and signed a trade deal with Thailand. Next he heads to Shenzhen, China, for first-ever three-way nuclear talks with Xi Jinping and Vladimir Putin, which some US allies are watching nervously.
+Democrat Mary Peltola has defeated two-term Republican Sen. Dan Sullivan, according to the Associated Press, after a count that ran for two weeks after Election Day. She'll be the first Alaska Native in the U.S. Senate and the first Democrat to win a Senate race in Alaska since 2008. She campaigned heavily on the high cost of living in rural Alaska and on protecting salmon. The result is still unofficial until the state certifies it.
 
 **Key facts**
-- The trip lasts three days and is his first abroad since the midterm elections
-- The US takes 24% of Thailand's exports
-- Southeast Asian exports to the US rose 30% last year thanks to the AI boom
-- The stated goal of the Xi-Putin meeting is to start nuclear disarmament talks
+- Peltola got about 50.1% of first-choice votes to Sullivan's 45.8%, so no ranked-choice tally was needed.
+- Her win brings Democrats to 56 Senate seats, counting two senators who caucus with them.
+- Alaska is targeting Nov. 25 to certify the result.
 
-**Worth knowing:** A first-ever meeting of these three leaders on nuclear arms could shape global security and trade for years.
+**Worth knowing:** It's a historic first for Alaska Native representation and rounds out a big shift in who controls the Senate.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss): Trump in Asia ahead of talks with Russian and Chinese presidents
-- [NPR](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines): Trump arrives in Philippines to kick off Asia trip
-- [Axios](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried): U.S. allies on edge as Trump heads to summit with Xi and Putin
-- [The Hill](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/): What Trump, Putin and Xi want from superpower summit
+- [Newsweek](https://www.newsweek.com/mary-peltola-wins-alaska-senate-election-in-final-democratic-flip-12638493): Mary Peltola Wins Alaska Senate Election in Final Democratic Flip
+- [NPR](https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan): Mary Peltola flips Alaska's Senate seat into Democrats' column
+- [Axios](https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola): Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave
+- [The Hill](https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/): Why an Alaska win by Peltola is so important to Democrats
 
 
-## 4. Flu came early this year, and there's still time to get a shot before Thanksgiving
-`Health & Medicine` `US Headlines` · Covered by 2 outlets
+## 3. Hakeem Jeffries Set to Be Picked for House Speaker
+`Jamaica` · Covered by 2 outlets
 
-CDC tracking shows more flu than usual this fall. Experts say a flu shot takes about 10 days to work fully, so getting one now still covers Thanksgiving gatherings. Flu, COVID and RSV vaccines are widely available at pharmacies.
+House Democrats are voting Wednesday on their nominee for speaker, and Hakeem Jeffries is expected to win easily with no declared challenger. If he's elected by the full House on Jan. 3, he'd be the first Black speaker in U.S. history. Some newly elected progressives have pushed back, and Jeffries asked for a recorded vote rather than approval by acclamation.
 
 **Key facts**
-- AAA expects about 82 million people to travel 50+ miles over Thanksgiving
-- The flu shot takes about 10 days to reach full strength
-- Seniors, young kids and people with health conditions are most at risk
+- Jeffries, 56, grew up in Brooklyn's Crown Heights and has been in Congress since 2012.
+- In 2022 he became the first Black politician to lead a party in either chamber of Congress.
+- The full House votes on the speaker when the new Congress convenes Jan. 3.
+
+**Worth knowing:** The speaker shapes what bills get a vote, and Jeffries says his focus will be on affordability.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/17/us-democrats-take-step-toward-first-black-house-speaker/): US Democrats take step toward first Black House speaker
+- [Axios](https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley): House Dems can't stand the speaker vote drama anymore
+
+
+## 4. White House Withdraws FDA Nominee Heidi Overton
+`Health & Medicine` `US Headlines` · Covered by 3 outlets
+
+The White House pulled Dr. Heidi Overton's nomination to lead the Food and Drug Administration just before a key Senate committee vote, citing a lack of support in Congress. Senators from both parties had raised questions after a tense September hearing. The FDA has been without a permanent leader since May.
+
+**Key facts**
+- Overton is a physician and deputy director of the White House Domestic Policy Council.
+- Republicans hold just a one-vote majority on the Senate health committee.
+- Kyle Diamantas has been interim FDA head since former commissioner Marty Makary left in May.
+- Citi analysts called the move a 'modest' negative, not a major near-term change for drug regulation.
+
+**Worth knowing:** The FDA oversees the safety of your medicines and food, so leadership there affects everyone.
+
+**Read it yourself:**
+- [Fierce Pharma](https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house): Heidi Overton’s FDA nomination pulled by White House: reports
+- [Axios](https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped): Scoop: White House drops Heidi Overton's FDA nomination
+- [The Hill](https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/): White House pulls nomination of Heidi Overton to lead FDA
+
+
+## 5. Charlotte Lights Up Its Big Holiday Tree
+`Charlotte` `US Headlines` · Covered by 2 outlets
+
+The Carolina Panthers and Charlotte FC held their 13th annual holiday tree lighting at Bank of America Stadium on Tuesday evening. Around 2,500 people were expected to come out for the festivities, and a few Uptown streets were closed for the night.
+
+**Key facts**
+- This year's tree is a 50-foot Norway spruce from Newland, North Carolina.
+- The tree was lit at 7 p.m.
+- Closed streets were expected to reopen by 11 p.m.
+
+**Worth knowing:** A cozy sign the holiday season has officially arrived in the Queen City.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/uptown-road-closures-scheduled-annual-tree-lighting/2P5VADIPNFHGVPPJTU6YZ4WMEA/): Uptown road closures scheduled for annual tree lighting
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/panthers-charlotte-fc-hold-13th-annual-holiday-tree-lighting/): Panthers, Charlotte FC hold 13th annual holiday tree lighting
+
+
+## 6. Officials Say Recent Tech Outages Weren't an Attack
+`Jamaica` · Covered by 1 outlet
+
+After a string of outages hit air traffic systems, Microsoft email, banking and mobile payments, Secretary of State Marco Rubio said there's 'zero evidence' they're connected or caused by hackers or foreign governments. Homeland Security Secretary Markwayne Mullin also said the country is 'not under attack.' The NSA said an outage on its internal network happened during routine maintenance.
+
+**Key facts**
+- Rubio spoke Wednesday in Manila while traveling in Asia with President Trump.
+- Thousands of Americans had flights grounded during the disruptions.
+- The NSA said its capabilities stayed operational.
+
+**Worth knowing:** If your flight or payment app glitched lately, officials say it looks like bad luck, not sabotage.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/17/rubio-says-no-evidence-recent-tech-outages-linked-nefarious/): Rubio says no evidence recent tech outages are linked or ‘nefarious’
+
+
+## 7. Producer Sues Travis Scott and Crew Over a Sample
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+Israeli producer Niv Kalisky, known as Early Yellow, has sued Travis Scott, Don Toliver, Sheck Wes, Cactus Jack Records and Sony over the 2019 JACKBOYS track 'What To Do?'. He's already credited as a songwriter, but says he's also owed royalties from the recording itself because his sample beat was used in it.
+
+**Key facts**
+- The lawsuit was filed Nov. 17.
+- The JACKBOYS album debuted at No. 1 on the Billboard 200 in 2019.
+- 'What To Do?' reached No. 56 on the Billboard Hot 100.
 
 **Good to know**
-- These are established, widely available vaccines; a flu shot won't guarantee you avoid the flu, but it lowers your chance of ending up in the hospital
+- Confirmed: the lawsuit was filed and Kalisky receives songwriting (publishing) income.
+- Alleged: that he's owed master recording royalties, that his payment requests were ignored, and that Sony countered his takedown requests.
+- The defendants had not commented as of reporting.
 
-**Worth knowing:** It's an easy, practical step to help you enjoy the holidays healthy.
-
-**Read it yourself:**
-- [Medical Xpress](https://medicalxpress.com/news/2026-11-flu-shots-maximum.html): Flu shots: Timing for maximum protection
-- [NPR](https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster): More people are getting the flu. Should you get a flu shot before you travel?
-
-
-## 5. Charlotte approves a $1.7M settlement with 2020 protesters
-`Charlotte` · Covered by 2 outlets
-
-Charlotte City Council approved a $1.7 million settlement with 67 people who said police trapped them and used tear gas during a June 2, 2020 protest in Uptown. The city doesn't admit wrongdoing, but CMPD has changed its policies. One claimant said the settlement finally lets her start healing.
-
-**Key facts**
-- 67 claimants will each get $25,746
-- The lawsuit was filed five years ago, and a Nov. 9 trial was canceled
-- CMPD no longer uses chemical munitions on peaceful protesters, and officers can't block designated exit routes
-
-**Worth knowing:** It ends a long legal fight and puts lasting limits on how police handle peaceful protests.
+**Worth knowing:** It's a window into how music money splits between songwriting and recordings, something more producers are paying attention to.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/17/charlotte-approves-1725m-settlement-2020-protest-lawsuit/): Charlotte approves $1.7M settlement in 2020 protest lawsuit
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-city-council-approves-17m-settlement-cmpd-kettling-lawsuit/VGCMKCLSFBFSTC4DXSOLESJRYQ/): Charlotte City Council approves $1.7M settlement in CMPD kettling lawsuit
+- [Billboard](https://www.billboard.com/pro/travis-scott-don-toliver-lawsuit-jackboys-song-sample/): Travis Scott and Don Toliver Sued Over Sample on Hit JACKBOYS Track ‘What To Do?’
+- [AllHipHop](https://allhiphop.com/news/exclusive-travis-scott-producer-chose-to-stand-up-in-royalty-lawsuit-attorneys-say/): EXCLUSIVE: Travis Scott Producer “Chose To Stand Up” In Royalty Lawsuit, Attorneys Say
 
 
-## 6. Mooresville elementary stays closed as the mold cleanup restarts
-`Charlotte` · Covered by 2 outlets
-
-Coddle Creek Elementary in Mooresville remains closed to students after new tests found higher mold levels, including toxic mold, despite earlier cleanups. The district approved a new cleanup contract, and parents pressed the school board for accountability at Monday's meeting.
-
-**Key facts**
-- The district was notified in July, and August testing found toxic mold
-- Black mold in the cafeteria measured 235, compared with zero outdoors
-- Officials say earlier remediation attempts weren't done correctly
-- No return date for students has been announced
-
-**Worth knowing:** Local families are waiting to learn when kids can safely return to class.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/iredell-statesville-schools-approves-mold-removal-contract-coddle-creek-elementary/VEOWLEST2JBN3PLCXCF4J6RT5A/): Parents demand answers over mold concerns at Iredell County elementary school
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/health/coddle-creek-elementary-school-remain-closed-mold-air-quality-concerns/275-20366f08-d307-474b-bd5d-930f8930f0ce): Mooresville school to remain closed for mold cleanup, district says
-
-
-## 7. Lady Songbird brings 'rooftop reggae' to a new EP
+## 8. Vinicius Scores Lightning Hat-Trick in Brazil's 7-0 Win
 `Jamaica` · Covered by 1 outlet
 
-Reggae singer Lady Songbird will release 'Queen of Hearts,' a five-track EP about love and growing up emotionally, in early January 2027. Made with European producer Mokart Beats, it mixes reggae with nightclub energy, and she hopes it lands her spots at European reggae festivals next summer.
+Vinicius Junior scored three goals in just 12 minutes as Brazil beat Singapore 7-0 in a friendly. It was a nice bounce-back after a 3-2 loss to Japan days earlier, and Brazil's last game until March.
 
 **Key facts**
-- Tracks: King and Queen, Give Thanks, Touched Your Heart, Tell the Truth, She Was the Star
-- She wrote all the lyrics and arranged the vocals
-- She's aiming for summer 2027 European festivals
+- Vinicius scored in the 9th, 15th and 21st minutes.
+- Endrick, Estevao, Rayan and substitute Allan also scored.
+- Assistant Francesco Mauri led the team while manager Carlo Ancelotti served a suspension.
 
-**Worth knowing:** Fresh music with a feel-good message about moving on gracefully.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/17/lady-songbird-eyes-european-reggae-festivals-new-ep-queen-hearts/): Lady Songbird eyes European reggae festivals with new EP ‘Queen of Hearts’
-
-
-## 8. A Jamaican village gets its bridge back after Hurricane Melissa
-`Jamaica` · Covered by 1 outlet
-
-The Over River Bridge in St James, swept downriver by Hurricane Melissa's floodwaters, is open to traffic again. The National Works Agency put it back on its base and raised it higher to better withstand future floods. One resident reportedly hugged the bridge, saying, 'we miss you.'
-
-**Key facts**
-- Traffic resumed Monday evening
-- The work is about 95% finished, with road patching to come in a few days
-- Communities like Over River and Hurlock had faced long detours
-
-**Worth knowing:** A sweet sign of recovery, with neighbors reconnected to their main road.
+**Worth knowing:** A fun, high-scoring way for Brazil's team to head into the winter break.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/17/river-bridge-back-use-hurricane-melissa/): Over River Bridge back in use after Hurricane Melissa
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/17/vinicius-hits-12-minute-hat-trick-brazil-thrash-singapore/): Vinicius hits 12-minute hat-trick as Brazil thrash Singapore
 
 
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News, Fierce Pharma_
+_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_
