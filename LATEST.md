@@ -1,296 +1,293 @@
-# My Daily Brief: Evening edition
-_Tuesday, November 17, 2026 · 10:53 PM EST · 609 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Midday edition
+_Wednesday, November 18, 2026 · 2:37 PM EST · 618 articles from 39 outlets · summaries by Claude_
 
-> Nvidia reported record quarterly results as its board said it will not reinstate ousted CEO Jensen Huang, who has agreed to closed-door congressional interviews over alleged links to Chinese chip smuggling. Democrats completed a nine-seat Senate gain with Mary Peltola's win in Alaska, while President Trump travels through Asia toward an APEC summit and a first three-way meeting with Xi Jinping and Vladimir Putin. Other items include a disputed report of an Iranian 'dirty bomb' plot, an NSA network outage amid a string of US tech failures, a withdrawn FDA nomination, a new Knesset speaker in Israel, and Charlotte local news.
+> This edition is dominated by Donald Trump's Asia trip, which culminates in a first-ever three-way meeting with Xi Jinping and Vladimir Putin in Shenzhen. Democrats are consolidating power after their midterm wins: Mary Peltola flipped Alaska's Senate seat and House Democrats nominated Hakeem Jeffries for speaker. Also covered: Nvidia's board rejecting Jensen Huang's offer to return, US officials saying a string of tech outages are unrelated, South Korea's measures against AI cheating, and local Charlotte news on Duke Energy rates and a homicide.
 
 
-**Sources linked in this edition:** 13 left · 22 center · 10 right
+**Sources linked in this edition:** 10 left · 26 center · 8 right
 
 ---
 
-## 1. Nvidia beats forecasts as board rules out Jensen Huang's return as CEO
-`AI & Cybersecurity` · Covered by 14 outlets (L 4 · C 8 · R 2)
+## 1. Trump to meet Xi and Putin together in Shenzhen, plus a separate one-on-one with Putin
+`Asia Business & Politics` `US Headlines` · Covered by 12 outlets (L 3 · C 8 · R 1)
 
-Nvidia reported third-quarter revenue of $115.8 billion, above analyst expectations, in its first earnings report since co-founder Jensen Huang resigned as CEO on Nov. 12 amid reports of extramarital affairs, including one with a woman U.S. intelligence officials reportedly link to Chinese intelligence. Earlier Tuesday, Huang said he 'owns' his mistakes and would be 'honored' to return if the board asked. On the earnings call, new board chair Harvey Jones said the board unanimously accepted his resignation and 'does not intend to reinstate Jensen as CEO,' and declined questions about the circumstances or the ongoing investigation. CFO Colette Kress is interim CEO, and Huang is set to face closed-door congressional interviews on Dec. 1.
-
-**Key facts**
-- Q3 revenue was $115.8 billion and net income $65.3 billion, both more than double a year earlier; analysts expected about $108.7 billion in revenue.
-- Board chair Harvey Jones: the board 'does not intend to reinstate Jensen as CEO.'
-- Huang's statement: 'I did not live up to the standards expected of everyone at Nvidia... I own my mistakes completely.'
-- Nvidia shares were down more than 29% over the past month, per Fox Business.
-- Nvidia's board formed a committee to oversee national security policies and export-control compliance.
-
-**How it's being framed**
-- **Left:** The Verge and NPR led with the board's refusal to reinstate Huang. They detailed the national-security angle: the alleged Chinese intelligence link, chip smuggling, the Commerce Department's new remote-access rules and the DOJ probe of Megaspeed. They also covered the 'stand with Jensen' petition and supporters such as Brad Gerstner. The Verge highlighted Trump's backing of Huang, Nvidia's lobbying spending, and plans by incoming Democrats to investigate Trump's ties to Big Tech.
-- **Center:** Axios and The Hill centered on the strong earnings and investor anxiety about strategy after Huang's exit. Axios also noted a reported SEC investigation.
-- **Right:** Fox Business led with Huang's willingness to return and quoted his statement at length, including the 'outpouring of calls' for his comeback. It emphasized stock-price pressure and the market context. The Washington Examiner briefly reported the board's rejection and described the allegations.
-
-**Disputed or unclear**
-- The affair allegations and the claim that Alice Huang was a Chinese intelligence asset come from news reports; NPR said it had not independently confirmed them, and some tech figures dispute the spying claim.
-- A reported SEC investigation is mentioned by Axios but not detailed.
-- Accounts differ on details: whether Huang's affairs with Nvidia staff involved two subordinates or one executive.
-
-**Why it matters:** Nvidia supplies an estimated 75% of AI compute hardware, so its leadership and its exposure to export-control probes affect the wider AI industry and US-China tech policy.
-
-**Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/17/nvidia-earnings-jensen-huang-colette-kress) (center): Nvidia posts strong earnings amid Jensen Huang exit, reported SEC probe
-- [The Verge](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo) (lean-left): Nvidia says it does not intend to reinstate Jensen Huang as CEO
-- [Fox Business](https://www.foxbusiness.com/markets/jensen-huang-willing-return-nvidia-ceo-own-my-mistakes-completely) (lean-right): Jensen Huang says he is willing to return as Nvidia CEO, saying 'I own my mistakes completely'
-- [The Hill](https://thehill.com/business/6226457-nvidia-q3-earnings-strong/) (center): Nvidia reports strong third quarter after Huang departs
-- [NPR](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress) (lean-left): Nvidia board says it does not intend to reinstate Jensen Huang as CEO
-- [Washington Examiner](https://www.washingtonexaminer.com/news/business/4806837/nvidia-does-not-plan-reinstate-jensen-huang-ceo/) (lean-right): Nvidia does not plan to reinstate Jensen Huang as CEO, chairman says
-
-
-## 2. Democrat Mary Peltola defeats Sen. Dan Sullivan in Alaska, giving Democrats 56 Senate seats
-`US Headlines` · Covered by 9 outlets (L 3 · C 4 · R 2)
-
-Former Rep. Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, according to an AP race call two weeks after the midterms. The win gives Democrats a 56-44 Senate majority and nine flipped seats. She is the first Democrat elected to the Senate from Alaska since 2008 and will be the first Alaska Native senator. The race was clouded by a New York Times report that Peltola aides and Democratic operatives helped recruit a second 'Dan Sullivan' onto the ballot, which her campaign and the DSCC deny; state and federal inquiries are underway. The Justice Department plans to appeal a judge's dismissal of its suit seeking to block certification.
+President Trump arrived in Shenzhen, China, for the APEC summit. On Thursday he is due to hold the first three-way talks between the leaders of the US, China and Russia. A US official said Trump will also meet Putin one-on-one, their first talks since Alaska last year. The Kremlin said the trilateral meeting will last no more than an hour and that no 'full-scale' Trump-Putin negotiations are planned. Trump says he wants to discuss denuclearization and ending the war in Ukraine, but White House officials played down expectations and analysts do not expect substantive breakthroughs.
 
 **Key facts**
-- Peltola had about 50.1% to Sullivan's 45.8% with 99% counted, a first-round majority, so no ranked-choice tabulation was needed.
-- Trump carried Alaska by about 13 points in 2024.
-- Democrats will hold 56 Senate seats, having flipped nine.
-- The Alaska Supreme Court allowed the second candidate, Dan J. Sullivan, to stay on the ballot.
+- The trilateral meeting is scheduled for Thursday on the sidelines of APEC in Shenzhen.
+- Kremlin spokesman Dmitry Peskov said 'no more than an hour' has been set aside for the three-way meeting.
+- Trump and Putin shook hands for the first time in more than a year ahead of the summit.
+- Trump envoys Steve Witkoff and Jared Kushner are meeting Ukrainian and European officials in Berlin on Thursday.
+- Xi and Putin condemned US sanctions on their countries, and Xi said Beijing would cut tariffs.
 
 **How it's being framed**
-- **Left:** The Guardian and NPR framed the result as part of a broad backlash against Trump, citing tariff-driven price increases, the Iran war, and steep fuel costs in rural Alaska. They highlighted Peltola's 'fish, family, freedom' campaign and her historic status as an Alaska Native. Both noted the second-Sullivan controversy and her campaign's denial, and NPR stressed it had not confirmed the Times report.
-- **Center:** Axios called it an extension of a 'historic blue wave' in a race 'marred by controversy.' The Hill focused on what the seat means for Democrats' majority.
-- **Right:** Fox News foregrounded the 'decoy Dan' controversy, detailing the Times-reported 'ballot composition project,' the alleged DSCC involvement, the governor's investigation and the DOJ lawsuit, alongside the Democrats' denials. It also raised concerns about ranked-choice voting. The Washington Examiner reported the result and vote shares.
+- **Left:** A Guardian editorial called the meeting historic but 'not progress', arguing that spectacle is the substance and that Xi and Putin gain stature from it. It raised concerns for Ukraine, Taiwan and US allies, and noted Trump's domestic troubles, including the midterm losses and the tech outages. AP coverage carried by PBS was more straightforward. It reported the added Putin meeting, Trump's claim that a Ukraine deal is 'very close', and the outages back home.
+- **Center:** Centrist outlets stuck mainly to logistics and expectations: meeting times, Kremlin statements, and the Berlin talks on Ukraine. DW explained why China rejects nuclear limits and suggested 'risk reduction' steps as more realistic outcomes. The Hill highlighted Xi and Putin condemning US sanctions.
+- **Right:** Fox News offered little coverage: a reader-reaction prompt and a short segment with a retired officer. Both framed the meeting as unprecedented and pointed to the Iran war and Ukraine as central topics.
 
 **Disputed or unclear**
-- Whether Peltola's campaign or national Democrats were involved in recruiting the second Dan Sullivan is denied by both and under state and federal inquiry.
-- The DOJ's planned appeal of the certification ruling is pending.
+- Whether Ukraine is on the agenda: Trump's aides said before the trip it would not be, but Trump says a deal is 'very close'.
+- The exact timing of the Trump-Putin bilateral and what it will cover.
+- Whether Trump will raise Nvidia and suspected Chinese espionage; the Guardian expects he will not.
 
-**Why it matters:** The result sets the size of the Democratic Senate majority that will check Trump's agenda and launch investigations starting next year.
+**Why it matters:** A meeting of the three largest nuclear powers could shape the Ukraine war, arms control and US-China trade, even if expectations are low.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola) (center): Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race) (lean-left): Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats
-- [Fox News](https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar) (right): Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar
-- [The Hill](https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/) (center): Why an Alaska win by Peltola is so important to Democrats
-- [NPR](https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan) (lean-left): Mary Peltola flips Alaska's Senate seat into Democrats' column
-- [Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/4756043/mary-peltola-dan-sullivan-alaska-senate-race-results/) (lean-right): Mary Peltola ousts Dan Sullivan in Alaska, giving Democrats 56-seat Senate majority
+- [Deutsche Welle](https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719?maca=en-rss-en-all-1573-rdf) (center): APEC summit: Xi, Trump and Putin gather in Shenzhen, China
+- [The Guardian (US)](https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress) (lean-left): The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial
+- [Fox News](https://www.foxnews.com/politics/sound-off-trump-face-face-putin-china) (right): SOUND OFF: Trump face to face with Putin in China
+- [Axios](https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine) (center): Trump to meet Putin in China amid renewed push to end Ukraine war
+- [PBS NewsHour](https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi) (lean-left): Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi
+- [The Hill](https://thehill.com/homenews/administration/6227270-trump-xi-putin-asia-summit-sanctions-criticism/) (center): Xi, Putin condemn sanctions as Trump arrives in China
 
 
-## 3. Iran denies CNN report of plans for 'dirty bomb' or chemical attack in Washington
-`US Headlines` · Covered by 8 outlets (L 1 · C 5 · R 2)
+## 2. House Democrats nominate Hakeem Jeffries for speaker; 11 vote no
+`US Headlines` · Covered by 10 outlets (L 4 · C 5 · R 1)
 
-CNN, citing seven unnamed US officials, reported that US intelligence suggests Iran has been developing plans to target senior Trump administration officials in Washington with a dirty bomb or chemical weapon. The officials also said they debate whether Iran can or will act. Trump said the administration takes it 'very seriously' and warned Iran would 'pay a price the likes of which no country has ever paid.' The White House said there are 'no credible threats to the homeland,' and Secretary of State Marco Rubio said he sees no imminent threat. Iranian officials called the report a 'shameful lie' and propaganda meant to justify further aggression in the ongoing US-Israel war with Iran.
+In a closed-door secret ballot on Wednesday, House Democrats nominated Minority Leader Hakeem Jeffries of New York to be speaker in the next Congress. He received 251 votes. The full House votes on January 3, and given the Democratic majority of at least 257 seats, his election is widely expected. He would be the first Black speaker. Seven incoming progressive members said in a joint statement that they voted no because talks over their priorities, including Medicare for All, immigration enforcement and Gaza, are still ongoing.
 
 **Key facts**
-- White House spokesperson Lauren Bis: 'at this time there are no credible threats to the homeland.'
-- Rubio: 'I don't think there's any imminent threat.'
-- Iran's Deputy FM Kazem Gharibabadi called the report 'a shameful lie'; spokesperson Esmail Baghaei called it a 'malicious campaign.'
-- The war began with US and Israeli strikes on Feb. 28; peace talks have stalled.
+- Jeffries received 251 votes; 11 members voted against him.
+- The full House votes on January 3, 2027, and 218 votes are needed to win.
+- Katherine Clark is set to be majority leader, Pete Aguilar majority whip, and Ted Lieu caucus chair.
+- Republicans chose Jim Jordan as House minority leader.
 
 **How it's being framed**
-- **Left:** The Guardian headlined the gap between Trump's comments and the White House's 'no credible threats' statement. It stressed CNN's caveats that the plans were 'options' rather than an imminent attack, and noted the war's unpopularity and the GOP's midterm losses.
-- **Center:** DW gave weight to Iran's denial and the state of the war and diplomacy. Axios and The Hill published explainers on what a dirty bomb is and whether Iran has the capability or intent.
-- **Right:** Fox News paired Iran's denial and Trump's warning with a separate alleged Iranian-linked assassination plot against an Israeli executive in Greece, foiled with Mossad help. It quoted Trump saying 'this is why they can't have a nuclear weapon.' It also referenced a senior official saying the intelligence is 'not new.' The Washington Examiner led with Rubio's assurance that there is no imminent threat.
+- **Left:** The Guardian and NPR stressed the historic nature of the nomination and the size of the majority. They gave substantial space to progressives' concerns, including an Indivisible poll showing 28% favorability for Jeffries and his recent moves on Medicare and Israel. NPR quoted Jeffries on cost of living and 'unprecedented corruption'.
+- **Center:** DW, Axios and The Hill focused on the tally, the path to January 3, and the rest of the leadership lineup, with the progressive dissent as a secondary point.
+- **Right:** The Washington Examiner centred on the 11 dissenters. It named them, noted that five are Democratic Socialists of America members, and quoted Rep. Henry Cuellar calling them 'a small group that have marginalized themselves'. It also noted the dissenters lack the numbers to block Jeffries.
 
 **Disputed or unclear**
-- The underlying intelligence is unverified, and US officials reportedly disagree on Iran's capability and intent.
-- CNN's claim that officials assume nuclear materials have been pre-positioned in the US is attributed to unnamed sources.
-- Outlets differ on whether the CNN report ran Monday or Tuesday.
+- The total ballots cast differs: DW reports 265, while The Guardian and Axios report 262.
+- Four of the 11 'no' votes are unidentified; the Washington Examiner says Rep.-elect Don Leonard also opposed Jeffries.
+- According to the Examiner, Frederick Haynes signed the dissent statement but missed the vote due to illness.
 
-**Why it matters:** How officials weigh this intelligence could shape whether the stalled Iran war escalates again.
+**Why it matters:** The incoming speaker will control which bills reach the House floor and steer oversight of the Trump administration for the final two years of his term.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-all-1573-rdf) (center): Iran dismisses report of alleged 'dirty bomb' attack on Washington
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington) (lean-left): Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’
-- [Fox News (World)](https://www.foxnews.com/world/europe-assassination-scheme-emerges-iran-denies-dirty-bomb-plot-amid-trump-warning) (right): Europe assassination scheme emerges as Iran denies DC 'dirty bomb' plot amid Trump warning
-- [Axios](https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon) (center): What is a dirty bomb and how dangerous is the weapon
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/) (lean-right): Rubio insists no ‘imminent threat’ amid reports Iran could deploy ‘dirty bomb’
-- [The Hill](https://thehill.com/policy/national-security/6226127-iranian-dirty-bomb-threat-warning/) (center): What to know about Iran’s ‘dirty bomb’ threat
+- [Deutsche Welle](https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf) (center): US House Democrats nominate Hakeem Jeffries for speaker
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination) (lean-left): Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns
+- [Washington Examiner](https://www.washingtonexaminer.com/news/4807661/house-democrats-hakeem-jeffries-speaker-votes-against/) (lean-right): The 11 House Democrats who voted against Hakeem Jeffries for speaker
+- [Axios](https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3) (center): House Democrats formally nominate Hakeem Jeffries for speaker
+- [NPR](https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes) (lean-left): Democrats formally nominate Hakeem Jeffries for speaker of the House
+- [The Hill](https://thehill.com/video-clips/6227720-watch-live-house-democrats-press-conference-leadership-elections-jeffries-speaker/) (center): Watch live: Jeffries speaks after notching nomination for next Speaker
 
 
-## 4. Trump heads to APEC in Shenzhen for talks with Xi and first three-way meeting with Putin
-`Asia Business & Politics` `US Headlines` `Korea` · Covered by 6 outlets (L 2 · C 4 · R 0)
+## 3. Democrat Mary Peltola wins Alaska Senate race, giving Democrats a 56-44 majority
+`US Headlines` · Covered by 9 outlets (L 2 · C 6 · R 1)
 
-After the ASEAN summit and a Quad meeting in Manila, President Trump travels to the APEC summit in Shenzhen. There he is expected to meet Xi Jinping for the third time this year and join Xi and Putin in a first-ever three-way meeting on Thursday. Analysts quoted across outlets expect few breakthroughs, with talks likely focused on extending the US-China trade truce, implementing tariff cuts on $30 billion of goods each, and possibly an AI risk hotline. Trump said he would meet Putin and Kim Jong Un one-on-one 'if it's available,' though Beijing said it had no information on a Kim meeting. New US restrictions on advanced chip exports to several Southeast Asian countries and on remote access to chips form part of the backdrop.
+The Associated Press declared Democrat Mary Peltola the winner over two-term Republican Sen. Dan Sullivan after she crossed 50% of first-choice votes, so no ranked-choice tabulation was needed. It was the last Senate race to be called and the ninth Republican-held seat Democrats flipped, the most in a midterm since 1958. The final weeks were shaped by a New York Times report alleging that Peltola aides helped recruit a second candidate named Dan J. Sullivan to draw votes from the incumbent. Peltola and the other Sullivan both deny it. The Sullivan campaign did not respond to requests for comment.
 
 **Key facts**
-- APEC leaders meet Nov. 18-19 in Shenzhen; Putin arrived Wednesday.
-- The current US-China trade truce has been extended to January 2027.
-- US officials said Trump does not plan to raise the Nvidia/Huang allegations with Xi.
-- About 2,000 protesters demonstrated in Manila against Trump and the 'Pax Silica' supply-chain initiative.
-- A further Trump-Xi meeting is expected at the G20 in Miami in December.
+- Peltola received 144,302 votes to Sullivan's 131,844, about 50.1%.
+- Candidate Dan J. Sullivan received 4,760 votes, fewer than Peltola's margin.
+- Democrats will hold a 56-44 Senate majority after flipping nine seats.
+- Trump won Alaska by about 13 points in 2024.
+- A federal judge dismissed a Justice Department bid to block certification of the results.
 
 **How it's being framed**
-- **Left:** Al Jazeera emphasized low expectations, Trump's weakened position after the midterms, and AI regulation, noting the administration has downplayed guardrails. It said the Nvidia scandal will loom over talks. The Guardian's podcast focused on Australian PM Albanese's diplomacy.
-- **Center:** CNA, DW and CNBC framed the trip as Trump seeking diplomatic wins after an election defeat. They quoted analysts expecting a 'transactional détente,' and highlighted tariff frictions, rare earths, the new chip export controls, and Russia's hope to strengthen its position on Ukraine. Yonhap covered South Korean President Lee's travel to the summit.
+- **Left:** NPR and PBS (AP) presented the win as a political comeback in a Trump state, quoting Peltola on cost-of-living struggles. They mentioned the vote-siphoning allegations along with Peltola's denial and Trump's call for her prosecution.
+- **Center:** Axios emphasized history: the first Alaska Native senator, powered by Alaska Native communities. DW and The Hill focused on the vote count and the size of the Democratic wave. DW noted that the margin exceeded the second Sullivan's vote total.
+- **Right:** The Daily Caller acknowledged that Peltola won by more than the second Sullivan's vote total. Most of its article, however, detailed the alleged recruitment scheme, the DOJ's subpoenas, and the judge who blocked the lawsuit, whom it described as Obama-appointed.
 
 **Disputed or unclear**
-- Whether Trump will meet Kim Jong Un is unclear; Trump said Kim 'would like' to meet, while Beijing said it had no information.
-- Trump's claim the US will catch China in rare-earth production 'within 10 months' is unverified.
+- Whether Peltola's campaign or the DSCC recruited the second Sullivan is alleged but denied, and the DOJ investigation is ongoing.
+- The reported margin varies slightly: about 12,500 by DW's figures versus 'about 13,000' per the Daily Caller.
 
-**Why it matters:** The meetings could determine whether the US-China trade truce holds and how much influence the US retains in Asia.
+**Why it matters:** The result completes a large Democratic Senate majority and keeps a contested election-integrity dispute alive.
 
 **Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/donald-trump-asia-tour-vladimir-putin-china-6560741) (center): Trump seeks diplomatic gains on Asia tour as Putin arrives in China
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china) (lean-left): What is Trump hoping to achieve at APEC meeting in China?
-- [Deutsche Welle](https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf) (center): APEC summit: What Trump, Xi and Putin want
-- [The Guardian (Asia-Pacific)](https://www.theguardian.com/australia-news/audio/2026/nov/17/trump-xi-putin-albanese-blitz-of-the-worlds-most-powerful-podcast) (lean-left): Trump, Xi, Putin: Albanese’s blitz of the world’s most powerful – podcast
-- [CNBC](https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html) (center): Three things to watch as Trump, Xi and Putin meet in China
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261117010400315) (center): Lee departs for China for APEC summit after wrapping up ASEAN summit
+- [Deutsche Welle](https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf) (center): US Democrats flip Alaska Senate seat as Mary Peltola wins race
+- [NPR](https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai) (lean-left): Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
+- [The Daily Caller](https://dailycaller.com/2026/11/18/mary-peltola-dan-sullivan-alaska-senate-race) (right): Turns Out Mary Peltola Did Not Need Other Dan Sullivan’s Help Afterall
+- [Axios](https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history) (center): Alaska Native strongholds push Peltola into Senate history
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan) (lean-left): Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan
+- [The Hill](https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats/) (center): Democrats flip 9 Senate seats – most since 1958
 
 
-## 5. Jensen Huang and Nvidia's general counsel to give closed-door testimony to House committees
-`Asia Business & Politics` `US Headlines` `AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 4. Nvidia board rules out Jensen Huang's return as company posts strong earnings
+`AI & Cybersecurity` · Covered by 6 outlets (L 0 · C 4 · R 2)
 
-Former Nvidia CEO Jensen Huang will sit for a transcribed, closed-door interview with the House Foreign Affairs, Intelligence and China select committees on Dec. 1, followed by general counsel Tim Teter on Dec. 2. The Republican chairs, Brian Mast, Rick Crawford and John Moolenaar, said they want answers about a 'potential breach of our national security' and how Chinese actors accessed advanced chips. The inquiry centers on Megaspeed, a Singapore-based Nvidia customer whose former executive Alice Huang is alleged to be a Chinese intelligence asset. The DOJ is criminally investigating Megaspeed, which says it conducts lawful business.
+Nvidia's new chair, Harvey Jones, said the board unanimously accepted co-founder Jensen Huang's resignation and does not intend to reinstate him. Huang had offered to return earlier that day. The board said Huang resigned after disclosing personal behavior inconsistent with its code of conduct; news reports have linked him to a woman described as an alleged Chinese spy. Interim CEO Colette Kress reported revenue of about $115.8 billion, beating estimates, and raised the company's outlook. Bill Ackman, Elon Musk and a petition with about 200,000 signatures have called for Huang's return. The board says it will search for a permanent CEO without rushing.
 
 **Key facts**
-- Interviews are scheduled for Dec. 1 (Huang) and Dec. 2 (Teter), closed-door and transcribed.
-- The chairs had warned on Nov. 12 that Huang could face a subpoena.
-- Megaspeed bought nearly $5 billion in AI chips and hardware, per The Guardian.
-- Commerce began investigating Megaspeed in 2024; the DOJ took over in 2025.
+- Quarterly revenue was $115.8 billion, more than double a year earlier; estimates were about $109.1 billion.
+- Nvidia projects about $130 billion next quarter and raised its fiscal 2028 growth outlook to 75%.
+- Shares rose almost 5% after hours but are down 24% this month.
+- Huang said: 'I own my mistakes completely.'
 
 **How it's being framed**
-- **Left:** The Guardian quoted the chairs' national-security statement and detailed Megaspeed's alleged export-control violations. It also noted the support for Huang's reinstatement from Elon Musk, 165,000 petition signers and Trump.
-- **Center:** Axios and The Hill framed the testimony around whether Nvidia's chips were compromised and whether the company protected sensitive technology.
-- **Right:** The Daily Caller reported the logistics and the chairs' statement, and noted Nvidia's new compliance committee. It also cited a report that Trump was informed of Alice Huang's China ties in 2025 but took no action.
+- **Center:** CNBC and TechCrunch emphasized business continuity and Kress's reassurances, quoting analysts who said demand 'did not leave with him'. TechCrunch also quoted Sam Altman's praise for Huang. The BBC examined Nvidia's importance to the US economy and the risks of 'circular financing'. The Hill reported the board's rejection straightforwardly.
+- **Right:** Fox Business led with Kress's confident 'We've got this' and the earnings beats. The New York Post featured Bill Ackman's attack on the board as having 'panicked due to headlines', along with support for Huang from Musk and the petition.
 
 **Disputed or unclear**
-- The Guardian states Megaspeed facilitated about $12 billion in chip sales in violation of export controls; this is part of an ongoing investigation.
-- Alice Huang's alleged intelligence ties are unconfirmed.
-- Accounts differ on the timing of Huang's statements and resignation (Tuesday vs. Thursday).
+- The alleged link between Huang and a Chinese intelligence recruit is reported but unverified.
+- Ackman argues the board breached its duties; the board says Huang resigned voluntarily.
+- It is unclear whether Huang's exit will change Nvidia's spending and investment strategy.
 
-**Why it matters:** The testimony could reveal how advanced US AI chips reached China despite export bans.
+**Why it matters:** Nvidia is central to the AI boom and the US stock market, so leadership turmoil there could ripple through the wider economy.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates) (center): Jensen Huang agrees to face Congress over Nvidia scandal
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy) (lean-left): Jensen Huang to testify before Congress on ‘potential breach of national security’
-- [The Daily Caller](https://dailycaller.com/2026/11/17/jensen-huang-nvidia-general-counsel-testify-three-panels) (right): Jensen Huang, General Counsel To Appear Before House Panels For Closed-Door Testimonies
-- [The Hill](https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/) (center): Huang agrees to testify before House lawmakers
+- [CNBC](https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html) (center): With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI
+- [Fox Business](https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang) (lean-right): Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss) (center): How important are Nvidia and Jensen Huang to the US economy?
+- [New York Post](https://nypost.com/2026/11/18/business/bill-ackman-rips-nvidias-board-over-jensen-huangs-ouster-rushed-to-judgment/) (lean-right): Bill Ackman rips Nvidia’s board over Jensen Huang’s ouster: ‘Rushed to judgment’
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/) (center): OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’
+- [The Hill](https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/) (center): Nvidia rejects Huang offer to return as CEO
 
 
-## 6. NSA's classified internal network disrupted during maintenance, amid a string of US tech outages
+## 5. Rubio says there is 'zero evidence' a week of US tech outages is linked
 `AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 2 · R 1)
 
-NSANet, the National Security Agency's classified internal network, was degraded Tuesday. The agency attributed this to 'scheduled routine maintenance' and said mission-critical capabilities remained operational. Staff at Fort Meade were told to stagger arrivals, and sources told several outlets the network had been unstable for weeks. The outage follows a nationwide flight ground stop, a Microsoft outage, banking disruptions and other failures. Officials including Marco Rubio and DNI Jay Clayton said there is no evidence of a cyberattack or any link between the events, and Clayton blamed widespread system patching.
+Secretary of State Marco Rubio said the US is 'not under systemic attack'. He said there is no evidence that recent outages are connected or caused by hostile actors. The outages hit Microsoft, the FAA's national flight system, JPMorgan Chase, United Airlines, Apple, and an NSA internal network. Director of National Intelligence Jay Clayton attributed the disruptions to system upgrades and security patches that did not go as planned. Every affected company or agency said the cause was not a cyberattack. Some experts point to a common pressure: rapid patching driven by AI-discovered vulnerabilities.
 
 **Key facts**
-- NSA: 'mission-critical capabilities remain fully operational.'
-- Friday's FAA ground stop lasted about four and a half hours and was traced to a router in Arkansas.
-- Rubio: 'We have zero evidence... to believe that any of these isolated or individual instances have anything to do with nefarious actors.'
-- House Democratic leader Hakeem Jeffries asked for administration briefings on the outages.
+- An FAA ground stop halted US flights for more than four hours, the longest since 9/11.
+- Rubio said: 'We are not under systemic attack.'
+- Researchers at Calif reported a Java flaw found using AI; a UCL professor said it affects only a specific code library, not every Java program.
 
 **How it's being framed**
-- **Left:** The Guardian reported the official explanation alongside unanswered questions about cause and duration. It included Jeffries's call for transparency, Trump's 'Things like that happen' remark, and an expert warning that early assurances may have come too quickly.
-- **Center:** AP (via WBTV) and The Record relayed the NSA statement and official reassurances, including Democratic Sen. Mark Warner echoing the patching explanation. The Record added historical NSA glitches and noted FBI involvement in the FAA probe.
-- **Right:** The Daily Caller headlined 'US Systems Crumble' and walked through the sequence of failures, while noting there was no evidence of a cyberattack and citing official explanations for each.
+- **Left:** The Guardian carried Rubio's denial but added context on a newly found Java vulnerability. It quoted an expert who said AI-driven upgrades and patching are straining 'brittle' infrastructure.
+- **Center:** The BBC and The Hill centred on Rubio's and Clayton's statements. The BBC quoted cybersecurity experts saying there is 'no conspiracy' and listed each outage with its stated cause.
+- **Right:** The Daily Caller relayed Rubio's quotes directly, framing them as ruling out coordinated outages, with little added context.
 
 **Disputed or unclear**
-- The exact cause, scope and duration of the NSA outage have not been disclosed.
-- Causes of some of the other recent outages have not been fully explained.
+- Public fears that the outages are linked persist online; officials and experts say there is no evidence for a link.
+- Whether AI-driven vulnerability discovery is an underlying common cause is one expert's view, not an established finding.
 
-**Why it matters:** A cluster of failures in critical systems raises questions about the resilience of aging US digital infrastructure.
+**Why it matters:** Outages hitting flights, banks and government networks affect daily life and raise questions about how resilient critical infrastructure is.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/17/highly-classified-nsa-communications-network-is-down-report-says/) (center): Classified communications network at National Security Agency goes down, defense official says
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down) (lean-left): National Security Agency network for internal communications goes down
-- [The Daily Caller](https://dailycaller.com/2026/11/17/nsas-classified-network-goes-dark-us-systems-crumble) (right): NSA’s Classified Network Goes Dark As US Systems Crumble: REPORT
-- [The Record (Recorded Future News)](https://therecord.media/nsa-net-disruptions) (center): NSA Net, agency’s classified internal network, faces unspecified disruptions
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss) (center): Rubio says US not 'under systemic attack' after series of tech outages
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio) (lean-left): ‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio
+- [The Daily Caller](https://dailycaller.com/2026/11/18/marco-rubio-tech-outages-banks-faa-microsoft-cyberattack-ai) (right): Editor Daily Rundown: Rubio Rules Out Coordinated Tech Outages
+- [The Hill](https://thehill.com/policy/technology/6227428-marco-rubio-tech-outages-link-concerns/) (center): Rubio: ‘Zero’ evidence recent outages linked
 
 
-## 7. White House withdraws Heidi Overton's nomination to lead the FDA
-`US Headlines` · Covered by 5 outlets (L 1 · C 2 · R 2)
+## 6. Trump announces Philippines trade deal and defense cooperation; Manila does not confirm a deal
+`US Headlines` `Asia Business & Politics` · Covered by 4 outlets (L 1 · C 2 · R 1)
 
-The White House pulled Heidi Overton's nomination as FDA commissioner a day before a scheduled Senate health committee vote, with an official citing a lack of support on Capitol Hill. Overton, a physician and White House adviser, faced questions from senators of both parties about her independence from Trump, particularly on vaccines. Committee chair Bill Cassidy had called her support for breaking up combination vaccines 'almost disqualifying.' Abortion-rights groups celebrated the withdrawal, while an anti-abortion group said the next nominee should commit to ending mail-order abortion pills. Kyle Diamantas remains acting commissioner.
+On a state visit to Manila, Trump told President Ferdinand Marcos Jr. that the US is expanding defense cooperation, citing more than $5 billion in approved arms sales. He also floated cooperation on civilian nuclear power and an Alaska gas project. Trump said the two countries had 'consummated a very big trade deal'. The Philippine president's office referred only to an 'understanding' on economic cooperation, and its ambassador said nothing was signed. Trump also met Imelda Marcos, whom he called a longtime friend.
 
 **Key facts**
-- Trump nominated Overton in August to succeed Marty Makary, who resigned in May.
-- The HELP committee vote had been set for Wednesday; Republicans hold 12 seats to Democrats' 11.
-- At her hearing, Overton said 'the MMR vaccine is safe and effective.'
+- Trump cited more than $5 billion in approved US arms sales to the Philippines.
+- Philippine Ambassador Jose Manuel Romualdez said 'None' when asked whether anything was signed.
+- Trump said he is 'not concerned at all' about the South China Sea.
 
 **How it's being framed**
-- **Left:** The Guardian emphasized Overton's anti-abortion record and the potential impact on medication-abortion access. It quoted Reproductive Freedom for All celebrating the withdrawal and noted Republicans' rush to confirm nominees before January.
-- **Center:** Axios broke the news, citing a lack of congressional support, and framed it as a setback for RFK Jr.'s MAHA agenda.
-- **Right:** Fox News recounted the hearing exchanges on vaccines and Trump's 'ROCKSTAR' praise. It quoted SBA Pro-Life America urging the next nominee to end mail-order abortion drugs. The Washington Examiner confirmed the withdrawal.
+- **Left:** Al Jazeera focused on Trump's reunion with Imelda Marcos, recounting her late husband's dictatorship, her lavish lifestyle and the corruption charges against her. It also quoted Trump's remark that Marcos Jr. had 'good genetics'.
+- **Center:** CNA focused on the defense, energy and trade announcements and highlighted the gap between Trump's trade-deal claim and Manila's account. The Hill covered the Imelda Marcos visit.
+- **Right:** The New York Post highlighted a light moment in which Trump joked about firing Rubio, prompting laughter from Rubio and Marcos.
 
 **Disputed or unclear**
-- Which senators' opposition was decisive has not been specified.
-- No replacement nominee has been named.
+- Whether a trade deal actually exists: Trump says yes, while Philippine officials describe only an understanding and say nothing was signed.
 
-**Why it matters:** The next FDA chief will shape vaccine and abortion-pill policy, and confirmation becomes harder once Democrats take the Senate.
+**Why it matters:** The Philippines is a key treaty ally amid South China Sea tensions, and the substance of the trade claims is uncertain.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped) (center): Scoop: White House drops Heidi Overton's FDA nomination
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda) (lean-left): White House withdraws nomination of Heidi Overton to lead FDA
-- [Fox News](https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote) (right): White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote
-- [The Hill](https://thehill.com/policy/technology/6225426-leavitt-calls-white-house-transparency/) (center): Leavitt: White House needs to ‘calm the temperature’ after nationwide tech outages
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4806936/white-house-heidi-overton-nomination-fda-commissioner/) (lean-right): White House withdraws Heidi Overton’s nomination to become next FDA commissioner
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/trump-us-expanding-defence-cooperation-philippines-6561271) (center): Trump says US is expanding defence cooperation with Philippines
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit) (lean-left): Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit
+- [New York Post](https://nypost.com/video/rubio-and-philippine-president-cant-stop-laughing-as-trump-jokes-about-firing-secretary-of-state/) (lean-right): Rubio and Philippine President can’t stop laughing as Trump jokes about firing Secretary of State
+- [The Hill](https://thehill.com/policy/international/6227350-donald-trump-imelda-marcos-philippines-visit/) (center): Trump meets longtime friend Imelda Marcos while visiting son in Philippines
 
 
-## 8. Knesset elects Eisenkot ally Matan Kahana as speaker, 66-52
-`US Headlines` `Korea` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 7. NC regulators approve smaller Duke Energy rate hike and new rules for data centers
+`Charlotte Local` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-Israel's parliament elected Matan Kahana, an ally of Gadi Eisenkot, as speaker over Netanyahu-backed Ofir Katz, with support from Jewish-led opposition parties and Arab-led parties. Eisenkot, tasked with forming a government, has about five weeks to build a coalition. His bloc aims to use its Knesset majority to reverse judicial-overhaul laws, impose prime-ministerial term limits and set up an Oct. 7 inquiry. Analysts say the speaker can speed or slow legislation, but procedural hurdles and time limits remain.
+The North Carolina Utilities Commission approved Duke Energy rate increases taking effect January 1, 2027, smaller than the utility first requested. The commission also created special rates and conditions for data centers using more than 50 megawatts. These include minimum contract lengths and early-exit fees meant to keep construction costs from shifting to other customers. Advocates called the data-center rules a step in the right direction but said fuel costs and pollution remain unaddressed. Regulators also did not renew a $42 monthly bill credit for more than 87,000 low-income customers.
 
 **Key facts**
-- Kahana won 66 votes in the 120-seat chamber; Katz received 52.
-- Elections were held Oct. 27.
-- Kahana replaced Netanyahu ally Amir Ohana.
+- Rates rise starting January 1, 2027, with a second step in 2028.
+- Duke says a typical Duke Energy Carolinas bill rises $9.62 per month in 2027 and another $5.89 in 2028.
+- The Customer Assistance Program, worth $42 per month, will not be renewed.
+- Duke first requested the increases in November 2025.
 
 **How it's being framed**
-- **Left:** The Guardian ran the AP account. Al Jazeera added seat tallies and the role of Arab-majority parties, and described Netanyahu's corruption charges and reported urging of renewed war on Iran. It framed the vote as a chance to deal 'serious blows' to his agenda.
-- **Center:** The Korea Herald carried the AP report, emphasizing Kahana's conciliatory remarks, the procedural stakes, and analysis from the Israel Democracy Institute.
+- **Left:** WFAE emphasized the impact on vulnerable customers from the end of the assistance credit, quoting an environmental lawyer on 'life or death choices'. It also detailed how the data-center tariff differs from Duke's proposal.
+- **Center:** WSOC and WBTV focused on bill impacts and on the hike being smaller than requested. WSOC quoted an energy advocate on the remaining fuel-cost risk, and WBTV quoted Duke's statement on growth and reliability.
 
 **Disputed or unclear**
-- Reports differ on framing the election result: AP says Netanyahu's allies lost their majority, while Al Jazeera says neither bloc won a majority (Netanyahu 53, Eisenkot 48, Arab slates 19).
-- Whether Eisenkot can form a government is unresolved.
+- Reported percentages differ. WSOC says 9.5% over two years for residential customers; WFAE says 5.9% in 2027 plus 3.6% in 2028 for Duke Energy Carolinas; WBTV, citing Duke, says 4.8% residential over two years.
 
-**Why it matters:** Control of the Knesset agenda could let Netanyahu's opponents roll back his judicial changes before a new government forms.
+**Why it matters:** Most Charlotte-area households will pay more for electricity, and the data-center rules set a precedent for who bears the cost of the AI-driven power demand.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10941171) (center): Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents) (lean-left): Israeli parliament elects new speaker backed by Netanyahu’s opponents
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker) (lean-left): Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/data-centers-help-ease-duke-energys-rate-increase-residential-customers/JR43VKC44ZF6VHTYZ5ONR2U7XI/) (center): Regulators approve Duke Energy’s rate increase, set rules for data centers
+- [WFAE (Charlotte NPR)](https://www.wfae.org/energy-environment/2026-11-18/nc-regulators-approve-new-rates-for-data-centers-in-rate-hike-plan) (lean-left): NC regulators approve new rates for data centers in rate hike plan
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/18/duke-energy-rate-hike-approved-north-carolina-customers-what-know/) (center): Duke Energy rate hike approved for North Carolina customers: What to know
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/consumer/duke-energy-rate-hikes-approved/275-60a839d0-abe6-48b6-8f64-859df99a294b) (center): Duke Energy customers will see higher bills starting in January after rate increases approved
 
 
-## 9. Charlotte approves $1.7 million settlement with 2020 protesters over CMPD tear gas
-`Charlotte Local` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 8. South Korea tightens security for national college exam after AI cheating case
+`AI & Cybersecurity` `Korea` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Charlotte City Council approved a $1.7 million settlement with 67 people who sued over the June 2, 2020, George Floyd protest. They said CMPD officers trapped them on Fourth Street ('kettling') and hit them with tear gas and pepper balls. Each claimant gets about $25,746. The city said the deal avoids a costly trial and is not an admission of wrongdoing. CMPD has changed its policies to bar chemical munitions on peaceful protesters and the blocking of exit routes.
+More than half a million people sit South Korea's suneung university entrance exam on Thursday. It follows the top scorer on this year's tax accountant exam admitting he used a concealed camera and generative AI to cheat. Prime Minister Han Seong-sook called AI-assisted cheating a 'social evil'. She ordered checks of candidates' glasses, watches and clothing, emergency phone alerts, and wifi shutdowns near exam centres, and police raised their alert level. K-pop stars sent their customary encouragement, and Ateez's San spoke out against AI cheating.
 
 **Key facts**
-- 67 claimants; about $25,746 each.
-- The trial had been set for Nov. 9.
-- The city denies liability.
+- The exam takes place at 1,312 centres on Thursday.
+- The tax exam cheat surrendered to police on Sunday; no charges have been filed yet.
+- Education Minister Choi Kyo-jin ruled out postponing the exam and said newer smart glasses cannot be perfectly screened.
 
 **How it's being framed**
-- **Left:** WFAE centered on attorney Tim Emry's view that the payout is accountability and his call to weigh it against CMPD budget increases, and included the city's no-liability statement.
-- **Center:** WBTV and WSOC featured claimant Katie Rothweiler's account of lasting trauma, the attorneys' quotes, and the policy changes, while noting the city's position.
+- **Left:** The Guardian detailed the cheating scandal, the government's countermeasures, and the national effort that surrounds the exam.
+- **Center:** Yonhap reported police security measures in an official tone. The Korea Herald framed the story through K-pop stars' encouragement messages and San's comments on cheating.
 
 **Disputed or unclear**
-- The city does not admit wrongdoing, while plaintiffs' attorneys call the incident a 'premeditated assault.'
+- Whether others were involved in the tax exam cheating is under police investigation.
+- Officials acknowledge newer smart devices may evade detection.
 
-**Why it matters:** The settlement and policy changes affect how Charlotte police may handle future protests.
+**Why it matters:** The case shows how generative AI and tiny cameras are challenging high-stakes testing everywhere.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/17/charlotte-approves-1725m-settlement-2020-protest-lawsuit/) (center): Charlotte approves $1.7M settlement in 2020 protest lawsuit
-- [WFAE (Charlotte NPR)](https://www.wfae.org/2026-11-17/charlotte-attorney-hopes-1-7m-police-settlement-leads-to-more-changes-within-cmd) (lean-left): Charlotte attorney hopes $1.7m police settlement leads to more changes within CMPD
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-city-council-approves-17m-settlement-cmpd-kettling-lawsuit/VGCMKCLSFBFSTC4DXSOLESJRYQ/) (center): Charlotte City Council approves $1.7M settlement in CMPD kettling lawsuit
+- [The Korea Herald](https://www.koreaherald.com/article/10941731) (center): K-pop stars cheer on exam takers as Ateez's San condemns AI cheating
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures) (lean-left): South Korea’s high-stakes university exams upended by AI cheating scandal
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261118004100315) (center): Police to tighten security for national college entrance exam amid AI cheating concerns
 
 
-## 10. Uptown Charlotte hosts annual Panthers and Charlotte FC holiday tree lighting
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 9. Two separate court stories: South Korea finalizes ex-spy chief's sentence; US op-ed defends the Supreme Court
+`US Headlines` `Korea` · Covered by 2 outlets (L 0 · C 1 · R 1)
 
-The Carolina Panthers and Charlotte FC held their 13th annual holiday tree lighting at Bank of America Stadium on Tuesday evening, with about 2,500 people expected. The tree is a 50-foot Norway spruce from Newland, N.C. Mint, Brooklyn Village and Graham streets near the stadium were closed from 9 a.m., with reopening expected by 11 p.m.
+These two articles are unrelated. In South Korea, the Supreme Court upheld a 2.5-year prison sentence for former intelligence chief Cho Tae-yong. He was convicted of falsely claiming that former President Yoon Suk Yeol did not order arrests of politicians during the 2024 martial law, along with false testimony and deleting call records. In the US, a Reason post highlighted Professor William Baude's New York Times op-ed. Baude argues that the Supreme Court has ruled against the Trump administration in major cases and that partisan court reform, now being discussed after the Democratic sweep, would be dangerous.
 
 **Key facts**
-- Tree lighting was at 7 p.m.; gates opened at 5:30 p.m.
-- About 2,500 attendees were expected.
+- Cho was acquitted of dereliction of duty at all court levels.
+- Baude cites rulings against the administration on the National Guard, emergency tariffs, birthright citizenship and Federal Reserve independence.
 
 **How it's being framed**
-- **Center:** Local TV outlets covered it as a community event and traffic advisory.
+- **Center:** Yonhap gave a straight legal account of the Korean ruling and its charges.
+- **Right:** Reason's Volokh Conspiracy endorsed Baude's defense of the US Court and his warning against partisan reform. It called the focus on judicial ethics 'superficial' and one-sided.
 
-**Why it matters:** Uptown drivers faced road closures during the event.
+**Disputed or unclear**
+- Whether the Democratic Congress will pursue Supreme Court reform or expansion is a matter of debate, not yet action.
+
+**Why it matters:** Both stories concern how courts hold executive power to account, in Korea after martial law and in the US amid calls for court reform.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/uptown-road-closures-scheduled-annual-tree-lighting/2P5VADIPNFHGVPPJTU6YZ4WMEA/) (center): Uptown road closures scheduled for annual tree lighting
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/panthers-charlotte-fc-hold-13th-annual-holiday-tree-lighting/) (center): Panthers, Charlotte FC hold 13th annual holiday tree lighting
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261118004251315) (center): (LEAD) Supreme Court finalizes 2 1/2-yr prison term for ex-spy chief in martial law trial
+- [Reason](https://reason.com/volokh/2026/11/18/this-supreme-court-deserves-our-celebration-not-our-condemnation/) (lean-right): This Supreme Court "Deserves Our Celebration, Not Our Condemnation"
+
+
+## 10. Police investigate homicide at east Charlotte park
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
+
+Charlotte-Mecklenburg Police are investigating a homicide reported around 11:45 a.m. Wednesday in the 1300 block of Tarrington Avenue in east Charlotte, near East Independence Boulevard. Police have not said how the person died, how many people were involved, or whether anyone was arrested. A park entrance was cordoned off, and police were expected to give an update in the afternoon.
+
+**Key facts**
+- The homicide was reported around 11:45 a.m. on November 18 on Tarrington Avenue.
+- No arrests or details about the victim have been released.
+
+**How it's being framed**
+- **Center:** All three local TV stations gave brief, developing-news accounts. WSOC added neighbors' concern about violence near a park used by families.
+
+**Disputed or unclear**
+- The exact location differs: WSOC says Sheffield Neighborhood Park, WCNC says Evergreen Nature Preserve, and the reported cross streets differ (Leeds Drive vs. Pierson Drive).
+
+**Why it matters:** Local residents may want to know about a violent incident in a public park while details are still emerging.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/18/park-entrance-roped-off-amid-east-charlotte-homicide-investigation/) (center): Park entrance roped off amid east Charlotte homicide investigation
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/homicide-investigation-underway-east-charlotte-neighborhood/CFESYPOVERCILJYKU2GOGZAUOQ/) (center): Homicide investigation underway in east Charlotte neighborhood park
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/crime/homicide-investigation-east-charlotte/275-cde378bc-f6cd-4033-8684-b1ece937c16a) (center): Homicide investigation at east Charlotte nature preserve
 
 
 ---
@@ -299,4 +296,4 @@ The Carolina Panthers and Charlotte FC held their 13th annual holiday tree light
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles directly addressed AI regulation in the US or EU. Tangentially, coverage of the APEC summit noted a planned US-China AI incident-communication mechanism and Treasury Secretary Bessent's comments on testing advanced models. Separately, the Commerce Department issued new export rules restricting remote and Southeast Asian access to advanced AI chips.
+None of today's articles address AI regulation in the US or EU. Related coverage on AI-driven vulnerability discovery and AI exam cheating does not involve regulatory action.

@@ -1,0 +1,411 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-18T19:38:54.555846+00:00",
+  "local_time": "Wednesday, November 18, 2026 · 2:38 PM EST",
+  "local_date": "Nov 18, 2026",
+  "slug": "2026-11-18-1438-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Big civic news leads today: Mary Peltola won Alaska's Senate race, the last one to be called, closing out a strong midterm for Democrats. Closer to home in Charlotte, Duke Energy bills are going up, though by less than first requested, and a couple of tiny earthquakes gave folks a surprise boom. For the feel-good corner, Voyager 1 just hit a cosmic milestone and volunteers are delivering 2,000 Thanksgiving meals.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Mary Peltola wins Alaska's Senate seat, the last race called",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Democrat Mary Peltola beat Republican Sen. Dan S. Sullivan, making her the first Alaska Native U.S. senator and capping a strong midterm for Democrats. The race got extra attention because a second candidate, Daniel J. Sullivan Jr., was also on the ballot. Republicans said that may have confused voters, and President Trump called the race 'rigged.' A BBC Verify analysis found that even combining both Sullivans' votes wouldn't have overcome Peltola's lead.",
+      "key_facts": [
+        "Peltola reached 50.1% with 99% of votes counted, so no ranked-choice tally was needed",
+        "Democrats flipped 9 Senate seats, the most in a midterm since 1958, and will have 56 senators",
+        "A New York Times report alleged Democratic operatives tried to recruit 'spoiler' candidates; Peltola and Sullivan Jr. deny any link",
+        "Trump won Alaska by 13 points in 2024"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The 'spoiler' recruitment claim comes from New York Times reporting that the BBC has not independently verified. Experts note the tactic wouldn't be illegal even if it happened.",
+        "A Republican legal challenge over the two Sullivans was unsuccessful."
+      ],
+      "why": "It finalizes the balance of power in Congress and marks a historic first for Alaska Native representation.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T08:33:21+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+          "published": "2026-11-18T12:14:28+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alaska Native strongholds push Peltola into Senate history",
+          "url": "https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history",
+          "published": "2026-11-18T10:10:06+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrats flip 9 Senate seats – most since 1958",
+          "url": "https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats/",
+          "published": "2026-11-18T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Duke Energy bills will rise in January, but less than Duke asked for",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "North Carolina regulators approved Duke Energy rate increases starting Jan. 1, 2027. The hike is roughly half of the original request after the state Attorney General's Office got involved. Regulators also set new rules so big data centers cover more of the cost of the power infrastructure built for them. Outlets report the numbers a bit differently: WSOC cites about 9.5% and roughly $11 more a month by 2028, while Duke's own figures show residential increases of about 4.7–4.8%.",
+      "key_facts": [
+        "Duke Energy Carolinas typical bill: +$9.62/month on Jan. 1, 2027, then +$5.89 on Jan. 1, 2028",
+        "Duke Energy Progress typical bill: +$6.53/month in 2027, then +$4.66 in 2028",
+        "Duke originally sought about 18% for residential customers",
+        "New data center rules require large users to pay a premium and cover costs even if they leave early"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a real change to household budgets, and the data center rules aim to keep those costs from landing on regular customers.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Regulators approve Duke Energy’s rate increase, set rules for data centers",
+          "url": "https://www.wsoctv.com/news/local/data-centers-help-ease-duke-energys-rate-increase-residential-customers/JR43VKC44ZF6VHTYZ5ONR2U7XI/",
+          "published": "2026-11-18T18:11:45+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Duke Energy rate hike approved for North Carolina customers: What to know",
+          "url": "https://www.wbtv.com/2026/11/18/duke-energy-rate-hike-approved-north-carolina-customers-what-know/",
+          "published": "2026-11-18T19:09:11+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Duke Energy customers will see higher bills starting in January after rate increases approved",
+          "url": "https://www.wcnc.com/article/money/consumer/duke-energy-rate-hikes-approved/275-60a839d0-abe6-48b6-8f64-859df99a294b",
+          "published": "2026-11-18T13:46:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Tiny earthquakes give Iredell and Rowan a surprise 'boom'",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Small earthquakes rattled the area north of Charlotte late Tuesday, with reported magnitudes of 2.4 and 2.2. Folks mostly heard them more than felt them, describing a thunder-like boom. One Statesville resident said his sleeping dog jumped up and barked right before the house shook.",
+      "key_facts": [
+        "The USGS revised the Iredell County quake from 2.4 to 2.2",
+        "It struck at 11:05 p.m. Tuesday, about 4 miles west of Cleveland",
+        "Depth was about 1 km below the surface",
+        "NC's largest quake in 100 years was a 5.1 near Sparta in 2020"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A good reminder that North Carolina does get the occasional small quake, and that this one was harmless.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Earthquakes in Rowan, Iredell counties rattle area",
+          "url": "https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/",
+          "published": "2026-11-18T18:18:09+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2.4 magnitude earthquake shakes Rowan County late Tuesday night",
+          "url": "https://www.wcnc.com/article/weather/earthquake-rowan-county-north-carolina-brad-panovich-explanation/275-7b21db90-8a99-4598-b844-11d0ea45ae19",
+          "published": "2026-11-18T12:40:03+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Earthquake reported near Iredell-Rowan County line",
+          "url": "https://www.qcnews.com/news/local-news/earthquake-reported-near-iredell-rowan-county-line/",
+          "published": "2026-11-18T13:53:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Semi-truck hits Uptown apartment parking deck; one person hurt",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "A tractor-trailer crashed into the parking deck entrance of the Alister apartments near Sixth and McDowell streets Wednesday morning. One person went to the hospital with injuries that are not life-threatening. The cause hasn't been released yet.",
+      "key_facts": [
+        "Happened around 10:45–11 a.m. Wednesday",
+        "A Mazda SUV also had major damage",
+        "Traffic was congested in the area"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Handy to know if you travel through Uptown, and the good news is the injuries weren't serious.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "1 hurt after crash sends tractor-trailer into parking deck area of Uptown Charlotte apartments",
+          "url": "https://www.wbtv.com/2026/11/18/1-hurt-after-crash-sends-tractor-trailer-into-parking-deck-area-uptown-charlotte-apartments/",
+          "published": "2026-11-18T16:58:25+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Semi-trailer crashes into Uptown apartment building",
+          "url": "https://www.wsoctv.com/news/local/semi-trailer-crashes-into-uptown-apartment-building/M7YHZ25ZNZEZ7ESJFNRUQJ7RXM/",
+          "published": "2026-11-18T17:18:42+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "One person injured after 18-wheeler crashes into building in Uptown: Medic",
+          "url": "https://www.qcnews.com/charlotte/one-person-injured-after-18-wheeler-crashes-into-building-in-uptown-medic/",
+          "published": "2026-11-18T17:36:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Audit flags messy record-keeping for Hurricane Melissa relief in Jamaica",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's Auditor General found missing inventory, unrecorded donations and inconsistent figures in how the disaster agency ODPEM handled Hurricane Melissa relief supplies. Auditors also found expired crackers and insects in a warehouse. ODPEM has referred the matter to external investigators.",
+      "key_facts": [
+        "Donation estimates ranged from $400 million to $5.5 billion before ODPEM settled on $6.3 billion in July 2026",
+        "About $780 million in shipments weren't on donation schedules",
+        "359 boxes of expired crackers were found, along with weevil-infested rice reported back in March",
+        "The report was tabled in Parliament on Tuesday"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's about making sure donated aid actually reaches the people it was meant for, and an outside investigation is now underway.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Missing supplies, conflicting figures uncovered in Melissa relief audit",
+          "url": "http://jamaica-gleaner.com/article/news/20261118/missing-supplies-conflicting-figures-uncovered-melissa-relief-audit",
+          "published": "2026-11-18T06:10:18+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "ODPEM audit finds expired food, insect-infested supplies and millions in unaccounted donations",
+          "url": "https://www.jamaicaobserver.com/2026/11/18/odpem-audit-finds-expired-food-insect-infested-supplies-millions-unaccounted-donations/",
+          "published": "2026-11-18T13:52:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Trump, Xi and Putin meet in China for a first-ever three-way summit",
+      "topics": [
+        "US Headlines",
+        "Health & Medicine"
+      ],
+      "summary": "President Trump arrived in Shenzhen for the Asia-Pacific (APEC) summit and was greeted on the tarmac by Xi Jinping. He also briefly greeted Vladimir Putin. The three leaders meet together Thursday for the first time, and a Trump–Putin one-on-one is planned too. Trade, tariffs, AI and a possible path to ending the war in Ukraine are among the expected topics.",
+      "key_facts": [
+        "It's Trump and Putin's first in-person meeting since August 2025",
+        "The Kremlin says the trilateral talks are allotted 'no more than an hour'",
+        "Trump envoys Witkoff and Kushner meet Ukrainian and European officials in Berlin the same day",
+        "China says Europe must be included in any Ukraine peace talks"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "How these three get along shapes trade and global stability, and any progress on peace would be welcome news.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-18T16:10:44+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump to meet Putin in China amid renewed push to end Ukraine war",
+          "url": "https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine",
+          "published": "2026-11-18T17:18:24+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Xi, Putin condemn sanctions as Trump arrives in China",
+          "url": "https://thehill.com/homenews/administration/6227270-trump-xi-putin-asia-summit-sanctions-criticism/",
+          "published": "2026-11-18T13:10:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Volunteers deliver 2,000 Thanksgiving meals to CMS families",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "What started years ago as a 100-turkey giveaway is now 2,000 meal boxes for Charlotte-Mecklenburg Schools families. Hendrick Automotive Group donated the food. Volunteers from CMS, police, banks and community groups are delivering boxes to schools, apartments and churches. One volunteer who once lived in his car said he's glad to be the one helping now.",
+      "key_facts": [
+        "2,000 boxes, up from 100 turkeys when it began",
+        "Food donated by Hendrick Automotive Group",
+        "Grocery meal deals for 10 people: Aldi under $39, Food Lion under $40, Harris Teeter $50"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Neighbors helping neighbors, plus some budget-friendly Thanksgiving tips.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Volunteers to deliver 2,000 Thanksgiving meals to CMS families",
+          "url": "https://www.wsoctv.com/news/local/volunteers-deliver-2000-thanksgiving-meals-cms-families/OAE376DIWNACHLFSKKDTW3Q75U/",
+          "published": "2026-11-18T18:24:43+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte-Mecklenburg Schools gives out Thanksgiving dinners",
+          "url": "https://www.qcnews.com/holidays/charlotte-mecklenburg-schools-gives-out-thanksgiving-dinners/",
+          "published": "2026-11-18T19:12:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Family foundation boosts UWI psychology scholarships by 65%",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The Gore Family Foundation raised its yearly scholarship support at the University of the West Indies from US$10,000 to US$16,500. The fund honors the late Dr. Lisa Gore Seifart, a clinical psychologist. This year it will help nine postgraduate students in psychology and counselling.",
+      "key_facts": [
+        "Support went from US$10,000 to US$16,500 for 2026/2027",
+        "It doubled from US$5,000 to US$10,000 in 2024",
+        "Nine postgraduate students will be helped this year",
+        "The endowment fund has run since 2020"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "More trained counsellors and psychologists means more mental health support for Jamaican communities.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gore Family Foundation boosts UWI scholarships by 65%",
+          "url": "https://www.jamaicaobserver.com/2026/11/18/gore-family-foundation-boosts-uwi-scholarships-65/",
+          "published": "2026-11-18T19:30:36+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 20,
+    "right": 0
+  },
+  "stats": {
+    "articles": 281,
+    "stories_found": 232,
+    "sources_ok": 22,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News",
+      "Fierce Pharma"
+    ]
+  }
+}
