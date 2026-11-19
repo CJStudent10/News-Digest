@@ -1,0 +1,81 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-19T19:39:54.003609+00:00",
+  "local_time": "Thursday, November 19, 2026 · 2:39 PM EST",
+  "local_date": "Nov 19, 2026",
+  "slug": "2026-11-19-1439-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "This edition mixes some practical money news with a bit of fun. Duke Energy bills in North Carolina are going up in January, and Jamaica's central bank raised rates again to fight inflation. On the lighter side, Rihanna's baby daughter landed a Dior campaign, Eminem's alter ego went after his own awards, and the Harry Potter soundtrack helped scientists study the brain.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Diesel spill reaches Little Sugar Creek near Uptown Charlotte",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "A car crash on Wednesday spilled about 80 gallons of diesel, and some of it made its way into Little Sugar Creek near Uptown. Cleanup crews are on it, but officials say petroleum spills take time to fully clean up.",
+      "key_facts": [
+        "About 80 gallons of diesel spilled after a crash on Nov. 18",
+        "The crash happened at North McDowell and East 6th streets",
+        "Cleanup will continue until compliance standards are met",
+        "Residents can report suspected pollution by calling 311"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're near the creek and notice anything odd you can see or smell, a quick 311 call helps the cleanup.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Diesel fuel reaches Little Sugar Creek after 80-gallon spill near Uptown Charlotte",
+          "url": "https://www.wbtv.com/2026/11/19/diesel-fuel-reaches-little-sugar-creek-after-80-gallon-spill-near-uptown-charlotte/",
+          "published": "2026-11-19T16:41:12+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "80-gallon diesel spill prompts cleanup near Little Sugar Creek in Charlotte",
+          "url": "https://www.qcnews.com/charlotte/80-gallon-diesel-spill-prompts-cleanup-near-little-sugar-creek-in-charlotte/",
+          "published": "2026-11-19T19:20:54+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Diesel from crash reaches Little Sugar Creek; cleanup underway",
+          "url": "https://www.wcnc.com/article/news/local/diesel-spill-little-sugar-creek/275-602f6ee9-a4da-488d-a76d-b1c778d68e98",
+          "published": "2026-11-19T18:06:11+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 3,
+    "right": 0
+  },
+  "stats": {
+    "articles": 286,
+    "stories_found": 243,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

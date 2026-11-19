@@ -1,306 +1,310 @@
-# My Daily Brief: Evening edition
-_Wednesday, November 18, 2026 · 10:51 PM EST · 653 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Midday edition
+_Thursday, November 19, 2026 · 2:38 PM EST · 617 articles from 39 outlets · summaries by Claude_
 
-> Diplomacy and markets dominate this edition. President Trump is in Shenzhen for a first-ever three-way summit with Xi Jinping and Vladimir Putin, while Anthropic priced a record-setting IPO amid turmoil at Nvidia after Jensen Huang's exit. In Washington, newly empowered Democrats nominated Hakeem Jeffries for speaker and began laying groundwork for investigations, while Senate Republicans pushed a Trump FCC nominee through committee during a Democratic boycott.
+> A first-ever three-way summit of the US, Chinese and Russian leaders in Shenzhen produced a joint 'peace declaration' but no binding agreements, while fighting over the Crimean Bridge intensified. Anthropic debuted on the Nasdaq in the largest IPO on record, the UN's top court found Myanmar responsible for genocide against the Rohingya, and Elon Musk distanced himself from MAGA after heavy Republican midterm losses. Also covered: a South Korean ruling on former PM Han Duck-soo, a Chase vendor data breach, a North Carolina utilities commissioner's resignation, and Susan Smith's parole denial.
 
 
-**Sources linked in this edition:** 11 left · 20 center · 10 right
+**Sources linked in this edition:** 12 left · 29 center · 10 right
 
 ---
 
-## 1. Trump, Xi and Putin meet in Shenzhen for first three-way summit; possible Kim meeting unconfirmed
-`Asia Business & Politics` `US Headlines` `Korea` · Covered by 13 outlets (L 3 · C 8 · R 2)
+## 1. Trump, Xi and Putin hold first three-way meeting, discussing nuclear arms and Ukraine
+`Asia Business & Politics` `Korea` `US Headlines` · Covered by 12 outlets (L 3 · C 7 · R 2)
 
-President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin were set to hold their first-ever trilateral meeting on Thursday, on the sidelines of the APEC summit in Shenzhen, China. Expected topics include nuclear arms control, the wars in Ukraine and Iran, trade and AI chips, though there is no official agenda. Trump and Xi were also scheduled to meet one-on-one beforehand, after Xi broke protocol to greet Trump personally at the airport. Trump has floated meeting North Korean leader Kim Jong Un during the trip, but officials say nothing is confirmed. It is unclear whether the three leaders will agree on a joint statement.
-
-**Key facts**
-- It is the first formal meeting of the leaders of the US, China and Russia as a trio, held on the sidelines of APEC in Shenzhen.
-- Trump said: "We're going to talk about denuclearization – tough subject, because it's very hard for any of us to say we'll get rid of our nukes."
-- PBS reported the Pentagon's estimate that China will have more than 1,000 nuclear warheads by 2030, still a fraction of US and Russian arsenals.
-- IAEA chief Rafael Grossi said a new extension at North Korea's Yongbyon enrichment facility was externally complete by late October, calling the program "a cause for serious concern."
-- Secretary of State Marco Rubio said Trump is serious about engaging Kim but no meeting has been confirmed.
-
-**How it's being framed**
-- **Left:** The Guardian's editorial argued the meeting is a spectacle rather than progress. It said the summit hands Xi and Putin symbolic wins, distracts from Republicans' midterm losses, and leaves Ukraine and Taiwan anxious. PBS NewsHour was more straightforward. It focused on nuclear arms control and China's fast-growing arsenal, quoting a senior US official urging China to "step up to the adult table" and a Hong Kong scholar on why Beijing wants to host.
-- **Center:** The Korea Herald (via Yonhap) focused on logistics: the joint statement under negotiation, the bilateral agenda on tariffs and rare earths, and uncertainty over a Trump–Kim meeting. Axios highlighted Xi's surprise tarmac greeting as a reciprocal gesture of respect.
-- **Right:** The New York Post led with the IAEA warning about North Korea's expanding nuclear program as backdrop to the summit and a possible Kim meeting. Fox News featured members of a congressional China commission warning that Trump faces a "two versus one" dynamic. Those members said Beijing may seek Taiwan concessions and Moscow may want pressure on Ukraine, and that simply "holding ground" would be a win.
-
-**Disputed or unclear**
-- Whether the three sides will adopt a joint statement.
-- Whether Trump will meet Kim Jong Un; Trump said it is "up to President Xi."
-- A China commission vice chair claimed Beijing agreed to the meeting only with assurances that "essentially nothing would happen"; this is his assessment, not confirmed.
-- How substantive the talks will be. The Guardian said the meeting is scheduled for under an hour, and China's Foreign Ministry said it could have "groundbreaking significance."
-
-**Why it matters:** The three largest nuclear powers are meeting together for the first time, with arms control, Ukraine, Iran and Taiwan all potentially in play.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10942242) (center): Trump, Xi, Putin set to hold historic trilateral summit; US-N. Korea meeting uncertain
-- [The Guardian (US)](https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress) (lean-left): The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial
-- [New York Post](https://nypost.com/2026/11/18/world-news/kim-jong-uns-nuclear-program-draws-serious-concern-ahead-of-trumps-summit-with-xi-putin/) (lean-right): Kim Jong Un’s nuclear program draws ‘serious concern’ ahead of Trump’s historic summit with Xi, Putin
-- [Axios](https://www.axios.com/2026/11/18/trump-china-xi-hug-airport) (center): Xi Jinping breaks protocol to greet and hug Trump at China airport
-- [PBS NewsHour](https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin) (lean-left): Trump lands in China for trade talks and high-stakes summit with Xi and Putin
-- [Fox News (World)](https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount) (right): China watchdog warns Trump faces ‘2-on-1’ showdown with Xi, Putin as Taiwan risks mount
-
-
-## 2. Anthropic prices IPO at $83 a share, above expected range, ahead of Nasdaq debut
-`AI & Cybersecurity` `Korea` · Covered by 11 outlets (L 4 · C 5 · R 2)
-
-Anthropic, maker of the Claude AI models, priced its initial public offering at $83 per share on Wednesday. That is above its $70–$78 target range and values the company at about $1.5 trillion. It expanded the offering to about 980 million shares and is set to begin trading Thursday on the Nasdaq under the ticker ANT. The listing comes amid market jitters over AI spending, a possible regulatory push from a Democratic-led Congress, and the resignation of Nvidia CEO Jensen Huang. Anthropic's filings show fast-rising revenue alongside large losses and roughly $900 billion in long-term computing commitments.
+US President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin met for more than an hour on Thursday on the sidelines of the APEC summit in Shenzhen, the first meeting of its kind. Trump called it historic and said the three countries are 'uniquely positioned' to discuss reducing nuclear weapons. Xi called for nuclear weapons to be prohibited and destroyed, and Putin spoke of shared responsibility for peace. No arms control agreement or Ukraine breakthrough was announced. Trump also held separate meetings with Xi and Putin, and later criticised the International Criminal Court as 'out of control.'
 
 **Key facts**
-- IPO priced at $83 per share versus an expected $70–$78 range, valuing Anthropic at about $1.5 trillion.
-- About 980 million shares were sold, up from the 825 million initially planned, raising roughly $81 billion.
-- Anthropic reported $16.286 billion in revenue and a net loss of $80 billion in the first half of 2026.
-- The company has $6.2 billion in debt and compute commitments of more than $70 billion over the next 12 months.
-- Vanda Research estimated about $250 million in first-day retail net buying.
+- It was the first trilateral meeting of the US, Chinese and Russian leaders; it lasted more than an hour.
+- The New START treaty, the last US-Russia nuclear arms pact, expired in February; Trump wants a new deal that includes China.
+- China has more than 600 warheads, compared with more than 5,000 believed to be held by each of the US and Russia.
+- Trump and Putin met separately for about 40 minutes, their first talks since the Alaska summit in 2025.
+- Trump said: 'We are really making history.'
 
 **How it's being framed**
-- **Left:** PBS (AP) and The Guardian reported the pricing as a sign of strong demand. They also stressed the company's finances: substantial debt, unprofitability, huge compute commitments, and investor worries about an AI bubble. The Guardian detailed the revenue growth alongside the $80 billion loss.
-- **Center:** CNBC focused on retail investor enthusiasm through profiles of individual buyers, contrasting an eager first-time participant with a skeptic who doubts small investors will get allocations. The Korea Herald framed the debut as a test of whether AI investment can generate sustainable returns, in the context of Seoul market moves.
-- **Right:** Fox Business emphasized the scale, saying the IPO was "blowing past" its target range, and noted that actor Ashton Kutcher's venture firm stands to gain. The Washington Examiner called it the largest IPO ever. It paired that with public fears about AI, citing a case in which a Claude model submitted a false homicide tip to Philadelphia police.
+- **Left:** The Guardian and PBS (AP) stressed that there was no breakthrough and that Putin gained global stature. They highlighted European and Ukrainian suspicion, Merz's fear of another 'Anchorage moment', Yalta comparisons, and Trump's ICC criticism given Putin's arrest warrant. The Guardian described both Trump and Putin as fighting 'failing wars of choice.'
+- **Center:** The Korea Herald (AP) and The Hill presented it as a possible historic pivot or a forgettable photo op. They quoted experts such as Daryl Kimball who kept expectations low, and covered the Iran, trade and Taiwan side discussions.
+- **Right:** The New York Post focused on the optics, arguing that Putin was snubbed and diminished by Chinese protocol while Trump got a warm welcome. It quoted analysts who said this reflected Beijing courting Trump. The Daily Caller emphasised the historic nature of the meeting and Trump's argument for engaging with rivals.
 
 **Disputed or unclear**
-- Whether Anthropic's IPO beats SpaceX's record is reported inconsistently. CNBC put SpaceX's June IPO at a record $85.7 billion raised, while PBS said SpaceX raised about $75 billion. The Washington Examiner called Anthropic's the largest IPO ever.
-- OpenAI's timing: PBS says it plans to go public next year, while The Guardian says Sam Altman delayed the IPO until safety concerns are overcome.
-- How the stock will trade once it opens Thursday.
+- Whether the summit will lead to sustained arms control talks or was mainly symbolic.
+- Whether Putin's protocol treatment in China signals anything about Beijing's stance; a Eurasia Group analyst cautioned against reading too much into it.
+- Putin said Russia accepted a US-proposed compromise from Anchorage and that Ukraine should accept it; Ukraine and Europe previously rejected those proposals.
 
-**Why it matters:** As the first major frontier AI lab to go public, Anthropic's performance is likely to shape investor sentiment toward the whole AI sector.
+**Why it matters:** The three largest nuclear powers met at a time when there is no arms control treaty in force and wars are ongoing in Ukraine and Iran.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html) (center): Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut
-- [PBS NewsHour](https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion) (lean-left): Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion
-- [Fox Business](https://www.foxbusiness.com/fox-news-tech/anthropic-prices-ipo-83-share-blowing-target-range-report) (lean-right): Anthropic prices IPO at $83 a share, blowing past target range: report
-- [The Korea Herald](https://www.koreaherald.com/article/10942447) (center): Seoul shares open higher ahead of Anthropic's market debut
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo) (lean-left): Anthropic sets share price at $83 for stock market debut, above expected range
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/finance-and-economy/4808336/anthropic-ipo-83-share-stock-market-debut/) (lean-right): Anthropic prices IPO at $83 per share ahead of stock market debut
+- [The Korea Herald](https://www.koreaherald.com/article/10943230) (center): Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms, Ukraine war
+- [The Guardian (Asia-Pacific)](https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit) (lean-left): Global courts under attack and four more takeaways from the Trump, Xi, Putin meeting
+- [New York Post](https://nypost.com/2026/11/19/world-news/china-sent-tallest-official-to-tower-over-putin-during-historic-summit/) (lean-right): China sent its tallest official to tower over Putin as he arrived for Trump and Xi summit
+- [The Hill](https://thehill.com/homenews/administration/6231008-trump-xi-putin-summit-takeaways/) (center): 5 takeaways on Trump’s unprecedented summit with Putin, Xi
+- [PBS NewsHour](https://www.pbs.org/newshour/world/for-putin-sharing-a-spotlight-with-trump-and-xi-boosts-his-profile-on-the-global-stage) (lean-left): For Putin, sharing a spotlight with Trump and Xi boosts his profile on the global stage
+- [The Daily Caller](https://dailycaller.com/2026/11/19/trump-xi-putin-russia-china-ukraine-nukes-summit) (right): Editor Daily Rundown: Trump, Xi and Putin Hold Historic Summit On Nukes And Ukraine
 
 
-## 3. House Democrats nominate Hakeem Jeffries for speaker; 11 vote no
-`US Headlines` · Covered by 10 outlets (L 3 · C 6 · R 1)
+## 2. US, China and Russia issue joint 'peace declaration' after Shenzhen summit
+`Asia Business & Politics` `US Headlines` `Korea` · Covered by 9 outlets (L 2 · C 5 · R 2)
 
-House Democrats on Wednesday nominated Minority Leader Hakeem Jeffries of New York to be speaker when the new Congress convenes, after winning the House in the midterms. If elected in the full House vote on January 3, he would be the first Black speaker. Eleven Democrats voted against him in the closed-door caucus vote. Seven of them, mostly incoming progressives, said talks with Jeffries over issues like Medicare for All, ICE and Gaza were ongoing. Jeffries said the results "speak for themselves" and urged Democrats to "fight MAGA extremism, not each other."
+After their summit, the three leaders issued a four-point declaration. It covered UN reform, increased production of refined petroleum products, criticism of the International Criminal Court and similar bodies for 'abusing their jurisdiction', and a pledge to discuss nuclear risk reduction and non-proliferation. It restated that 'a nuclear war cannot be won and must never be fought' but set no binding limits or timelines. Xi called the meeting 'fruitful', and Putin rejected the view that it was a photo op. Trump plans a White House press conference on Friday.
 
 **Key facts**
-- Jeffries received 251 votes in the secret caucus ballot; 11 Democrats voted no.
-- The full House votes on a speaker on January 3, 2027; 218 votes are needed.
-- Katherine Clark was elected majority leader and Pete Aguilar majority whip; PBS reported Joe Neguse as assistant speaker and the Guardian reported Ted Lieu as caucus chair.
-- Democrats secured a 56–44 Senate majority after Mary Peltola won Alaska's Senate race.
-- Jim Jordan is set to be House minority leader.
+- The declaration has four points: UN reform, refined petroleum supply, ICC jurisdiction and nuclear risk dialogue.
+- The nuclear war language matches earlier statements by the five permanent UN Security Council members.
+- The declaration contains no binding arms reductions, deadlines or plan to end the wars in Ukraine or Iran.
+- Putin is subject to an ICC arrest warrant issued in March 2023.
 
 **How it's being framed**
-- **Left:** The Guardian highlighted the historic first and the progressive concerns that Jeffries represents a risky status quo. It cited an Indivisible poll showing 28% favorability and noted his recent moves toward expanding Medicare. PBS gave a brief news wrap that included the dissenters' statement and Jeffries' response, alongside Peltola's Senate win and the start of Oversight investigations.
-- **Center:** DW, Axios and The Hill reported the vote count, the historic nature of the nomination, and the leadership team. DW quoted the dissenters' joint statement at length. Axios noted the vote was tallied at Jeffries' request rather than done by acclamation.
-- **Right:** The Washington Examiner framed the 11 dissenters as marginal and their demands as "largely meaningless" given the size of the majority. It described several as Democratic Socialists or aligned progressives and quoted allies like Rep. Henry Cuellar dismissing them.
+- **Left:** The Guardian stressed that the declaration made no mention of the Ukraine and Iran wars. It quoted analysts who called the summit mostly symbolic and a win for Putin and for Beijing's agenda-setting. Al Jazeera briefly highlighted Xi's call for joint efforts on peace.
+- **Center:** The Korea Herald (AFP) and The Hill reported the text factually, noting that it was first published by Chinese state media and the Kremlin, and quoted Xi's upbeat remarks.
+- **Right:** Fox News presented it as a historic declaration and quoted extensively from the White House and Chinese statements. The Daily Caller called it historic but detailed its limits, including the absence of binding cuts, the hurdles to UN reform and China's arsenal growth.
 
 **Disputed or unclear**
-- Total ballots cast: DW reported 265, while The Guardian and Axios reported 262.
-- Size of the new Democratic majority: DW says at least 257 seats, the Examiner says "north of 255."
-- What commitments, if any, Jeffries has made to progressive dissenters.
+- Accounts differ on the White House release: AFP said nothing had come from the White House at first, while Fox and the Daily Caller cite a White House statement.
+- Reported meeting length varies, from 'more than an hour' to about 1 hour 20 minutes.
+- It is unclear when nuclear talks would start or whether they would aim for binding limits.
 
-**Why it matters:** The speaker controls which bills reach the House floor and will lead Democrats' oversight of the Trump administration for the next two years.
+**Why it matters:** The statement shows where the three powers agree, including on curbing the ICC, and leaves the most pressing conflicts unaddressed.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf) (center): US House Democrats nominate Hakeem Jeffries for speaker
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination) (lean-left): Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns
-- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4807739/jeffries-allies-laugh-off-speaker-dissents/) (lean-right): Jeffries and allies, with majority of 40, laugh off 11 speaker dissents
-- [Axios](https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3) (center): House Democrats formally nominate Hakeem Jeffries for speaker
-- [PBS NewsHour](https://www.pbs.org/newshour/show/news-wrap-democrats-nominate-hakeem-jeffries-for-speaker-of-the-house) (lean-left): News Wrap: Democrats nominate Hakeem Jeffries for Speaker of the House
-- [The Hill](https://thehill.com/video-clips/6227720-watch-live-house-democrats-press-conference-leadership-elections-jeffries-speaker/) (center): Watch live: Jeffries speaks after notching nomination for next Speaker
+- [The Korea Herald](https://www.koreaherald.com/article/10943254) (center): China, US, Russia leaders issue 'peace declaration' after summit
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars) (lean-left): China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars
+- [Fox News](https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit) (right): Trump, Putin, Xi issue 4-point declaration after historic summit
+- [The Hill](https://thehill.com/policy/international/6229659-trump-xi-putin-peace-declaration-china-summit/) (center): Trump, Xi, Putin issue 4-point ‘declaration toward peace’ after summit
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126) (lean-left): China’s Xi urges US and Russia to join forces to safeguard world peace
+- [The Daily Caller](https://dailycaller.com/2026/11/19/trump-putin-xi-peace-declaration-major-wars-unsolved) (right): Trump, Putin, Xi Unveil Historic ‘Peace’ Declaration, But Major Wars Remain Unresolved
 
 
-## 4. Google's AI integration in Search draws school pushback as it adds private 'temporary threads'
-`AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 1 · R 1)
+## 3. Anthropic begins trading on Nasdaq in largest IPO on record
+`AI & Cybersecurity` · Covered by 9 outlets (L 4 · C 4 · R 1)
 
-Google is facing pushback from some of the largest US school districts over how its AI features are tied to Search. According to The New York Times, as reported by The Verge, schools that turn off Google's Gemini AI features next year will also lose access to Search, because Google says the two are "deeply integrated." New York, Los Angeles and Chicago schools are reportedly considering alternatives. Google says Gemini apps and Search will be off by default for K-12 student accounts until schools choose to enable them, and it is piloting a step-by-step learning mode. Separately, Google launched "temporary threads" in its AI Mode, letting users hold conversations that are not saved to their search history.
+Anthropic, maker of the Claude AI tool, began trading under the ticker ANT. Shares opened at $111.50, well above the $83 IPO price that valued the company at about $1.5 trillion. The company sold 980 million shares, raising about $81 billion, which surpasses SpaceX's June IPO. Filings show fast revenue growth alongside large accounting losses, about $900 billion in computing commitments, and warnings about catastrophic AI risks. Supporters see the listing as easing AI funding worries, while others point to bubble fears and possible regulation from an incoming Democratic-led Congress.
 
 **Key facts**
-- Google says schools cannot disable AI within Google Search because Search and AI are "deeply integrated."
-- Google says Gemini, Gemini Notebook and Search will be off by default for K-12 student accounts until administrators enable them.
-- Chromebooks are used by 93% of US school districts, per Reason.
-- Google's new "temporary threads" in AI Mode detach sessions from a user's account and are rolling out globally.
+- The IPO was priced at $83 a share, above the initial range of $70 to $78; 980 million shares were offered.
+- Shares opened at $111.50; CNBC reported they traded around $96 by early afternoon.
+- The company has about $900 billion in spending commitments, roughly $70 billion of it due within 12 months.
+- Anthropic carries $6.2 billion in debt and is unprofitable under standard accounting rules.
+- Founders keep 50.1% of voting power, and a Long-Term Benefit Trust generally selects a majority of the board.
 
 **How it's being framed**
-- **Left:** The Verge framed it as Google "trying to force Gemini on schools." It quoted officials like NYC Mayor Zohran Mamdani and Sen. Bernie Sanders calling it "extortion," and cited concerns about AI's effects on learning and children's mental health. Google's response was included.
-- **Center:** TechCrunch covered only the new incognito-style temporary threads feature in AI Mode, as a consumer privacy product update.
-- **Right:** Reason argued Google is not forcing AI on schools. It said critics such as Lina Khan and Sen. Richard Blumenthal confuse a product preference with an antitrust violation, citing a judge's ruling that Search and AI Overviews are one product and an antitrust scholar's view. It noted schools can use rival search engines.
+- **Left:** PBS (AP) emphasised investor bubble fears, public anxiety about AI, debt and spending strain, and the regulatory threat. The Verge highlighted CEO Dario Amodei's safety pledges and the risks disclosed in the filing, such as 'self-preserving' AI and agents escaping test environments.
+- **Center:** CNBC framed the IPO as a boon to AI-linked stocks and a 'clearing event' for funding concerns. DW cast it as a test of investor appetite amid bubble worries. The Hill gave the basic figures.
+- **Right:** Fox Business focused on strong demand and deal mechanics, including lock-ups, the retail allocation and revenue growth. It also noted the 'end of humanity' risk disclosure.
 
 **Disputed or unclear**
-- Whether tying AI to Search amounts to coercion or a legitimate product design choice.
-- Whether the largest districts will actually switch away from Google Search.
+- Valuation at the open differs: DW put it at $2 trillion, while others cite the $1.5 trillion IPO valuation.
+- Total funds raised differ by source: about $81 billion from the IPO, $26 billion from a private placement, and CNBC's figure of more than $100 billion overall.
+- Reported losses cover different periods: an $80.7 billion net loss in the first half versus $104 billion over nine months, both mostly from noncash charges.
+- The Hill dated the opening to Wednesday; other outlets say Thursday.
 
-**Why it matters:** How AI is built into everyday tools like search affects what millions of students use in classrooms, and it is drawing antitrust and political scrutiny.
+**Why it matters:** The listing is a major test of whether public markets will fund the enormous costs of building AI.
 
 **Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/) (center): Google’s AI feature in Search gets its own incognito mode
-- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google) (lean-left): The nation’s largest school districts consider ditching Google Search
-- [Reason](https://reason.com/2026/11/18/no-google-is-not-forcing-schools-to-adopt-ai/) (lean-right): No, Google Is Not Forcing Schools To Adopt AI
+- [CNBC](https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html) (center): Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit
+- [PBS NewsHour](https://www.pbs.org/newshour/economy/anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record) (lean-left): Anthropic begins trading as a $1.5 trillion company in the biggest IPO on record as shares spike
+- [Fox Business](https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo) (lean-right): Anthropic begins trading on Nasdaq in record-breaking IPO
+- [Deutsche Welle](https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf) (center): Anthropic trading tests investors' appetite for AI
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq) (lean-left): Anthropic starts trading on Wall Street
+- [The Hill](https://thehill.com/policy/technology/6230987-anthropic-sets-ipo-record/) (center): Anthropic opens at $111.50 per share after largest IPO ever
 
 
-## 5. Trump says US would 'wipe out' Iran if it uses a dirty bomb, claims Iran seeking chemical and biological weapons
-`Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 1 · C 1 · R 1)
+## 4. Musk says he is 'not MAGA' and regrets midterm spending; Trump responds
+`US Headlines` · Covered by 8 outlets (L 1 · C 3 · R 4)
 
-Speaking to Fox News in Shenzhen, President Trump said Washington residents should not worry about reports that Iran is considering a dirty bomb or chemical attack, adding, "if it does happen, we wipe them out." He claimed Iran is "looking at gases, looking at bio" because the US has blocked its nuclear path. He said the US "didn't start this war." He also defended the war despite Vice President Vance's post-midterm comments linking Republican losses to it. Separately, the Saudi-led coalition in Yemen said it responded to a Houthi missile fired toward Riyadh.
+Speaking at the New York Times DealBook Summit, Elon Musk said he is 'not MAGA.' He also said he felt 'pretty foolish' about spending record sums backing Republicans who lost badly in the midterms, though he added that results might have been worse without it. Democrats won both chambers of Congress, along with Texas's Senate race and governorship. Trump called Musk 'a friend' but said that when people veer from MAGA 'they don't do very well.' Democrats have promised scrutiny of tech firms, and one senator told Musk he is 'still getting a subpoena.'
 
 **Key facts**
-- Trump on a possible Iranian attack: "If it does happen, we wipe them out."
-- Trump said Iran is "looking at gas and they're looking at the bio."
-- Trump said pursuing a memorandum of understanding with Iran "delayed things a little bit" but "wasn't a mistake."
-- The Saudi-led coalition said it responded to a Houthi missile fired toward Riyadh.
+- Musk was the top individual donor of the midterms, with figures cited ranging from about $442 million to $474 million.
+- Democrat James Talarico beat Ken Paxton in the Texas Senate race, and Gina Hinojosa defeated Gov. Greg Abbott.
+- Musk said: 'If I could rewind the clock, I would have spent less money.'
+- Sen. Ruben Gallego responded: 'You are still getting a subpoena.'
 
 **How it's being framed**
-- **Left:** Al Jazeera's live coverage presented Trump's statements as claims ("Trump claims Iran is seeking...") alongside regional developments such as the Houthi missile toward Riyadh.
-- **Center:** The Hill framed the remarks as a renewed threat to annihilate Iran in response to a reported dirty bomb threat.
-- **Right:** The Washington Examiner gave fuller detail of Trump's interview, including his comments on Iran's weapons, the memorandum of understanding and Vance. It referenced an FBI deputy director calling the alleged dirty bomb threat "largely aspirational."
+- **Left:** PBS (AP) framed the remarks as tech titans scrambling to rebrand after aligning with Trump for contracts and favourable policy. It drew a parallel with Palantir CEO Alex Karp's claim to be progressive.
+- **Center:** BBC detailed the size of Musk's spending, his ties to government, and possible consequences for his businesses, such as data centre limits and probes into SpaceX contracts. Axios and The Hill emphasised that the Trump-Musk relationship has survived repeated breaks.
+- **Right:** The New York Post and Washington Examiner led with Trump's 'warning' to Musk and contrasted Musk's earlier 'dark MAGA' persona. The Post included Gallego's subpoena retort.
 
 **Disputed or unclear**
-- Trump's claim that Iran is pursuing chemical and biological weapons is not independently verified in the articles.
-- How credible the reported dirty bomb threat is; an FBI official reportedly called it "largely aspirational."
-- What Trump meant by "we'll see what happens after … Jan. 1."
+- Musk's spending for Paxton varies by source: at least $45 million (BBC), more than $150 million (NY Post) and around $200 million (PBS).
+- Accounts differ on when Trump spoke to NBC: Tuesday per the NY Post, Thursday per others.
+- It is unclear whether Musk faces congressional investigation.
 
-**Why it matters:** The remarks signal possible escalation in an ongoing US–Iran war that has already shaped domestic politics.
+**Why it matters:** The richest political donor is publicly reassessing his alliance just as Democrats prepare to oversee tech companies.
 
 **Read it yourself:**
-- [The Hill](https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us/) (center): Trump says ‘we’ll wipe them out’ if Iran dirty bombs US
-- [Al Jazeera English](https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz) (lean-left): Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/) (lean-right): Trump hints Iran could launch ‘gas’ or ‘bio’ attack following dirty bomb report
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss) (center): Elon Musk says record $446m spending on US midterms was 'pretty foolish'
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/im-not-maga-elon-musk-says-after-republicans-midterm-thrashing) (lean-left): 'I'm not MAGA,' Elon Musk says after Republicans' midterm thrashing
+- [New York Post](https://nypost.com/2026/11/19/us-news/trump-sends-pointed-message-to-elon-musk-after-trillionaire-claims-hes-not-maga/) (lean-right): Trump sends pointed message to Elon Musk after trillionaire claims he’s ‘not MAGA’
+- [Axios](https://www.axios.com/2026/11/19/trump-elon-musk-not-maga-friend) (center): Trump backs Elon Musk in latest MAGA breakup
+- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4808992/trump-warns-elon-musk-over-maga-comment/) (lean-right): Trump issues warning to Musk over ‘I’m not MAGA’ comments
+- [The Hill](https://thehill.com/homenews/campaign/6229970-elon-musk-claims-not-maga/) (center): Musk says he’s ‘not MAGA’
 
 
-## 6. Nvidia board rules out Huang's return as interim CEO addresses staff and Ackman criticizes directors
-`AI & Cybersecurity` · Covered by 4 outlets (L 0 · C 3 · R 1)
+## 5. South Korea's Supreme Court sends ex-PM Han Duck-soo's insurrection case back for retrial
+`Korea` `US Headlines` · Covered by 5 outlets (L 1 · C 4 · R 0)
 
-Nvidia's new board chair Harvey Jones said the board "does not intend to reinstate" Jensen Huang as CEO, after Huang said he would be honored to return. Huang resigned last week after reports of extramarital affairs, including one with an executive US officials believe is a Chinese spy. Interim CEO Colette Kress told employees at an all-hands meeting "let's move forward" and said the annual pay review would be moved up to December. Hedge fund manager Bill Ackman accused the board of panicking and breaching its duty of care. Microsoft CEO Satya Nadella expressed confidence in Nvidia's team.
+South Korea's Supreme Court, sitting as a full bench, overturned part of the appeals ruling that sentenced former Prime Minister Han Duck-soo to 15 years for his role in Yoon Suk Yeol's December 2024 martial law. It found insufficient evidence that Han intended to subvert the constitution when he proposed a Cabinet meeting before the declaration. It upheld findings on his conduct after the declaration, as well as convictions for document falsification and perjury. The Seoul High Court will retry the case, and Han stays in custody for two more months. Separately, the court upheld a four-year sentence for Yoon's wife, Kim Keon Hee.
 
 **Key facts**
-- Board chair Harvey Jones: the board "unanimously accepted his resignation and does not intend to reinstate Jensen as CEO."
-- Nvidia's annual review and pay raise process is being moved from March to December.
-- Nvidia shares are down 37% from their 52-week high, per CNBC.
-- Nvidia reported third-quarter earnings Tuesday that topped Wall Street expectations.
-- Huang had served as CEO for 33 years.
+- Han, 77, was first sentenced to 23 years in January; the sentence was cut to 15 years on appeal in May.
+- Chief Justice Cho Hee-dae said the martial law declaration was unquestionably unconstitutional and illegal.
+- Yoon was sentenced to life in February, and his appeal ruling is scheduled for Jan. 26.
+- The special prosecutors said they respect the ruling.
 
 **How it's being framed**
-- **Center:** CNBC reported on the all-hands meeting with competing accounts of employee mood: one attendee said staff want Huang back, another said employees welcomed leadership's remarks. The Hill reported the board's rejection of Huang's return. TechCrunch featured Nadella's sympathetic but forward-looking comments that founders "are not gods."
-- **Right:** Fox Business centered on Bill Ackman's critique that the board "panicked" over headlines and rushed to judgment. It quoted his arguments about Delaware duty-of-care obligations and the risks of a broad internal investigation.
+- **Left:** Al Jazeera reported the retrial order factually. It noted Han's denial of all charges except perjury and gave background on Yoon's ouster.
+- **Center:** Yonhap, the Korea Herald, CNA and DW reported the legal detail of which findings were upheld and which were overturned. They stressed the court's affirmation that the martial law was illegal and noted the Kim Keon Hee ruling.
 
 **Disputed or unclear**
-- Whether most employees want Huang reinstated; sources gave CNBC conflicting accounts.
-- The scope and findings of the board's ongoing investigation.
-- The allegation that Huang's partner is a Chinese spy rests on what US officials reportedly believe.
+- The sentence Han will receive on retrial is unknown.
+- Han denies wrongdoing on all charges except perjury.
 
-**Why it matters:** Nvidia is central to the AI economy, so leadership instability there affects markets and the broader tech sector.
+**Why it matters:** The ruling shapes how South Korea holds senior officials accountable for the 2024 martial law crisis.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html) (center): Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit
-- [Fox Business](https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked) (lean-right): Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/) (center): Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit
-- [The Hill](https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/) (center): Nvidia rejects Huang offer to return as CEO
+- [The Korea Herald](https://www.koreaherald.com/article/10943172) (center): Han Duck-soo case on insurrection sent back to appeals court
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt) (lean-left): South Korean court orders retrial for ex-PM Han over martial law attempt
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261119001252315) (center): (2nd LD) Top court overturns 15-yr prison term for ex-PM Han over martial law role
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/south-korea-former-prime-minister-han-duck-soo-retrial-sentencing-6565916) (center): South Korea's Supreme Court orders retrial for ex-PM Han over his role in martial law attempt
+- [Deutsche Welle](https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-rdf) (center): South Korea's top court overturns jail term for former PM Han
 
 
-## 7. Senate committee advances Trump FCC nominee as Democrats boycott vote
-`US Headlines` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 6. UN's top court rules Myanmar committed genocide against the Rohingya
+· Covered by 9 outlets (L 4 · C 5 · R 0)
 
-The Senate Commerce Committee, chaired by Ted Cruz, approved FCC nominee Danielle Thumann Severs with only Republicans present after all committee Democrats stayed away. Democrats objected to advancing a Republican nominee without a paired Democratic nominee. They fear Trump could then fire the FCC's lone Democrat, Anna Gomez. They also accuse Thumann of giving inaccurate testimony about her work for FCC Chair Brendan Carr on media matters. Republicans hope to confirm her before Democrats take control of the Senate in January.
+The International Court of Justice ruled 9-6 that Myanmar committed genocide against the Rohingya in its 2017 military campaign in Rakhine state. It is the first time the court has found a state responsible for genocide. The judges rejected Myanmar's argument that it was conducting counterinsurgency operations. The court ordered reparations, the safe return of refugees, and the prosecution of perpetrators, though it has no enforcement power beyond referral to the UN Security Council. The case was brought by Gambia, and observers say it may influence South Africa's genocide case against Israel.
 
 **Key facts**
-- All Republicans present voted in favor; Ars Technica reported the tally as 15–0 with 13 Democrats absent.
-- Thumann testified she had "not worked with the Chairman on any media-related issues."
-- Sen. Ben Ray Luján cited FOIA documents he says show she helped draft Skydance commitments tied to the Skydance-Paramount merger approval.
-- Confirmation would give the FCC three Republicans and one Democrat.
+- The vote was 9-6, read out by ICJ President Yuji Iwasawa.
+- The court estimated about 10,000 Rohingya were killed and all or parts of 392 villages were burned.
+- More than 700,000 Rohingya fled to Bangladesh; more than a million now live in camps there.
+- Britain said it is expelling Myanmar's defence attaché and called for a Security Council session.
+- Myanmar had not responded at the time of reporting.
 
 **How it's being framed**
-- **Left:** The Verge emphasized Democrats' procedural objections, their fear that Gomez would be fired, and Luján's documented concerns about Thumann's testimony. It also included Cruz's argument that this was an ordinary nomination.
-- **Center:** Ars Technica focused on the procedural dispute over whether a minority member is required for a quorum, presenting both Cruz's and Sen. Maria Cantwell's positions, along with the false-testimony allegation. The Hill briefly reported the boycott and Democrats' stated reason.
-- **Right:** The Daily Caller framed the boycott as a failed tactic ("Boycott Goes Bust"). It quoted Cruz warning of "two years of total obstruction" and gave background on Democratic criticism of Carr.
+- **Left:** The Guardian, PBS (AP) and NPR centred survivors' voices and the celebrations in the camps. They emphasised the precedent for the Gaza case and the limits on enforcing the ruling.
+- **Center:** DW, Axios and The Hill focused on the court's legal findings and remedies and Rohingya activists' reactions. Axios also flagged the implications for the Israel case.
 
 **Disputed or unclear**
-- Whether committee rules allowed action without a minority member present. Cruz's office says Senate rules permit it; Cantwell's office says longstanding practice requires one.
-- Whether Thumann's testimony about media-related work was accurate.
-- The number of Republicans on the panel: The Verge says 14, while Ars Technica reports a 15–0 vote.
+- It is unclear whether Myanmar will comply, since the court cannot enforce its rulings.
+- The number who fled is reported as about 700,000 to more than 740,000.
+- How the ruling will affect the Gaza case is speculative.
 
-**Why it matters:** The fight previews nomination battles under a Democratic Senate and affects the partisan balance of the agency that regulates broadcasters.
+**Why it matters:** It is a first-ever state genocide ruling and may set the legal bar for future cases.
 
 **Read it yourself:**
-- [Ars Technica](https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/) (center): Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote
-- [The Verge](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs) (lean-left): Democrats skip a vote on adding Brendan Carr’s adviser to the FCC
-- [The Daily Caller](https://dailycaller.com/2026/11/18/democrats-boycott-trump-fcc-pick) (right): Democrats’ Boycott Goes Bust, Trump’s FCC Pick Advances
-- [The Hill](https://thehill.com/homenews/senate/6227668-senate-democrats-boycott-fcc-vote/) (center): Democrats boycott Senate hearing over frustration with Trump nominations
+- [Deutsche Welle](https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-rdf) (center): Myanmar committed genocide against Rohingya, top UN court rules
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar) (lean-left): Myanmar committed genocide against Rohingya minority, world’s top court rules
+- [Axios](https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya) (center): Myanmar becomes first state found responsible for genocide by UN court
+- [PBS NewsHour](https://www.pbs.org/newshour/world/uns-highest-court-finds-myanmar-responsible-for-genocide-in-historic-ruling) (lean-left): UN's highest court finds Myanmar responsible for genocide in historic ruling
+- [The Hill](https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/) (center): UN court rules that Myanmar committed genocide against Rohingya
+- [NPR](https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya) (lean-left): The U.N.'s top court rules Myanmar committed genocide against the Rohingya
 
 
-## 8. Incoming House Oversight chair tells Trump family and officials to preserve records
-`US Headlines` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 7. Chase says hackers may have accessed customer names and emails through vendors
+`AI & Cybersecurity` · Covered by 4 outlets (L 0 · C 2 · R 2) · ⚠️ Mostly covered by right-leaning outlets
 
-Rep. Robert Garcia, who will chair the House Oversight Committee in January, sent a dozen document-preservation letters to people in President Trump's orbit. Recipients include Donald Trump Jr., Eric Trump, Jared Kushner, Vice President Vance, Stephen Miller and Attorney General Todd Blanche. The letters outline planned probes into Trump family business deals, alleged misconduct at the Department of Homeland Security, and the handling of the Jeffrey Epstein files. White House counsel Will Scharf responded that some Democratic requests "drip with an animus or pettiness" and that the administration need not answer the minority party. Garcia gains subpoena power in January.
+JPMorgan Chase said third-party vendors were hit by a cyberattack in which attackers may have accessed marketing data, including some customer names and email addresses. The bank said its services were not disrupted, and it will contact affected customers and offer free credit monitoring. Chase said the breach is unrelated to a software bug that delayed payments across several banks and Zelle earlier in the week. The incident comes amid a string of US outages that officials say were not caused by cyberattacks.
 
 **Key facts**
-- Garcia sent 12 preservation letters on Wednesday.
-- Garcia said: "This is just the beginning."
-- Topics include World Liberty Financial, Kushner's envoy role, DHS contracts, and Ghislaine Maxwell's prison transfer.
-- White House counsel Will Scharf argued the administration is not obligated to respond to minority-party requests.
+- The data accessed may include customer names and email addresses held by vendors.
+- Chase did not name the vendors or say how many customers were affected.
+- Monday's banking disruption was blamed on a software bug in Chase's on-premises hardware.
+- Officials told a House committee they had found no evidence of cyberattacks behind recent outages, including an FAA ground stop.
 
 **How it's being framed**
-- **Left:** The Guardian focused heavily on the Epstein angle, including Maxwell's transfer and Situation Room meetings. It framed the letters as setting up a legal fight with a White House that has threatened Democrats, and included Scharf's response.
-- **Center:** Axios and The Hill presented the letters as groundwork for a long period of oversight, listing recipients and priorities.
-- **Right:** Reason said "legitimate corruption concerns" exist, particularly around World Liberty Financial, the Binance pardon and Pentagon contractors linked to Trump sons' investments. It included Trump Jr.'s defense that he is a passive investor and should not have to sit out business.
+- **Center:** WBTV and The Hill reported Chase's statement plainly and stressed that the breach is unconnected to the earlier outage.
+- **Right:** The Daily Caller and Washington Examiner placed the breach within a broader pattern of outages, such as the FAA, the NSA network and Microsoft. They noted lawmakers' national security concerns and the separate Optimizely web-skimming attack.
 
 **Disputed or unclear**
-- Garcia's allegations of "pay-to-play schemes" and "disguised payoffs" are claims the recipients dispute; Trump's sons say they are passive investors.
-- Whether the administration will comply once Democrats gain subpoena power.
+- The vendors involved and the number of affected customers are unknown.
+- Any link to the Optimizely incident is unconfirmed; Chase did not mention it.
+- Some lawmakers fear the recent outages are connected despite officials' denials.
 
-**Why it matters:** It previews two years of investigations and likely legal clashes between a Democratic House and the White House.
+**Why it matters:** Chase customers may be targeted with phishing using the exposed contact details.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/18/trump-garcia-house-oversight) (center): House Dems prepare for broad Trump family probe
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations) (lean-left): Trump family and allies told to preserve records as Democrats prepare sweeping investigations
-- [Reason](https://reason.com/2026/11/18/incoming-oversight-chairman-previews-democrats-investigations-into-trump-familys-business-dealings/) (lean-right): Incoming Oversight Chairman Previews Democrats' Investigations Into Trump Family's Business Dealings
-- [The Hill](https://thehill.com/homenews/house/6227316-robert-garcia-donald-trump-family-probe-house-democrats/) (center): Garcia directs Trump family, administration officials to preserve records
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/19/chase-bank-announces-cyberattack-says-hackers-may-have-obtained-customers-personal-information/) (center): Chase Bank announces cyberattack, says hackers may have obtained customers’ personal information
+- [The Daily Caller](https://dailycaller.com/2026/11/19/americas-largest-bank-says-customer-data-may-have-been-exposed-in-hack) (right): JPMorgan Chase Says Customer Data May Have Been Exposed In Hack
+- [The Hill](https://thehill.com/policy/technology/6230277-jpmorgan-chase-customer-data-exposed-in-cyberattack/) (center): JPMorgan Chase customer data exposed in cyberattack
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/finance-and-economy/4808764/jpmorgan-customer-name-email-address-cyberattack/) (lean-right): JPMorgan says some customer names and email addresses possibly accessed after cyberattack
 
 
-## 9. North Carolina lawmakers restore $31 million for film incentive program
-`Charlotte Local` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 8. NC utilities commissioner resigns days after Duke Energy rate increase approved
+`Charlotte Local` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-North Carolina lawmakers restored $31 million for the state's film and entertainment grant program, hoping to draw productions back to the state. Changes to how grants are funded had contributed to shows such as "The Hunting Wives" leaving the state for their next season. Grants were previously awarded upfront from expected funds; the Commerce Department has now been asked to work with available money. Outgoing state Sen. Michael Lee championed the one-time funding for productions in Wilmington.
+North Carolina Utilities Commissioner Donald van der Vaart will resign effective Jan. 1, 2027, State Treasurer Brad Briner announced. The announcement came two days after the commission approved Duke Energy rate increases. No reason for the resignation was given. WFAE reported that van der Vaart had been a frequent dissenter and, after repeated absences, was left out of the Duke rate case and Carbon Plan proceedings. Gov. Josh Stein called the rate increase 'too high', and Briner will appoint a replacement.
 
 **Key facts**
-- The one-time funding is $31 million.
-- The program offers a 25% rebate on qualifying in-state production spending.
-- "The Hunting Wives" received nearly $12 million for its first season and was awarded up to $15 million for its second, not yet paid out.
+- The commission approved the Duke rate hikes on Nov. 16; Queen City News reports a 9.5% increase over two years.
+- Some customers could see nearly $10 more a month starting in January.
+- Van der Vaart served about a year and a half on the five-member commission.
 
 **How it's being framed**
-- **Left:** WFAE framed the industry as at a "tipping point," explaining the funding change and its effect on productions, with guests from the film industry and business press.
-- **Center:** Queen City News reported the restoration as an effort to attract productions back, citing projects that filmed in the state.
+- **Left:** WFAE focused on van der Vaart's record as a dissenter, including his support for coal and data centre rules and opposition to solar, and on his absences from major cases.
+- **Center:** WBTV linked the resignation's timing to the rate decision without stating a cause, and included Stein's criticism. The other local outlets focused on bill impacts.
 
 **Disputed or unclear**
-- Whether the funding will bring departed productions back.
+- The reason for the resignation has not been disclosed.
 
-**Why it matters:** Film incentives affect local jobs and spending in Charlotte and Wilmington.
+**Why it matters:** Duke customers face higher bills, and the treasurer will pick a new regulator.
 
 **Read it yourself:**
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/nc-lawmakers-restore-31-million-for-film-incentive-program-hope-to-attract-productions-back-to-the-state/) (center): NC lawmakers restore $31 million for film incentive program, hope to attract productions back to the state
-- [WFAE (Charlotte NPR)](https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-18/the-state-of-north-carolinas-film-grant-program-and-whats-next) (lean-left): The state of North Carolina’s film grant program and what’s next
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/19/state-official-resigns-days-after-duke-energy-customer-rates-increased-north-carolina/) (center): State official resigns days after Duke Energy customer rates increased in North Carolina
+- [WFAE (Charlotte NPR)](https://www.wfae.org/charlotte-area/2026-11-19/state-utilities-commissioner-resigns-days-after-duke-rate-case-and-carbon-plan-ruling) (lean-left): State Utilities Commissioner resigns days after Duke rate case and carbon plan ruling
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/consumer/duke-energy-rate-hikes-approved/275-60a839d0-abe6-48b6-8f64-859df99a294b) (center): Duke Energy customers will see higher bills starting in January after rate increases approved
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/duke-energy-customers-react-after-n-c-utilities-commission-approves-9-5-percent-rate-hike/) (center): Duke Energy customers react after N.C. Utilities Commission approves 9.5 percent rate hike
 
 
-## 10. Small earthquakes rattle Rowan and Iredell counties
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
+## 9. Ukraine strikes Crimean Bridge a third time this week; Putin vows 'far more painful' response
+`US Headlines` `Asia Business & Politics` · Covered by 4 outlets (L 0 · C 3 · R 1)
 
-Small earthquakes late Tuesday night shook the Rowan and Iredell county area north of Charlotte. Residents reported a loud boom followed by shaking, and some called 911. The USGS recorded one quake at 11:05 p.m. about 4 miles west of Cleveland, revising it from magnitude 2.4 to 2.2. No damage was reported.
+Ukraine hit the Crimean (Kerch) Bridge for the third time this week on Thursday, using Neptune missiles by its own account. The strike briefly halted rail traffic. A strike on Tuesday had collapsed part of the road section, which is closed for the foreseeable future. Speaking after the Shenzhen summit, Putin promised a response 'far more painful' than Kyiv's attack and said talks on halting sea and energy strikes were now off. Zelensky was in Berlin for talks with more than 40 partners, along with US envoys Jared Kushner and Steve Witkoff.
 
 **Key facts**
-- The USGS recorded a quake at 11:05 p.m. Tuesday at a depth of about 1 kilometer.
-- Its magnitude was revised from a preliminary 2.4 to 2.2.
-- North Carolina's largest quake in 100 years was a magnitude 5.1 in Sparta in 2020.
+- Russia's transport ministry said no one was hurt in Thursday's strike, and rail service resumed that afternoon.
+- About 200 metres of roadway fell into the sea after Tuesday's strike.
+- Putin said: 'After the strikes on the Crimean Bridge, there will be no agreements.'
 
 **How it's being framed**
-- **Center:** All three local stations focused on residents' experiences: the loud boom, shaking, and 911 calls from people who thought they were being bombed. They noted the quakes were small.
+- **Center:** BBC and DW detailed the damage and the bridge's military and symbolic role, and noted Russian strikes on Kyiv's bridges. A Hill opinion piece argued that Zelensky is no longer seeking Trump's permission.
+- **Right:** Fox News led with Putin's threat and paired it with US-European peace efforts in Berlin, quoting Kushner that Trump is determined to end the war.
 
 **Disputed or unclear**
-- Whether there were one or two quakes. WSOC cites state officials reporting two (a 2.4 in Rowan and a 2.2 in Iredell), but the location details it gives overlap, and WCNC describes a single 2.4 in Rowan.
-- USGS figures are preliminary and may be revised.
+- Putin says the bridge is purely civilian, while Kyiv calls it a main military crossing.
+- Repair estimates vary, from a few months for some sections (according to TASS) to an indefinite closure for road traffic.
 
-**Why it matters:** Even minor quakes are unusual in the area and can alarm residents.
+**Why it matters:** The strikes and Putin's threat could escalate the war just as peace talks are underway.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/) (center): Earthquakes in Rowan, Iredell counties rattle area
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/earthquake-rowan-county-north-carolina-brad-panovich-explanation/275-7b21db90-8a99-4598-b844-11d0ea45ae19) (center): 2.4 magnitude earthquake shakes Rowan County late Tuesday night
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/local-news/earthquake-reported-near-iredell-rowan-county-line/) (center): 911 CALLS: ‘I thought we were being bombed.' Small earthquake shakes Rowan-Iredell area
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss) (center): Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge
+- [Fox News](https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea) (right): Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea
+- [Deutsche Welle](https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-rdf) (center): Crimean Bridge has been attacked again, Russian official says
+- [The Hill](https://thehill.com/opinion/national-security/6227450-ukraine-destroys-kerch-bridge/) (center): With Kerch bridge strike, Zelensky shows he isn’t asking Trump’s permission any more
+
+
+## 10. Susan Smith denied parole for second time, 32 years after drowning her sons
+`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+
+South Carolina's parole board unanimously denied parole to Susan Smith, 55, who drowned her sons Michael, 3, and Alex, 14 months, in 1994. Smith expressed remorse at the hearing, said she is 'not the same person', and disputed prosecutors' account of her motive. The boys' father, David Smith, and the original prosecutors opposed her release, with David Smith calling the killings deliberate. She can apply again in 2028.
+
+**Key facts**
+- The seven-member board's vote was unanimous; release would have required two-thirds of members present.
+- Smith initially claimed a Black man had carjacked her before she confessed nine days later.
+- This was her second parole denial, after the first in November 2024.
+
+**How it's being framed**
+- **Center:** BBC and the Charlotte stations quoted both Smith's apology and David Smith's opposition at length. They recounted the false carjacking claim and her defence's mental-health argument.
+
+**Disputed or unclear**
+- Her motive remains disputed: prosecutors cite an affair, which Smith denies, attributing the crime to her mental health.
+
+**Why it matters:** The decision keeps one of the country's most notorious child-murder cases in the public eye.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss) (center): Susan Smith denied parole again 32 years after drowning her two sons
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/19/susan-smith-asks-parole-again-32-years-after-drowning-her-sons-south-carolina-lake/) (center): Susan Smith denied parole again 32 years after drowning her sons in a South Carolina lake
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/susan-smith-denied-parole-second-time-2-years/SOFUNI7WDBBNZG4WZ6ODZR6FDI/) (center): Susan Smith denied parole for second time in 2 years
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/south-carolina/susan-smith-to-face-parole-board-32-years-after-killing-sons-in-south-carolina-lake/) (center): Susan Smith, who killed her two sons in 1994, denied parole in unanimous decision
 
 
 ---
@@ -309,4 +313,4 @@ Small earthquakes late Tuesday night shook the Rowan and Iredell county area nor
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles directly addressed US or EU AI regulation. In passing, coverage of Anthropic's IPO mentioned investor worries about a potential regulatory crackdown by a Democratic-led Congress next year, and senators pressed Google over AI in school products.
+No articles directly addressed US or EU AI regulation. In passing, AP coverage of Anthropic's IPO mentioned a potential regulatory crackdown by the incoming Democratic-led Congress, and Musk coverage noted Democrats' pledges to scrutinise tech firms and data centres.
