@@ -1,162 +1,162 @@
-# The Lighter Brief: Midday edition
-_Wednesday, November 18, 2026 · 2:38 PM EST · 281 articles from 22 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Wednesday, November 18, 2026 · 10:53 PM EST · 328 articles from 23 outlets · summaries by Claude_
 
-> Big civic news leads today: Mary Peltola won Alaska's Senate race, the last one to be called, closing out a strong midterm for Democrats. Closer to home in Charlotte, Duke Energy bills are going up, though by less than first requested, and a couple of tiny earthquakes gave folks a surprise boom. For the feel-good corner, Voyager 1 just hit a cosmic milestone and volunteers are delivering 2,000 Thanksgiving meals.
+> A big civic week: Mary Peltola won Alaska's Senate race, and the White House pulled its FDA nominee. Closer to home for Charlotte readers, there were two tiny earthquakes, Duke Energy bills are going up, and Levine Children's Hospital has a big expansion planned. For the lighter side, Big Boi landed a 200-pound marlin and the whole internet is rooting for Fiona the hippo to pass a hat.
 
 
 
 ---
 
-## 1. Mary Peltola wins Alaska's Senate seat, the last race called
-`US Headlines` · Covered by 4 outlets
-
-Democrat Mary Peltola beat Republican Sen. Dan S. Sullivan, making her the first Alaska Native U.S. senator and capping a strong midterm for Democrats. The race got extra attention because a second candidate, Daniel J. Sullivan Jr., was also on the ballot. Republicans said that may have confused voters, and President Trump called the race 'rigged.' A BBC Verify analysis found that even combining both Sullivans' votes wouldn't have overcome Peltola's lead.
-
-**Key facts**
-- Peltola reached 50.1% with 99% of votes counted, so no ranked-choice tally was needed
-- Democrats flipped 9 Senate seats, the most in a midterm since 1958, and will have 56 senators
-- A New York Times report alleged Democratic operatives tried to recruit 'spoiler' candidates; Peltola and Sullivan Jr. deny any link
-- Trump won Alaska by 13 points in 2024
-
-**Good to know**
-- The 'spoiler' recruitment claim comes from New York Times reporting that the BBC has not independently verified. Experts note the tactic wouldn't be illegal even if it happened.
-- A Republican legal challenge over the two Sullivans was unsuccessful.
-
-**Worth knowing:** It finalizes the balance of power in Congress and marks a historic first for Alaska Native representation.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss): Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?
-- [NPR](https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai): Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
-- [Axios](https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history): Alaska Native strongholds push Peltola into Senate history
-- [The Hill](https://thehill.com/homenews/senate/6228009-democrats-flip-nine-senate-seats/): Democrats flip 9 Senate seats – most since 1958
-
-
-## 2. Duke Energy bills will rise in January, but less than Duke asked for
+## 1. Two tiny earthquakes give Rowan and Iredell a jolt
 `Charlotte` · Covered by 3 outlets
 
-North Carolina regulators approved Duke Energy rate increases starting Jan. 1, 2027. The hike is roughly half of the original request after the state Attorney General's Office got involved. Regulators also set new rules so big data centers cover more of the cost of the power infrastructure built for them. Outlets report the numbers a bit differently: WSOC cites about 9.5% and roughly $11 more a month by 2028, while Duke's own figures show residential increases of about 4.7–4.8%.
+Two small earthquakes, measured at 2.4 and 2.2, rumbled through the Rowan and Iredell County area late Tuesday and early Wednesday. Many people heard a loud boom more than they felt shaking, and some 911 callers thought it was an explosion. One Statesville resident said his sleeping dog jumped up and barked just before the house shook.
 
 **Key facts**
-- Duke Energy Carolinas typical bill: +$9.62/month on Jan. 1, 2027, then +$5.89 on Jan. 1, 2028
-- Duke Energy Progress typical bill: +$6.53/month in 2027, then +$4.66 in 2028
-- Duke originally sought about 18% for residential customers
-- New data center rules require large users to pay a premium and cover costs even if they leave early
+- One quake was a 2.4 near Cleveland in Rowan County; the other was a 2.2 in the Iredell County area
+- The Iredell quake hit at 11:05 p.m. Tuesday, about 1 km below the surface
+- USGS first listed the Iredell quake at 2.4, then revised it to 2.2
+- North Carolina's biggest quake in 100 years was a 5.1 near Sparta in 2020
 
-**Worth knowing:** It's a real change to household budgets, and the data center rules aim to keep those costs from landing on regular customers.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/data-centers-help-ease-duke-energys-rate-increase-residential-customers/JR43VKC44ZF6VHTYZ5ONR2U7XI/): Regulators approve Duke Energy’s rate increase, set rules for data centers
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/18/duke-energy-rate-hike-approved-north-carolina-customers-what-know/): Duke Energy rate hike approved for North Carolina customers: What to know
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/consumer/duke-energy-rate-hikes-approved/275-60a839d0-abe6-48b6-8f64-859df99a294b): Duke Energy customers will see higher bills starting in January after rate increases approved
-
-
-## 3. Tiny earthquakes give Iredell and Rowan a surprise 'boom'
-`Charlotte` · Covered by 3 outlets
-
-Small earthquakes rattled the area north of Charlotte late Tuesday, with reported magnitudes of 2.4 and 2.2. Folks mostly heard them more than felt them, describing a thunder-like boom. One Statesville resident said his sleeping dog jumped up and barked right before the house shook.
-
-**Key facts**
-- The USGS revised the Iredell County quake from 2.4 to 2.2
-- It struck at 11:05 p.m. Tuesday, about 4 miles west of Cleveland
-- Depth was about 1 km below the surface
-- NC's largest quake in 100 years was a 5.1 near Sparta in 2020
-
-**Worth knowing:** A good reminder that North Carolina does get the occasional small quake, and that this one was harmless.
+**Worth knowing:** No damage or injuries were reported, and now you know what that mystery boom was.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/): Earthquakes in Rowan, Iredell counties rattle area
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/earthquake-rowan-county-north-carolina-brad-panovich-explanation/275-7b21db90-8a99-4598-b844-11d0ea45ae19): 2.4 magnitude earthquake shakes Rowan County late Tuesday night
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/local-news/earthquake-reported-near-iredell-rowan-county-line/): Earthquake reported near Iredell-Rowan County line
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/local-news/earthquake-reported-near-iredell-rowan-county-line/): 911 CALLS: ‘I thought we were being bombed.' Small earthquake shakes Rowan-Iredell area
 
 
-## 4. Semi-truck hits Uptown apartment parking deck; one person hurt
-`Charlotte` · Covered by 3 outlets
+## 2. Mary Peltola wins Alaska's Senate race and makes history
+`US Headlines` · Covered by 4 outlets
 
-A tractor-trailer crashed into the parking deck entrance of the Alister apartments near Sixth and McDowell streets Wednesday morning. One person went to the hospital with injuries that are not life-threatening. The cause hasn't been released yet.
-
-**Key facts**
-- Happened around 10:45–11 a.m. Wednesday
-- A Mazda SUV also had major damage
-- Traffic was congested in the area
-
-**Worth knowing:** Handy to know if you travel through Uptown, and the good news is the injuries weren't serious.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/18/1-hurt-after-crash-sends-tractor-trailer-into-parking-deck-area-uptown-charlotte-apartments/): 1 hurt after crash sends tractor-trailer into parking deck area of Uptown Charlotte apartments
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/semi-trailer-crashes-into-uptown-apartment-building/M7YHZ25ZNZEZ7ESJFNRUQJ7RXM/): Semi-trailer crashes into Uptown apartment building
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/one-person-injured-after-18-wheeler-crashes-into-building-in-uptown-medic/): One person injured after 18-wheeler crashes into building in Uptown: Medic
-
-
-## 5. Audit flags messy record-keeping for Hurricane Melissa relief in Jamaica
-`Jamaica` · Covered by 2 outlets
-
-Jamaica's Auditor General found missing inventory, unrecorded donations and inconsistent figures in how the disaster agency ODPEM handled Hurricane Melissa relief supplies. Auditors also found expired crackers and insects in a warehouse. ODPEM has referred the matter to external investigators.
+Two weeks after Election Day, the AP called Alaska's Senate race for Democrat Mary Peltola over Republican Sen. Dan S. Sullivan. Peltola, who is Yup'ik, becomes the first Alaska Native elected to the U.S. Senate. The win gives Democrats 56 Senate seats, and they also won back the House. A federal investigation is still under way into whether a lesser-known candidate with a similar name was recruited to pull votes from the incumbent.
 
 **Key facts**
-- Donation estimates ranged from $400 million to $5.5 billion before ODPEM settled on $6.3 billion in July 2026
-- About $780 million in shipments weren't on donation schedules
-- 359 boxes of expired crackers were found, along with weevil-infested rice reported back in March
-- The report was tabled in Parliament on Tuesday
+- Unofficial results: Peltola 50.12%, Sullivan 45.80%
+- Democrats gained nine Senate seats in the midterms
+- Alaska plans to certify the results on November 25
+- Peltola is the first Democrat to win a U.S. Senate seat in Alaska since 2008
 
-**Worth knowing:** It's about making sure donated aid actually reaches the people it was meant for, and an outside investigation is now underway.
+**Good to know**
+- The DOJ probe asks whether Democrats recruited Daniel J. Sullivan Jr. as a spoiler candidate. Peltola, the DSCC and Sullivan Jr. all deny this.
+- Fox News Digital reported more than 200 subpoenas. Newsweek has not independently confirmed that number.
+- The results are unofficial until the state certifies them.
+
+**Worth knowing:** The result shapes who controls Congress for the last two years of Trump's term, and it marks a historic first for Alaska Native representation.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261118/missing-supplies-conflicting-figures-uncovered-melissa-relief-audit): Missing supplies, conflicting figures uncovered in Melissa relief audit
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/18/odpem-audit-finds-expired-food-insect-infested-supplies-millions-unaccounted-donations/): ODPEM audit finds expired food, insect-infested supplies and millions in unaccounted donations
+- [Newsweek](https://www.newsweek.com/dojs-other-dan-sullivan-criminal-probe-widens-after-peltola-win-12737508): DOJ’s ‘Other Dan Sullivan’ Criminal Probe Widens After Peltola Win
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss): Democrats win Alaska Senate race two weeks after midterms counting began
+- [Axios](https://www.axios.com/2026/11/18/alaska-native-strongholds-peltola-senate-history): Alaska Native strongholds push Peltola into Senate history
+- [The Hill](https://thehill.com/homenews/campaign/6227287-mary-peltola-projects-victory-alaska-senate/): Peltola victory in Alaska completes sweeping Senate wins for Democrats
 
 
-## 6. Trump, Xi and Putin meet in China for a first-ever three-way summit
-`US Headlines` `Health & Medicine` · Covered by 3 outlets
+## 3. White House withdraws its pick to lead the FDA
+`Health & Medicine` `US Headlines` · Covered by 3 outlets
 
-President Trump arrived in Shenzhen for the Asia-Pacific (APEC) summit and was greeted on the tarmac by Xi Jinping. He also briefly greeted Vladimir Putin. The three leaders meet together Thursday for the first time, and a Trump–Putin one-on-one is planned too. Trade, tariffs, AI and a possible path to ending the war in Ukraine are among the expected topics.
+The White House pulled Heidi Overton's nomination for FDA commissioner just hours before a planned Senate committee vote. Her September hearing had drawn questions from both parties. Sen. Bill Cassidy, the Republican who chairs the committee, called the move 'odd' and said he believed she had a viable path to confirmation. Since May, the FDA has been led by an interim chief, Kyle Diamantas.
 
 **Key facts**
-- It's Trump and Putin's first in-person meeting since August 2025
-- The Kremlin says the trilateral talks are allotted 'no more than an hour'
-- Trump envoys Witkoff and Kushner meet Ukrainian and European officials in Berlin the same day
-- China says Europe must be included in any Ukraine peace talks
+- The committee vote had been planned for Nov. 18
+- Former commissioner Marty Makary left the FDA in May
+- Citi analysts called the withdrawal a 'modest sentiment negative' but not a big near-term change for drug regulation
+- Sen. Roger Marshall has been discussed as a possible replacement, per Semafor
 
-**Worth knowing:** How these three get along shapes trade and global stability, and any progress on peace would be welcome news.
+**Worth knowing:** The FDA approves medicines and keeps food safe, so who leads it affects almost everyone, though analysts don't expect day-to-day disruption.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss): Trump shakes hands with Putin and Xi ahead of historic talks in China
-- [Axios](https://www.axios.com/2026/11/18/trump-putin-china-meeting-ukraine): Trump to meet Putin in China amid renewed push to end Ukraine war
-- [The Hill](https://thehill.com/homenews/administration/6227270-trump-xi-putin-asia-summit-sanctions-criticism/): Xi, Putin condemn sanctions as Trump arrives in China
+- [Fierce Pharma](https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house): Heidi Overton’s FDA nomination pulled by White House
+- [The Hill](https://thehill.com/policy/healthcare/6227665-cassidy-criticizes-wh-overton-withdrawal/): Cassidy questions ‘odd’ White House move in pulling FDA nominee
+- [BioPharma Dive](https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/): White House pulls nomination for FDA nominee Overton
 
 
-## 7. Volunteers deliver 2,000 Thanksgiving meals to CMS families
-`Charlotte` `US Headlines` · Covered by 2 outlets
+## 4. Duke Energy bills in North Carolina will rise starting in January
+`Charlotte` · Covered by 2 outlets
 
-What started years ago as a 100-turkey giveaway is now 2,000 meal boxes for Charlotte-Mecklenburg Schools families. Hendrick Automotive Group donated the food. Volunteers from CMS, police, banks and community groups are delivering boxes to schools, apartments and churches. One volunteer who once lived in his car said he's glad to be the one helping now.
+The North Carolina Utilities Commission approved a 9.5% Duke Energy rate increase phased in over two years, starting Jan. 1, 2027. Some customers say their budgets are already stretched.
 
 **Key facts**
-- 2,000 boxes, up from 100 turkeys when it began
-- Food donated by Hendrick Automotive Group
-- Grocery meal deals for 10 people: Aldi under $39, Food Lion under $40, Harris Teeter $50
+- 9.5% total increase over two years
+- Higher rates begin Jan. 1, 2027
 
-**Worth knowing:** Neighbors helping neighbors, plus some budget-friendly Thanksgiving tips.
+**Worth knowing:** With a little notice, you can plan your budget ahead of the January change.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/volunteers-deliver-2000-thanksgiving-meals-cms-families/OAE376DIWNACHLFSKKDTW3Q75U/): Volunteers to deliver 2,000 Thanksgiving meals to CMS families
-- [Queen City News (FOX 46)](https://www.qcnews.com/holidays/charlotte-mecklenburg-schools-gives-out-thanksgiving-dinners/): Charlotte-Mecklenburg Schools gives out Thanksgiving dinners
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/duke-energy-customers-react-after-n-c-utilities-commission-approves-9-5-percent-rate-hike/): Duke Energy customers react after N.C. Utilities Commission approves 9.5 percent rate hike
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/money/consumer/duke-energy-rate-hikes-approved/275-60a839d0-abe6-48b6-8f64-859df99a294b): Duke Energy customers will see higher bills starting in January after rate increases approved
 
 
-## 8. Family foundation boosts UWI psychology scholarships by 65%
+## 5. State gives Charlotte-Mecklenburg Schools an 11-step plan to rebuild trust
+`Charlotte` · Covered by 2 outlets
+
+The North Carolina State Board of Education sent the CMS school board a letter laying out 11 steps it expects the board to take to rebuild public trust. The letter comes while several investigations into the district are under way. State leaders say the steps will strengthen how the district is run.
+
+**Key facts**
+- 11 expectations were sent to CMS Board Chair Gregory 'Dee' Rankin
+- A new CMS strategy committee has met since the letter arrived
+
+**Worth knowing:** How CMS responds could affect how one of the state's largest school districts is governed.
+
+**Read it yourself:**
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/charlotte-mecklenburg-schools/cms-new-strategy-committee-meets-following-receipt-of-letter-from-ncboe/): CMS new strategy committee meets following receipt of letter from NCBOE
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/education/nc-board-of-education-issues-expectations-to-charlotte-mecklenburg-schools/275-f1ce7366-6f1e-4e65-8795-b24723f2c2f9): NC Board of Education issues expectations to CMS amid leadership concerns
+
+
+## 6. Reggae Boyz exit the Nations League, but the coach sees progress
 `Jamaica` · Covered by 1 outlet
 
-The Gore Family Foundation raised its yearly scholarship support at the University of the West Indies from US$10,000 to US$16,500. The fund honors the late Dr. Lisa Gore Seifart, a clinical psychologist. This year it will help nine postgraduate students in psychology and counselling.
+Jamaica lost 1-0 at Mexico, which tied the quarter-final 3-3 on aggregate, and Mexico went through on away goals. Head coach Rudolph Speed said the team has found an identity and will get stronger once injured players return. Defender Ronaldo Webster said they'll keep improving 'window by window.'
 
 **Key facts**
-- Support went from US$10,000 to US$16,500 for 2026/2027
-- It doubled from US$5,000 to US$10,000 in 2024
-- Nine postgraduate students will be helped this year
-- The endowment fund has run since 2020
+- Jamaica had led 3-2 going into the second leg
+- Jesús Corona scored Mexico's goal in the first half
+- Jamaica now heads to the Gold Cup qualification play-offs
 
-**Worth knowing:** More trained counsellors and psychologists means more mental health support for Jamaican communities.
+**Worth knowing:** It's a close loss to a team ranked 10th in the world, and there's still a Gold Cup path ahead.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/18/gore-family-foundation-boosts-uwi-scholarships-65/): Gore Family Foundation boosts UWI scholarships by 65%
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/18/speed-boyz-moving-right-direction-despite-nations-league-exit/): Speed: Boyz moving in right direction despite Nations League exit
+
+
+## 7. Travis Scott-linked company drops its claim on the Houston Comets name
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+TSTM Holdings, a company tied to Travis Scott, abandoned its application to trademark the 'Houston Comets' name. That clears the way for the WNBA, which is bringing the Comets back next season after the Connecticut Sun moves to Houston. The new Comets logos were unveiled the same day.
+
+**Key facts**
+- The application was abandoned Oct. 29, 2026, and terminated by the USPTO on Oct. 30
+- TSTM first filed in May 2024
+- The original Comets won the WNBA's first four championships before folding in 2008
+
+**Good to know**
+- Confirmed: USPTO records show the application was abandoned.
+- Scott's link to TSTM comes from reporting (a source cited by Chron and a shared attorney). Delaware LLCs don't have to name their members.
+- It's unclear whether there was a settlement or Scott's side simply dropped it.
+
+**Worth knowing:** A classic WNBA name is coming home to Houston without a legal fight.
+
+**Read it yourself:**
+- [AllHipHop](https://allhiphop.com/news/travis-scott-linked-company-drops-houston-comets-trademark-bid-avoids-war-with-wnba/): Travis Scott-Linked Company Drops Houston Comets Trademark Bid & Avoids War With WNBA
+- [XXL](https://www.xxlmag.com/travis-scott-wnba-trademark-houston-comets/): Travis Scott, WNBA End Their Fight Over Rapper's Trademark Idea
+
+
+## 8. Levine Children's Hospital plans a $387 million expansion
+`Charlotte` · Covered by 2 outlets
+
+Atrium Health announced its largest-ever investment in Levine Children's Hospital in Charlotte. The plan adds more than 100 pediatric beds and more than doubles both the emergency department and the surgery space. Demand has climbed 43% in five years, and the hospital already serves kids from 96 of North Carolina's 100 counties.
+
+**Key facts**
+- The expansion brings the hospital to roughly 350 beds
+- It adds more than 40 NICU beds
+- Construction is expected to start in 2027 and will happen in phases
+- It includes a dedicated pediatric imaging center
+
+**Worth knowing:** More families will be able to get specialized care for their kids close to home.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/levine-childrens-hospital-announces-387-million-expansion/YBONLDFDXBARBI3AMDZ3IFMR4U/): Atrium Health announces $387M Levine Children’s expansion
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/19/atrium-health-plans-387-million-expansion-levine-childrens-hospital-demand-grows/): Atrium Health plans $387 million expansion of Levine Children’s Hospital as demand grows
 
 
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News, Fierce Pharma_
+_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_

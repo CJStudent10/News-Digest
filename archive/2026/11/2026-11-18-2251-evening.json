@@ -1,0 +1,780 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-19T03:51:57.881447+00:00",
+  "local_time": "Wednesday, November 18, 2026 · 10:51 PM EST",
+  "local_date": "Nov 18, 2026",
+  "slug": "2026-11-18-2251-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "Diplomacy and markets dominate this edition. President Trump is in Shenzhen for a first-ever three-way summit with Xi Jinping and Vladimir Putin, while Anthropic priced a record-setting IPO amid turmoil at Nvidia after Jensen Huang's exit. In Washington, newly empowered Democrats nominated Hakeem Jeffries for speaker and began laying groundwork for investigations, while Senate Republicans pushed a Trump FCC nominee through committee during a Democratic boycott.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump, Xi and Putin meet in Shenzhen for first three-way summit; possible Kim meeting unconfirmed",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines",
+        "Korea"
+      ],
+      "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin were set to hold their first-ever trilateral meeting on Thursday, on the sidelines of the APEC summit in Shenzhen, China. Expected topics include nuclear arms control, the wars in Ukraine and Iran, trade and AI chips, though there is no official agenda. Trump and Xi were also scheduled to meet one-on-one beforehand, after Xi broke protocol to greet Trump personally at the airport. Trump has floated meeting North Korean leader Kim Jong Un during the trip, but officials say nothing is confirmed. It is unclear whether the three leaders will agree on a joint statement.",
+      "key_facts": [
+        "It is the first formal meeting of the leaders of the US, China and Russia as a trio, held on the sidelines of APEC in Shenzhen.",
+        "Trump said: \"We're going to talk about denuclearization – tough subject, because it's very hard for any of us to say we'll get rid of our nukes.\"",
+        "PBS reported the Pentagon's estimate that China will have more than 1,000 nuclear warheads by 2030, still a fraction of US and Russian arsenals.",
+        "IAEA chief Rafael Grossi said a new extension at North Korea's Yongbyon enrichment facility was externally complete by late October, calling the program \"a cause for serious concern.\"",
+        "Secretary of State Marco Rubio said Trump is serious about engaging Kim but no meeting has been confirmed."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian's editorial argued the meeting is a spectacle rather than progress. It said the summit hands Xi and Putin symbolic wins, distracts from Republicans' midterm losses, and leaves Ukraine and Taiwan anxious. PBS NewsHour was more straightforward. It focused on nuclear arms control and China's fast-growing arsenal, quoting a senior US official urging China to \"step up to the adult table\" and a Hong Kong scholar on why Beijing wants to host."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (via Yonhap) focused on logistics: the joint statement under negotiation, the bilateral agenda on tariffs and rare earths, and uncertainty over a Trump–Kim meeting. Axios highlighted Xi's surprise tarmac greeting as a reciprocal gesture of respect."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post led with the IAEA warning about North Korea's expanding nuclear program as backdrop to the summit and a possible Kim meeting. Fox News featured members of a congressional China commission warning that Trump faces a \"two versus one\" dynamic. Those members said Beijing may seek Taiwan concessions and Moscow may want pressure on Ukraine, and that simply \"holding ground\" would be a win."
+        }
+      ],
+      "disputed": [
+        "Whether the three sides will adopt a joint statement.",
+        "Whether Trump will meet Kim Jong Un; Trump said it is \"up to President Xi.\"",
+        "A China commission vice chair claimed Beijing agreed to the meeting only with assurances that \"essentially nothing would happen\"; this is his assessment, not confirmed.",
+        "How substantive the talks will be. The Guardian said the meeting is scheduled for under an hour, and China's Foreign Ministry said it could have \"groundbreaking significance.\""
+      ],
+      "why": "The three largest nuclear powers are meeting together for the first time, with arms control, Ukraine, Iran and Taiwan all potentially in play.",
+      "coverage": {
+        "left": 3,
+        "center": 8,
+        "right": 2
+      },
+      "n_outlets": 13,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump, Xi, Putin set to hold historic trilateral summit; US-N. Korea meeting uncertain",
+          "url": "https://www.koreaherald.com/article/10942242",
+          "published": "2026-11-19T00:25:55+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
+          "published": "2026-11-18T18:35:14+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Kim Jong Un’s nuclear program draws ‘serious concern’ ahead of Trump’s historic summit with Xi, Putin",
+          "url": "https://nypost.com/2026/11/18/world-news/kim-jong-uns-nuclear-program-draws-serious-concern-ahead-of-trumps-summit-with-xi-putin/",
+          "published": "2026-11-19T02:44:01+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport",
+          "url": "https://www.axios.com/2026/11/18/trump-china-xi-hug-airport",
+          "published": "2026-11-18T11:39:28+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
+          "url": "https://www.pbs.org/newshour/show/trump-lands-in-china-for-trade-talks-and-high-stakes-summit-with-xi-and-putin",
+          "published": "2026-11-18T23:55:44+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "China watchdog warns Trump faces ‘2-on-1’ showdown with Xi, Putin as Taiwan risks mount",
+          "url": "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
+          "published": "2026-11-18T20:33:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Anthropic prices IPO at $83 a share, above expected range, ahead of Nasdaq debut",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea"
+      ],
+      "summary": "Anthropic, maker of the Claude AI models, priced its initial public offering at $83 per share on Wednesday. That is above its $70–$78 target range and values the company at about $1.5 trillion. It expanded the offering to about 980 million shares and is set to begin trading Thursday on the Nasdaq under the ticker ANT. The listing comes amid market jitters over AI spending, a possible regulatory push from a Democratic-led Congress, and the resignation of Nvidia CEO Jensen Huang. Anthropic's filings show fast-rising revenue alongside large losses and roughly $900 billion in long-term computing commitments.",
+      "key_facts": [
+        "IPO priced at $83 per share versus an expected $70–$78 range, valuing Anthropic at about $1.5 trillion.",
+        "About 980 million shares were sold, up from the 825 million initially planned, raising roughly $81 billion.",
+        "Anthropic reported $16.286 billion in revenue and a net loss of $80 billion in the first half of 2026.",
+        "The company has $6.2 billion in debt and compute commitments of more than $70 billion over the next 12 months.",
+        "Vanda Research estimated about $250 million in first-day retail net buying."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS (AP) and The Guardian reported the pricing as a sign of strong demand. They also stressed the company's finances: substantial debt, unprofitability, huge compute commitments, and investor worries about an AI bubble. The Guardian detailed the revenue growth alongside the $80 billion loss."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC focused on retail investor enthusiasm through profiles of individual buyers, contrasting an eager first-time participant with a skeptic who doubts small investors will get allocations. The Korea Herald framed the debut as a test of whether AI investment can generate sustainable returns, in the context of Seoul market moves."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business emphasized the scale, saying the IPO was \"blowing past\" its target range, and noted that actor Ashton Kutcher's venture firm stands to gain. The Washington Examiner called it the largest IPO ever. It paired that with public fears about AI, citing a case in which a Claude model submitted a false homicide tip to Philadelphia police."
+        }
+      ],
+      "disputed": [
+        "Whether Anthropic's IPO beats SpaceX's record is reported inconsistently. CNBC put SpaceX's June IPO at a record $85.7 billion raised, while PBS said SpaceX raised about $75 billion. The Washington Examiner called Anthropic's the largest IPO ever.",
+        "OpenAI's timing: PBS says it plans to go public next year, while The Guardian says Sam Altman delayed the IPO until safety concerns are overcome.",
+        "How the stock will trade once it opens Thursday."
+      ],
+      "why": "As the first major frontier AI lab to go public, Anthropic's performance is likely to shape investor sentiment toward the whole AI sector.",
+      "coverage": {
+        "left": 4,
+        "center": 5,
+        "right": 2
+      },
+      "n_outlets": 11,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+          "published": "2026-11-18T22:37:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+          "url": "https://www.pbs.org/newshour/economy/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion",
+          "published": "2026-11-19T00:54:39+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Anthropic prices IPO at $83 a share, blowing past target range: report",
+          "url": "https://www.foxbusiness.com/fox-news-tech/anthropic-prices-ipo-83-share-blowing-target-range-report",
+          "published": "2026-11-18T23:08:04+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Seoul shares open higher ahead of Anthropic's market debut",
+          "url": "https://www.koreaherald.com/article/10942447",
+          "published": "2026-11-19T01:43:32+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+          "published": "2026-11-18T21:39:15+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Anthropic prices IPO at $83 per share ahead of stock market debut",
+          "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4808336/anthropic-ipo-83-share-stock-market-debut/",
+          "published": "2026-11-19T02:35:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "House Democrats nominate Hakeem Jeffries for speaker; 11 vote no",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "House Democrats on Wednesday nominated Minority Leader Hakeem Jeffries of New York to be speaker when the new Congress convenes, after winning the House in the midterms. If elected in the full House vote on January 3, he would be the first Black speaker. Eleven Democrats voted against him in the closed-door caucus vote. Seven of them, mostly incoming progressives, said talks with Jeffries over issues like Medicare for All, ICE and Gaza were ongoing. Jeffries said the results \"speak for themselves\" and urged Democrats to \"fight MAGA extremism, not each other.\"",
+      "key_facts": [
+        "Jeffries received 251 votes in the secret caucus ballot; 11 Democrats voted no.",
+        "The full House votes on a speaker on January 3, 2027; 218 votes are needed.",
+        "Katherine Clark was elected majority leader and Pete Aguilar majority whip; PBS reported Joe Neguse as assistant speaker and the Guardian reported Ted Lieu as caucus chair.",
+        "Democrats secured a 56–44 Senate majority after Mary Peltola won Alaska's Senate race.",
+        "Jim Jordan is set to be House minority leader."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian highlighted the historic first and the progressive concerns that Jeffries represents a risky status quo. It cited an Indivisible poll showing 28% favorability and noted his recent moves toward expanding Medicare. PBS gave a brief news wrap that included the dissenters' statement and Jeffries' response, alongside Peltola's Senate win and the start of Oversight investigations."
+        },
+        {
+          "lean": "center",
+          "framing": "DW, Axios and The Hill reported the vote count, the historic nature of the nomination, and the leadership team. DW quoted the dissenters' joint statement at length. Axios noted the vote was tallied at Jeffries' request rather than done by acclamation."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner framed the 11 dissenters as marginal and their demands as \"largely meaningless\" given the size of the majority. It described several as Democratic Socialists or aligned progressives and quoted allies like Rep. Henry Cuellar dismissing them."
+        }
+      ],
+      "disputed": [
+        "Total ballots cast: DW reported 265, while The Guardian and Axios reported 262.",
+        "Size of the new Democratic majority: DW says at least 257 seats, the Examiner says \"north of 255.\"",
+        "What commitments, if any, Jeffries has made to progressive dissenters."
+      ],
+      "why": "The speaker controls which bills reach the House floor and will lead Democrats' oversight of the Trump administration for the next two years.",
+      "coverage": {
+        "left": 3,
+        "center": 6,
+        "right": 1
+      },
+      "n_outlets": 10,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US House Democrats nominate Hakeem Jeffries for speaker",
+          "url": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-18T15:46:00+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+          "published": "2026-11-18T17:24:01+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Jeffries and allies, with majority of 40, laugh off 11 speaker dissents",
+          "url": "https://www.washingtonexaminer.com/news/house/4807739/jeffries-allies-laugh-off-speaker-dissents/",
+          "published": "2026-11-18T23:00:35+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "House Democrats formally nominate Hakeem Jeffries for speaker",
+          "url": "https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3",
+          "published": "2026-11-18T15:32:24+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "News Wrap: Democrats nominate Hakeem Jeffries for Speaker of the House",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-democrats-nominate-hakeem-jeffries-for-speaker-of-the-house",
+          "published": "2026-11-18T23:45:27+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch live: Jeffries speaks after notching nomination for next Speaker",
+          "url": "https://thehill.com/video-clips/6227720-watch-live-house-democrats-press-conference-leadership-elections-jeffries-speaker/",
+          "published": "2026-11-18T16:09:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Google's AI integration in Search draws school pushback as it adds private 'temporary threads'",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Google is facing pushback from some of the largest US school districts over how its AI features are tied to Search. According to The New York Times, as reported by The Verge, schools that turn off Google's Gemini AI features next year will also lose access to Search, because Google says the two are \"deeply integrated.\" New York, Los Angeles and Chicago schools are reportedly considering alternatives. Google says Gemini apps and Search will be off by default for K-12 student accounts until schools choose to enable them, and it is piloting a step-by-step learning mode. Separately, Google launched \"temporary threads\" in its AI Mode, letting users hold conversations that are not saved to their search history.",
+      "key_facts": [
+        "Google says schools cannot disable AI within Google Search because Search and AI are \"deeply integrated.\"",
+        "Google says Gemini, Gemini Notebook and Search will be off by default for K-12 student accounts until administrators enable them.",
+        "Chromebooks are used by 93% of US school districts, per Reason.",
+        "Google's new \"temporary threads\" in AI Mode detach sessions from a user's account and are rolling out globally."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge framed it as Google \"trying to force Gemini on schools.\" It quoted officials like NYC Mayor Zohran Mamdani and Sen. Bernie Sanders calling it \"extortion,\" and cited concerns about AI's effects on learning and children's mental health. Google's response was included."
+        },
+        {
+          "lean": "center",
+          "framing": "TechCrunch covered only the new incognito-style temporary threads feature in AI Mode, as a consumer privacy product update."
+        },
+        {
+          "lean": "right",
+          "framing": "Reason argued Google is not forcing AI on schools. It said critics such as Lina Khan and Sen. Richard Blumenthal confuse a product preference with an antitrust violation, citing a judge's ruling that Search and AI Overviews are one product and an antitrust scholar's view. It noted schools can use rival search engines."
+        }
+      ],
+      "disputed": [
+        "Whether tying AI to Search amounts to coercion or a legitimate product design choice.",
+        "Whether the largest districts will actually switch away from Google Search."
+      ],
+      "why": "How AI is built into everyday tools like search affects what millions of students use in classrooms, and it is drawing antitrust and political scrutiny.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Google’s AI feature in Search gets its own incognito mode",
+          "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+          "published": "2026-11-18T18:04:05+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The nation’s largest school districts consider ditching Google Search",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+          "published": "2026-11-18T23:18:35+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "No, Google Is Not Forcing Schools To Adopt AI",
+          "url": "https://reason.com/2026/11/18/no-google-is-not-forcing-schools-to-adopt-ai/",
+          "published": "2026-11-18T18:30:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Trump says US would 'wipe out' Iran if it uses a dirty bomb, claims Iran seeking chemical and biological weapons",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Speaking to Fox News in Shenzhen, President Trump said Washington residents should not worry about reports that Iran is considering a dirty bomb or chemical attack, adding, \"if it does happen, we wipe them out.\" He claimed Iran is \"looking at gases, looking at bio\" because the US has blocked its nuclear path. He said the US \"didn't start this war.\" He also defended the war despite Vice President Vance's post-midterm comments linking Republican losses to it. Separately, the Saudi-led coalition in Yemen said it responded to a Houthi missile fired toward Riyadh.",
+      "key_facts": [
+        "Trump on a possible Iranian attack: \"If it does happen, we wipe them out.\"",
+        "Trump said Iran is \"looking at gas and they're looking at the bio.\"",
+        "Trump said pursuing a memorandum of understanding with Iran \"delayed things a little bit\" but \"wasn't a mistake.\"",
+        "The Saudi-led coalition said it responded to a Houthi missile fired toward Riyadh."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera's live coverage presented Trump's statements as claims (\"Trump claims Iran is seeking...\") alongside regional developments such as the Houthi missile toward Riyadh."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill framed the remarks as a renewed threat to annihilate Iran in response to a reported dirty bomb threat."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner gave fuller detail of Trump's interview, including his comments on Iran's weapons, the memorandum of understanding and Vance. It referenced an FBI deputy director calling the alleged dirty bomb threat \"largely aspirational.\""
+        }
+      ],
+      "disputed": [
+        "Trump's claim that Iran is pursuing chemical and biological weapons is not independently verified in the articles.",
+        "How credible the reported dirty bomb threat is; an FBI official reportedly called it \"largely aspirational.\"",
+        "What Trump meant by \"we'll see what happens after … Jan. 1.\""
+      ],
+      "why": "The remarks signal possible escalation in an ongoing US–Iran war that has already shaped domestic politics.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says ‘we’ll wipe them out’ if Iran dirty bombs US",
+          "url": "https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us/",
+          "published": "2026-11-19T01:59:54+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz",
+          "published": "2026-11-19T00:01:02+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump hints Iran could launch ‘gas’ or ‘bio’ attack following dirty bomb report",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/",
+          "published": "2026-11-19T03:15:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Nvidia board rules out Huang's return as interim CEO addresses staff and Ackman criticizes directors",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Nvidia's new board chair Harvey Jones said the board \"does not intend to reinstate\" Jensen Huang as CEO, after Huang said he would be honored to return. Huang resigned last week after reports of extramarital affairs, including one with an executive US officials believe is a Chinese spy. Interim CEO Colette Kress told employees at an all-hands meeting \"let's move forward\" and said the annual pay review would be moved up to December. Hedge fund manager Bill Ackman accused the board of panicking and breaching its duty of care. Microsoft CEO Satya Nadella expressed confidence in Nvidia's team.",
+      "key_facts": [
+        "Board chair Harvey Jones: the board \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\"",
+        "Nvidia's annual review and pay raise process is being moved from March to December.",
+        "Nvidia shares are down 37% from their 52-week high, per CNBC.",
+        "Nvidia reported third-quarter earnings Tuesday that topped Wall Street expectations.",
+        "Huang had served as CEO for 33 years."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC reported on the all-hands meeting with competing accounts of employee mood: one attendee said staff want Huang back, another said employees welcomed leadership's remarks. The Hill reported the board's rejection of Huang's return. TechCrunch featured Nadella's sympathetic but forward-looking comments that founders \"are not gods.\""
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business centered on Bill Ackman's critique that the board \"panicked\" over headlines and rushed to judgment. It quoted his arguments about Delaware duty-of-care obligations and the risks of a broad internal investigation."
+        }
+      ],
+      "disputed": [
+        "Whether most employees want Huang reinstated; sources gave CNBC conflicting accounts.",
+        "The scope and findings of the board's ongoing investigation.",
+        "The allegation that Huang's partner is a Chinese spy rests on what US officials reportedly believe."
+      ],
+      "why": "Nvidia is central to the AI economy, so leadership instability there affects markets and the broader tech sector.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+          "published": "2026-11-18T23:45:50+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'",
+          "url": "https://www.foxbusiness.com/business-leaders/bill-ackman-blasts-nvidias-board-over-jensen-huangs-ouster-says-panicked",
+          "published": "2026-11-18T21:54:57+00:00"
+        },
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+          "published": "2026-11-18T23:17:28+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia rejects Huang offer to return as CEO",
+          "url": "https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/",
+          "published": "2026-11-18T14:39:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Senate committee advances Trump FCC nominee as Democrats boycott vote",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Senate Commerce Committee, chaired by Ted Cruz, approved FCC nominee Danielle Thumann Severs with only Republicans present after all committee Democrats stayed away. Democrats objected to advancing a Republican nominee without a paired Democratic nominee. They fear Trump could then fire the FCC's lone Democrat, Anna Gomez. They also accuse Thumann of giving inaccurate testimony about her work for FCC Chair Brendan Carr on media matters. Republicans hope to confirm her before Democrats take control of the Senate in January.",
+      "key_facts": [
+        "All Republicans present voted in favor; Ars Technica reported the tally as 15–0 with 13 Democrats absent.",
+        "Thumann testified she had \"not worked with the Chairman on any media-related issues.\"",
+        "Sen. Ben Ray Luján cited FOIA documents he says show she helped draft Skydance commitments tied to the Skydance-Paramount merger approval.",
+        "Confirmation would give the FCC three Republicans and one Democrat."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Verge emphasized Democrats' procedural objections, their fear that Gomez would be fired, and Luján's documented concerns about Thumann's testimony. It also included Cruz's argument that this was an ordinary nomination."
+        },
+        {
+          "lean": "center",
+          "framing": "Ars Technica focused on the procedural dispute over whether a minority member is required for a quorum, presenting both Cruz's and Sen. Maria Cantwell's positions, along with the false-testimony allegation. The Hill briefly reported the boycott and Democrats' stated reason."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller framed the boycott as a failed tactic (\"Boycott Goes Bust\"). It quoted Cruz warning of \"two years of total obstruction\" and gave background on Democratic criticism of Carr."
+        }
+      ],
+      "disputed": [
+        "Whether committee rules allowed action without a minority member present. Cruz's office says Senate rules permit it; Cantwell's office says longstanding practice requires one.",
+        "Whether Thumann's testimony about media-related work was accurate.",
+        "The number of Republicans on the panel: The Verge says 14, while Ars Technica reports a 15–0 vote."
+      ],
+      "why": "The fight previews nomination battles under a Democratic Senate and affects the partisan balance of the agency that regulates broadcasters.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Ars Technica",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+          "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+          "published": "2026-11-18T23:25:04+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+          "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+          "published": "2026-11-18T22:05:48+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Democrats’ Boycott Goes Bust, Trump’s FCC Pick Advances",
+          "url": "https://dailycaller.com/2026/11/18/democrats-boycott-trump-fcc-pick",
+          "published": "2026-11-18T19:09:00+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrats boycott Senate hearing over frustration with Trump nominations",
+          "url": "https://thehill.com/homenews/senate/6227668-senate-democrats-boycott-fcc-vote/",
+          "published": "2026-11-18T15:37:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Incoming House Oversight chair tells Trump family and officials to preserve records",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Rep. Robert Garcia, who will chair the House Oversight Committee in January, sent a dozen document-preservation letters to people in President Trump's orbit. Recipients include Donald Trump Jr., Eric Trump, Jared Kushner, Vice President Vance, Stephen Miller and Attorney General Todd Blanche. The letters outline planned probes into Trump family business deals, alleged misconduct at the Department of Homeland Security, and the handling of the Jeffrey Epstein files. White House counsel Will Scharf responded that some Democratic requests \"drip with an animus or pettiness\" and that the administration need not answer the minority party. Garcia gains subpoena power in January.",
+      "key_facts": [
+        "Garcia sent 12 preservation letters on Wednesday.",
+        "Garcia said: \"This is just the beginning.\"",
+        "Topics include World Liberty Financial, Kushner's envoy role, DHS contracts, and Ghislaine Maxwell's prison transfer.",
+        "White House counsel Will Scharf argued the administration is not obligated to respond to minority-party requests."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused heavily on the Epstein angle, including Maxwell's transfer and Situation Room meetings. It framed the letters as setting up a legal fight with a White House that has threatened Democrats, and included Scharf's response."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios and The Hill presented the letters as groundwork for a long period of oversight, listing recipients and priorities."
+        },
+        {
+          "lean": "right",
+          "framing": "Reason said \"legitimate corruption concerns\" exist, particularly around World Liberty Financial, the Binance pardon and Pentagon contractors linked to Trump sons' investments. It included Trump Jr.'s defense that he is a passive investor and should not have to sit out business."
+        }
+      ],
+      "disputed": [
+        "Garcia's allegations of \"pay-to-play schemes\" and \"disguised payoffs\" are claims the recipients dispute; Trump's sons say they are passive investors.",
+        "Whether the administration will comply once Democrats gain subpoena power."
+      ],
+      "why": "It previews two years of investigations and likely legal clashes between a Democratic House and the White House.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "House Dems prepare for broad Trump family probe",
+          "url": "https://www.axios.com/2026/11/18/trump-garcia-house-oversight",
+          "published": "2026-11-18T11:20:52+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations",
+          "published": "2026-11-18T20:39:21+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Incoming Oversight Chairman Previews Democrats' Investigations Into Trump Family's Business Dealings",
+          "url": "https://reason.com/2026/11/18/incoming-oversight-chairman-previews-democrats-investigations-into-trump-familys-business-dealings/",
+          "published": "2026-11-18T21:55:35+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Garcia directs Trump family, administration officials to preserve records",
+          "url": "https://thehill.com/homenews/house/6227316-robert-garcia-donald-trump-family-probe-house-democrats/",
+          "published": "2026-11-18T13:34:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "North Carolina lawmakers restore $31 million for film incentive program",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "North Carolina lawmakers restored $31 million for the state's film and entertainment grant program, hoping to draw productions back to the state. Changes to how grants are funded had contributed to shows such as \"The Hunting Wives\" leaving the state for their next season. Grants were previously awarded upfront from expected funds; the Commerce Department has now been asked to work with available money. Outgoing state Sen. Michael Lee championed the one-time funding for productions in Wilmington.",
+      "key_facts": [
+        "The one-time funding is $31 million.",
+        "The program offers a 25% rebate on qualifying in-state production spending.",
+        "\"The Hunting Wives\" received nearly $12 million for its first season and was awarded up to $15 million for its second, not yet paid out."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE framed the industry as at a \"tipping point,\" explaining the funding change and its effect on productions, with guests from the film industry and business press."
+        },
+        {
+          "lean": "center",
+          "framing": "Queen City News reported the restoration as an effort to attract productions back, citing projects that filmed in the state."
+        }
+      ],
+      "disputed": [
+        "Whether the funding will bring departed productions back."
+      ],
+      "why": "Film incentives affect local jobs and spending in Charlotte and Wilmington.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC lawmakers restore $31 million for film incentive program, hope to attract productions back to the state",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/nc-lawmakers-restore-31-million-for-film-incentive-program-hope-to-attract-productions-back-to-the-state/",
+          "published": "2026-11-18T20:00:18+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The state of North Carolina’s film grant program and what’s next",
+          "url": "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2026-11-18/the-state-of-north-carolinas-film-grant-program-and-whats-next",
+          "published": "2026-11-18T21:41:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Small earthquakes rattle Rowan and Iredell counties",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Small earthquakes late Tuesday night shook the Rowan and Iredell county area north of Charlotte. Residents reported a loud boom followed by shaking, and some called 911. The USGS recorded one quake at 11:05 p.m. about 4 miles west of Cleveland, revising it from magnitude 2.4 to 2.2. No damage was reported.",
+      "key_facts": [
+        "The USGS recorded a quake at 11:05 p.m. Tuesday at a depth of about 1 kilometer.",
+        "Its magnitude was revised from a preliminary 2.4 to 2.2.",
+        "North Carolina's largest quake in 100 years was a magnitude 5.1 in Sparta in 2020."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "All three local stations focused on residents' experiences: the loud boom, shaking, and 911 calls from people who thought they were being bombed. They noted the quakes were small."
+        }
+      ],
+      "disputed": [
+        "Whether there were one or two quakes. WSOC cites state officials reporting two (a 2.4 in Rowan and a 2.2 in Iredell), but the location details it gives overlap, and WCNC describes a single 2.4 in Rowan.",
+        "USGS figures are preliminary and may be revised."
+      ],
+      "why": "Even minor quakes are unusual in the area and can alarm residents.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Earthquakes in Rowan, Iredell counties rattle area",
+          "url": "https://www.wsoctv.com/news/local/24-magnitude-earthquake-reported-iredell-county-area/IXRXMZ4SY5CK5EO4BPOKLZ775A/",
+          "published": "2026-11-18T22:49:46+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "2.4 magnitude earthquake shakes Rowan County late Tuesday night",
+          "url": "https://www.wcnc.com/article/weather/earthquake-rowan-county-north-carolina-brad-panovich-explanation/275-7b21db90-8a99-4598-b844-11d0ea45ae19",
+          "published": "2026-11-18T12:40:03+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "911 CALLS: ‘I thought we were being bombed.' Small earthquake shakes Rowan-Iredell area",
+          "url": "https://www.qcnews.com/news/local-news/earthquake-reported-near-iredell-rowan-county-line/",
+          "published": "2026-11-18T13:53:13+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "No articles directly addressed US or EU AI regulation. In passing, coverage of Anthropic's IPO mentioned investor worries about a potential regulatory crackdown by a Democratic-led Congress next year, and senators pressed Google over AI in school products.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 11,
+    "center": 20,
+    "right": 10
+  },
+  "stats": {
+    "articles": 653,
+    "stories_found": 454,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
