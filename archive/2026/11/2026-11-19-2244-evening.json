@@ -1,0 +1,826 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-20T03:44:41.362833+00:00",
+  "local_time": "Thursday, November 19, 2026 · 10:44 PM EST",
+  "local_date": "Nov 19, 2026",
+  "slug": "2026-11-19-2244-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is led by the first-ever summit of the US, Chinese and Russian leaders in Shenzhen, which produced a four-point 'peace declaration' that analysts largely called symbolic. At home, the White House replaced its national cyber director after a week of tech outages, Anthropic went public in a record IPO, and a House committee released data on AI-chip export approvals to China. Abroad, the UN's top court found Myanmar responsible for genocide against the Rohingya, and Houthi missile fire damaged Riyadh's tallest tower.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "US, China and Russia issue four-point 'peace declaration' after Shenzhen summit",
+      "topics": [
+        "Asia Business & Politics",
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "Presidents Donald Trump, Xi Jinping and Vladimir Putin issued a joint 'peace declaration' after their first-ever three-way meeting, held on the sidelines of the APEC summit in Shenzhen. The declaration covers UN reform, more production of refined petroleum products, limits on the International Criminal Court's jurisdiction, and a pledge to talk about reducing nuclear risks and preventing proliferation. It repeats that 'a nuclear war cannot be won' and must not be fought, but sets no binding arms limits or timelines. Critics and some analysts called the outcome mostly symbolic. Putin rejected that view, calling it 'serious collaborative work'. Trump is scheduled to hold a White House press conference on Friday.",
+      "key_facts": [
+        "The declaration has four themes: UN reform, refined petroleum supply, the ICC and other courts 'must not abuse their jurisdiction', and dialogue on nuclear risk reduction and non-proliferation.",
+        "Text was released by Chinese state media and the Kremlin; Fox News and the Daily Caller cite a White House version titled 'U.S.-Russia-China Heads of State Declaration toward Peace.'",
+        "The nuclear-war language matches earlier statements by the five permanent UN Security Council members.",
+        "Putin is subject to an ICC arrest warrant.",
+        "New START, the last major US-Russia arms treaty, expired on Feb. 5."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian led with what the declaration left out: no mention of the wars in Ukraine and Iran. It quoted analysts who called the summit mostly symbolic and a win for Putin's standing, and noted that the ICC clause benefits Putin. Al Jazeera framed it as an open question whether the commitments will become action, and said the leaders agreed to keep dialogue open on conflicts such as Ukraine."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (AFP) and The Hill mainly laid out the declaration's text and Xi's upbeat remarks. AFP noted that the White House had not released anything at the time of writing."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News called the summit historic and quoted the White House, Chinese and Russian statements at length, including Chinese language about the three countries' shared World War II history. The Daily Caller also called it historic and pointed to the nuclear-risk commitment as the most significant outcome. It stressed, however, that there are no binding cuts, no deadlines and no plan to end the Ukraine and Iran wars, and it described how hard UN Charter reform would be."
+        }
+      ],
+      "disputed": [
+        "Whether and when the White House released the text: AFP said it had not, while Fox and the Daily Caller cite a White House statement.",
+        "Whether Ukraine is addressed. The Guardian says the declaration does not mention it. Al Jazeera says the leaders agreed to keep dialogue open on conflicts such as Ukraine. Fox cites a Chinese readout listing Ukraine as a discussion topic.",
+        "When nuclear talks would begin, and whether they would lead to binding limits.",
+        "Whether the summit was substantive (Putin's view) or mainly symbolic (several analysts' view)."
+      ],
+      "why": "The three largest nuclear powers have committed, at least on paper, to talk about nuclear risk at a time when no major arms treaty is in force.",
+      "coverage": {
+        "left": 2,
+        "center": 5,
+        "right": 2
+      },
+      "n_outlets": 9,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "China, US, Russia leaders issue 'peace declaration' after summit",
+          "url": "https://www.koreaherald.com/article/10943254",
+          "published": "2026-11-19T12:14:22+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "published": "2026-11-19T17:13:23+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Trump, Putin, Xi issue 4-point declaration after historic summit",
+          "url": "https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit",
+          "published": "2026-11-19T18:20:42+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump, Xi, Putin issue 4-point ‘declaration toward peace’ after summit",
+          "url": "https://thehill.com/policy/international/6229659-trump-xi-putin-peace-declaration-china-summit/",
+          "published": "2026-11-19T12:31:40+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Will the Shenzhen summit safeguard world peace?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace",
+          "published": "2026-11-19T20:43:51+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Trump, Putin, Xi Unveil Historic ‘Peace’ Declaration, But Major Wars Remain Unresolved",
+          "url": "https://dailycaller.com/2026/11/19/trump-putin-xi-peace-declaration-major-wars-unsolved",
+          "published": "2026-11-19T18:29:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "White House replaces national cyber director after week of tech outages",
+      "topics": [
+        "US Headlines",
+        "AI & Cybersecurity"
+      ],
+      "summary": "National Cyber Director Sean Cairncross has left his post. Pentagon chief information officer Kirsten Davies is taking over, at least in an acting capacity, and Axios reports she is the administration's pick for the job. White House officials told several outlets that Trump backed the change because Cairncross lacked strong cyber credentials. Other sources described the departure as amicable or said he did not want to serve longer. The change follows a run of outages hitting air travel, banks, Microsoft and NSA systems, which officials say were not caused by a cyberattack. Two sources told Axios the timing was meant to get a successor confirmed before Democrats take control of the Senate in January.",
+      "key_facts": [
+        "Kirsten Davies, the Pentagon's CIO, steps into the role; the permanent post requires Senate confirmation.",
+        "Davies previously held cyber roles at Unilever, Estée Lauder, Barclays-Africa, Hewlett Packard and Siemens; Cairncross was formerly an executive at the Republican National Committee.",
+        "A Nov. 13 FAA outage caused a nationwide ground stop after contractor work overloaded the system.",
+        "Administration officials, including Secretary of State Marco Rubio and DNI Jay Clayton, said there was no evidence of a coordinated cyberattack.",
+        "Democrats will control the Senate starting in January."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, citing Reuters, described Cairncross as 'ousted' and quoted a source saying Trump 'fully supported firing' him. It noted that the administration has faced criticism over its response to the outages and that a Democratic Senate will need to confirm his successor."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios, Newsweek and The Hill focused on the competing accounts of whether he was fired or quit, on Davies' stronger cyber résumé, and on the timing ahead of Democratic Senate control. Newsweek gave a detailed timeline of the outages."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News said the firing was confirmed and featured congratulatory posts from Rubio, Clayton and Hegseth along with Davies' own statement. It added an official's account that Cairncross did not want to serve another two years, and highlighted officials' pushback against speculation that hackers were behind the outages. The Washington Examiner described the outages as perplexing experts and rattling the public."
+        }
+      ],
+      "disputed": [
+        "Whether Cairncross was fired, pushed out or left voluntarily.",
+        "Stephen Miller's title: most outlets call him chief of staff, while Fox calls him deputy chief of staff.",
+        "How long the FAA ground stop lasted: Newsweek says more than four hours, Fox says nearly five.",
+        "The causes of the outages: each company and agency gave a different explanation, and officials deny any coordinated attack."
+      ],
+      "why": "The government's top cyber coordinator changed hands in the middle of an unusual run of outages affecting critical infrastructure.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 3
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Kirsten Davies Poised to Take Over as New Cyber Chief After Tech Chaos: Reports",
+          "url": "https://www.newsweek.com/trump-replaces-cyber-chief-after-week-of-tech-chaos-reports-12744065",
+          "published": "2026-11-20T02:22:12+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "White House cyber director ousted after US hit by wave of tech outages",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+          "published": "2026-11-20T01:25:05+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+          "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+          "published": "2026-11-20T02:00:36+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Scoop: Trump names Kirsten Davies as new national cyber director",
+          "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+          "published": "2026-11-19T22:12:23+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "White House fires National Cyber Director Sean Cairncross as questions remain regarding technological outages",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4809627/white-house-fires-cyber-director-sean-cairncross/",
+          "published": "2026-11-20T02:03:14+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "White House lets go of national cyber director, names acting replacement",
+          "url": "https://thehill.com/homenews/administration/6231938-sean-cairncross-resigns-cyber-director/",
+          "published": "2026-11-19T23:56:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Trump, Xi and Putin hold first three-way talks, with no major breakthrough announced",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin met for more than an hour in Shenzhen in the first trilateral meeting of the three countries' leaders. They discussed nuclear arms, the war in Ukraine and international security. Trump called the meeting historic. Xi called for nuclear weapons to be prohibited and eventually destroyed. Putin cited the countries' shared World War II history. Before the joint session, Trump held separate one-on-ones with Xi and with Putin. No new arms control agreement or Ukraine breakthrough was announced, and the summit ended Trump's Asia trip.",
+      "key_facts": [
+        "Trump: 'We are really making history.'",
+        "China is estimated to have more than 600 warheads, compared with more than 5,000 each for the US and Russia.",
+        "Trump's separate meeting with Putin lasted about 40 minutes and was their first talks since Alaska last year.",
+        "Trump described the ICC as 'out of control'; the US and China are not parties to the Rome Statute."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian portrayed the summit as more footnote than historic turning point: a 'free gift' to Putin and a stage for Xi to signal the end of US dominance. It noted that Europe was not at the table and quoted critics such as Jeremy Hunt. It also described both the Iran and Ukraine conflicts as failing wars of choice by participants."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via the Korea Herald), CNBC and DW reported the leaders' quotes and the context of the bilateral meetings. They stressed that expectations were low, citing the Arms Control Association's Daryl Kimball, who warned against 'diplomatic theater.'"
+        }
+      ],
+      "disputed": [
+        "How long the meeting lasted: reports range from 'more than an hour' to about 90 minutes.",
+        "Whether the meeting will lead to sustained arms-control talks."
+      ],
+      "why": "How Washington relates to Beijing and Moscow shapes nuclear security and the prospects for ending the wars in Ukraine and Iran.",
+      "coverage": {
+        "left": 4,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 8,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump, Xi and Putin hold first-ever three-way talks, discussing nuclear arms, Ukraine war",
+          "url": "https://www.koreaherald.com/article/10943230",
+          "published": "2026-11-19T11:10:51+00:00"
+        },
+        {
+          "source": "The Guardian (Asia-Pacific)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Global courts under attack and four more takeaways from the Trump, Xi, Putin meeting",
+          "url": "https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit",
+          "published": "2026-11-19T14:32:03+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
+          "published": "2026-11-19T10:54:07+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+          "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+          "published": "2026-11-19T15:35:01+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+          "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-19T17:52:00+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Troublesome trio: Trump, Xi and Putin hold historic meeting - The Latest",
+          "url": "https://www.theguardian.com/news/video/2026/nov/19/troublesome-trio-trump-xi-and-putin-hold-historic-meeting-the-latest",
+          "published": "2026-11-19T19:37:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Anthropic begins trading on Nasdaq in record IPO",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "AI company Anthropic debuted on Nasdaq under the ticker ANT. It priced shares at $83, above the expected range, and raised about $81 billion, plus $26 billion from a private placement. The stock opened at $111.50 and, according to DW, closed the first day at $97. Coverage weighed record investor demand against heavy losses, about $900 billion in spending commitments, and 'circular financing' concerns, since major investors such as Amazon and Google are also Anthropic's suppliers. Three people were arrested at a protest outside Nasdaq over data centers' environmental impact and the risk of an AI bubble.",
+      "key_facts": [
+        "980 million shares were offered at $83, raising about $81.3 billion.",
+        "Revenue for the first nine months of 2026 was $33.2 billion, up 1,206% year over year (per filings cited by Fox Business).",
+        "Spending commitments total about $900.9 billion through 2045, mostly for compute.",
+        "Amazon holds a 14.7% stake and Google 13.7%, per the prospectus.",
+        "Founders keep 50.1% of voting power on general shareholder matters."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera focused on the protest and arrests outside Nasdaq, highlighting environmental concerns and the risk to investors if the AI bubble bursts."
+        },
+        {
+          "lean": "center",
+          "framing": "TechCrunch examined circular financing and argued the IPO could make Anthropic's funding self-sustaining. DW presented the debut as a test of investor appetite and noted persistent bubble concerns. CNBC covered the wealth the IPO creates and new family offices for newly rich employees."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business emphasized the record size and strong demand, comparing it with SpaceX's IPO. It detailed the lock-up terms and retail allocation, and noted the filing's disclosure of 'end of humanity' risk."
+        }
+      ],
+      "disputed": [
+        "Valuation figures differ: about $1.5 trillion at the IPO price, while DW says the opening price implied $2 trillion.",
+        "How large the losses are: Fox Business cites a $104 billion nine-month net loss, largely from noncash charges; TechCrunch says losses run to tens of billions per quarter.",
+        "Whether Anthropic can cover its compute commitments: one analyst calls the needed revenue achievable."
+      ],
+      "why": "As the first big AI lab to go public, Anthropic's stock is being watched as a gauge of whether the AI boom is sustainable.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "published": "2026-11-19T14:54:39+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq",
+          "published": "2026-11-19T20:59:20+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Anthropic begins trading on Nasdaq in record-breaking IPO",
+          "url": "https://www.foxbusiness.com/markets/anthropic-begins-trading-nasdaq-record-breaking-ipo",
+          "published": "2026-11-19T16:52:56+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
+          "published": "2026-11-19T14:57:38+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic trading tests investors' appetite for AI",
+          "url": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-19T15:52:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "House committee says Commerce approved about 880,000 AI chips for Chinese firms",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "The House Foreign Affairs Committee released documents showing that the Commerce Department's Bureau of Industry and Security approved licenses covering 879,868 Nvidia and AMD AI chips for Chinese companies between December 2025 and May 2026. Some recipients, including Alibaba, Tencent, Baidu and BYD, are on the Pentagon's list of alleged Chinese military companies. The release comes amid scrutiny over reports involving former Nvidia CEO Jensen Huang and an alleged Chinese spy. Nvidia says the approvals carried strict conditions and that it has since stopped shipping H200s to China. It is unclear how many approved chips were actually shipped.",
+      "key_facts": [
+        "Approvals by recipient: Tencent 150,000, Alibaba 75,000, Baidu 43,000, BYD 4,000.",
+        "About 3.4 million chips were sought during the period.",
+        "The chips included Nvidia's H200 and AMD's MI325X.",
+        "Committee Chair Brian Mast (R-Fla.) called it the most detailed public disclosure in the history of the Export Control Reform Act.",
+        "Nvidia shares fell 3.3% and AMD 7.7% on the day."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera led with the Huang affair context and calls for a tougher China stance. It quoted former official Chris McGuire calling the share going to military-linked firms 'astonishing,' and noted the stock declines."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA and The Hill emphasized approvals for military-designated firms. CNBC added balance: Democratic Rep. Gregory Meeks said BIS failed to enforce the rules, while Bernstein analyst Stacy Rasgon called the numbers 'not that many' and evidence of a real review process. CNBC also noted that Beijing limited imports."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner reported the figures straightforwardly, highlighting the companies' alleged ties to China's military and the 21 licenses involved."
+        }
+      ],
+      "disputed": [
+        "How many approved chips were actually delivered to China.",
+        "Whether Commerce conducted a serious national security review: critics say no, while BIS and some analysts point to an interagency process.",
+        "Whether 3.4 million refers to chips sought or to requests: outlets describe it differently."
+      ],
+      "why": "The data feed a bipartisan debate over whether US AI-chip exports are strengthening China's military.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+          "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216",
+          "published": "2026-11-19T23:04:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
+          "published": "2026-11-19T21:58:27+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Commerce Department greenlit over 800,000 Nvidia and AMD chips to China, new documents show",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4809629/commerce-department-800k-nvidia-amd-chips-china/",
+          "published": "2026-11-20T02:19:34+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+          "published": "2026-11-20T00:53:55+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump administration approved shipment of nearly 900,000 AI chips to China",
+          "url": "https://thehill.com/policy/technology/6231677-trump-approves-ai-chip-sales/",
+          "published": "2026-11-19T21:49:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "UN top court rules Myanmar committed genocide against the Rohingya",
+      "topics": [],
+      "summary": "The International Court of Justice ruled 9–6 that Myanmar's 2017 military crackdown in Rakhine state was carried out with intent to destroy the Rohingya, the first time the court has held a state responsible for genocide. Gambia brought the case under the 1948 Genocide Convention. The court rejected Myanmar's argument that it was conducting counterinsurgency operations, citing executions, widespread sexual violence, attacks on children and the burning of villages. Rohingya in The Hague and in Bangladesh's refugee camps reacted with tears and celebration. Myanmar's military-led government had not responded when the articles were published.",
+      "key_facts": [
+        "The vote was 9–6, and the decision was read by ICJ President Yuji Iwasawa.",
+        "The court estimated about 10,000 Rohingya were killed; about 700,000 fled to Bangladesh.",
+        "The court found all or parts of 392 villages were burned.",
+        "Myanmar has previously called the allegations 'flawed and unfounded.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, NPR and PBS centered survivors' voices and emotional reactions. They also covered calls for accountability and safe return, and legal experts' view that the ruling could affect other cases, including South Africa's case against Israel."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA told the story through a widow in the Cox's Bazar camps and recounted the Inn Din killings. Axios and The Hill focused on the legal landmark and its possible implications for the Gaza case."
+        }
+      ],
+      "disputed": [
+        "Death toll estimates vary: about 10,000 per the court, while PBS cites a conservative estimate of nearly 7,000.",
+        "How Myanmar will respond, and what enforcement or repatriation will follow."
+      ],
+      "why": "It sets a precedent for how intent and state responsibility for genocide are judged in other cases.",
+      "coverage": {
+        "left": 4,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 10,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "'Justice is finally being served': Rohingya widow hears Myanmar genocide ruling from refugee camp",
+          "url": "https://www.channelnewsasia.com/asia/justice-finally-being-served-rohingya-widow-hears-myanmar-genocide-ruling-refugee-camp-6566196",
+          "published": "2026-11-19T13:56:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+          "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+          "published": "2026-11-19T16:15:52+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Myanmar becomes first state found responsible for genocide by UN court",
+          "url": "https://www.axios.com/2026/11/19/un-court-myanmar-genocide-ruling-rohingya",
+          "published": "2026-11-19T16:21:55+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
+          "url": "https://www.pbs.org/newshour/show/international-court-of-justice-finds-myanmar-guilty-of-genocide-against-rohingya",
+          "published": "2026-11-19T23:35:01+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "UN court rules that Myanmar committed genocide against Rohingya",
+          "url": "https://thehill.com/policy/international/6230965-un-international-court-of-justice-myanmar-genocide-ruling-rohingya-muslims/",
+          "published": "2026-11-19T19:09:47+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+          "published": "2026-11-19T12:29:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Justice Department moves to drop suit over Alaska Senate race won by Peltola",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Trump administration asked the 9th Circuit to declare moot its lawsuit seeking to block certification of Alaska's Senate race. It also asked the court to vacate the lower-court ruling that had dismissed the case. The suit, filed at Trump's direction, argued that a second candidate named Dan Sullivan on the ballot could confuse voters. Democrat Mary Peltola won 50.13% of the vote, more than all other candidates combined. Peltola has denied a New York Times report that her campaign helped recruit the second Sullivan. Separately, Peltola told the AP that voters did not elect her to be partisan.",
+      "key_facts": [
+        "Peltola won with 50.13%, so no ranked-choice reallocation was needed.",
+        "The Alaska Supreme Court had ruled the second Sullivan's candidacy legal.",
+        "Republican Rep. Nick Begich narrowly beat Bill Hill in the House race after ranked-choice tabulation.",
+        "This is the second post-election DOJ move to drop a high-profile election lawsuit, after one in California."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian stressed that the suit was filed at Trump's direction and that the administration never explained how voter confusion could be investigated. It noted the historic nature of Peltola's win as one of the first two Native American women senators, and the candidacy of an incarcerated House candidate allegedly placed on the ballot to confuse voters."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill focused on Peltola signaling a nonpartisan approach centered on Alaskans' cost-of-living concerns."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post called the suit a 'much-criticized gambit' and noted that Alaska's Republican-led state government opposed it. It also pointed out that decoy-candidate tactics are common across parties. Reason's Volokh Conspiracy said the suit 'never had any merit' and set a dangerous precedent, while adding that Democrats may deserve blame for the decoy candidacy."
+        }
+      ],
+      "disputed": [
+        "Whether Peltola's campaign was involved in recruiting the second Sullivan: she denies it, while the NYT reported texts suggesting staff involvement.",
+        "How the second Sullivan was listed: Reason calls him the 'Republican candidate,' while the Post says he was listed with no party preference."
+      ],
+      "why": "The case tested whether the federal government can try to block certification of state election results.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 2
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Peltola says Alaska voters did not elect her to be partisan",
+          "url": "https://thehill.com/homenews/campaign/6231009-mary-peltola-alaska-senate-win/",
+          "published": "2026-11-19T18:34:16+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+          "published": "2026-11-20T02:58:52+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump admin moves to drop lawsuit in high-stakes Alaska Senate race",
+          "url": "https://nypost.com/2026/11/19/us-news/trump-admin-moves-to-drop-lawsuit-in-high-stakes-alaska-senate-race/",
+          "published": "2026-11-20T03:00:29+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+          "published": "2026-11-20T02:43:33+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump Justice Department Drops Attempt to Block Certification of Alaska Senate Election Result in \"Voter Confusion\" Case",
+          "url": "https://reason.com/volokh/2026/11/19/trump-justice-department-drops-attempt-to-block-certification-of-alaska-senate-election-result-in-voter-confusion-case/",
+          "published": "2026-11-20T00:33:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Houthi missile attack damages Riyadh's tallest tower",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Riyadh's 80-storey Public Investment Fund Tower, which houses the headquarters of Saudi Arabia's sovereign wealth fund, was damaged in what Saudi authorities called a Houthi attack. The Saudi-led coalition said it addressed a missile threat and that the damage came from debris; civil defense reported no injuries. The coalition also said it intercepted ballistic missiles aimed at the south and destroyed a launch platform in Dhamar, Yemen. Houthi media reported Saudi strikes on Sanaa. The attacks are part of an escalation that has included a deadly October strike on Riyadh's airport.",
+      "key_facts": [
+        "Windows were blown out across several floors, up to eight according to Reuters.",
+        "Saudi civil defense said there was 'material damage but no injuries.'",
+        "An October attack on King Khalid International Airport killed 14 people.",
+        "The Houthi health ministry says attacks on Sanaa killed 10 people over two days."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera covered the story within its 'Iran war' live coverage, giving weight both to the escalating attacks on Riyadh and to casualties in Sanaa reported by the Houthis."
+        },
+        {
+          "lean": "center",
+          "framing": "AFP (via the Korea Herald) relied on witness accounts of the damage and explained the PIF's economic importance. It reported claims from both sides, including the Saudi strikes on Yemen."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News used the Saudi framing of a 'terrorist attack,' emphasized the Houthis' Iranian backing, and quoted US Embassy warnings to Americans in the kingdom."
+        }
+      ],
+      "disputed": [
+        "How many ballistic missiles were intercepted in the south: AFP reports five, Fox reports four.",
+        "Whether the tower was hit directly or by interception debris."
+      ],
+      "why": "Attacks on Saudi Arabia's financial and energy hubs raise the risk of wider regional escalation and further energy disruption.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Riyadh's tallest building damaged as Saudi reports new Houthi attacks",
+          "url": "https://www.koreaherald.com/article/10943233",
+          "published": "2026-11-19T11:17:48+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital",
+          "published": "2026-11-19T23:58:40+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund",
+          "url": "https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund",
+          "published": "2026-11-19T18:32:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Susan Smith denied parole for second time",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "South Carolina's parole board unanimously denied parole to Susan Smith, who drowned her sons Michael, 3, and Alex, 1, in 1994. Appearing by video, Smith apologized, cited mental health struggles, and disputed prosecutors' claim that she acted to keep a relationship with another man. The boys' father, David Smith, asked the board to keep her imprisoned, saying her actions were deliberate. She can apply again in two years.",
+      "key_facts": [
+        "The seven-member board vote was unanimous.",
+        "Smith is 55 and has served 32 years.",
+        "Release required approval from two-thirds of the board members present."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "BBC, WSOC and Queen City News reported the hearing straightforwardly, quoting both Smith's apology and David Smith's opposition."
+        }
+      ],
+      "disputed": [
+        "Smith's motive: prosecutors said it was a relationship with another man, which Smith denies."
+      ],
+      "why": "One of the most notorious US crimes of the 1990s keeps returning before the parole board.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-19T17:23:34+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Susan Smith denied parole for second time in 2 years",
+          "url": "https://www.wsoctv.com/news/local/susan-smith-denied-parole-second-time-2-years/SOFUNI7WDBBNZG4WZ6ODZR6FDI/",
+          "published": "2026-11-19T17:14:39+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Susan Smith, who killed her two sons in 1994, denied parole in unanimous decision",
+          "url": "https://www.qcnews.com/news/u-s/south-carolina/susan-smith-to-face-parole-board-32-years-after-killing-sons-in-south-carolina-lake/",
+          "published": "2026-11-19T15:39:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Kiwoom Heroes re-sign three foreign players and add Japanese pitcher",
+      "topics": [
+        "Korea",
+        "Asia Business & Politics",
+        "Charlotte Local"
+      ],
+      "summary": "The KBO's Kiwoom Heroes re-signed pitcher Raul Alcantara, infielder Matt Davidson and outfielder Keston Hiura to one-year deals. They also signed former NPB reliever Koji Fukutani as their Asian quota player, replacing closer Yuto Kanakubo. Alcantara is recovering from elbow surgery but is expected to be ready for spring training.",
+      "key_facts": [
+        "Contracts: Alcantara and Davidson $1.1 million each; Hiura $800,000.",
+        "Davidson hit 28 home runs in total last season, 20 of them in 61 games for the Heroes.",
+        "Fukutani, 35, has played 14 NPB seasons."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald ran the same straightforward report on the signings."
+        }
+      ],
+      "disputed": [],
+      "why": "The Heroes are keeping their unusual setup of one foreign pitcher and two foreign hitters for another season.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Heroes bring back 3 foreign players from 2026 season, acquire new Japanese pitcher",
+          "url": "https://en.yna.co.kr/view/AEN20261120000900315",
+          "published": "2026-11-19T23:59:15+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Heroes bring back 3 foreign players from 2026 season, acquire new Japanese pitcher",
+          "url": "https://www.koreaherald.com/article/10943543",
+          "published": "2026-11-20T00:20:36+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "US lawmakers launched a new AI safety caucus amid rising security concerns. Seven of its 26 founding members are Republicans, which The Record calls notable given the White House's steadfast opposition to regulating AI. The provided articles contain nothing on EU AI regulation.",
+      "links": [
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
+          "url": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+          "published": "2026-11-19T21:19:00+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 14,
+    "center": 24,
+    "right": 9
+  },
+  "stats": {
+    "articles": 664,
+    "stories_found": 453,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
