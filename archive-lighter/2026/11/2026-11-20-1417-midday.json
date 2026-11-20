@@ -1,0 +1,393 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-20T19:17:38.407860+00:00",
+  "local_time": "Friday, November 20, 2026 · 2:17 PM EST",
+  "local_date": "Nov 20, 2026",
+  "slug": "2026-11-20-1417-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Busy Friday! The big fun headline is Grand Theft Auto VI's star-studded soundtrack dropping a day after the game, and Ice Spice met her own wax twin in Times Square. On the civic side, the Senate passed a major energy permitting bill, a second judge paused the planned arch near Arlington, and Iowa residents near an Army plant have a heads-up about a scheduled controlled detonation on Monday.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Army pushes Iowa explosives disposal to Monday, asks locals to step away",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The US Army plans to safely detonate about five tonnes of aging, unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. The material had been stored in a water-ethanol bath for over 20 years, but some water evaporated, making it too unstable to move. The Army says the blast will send up dust containing lead, so residents are asked to leave or stay indoors during the operation. After pushback from Iowa lawmakers and a lawsuit from two environmental groups, the date moved from Friday to Monday.",
+      "key_facts": [
+        "New date: Monday, Nov. 23; residents asked to leave roughly 8 a.m. to 2 p.m. local time",
+        "About 9,500 pounds of lead azide, set off in two quick controlled blasts",
+        "The EPA granted an emergency permit, citing an 'imminent and substantial threat' if left alone",
+        "Iowa Environmental Council and Sierra Club Iowa Chapter sued the EPA, saying safer options and proper notice were skipped"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you live in eastern Iowa or nearby Illinois, it's worth knowing the timing and the stay-indoors advice.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US army warns detonation of unstable explosives will create toxic plume",
+          "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-20T01:27:27+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+          "published": "2026-11-20T12:04:57+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Environmental groups sue to block Army’s lead detonation at Iowa ammunition plant",
+          "url": "https://thehill.com/policy/energy-environment/6233476-iowa-ammunition-plant-lead-suit/",
+          "published": "2026-11-20T17:12:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Water main break closes three Fort Mill schools for the day",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "A water main break caused by faulty equipment left about 6,000 York County customers north of Springfield Parkway with little or no water on Friday. Fort Mill School District closed three schools, and some businesses, including a popular Eggs Up Grill, had to shut their doors. Officials expected repairs around 1 p.m.",
+      "key_facts": [
+        "Springfield Elementary, Springfield Middle and Nation Ford High were closed",
+        "About 6,000 customers affected",
+        "Officials say no boil water advisory will be needed once service returns"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A hassle for sure, but a short-lived one, and the water will be safe to drink once it's back.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Water main break leaves thousands of Fort Mill residents without service",
+          "url": "https://www.wsoctv.com/news/local/water-outage-shuts-down-3-fort-mill-schools/54F6OGRIUFCGTNOH7GBVAWKO3A/",
+          "published": "2026-11-20T16:49:56+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "3 Fort Mill schools closed Friday after water outage",
+          "url": "https://www.wcnc.com/article/news/education/three-fort-mill-schools-closed-due-to-water-outage/275-de33a547-0018-4061-9374-cf0e8c6e40eb",
+          "published": "2026-11-20T13:01:02+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Three Fort Mill schools closed due to water outage",
+          "url": "https://www.qcnews.com/news/u-s/york-county/three-fort-mill-schools-closed-due-to-water-outage/",
+          "published": "2026-11-20T13:06:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Jamaica's hurricane relief audit sparks a political back-and-forth",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "An Auditor General's report found Jamaica's disaster agency, ODPEM, used J$33 million in donations meant for roof repairs after Hurricane Melissa to pay clearance fees on third-party goods without documented authority. Prime Minister Andrew Holness called the findings concerning and said the decision was made by agency management, not his office. Opposition Leader Mark Golding says Holness is responsible, since ODPEM was moved into the Prime Minister's office in November 2025.",
+      "key_facts": [
+        "The audit report, by Auditor General Pamela Monroe Ellis, runs 60 pages",
+        "ODPEM has committed to repaying the J$33 million",
+        "The PNP says J$4.8 billion in donated goods can't be accounted for in the records provided",
+        "The PNP plans a demonstration next week"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a check on whether donations from Jamaicans at home and abroad reached the families they were meant for, and parliament's committees will review it.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "PM: It wasn’t me - Holness distances executive from ODPEM funds misuse",
+          "url": "http://jamaica-gleaner.com/article/news/20261120/pm-it-wasnt-me-holness-distances-executive-odpem-funds-misuse",
+          "published": "2026-11-20T06:06:28+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Your office…your responsibility’: Golding tells Holness to own ODPEM failures",
+          "url": "https://www.jamaicaobserver.com/2026/11/20/officeyour-responsibility-golding-tells-holness-odpem-failures/",
+          "published": "2026-11-20T16:53:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Senate passes bipartisan bill to speed up energy projects",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Senate voted 62-33 to pass a bill that would shorten approval timelines for power plants, data centers and other infrastructure. Supporters, including Majority Leader John Thune and Democratic co-author Sheldon Whitehouse, say it could lower energy bills. Major environmental groups and several Democrats oppose it, citing worries about clean air and water protections and tribal rights. It now heads to the House.",
+      "key_facts": [
+        "Official name: the Bipartisan American Affordability and Jobs Act",
+        "Fourteen Democrats and one Independent joined most Republicans in voting yes; Republicans Mike Rounds and Josh Hawley voted no",
+        "Electricity prices rose more than 6% in the past year and 39% over five years",
+        "President Trump has urged Congress to pass it"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If it becomes law, it could shape how fast new power gets built and what households pay for electricity.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Senate passes Trump-backed permitting bill",
+          "url": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
+          "published": "2026-11-20T03:08:28+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Senate passes bipartisan energy bill amid environmental concerns",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+          "published": "2026-11-20T11:00:28+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Senate approves key permitting reform bill, sends to House",
+          "url": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/",
+          "published": "2026-11-20T03:09:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Sandals South Coast is back, and fancier, after Hurricane Melissa",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Sandals South Coast in Westmoreland, Jamaica, officially reopened Thursday after a 10-month rebuild following a direct hit from Hurricane Melissa. Instead of a quick patch-up, the company did a full makeover with new restaurants, pools and redesigned spaces. Leaders from both main political parties came to the ribbon-cutting, and Opposition Leader Mark Golding called it a 'Herculean feat.'",
+      "key_facts": [
+        "The 380-room resort welcomed 448 first guests on Wednesday",
+        "Reports put the total three-resort investment at US$200 million to US$250 million",
+        "Sandals Montego Bay and Sandals Caribbean Cay (formerly Royal Caribbean) reopen Dec. 18",
+        "Staff stayed on payroll with full benefits and half their gratuities during the closure"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A real 'build back better' moment, and good news for the workers and communities that depend on tourism.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Jamaica Gleaner",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sandals delivers major South Coast makeover",
+          "url": "http://jamaica-gleaner.com/article/news/20261120/sandals-delivers-major-south-coast-makeover",
+          "published": "2026-11-20T06:06:27+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sandals South Coast reopens under US$250-million ‘Sandals 2.0’ upgrade",
+          "url": "https://www.jamaicaobserver.com/2026/11/20/sandals-south-coast-reopens-us250-million-sandals-2-0-upgrade/",
+          "published": "2026-11-20T05:18:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Second judge pauses Trump's planned arch near Arlington",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Federal Judge Leonie Brinkema said she'll issue a preliminary injunction blocking construction of the planned 250-foot arch at Memorial Circle while Arlington County's lawsuit proceeds. The county argues the review process was rushed and that the arch would affect traffic, emergency services, cemetery funerals and historic sightlines. The Justice Department says it will appeal right away.",
+      "key_facts": [
+        "This is the second federal judge to block the project",
+        "Arlington County sued in October, represented by Democracy Forward",
+        "The National Park Service defends its review, which concluded earlier this month"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a live example of how local governments and courts weigh in on big federal building projects.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Second judge blocks Trump's contested D.C. arch",
+          "url": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+          "published": "2026-11-20T19:05:05+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+          "published": "2026-11-20T18:25:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "GTA VI's soundtrack drops, with Sexyy Red dancing in Vice City",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "A day after Grand Theft Auto VI finally launched, Rockstar released a 34-track companion album packed with stars like Dua Lipa, Lana Del Rey, Bad Bunny-hosted radio, Travis Scott and Morgan Wallen. Players are also loving surprise cameos, including Sexyy Red busting moves on a nightclub dance floor, which caught streamer iShowSpeed totally off guard.",
+      "key_facts": [
+        "The game came out Nov. 19, 13 years after the last installment",
+        "No video game soundtrack has ever hit No. 1 on the Billboard 200",
+        "A GTA VI music festival is set for Nov. 21 at Miami's Mana Wynwood",
+        "Sexyy Red reposted the viral clip with: 'We was just chillin mane'"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The No. 1 debut is a possibility Billboard is watching for, not a done deal yet",
+        "The cameos and the album lineup are confirmed by the reporting"
+      ],
+      "why": "A rare everybody-is-talking-about-it pop culture moment, with a playlist to match.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Every Track From ‘Grand Theft Auto VI: The Album’ Ranked",
+          "url": "https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/",
+          "published": "2026-11-20T17:47:35+00:00"
+        },
+        {
+          "source": "XXL",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI",
+          "url": "https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/",
+          "published": "2026-11-20T16:39:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Ice Spice meets her wax twin in Times Square",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Madame Tussauds New York unveiled a life-size Ice Spice figure on Nov. 19, and she was there to see it. The figure captures her breakout 'Munch' era look with short orange curls and an animal-print bodysuit, while she showed up with long platinum hair. She said it felt like 'stepping into a time machine.'",
+      "key_facts": [
+        "'Munch (Feelin' U)' took off in 2022",
+        "She earned four Grammy nominations by 2024, including Best New Artist",
+        "She admitted she was 'a little intimidated' at first, then laughed and posed with it"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: the figure is on display now at Madame Tussauds New York"
+      ],
+      "why": "A sweet look back at how fast a Bronx rapper went from a viral hook to a museum.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ice Spice Meets Her Breakout-Era Double At Madame Tussauds New York",
+          "url": "https://allhiphop.com/news/ice-spice-madame-tussauds-new-york-wax-figure-orange-curls/",
+          "published": "2026-11-20T17:30:00+00:00"
+        },
+        {
+          "source": "XXL",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ice Spice Gets Her Own Wax Figure at Madame Tussauds",
+          "url": "https://www.xxlmag.com/ice-spice-wax-figure/",
+          "published": "2026-11-20T17:20:38+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 3,
+    "center": 16,
+    "right": 0
+  },
+  "stats": {
+    "articles": 276,
+    "stories_found": 240,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

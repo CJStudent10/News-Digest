@@ -1,160 +1,161 @@
-# The Lighter Brief: Evening edition
-_Thursday, November 19, 2026 · 10:46 PM EST · 331 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Midday edition
+_Friday, November 20, 2026 · 2:17 PM EST · 276 articles from 23 outlets · summaries by Claude_
 
-> This edition is a mixed bag with a few bright spots. Guyana hit a major health milestone, Charlotte neighbors won a fight over some protected dogwood trees, and Becky G is heading into an independent new chapter. There's also a gentle goodbye to Fiona the hippo, plus some practical Thanksgiving travel notes and a couple of policy and health-system updates.
+> Busy Friday! The big fun headline is Grand Theft Auto VI's star-studded soundtrack dropping a day after the game, and Ice Spice met her own wax twin in Times Square. On the civic side, the Senate passed a major energy permitting bill, a second judge paused the planned arch near Arlington, and Iowa residents near an Army plant have a heads-up about a scheduled controlled detonation on Monday.
 
 
 
 ---
 
-## 1. Stomach bug sweeps a Princess cruise ship
+## 1. Army pushes Iowa explosives disposal to Monday, asks locals to step away
+`US Headlines` · Covered by 3 outlets
+
+The US Army plans to safely detonate about five tonnes of aging, unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. The material had been stored in a water-ethanol bath for over 20 years, but some water evaporated, making it too unstable to move. The Army says the blast will send up dust containing lead, so residents are asked to leave or stay indoors during the operation. After pushback from Iowa lawmakers and a lawsuit from two environmental groups, the date moved from Friday to Monday.
+
+**Key facts**
+- New date: Monday, Nov. 23; residents asked to leave roughly 8 a.m. to 2 p.m. local time
+- About 9,500 pounds of lead azide, set off in two quick controlled blasts
+- The EPA granted an emergency permit, citing an 'imminent and substantial threat' if left alone
+- Iowa Environmental Council and Sierra Club Iowa Chapter sued the EPA, saying safer options and proper notice were skipped
+
+**Worth knowing:** If you live in eastern Iowa or nearby Illinois, it's worth knowing the timing and the stay-indoors advice.
+
+**Read it yourself:**
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss): US army warns detonation of unstable explosives will create toxic plume
+- [NPR](https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army): Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa
+- [The Hill](https://thehill.com/policy/energy-environment/6233476-iowa-ammunition-plant-lead-suit/): Environmental groups sue to block Army’s lead detonation at Iowa ammunition plant
+
+
+## 2. Water main break closes three Fort Mill schools for the day
+`Charlotte` · Covered by 3 outlets
+
+A water main break caused by faulty equipment left about 6,000 York County customers north of Springfield Parkway with little or no water on Friday. Fort Mill School District closed three schools, and some businesses, including a popular Eggs Up Grill, had to shut their doors. Officials expected repairs around 1 p.m.
+
+**Key facts**
+- Springfield Elementary, Springfield Middle and Nation Ford High were closed
+- About 6,000 customers affected
+- Officials say no boil water advisory will be needed once service returns
+
+**Worth knowing:** A hassle for sure, but a short-lived one, and the water will be safe to drink once it's back.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/water-outage-shuts-down-3-fort-mill-schools/54F6OGRIUFCGTNOH7GBVAWKO3A/): Water main break leaves thousands of Fort Mill residents without service
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/education/three-fort-mill-schools-closed-due-to-water-outage/275-de33a547-0018-4061-9374-cf0e8c6e40eb): 3 Fort Mill schools closed Friday after water outage
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/york-county/three-fort-mill-schools-closed-due-to-water-outage/): Three Fort Mill schools closed due to water outage
+
+
+## 3. Jamaica's hurricane relief audit sparks a political back-and-forth
 `Jamaica` · Covered by 2 outlets
 
-Nearly 150 people aboard a Princess cruise ship on a 12-night Caribbean trip came down with vomiting and diarrhea from an illness that hasn't been identified yet. The cruise line is cleaning more, isolating sick passengers and collecting samples for testing.
+An Auditor General's report found Jamaica's disaster agency, ODPEM, used J$33 million in donations meant for roof repairs after Hurricane Melissa to pay clearance fees on third-party goods without documented authority. Prime Minister Andrew Holness called the findings concerning and said the decision was made by agency management, not his office. Opposition Leader Mark Golding says Holness is responsible, since ODPEM was moved into the Prime Minister's office in November 2025.
 
 **Key facts**
-- 148 people affected, according to the CDC
-- Symptoms were reported on day five of the trip
-- It's the 10th cruise outbreak reported this year
-- The CDC counts it as an outbreak when 3% or more of passengers get sick
+- The audit report, by Auditor General Pamela Monroe Ellis, runs 60 pages
+- ODPEM has committed to repaying the J$33 million
+- The PNP says J$4.8 billion in donated goods can't be accounted for in the records provided
+- The PNP plans a demonstration next week
+
+**Worth knowing:** It's a check on whether donations from Jamaicans at home and abroad reached the families they were meant for, and parliament's committees will review it.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261120/pm-it-wasnt-me-holness-distances-executive-odpem-funds-misuse): PM: It wasn’t me - Holness distances executive from ODPEM funds misuse
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/officeyour-responsibility-golding-tells-holness-odpem-failures/): ‘Your office…your responsibility’: Golding tells Holness to own ODPEM failures
+
+
+## 4. Senate passes bipartisan bill to speed up energy projects
+`US Headlines` · Covered by 3 outlets
+
+The Senate voted 62-33 to pass a bill that would shorten approval timelines for power plants, data centers and other infrastructure. Supporters, including Majority Leader John Thune and Democratic co-author Sheldon Whitehouse, say it could lower energy bills. Major environmental groups and several Democrats oppose it, citing worries about clean air and water protections and tribal rights. It now heads to the House.
+
+**Key facts**
+- Official name: the Bipartisan American Affordability and Jobs Act
+- Fourteen Democrats and one Independent joined most Republicans in voting yes; Republicans Mike Rounds and Josh Hawley voted no
+- Electricity prices rose more than 6% in the past year and 39% over five years
+- President Trump has urged Congress to pass it
+
+**Worth knowing:** If it becomes law, it could shape how fast new power gets built and what households pay for electricity.
+
+**Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill): Senate passes Trump-backed permitting bill
+- [NPR](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill): Senate passes bipartisan energy bill amid environmental concerns
+- [The Hill](https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/): Senate approves key permitting reform bill, sends to House
+
+
+## 5. Sandals South Coast is back, and fancier, after Hurricane Melissa
+`Jamaica` · Covered by 2 outlets
+
+Sandals South Coast in Westmoreland, Jamaica, officially reopened Thursday after a 10-month rebuild following a direct hit from Hurricane Melissa. Instead of a quick patch-up, the company did a full makeover with new restaurants, pools and redesigned spaces. Leaders from both main political parties came to the ribbon-cutting, and Opposition Leader Mark Golding called it a 'Herculean feat.'
+
+**Key facts**
+- The 380-room resort welcomed 448 first guests on Wednesday
+- Reports put the total three-resort investment at US$200 million to US$250 million
+- Sandals Montego Bay and Sandals Caribbean Cay (formerly Royal Caribbean) reopen Dec. 18
+- Staff stayed on payroll with full benefits and half their gratuities during the closure
+
+**Worth knowing:** A real 'build back better' moment, and good news for the workers and communities that depend on tourism.
+
+**Read it yourself:**
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261120/sandals-delivers-major-south-coast-makeover): Sandals delivers major South Coast makeover
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/sandals-south-coast-reopens-us250-million-sandals-2-0-upgrade/): Sandals South Coast reopens under US$250-million ‘Sandals 2.0’ upgrade
+
+
+## 6. Second judge pauses Trump's planned arch near Arlington
+`US Headlines` · Covered by 2 outlets
+
+Federal Judge Leonie Brinkema said she'll issue a preliminary injunction blocking construction of the planned 250-foot arch at Memorial Circle while Arlington County's lawsuit proceeds. The county argues the review process was rushed and that the arch would affect traffic, emergency services, cemetery funerals and historic sightlines. The Justice Department says it will appeal right away.
+
+**Key facts**
+- This is the second federal judge to block the project
+- Arlington County sued in October, represented by Democracy Forward
+- The National Park Service defends its review, which concluded earlier this month
+
+**Worth knowing:** It's a live example of how local governments and courts weigh in on big federal building projects.
+
+**Read it yourself:**
+- [Axios](https://www.axios.com/2026/11/20/trump-arch-blocked-again): Second judge blocks Trump's contested D.C. arch
+- [NPR](https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington): A second judge blocks Trump's arch, saying it's unlikely to succeed in court
+
+
+## 7. GTA VI's soundtrack drops, with Sexyy Red dancing in Vice City
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+A day after Grand Theft Auto VI finally launched, Rockstar released a 34-track companion album packed with stars like Dua Lipa, Lana Del Rey, Bad Bunny-hosted radio, Travis Scott and Morgan Wallen. Players are also loving surprise cameos, including Sexyy Red busting moves on a nightclub dance floor, which caught streamer iShowSpeed totally off guard.
+
+**Key facts**
+- The game came out Nov. 19, 13 years after the last installment
+- No video game soundtrack has ever hit No. 1 on the Billboard 200
+- A GTA VI music festival is set for Nov. 21 at Miami's Mana Wynwood
+- Sexyy Red reposted the viral clip with: 'We was just chillin mane'
 
 **Good to know**
-- The cause of the illness is still unknown and testing is underway
-- The cruise industry group says stomach illness is rarer at sea than on land, but that group is funded by the industry
+- The No. 1 debut is a possibility Billboard is watching for, not a done deal yet
+- The cameos and the album lineup are confirmed by the reporting
 
-**Worth knowing:** If you're cruising soon, frequent handwashing and finding the ship's clinic before you need it are easy ways to stay well.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/19/unknown-illness-causes-nearly-150-aboard-cruise-ship-get-sick-with-vomiting-diarrhea/): ‘Unknown’ illness causes nearly 150 aboard cruise ship to get sick with vomiting, diarrhea
-- [The Hill](https://thehill.com/policy/healthcare/6229145-florida-caribbean-princess-cruise-ship-gastrointestinal-illness-outbreak/): 148 aboard Florida-bound cruise ship sickened by ‘unknown’ GI outbreak: CDC
-
-
-## 2. Goodbye, Fiona: the Cincinnati Zoo's famous hippo has died
-`Cute Animals` · Covered by 3 outlets
-
-Fiona, the hippo who was born premature in 2017 and became a global social media star, died Thursday from complications after swallowing a knit hat. A ceiling fan accidentally flung the hat into her enclosure. Her care team spent more than a week trying to help her, even borrowing a vibration plate from a horse farm and offering her a sniff of coffee, a scent she always liked.
-
-**Key facts**
-- Fiona weighed just 29 lbs (13 kg) at birth, about half the lowest previously recorded for her species
-- She reached 1,000 lbs in 2018
-- The zoo said the hat getting into her enclosure was an accident
-- Specialists said surgery wasn't an option for a full-grown hippo
-
-**Worth knowing:** Fiona's comeback story charmed millions, and her keepers cared for her devotedly right to the end.
+**Worth knowing:** A rare everybody-is-talking-about-it pop culture moment, with a playlist to match.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/fiona-hippo-has-died-days-after-ingesting-visitors-hat/MD4GO5LCBZCOXKBEGV6M26HDU4/): Fiona the hippo has died, days after ingesting a visitor’s hat
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss): From premature baby to social media star - Famed hippo Fiona dies
-- [The Hill](https://thehill.com/homenews/state-watch/6231637-fiona-the-hippo-dies-days-after-ingesting-hat-cincinnati-zoo-announces/): Fiona the Hippo dies days after ingesting hat, Cincinnati Zoo announces
+- [Billboard](https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/): Every Track From ‘Grand Theft Auto VI: The Album’ Ranked
+- [XXL](https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/): Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI
 
 
-## 3. Charlotte billboard ordered removed after protected dogwoods were cut down
-`Charlotte` · Covered by 2 outlets
+## 8. Ice Spice meets her wax twin in Times Square
+`Hip Hop & Celebrity` · Covered by 2 outlets
 
-North Carolina's Department of Transportation has ordered Adams Outdoor Advertising to take down a Plaza Midwood billboard. Inspectors found the company illegally cut protected dogwood trees while clearing land around the sign. State law now allows clearing within 500 feet of billboards, but dogwoods are an exception. Locals, the group Sustain Charlotte and State Sen. Caleb Theodros pushed for the inspection.
-
-**Key facts**
-- Adams has 60 days to remove the billboard but can appeal
-- 40 other permits in Mecklenburg County allow similar clearing
-- The billboard is near Independence Boulevard and Commonwealth Avenue
-- Adams said it hadn't been notified yet and would fix any damage if the work was done wrong
-
-**Worth knowing:** It shows how neighbors speaking up can make a difference, and local business owners are now hoping for replanting.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/ncdot-orders-plaza-midwood-billboard-be-removed-this-is-why/TJQ2FO6VIFALNG75UBS3YTAR54/): NCDOT orders Plaza Midwood billboard to be removed after protected dogwoods illegally cut
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/charlotte-billboard-removal-ordered-after-dogwood-tree-destruction/275-df6058f2-0bc2-44bc-836f-182cbc14ebe5): Charlotte billboard removal ordered after company's destruction of dogwood trees
-
-
-## 4. Charlotte airport is back to normal and gearing up for 2 million Thanksgiving travelers
-`Charlotte` `US Headlines` · Covered by 2 outlets
-
-After last week's nationwide ground stop caused about 30% of flights to be canceled for two days, Charlotte Douglas says operations are back to normal. Officials expect nearly 2 million travelers over the 13-day holiday period and don't expect more widespread disruptions.
+Madame Tussauds New York unveiled a life-size Ice Spice figure on Nov. 19, and she was there to see it. The figure captures her breakout 'Munch' era look with short orange curls and an animal-print bodysuit, while she showed up with long platinum hair. She said it felt like 'stepping into a time machine.'
 
 **Key facts**
-- The travel period runs Nov. 19 through Dec. 1
-- More than 9,300 departing flights are scheduled, up 2.6% from last year
-- The busiest days are expected to be Nov. 28-30
-- Most parking must be booked in advance
-
-**Worth knowing:** If you're flying through CLT, arrive early, book parking ahead and check wait times on the airport's app.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/19/charlotte-airport-expects-2m-thanksgiving-travelers-wake-us-ground-stop/): Charlotte airport expects 2M Thanksgiving travelers in wake of US ground stop
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/travel/charlotte-douglas-international-airport-thanksgiving-holiday-travel-forecast/275-c35095e2-4ffe-4370-bf90-c2e7943fa894): Charlotte airport expects nearly 2 million passengers for Thanksgiving
-
-
-## 5. White House replaces its national cyber director
-`Jamaica` `US Headlines` · Covered by 1 outlet
-
-National Cyber Director Sean Cairncross was fired, a source close to the White House told AFP. The move follows major outages that disrupted travel, communications and online shopping, along with growing concerns about AI threats. Defense Department CIO Kirsten Davies will fill the role in an acting capacity.
-
-**Key facts**
-- According to the source, President Trump backed the firing over Cairncross's credentials
-- Davies is already Senate-confirmed
-- Secretary of State Marco Rubio publicly congratulated Davies
-
-**Worth knowing:** This office helps protect the systems behind everyday things like travel and online shopping.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/19/white-house-fires-cybersecurity-chief-widespread-outages/): White House fires cybersecurity chief after widespread outages
-
-
-## 6. Guyana reaches a big milestone for moms and babies
-`Jamaica` · Covered by 1 outlet
-
-The World Health Organization has confirmed that Guyana has eliminated mother-to-child transmission of HIV and syphilis as public health problems. That puts the country in a select group in Latin America and the Caribbean. The health ministry credited years of investment in screening, treatment, lab services and healthcare workers.
-
-**Key facts**
-- The validation covers the period 2022-2025
-- WHO's advisory committee reviewed Guyana's case on November 5
-- Guyana will be reviewed again in 2030
+- 'Munch (Feelin' U)' took off in 2022
+- She earned four Grammy nominations by 2024, including Best New Artist
+- She admitted she was 'a little intimidated' at first, then laughed and posed with it
 
 **Good to know**
-- This means transmission is down to elimination levels, not that either infection has been completely eradicated
+- Confirmed: the figure is on display now at Madame Tussauds New York
 
-**Worth knowing:** In the health minister's words, it means infections prevented and children given a healthier start in life.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/19/guyana-validated-eliminating-mother-child-hiv-syphilis-transmission/): Guyana validated for eliminating mother-to-child HIV, syphilis transmission
-
-
-## 7. Vinicius Jr. hopes his Brazil scoring spree carries over to Real Madrid
-`Jamaica` · Covered by 1 outlet
-
-Real Madrid winger Vinicius Junior is back from a four-match ban and could play Saturday against Celta Vigo. He has struggled at club level this season, with just one Madrid goal, but he scored five times in two friendlies for Brazil. He admitted he trained less after Brazil's early World Cup exit.
-
-**Key facts**
-- Madrid trail La Liga leaders Barcelona by three points
-- Vinicius's contract runs until 2032
-- New signing Yan Diomande has four goals in his last eight games
-
-**Worth knowing:** It's a refreshingly candid comeback story: "I'm human, I make mistakes often, but I always try to improve."
+**Worth knowing:** A sweet look back at how fast a Bronx rapper went from a viral hook to a museum.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/19/vinicius-ready-real-madrid-battle-brazil-revival/): Vinicius ready for Real Madrid battle after Brazil revival
-
-
-## 8. FDA approves a new four-times-a-year treatment for myasthenia gravis
-`Health & Medicine` · Covered by 2 outlets
-
-The FDA approved Regeneron's Livsayis (cemdisiran) for adults with the most common form of generalized myasthenia gravis, a neuromuscular disease. It's the second new treatment for the condition approved this week, after AstraZeneca's Klygefa.
-
-**Key facts**
-- It's given as an injection just four times a year
-- It's the first siRNA therapy for the condition and was developed with Alnylam
-- In its late-stage trial, patients improved by 2.3 points on a daily-living scale compared with placebo
-- It's Regeneron's first neurology approval
-
-**Good to know**
-- The drug is fully FDA approved for adults who are anti-AChR antibody-positive
-- A healthcare provider has to give the shots, which analysts say limits convenience
-
-**Worth knowing:** Patients now have more options, including some that require fewer treatments.
-
-**Read it yourself:**
-- [Fierce Pharma](https://www.fiercepharma.com/pharma/regeneron-breaks-through-neurology-barrier-fda-nod-crowded-myasthenia-gravis): Regeneron breaks into neurology with FDA nod in crowded myasthenia gravis
-- [BioPharma Dive](https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/): With FDA nod, Regeneron brings an RNAi drug to autoimmune disease
+- [AllHipHop](https://allhiphop.com/news/ice-spice-madame-tussauds-new-york-wax-figure-orange-curls/): Ice Spice Meets Her Breakout-Era Double At Madame Tussauds New York
+- [XXL](https://www.xxlmag.com/ice-spice-wax-figure/): Ice Spice Gets Her Own Wax Figure at Madame Tussauds
 
 
 ---
