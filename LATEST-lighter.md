@@ -1,162 +1,160 @@
-# The Lighter Brief: Midday edition
-_Friday, November 20, 2026 · 2:17 PM EST · 276 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Friday, November 20, 2026 · 10:31 PM EST · 276 articles from 22 outlets · summaries by Claude_
 
-> Busy Friday! The big fun headline is Grand Theft Auto VI's star-studded soundtrack dropping a day after the game, and Ice Spice met her own wax twin in Times Square. On the civic side, the Senate passed a major energy permitting bill, a second judge paused the planned arch near Arlington, and Iowa residents near an Army plant have a heads-up about a scheduled controlled detonation on Monday.
+> A pretty easygoing edition. Grand Theft Auto VI finally landed with a who's who of musicians inside, Ice Spice met her wax twin in Times Square, and Charlotte opened its first new wastewater plant in nearly 50 years. There's also some community kindness around Thanksgiving food, a big award win for a Jamaican building, and a couple of health stories worth knowing about.
 
 
 
 ---
 
-## 1. Army pushes Iowa explosives disposal to Monday, asks locals to step away
-`US Headlines` · Covered by 3 outlets
+## 1. GTA VI is out, and half the music world is in it
+`Hip Hop & Celebrity` · Covered by 3 outlets
 
-The US Army plans to safely detonate about five tonnes of aging, unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa. The material had been stored in a water-ethanol bath for over 20 years, but some water evaporated, making it too unstable to move. The Army says the blast will send up dust containing lead, so residents are asked to leave or stay indoors during the operation. After pushback from Iowa lawmakers and a lawsuit from two environmental groups, the date moved from Friday to Monday.
-
-**Key facts**
-- New date: Monday, Nov. 23; residents asked to leave roughly 8 a.m. to 2 p.m. local time
-- About 9,500 pounds of lead azide, set off in two quick controlled blasts
-- The EPA granted an emergency permit, citing an 'imminent and substantial threat' if left alone
-- Iowa Environmental Council and Sierra Club Iowa Chapter sued the EPA, saying safer options and proper notice were skipped
-
-**Worth knowing:** If you live in eastern Iowa or nearby Illinois, it's worth knowing the timing and the stay-indoors advice.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss): US army warns detonation of unstable explosives will create toxic plume
-- [NPR](https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army): Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa
-- [The Hill](https://thehill.com/policy/energy-environment/6233476-iowa-ammunition-plant-lead-suit/): Environmental groups sue to block Army’s lead detonation at Iowa ammunition plant
-
-
-## 2. Water main break closes three Fort Mill schools for the day
-`Charlotte` · Covered by 3 outlets
-
-A water main break caused by faulty equipment left about 6,000 York County customers north of Springfield Parkway with little or no water on Friday. Fort Mill School District closed three schools, and some businesses, including a popular Eggs Up Grill, had to shut their doors. Officials expected repairs around 1 p.m.
+After 13 years, Grand Theft Auto VI was released at midnight on Nov. 19, and Billboard reports it has already pulled in almost $4 billion in sales. Its radio stations are hosted by stars like Bad Bunny, Gloria Estefan, Lana Del Rey and Charlamagne tha God, and some artists appear in the game itself. One viral moment: streamer iShowSpeed ran into Sexyy Red dancing in an in-game nightclub. Not everyone is a fan, though. Rep. Tim Burchett (R-Tenn.) told TMZ that parents who let kids play it are making a bad call.
 
 **Key facts**
-- Springfield Elementary, Springfield Middle and Nation Ford High were closed
-- About 6,000 customers affected
-- Officials say no boil water advisory will be needed once service returns
-
-**Worth knowing:** A hassle for sure, but a short-lived one, and the water will be safe to drink once it's back.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/water-outage-shuts-down-3-fort-mill-schools/54F6OGRIUFCGTNOH7GBVAWKO3A/): Water main break leaves thousands of Fort Mill residents without service
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/education/three-fort-mill-schools-closed-due-to-water-outage/275-de33a547-0018-4061-9374-cf0e8c6e40eb): 3 Fort Mill schools closed Friday after water outage
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/york-county/three-fort-mill-schools-closed-due-to-water-outage/): Three Fort Mill schools closed due to water outage
-
-
-## 3. Jamaica's hurricane relief audit sparks a political back-and-forth
-`Jamaica` · Covered by 2 outlets
-
-An Auditor General's report found Jamaica's disaster agency, ODPEM, used J$33 million in donations meant for roof repairs after Hurricane Melissa to pay clearance fees on third-party goods without documented authority. Prime Minister Andrew Holness called the findings concerning and said the decision was made by agency management, not his office. Opposition Leader Mark Golding says Holness is responsible, since ODPEM was moved into the Prime Minister's office in November 2025.
-
-**Key facts**
-- The audit report, by Auditor General Pamela Monroe Ellis, runs 60 pages
-- ODPEM has committed to repaying the J$33 million
-- The PNP says J$4.8 billion in donated goods can't be accounted for in the records provided
-- The PNP plans a demonstration next week
-
-**Worth knowing:** It's a check on whether donations from Jamaicans at home and abroad reached the families they were meant for, and parliament's committees will review it.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261120/pm-it-wasnt-me-holness-distances-executive-odpem-funds-misuse): PM: It wasn’t me - Holness distances executive from ODPEM funds misuse
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/officeyour-responsibility-golding-tells-holness-odpem-failures/): ‘Your office…your responsibility’: Golding tells Holness to own ODPEM failures
-
-
-## 4. Senate passes bipartisan bill to speed up energy projects
-`US Headlines` · Covered by 3 outlets
-
-The Senate voted 62-33 to pass a bill that would shorten approval timelines for power plants, data centers and other infrastructure. Supporters, including Majority Leader John Thune and Democratic co-author Sheldon Whitehouse, say it could lower energy bills. Major environmental groups and several Democrats oppose it, citing worries about clean air and water protections and tribal rights. It now heads to the House.
-
-**Key facts**
-- Official name: the Bipartisan American Affordability and Jobs Act
-- Fourteen Democrats and one Independent joined most Republicans in voting yes; Republicans Mike Rounds and Josh Hawley voted no
-- Electricity prices rose more than 6% in the past year and 39% over five years
-- President Trump has urged Congress to pass it
-
-**Worth knowing:** If it becomes law, it could shape how fast new power gets built and what households pay for electricity.
-
-**Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill): Senate passes Trump-backed permitting bill
-- [NPR](https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill): Senate passes bipartisan energy bill amid environmental concerns
-- [The Hill](https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/): Senate approves key permitting reform bill, sends to House
-
-
-## 5. Sandals South Coast is back, and fancier, after Hurricane Melissa
-`Jamaica` · Covered by 2 outlets
-
-Sandals South Coast in Westmoreland, Jamaica, officially reopened Thursday after a 10-month rebuild following a direct hit from Hurricane Melissa. Instead of a quick patch-up, the company did a full makeover with new restaurants, pools and redesigned spaces. Leaders from both main political parties came to the ribbon-cutting, and Opposition Leader Mark Golding called it a 'Herculean feat.'
-
-**Key facts**
-- The 380-room resort welcomed 448 first guests on Wednesday
-- Reports put the total three-resort investment at US$200 million to US$250 million
-- Sandals Montego Bay and Sandals Caribbean Cay (formerly Royal Caribbean) reopen Dec. 18
-- Staff stayed on payroll with full benefits and half their gratuities during the closure
-
-**Worth knowing:** A real 'build back better' moment, and good news for the workers and communities that depend on tourism.
-
-**Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261120/sandals-delivers-major-south-coast-makeover): Sandals delivers major South Coast makeover
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/sandals-south-coast-reopens-us250-million-sandals-2-0-upgrade/): Sandals South Coast reopens under US$250-million ‘Sandals 2.0’ upgrade
-
-
-## 6. Second judge pauses Trump's planned arch near Arlington
-`US Headlines` · Covered by 2 outlets
-
-Federal Judge Leonie Brinkema said she'll issue a preliminary injunction blocking construction of the planned 250-foot arch at Memorial Circle while Arlington County's lawsuit proceeds. The county argues the review process was rushed and that the arch would affect traffic, emergency services, cemetery funerals and historic sightlines. The Justice Department says it will appeal right away.
-
-**Key facts**
-- This is the second federal judge to block the project
-- Arlington County sued in October, represented by Democracy Forward
-- The National Park Service defends its review, which concluded earlier this month
-
-**Worth knowing:** It's a live example of how local governments and courts weigh in on big federal building projects.
-
-**Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/20/trump-arch-blocked-again): Second judge blocks Trump's contested D.C. arch
-- [NPR](https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington): A second judge blocks Trump's arch, saying it's unlikely to succeed in court
-
-
-## 7. GTA VI's soundtrack drops, with Sexyy Red dancing in Vice City
-`Hip Hop & Celebrity` · Covered by 2 outlets
-
-A day after Grand Theft Auto VI finally launched, Rockstar released a 34-track companion album packed with stars like Dua Lipa, Lana Del Rey, Bad Bunny-hosted radio, Travis Scott and Morgan Wallen. Players are also loving surprise cameos, including Sexyy Red busting moves on a nightclub dance floor, which caught streamer iShowSpeed totally off guard.
-
-**Key facts**
-- The game came out Nov. 19, 13 years after the last installment
-- No video game soundtrack has ever hit No. 1 on the Billboard 200
-- A GTA VI music festival is set for Nov. 21 at Miami's Mana Wynwood
-- Sexyy Red reposted the viral clip with: 'We was just chillin mane'
+- Released Nov. 19, 13 years after the previous main installment
+- Almost $4 billion in sales so far, per Billboard
+- Radio hosts include Bad Bunny, Anitta, Burna Boy, TLC's Chilli and Gucci Mane
+- Sexyy Red reposted the viral clip, joking: "We was just chillin mane."
 
 **Good to know**
-- The No. 1 debut is a possibility Billboard is watching for, not a done deal yet
-- The cameos and the album lineup are confirmed by the reporting
+- The sales figure comes from Billboard's report; the articles don't cite an official breakdown from Rockstar.
+- Rep. Burchett's criticism is his opinion, given to TMZ.
 
-**Worth knowing:** A rare everybody-is-talking-about-it pop culture moment, with a playlist to match.
+**Worth knowing:** It's one of the biggest entertainment launches in years, and a fun showcase of music from Afrobeats to classical.
 
 **Read it yourself:**
-- [Billboard](https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/): Every Track From ‘Grand Theft Auto VI: The Album’ Ranked
+- [Billboard](https://www.billboard.com/lists/gta-vi-music-celebrity-cameos-bad-bunny-anitta/): From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’
 - [XXL](https://www.xxlmag.com/sexyy-red-grand-theft-auto-vi/): Sexyy Red Brings Her Dance Moves to Grand Theft Auto VI
+- [The Hill](https://thehill.com/homenews/house/6232789-gop-rep-warns-parents-gta-6/): Burchett says you’re a ‘bad parent’ if you let your child play ‘Grand Theft Auto VI’
 
 
-## 8. Ice Spice meets her wax twin in Times Square
-`Hip Hop & Celebrity` · Covered by 2 outlets
+## 2. Colts release Charlotte native QB Daniel Jones
+`Charlotte` · Covered by 2 outlets
 
-Madame Tussauds New York unveiled a life-size Ice Spice figure on Nov. 19, and she was there to see it. The figure captures her breakout 'Munch' era look with short orange curls and an animal-print bodysuit, while she showed up with long platinum hair. She said it felt like 'stepping into a time machine.'
+The Indianapolis Colts released quarterback Daniel Jones on Nov. 20, a day after a 26-3 loss to the Houston Texans. Jones, who played at Charlotte Latin and Duke, has had a rough season, leading the NFL in interceptions. He'll go on waivers, and teams like the Patriots or Ravens could look at signing him afterward.
 
 **Key facts**
-- 'Munch (Feelin' U)' took off in 2022
-- She earned four Grammy nominations by 2024, including Best New Artist
-- She admitted she was 'a little intimidated' at first, then laughed and posed with it
+- Jones went 3-8 as a starter this season with 7 touchdowns and 13 interceptions
+- He signed a two-year, $88 million extension with $60 million guaranteed, which the Colts still owe
+- Anthony Richardson is expected to take over as the Colts' starter
+- The Colts' next game is Nov. 29
 
 **Good to know**
-- Confirmed: the figure is on display now at Madame Tussauds New York
+- ESPN's Jeremy Fowler reported that some people in the Colts building believed Jones wanted out and might have asked for his release soon. Coach Shane Steichen said Jones never requested to be released.
 
-**Worth knowing:** A sweet look back at how fast a Bronx rapper went from a viral hook to a museum.
+**Worth knowing:** It's a big local sports story for Charlotte, and Jones may get a fresh start somewhere else.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/ice-spice-madame-tussauds-new-york-wax-figure-orange-curls/): Ice Spice Meets Her Breakout-Era Double At Madame Tussauds New York
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/20/nfl-quarterback-charlotte-cut-amid-dreadful-season/): NFL quarterback from Charlotte cut amid dreadful season
+- [Newsweek](https://www.newsweek.com/sports/nfl/nfl-insider-says-daniel-jones-almost-requested-his-release-12750859): NFL Insider Says Daniel Jones Almost Requested His Release
+
+
+## 3. Charlotte food share helps families gear up for Thanksgiving
+`Charlotte` `US Headlines` · Covered by 2 outlets
+
+Nourish Up handed out bags of turkey and fixings at a pop-up food share in Charlotte, and more people signed up than ever before. Families said high grocery, gas and rent costs have made this year tough, and the help means a real holiday meal. The organization is welcoming donations, and a few spots may still open up next week.
+
+**Key facts**
+- Nourish Up has served 3,700 people so far, about 100 more than this time last year
+- It runs 40 food bank locations in Mecklenburg County
+- Most-needed donations: canned fruit, canned pasta, cooking oil and butter
+- Donations are accepted at its north Charlotte warehouse
+
+**Worth knowing:** If you'd like to help a neighbor this Thanksgiving, or need a little help yourself, this is a concrete way to do it.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/nourish-up-food-share-helps-charlotte-families-facing-high-food-costs/KKRDZVCATZDILL7RS2L3YHMX5M/): Nourish Up food share helps Charlotte families facing high food costs
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/21/charlotte-food-pantries-seeking-donations-help-people-stay-fed-this-thanksgiving/): Charlotte food pantries seeking donations to help people stay fed this Thanksgiving
+
+
+## 4. Montego Bay's The Pinnacle makes Jamaican history with four design awards
+`Jamaica` · Covered by 1 outlet
+
+The Pinnacle in Montego Bay is the first Jamaican project to win at the Americas Property Awards, and it took home four of them. The awards were presented at a ceremony at The Ritz-Carlton, South Beach in Miami, and the news was also announced at Design Week JA 2026.
+
+**Key facts**
+- Wins: Hotel Architecture, Mixed Use Architecture, Mixed Use Development, and Residential High-Rise Architecture
+- Developed by LCH Developments with Accor Ennismore
+- Submitted by DesignHQ
+
+**Worth knowing:** It's a proud first for Jamaican architecture on an international stage.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/pinnacle-cops-multiple-awards-americas-property-awards/): The Pinnacle cops multiple awards at Americas Property Awards
+
+
+## 5. Health officials flag rising antibiotic resistance in the Americas
+`Jamaica` · Covered by 1 outlet
+
+The Pan American Health Organization says resistance to carbapenems, a group of 'last line' antibiotics used when other treatments fail, has risen steadily over the past decade across the Americas, including the Caribbean. That makes some serious hospital infections harder to treat, and it can also make common ones like urinary tract infections harder to treat. PAHO is calling for better surveillance, infection prevention, access to new antibiotics, and careful use of the ones we have.
+
+**Key facts**
+- Carbapenem resistance in Klebsiella pneumoniae rose from about 15% in 2015 to 26% in 2024
+- In E. coli, it rose from 3% to 5%
+- Median resistance in Acinetobacter baumannii hit 77% in 2024 across the seven countries reporting
+- The data were released for World AMR Awareness Week, Nov. 18–24
+
+**Good to know**
+- These are regional surveillance figures, based on data from a limited number of countries (13 to 15 for the main bacteria, seven for Acinetobacter). PAHO itself says surveillance needs to expand.
+
+**Worth knowing:** Using antibiotics only when they're needed, and as prescribed, helps keep them working for everyone.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/paho-warns-increasing-resistance-antibiotics-used-treat-serious-infections-americas-20261121-0253-507228/): PAHO warns of increasing resistance to antibiotics used to treat serious infections in the Americas
+
+
+## 6. South American football backs Infantino for another FIFA term
+`Jamaica` · Covered by 1 outlet
+
+CONMEBOL, the 10-country South American football body, says it 'unanimously' supports Gianni Infantino's re-election as FIFA president. He also has support from Africa and Asia, but for the first time he faces challengers: France's Philippe Diallo and Japan's Kozo Tashima. Infantino has drawn criticism over a dropped plan to allow private investment in the World Cup.
+
+**Key facts**
+- The vote is March 18 in Rabat
+- 211 member federations vote, and a winner needs at least 106
+- UEFA president Aleksander Ceferin backs Diallo
+- Tashima is campaigning on transparency and integrity
+
+**Worth knowing:** It's the first genuinely contested FIFA presidential race in years, and it will shape how world football is run.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/20/infantino-re-election-backed-south-american-football-bloc/): Infantino re-election backed by South American football bloc
+
+
+## 7. Ice Spice meets her wax twin in Times Square
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+Madame Tussauds New York unveiled an Ice Spice wax figure on Nov. 19, and the Bronx rapper was briefly left speechless at how accurate it was. The figure recreates her early-career look: copper curls, a red tiger-print catsuit donated from her own wardrobe, and Black Air Jordan 4s. She joked that they even nailed her forehead.
+
+**Key facts**
+- On display at Madame Tussauds' Times Square location into 2027
+- Includes a replica of a bracelet Doja Cat gave her
+- Ice Spice is 26; her only 2026 release so far is "Out My Face (My Baby)" with Lil Yachty
+
+**Worth knowing:** It's a fun, feel-good career milestone, and something to see if you're in NYC.
+
+**Read it yourself:**
+- [Billboard](https://www.billboard.com/music/rb-hip-hop/ice-spice-wax-figure-photos-video-reaction-1236386894/): Watch Ice Spice’s Speechless Reaction to Seeing Her Madame Tussauds Wax Figure for the First Time: ‘This Is So Accurate’
 - [XXL](https://www.xxlmag.com/ice-spice-wax-figure/): Ice Spice Gets Her Own Wax Figure at Madame Tussauds
 
 
+## 8. Trump holds a 90-minute press conference after his Asia trip
+`US Headlines` · Covered by 2 outlets
+
+President Trump held a wide-ranging White House news conference lasting almost 90 minutes on Friday. It followed his recent Asia trip, which included announced trade deals and a three-way meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. The articles provided don't give much detail on what was said.
+
+**Key facts**
+- The news conference ran almost 90 minutes
+- The Asia trip included trade deal announcements
+- It also included a trilateral meeting with Xi and Putin, which The Hill described as more controversial
+
+**Worth knowing:** The Asia trip's trade deals and diplomacy could shape U.S. relations with China and Russia going forward.
+
+**Read it yourself:**
+- [The Hill](https://thehill.com/homenews/administration/6234568-trump-friday-news-conference-vance-rubio/): 5 takeaways from Trump’s Friday news conference
+- [NPR](https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser): The latest from Trump's press conference
+
+
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_
+_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News, Fierce Pharma_

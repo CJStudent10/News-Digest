@@ -1,25 +1,26 @@
 {
   "investigation_seen": {
     "example-ai-regulation": [
-      "3f5fe12d28",
+      "91faed0650",
+      "fa0a8f5dd0",
+      "f091b135f8",
+      "22e93d9a23",
+      "8879475e62",
+      "1610dba1bf",
       "8dfce1d63a",
       "d46b516a4c",
-      "81e420a757",
       "3f3b84d94f",
-      "6a8bccaaa4",
-      "cce1362ac6",
-      "fa0a8f5dd0",
-      "8879475e62",
-      "22e93d9a23",
-      "f091b135f8",
-      "1610dba1bf",
-      "1e50bc6089",
+      "3f5fe12d28",
       "02742f8d0b",
-      "9caa9b54c5",
+      "6a8bccaaa4",
       "099d993466",
-      "91faed0650",
+      "cce1362ac6",
+      "1e50bc6089",
+      "9caa9b54c5",
       "e81148e904",
-      "9ab2af0f08"
+      "9ab2af0f08",
+      "81e420a757",
+      "cd39c7809c"
     ]
   }
 }

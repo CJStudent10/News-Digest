@@ -1,0 +1,721 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-21T03:30:27.915524+00:00",
+  "local_time": "Friday, November 20, 2026 · 10:30 PM EST",
+  "local_date": "Nov 20, 2026",
+  "slug": "2026-11-20-2230-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "Several stories in this edition come out of President Trump's wide-ranging White House press conference on Friday. He threatened a 'tremendous tax' on US firms building data centers abroad, urged Nvidia to take back ousted CEO Jensen Huang, and said Korean Peninsula 'dangers' came up at his summit with Xi Jinping and Vladimir Putin. Elsewhere, the UN's top court ruled for the first time that a state, Myanmar, committed genocide, and a Missouri judge approved Bayer's $7.25 billion Roundup cancer settlement. The edition also covers the death of Fiona the hippo and several local and regional items.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Trump says he will bar or heavily tax US companies that build data centers abroad",
+      "topics": [
+        "US Headlines",
+        "AI & Cybersecurity"
+      ],
+      "summary": "At a White House press conference on Friday, President Trump said US companies would not be allowed to build data centers in other countries, and that those who do would face a 'tremendous tax' or 'tremendous penalties.' He gave no details and said he had not yet told his own officials about the plan. He argued that 'China will take all of them' if data centers go overseas, and urged American communities to accept data centers while making developers 'pay your community.' Outlets noted that many major US tech firms already operate data centers abroad. They also noted that a Democratic-majority Congress is due to take office soon and that voters have recently backed local restrictions on data centers.",
+      "key_facts": [
+        "Trump said companies building data centers abroad 'can, but we're going to put a tremendous tax on them.'",
+        "Trump said: 'I haven't even said that to my people. But I'm telling them now.'",
+        "A CNBC survey found 64% of registered voters opposed an AI data center within 10 miles of their home; 13% supported one.",
+        "Alphabet, Amazon, Microsoft, Meta and Oracle already have data centers in other countries; Amazon, Google, Microsoft and Oracle did not immediately comment.",
+        "The remarks came a day after Trump's trilateral summit with Xi Jinping and Vladimir Putin in China."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, The Verge and PBS stressed the lack of detail and the contrast with growing public opposition, including midterm ballot measures and state moratoriums on data centers. The Guardian placed the announcement within a 'discursive' press conference that also covered Iran, JD Vance and Putin. It added context on US chip sales to China and Trump's investment in Nvidia. The Verge noted the plan could be hard to carry out with a Democratic Congress coming in."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC, Axios and The Hill focused on the policy itself and its practical hurdles. CNBC cited polling showing voter opposition and listed tech giants that already operate overseas. Axios tied the announcement to data centers becoming a midterm flashpoint. Like the left-leaning outlets, CNBC highlighted that Trump said his staff had not been told."
+        }
+      ],
+      "disputed": [
+        "No mechanism, legal basis, or size for the proposed tax or ban has been given.",
+        "Trump said both 'not allowing' overseas data centers and that companies 'can' build them abroad if they pay a tax, so it is unclear whether he means a ban or a penalty.",
+        "It is unclear whether Congress would support such a measure."
+      ],
+      "why": "A penalty on overseas data centers could reshape where major cloud companies invest, and bring more of these facilities to US communities that have been resisting them.",
+      "coverage": {
+        "left": 4,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 8,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+          "published": "2026-11-20T20:47:58+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+          "published": "2026-11-20T21:47:41+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump floats major tax on U.S. companies constructing data centers overseas",
+          "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+          "published": "2026-11-20T19:17:53+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+          "published": "2026-11-20T18:50:19+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump seeks curbs on US companies building data centers overseas",
+          "url": "https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/",
+          "published": "2026-11-20T18:16:33+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Trump on data centers: 'Take advantage, don't shut them off'",
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off",
+          "published": "2026-11-20T21:25:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Opinion: Fox News piece criticizes Justice Department's fair-use stance in AI copyright suit",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "A Fox News opinion article criticizes a Justice Department statement of interest backing OpenAI in lawsuits brought by The New York Times and other news organizations. The suits accuse OpenAI and Microsoft of using millions of articles to train AI without permission. The author argues the DOJ adopted an 'extreme' view of fair use that departs from more balanced White House and G20 guidance. The author also argues the stance could favor large AI firms over startups and raises constitutional property-rights concerns. The DOJ's stated reasoning, as described in the piece, is that licensing costs could hamper competition, US AI leadership and national security.",
+      "key_facts": [
+        "News organizations including The New York Times are suing OpenAI and Microsoft over AI training on their articles.",
+        "The tech firms argue the training qualifies as 'fair use.'",
+        "The DOJ filed a statement of interest supporting OpenAI's position.",
+        "G20 ministers adopted the 'Carolina Principles for Emerging Technologies,' which call AI and copyright 'complex legal and policy questions.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "right",
+          "framing": "Written as an opinion argument. It defends copyright holders and presents intellectual property as a property right. It frames the DOJ brief as a break from the administration's own more measured AI framework and argues that large AI companies can afford to pay for licenses."
+        }
+      ],
+      "disputed": [
+        "Whether AI training on copyrighted news articles counts as fair use is the central question still before the court.",
+        "The characterization of the DOJ position as 'extreme' is the author's opinion."
+      ],
+      "why": "The case could decide whether AI companies must pay creators for the material used to train their systems.",
+      "coverage": {
+        "left": 0,
+        "center": 0,
+        "right": 1
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
+          "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
+          "published": "2026-11-25T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Trump urges Nvidia to reinstate Jensen Huang as Congress prepares to question him",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "President Trump said Friday he would 'love to see Jensen be given a second chance,' calling the former Nvidia CEO 'a good man' who 'made some bad decisions' and urging him to 'make a big apology.' Huang resigned this month after reports of extramarital affairs, including one with a woman US intelligence suspects of spying for China, which Beijing denies. Nvidia's board has said it does not plan to reinstate him. Huang has agreed to a closed-door House interview on December 1 and to public testimony before the Senate banking committee on a date not yet set. Trump's remarks appeared to contradict Treasury Secretary Scott Bessent, who said Huang did not come up in talks with China.",
+      "key_facts": [
+        "Al Jazeera reports Huang resigned on November 12.",
+        "Nvidia board chair Harvey Jones said directors unanimously accepted Huang's resignation and do not plan to reinstate him.",
+        "Huang will give a closed-door transcribed interview to three House committees on December 1 and testify publicly before the Senate banking panel.",
+        "Sen. Tim Scott said he hopes to hear from Huang and Commerce Secretary Howard Lutnick 'before Christmas'; the new Congress convenes January 3.",
+        "Trump said he has 'not lost confidence' in Lutnick."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera and PBS led with Trump's call for Huang's return and the national security concerns around the alleged spy. Al Jazeera added detail on Sen. Tom Cotton's criticism of Lutnick, the Democratic probe into Lutnick and Cantor Fitzgerald, and Trump's apparent contradiction of Bessent."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and The Hill focused on process: the format and timing of Huang's congressional testimony and Bessent's statement that Huang was not discussed with China. TechCrunch focused on Nvidia's business performance and earnings amid the fallout."
+        }
+      ],
+      "disputed": [
+        "Trump said he discussed Huang with Xi; Bessent said Huang did not come up in talks with China.",
+        "The alleged espionage link has not been proven publicly, and Beijing denies it.",
+        "Outlets differ on how Huang left: Al Jazeera and PBS say he resigned, while another outlet describes him as fired or ousted.",
+        "The date of Huang's Senate testimony has not been announced."
+      ],
+      "why": "The case links the leadership of one of the most important AI chip companies to questions about chip smuggling to China and oversight by the Commerce Department.",
+      "coverage": {
+        "left": 2,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+          "published": "2026-11-20T14:55:44+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+          "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang",
+          "published": "2026-11-21T01:49:07+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+          "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+          "published": "2026-11-20T19:42:53+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance'",
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance",
+          "published": "2026-11-20T20:34:56+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bessent says Jensen Huang did not come up during China discussions",
+          "url": "https://thehill.com/policy/technology/6233257-bessent-denies-huang-apec-talks/",
+          "published": "2026-11-20T16:39:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Cincinnati Zoo says hat swallowed by Fiona the hippo could not be removed",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The Cincinnati Zoo said a necropsy showed that the hat Fiona the hippo swallowed was lodged in the middle of her small intestine, where it could not be reached. Vets said endoscopes could not reach it and that surgery was not feasible; they said open surgery would have been 'a death sentence.' Fiona, 9, died Thursday, nearly two weeks after a visitor's hat was accidentally flung into her enclosure by a ceiling fan. Fans left tributes at the zoo, landmarks were lit purple, and the US Senate unanimously adopted a resolution introduced by Sen. Bernie Moreno honoring her.",
+      "key_facts": [
+        "The hat was found about 25 feet past the start of her intestinal tract and 50 feet from its end.",
+        "Dr. Mike Wenninger: 'no amount of supportive care would have worked.'",
+        "Fiona was born premature in 2017, weighing 29 pounds.",
+        "The Senate adopted a resolution honoring Fiona on Friday.",
+        "The zoo's other hippos, Bibi, Tucker and Fritz, are reported to be behaving normally."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS, carrying AP reporting, emphasized public mourning and the emotional toll on keepers. It noted a similar hippo death at the zoo in 1923."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and The Hill reported the necropsy details, staff statements and the Senate resolution."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News and the Washington Examiner focused on the medical details showing the care team did everything possible, and on Sen. Moreno's resolution. The overall framing closely matched other outlets."
+        }
+      ],
+      "disputed": [],
+      "why": "Fiona was a widely followed animal, and her death raises questions about how zoos protect animals from objects visitors bring in.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 2
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
+          "url": "https://www.bbc.co.uk/news/articles/cwly43km54n6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-20T22:14:33+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo",
+          "url": "https://www.pbs.org/newshour/nation/fionas-caretakers-and-fans-mourn-the-beloved-hippo-after-her-death-at-cincinnati-zoo",
+          "published": "2026-11-20T23:39:39+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death",
+          "url": "https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death",
+          "published": "2026-11-20T23:54:13+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Senate adopts resolution honoring Fiona the hippo",
+          "url": "https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/",
+          "published": "2026-11-20T20:08:14+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Senate unanimously passes Moreno resolution in honor of Fiona the hippo",
+          "url": "https://www.washingtonexaminer.com/news/senate/4810819/senate-passes-bernie-moreno-resolution-honoring-fiona-the-hippo/",
+          "published": "2026-11-21T00:28:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "UN top court rules Myanmar committed genocide against Rohingya; enforcement uncertain",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "The International Court of Justice ruled 9-6 that Myanmar committed genocide against the Rohingya during its 2016-2017 military campaign, in a case brought by The Gambia. It is the first time the court has found a state responsible for genocide. The court ordered Myanmar to prevent further abuses, prosecute those responsible, allow refugees to return and pay reparations, and to report within two years on the measures it has taken. Myanmar's government called the ruling unfair, pointing to the split vote. Reactions abroad ranged from EU and UK praise to US caution and Chinese concern about 'jurisdiction overreach.' The ICJ cannot enforce its rulings, and analysts expect China and Russia to block any UN Security Council action.",
+      "key_facts": [
+        "The 15-judge panel voted 9-6.",
+        "The Gambia filed the case seven years ago.",
+        "Roughly 700,000 Rohingya fled to Bangladesh in 2017.",
+        "The UN Security Council has scheduled closed consultations next Wednesday and a private meeting on December 7 at the UK's request; the UK expelled Myanmar's defense attache.",
+        "The ruling is final and cannot be appealed, but the court can only report noncompliance to the Security Council."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on the divided international reaction and noted the ruling could set a precedent for a case against Israel. PBS, carrying AP reporting, emphasized rights groups' calls for sanctions and the likelihood that Security Council action will be blocked."
+        },
+        {
+          "lean": "center",
+          "framing": "DW centered Rohingya survivors' voices and the court's rejection of Myanmar's counterinsurgency defense. CNA took an explanatory approach, covering what the court ordered, the two-year deadline and the questions over enforcement."
+        }
+      ],
+      "disputed": [
+        "Death toll figures differ: DW cites a UN fact-finding estimate of about 10,000 deaths, while AP via PBS says the court found evidence of about 100,000 Rohingya killed.",
+        "Myanmar denies genocide and says it was targeting insurgents.",
+        "It is not known whether Myanmar will comply.",
+        "The amount of compensation is yet to be determined.",
+        "Reports spell the Myanmar spokesperson's name differently (Khaing Khaing Soe or Khine Khine Soe)."
+      ],
+      "why": "This is the first time a state has been held responsible for genocide by the UN's top court, setting a precedent for future genocide cases.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+          "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-20T13:38:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+          "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+          "published": "2026-11-20T11:57:43+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CNA Explains: What’s next after the UN court’s historic Rohingya genocide ruling?",
+          "url": "https://www.channelnewsasia.com/asia/icj-un-court-ruling-genocide-myanmar-rohingya-atrocities-explainer-6568961",
+          "published": "2026-11-20T10:45:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
+          "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+          "published": "2026-11-21T00:28:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Missouri judge approves Bayer's $7.25 billion Roundup cancer settlement",
+      "topics": [],
+      "summary": "St. Louis Circuit Judge Timothy Boyer approved Bayer's settlement of current and future claims that its Roundup weedkiller causes non-Hodgkin lymphoma, calling it 'fair, reasonable, and adequate.' Bayer will pay up to $7.25 billion over about two decades, with average individual payments between $10,000 and $165,000. Some plaintiffs' lawyers objected that the payouts are too low, but the judge said delays would leave sick claimants waiting for years. The deal follows a June Supreme Court ruling that barred state-law failure-to-warn claims, and it could still be appealed. Bayer denies that Roundup causes cancer.",
+      "key_facts": [
+        "The settlement covers both people already diagnosed and those diagnosed in the future.",
+        "The Supreme Court ruled 7-2 in June that federal pesticide law bars state failure-to-warn claims.",
+        "The settlement includes $600 million in attorneys' fees, per the New York Post.",
+        "Bayer bought Monsanto for $63 billion in 2018, and its shares have fallen 46% since.",
+        "About 200 federal cases outside the settlement are still being litigated, according to Bayer."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS reported the judge's reasoning and the objections over low payouts. PBS noted the scientific dispute: the WHO's cancer agency calls glyphosate 'probably carcinogenic,' while the EPA disagrees. The Guardian highlighted how the Supreme Court ruling weakened plaintiffs' position."
+        },
+        {
+          "lean": "center",
+          "framing": "DW and The Hill gave an explanatory account of the payment amounts, the legal background and the cost to Bayer, quoting both Bayer's CEO and plaintiffs' lawyer Christopher Seeger."
+        },
+        {
+          "lean": "right",
+          "framing": "The New York Post ran largely the same AP text as PBS. It added the attorneys' fees figure and the judge's view that rejecting the deal risked a Bayer bankruptcy. The Washington Examiner gave a brief factual account."
+        }
+      ],
+      "disputed": [
+        "Whether glyphosate causes cancer remains disputed between the WHO's cancer agency and the EPA.",
+        "Claim counts differ: The Guardian cites about 65,000 pending claims, while DW and the Post cite about 200,000 claims made in total.",
+        "The payment period is described as 21 years (DW) or about 20 years (other outlets).",
+        "The approval could be appealed."
+      ],
+      "why": "The deal largely determines what compensation tens of thousands of cancer patients will receive, and it shapes the future of one of the most widely used weedkillers.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 2
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US judge approves Bayer's $7.25 billion cancer settlement",
+          "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-21T00:03:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
+          "url": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer",
+          "published": "2026-11-20T23:25:19+00:00"
+        },
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Bayer to pay out more than $7B in settlement over weed killer’s link to cancer",
+          "url": "https://nypost.com/2026/11/20/us-news/bayer-paying-out-7-25b-in-settlement-over-weed-killers-link-to-cancer/",
+          "published": "2026-11-21T03:04:57+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer",
+          "url": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/",
+          "published": "2026-11-21T00:12:25+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+          "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+          "published": "2026-11-20T23:42:43+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Nationwide settlement for $7 billion approved over Roundup cancer claims",
+          "url": "https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/",
+          "published": "2026-11-21T01:39:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Pedestrian killed by vehicle on South Tryon Street in Charlotte",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "A pedestrian was hit and killed by a vehicle Friday evening on South Tryon Street near West Arrowood Road in Charlotte, near the Shops at Whitehall Commons. Medics pronounced the person dead at the scene, and Charlotte-Mecklenburg Police are investigating. South Tryon was closed between West Arrowood Road and I-485. The victim has not been identified, and it is not known whether the driver faces charges.",
+      "key_facts": [
+        "The crash occurred on the 8000 block of South Tryon Street near West Arrowood Road.",
+        "The victim was pronounced dead at the scene.",
+        "WBTV notes another deadly pedestrian crash near Arrowood Road on November 11."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "All four local TV outlets reported the basic facts. WBTV added context on a recent string of pedestrian crashes in the region and city council calls for street safety measures."
+        }
+      ],
+      "disputed": [
+        "Reported times vary: about 6:20 or 6:30 p.m. per medics and WSOC, versus about 7:30 p.m. per WBTV.",
+        "Outlets describe the location as either south or southwest Charlotte.",
+        "The circumstances of the crash and the driver's status are not known."
+      ],
+      "why": "The crash adds to a series of pedestrian deaths in the Charlotte area that is prompting calls for safer streets.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Person hit, killed by vehicle near south Charlotte shopping center, police say",
+          "url": "https://www.wbtv.com/2026/11/21/person-hit-killed-by-vehicle-near-south-charlotte-shopping-center-police-say/",
+          "published": "2026-11-21T01:36:32+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CMPD investigating after person fatally hit by car in southwest Charlotte",
+          "url": "https://www.wsoctv.com/news/local/cmpd-investigating-after-person-fatal-hit-by-car-southwest-charlotte/WVCSACX4TBEKRDTGZGDMDOKPU4/",
+          "published": "2026-11-21T03:15:17+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Person struck and killed by vehicle in SW Charlotte; South Tryon closed",
+          "url": "https://www.qcnews.com/traffic/person-struck-and-killed-by-vehicle-in-sw-charlotte-medic/",
+          "published": "2026-11-20T23:46:45+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pedestrian hit, killed by car in southwest Charlotte",
+          "url": "https://www.wcnc.com/article/news/local/pedestrian-hit-killed-southwest-charlotte/275-8260ea41-ea1c-4ae9-aa26-ff594ec7e90c",
+          "published": "2026-11-20T23:40:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Holiday tree lightings held in Concord under tight security and at Fox News in New York",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Two separate tree-lighting events took place Friday. In Concord, North Carolina, the annual downtown tree lighting went ahead without major problems under heavy security, one year after a shooting at the event wounded four teenagers. In New York, Fox News Media held its seventh annual All-American Christmas Tree Lighting with first lady Melania Trump. She discussed her foster-care initiative and what Fox described as her role in a Russia-Ukraine ceasefire in Oleshky. Concord's Christmas parade is scheduled for Saturday with a heavy police presence.",
+      "key_facts": [
+        "The Concord event ended at 9 p.m. without major problems, with mounted, bicycle and foot patrols.",
+        "Last year's Concord shooting wounded four teenagers.",
+        "The Fox tree is 50 feet tall with 18,000 ornaments.",
+        "The White House Christmas theme is 'America in Bloom,' and the tree arrives Monday."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WSOC focused on community resilience and safety in Concord, quoting families and business owners."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News covered its own network event, highlighting the first lady's remarks on peace, foster care and the White House decorations."
+        }
+      ],
+      "disputed": [
+        "The first lady's role in the Oleshky ceasefire is described only by Fox News and the first lady herself."
+      ],
+      "why": "The Concord event tested whether stepped-up security could restore a community tradition after last year's violence.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Concord residents celebrate holiday tree lighting one year after shooting",
+          "url": "https://www.wsoctv.com/news/local/concord-increases-security-christmas-tree-lighting-1-year-after-shooting/IM7322HRPZFD5J3XCQ2VQ7TTKA/",
+          "published": "2026-11-21T03:15:43+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "FOX News Media kicks off holiday season with seventh annual All-American Christmas Tree Lighting",
+          "url": "https://www.foxnews.com/media/fox-news-media-kicks-off-holiday-season-seventh-annual-all-american-christmas-tree-lighting",
+          "published": "2026-11-20T23:20:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Freight train derailment near Sejong suspends some South Korean rail services",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Five cars of a 21-car freight train derailed early Saturday at Sojeong-ri Station in Sejong after its automatic emergency brake activated. The derailment broke a support pole and overhead power lines, cutting power between Cheonan and Jeonui stations. Saemaeul and Mugunghwa passenger services between Daejeon and Cheonan were suspended, while KTX high-speed trains were unaffected. No casualties were reported. KORAIL is running buses over the affected section and will investigate the cause.",
+      "key_facts": [
+        "The derailment happened at 5:37 a.m., about 120 km south of Seoul.",
+        "No casualties were reported.",
+        "KTX services run on separate tracks and were not affected."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald, which ran Yonhap copy, gave identical factual reports."
+        }
+      ],
+      "disputed": [
+        "The cause of the derailment is under investigation."
+      ],
+      "why": "The derailment disrupted conventional rail travel on a key central corridor of South Korea's rail network.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(LEAD) Freight train derails near Sejong, leaving Saemaeul, Mugunghwa services suspended",
+          "url": "https://en.yna.co.kr/view/AEN20261121000451315",
+          "published": "2026-11-21T02:37:37+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Freight train derails near Sejong, leaving Saemaeul, Mugunghwa services suspended",
+          "url": "https://www.koreaherald.com/article/10944600",
+          "published": "2026-11-21T01:48:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Trump says Korean Peninsula 'dangers' were discussed at summit with Xi and Putin",
+      "topics": [
+        "Korea",
+        "US Headlines",
+        "Asia Business & Politics"
+      ],
+      "summary": "President Trump said Friday that 'confronting dangers on the Korean Peninsula' and 'stopping the killing in Ukraine' were discussed at his three-way summit with Xi Jinping and Vladimir Putin. The summit was held Thursday in Shenzhen on the sidelines of APEC. He did not explain what he meant by the dangers.",
+      "key_facts": [
+        "The summit took place Thursday in Shenzhen, China, alongside the APEC forum.",
+        "Trump made the remarks at a White House press conference."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald, which ran Yonhap copy, reported the brief remark without additional analysis."
+        }
+      ],
+      "disputed": [
+        "What specific 'dangers' were discussed, and whether anything was agreed, is unclear."
+      ],
+      "why": "Any US-China-Russia discussion of the Korean Peninsula could affect security in the region.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin",
+          "url": "https://en.yna.co.kr/view/AEN20261121000700315",
+          "published": "2026-11-21T01:06:16+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin",
+          "url": "https://www.koreaherald.com/article/10944597",
+          "published": "2026-11-21T01:41:40+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "The only matching article is a New York Post opinion piece whose available text says only that Gavin Newsom is quick to seize political opportunities with his AI safety plan; it gives no details of the plan. Nothing in today's articles addresses EU regulation. Related US items elsewhere in this edition: the Justice Department backed OpenAI's fair-use position in AI copyright litigation (s2), and the administration issued new rules restricting remote access to advanced US chips (mentioned in s1).",
+      "links": [
+        {
+          "source": "New York Post",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Gavin Newsom’s big plan for AI safety has a sinister edge",
+          "url": "https://nypost.com/2026/11/20/opinion/gavin-newsoms-big-plan-for-ai-safety-has-a-sinister-edge/",
+          "published": "2026-11-21T01:57:07+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 10,
+    "center": 21,
+    "right": 6
+  },
+  "stats": {
+    "articles": 526,
+    "stories_found": 410,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}
