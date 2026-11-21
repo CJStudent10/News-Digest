@@ -1,0 +1,74 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-21T18:16:39.379529+00:00",
+  "local_time": "Saturday, November 21, 2026 · 1:16 PM EST",
+  "local_date": "Nov 21, 2026",
+  "slug": "2026-11-21-1316-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Happy Saturday! This edition has a whale-breath-catching drone, a young spelling champ in Jamaica, and some upsets in European soccer. On the more serious side, there's news on a big energy permitting bill, the FDA still looking for a leader, and reports of hacks at two federal agencies, all told calmly.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "A Day of Firsts, Plus a Ruby-Red Gala in Kingston",
+      "topics": [
+        "Jamaica",
+        "Cute Animals"
+      ],
+      "summary": "Good News Network looked back at November 21 in history. In 1974, Congress overrode President Gerald Ford's veto to pass the Freedom of Information Act, and in 1783 the world's first untethered hot-air balloon flight lifted off near Paris. Separately, the Jamaica Observer featured photos from the United Way of Jamaica's glamorous 40th-anniversary gala.",
+      "key_facts": [
+        "Congress overrode Ford's veto of FOIA with a two-thirds vote in 1974.",
+        "The first untethered hot-air balloon flight lasted about 25 minutes and covered roughly 5.5 miles.",
+        "Ella Fitzgerald debuted at the Apollo Theater at age 16 on this date in 1934.",
+        "The United Way of Jamaica gala was held November 14 at the Jamaica Pegasus, themed \"The Ruby Thread.\""
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "FOIA still lets ordinary citizens request government records today, and the balloonists reportedly started the tradition of celebrating a flight with champagne.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Good News Network",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Good News in History, November 21",
+          "url": "https://www.goodnewsnetwork.org/events061121/",
+          "published": "2026-11-21T08:00:00+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Saturday, November 21, 2026",
+          "url": "https://www.jamaicaobserver.com/2026/11/21/saturday-november-21-2026-20261121-1138-431839/",
+          "published": "2026-11-21T05:00:00+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 2,
+    "right": 0
+  },
+  "stats": {
+    "articles": 200,
+    "stories_found": 175,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

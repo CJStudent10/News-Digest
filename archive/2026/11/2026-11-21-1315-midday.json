@@ -1,0 +1,642 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-21T18:15:15.812506+00:00",
+  "local_time": "Saturday, November 21, 2026 · 1:15 PM EST",
+  "local_date": "Nov 21, 2026",
+  "slug": "2026-11-21-1315-midday",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is led by an Anthropic mathematician's unverified claim to have proved the Riemann hypothesis with the company's Claude AI, which came a day after Anthropic's record stock market debut. Also covered: Mexico's arrest of an FBI most-wanted cartel leader, reported hacks of FBI and USDA systems, opposition protests at Meta's offices in India, new EU trade agreements with the UK and Indonesia, and several local stories from Charlotte and Seoul.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Anthropic mathematician says he proved the Riemann hypothesis with help from Claude AI; verification under way",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Levent Alpöge, a member of Anthropic's technical staff, posted a four-page note on his website on Friday saying he believes that, working with the company's Claude AI, he has found a proof of the Riemann hypothesis, a problem dating to 1859 about how prime numbers are distributed. He released the argument as about 17 million lines of code in Lean, a language that checks proofs step by step, rather than as a conventional paper, and said he has not yet mastered all the mathematics involved. The Clay Mathematics Institute, which offers $1 million for a solution, called it an announcement of historic significance but said real understanding will take a long time. Mathematicians are now trying to verify and translate the proof. The announcement came one day after Anthropic's stock market debut, a timing Alpöge himself called horrible.",
+      "key_facts": [
+        "Alpöge wrote: \"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis.\"",
+        "The proof was released as roughly 17 million lines of Lean code; Alpöge said the work produced more than 250,000 pages of material.",
+        "The Riemann hypothesis is one of seven Clay Millennium Prize Problems, each carrying a $1 million prize; it remained listed as unsolved on the institute's website hours after the announcement.",
+        "Clay Institute president Martin Bridson: \"the journey from today's announcement to a place of real understanding will be long and difficult.\"",
+        "In September, OpenAI said its technology helped with another Millennium Problem involving the Navier-Stokes equations; that claim also awaits independent verification."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR, Al Jazeera and The Guardian were cautious and focused on verification. NPR quoted Rutgers mathematician Alex Kontorovich, who said a computer check is very convincing but he still has to do the work himself, and noted the timing next to Anthropic's IPO. Al Jazeera quoted Imperial College's Kevin Buzzard, who called the proof for now \"millions of lines of gobbledygook\" that people are translating, but expects better understanding within weeks. The Guardian stressed mathematicians' unease with wealthy AI companies spending heavily on such problems, quoting a critic of OpenAI's September effort, and mentioned an Italian mathematician who released a partial, non-AI proof the same day."
+        },
+        {
+          "lean": "center",
+          "framing": "Deutsche Welle framed it as a potential milestone for both mathematics and AI in research. It led with the Clay Institute's \"historic significance\" quote and placed the claim in a series of AI-assisted math results, while noting that the proof still needs independent confirmation."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner's available text repeats the wire lede: a claim by an Anthropic employee, and the second such AI-linked claim in recent months. It offers no further framing."
+        }
+      ],
+      "disputed": [
+        "Whether the proof is correct has not yet been independently confirmed, and no human has read the entire argument.",
+        "How much of the proof is new mathematics and how much is routine material is unknown, according to Kevin Buzzard.",
+        "Accounts of the timeline differ: The Guardian says Claude helped over about six weeks, while NPR reports the discovery came late on a Sunday night.",
+        "Al Jazeera reports that the claim covers the broader generalised Riemann hypothesis; other outlets do not mention this.",
+        "Anthropic did not respond to requests for comment."
+      ],
+      "why": "If confirmed, it would settle one of mathematics' most important open problems and mark a major shift in AI's role in research.",
+      "coverage": {
+        "left": 3,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+          "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-21T10:29:00+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+          "published": "2026-11-21T12:30:16+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/",
+          "published": "2026-11-21T14:07:23+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked",
+          "published": "2026-11-21T12:49:20+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+          "published": "2026-11-21T16:39:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Mexican forces arrest FBI most-wanted cartel figure 'Chapo Isidro' in Sinaloa, setting off violence",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Mexican special forces arrested Fausto Isidro Meza Flores, known as \"Chapo Isidro\" and listed among the FBI's Ten Most Wanted, in Guasave, Sinaloa, on Friday night. Mexico's defence ministry said the raid used US intelligence and came under attack with gunfire and explosives before troops entered a house and made the arrests. Videos showed people fleeing gunfire at a baseball game, along with burning vehicles and roadblocks, before calm returned on Saturday. The detainees were flown to Mexico City to face prosecutors. The US, which has charged him with drug trafficking and firearms offences, is seeking his extradition.",
+      "key_facts": [
+        "Meza Flores was indicted in the US in 2012 and again in 2019, and was added to the FBI's Ten Most Wanted list in 2025.",
+        "The US State Department offered a reward of up to $5 million for information leading to his arrest.",
+        "Mexico's defence ministry said the raid was carried out in three phases by elite forces, with intelligence coordination with the US.",
+        "A Mexican Pacific League baseball game in Guasave was abandoned mid-game as gunfire broke out.",
+        "NPR reported no casualties as of its publication."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR emphasised the violence and its risks, quoting a Guasave firefighter on residents' terror and experts warning of further cartel fighting. Al Jazeera explained who he is and set the arrest in the context of Trump's pressure on Mexico, quoting Trump saying \"the cartels are running Mexico.\" The Guardian focused on the details of the operation and the charges against him."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC presented a straightforward account of the arrest and his background. It noted US pressure and President Sheinbaum's tougher stance against cartels as a way to resist US intervention on Mexican soil."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News highlighted the joint US-Mexico nature of the operation, quoted the defence ministry's step-by-step account at length, and cited the FBI poster and the $5 million reward. The Washington Examiner's brief text stressed that US intelligence aided the arrest."
+        }
+      ],
+      "disputed": [
+        "Outlets differ on how many people were arrested: the BBC mentions him and his lieutenant, while others report three men, including an alleged financial operator.",
+        "Descriptions of his organisation vary: the Meza Flores Organisation or Guasave Cartel (BBC), versus leader of the Beltrán Leyva organisation allied to the Sinaloa Cartel's Mayos faction (Mexican defence ministry).",
+        "Who was firing from the helicopters seen in videos is not clearly established; CNN, cited by The Guardian, said they appeared to be security-force aircraft.",
+        "Few details have been released on how US and Mexican authorities coordinated.",
+        "The timing of any extradition is unclear."
+      ],
+      "why": "The arrest tests US-Mexico security cooperation under Trump's pressure and could intensify cartel violence in Sinaloa.",
+      "coverage": {
+        "left": 3,
+        "center": 1,
+        "right": 2
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-21T13:15:21+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "published": "2026-11-21T18:08:55+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help",
+          "url": "https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help",
+          "published": "2026-11-21T13:17:33+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico",
+          "published": "2026-11-21T16:03:16+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Mexico captures cartel leader listed as one of top 10 most wanted in US",
+          "url": "https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/",
+          "published": "2026-11-21T17:46:23+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+          "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "published": "2026-11-21T17:46:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Op-ed criticizes Justice Department's backing of OpenAI's fair-use argument in newspaper copyright suit",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "A Fox News opinion piece takes aim at a Justice Department statement of interest in the lawsuit brought by The New York Times and other news organizations against OpenAI and Microsoft over the use of articles to train AI. The DOJ sided with OpenAI's argument that such training is \"fair use,\" reasoning that licensing costs could hurt smaller firms, US AI leadership and national security. The author argues this is an extreme reading of fair use that departs from the White House AI framework and from G20 principles recognizing copyright's role. The author also contends it would favour large AI companies and conflict with property rights.",
+      "key_facts": [
+        "News organizations including The New York Times are suing OpenAI and Microsoft over AI training on their articles.",
+        "The DOJ filed a statement of interest supporting OpenAI's fair-use position.",
+        "G20 ministers adopted the \"Carolina Principles for Emerging Technologies,\" which describe AI and copyright as raising \"complex legal and policy questions.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "right",
+          "framing": "This is a single opinion piece arguing against the DOJ's stance from a property-rights and pro-creator angle. It acknowledges the DOJ's competitiveness and security concerns but argues that big AI firms can afford licenses. It notes that other voices within the administration have taken a more balanced position."
+        }
+      ],
+      "disputed": [
+        "The DOJ's position is described only through the op-ed author's characterization.",
+        "No court ruling on the fair-use question is reported."
+      ],
+      "why": "The outcome could decide whether AI companies must pay for the copyrighted material used to train their models.",
+      "coverage": {
+        "left": 0,
+        "center": 0,
+        "right": 1
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
+          "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
+          "published": "2026-11-25T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "FBI crime database and USDA payment system reportedly breached by hackers",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "CNN reported that the FBI is investigating a breach of its National Crime Information Center (NCIC), a database police nationwide use for warrants, missing persons and background checks. This would be the second reported FBI breach in about two months. NBC separately reported that a USDA system used for payments to farmers was hit by a cyberattack, and former officials warned it could serve as a back door to more sensitive data. It is unclear how the attackers got in, whether data was stolen, or whether the two incidents are linked. The reports follow weeks of major outages at the FAA, the NSA and elsewhere, which officials have said were not cyberattacks.",
+      "key_facts": [
+        "The NCIC breach was reportedly discovered in recent days; its timing and method of access are unknown.",
+        "In September, the ShinyHunters group claimed a breach tied to an FBI recruitment website; there is no indication the new incident is connected.",
+        "The Verge reported that President Trump confirmed the FBI hack in a Fox News interview.",
+        "White House national cyber director Sean Cairncross left his post this week."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and The Verge placed the hacks within a growing list of government cyber incidents and outages. The Guardian noted the irony of FBI Director Kash Patel touting anti-hacking efforts on Fox News the day before. The Verge highlighted Trump's remark that the hack might reveal \"voter fraud\" and information about \"Russia, Russia, Russia.\" Both mentioned Cairncross's departure."
+        },
+        {
+          "lean": "center",
+          "framing": "BleepingComputer gave a technical, cautious account. It stressed that the FBI had not confirmed the incident publicly and that the scope of the breach is unknown, and it explained what the NCIC is used for."
+        }
+      ],
+      "disputed": [
+        "The FBI has not publicly confirmed the breach, although The Verge says Trump confirmed it.",
+        "Whether any records were stolen or altered is unknown.",
+        "Who is responsible, and whether the FBI and USDA incidents are related, is unknown.",
+        "Accounts of Cairncross's exit differ: The Guardian says he was fired, while The Verge says he stepped down."
+      ],
+      "why": "Police across the US rely on NCIC data during stops and investigations, so a compromise could affect public and officer safety.",
+      "coverage": {
+        "left": 2,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+          "published": "2026-11-21T14:26:04+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+          "published": "2026-11-21T14:09:02+00:00"
+        },
+        {
+          "source": "The Verge",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "The FBI and USDA were reportedly hacked",
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+          "published": "2026-11-21T17:42:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "India's opposition youth wing protests at Meta offices over Instagram account removals",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "The Indian Youth Congress, the youth wing of India's main opposition party, protested at Meta offices in Hyderabad, Mumbai and Gurugram on Friday, demanding that Instagram accounts of its leaders be restored. Footage released by the group showed clashes with police and security guards. The group says Meta withheld the accounts on government orders and has issued a seven-day ultimatum demanding that restrictions on opposition figures, journalists and creators be lifted. The ruling BJP accused the protesters of vandalism, while Meta declined to comment. The dispute comes amid a growing debate over the Modi government's content takedown demands.",
+      "key_facts": [
+        "Two accounts were restored after the protests, according to the group's social media head, Manu Jain.",
+        "In February, India cut the deadline for removing unlawful content from 36 hours to three hours after notice.",
+        "Meta restricted more than 5.4 million posts or accounts in India under local laws in the first half of 2026.",
+        "BJP spokesperson Pradeep Bhandari accused Congress of vandalising Meta's Hyderabad office."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera foregrounded the Congress youth wing's demands and ultimatum, its \"Mark BJPberg\" banner, and Indian Express figures of nearly 195,000 blocking orders. It also included the BJP's response and reports of police action against protesters."
+        },
+        {
+          "lean": "center",
+          "framing": "CNA framed the protests within the wider debate over free speech in India. It gave the government's position that takedowns are ordered only for legal or security reasons, Meta's statement that it complies with local law, and the BJP's vandalism accusation, alongside concerns from Reporters Without Borders."
+        }
+      ],
+      "disputed": [
+        "Congress alleges that Meta acted on BJP government orders and automatically blocks posts critical of Modi; this has not been verified, and Meta has not commented.",
+        "The comparison figure differs between outlets: about 70,000 restrictions in the preceding six months (CNA) versus the whole of 2025 (Al Jazeera)."
+      ],
+      "why": "India is Meta's largest market by users, and the dispute tests how platforms balance government orders against political speech.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Meta's India offices hit by opposition protests over account removals",
+          "url": "https://www.channelnewsasia.com/asia/india-congress-party-meta-protests-censorship-6571316",
+          "published": "2026-11-21T06:14:58+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "India’s opposition stages protests against Meta over account removals",
+          "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals",
+          "published": "2026-11-21T16:14:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "EU agrees closer-ties deal with UK and signs trade pact with Indonesia",
+      "topics": [
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "The UK and EU agreed a deal on Friday that scraps most checks on British food exports in exchange for the UK following some EU rules from 2028, and that adds a youth mobility scheme. A separate EU proposal on tuition fees for EU students in the UK remains unresolved. Foreign Secretary Ed Miliband told the BBC the main agreements would apply regardless of the tuition dispute and said \"all the options will be on the table\" when asked about rejoining the EU, while Conservative leader Kemi Badenoch called the deal \"not fair.\" Separately, on Saturday the EU and Indonesia signed a trade agreement, concluded after nearly a decade of talks, that removes tariffs on more than 98% of EU exports. It still needs approval from the European Parliament and Indonesian ratification.",
+      "key_facts": [
+        "UK Prime Minister Andy Burnham said the Treasury believes the EU deal could boost the UK economy by up to £17bn a year.",
+        "Miliband said the UK deal involves no new contributions to the EU budget and that legislation will be introduced in Parliament.",
+        "The EU-Indonesia deal cuts tariffs on over 98% of EU exports and about 90% of Indonesian exports, saving over €600 million a year in duties according to the EU.",
+        "The EU projects its GDP will be €16bn higher, and Indonesia's €27bn higher, by 2042 as a result of the deal.",
+        "The Indonesia deal includes a dedicated protocol on palm oil to address deforestation concerns."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The BBC focused on whether the UK deal depends on the tuition dispute and on Miliband's openness to rejoining, including Badenoch's criticism. CNA and Deutsche Welle framed the Indonesia pact as part of the EU's push to diversify trade amid difficulties with the US and China, quoting both von der Leyen and Indonesian officials."
+        }
+      ],
+      "disputed": [
+        "EU sources had suggested the bloc might hold up the wider UK deal until the tuition fees question was resolved; Miliband says it will apply regardless.",
+        "The Conservatives dispute whether the UK deal is fair to farmers.",
+        "Timing of the Indonesia deal: CNA says it should take effect early next year, while DW says it will enter into force in 2027 after ratification."
+      ],
+      "why": "Both deals reshape trade rules for major economies and signal the EU's effort to build ties beyond the US and China.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-21T09:40:55+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "EU, Indonesia officially sign 'ambitious' trade deal",
+          "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696",
+          "published": "2026-11-21T14:05:00+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "EU and Indonesia sign trade deal",
+          "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-21T15:21:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Concord holds tree lighting under heavy security a year after shooting",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Downtown Concord, North Carolina, held its annual Christmas tree lighting under heightened security, one year after a shooting at the event wounded four teenagers. Police patrolled on horseback, on bicycles and on foot, with roadblocks around the area, and the event ended at 9 p.m. without major problems. Residents and merchants said they felt safe and praised the community's resilience. The town's Christmas parade follows with a heavy police presence expected.",
+      "key_facts": [
+        "Last year's shooting wounded four teenagers, and at least two others were accused of firing.",
+        "The tree lighting took place at 8 p.m. and was followed by fireworks.",
+        "The Christmas parade is scheduled for 2:30 p.m. the next day."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The local TV stations framed it as a community reclaiming a tradition, centred on residents' and business owners' voices and the visible security."
+        }
+      ],
+      "disputed": [],
+      "why": "It shows how a community is approaching public events after violence at a holiday gathering.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Concord residents celebrate holiday tree lighting one year after shooting",
+          "url": "https://www.wsoctv.com/news/local/concord-increases-security-christmas-tree-lighting-1-year-after-shooting/IM7322HRPZFD5J3XCQ2VQ7TTKA/",
+          "published": "2026-11-21T03:15:43+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Concord brings back annual tree lighting one year after shooting disrupted celebration",
+          "url": "https://www.wcnc.com/article/news/community/concord-brings-back-annual-tree-lighting-one-year-after-shooting/275-84377e2f-4047-43a2-9f33-0911fa4dd44c",
+          "published": "2026-11-21T04:25:58+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Concord tree lighting event more safe and secure one year after shooting left 4 injured",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/cabarrus-county/concord/concord-tree-lighting-event-more-safe-and-secure-one-year-after-shooting-left-4-injured/",
+          "published": "2026-11-21T04:25:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Bus mounts pavement near Seoul's Hongik University Station, injuring six",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "A bus veered onto the pavement and hit a structure near Hongik University Station in Seoul around 6:57 p.m. on Saturday, following a collision involving another bus and a sedan. Six people were taken to hospitals. No deaths or serious injuries were reported. Police and fire authorities are investigating the cause.",
+      "key_facts": [
+        "Six people were injured.",
+        "No deaths or serious injuries were reported.",
+        "The crash happened in a busy entertainment district."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and The Korea Herald, which republished Yonhap's report, gave an identical factual account."
+        }
+      ],
+      "disputed": [
+        "The exact cause of the accident is under investigation."
+      ],
+      "why": "It is a safety incident in one of Seoul's busiest nightlife areas.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "(LEAD) Bus rams into pavement near Hongik University Station, injuring 6",
+          "url": "https://en.yna.co.kr/view/AEN20261121002151315",
+          "published": "2026-11-21T12:10:15+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bus rams into pavement near Hongik University Station, injuring 6",
+          "url": "https://www.koreaherald.com/article/10944837",
+          "published": "2026-11-21T14:15:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Anthropic shares fall on second day after record IPO, as attention turns to OpenAI",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea"
+      ],
+      "summary": "Anthropic raised about $81 billion in its Nasdaq IPO, pricing at $83 a share, above its expected range. The stock rose 17% on its first trading day Thursday, then fell roughly 9% on Friday. Analysts on CNBC said the debut highlights investor anxiety over AI valuations and a possible bubble, though one called the deal an achievement in a volatile market. The Korea Herald reported that the listing may set a valuation benchmark for OpenAI, which has confidentially filed IPO paperwork, while noting both firms' large computing costs.",
+      "key_facts": [
+        "IPO priced at $83 per share, above the $70-$78 range, with 980 million shares offered.",
+        "Including a $26 billion private share sale, the total deal value was $107.34 billion, according to The Korea Herald.",
+        "Anthropic reported third-quarter revenue of $16.8 billion, up 45% from the prior quarter, per Reuters.",
+        "OpenAI's third-quarter operating loss widened to $10.9 billion, per Reuters citing the WSJ."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC framed the IPO as caught in a broader correction in AI and tech stocks, quoting ETF strategists on valuation worries and noting an analyst's tongue-in-cheek risk warning about AI wiping out humanity. The Korea Herald focused on what the debut means for a possible OpenAI listing and on profitability questions."
+        }
+      ],
+      "disputed": [
+        "Whether Anthropic's valuation is justified is debated among analysts.",
+        "Friday's decline is reported as 9% by CNBC and 8.5% (to $88.91) by The Korea Herald.",
+        "The timing of an OpenAI IPO is unconfirmed."
+      ],
+      "why": "The stock's performance is a test of how markets value AI companies and could shape future listings.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+          "published": "2026-11-21T14:07:53+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Anthropic IPO success boosts hopes for OpenAI listing",
+          "url": "https://www.koreaherald.com/article/10944733",
+          "published": "2026-11-21T08:00:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Man charged with second-degree murder after shooting at Monroe convenience store",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Police in Monroe, North Carolina, charged Luis Zazocoteco, 22, with second-degree murder after Jose Francisco Barcelo Suarez was fatally shot at Sammy's Mini Mart on Sunset Drive just before midnight. Police said the shooting began with a physical altercation between the two men at the store. A third man, Khalil Hailey, 34, was not involved but allegedly fired a gun into the air and was charged as a felon in possession of a firearm. The investigation continues.",
+      "key_facts": [
+        "Zazocoteco was arrested Saturday, Nov. 21.",
+        "Both men were held at the Union County Detention Center.",
+        "Hailey faces a charge of possession of a firearm by a felon."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local stations relayed the police account without additional framing."
+        }
+      ],
+      "disputed": [
+        "Police did not say who fired the fatal shot, though an arrest warrant alleges Zazocoteco killed Suarez.",
+        "When Suarez died was not immediately clear."
+      ],
+      "why": "It is a fatal shooting in the Charlotte region with charges still developing.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Man charged with murder after deadly shooting at Monroe convenience store, police say",
+          "url": "https://www.wbtv.com/2026/11/21/man-charged-with-murder-after-deadly-shooting-monroe-convenience-store-police-say/",
+          "published": "2026-11-21T15:13:07+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Man charged with murder after physical altercation leads to fatal shooting in Monroe: Police",
+          "url": "https://www.qcnews.com/crime-and-public-safety/two-men-charged-after-physical-altercation-leads-to-fatal-shooting-in-monroe-police/",
+          "published": "2026-11-21T12:00:13+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "A Fox News op-ed reports that the US Justice Department filed a statement of interest backing OpenAI's argument that training AI on copyrighted news articles is fair use, in the lawsuit brought by The New York Times and others. The author says this departs from the more balanced White House AI framework and from G20 principles stressing copyright's role. The same piece references a Fox News poll in which voters rank AI safeguards ahead of innovation. No articles in this edition address EU AI regulation.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 9,
+    "center": 16,
+    "right": 4
+  },
+  "stats": {
+    "articles": 356,
+    "stories_found": 287,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

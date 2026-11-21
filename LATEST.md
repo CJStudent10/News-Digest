@@ -1,289 +1,280 @@
-# My Daily Brief: Evening edition
-_Friday, November 20, 2026 · 10:30 PM EST · 526 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Midday edition
+_Saturday, November 21, 2026 · 1:15 PM EST · 356 articles from 39 outlets · summaries by Claude_
 
-> Several stories in this edition come out of President Trump's wide-ranging White House press conference on Friday. He threatened a 'tremendous tax' on US firms building data centers abroad, urged Nvidia to take back ousted CEO Jensen Huang, and said Korean Peninsula 'dangers' came up at his summit with Xi Jinping and Vladimir Putin. Elsewhere, the UN's top court ruled for the first time that a state, Myanmar, committed genocide, and a Missouri judge approved Bayer's $7.25 billion Roundup cancer settlement. The edition also covers the death of Fiona the hippo and several local and regional items.
+> This edition is led by an Anthropic mathematician's unverified claim to have proved the Riemann hypothesis with the company's Claude AI, which came a day after Anthropic's record stock market debut. Also covered: Mexico's arrest of an FBI most-wanted cartel leader, reported hacks of FBI and USDA systems, opposition protests at Meta's offices in India, new EU trade agreements with the UK and Indonesia, and several local stories from Charlotte and Seoul.
 
 
-**Sources linked in this edition:** 10 left · 21 center · 6 right
+**Sources linked in this edition:** 9 left · 16 center · 4 right
 
 ---
 
-## 1. Trump says he will bar or heavily tax US companies that build data centers abroad
-`US Headlines` `AI & Cybersecurity` · Covered by 8 outlets (L 4 · C 4 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 1. Anthropic mathematician says he proved the Riemann hypothesis with help from Claude AI; verification under way
+`AI & Cybersecurity` · Covered by 5 outlets (L 3 · C 1 · R 1)
 
-At a White House press conference on Friday, President Trump said US companies would not be allowed to build data centers in other countries, and that those who do would face a 'tremendous tax' or 'tremendous penalties.' He gave no details and said he had not yet told his own officials about the plan. He argued that 'China will take all of them' if data centers go overseas, and urged American communities to accept data centers while making developers 'pay your community.' Outlets noted that many major US tech firms already operate data centers abroad. They also noted that a Democratic-majority Congress is due to take office soon and that voters have recently backed local restrictions on data centers.
+Levent Alpöge, a member of Anthropic's technical staff, posted a four-page note on his website on Friday saying he believes that, working with the company's Claude AI, he has found a proof of the Riemann hypothesis, a problem dating to 1859 about how prime numbers are distributed. He released the argument as about 17 million lines of code in Lean, a language that checks proofs step by step, rather than as a conventional paper, and said he has not yet mastered all the mathematics involved. The Clay Mathematics Institute, which offers $1 million for a solution, called it an announcement of historic significance but said real understanding will take a long time. Mathematicians are now trying to verify and translate the proof. The announcement came one day after Anthropic's stock market debut, a timing Alpöge himself called horrible.
 
 **Key facts**
-- Trump said companies building data centers abroad 'can, but we're going to put a tremendous tax on them.'
-- Trump said: 'I haven't even said that to my people. But I'm telling them now.'
-- A CNBC survey found 64% of registered voters opposed an AI data center within 10 miles of their home; 13% supported one.
-- Alphabet, Amazon, Microsoft, Meta and Oracle already have data centers in other countries; Amazon, Google, Microsoft and Oracle did not immediately comment.
-- The remarks came a day after Trump's trilateral summit with Xi Jinping and Vladimir Putin in China.
+- Alpöge wrote: "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis."
+- The proof was released as roughly 17 million lines of Lean code; Alpöge said the work produced more than 250,000 pages of material.
+- The Riemann hypothesis is one of seven Clay Millennium Prize Problems, each carrying a $1 million prize; it remained listed as unsolved on the institute's website hours after the announcement.
+- Clay Institute president Martin Bridson: "the journey from today's announcement to a place of real understanding will be long and difficult."
+- In September, OpenAI said its technology helped with another Millennium Problem involving the Navier-Stokes equations; that claim also awaits independent verification.
 
 **How it's being framed**
-- **Left:** The Guardian, The Verge and PBS stressed the lack of detail and the contrast with growing public opposition, including midterm ballot measures and state moratoriums on data centers. The Guardian placed the announcement within a 'discursive' press conference that also covered Iran, JD Vance and Putin. It added context on US chip sales to China and Trump's investment in Nvidia. The Verge noted the plan could be hard to carry out with a Democratic Congress coming in.
-- **Center:** CNBC, Axios and The Hill focused on the policy itself and its practical hurdles. CNBC cited polling showing voter opposition and listed tech giants that already operate overseas. Axios tied the announcement to data centers becoming a midterm flashpoint. Like the left-leaning outlets, CNBC highlighted that Trump said his staff had not been told.
+- **Left:** NPR, Al Jazeera and The Guardian were cautious and focused on verification. NPR quoted Rutgers mathematician Alex Kontorovich, who said a computer check is very convincing but he still has to do the work himself, and noted the timing next to Anthropic's IPO. Al Jazeera quoted Imperial College's Kevin Buzzard, who called the proof for now "millions of lines of gobbledygook" that people are translating, but expects better understanding within weeks. The Guardian stressed mathematicians' unease with wealthy AI companies spending heavily on such problems, quoting a critic of OpenAI's September effort, and mentioned an Italian mathematician who released a partial, non-AI proof the same day.
+- **Center:** Deutsche Welle framed it as a potential milestone for both mathematics and AI in research. It led with the Clay Institute's "historic significance" quote and placed the claim in a series of AI-assisted math results, while noting that the proof still needs independent confirmation.
+- **Right:** The Washington Examiner's available text repeats the wire lede: a claim by an Anthropic employee, and the second such AI-linked claim in recent months. It offers no further framing.
 
 **Disputed or unclear**
-- No mechanism, legal basis, or size for the proposed tax or ban has been given.
-- Trump said both 'not allowing' overseas data centers and that companies 'can' build them abroad if they pay a tax, so it is unclear whether he means a ban or a penalty.
-- It is unclear whether Congress would support such a measure.
+- Whether the proof is correct has not yet been independently confirmed, and no human has read the entire argument.
+- How much of the proof is new mathematics and how much is routine material is unknown, according to Kevin Buzzard.
+- Accounts of the timeline differ: The Guardian says Claude helped over about six weeks, while NPR reports the discovery came late on a Sunday night.
+- Al Jazeera reports that the claim covers the broader generalised Riemann hypothesis; other outlets do not mention this.
+- Anthropic did not respond to requests for comment.
 
-**Why it matters:** A penalty on overseas data centers could reshape where major cloud companies invest, and bring more of these facilities to US communities that have been resisting them.
+**Why it matters:** If confirmed, it would settle one of mathematics' most important open problems and mark a major shift in AI's role in research.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html) (center): Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house) (lean-left): Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad
-- [Axios](https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas) (center): Trump floats major tax on U.S. companies constructing data centers overseas
-- [The Verge](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax) (lean-left): Trump threatens ‘tremendous tax’ for moving AI data centers outside the US
-- [The Hill](https://thehill.com/homenews/administration/6233765-trump-threatens-data-center-tax-overseas/) (center): Trump seeks curbs on US companies building data centers overseas
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off) (lean-left): WATCH: Trump on data centers: 'Take advantage, don't shut them off'
+- [Deutsche Welle](https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf) (center): Anthropic researcher uses AI to solve math's greatest riddle
+- [NPR](https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai) (lean-left): Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4811052/anthropic-riemann-hypothesis-solve-ai/) (lean-right): Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked) (lean-left): Riemann hypothesis: Has the world’s most famous maths problem been cracked?
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai) (lean-left): Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis
 
 
-## 2. Opinion: Fox News piece criticizes Justice Department's fair-use stance in AI copyright suit
+## 2. Mexican forces arrest FBI most-wanted cartel figure 'Chapo Isidro' in Sinaloa, setting off violence
+`US Headlines` · Covered by 6 outlets (L 3 · C 1 · R 2)
+
+Mexican special forces arrested Fausto Isidro Meza Flores, known as "Chapo Isidro" and listed among the FBI's Ten Most Wanted, in Guasave, Sinaloa, on Friday night. Mexico's defence ministry said the raid used US intelligence and came under attack with gunfire and explosives before troops entered a house and made the arrests. Videos showed people fleeing gunfire at a baseball game, along with burning vehicles and roadblocks, before calm returned on Saturday. The detainees were flown to Mexico City to face prosecutors. The US, which has charged him with drug trafficking and firearms offences, is seeking his extradition.
+
+**Key facts**
+- Meza Flores was indicted in the US in 2012 and again in 2019, and was added to the FBI's Ten Most Wanted list in 2025.
+- The US State Department offered a reward of up to $5 million for information leading to his arrest.
+- Mexico's defence ministry said the raid was carried out in three phases by elite forces, with intelligence coordination with the US.
+- A Mexican Pacific League baseball game in Guasave was abandoned mid-game as gunfire broke out.
+- NPR reported no casualties as of its publication.
+
+**How it's being framed**
+- **Left:** NPR emphasised the violence and its risks, quoting a Guasave firefighter on residents' terror and experts warning of further cartel fighting. Al Jazeera explained who he is and set the arrest in the context of Trump's pressure on Mexico, quoting Trump saying "the cartels are running Mexico." The Guardian focused on the details of the operation and the charges against him.
+- **Center:** The BBC presented a straightforward account of the arrest and his background. It noted US pressure and President Sheinbaum's tougher stance against cartels as a way to resist US intervention on Mexican soil.
+- **Right:** Fox News highlighted the joint US-Mexico nature of the operation, quoted the defence ministry's step-by-step account at length, and cited the FBI poster and the $5 million reward. The Washington Examiner's brief text stressed that US intelligence aided the arrest.
+
+**Disputed or unclear**
+- Outlets differ on how many people were arrested: the BBC mentions him and his lieutenant, while others report three men, including an alleged financial operator.
+- Descriptions of his organisation vary: the Meza Flores Organisation or Guasave Cartel (BBC), versus leader of the Beltrán Leyva organisation allied to the Sinaloa Cartel's Mayos faction (Mexican defence ministry).
+- Who was firing from the helicopters seen in videos is not clearly established; CNN, cited by The Guardian, said they appeared to be security-force aircraft.
+- Few details have been released on how US and Mexican authorities coordinated.
+- The timing of any extradition is unclear.
+
+**Why it matters:** The arrest tests US-Mexico security cooperation under Trump's pressure and could intensify cartel violence in Sinaloa.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss) (center): Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
+- [NPR](https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained) (lean-left): Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence
+- [Fox News (World)](https://www.foxnews.com/world/fbi-ten-most-wanted-cartel-leader-chapo-isidro-captured-mexicos-elite-military-forces-us-help) (right): FBI Ten Most Wanted cartel leader 'Chapo Isidro' captured by Mexico's 'elite military forces' after US help
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico) (lean-left): Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
+- [Washington Examiner](https://www.washingtonexaminer.com/news/crime/4811249/mexico-capture-cartel-leader-top-10-wanted/) (lean-right): Mexico captures cartel leader listed as one of top 10 most wanted in US
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested) (lean-left): Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid
+
+
+## 3. Op-ed criticizes Justice Department's backing of OpenAI's fair-use argument in newspaper copyright suit
 `AI & Cybersecurity` `US Headlines` · Covered by 1 outlet (L 0 · C 0 · R 1)
 
-A Fox News opinion article criticizes a Justice Department statement of interest backing OpenAI in lawsuits brought by The New York Times and other news organizations. The suits accuse OpenAI and Microsoft of using millions of articles to train AI without permission. The author argues the DOJ adopted an 'extreme' view of fair use that departs from more balanced White House and G20 guidance. The author also argues the stance could favor large AI firms over startups and raises constitutional property-rights concerns. The DOJ's stated reasoning, as described in the piece, is that licensing costs could hamper competition, US AI leadership and national security.
+A Fox News opinion piece takes aim at a Justice Department statement of interest in the lawsuit brought by The New York Times and other news organizations against OpenAI and Microsoft over the use of articles to train AI. The DOJ sided with OpenAI's argument that such training is "fair use," reasoning that licensing costs could hurt smaller firms, US AI leadership and national security. The author argues this is an extreme reading of fair use that departs from the White House AI framework and from G20 principles recognizing copyright's role. The author also contends it would favour large AI companies and conflict with property rights.
 
 **Key facts**
 - News organizations including The New York Times are suing OpenAI and Microsoft over AI training on their articles.
-- The tech firms argue the training qualifies as 'fair use.'
-- The DOJ filed a statement of interest supporting OpenAI's position.
-- G20 ministers adopted the 'Carolina Principles for Emerging Technologies,' which call AI and copyright 'complex legal and policy questions.'
+- The DOJ filed a statement of interest supporting OpenAI's fair-use position.
+- G20 ministers adopted the "Carolina Principles for Emerging Technologies," which describe AI and copyright as raising "complex legal and policy questions."
 
 **How it's being framed**
-- **Right:** Written as an opinion argument. It defends copyright holders and presents intellectual property as a property right. It frames the DOJ brief as a break from the administration's own more measured AI framework and argues that large AI companies can afford to pay for licenses.
+- **Right:** This is a single opinion piece arguing against the DOJ's stance from a property-rights and pro-creator angle. It acknowledges the DOJ's competitiveness and security concerns but argues that big AI firms can afford licenses. It notes that other voices within the administration have taken a more balanced position.
 
 **Disputed or unclear**
-- Whether AI training on copyrighted news articles counts as fair use is the central question still before the court.
-- The characterization of the DOJ position as 'extreme' is the author's opinion.
+- The DOJ's position is described only through the op-ed author's characterization.
+- No court ruling on the fair-use question is reported.
 
-**Why it matters:** The case could decide whether AI companies must pay creators for the material used to train their systems.
+**Why it matters:** The outcome could decide whether AI companies must pay for the copyrighted material used to train their models.
 
 **Read it yourself:**
 - [Fox News](https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners) (right): Americans don’t have to choose between our AI future and ripping off copyright owners
 
 
-## 3. Trump urges Nvidia to reinstate Jensen Huang as Congress prepares to question him
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 5 outlets (L 2 · C 3 · R 0)
+## 4. FBI crime database and USDA payment system reportedly breached by hackers
+`AI & Cybersecurity` `US Headlines` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
 
-President Trump said Friday he would 'love to see Jensen be given a second chance,' calling the former Nvidia CEO 'a good man' who 'made some bad decisions' and urging him to 'make a big apology.' Huang resigned this month after reports of extramarital affairs, including one with a woman US intelligence suspects of spying for China, which Beijing denies. Nvidia's board has said it does not plan to reinstate him. Huang has agreed to a closed-door House interview on December 1 and to public testimony before the Senate banking committee on a date not yet set. Trump's remarks appeared to contradict Treasury Secretary Scott Bessent, who said Huang did not come up in talks with China.
+CNN reported that the FBI is investigating a breach of its National Crime Information Center (NCIC), a database police nationwide use for warrants, missing persons and background checks. This would be the second reported FBI breach in about two months. NBC separately reported that a USDA system used for payments to farmers was hit by a cyberattack, and former officials warned it could serve as a back door to more sensitive data. It is unclear how the attackers got in, whether data was stolen, or whether the two incidents are linked. The reports follow weeks of major outages at the FAA, the NSA and elsewhere, which officials have said were not cyberattacks.
 
 **Key facts**
-- Al Jazeera reports Huang resigned on November 12.
-- Nvidia board chair Harvey Jones said directors unanimously accepted Huang's resignation and do not plan to reinstate him.
-- Huang will give a closed-door transcribed interview to three House committees on December 1 and testify publicly before the Senate banking panel.
-- Sen. Tim Scott said he hopes to hear from Huang and Commerce Secretary Howard Lutnick 'before Christmas'; the new Congress convenes January 3.
-- Trump said he has 'not lost confidence' in Lutnick.
+- The NCIC breach was reportedly discovered in recent days; its timing and method of access are unknown.
+- In September, the ShinyHunters group claimed a breach tied to an FBI recruitment website; there is no indication the new incident is connected.
+- The Verge reported that President Trump confirmed the FBI hack in a Fox News interview.
+- White House national cyber director Sean Cairncross left his post this week.
 
 **How it's being framed**
-- **Left:** Al Jazeera and PBS led with Trump's call for Huang's return and the national security concerns around the alleged spy. Al Jazeera added detail on Sen. Tom Cotton's criticism of Lutnick, the Democratic probe into Lutnick and Cantor Fitzgerald, and Trump's apparent contradiction of Bessent.
-- **Center:** CNBC and The Hill focused on process: the format and timing of Huang's congressional testimony and Bessent's statement that Huang was not discussed with China. TechCrunch focused on Nvidia's business performance and earnings amid the fallout.
+- **Left:** The Guardian and The Verge placed the hacks within a growing list of government cyber incidents and outages. The Guardian noted the irony of FBI Director Kash Patel touting anti-hacking efforts on Fox News the day before. The Verge highlighted Trump's remark that the hack might reveal "voter fraud" and information about "Russia, Russia, Russia." Both mentioned Cairncross's departure.
+- **Center:** BleepingComputer gave a technical, cautious account. It stressed that the FBI had not confirmed the incident publicly and that the scope of the breach is unknown, and it explained what the NCIC is used for.
 
 **Disputed or unclear**
-- Trump said he discussed Huang with Xi; Bessent said Huang did not come up in talks with China.
-- The alleged espionage link has not been proven publicly, and Beijing denies it.
-- Outlets differ on how Huang left: Al Jazeera and PBS say he resigned, while another outlet describes him as fired or ousted.
-- The date of Huang's Senate testimony has not been announced.
+- The FBI has not publicly confirmed the breach, although The Verge says Trump confirmed it.
+- Whether any records were stolen or altered is unknown.
+- Who is responsible, and whether the FBI and USDA incidents are related, is unknown.
+- Accounts of Cairncross's exit differ: The Guardian says he was fired, while The Verge says he stepped down.
 
-**Why it matters:** The case links the leadership of one of the most important AI chip companies to questions about chip smuggling to China and oversight by the Commerce Department.
-
-**Read it yourself:**
-- [TechCrunch (AI)](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/) (center): The fallout from Nvidia’s Jensen Huang scandal continues
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang) (lean-left): Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang
-- [CNBC](https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html) (center): Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-trump-says-he-would-love-former-nvidia-ceo-jensen-huang-to-be-given-a-second-chance) (lean-left): WATCH: Trump says he would love former Nvidia CEO Jensen Huang to 'be given a second chance'
-- [The Hill](https://thehill.com/policy/technology/6233257-bessent-denies-huang-apec-talks/) (center): Bessent says Jensen Huang did not come up during China discussions
-
-
-## 4. Cincinnati Zoo says hat swallowed by Fiona the hippo could not be removed
-`US Headlines` · Covered by 5 outlets (L 1 · C 2 · R 2)
-
-The Cincinnati Zoo said a necropsy showed that the hat Fiona the hippo swallowed was lodged in the middle of her small intestine, where it could not be reached. Vets said endoscopes could not reach it and that surgery was not feasible; they said open surgery would have been 'a death sentence.' Fiona, 9, died Thursday, nearly two weeks after a visitor's hat was accidentally flung into her enclosure by a ceiling fan. Fans left tributes at the zoo, landmarks were lit purple, and the US Senate unanimously adopted a resolution introduced by Sen. Bernie Moreno honoring her.
-
-**Key facts**
-- The hat was found about 25 feet past the start of her intestinal tract and 50 feet from its end.
-- Dr. Mike Wenninger: 'no amount of supportive care would have worked.'
-- Fiona was born premature in 2017, weighing 29 pounds.
-- The Senate adopted a resolution honoring Fiona on Friday.
-- The zoo's other hippos, Bibi, Tucker and Fritz, are reported to be behaving normally.
-
-**How it's being framed**
-- **Left:** PBS, carrying AP reporting, emphasized public mourning and the emotional toll on keepers. It noted a similar hippo death at the zoo in 1923.
-- **Center:** The BBC and The Hill reported the necropsy details, staff statements and the Senate resolution.
-- **Right:** Fox News and the Washington Examiner focused on the medical details showing the care team did everything possible, and on Sen. Moreno's resolution. The overall framing closely matched other outlets.
-
-**Why it matters:** Fiona was a widely followed animal, and her death raises questions about how zoos protect animals from objects visitors bring in.
+**Why it matters:** Police across the US rely on NCIC data during stops and investigations, so a compromise could affect public and officer safety.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwly43km54n6o?at_medium=RSS&at_campaign=rss) (center): Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/fionas-caretakers-and-fans-mourn-the-beloved-hippo-after-her-death-at-cincinnati-zoo) (lean-left): Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo
-- [Fox News](https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death) (right): Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death
-- [The Hill](https://thehill.com/homenews/senate/6234147-senate-honors-fiona-hippo/) (center): Senate adopts resolution honoring Fiona the hippo
-- [Washington Examiner](https://www.washingtonexaminer.com/news/senate/4810819/senate-passes-bernie-moreno-resolution-honoring-fiona-the-hippo/) (lean-right): Senate unanimously passes Moreno resolution in honor of Fiona the hippo
+- [BleepingComputer](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/) (center): FBI reportedly hacked again, this time targeting nationwide police database
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack) (lean-left): USDA, FBI breached by hackers amid spate of tech outages – reports
+- [The Verge](https://www.theverge.com/tech/1039543/fbi-usda-hacked) (lean-left): The FBI and USDA were reportedly hacked
 
 
-## 5. UN top court rules Myanmar committed genocide against Rohingya; enforcement uncertain
-`Asia Business & Politics` · Covered by 4 outlets (L 2 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 5. India's opposition youth wing protests at Meta offices over Instagram account removals
+`Asia Business & Politics` `US Headlines` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-The International Court of Justice ruled 9-6 that Myanmar committed genocide against the Rohingya during its 2016-2017 military campaign, in a case brought by The Gambia. It is the first time the court has found a state responsible for genocide. The court ordered Myanmar to prevent further abuses, prosecute those responsible, allow refugees to return and pay reparations, and to report within two years on the measures it has taken. Myanmar's government called the ruling unfair, pointing to the split vote. Reactions abroad ranged from EU and UK praise to US caution and Chinese concern about 'jurisdiction overreach.' The ICJ cannot enforce its rulings, and analysts expect China and Russia to block any UN Security Council action.
+The Indian Youth Congress, the youth wing of India's main opposition party, protested at Meta offices in Hyderabad, Mumbai and Gurugram on Friday, demanding that Instagram accounts of its leaders be restored. Footage released by the group showed clashes with police and security guards. The group says Meta withheld the accounts on government orders and has issued a seven-day ultimatum demanding that restrictions on opposition figures, journalists and creators be lifted. The ruling BJP accused the protesters of vandalism, while Meta declined to comment. The dispute comes amid a growing debate over the Modi government's content takedown demands.
 
 **Key facts**
-- The 15-judge panel voted 9-6.
-- The Gambia filed the case seven years ago.
-- Roughly 700,000 Rohingya fled to Bangladesh in 2017.
-- The UN Security Council has scheduled closed consultations next Wednesday and a private meeting on December 7 at the UK's request; the UK expelled Myanmar's defense attache.
-- The ruling is final and cannot be appealed, but the court can only report noncompliance to the Security Council.
+- Two accounts were restored after the protests, according to the group's social media head, Manu Jain.
+- In February, India cut the deadline for removing unlawful content from 36 hours to three hours after notice.
+- Meta restricted more than 5.4 million posts or accounts in India under local laws in the first half of 2026.
+- BJP spokesperson Pradeep Bhandari accused Congress of vandalising Meta's Hyderabad office.
 
 **How it's being framed**
-- **Left:** The Guardian focused on the divided international reaction and noted the ruling could set a precedent for a case against Israel. PBS, carrying AP reporting, emphasized rights groups' calls for sanctions and the likelihood that Security Council action will be blocked.
-- **Center:** DW centered Rohingya survivors' voices and the court's rejection of Myanmar's counterinsurgency defense. CNA took an explanatory approach, covering what the court ordered, the two-year deadline and the questions over enforcement.
+- **Left:** Al Jazeera foregrounded the Congress youth wing's demands and ultimatum, its "Mark BJPberg" banner, and Indian Express figures of nearly 195,000 blocking orders. It also included the BJP's response and reports of police action against protesters.
+- **Center:** CNA framed the protests within the wider debate over free speech in India. It gave the government's position that takedowns are ordered only for legal or security reasons, Meta's statement that it complies with local law, and the BJP's vandalism accusation, alongside concerns from Reporters Without Borders.
 
 **Disputed or unclear**
-- Death toll figures differ: DW cites a UN fact-finding estimate of about 10,000 deaths, while AP via PBS says the court found evidence of about 100,000 Rohingya killed.
-- Myanmar denies genocide and says it was targeting insurgents.
-- It is not known whether Myanmar will comply.
-- The amount of compensation is yet to be determined.
-- Reports spell the Myanmar spokesperson's name differently (Khaing Khaing Soe or Khine Khine Soe).
+- Congress alleges that Meta acted on BJP government orders and automatically blocks posts critical of Modi; this has not been verified, and Meta has not commented.
+- The comparison figure differs between outlets: about 70,000 restrictions in the preceding six months (CNA) versus the whole of 2025 (Al Jazeera).
 
-**Why it matters:** This is the first time a state has been held responsible for genocide by the UN's top court, setting a precedent for future genocide cases.
+**Why it matters:** India is Meta's largest market by users, and the dispute tests how platforms balance government orders against political speech.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf) (center): Myanmar genocide ruling: Rohingya say struggle for justice not over
-- [The Guardian (World)](https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law) (lean-left): US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/icj-un-court-ruling-genocide-myanmar-rohingya-atrocities-explainer-6568961) (center): CNA Explains: What’s next after the UN court’s historic Rohingya genocide ruling?
-- [PBS NewsHour](https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya) (lean-left): Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/india-congress-party-meta-protests-censorship-6571316) (center): Meta's India offices hit by opposition protests over account removals
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals) (lean-left): India’s opposition stages protests against Meta over account removals
 
 
-## 6. Missouri judge approves Bayer's $7.25 billion Roundup cancer settlement
-· Covered by 6 outlets (L 2 · C 2 · R 2)
+## 6. EU agrees closer-ties deal with UK and signs trade pact with Indonesia
+`Asia Business & Politics` `US Headlines` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-St. Louis Circuit Judge Timothy Boyer approved Bayer's settlement of current and future claims that its Roundup weedkiller causes non-Hodgkin lymphoma, calling it 'fair, reasonable, and adequate.' Bayer will pay up to $7.25 billion over about two decades, with average individual payments between $10,000 and $165,000. Some plaintiffs' lawyers objected that the payouts are too low, but the judge said delays would leave sick claimants waiting for years. The deal follows a June Supreme Court ruling that barred state-law failure-to-warn claims, and it could still be appealed. Bayer denies that Roundup causes cancer.
+The UK and EU agreed a deal on Friday that scraps most checks on British food exports in exchange for the UK following some EU rules from 2028, and that adds a youth mobility scheme. A separate EU proposal on tuition fees for EU students in the UK remains unresolved. Foreign Secretary Ed Miliband told the BBC the main agreements would apply regardless of the tuition dispute and said "all the options will be on the table" when asked about rejoining the EU, while Conservative leader Kemi Badenoch called the deal "not fair." Separately, on Saturday the EU and Indonesia signed a trade agreement, concluded after nearly a decade of talks, that removes tariffs on more than 98% of EU exports. It still needs approval from the European Parliament and Indonesian ratification.
 
 **Key facts**
-- The settlement covers both people already diagnosed and those diagnosed in the future.
-- The Supreme Court ruled 7-2 in June that federal pesticide law bars state failure-to-warn claims.
-- The settlement includes $600 million in attorneys' fees, per the New York Post.
-- Bayer bought Monsanto for $63 billion in 2018, and its shares have fallen 46% since.
-- About 200 federal cases outside the settlement are still being litigated, according to Bayer.
+- UK Prime Minister Andy Burnham said the Treasury believes the EU deal could boost the UK economy by up to £17bn a year.
+- Miliband said the UK deal involves no new contributions to the EU budget and that legislation will be introduced in Parliament.
+- The EU-Indonesia deal cuts tariffs on over 98% of EU exports and about 90% of Indonesian exports, saving over €600 million a year in duties according to the EU.
+- The EU projects its GDP will be €16bn higher, and Indonesia's €27bn higher, by 2042 as a result of the deal.
+- The Indonesia deal includes a dedicated protocol on palm oil to address deforestation concerns.
 
 **How it's being framed**
-- **Left:** The Guardian and PBS reported the judge's reasoning and the objections over low payouts. PBS noted the scientific dispute: the WHO's cancer agency calls glyphosate 'probably carcinogenic,' while the EPA disagrees. The Guardian highlighted how the Supreme Court ruling weakened plaintiffs' position.
-- **Center:** DW and The Hill gave an explanatory account of the payment amounts, the legal background and the cost to Bayer, quoting both Bayer's CEO and plaintiffs' lawyer Christopher Seeger.
-- **Right:** The New York Post ran largely the same AP text as PBS. It added the attorneys' fees figure and the judge's view that rejecting the deal risked a Bayer bankruptcy. The Washington Examiner gave a brief factual account.
+- **Center:** The BBC focused on whether the UK deal depends on the tuition dispute and on Miliband's openness to rejoining, including Badenoch's criticism. CNA and Deutsche Welle framed the Indonesia pact as part of the EU's push to diversify trade amid difficulties with the US and China, quoting both von der Leyen and Indonesian officials.
 
 **Disputed or unclear**
-- Whether glyphosate causes cancer remains disputed between the WHO's cancer agency and the EPA.
-- Claim counts differ: The Guardian cites about 65,000 pending claims, while DW and the Post cite about 200,000 claims made in total.
-- The payment period is described as 21 years (DW) or about 20 years (other outlets).
-- The approval could be appealed.
+- EU sources had suggested the bloc might hold up the wider UK deal until the tuition fees question was resolved; Miliband says it will apply regardless.
+- The Conservatives dispute whether the UK deal is fair to farmers.
+- Timing of the Indonesia deal: CNA says it should take effect early next year, while DW says it will enter into force in 2027 after ratification.
 
-**Why it matters:** The deal largely determines what compensation tens of thousands of cancer patients will receive, and it shapes the future of one of the most widely used weedkillers.
+**Why it matters:** Both deals reshape trade rules for major economies and signal the EU's effort to build ties beyond the US and China.
 
 **Read it yourself:**
-- [Deutsche Welle](https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf) (center): US judge approves Bayer's $7.25 billion cancer settlement
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer) (lean-left): Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer
-- [New York Post](https://nypost.com/2026/11/20/us-news/bayer-paying-out-7-25b-in-settlement-over-weed-killers-link-to-cancer/) (lean-right): Bayer to pay out more than $7B in settlement over weed killer’s link to cancer
-- [The Hill](https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/) (center): Court formally approves $7.25B class settlement for cancer claims from Roundup weed killer
-- [The Guardian (US)](https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation) (lean-left): Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer
-- [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4810852/7-billion-dollar-settlement-roundup-weed-killer-cancer/) (lean-right): Nationwide settlement for $7 billion approved over Roundup cancer claims
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss) (center): Deal with EU not dependent on tuition fees agreement, Miliband says
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696) (center): EU, Indonesia officially sign 'ambitious' trade deal
+- [Deutsche Welle](https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-rdf) (center): EU and Indonesia sign trade deal
 
 
-## 7. Pedestrian killed by vehicle on South Tryon Street in Charlotte
-`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+## 7. Concord holds tree lighting under heavy security a year after shooting
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
 
-A pedestrian was hit and killed by a vehicle Friday evening on South Tryon Street near West Arrowood Road in Charlotte, near the Shops at Whitehall Commons. Medics pronounced the person dead at the scene, and Charlotte-Mecklenburg Police are investigating. South Tryon was closed between West Arrowood Road and I-485. The victim has not been identified, and it is not known whether the driver faces charges.
+Downtown Concord, North Carolina, held its annual Christmas tree lighting under heightened security, one year after a shooting at the event wounded four teenagers. Police patrolled on horseback, on bicycles and on foot, with roadblocks around the area, and the event ended at 9 p.m. without major problems. Residents and merchants said they felt safe and praised the community's resilience. The town's Christmas parade follows with a heavy police presence expected.
 
 **Key facts**
-- The crash occurred on the 8000 block of South Tryon Street near West Arrowood Road.
-- The victim was pronounced dead at the scene.
-- WBTV notes another deadly pedestrian crash near Arrowood Road on November 11.
+- Last year's shooting wounded four teenagers, and at least two others were accused of firing.
+- The tree lighting took place at 8 p.m. and was followed by fireworks.
+- The Christmas parade is scheduled for 2:30 p.m. the next day.
 
 **How it's being framed**
-- **Center:** All four local TV outlets reported the basic facts. WBTV added context on a recent string of pedestrian crashes in the region and city council calls for street safety measures.
+- **Center:** The local TV stations framed it as a community reclaiming a tradition, centred on residents' and business owners' voices and the visible security.
 
-**Disputed or unclear**
-- Reported times vary: about 6:20 or 6:30 p.m. per medics and WSOC, versus about 7:30 p.m. per WBTV.
-- Outlets describe the location as either south or southwest Charlotte.
-- The circumstances of the crash and the driver's status are not known.
-
-**Why it matters:** The crash adds to a series of pedestrian deaths in the Charlotte area that is prompting calls for safer streets.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/21/person-hit-killed-by-vehicle-near-south-charlotte-shopping-center-police-say/) (center): Person hit, killed by vehicle near south Charlotte shopping center, police say
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/cmpd-investigating-after-person-fatal-hit-by-car-southwest-charlotte/WVCSACX4TBEKRDTGZGDMDOKPU4/) (center): CMPD investigating after person fatally hit by car in southwest Charlotte
-- [Queen City News (FOX 46)](https://www.qcnews.com/traffic/person-struck-and-killed-by-vehicle-in-sw-charlotte-medic/) (center): Person struck and killed by vehicle in SW Charlotte; South Tryon closed
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/pedestrian-hit-killed-southwest-charlotte/275-8260ea41-ea1c-4ae9-aa26-ff594ec7e90c) (center): Pedestrian hit, killed by car in southwest Charlotte
-
-
-## 8. Holiday tree lightings held in Concord under tight security and at Fox News in New York
-`Charlotte Local` · Covered by 2 outlets (L 0 · C 1 · R 1)
-
-Two separate tree-lighting events took place Friday. In Concord, North Carolina, the annual downtown tree lighting went ahead without major problems under heavy security, one year after a shooting at the event wounded four teenagers. In New York, Fox News Media held its seventh annual All-American Christmas Tree Lighting with first lady Melania Trump. She discussed her foster-care initiative and what Fox described as her role in a Russia-Ukraine ceasefire in Oleshky. Concord's Christmas parade is scheduled for Saturday with a heavy police presence.
-
-**Key facts**
-- The Concord event ended at 9 p.m. without major problems, with mounted, bicycle and foot patrols.
-- Last year's Concord shooting wounded four teenagers.
-- The Fox tree is 50 feet tall with 18,000 ornaments.
-- The White House Christmas theme is 'America in Bloom,' and the tree arrives Monday.
-
-**How it's being framed**
-- **Center:** WSOC focused on community resilience and safety in Concord, quoting families and business owners.
-- **Right:** Fox News covered its own network event, highlighting the first lady's remarks on peace, foster care and the White House decorations.
-
-**Disputed or unclear**
-- The first lady's role in the Oleshky ceasefire is described only by Fox News and the first lady herself.
-
-**Why it matters:** The Concord event tested whether stepped-up security could restore a community tradition after last year's violence.
+**Why it matters:** It shows how a community is approaching public events after violence at a holiday gathering.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/concord-increases-security-christmas-tree-lighting-1-year-after-shooting/IM7322HRPZFD5J3XCQ2VQ7TTKA/) (center): Concord residents celebrate holiday tree lighting one year after shooting
-- [Fox News](https://www.foxnews.com/media/fox-news-media-kicks-off-holiday-season-seventh-annual-all-american-christmas-tree-lighting) (right): FOX News Media kicks off holiday season with seventh annual All-American Christmas Tree Lighting
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/community/concord-brings-back-annual-tree-lighting-one-year-after-shooting/275-84377e2f-4047-43a2-9f33-0911fa4dd44c) (center): Concord brings back annual tree lighting one year after shooting disrupted celebration
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/cabarrus-county/concord/concord-tree-lighting-event-more-safe-and-secure-one-year-after-shooting-left-4-injured/) (center): Concord tree lighting event more safe and secure one year after shooting left 4 injured
 
 
-## 9. Freight train derailment near Sejong suspends some South Korean rail services
+## 8. Bus mounts pavement near Seoul's Hongik University Station, injuring six
 `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Five cars of a 21-car freight train derailed early Saturday at Sojeong-ri Station in Sejong after its automatic emergency brake activated. The derailment broke a support pole and overhead power lines, cutting power between Cheonan and Jeonui stations. Saemaeul and Mugunghwa passenger services between Daejeon and Cheonan were suspended, while KTX high-speed trains were unaffected. No casualties were reported. KORAIL is running buses over the affected section and will investigate the cause.
+A bus veered onto the pavement and hit a structure near Hongik University Station in Seoul around 6:57 p.m. on Saturday, following a collision involving another bus and a sedan. Six people were taken to hospitals. No deaths or serious injuries were reported. Police and fire authorities are investigating the cause.
 
 **Key facts**
-- The derailment happened at 5:37 a.m., about 120 km south of Seoul.
-- No casualties were reported.
-- KTX services run on separate tracks and were not affected.
+- Six people were injured.
+- No deaths or serious injuries were reported.
+- The crash happened in a busy entertainment district.
 
 **How it's being framed**
-- **Center:** Yonhap and the Korea Herald, which ran Yonhap copy, gave identical factual reports.
+- **Center:** Yonhap and The Korea Herald, which republished Yonhap's report, gave an identical factual account.
 
 **Disputed or unclear**
-- The cause of the derailment is under investigation.
+- The exact cause of the accident is under investigation.
 
-**Why it matters:** The derailment disrupted conventional rail travel on a key central corridor of South Korea's rail network.
+**Why it matters:** It is a safety incident in one of Seoul's busiest nightlife areas.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261121000451315) (center): (LEAD) Freight train derails near Sejong, leaving Saemaeul, Mugunghwa services suspended
-- [The Korea Herald](https://www.koreaherald.com/article/10944600) (center): Freight train derails near Sejong, leaving Saemaeul, Mugunghwa services suspended
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261121002151315) (center): (LEAD) Bus rams into pavement near Hongik University Station, injuring 6
+- [The Korea Herald](https://www.koreaherald.com/article/10944837) (center): Bus rams into pavement near Hongik University Station, injuring 6
 
 
-## 10. Trump says Korean Peninsula 'dangers' were discussed at summit with Xi and Putin
-`Korea` `US Headlines` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+## 9. Anthropic shares fall on second day after record IPO, as attention turns to OpenAI
+`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-President Trump said Friday that 'confronting dangers on the Korean Peninsula' and 'stopping the killing in Ukraine' were discussed at his three-way summit with Xi Jinping and Vladimir Putin. The summit was held Thursday in Shenzhen on the sidelines of APEC. He did not explain what he meant by the dangers.
+Anthropic raised about $81 billion in its Nasdaq IPO, pricing at $83 a share, above its expected range. The stock rose 17% on its first trading day Thursday, then fell roughly 9% on Friday. Analysts on CNBC said the debut highlights investor anxiety over AI valuations and a possible bubble, though one called the deal an achievement in a volatile market. The Korea Herald reported that the listing may set a valuation benchmark for OpenAI, which has confidentially filed IPO paperwork, while noting both firms' large computing costs.
 
 **Key facts**
-- The summit took place Thursday in Shenzhen, China, alongside the APEC forum.
-- Trump made the remarks at a White House press conference.
+- IPO priced at $83 per share, above the $70-$78 range, with 980 million shares offered.
+- Including a $26 billion private share sale, the total deal value was $107.34 billion, according to The Korea Herald.
+- Anthropic reported third-quarter revenue of $16.8 billion, up 45% from the prior quarter, per Reuters.
+- OpenAI's third-quarter operating loss widened to $10.9 billion, per Reuters citing the WSJ.
 
 **How it's being framed**
-- **Center:** Yonhap and the Korea Herald, which ran Yonhap copy, reported the brief remark without additional analysis.
+- **Center:** CNBC framed the IPO as caught in a broader correction in AI and tech stocks, quoting ETF strategists on valuation worries and noting an analyst's tongue-in-cheek risk warning about AI wiping out humanity. The Korea Herald focused on what the debut means for a possible OpenAI listing and on profitability questions.
 
 **Disputed or unclear**
-- What specific 'dangers' were discussed, and whether anything was agreed, is unclear.
+- Whether Anthropic's valuation is justified is debated among analysts.
+- Friday's decline is reported as 9% by CNBC and 8.5% (to $88.91) by The Korea Herald.
+- The timing of an OpenAI IPO is unconfirmed.
 
-**Why it matters:** Any US-China-Russia discussion of the Korean Peninsula could affect security in the region.
+**Why it matters:** The stock's performance is a test of how markets value AI companies and could shape future listings.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261121000700315) (center): Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin
-- [The Korea Herald](https://www.koreaherald.com/article/10944597) (center): Trump says 'confronting dangers on Korean Peninsula' discussed at 3-way summit with Xi, Putin
+- [CNBC](https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html) (center): Why Anthropic's blockbuster IPO couldn't escape the stock market correction
+- [The Korea Herald](https://www.koreaherald.com/article/10944733) (center): Anthropic IPO success boosts hopes for OpenAI listing
+
+
+## 10. Man charged with second-degree murder after shooting at Monroe convenience store
+`Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Police in Monroe, North Carolina, charged Luis Zazocoteco, 22, with second-degree murder after Jose Francisco Barcelo Suarez was fatally shot at Sammy's Mini Mart on Sunset Drive just before midnight. Police said the shooting began with a physical altercation between the two men at the store. A third man, Khalil Hailey, 34, was not involved but allegedly fired a gun into the air and was charged as a felon in possession of a firearm. The investigation continues.
+
+**Key facts**
+- Zazocoteco was arrested Saturday, Nov. 21.
+- Both men were held at the Union County Detention Center.
+- Hailey faces a charge of possession of a firearm by a felon.
+
+**How it's being framed**
+- **Center:** Local stations relayed the police account without additional framing.
+
+**Disputed or unclear**
+- Police did not say who fired the fatal shot, though an arrest warrant alleges Zazocoteco killed Suarez.
+- When Suarez died was not immediately clear.
+
+**Why it matters:** It is a fatal shooting in the Charlotte region with charges still developing.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/21/man-charged-with-murder-after-deadly-shooting-monroe-convenience-store-police-say/) (center): Man charged with murder after deadly shooting at Monroe convenience store, police say
+- [Queen City News (FOX 46)](https://www.qcnews.com/crime-and-public-safety/two-men-charged-after-physical-altercation-leads-to-fatal-shooting-in-monroe-police/) (center): Man charged with murder after physical altercation leads to fatal shooting in Monroe: Police
 
 
 ---
@@ -292,5 +283,4 @@ President Trump said Friday that 'confronting dangers on the Korean Peninsula' a
 
 ### What is happening with AI regulation in the US and EU?
 
-The only matching article is a New York Post opinion piece whose available text says only that Gavin Newsom is quick to seize political opportunities with his AI safety plan; it gives no details of the plan. Nothing in today's articles addresses EU regulation. Related US items elsewhere in this edition: the Justice Department backed OpenAI's fair-use position in AI copyright litigation (s2), and the administration issued new rules restricting remote access to advanced US chips (mentioned in s1).
-- [New York Post](https://nypost.com/2026/11/20/opinion/gavin-newsoms-big-plan-for-ai-safety-has-a-sinister-edge/) (lean-right): Gavin Newsom’s big plan for AI safety has a sinister edge
+🆕 A Fox News op-ed reports that the US Justice Department filed a statement of interest backing OpenAI's argument that training AI on copyrighted news articles is fair use, in the lawsuit brought by The New York Times and others. The author says this departs from the more balanced White House AI framework and from G20 principles stressing copyright's role. The same piece references a Fox News poll in which voters rank AI safeguards ahead of innovation. No articles in this edition address EU AI regulation.
