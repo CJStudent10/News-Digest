@@ -1,0 +1,310 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-22T18:41:29.301312+00:00",
+  "local_time": "Sunday, November 22, 2026 · 1:41 PM EST",
+  "local_date": "Nov 22, 2026",
+  "slug": "2026-11-22-1341-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A pretty easygoing edition: a Charlotte restaurant drew a line against AI-made band flyers, Wyclef Jean has a Kingston-recorded reggae album on the way, and an Oakland rapper is back on his old corner handing out Thanksgiving turkeys for the 22nd time. There's also some sports heartache for Man United and Patriots fans, a Grammy debate in Jamaica, and a couple of interesting health studies, with honest caveats attached.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Pochettino's Man United debut ends in a 4-0 loss at Liverpool",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Mauricio Pochettino's first game as Manchester United manager went badly. Liverpool scored twice in the first 13 minutes and won 4-0 at Anfield on Sunday. United played most of the match with ten men after Leny Yoro got a red card, a call that's being described as controversial.",
+      "key_facts": [
+        "Final score: Liverpool 4, Manchester United 0",
+        "Leny Yoro was sent off after just 8 minutes",
+        "United remain second from bottom in the Premier League"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A tough first day for a new manager, and it leaves United with plenty of work to do near the bottom of the table.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Man Utd boss Pochettino suffers nightmare start in Liverpool rout",
+          "url": "https://www.jamaicaobserver.com/2026/11/22/man-utd-boss-pochettino-suffers-nightmare-start-liverpool-rout/",
+          "published": "2026-11-22T18:32:51+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Wyclef Jean's Kingston reggae album lands December 11",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Wyclef Jean and producer Tom \"Panic\" Jones wrote and recorded 'One Night in Kingston' in less than a week with live Jamaican musicians, then spent almost three years picking the right moment to release it. Wyclef says he wants to bring back reggae with a message, and he calls Jones \"my Chris Blackwell,\" a nod to the Island Records founder who helped take Bob Marley global.",
+      "key_facts": [
+        "Seven tracks plus a bonus track, recorded at The Compound in Kingston",
+        "Features Jada Kingdom, Luciano, Stonebwoy and Lila Iké",
+        "It's the reggae part of Wyclef's seven-album 'Quantum Leap' project",
+        "Wyclef and Jones have been friends since their teens"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a fun story of a long friendship turning into music, and one to add to your December listening.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘Panic is my Chris Blackwell’: Wyclef’s Kingston connection fuels reggae album",
+          "url": "https://www.jamaicaobserver.com/2026/11/22/panic-chris-blackwell-wyclefs-kingston-connection-fuels-reggae-album/",
+          "published": "2026-11-22T18:02:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Jamaican senator calls for more government accountability",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Opposition Senator Kisha Anderson told the Senate during the State of the Nation Debate that the Government practices accountability \"only when it is convenient.\" She pointed to Jamaica's own track record: since 2013, IMF targets, fiscal rules and a private sector-led oversight committee helped cut public debt from 147% of GDP.",
+      "key_facts": [
+        "Remarks made Friday in the 2026/27 State of the Nation Debate",
+        "Public debt stood at 147% of GDP in 2013",
+        "2014 fiscal rules set a target of 60% of GDP by 2025/26",
+        "Anderson credited the Economic Programme Oversight Committee (EPOC) with boosting transparency"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a reminder that Jamaica has turned its finances around before, and that keeping track of how public money is spent is part of that.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Opposition senator questions Government’s commitment to accountability",
+          "url": "https://www.jamaicaobserver.com/2026/11/22/opposition-senator-questions-governments-commitment-accountability/",
+          "published": "2026-11-22T17:42:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Jamaica Premier League games paused over unpaid referee fees",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Every JPL match this weekend has been postponed while league organisers and the referees' association work out a dispute over unpaid fees. According to sources, referees are still owed millions of dollars, and both sides say they want to settle it amicably.",
+      "key_facts": [
+        "All JPL matches this weekend were postponed",
+        "Referees are reportedly owed millions of dollars",
+        "Talks are ongoing over the money owed and future payment dates"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Fans will want to keep an eye on the talks, since the league can't play until the referees are back.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "JPL matches postponed over unpaid referee fees",
+          "url": "https://www.jamaicaobserver.com/2026/11/22/jpl-matches-postponed-unpaid-referee-fees/",
+          "published": "2026-11-22T17:12:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Charlotte's Diamond restaurant says: human-made band flyers only",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "As of Sunday, the Diamond in Plaza Midwood won't accept AI-generated flyers from bands booking shows there. Its Instagram post put it simply: you need a \"REAL flyer made by a REAL human. We can tell.\" The post went viral and was shared hundreds of times.",
+      "key_facts": [
+        "The policy started November 22",
+        "It applies to bands promoting shows at the venue",
+        "The restaurant says human creativity should come first"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a small, local stand for human artists, and plenty of people online clearly liked it.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Plaza Midwood restaurant bans AI flyers",
+          "url": "https://www.wsoctv.com/news/local/plaza-midwood-restaurant-bans-ai-flyers/LJ7DTYPW4JC4DODGUZFWCYAW4U/",
+          "published": "2026-11-22T12:18:30+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Plaza Midwood restaurant takes stand against AI flyers",
+          "url": "https://www.qcnews.com/charlotte/plaza-midwood-restaurant-takes-stand-against-ai-flyers/",
+          "published": "2026-11-22T00:55:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Should dancehall get its own Grammy?",
+      "topics": [
+        "Jamaica",
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Notable dancehall albums from Vybz Kartel, Beenie Man, Masicka and others were left out of this year's Best Reggae Album nominations, and that has revived calls for a separate dancehall category. Some people would rather rename the category 'Reggae/Dancehall,' as Canada's JUNO Awards just did. Others say there aren't yet enough dancehall releases each year to justify a category of its own.",
+      "key_facts": [
+        "Nominees include Buju Banton, Protoje, Runkus, Chronixx, Ziggy Marley and Shaggy",
+        "Reggae submissions rose to 119 this year, up from 73",
+        "Attorney Lloyd Stanbury supports a separate dancehall category",
+        "Ce'Cile says more Jamaican creatives should become Recording Academy voting members"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Claims that the Grammys are biased against dancehall come from fans on social media and haven't been substantiated",
+        "The report that the reggae category was nearly cut a few years ago is described as an allegation"
+      ],
+      "why": "Reggae submissions jumped this year, and the debate shows how much Jamaican music has grown and branched out.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "A separate Grammy category for dancehall?",
+          "url": "https://www.jamaicaobserver.com/2026/11/22/separate-grammy-category-dancehall/",
+          "published": "2026-11-22T05:16:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Patriots QB Drake Maye out at least six weeks",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Drake Maye fractured his right fibula in the Patriots' loss to Detroit in Munich and is expected to miss at least six weeks. The good news is that he reportedly won't need surgery. Tommy DeVito is expected to start when the 5-5 Patriots play the Chargers on November 29.",
+      "key_facts": [
+        "The injury happened in a 35-10 loss to the Lions on Nov. 15",
+        "Maye has 2,330 yards and 18 touchdowns in 10 games",
+        "Coach Vrabel: \"I have a lot of confidence in Tommy\""
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "The Patriots' playoff push now depends on how the backups handle the next stretch of games.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Patriots Get Troubling Drake Maye Injury Timeline Amid Playoff Push",
+          "url": "https://www.newsweek.com/sports/nfl/patriots-get-troubling-drake-maye-injury-timeline-amid-playoff-push-12754125",
+          "published": "2026-11-22T18:34:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Charlotte housing activist renames his group, keeps the mission",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Kenny Robinson's Freedom Fighting Missionaries is now called the New Chapter Alliance. The work is the same: helping formerly incarcerated people and low-income seniors find secure, affordable housing.",
+      "key_facts": [
+        "New name: New Chapter Alliance",
+        "Robinson spoke with WSOC's Joe Bruno about housing stability in Charlotte"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a local group still working to give people a stable place to live.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte activist is still fighting housing instability despite rebrand",
+          "url": "https://www.wsoctv.com/news/local/charlotte-activist-is-still-fighting-housing-instability-despite-rebrand/G56MX6TYXJFGNCIZK4RIHQ455E/",
+          "published": "2026-11-22T17:30:00+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 9,
+    "right": 0
+  },
+  "stats": {
+    "articles": 136,
+    "stories_found": 125,
+    "sources_ok": 22,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News",
+      "Fierce Pharma"
+    ]
+  }
+}
