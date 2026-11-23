@@ -1,0 +1,791 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-23T22:55:44.376626+00:00",
+  "local_time": "Monday, November 23, 2026 · 5:55 PM EST",
+  "local_date": "Nov 23, 2026",
+  "slug": "2026-11-23-1755-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "Nvidia's board reinstated Jensen Huang as CEO after President Trump said he intervened, drawing bipartisan criticism in Congress, while the Commerce Department moved to blacklist Megaspeed, the Singapore firm at the centre of the spy allegations. Elsewhere, Ukraine said it sank a Russian warship in Libya, Rep. Jimmy Gomez said he will resign after a House Ethics report, and Trump paused a planned Army detonation in Iowa pending court and governor-elect approval. Also covered: Charlotte's Thanksgiving Eve parade cancellation, holiday food costs, a US bid to recover crypto stolen by North Korean hackers, India's aid package for Nepal, and a South Korean fight over impeaching the chief justice.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia reinstates Jensen Huang as CEO after Trump says he intervened",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "Nvidia's board voted unanimously on Monday to restore Jensen Huang as president and CEO, less than two weeks after he resigned on Nov. 12 over reported affairs, including one with Alice Huang, a former Megaspeed executive whom US officials reportedly believe is a Chinese intelligence asset. The board said it consulted senior US government officials and concluded his return 'poses no national security risk.' President Trump told CNBC he 'convinced' the board and 'made the deal,' and the New York Times reported that Vice President JD Vance played a key role in the talks. Lawmakers from both parties criticised the decision, and Huang is expected to testify before Congress. Nvidia said an independent board investigation will continue, and it plans a new national security and export control committee and a chief compliance officer.",
+      "key_facts": [
+        "Huang resigned on Nov. 12 and was reinstated on Nov. 23 by a unanimous board vote.",
+        "Nvidia shares rose about 32% on Monday, adding more than $1tn in market value, after falling roughly a quarter following his resignation (Guardian).",
+        "Interim CEO Colette Kress returns to her role as CFO; Harvey Jones remains board chair.",
+        "House Democratic leader Hakeem Jeffries called the reinstatement 'indefensible, irresponsible and incomprehensible'; Republican Rep. Don Bacon said Nvidia 'should have moved on without Huang.'",
+        "China has denied that Alice Huang is a spy and called the accusations a 'smear.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian led with Trump's direct intervention ('I made the deal') and the board's reversal, set out the market swings, and quoted Trump saying the attorney general felt Huang was 'exonerated.' A separate Guardian timeline traced the Megaspeed backstory, the chip-diversion suspicions and reports of three affairs."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald focused on Nvidia's official statement and what stability at the top means for Korean partners such as Samsung, SK hynix and Hyundai. Axios emphasised the bipartisan backlash, quoting Sen. John Cornyn ('No national security risk? Based on what') and noting Democrats will gain investigative power in January."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller highlighted bipartisan congressional anger at Trump's involvement, quoting Jeffries, Bacon and Rep. Brian Mast on national security concerns. Fox Business instead focused on supporters, leading with Elon Musk's 'The mistake has been corrected,' a 150,000-signature 'bring Jensen back' campaign, and Trump calling Huang a 'Great Patriot and National Treasure.'"
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang is a Chinese intelligence asset: US officials reportedly believe so; China denies it.",
+        "The basis for the board's and the government's conclusion that Huang poses no national security risk has not been made public; Sen. Cornyn questioned it.",
+        "Trump said the government had no evidence of unlawful conduct by Huang and that the attorney general considered him 'exonerated'; the board's own investigation is still ongoing.",
+        "The number of affairs: the Guardian cites reports of three, including two with Nvidia employees, while other outlets mention two.",
+        "The Daily Caller identifies Brian Mast as chair of the House Intelligence Committee in one passage and quotes him as chair of House Foreign Affairs in another."
+      ],
+      "why": "The leader of the world's most valuable AI chipmaker is back after a national-security scandal, with the president claiming credit and Congress preparing investigations.",
+      "coverage": {
+        "left": 7,
+        "center": 9,
+        "right": 2
+      },
+      "n_outlets": 18,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia reinstates Jensen Huang as CEO after scandal-driven exit",
+          "url": "https://www.koreaherald.com/article/10946708",
+          "published": "2026-11-23T14:19:42+00:00"
+        },
+        {
+          "source": "The Guardian (Asia-Pacific)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "A timeline of Jensen Huang’s affair scandal, from quitting Nvidia to his return",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+          "published": "2026-11-23T19:30:02+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Both Sides Of Congress Upset Trump Put Thumb On Scale To Reinstate Jensen Huang As Nvidia CEO",
+          "url": "https://dailycaller.com/2026/11/23/jensen-huang-congress-reinstated-nvidia",
+          "published": "2026-11-23T19:06:12+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill",
+          "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
+          "published": "2026-11-23T19:54:48+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+          "published": "2026-11-23T22:23:40+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Elon Musk issues 5-word reaction to Jensen Huang’s reinstatement",
+          "url": "https://www.foxbusiness.com/fox-news-tech/elon-musk-issues-5-word-reaction-jensen-huangs-reinstatement",
+          "published": "2026-11-23T18:55:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Ukraine says its naval drones sank a Russian corvette at a Libyan port",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Ukraine said seven domestically made naval drones, launched from a mothership, struck the Russian corvette Merkury at the Benghazi naval base in eastern Libya early Sunday, sinking it. A second vessel, the cargo ship MV Angara, which Zelenskyy said was used to carry weapons, was also hit. President Zelenskyy called the operation 'exemplary,' and the Kremlin declined to comment, saying the Defence Ministry would provide information. The UN mission in Libya called for an independent investigation, and the head of Libya's eastern-based government asked the UN to check whether the drones came from western Libya. Separately, NATO is sending an AWACS surveillance aircraft to Poland after Russian missiles crashed there on Friday.",
+      "key_facts": [
+        "Seven Ukrainian naval drones were used; the Merkury, commissioned in 2023, sank and a Ka-27 helicopter aboard was destroyed, according to Zelenskyy.",
+        "The strike took place about 2,400km (1,500 miles) from the front line.",
+        "The UN Support Mission in Libya said the country 'must not become a battleground for foreign conflicts.'",
+        "A Russian strike on an apartment block near Kyiv killed 11 people, regional police said."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian detailed the operation and Putin's personal attachment to the Merkury, and described Libya as a proxy battlefield, citing earlier reports of Ukrainian activity there. NPR placed the strike alongside Russian strikes that killed civilians in Ukraine and new EU sanctions proposals."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and The Hill centred on Zelenskyy's claim and the video footage. CNBC included satellite imagery and the UN mission's concern. DW folded the strike into a wider update led by NATO's response to Russian missiles in Poland and German Chancellor Merz's remarks."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News quoted Zelenskyy's statement at length and noted that the strikes came as Trump pushes for peace. It listed earlier maritime incidents beyond the Black Sea and included the Libyan eastern government's call for a UN probe."
+        }
+      ],
+      "disputed": [
+        "Where the drones were launched from: Libya's eastern government suspects western Libya, and Libyan authorities previously denied hosting Ukrainian drone operations.",
+        "Russia has not confirmed the sinking or the damage.",
+        "Accounts of Friday's incident in Poland differ: DW reports three Russian missiles in one passage and two missiles plus a drone in another."
+      ],
+      "why": "The war is increasingly reaching far beyond Ukraine, drawing in third countries such as Libya and testing NATO's eastern flank.",
+      "coverage": {
+        "left": 4,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 9,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
+          "url": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-23T07:42:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+          "published": "2026-11-23T11:42:51+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Zelenskyy hails ‘exemplary Ukrainian operation’ sinking Russian warship off Libya",
+          "url": "https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya",
+          "published": "2026-11-23T12:35:40+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+          "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
+          "published": "2026-11-23T13:28:15+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+          "published": "2026-11-23T10:16:33+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ukraine was behind attack on Russian warship off Libya: Zelensky",
+          "url": "https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/",
+          "published": "2026-11-23T18:01:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Rep. Jimmy Gomez to resign after House Ethics report finds sexual misconduct",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The House Ethics Committee released a 19-page report finding 'substantial evidence' that Rep. Jimmy Gomez, a California Democrat, made unwelcome sexual advances and sexual contact toward a House staffer on two occasions. Gomez said he has 'strong disagreements' with the findings but will resign on Dec. 1; he had already lost his re-election bid and was due to leave in January. The committee said his conduct 'could implicate' D.C. criminal sexual assault laws but did not recommend a specific sanction. Gomez has not been charged and has said his conduct was consensual.",
+      "key_facts": [
+        "Gomez will resign Dec. 1; he lost his seat to fellow Democrat Angela Gonzales-Torres.",
+        "The investigation was announced in August.",
+        "The report said Gomez's conduct reflects 'a broader environment of sexual misconduct and toxic working conditions in some Capitol Hill offices.'",
+        "House Democratic leaders Jeffries, Clark and Aguilar said it is 'appropriate that he is stepping down.'"
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS/AP covered the report's findings and Gomez's response, quoted Democratic leaders' call for rule reform, and set the case within a series of misconduct cases involving members of both parties, listing Republicans such as Tony Gonzales, Chuck Edwards, Cory Mills and Max Miller."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and The Hill gave a straightforward account of the report and Gomez's resignation statement, citing CBS."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News led with the report's warning that the conduct could implicate criminal sexual assault law, and noted Gomez's ties to 'disgraced' former Rep. Eric Swalwell and his founding of the Congressional Dads Caucus. The Washington Examiner included the staffer's detailed account and her lawyers' statement, and noted resignations in both parties."
+        }
+      ],
+      "disputed": [
+        "Gomez disputes the committee's conclusions and maintains the encounters were consensual; the staffer's lawyers call it sexual assault.",
+        "No criminal charges have been filed."
+      ],
+      "why": "The case adds to a wave of misconduct findings that is driving changes to how the House handles harassment by its members.",
+      "coverage": {
+        "left": 3,
+        "center": 2,
+        "right": 3
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T21:51:23+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+          "published": "2026-11-23T22:21:45+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Dem lawmaker to resign after report says he made 'unwelcome' sexual advances toward staffer",
+          "url": "https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds",
+          "published": "2026-11-23T21:06:34+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat Gomez resigns from House after sexual misconduct report",
+          "url": "https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/",
+          "published": "2026-11-23T21:13:55+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+          "url": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
+          "published": "2026-11-23T22:11:09+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Democratic Rep. Jimmy Gomez to resign after House Ethics finds evidence of sexual misconduct",
+          "url": "https://www.washingtonexaminer.com/news/house/4812984/house-ethics-jimmy-gomez-sexual-misconduct/",
+          "published": "2026-11-23T21:33:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Trump pauses Army plan to detonate lead azide in Iowa pending court and governor-elect approval",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump said he ordered the Army not to detonate 68 barrels of degraded lead azide at the Iowa Army Ammunition Plant in Middletown until the Eighth Circuit Court of Appeals approves, and made the decision subject to Iowa Governor-elect Rob Sand's agreement. The blast, rescheduled several times and most recently set for Wednesday, faces a lawsuit from the Sierra Club and Iowa Environmental Council challenging the EPA's emergency permit, which the court has temporarily stayed. The Army says a controlled blast is safer than a spontaneous explosion as falling temperatures make the crystals more sensitive, and it warned of a possible lead dust plume of up to 100 miles. Trump said he would hold Sand responsible for 'any and all death or destruction' if the operation doesn't proceed.",
+      "key_facts": [
+        "68 barrels of degraded lead azide are stored at the plant near Middletown, population about 400.",
+        "The Eighth Circuit temporarily froze the EPA emergency permit issued Nov. 13.",
+        "The Justice Department told the court the Army would invoke an emergency exemption to proceed.",
+        "Sand does not take office until Jan. 12, 2027."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS emphasised health risks ('no amount of lead exposure is safe'), poor communication with residents, and a fact-check of Trump blaming the Obama administration. The Guardian and Al Jazeera detailed the legal fight and included both the Army's safety rationale and Trump's warning to Sand."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via WBTV), Axios and The Hill focused on Trump's deferral and his blame on Sand, quoting Sand's questions about a cancelled removal contract, an Earthjustice lawyer calling the post confusing, and state officials' frustration over transparency."
+        }
+      ],
+      "disputed": [
+        "Responsibility for the deterioration: Trump blamed the Obama administration for 2009 storage, while Iowa Public Radio reported an Army explosives project dating to 2004.",
+        "Whether the Army will still invoke emergency powers given Trump's order; the Army had no immediate comment.",
+        "The quantity reported differs: about 9,500lb (PBS, Guardian) versus about 9,700lb (Al Jazeera).",
+        "Al Jazeera at one point calls Sand an 'incoming Democratic Senator'; other outlets identify him as governor-elect."
+      ],
+      "why": "Residents face either a planned release of toxic lead dust or the risk of an uncontrolled explosion, while the decision is caught between the courts and politics.",
+      "coverage": {
+        "left": 3,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval",
+          "url": "https://www.wbtv.com/2026/11/23/trump-tells-army-hold-off-lead-azide-detonation-iowa/",
+          "published": "2026-11-23T18:36:14+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+          "url": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
+          "published": "2026-11-23T22:05:00+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump presses pause on Army's Iowa lead detonation",
+          "url": "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
+          "published": "2026-11-23T19:22:03+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
+          "url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles",
+          "published": "2026-11-23T20:01:41+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump says courts, incoming Iowa gov should sign off on lead detonation",
+          "url": "https://thehill.com/policy/energy-environment/6237960-trump-iowa-lead-detonation-rob-sand/",
+          "published": "2026-11-23T19:05:27+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+          "published": "2026-11-23T22:22:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Charlotte's Thanksgiving Eve parade cancelled over wind and rain forecast",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte Center City Partners cancelled the 80th Novant Health Thanksgiving Eve Parade, which had been scheduled for Wednesday, Nov. 25, in Uptown. Organizers cited forecast high winds, rain and low temperatures, and said dozens of parade units had already withdrawn. Ticket holders will receive automatic full refunds.",
+      "key_facts": [
+        "The National Weather Service forecast a 100% chance of rain Wednesday evening, with gusts up to about 31 mph and temperatures in the 40s.",
+        "Organizers normally hold the parade 'rain or shine' but called this year 'exceptional circumstances.'",
+        "Ticket refunds will be automatic."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE reported the cancellation with the CEO's statement and the specific NWS forecast."
+        },
+        {
+          "lean": "center",
+          "framing": "Local TV outlets reported the same facts, emphasising safety risks to balloons, floats and equipment. The Hill noted that a wider Northeast 'bomb cyclone' could threaten other holiday parades."
+        }
+      ],
+      "disputed": [],
+      "why": "A long-running Charlotte holiday tradition is off this year, and the same weather may affect Thanksgiving travel.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte’s 2026 Thanksgiving eve parade cancelled due to weather",
+          "url": "https://www.wbtv.com/2026/11/23/charlottes-2026-thanksgiving-eve-parade-cancelled-due-weather/",
+          "published": "2026-11-23T21:43:40+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Bad weather forecast forces cancellation of Thanksgiving Eve Parade",
+          "url": "https://www.wfae.org/charlotte-area/2026-11-23/bad-weather-forecast-forces-cancellation-of-thanksgiving-eve-parade",
+          "published": "2026-11-23T21:59:20+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte’s Thanksgiving Eve parade canceled due to expected bad weather",
+          "url": "https://www.wsoctv.com/news/local/charlottes-thanksgiving-eve-parade-canceled-due-expected-bad-weather/XNKCCNTPBBF4DBYLGPSDDCCZPE/",
+          "published": "2026-11-23T21:44:37+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Organizers cancel Charlotte Thanksgiving Eve parade",
+          "url": "https://www.qcnews.com/charlotte/organizers-cancel-charlotte-thanksgiving-eve-parade/",
+          "published": "2026-11-23T21:41:09+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Carolina Thanksgiving week forecast: Fog, brisk winds, and midweek rain expected",
+          "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+          "published": "2026-11-23T17:16:16+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Northeast braces for ‘bomb cyclone’ during Thanksgiving travel",
+          "url": "https://thehill.com/homenews/state-watch/6238573-northeast-braces-for-bomb-cyclone-during-thanksgiving-travel/",
+          "published": "2026-11-23T22:16:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Commerce Department moves to blacklist Megaspeed, the firm tied to the Nvidia scandal",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "The Commerce Department moved Monday to add Singapore-based Megaspeed to its Entity List, which bars US companies from supplying it with goods or technology without a license. The firm is suspected of diverting Nvidia AI chips to China in violation of export controls, and a former executive, Alice Huang, is alleged to be a Chinese spy who had a relationship with Nvidia CEO Jensen Huang. The Justice Department leads a criminal probe of the company. Commerce Secretary Howard Lutnick has faced criticism for not blacklisting the company sooner.",
+      "key_facts": [
+        "Commerce opened its Megaspeed probe in 2024; Nvidia put Megaspeed on its 'no sell' list in June 2025 (Fox Business).",
+        "US and Singaporean officials conducted an on-site check at Megaspeed in June 2025 and interviewed Alice Huang.",
+        "Megaspeed's CEO said the company 'takes its compliance obligations under U.S. export control laws extremely seriously.'",
+        "Alibaba is Megaspeed's largest customer (BBC)."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The BBC described it as an intended ban with no stated start date and included China's warning against a 'technological blockade.' DW emphasised political criticism of Lutnick and Jeffries' vow to investigate. The Hill noted the listing was published in the Federal Register."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business framed it as Trump administration action, set out the investigation timeline from the joint Commerce-Justice statement, and included Megaspeed's compliance statement."
+        }
+      ],
+      "disputed": [
+        "When the listing takes effect: the BBC said timing was not specified, while others report the company has been added.",
+        "How long Commerce had been investigating: 'almost two years' (BBC) versus 'more than a year' (DW, citing the FT).",
+        "Fox Business reports Nvidia's website still lists Megaspeed as a preferred cloud partner, despite the 2025 'no sell' designation."
+      ],
+      "why": "The move tests how strictly the US enforces AI chip export controls against China, and raises questions about why it took this long.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T22:45:51+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump admin adds Megaspeed to Commerce Department trade blacklist after Nvidia scandal",
+          "url": "https://www.foxbusiness.com/politics/trump-admin-adds-megaspeed-commerce-department-trade-blacklist-after-nvidia-scandal",
+          "published": "2026-11-23T22:19:10+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
+          "url": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-23T22:35:00+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Commerce Department adds Megaspeed to trade backlist amid Nvidia scandal",
+          "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
+          "published": "2026-11-23T22:45:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Thanksgiving meal costs rise about 6% as a Rock Hill church prepares 1,200 free meals",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "The American Farm Bureau estimates a classic Thanksgiving dinner for 10 costs about $58.63 this year, up more than 6%, driven largely by turkey prices. The Wells Fargo Agri-Food Institute, however, estimates the average food bill could come in slightly lower thanks to promotions. In Rock Hill, S.C., Illumine Church volunteers are preparing about 1,200 meals for families struggling with costs, and a local charity reports seeing new clients from higher income brackets.",
+      "key_facts": [
+        "A 16-pound frozen turkey costs about $23.68, up around 10% (Farm Bureau).",
+        "Grocery costs have risen nearly 22% over five years, according to federal data (NPR).",
+        "53% of LendingTree survey respondents said inflation is affecting their holiday plans.",
+        "Meals will be delivered Thursday; people in need can call (803) 810-9398."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "NPR attributed higher food prices partly to wars, Trump administration tariffs and weather, and presented the conflicting Farm Bureau and Wells Fargo estimates along with consumer reactions."
+        },
+        {
+          "lean": "center",
+          "framing": "WBTV focused on the Farm Bureau numbers, noting they remain below the 2022 record. WSOC focused on the local church effort and charity workers' accounts of financial strain."
+        }
+      ],
+      "disputed": [
+        "Whether the overall Thanksgiving bill is actually higher this year: the Farm Bureau says up 6%, while Wells Fargo says slightly cheaper."
+      ],
+      "why": "Holiday food costs are a visible measure of household strain for many families.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Church prepares 1,200 Thanksgiving meals",
+          "url": "https://www.wsoctv.com/news/local/church-prepares-1200-thanksgiving-meals/OHLBJ6GCFBFMHHMSUESVIYUG6E/",
+          "published": "2026-11-23T22:44:52+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+          "published": "2026-11-23T10:00:00+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Feeding 10 for Thanksgiving? Here’s what the classic meal could cost",
+          "url": "https://www.wbtv.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/",
+          "published": "2026-11-23T17:03:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Justice Department moves to seize $1.1bn in crypto tied to North Korean Binance hack",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "The Justice Department filed a civil forfeiture action targeting more than $1.1 billion in USDC stablecoin it says are proceeds of the roughly $6 billion Oct. 29 hack of Binance, which the FBI attributes to North Korea. The hack reportedly began when an employee downloaded malware during a fake job interview. The FBI, Secret Service and IRS are investigating with help from Circle, which issues USDC.",
+      "key_facts": [
+        "The action covers USDC held in 36 addresses across 18 blockchain networks.",
+        "The Binance hack occurred around Oct. 29 and took roughly $6 billion.",
+        "Officials quoted: M. Scott Proctor of DOJ National Security and US Attorney Jeanine Pirro."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap gave a straightforward account based on the DOJ press release."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business added details on how the breach happened and quoted Pirro's pledge to 'go toe-to-toe with our adversaries.'"
+        }
+      ],
+      "disputed": [
+        "The total frozen or recovered so far is reported as more than $2.9 billion (Yonhap) versus more than $3 billion (Fox Business)."
+      ],
+      "why": "It is one of the largest US efforts to claw back crypto stolen by a state-backed hacking group.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "U.S. takes action to recover over US$1.1 bln in cryptocurrency stolen by N. Korean hackers",
+          "url": "https://en.yna.co.kr/view/AEN20261124000800315",
+          "published": "2026-11-23T22:11:31+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "US moves to recover over $1B in crypto stolen by North Korean hackers in Binance heist",
+          "url": "https://www.foxbusiness.com/fox-news-tech/us-recover-1b-crypto-stolen-north-korean-hackers-binance-heist",
+          "published": "2026-11-23T20:39:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "India pledges about $1.6bn to Nepal during new PM Balendra Shah's first visit",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "On his first bilateral trip abroad since taking office in March, Nepal's 36-year-old Prime Minister Balendra Shah met Indian Prime Minister Narendra Modi in New Delhi. Modi announced a roughly $1.6 billion package for flood reconstruction and infrastructure, mostly a credit line for energy projects plus a grant. The leaders agreed to cooperate on trade, education and connectivity and jointly launched a cross-border train service. The long-running border dispute was largely absent from public remarks, though the joint statement acknowledged outstanding issues.",
+      "key_facts": [
+        "The package is 240 billion Nepali rupees, about $1.6bn: roughly $377m in grants and about $1.24bn in credit.",
+        "Nepal estimates flood reconstruction could cost about $4.8bn.",
+        "India supplies more than 60% of Nepal's imports (World Bank, via Al Jazeera)."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera emphasised the scale of the aid, climate change as the cause of the floods, and India's competition with China for influence in Nepal."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and DW framed the visit as a reset of strained ties and included analysts' views that Nepal wanted more, that the border dispute was set aside, and that economic cooperation should remain the focus."
+        }
+      ],
+      "disputed": [
+        "Flood toll figures vary by outlet: deaths of more than 1,300, 1,400 or 1,450, and 5,000 to 5,745 missing.",
+        "Whether shelving the border dispute will cost Shah politically at home."
+      ],
+      "why": "The deal signals a warmer India-Nepal relationship under Nepal's new leader, in a region where India and China compete for influence.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+          "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-23T14:49:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+          "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal",
+          "published": "2026-11-23T18:12:55+00:00"
+        },
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "India pledges $1.6bn to Nepal in reset of ties",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T13:39:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "South Korea's ruling party pushes to impeach Supreme Court chief justice",
+      "topics": [
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "South Korea's ruling Democratic Party plans to introduce an impeachment motion against Chief Justice Cho Hee-dae on Dec. 3, the second anniversary of the 2024 martial law bid. The push follows the Supreme Court overturning a 15-year sentence for former Prime Minister Han Duck-soo. The party cites the court's handling of President Lee Jae Myung's election law case and alleged misuse of official funds. The opposition People Power Party says the aim is to block Lee's criminal trials, and some Democrats have also objected.",
+      "key_facts": [
+        "The motion is planned for Dec. 3 and would go straight to a plenary vote, bypassing the judiciary committee.",
+        "The Supreme Court sent Han Duck-soo's case back to the Seoul High Court on Thursday.",
+        "The DP dropped the Han ruling from its stated grounds amid concerns that a ruling alone cannot justify impeachment."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald and Yonhap ran essentially identical reports quoting both parties' leaders, as well as DP Rep. Kwak Sang-eon's internal dissent."
+        }
+      ],
+      "disputed": [
+        "Whether the cited grounds legally justify impeachment is disputed, including within the ruling party.",
+        "The PPP's claim that the motive is to stop Lee's trials is an allegation the DP rejects."
+      ],
+      "why": "The fight tests judicial independence and the political fallout from South Korea's 2024 martial law crisis.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rival parties clash over DP's push to impeach Supreme Court chief",
+          "url": "https://www.koreaherald.com/article/10946700",
+          "published": "2026-11-23T13:32:28+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rival parties clash over DP's push to impeach Supreme Court chief",
+          "url": "https://en.yna.co.kr/view/AEN20261123009300315",
+          "published": "2026-11-23T08:08:33+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "The only matching article covers CrowdStrike's planned $43.9bn purchase of Zscaler, a business deal rather than regulation. Separately, this edition's Nvidia and Megaspeed stories touch on US AI chip export controls, but nothing addresses AI regulation in the US or EU directly.",
+      "links": [
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
+          "url": "https://therecord.media/crowdstrike-zscaler",
+          "published": "2026-11-23T17:14:00+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 12,
+    "center": 25,
+    "right": 7
+  },
+  "stats": {
+    "articles": 611,
+    "stories_found": 409,
+    "sources_ok": 38,
+    "sources_total": 39,
+    "failed": [
+      "Newsweek"
+    ]
+  }
+}

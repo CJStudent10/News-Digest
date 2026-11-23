@@ -1,0 +1,82 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-23T22:57:07.715565+00:00",
+  "local_time": "Monday, November 23, 2026 · 5:57 PM EST",
+  "local_date": "Nov 23, 2026",
+  "slug": "2026-11-23-1757-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Thanksgiving week is here, and it's bringing pricier turkeys, a soggy, windy midweek storm, and a canceled parade in Charlotte. There's good news too: Jamaica will help host the 2031 Women's World Cup, the FDA approved a new breast cancer pill, and a Rock Hill church is cooking 1,200 holiday meals for neighbors. Nvidia's boss is also back in charge after a dramatic couple of weeks.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Thanksgiving dinner costs a bit more, and one church is feeding 1,200",
+      "topics": [
+        "US Headlines",
+        "Charlotte"
+      ],
+      "summary": "The American Farm Bureau says a classic Thanksgiving dinner for 10 costs about 6% more than last year, with turkey leading the rise. Wells Fargo's food institute thinks careful shoppers using sales could still come out slightly ahead. In Rock Hill, S.C., Illumine Church volunteers are shredding turkeys to deliver about 1,200 free meals on Thanksgiving Day.",
+      "key_facts": [
+        "Farm Bureau estimate: about $58.63 for 10 people (about $5.86 each), below 2022's record of $64.05",
+        "A 16-pound frozen turkey averages about $23.68, up around 10%",
+        "LendingTree survey: 51% plan to host this year, down from 59% last year",
+        "Rock Hill families who need a meal can call (803) 810-9398"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Sticking to a list and shopping the deals can help, and about 100 Rock Hill volunteers are making sure their neighbors get a holiday plate.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Church prepares 1,200 Thanksgiving meals",
+          "url": "https://www.wsoctv.com/news/local/church-prepares-1200-thanksgiving-meals/OHLBJ6GCFBFMHHMSUESVIYUG6E/",
+          "published": "2026-11-23T22:44:52+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+          "published": "2026-11-23T10:00:00+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Feeding 10 for Thanksgiving? Here’s what the classic meal could cost",
+          "url": "https://www.wbtv.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/",
+          "published": "2026-11-23T17:03:59+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 2,
+    "right": 0
+  },
+  "stats": {
+    "articles": 308,
+    "stories_found": 255,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

@@ -1,296 +1,295 @@
 # My Daily Brief: Evening edition
-_Sunday, November 22, 2026 · 10:09 PM EST · 380 articles from 38 outlets · summaries by Claude_
+_Monday, November 23, 2026 · 5:55 PM EST · 611 articles from 38 outlets · summaries by Claude_
 
-> Democrats have secured at least 258 House seats after a recount flipped a North Carolina seat, their largest House majority since 1992, setting up divided government for the rest of Trump's term. Abroad, the COP31 climate talks in Turkey ended without a main agreement over whether to mention fossil fuels, and a Russian warship sank in a Libyan port after a suspected drone attack. Also in this edition: a deadly factory fire in Indonesia, a South Korean minister's resignation over AI-cheating measures, and the US intelligence chief's Sunday interviews on Putin and recent tech outages.
+> Nvidia's board reinstated Jensen Huang as CEO after President Trump said he intervened, drawing bipartisan criticism in Congress, while the Commerce Department moved to blacklist Megaspeed, the Singapore firm at the centre of the spy allegations. Elsewhere, Ukraine said it sank a Russian warship in Libya, Rep. Jimmy Gomez said he will resign after a House Ethics report, and Trump paused a planned Army detonation in Iowa pending court and governor-elect approval. Also covered: Charlotte's Thanksgiving Eve parade cancellation, holiday food costs, a US bid to recover crypto stolen by North Korean hackers, India's aid package for Nepal, and a South Korean fight over impeaching the chief justice.
 
 
-**Sources linked in this edition:** 14 left · 21 center · 7 right
+**Sources linked in this edition:** 12 left · 25 center · 7 right
 
 ---
 
-## 1. Democrats reach 258 House seats after North Carolina recount
-`Charlotte Local` `US Headlines` · Covered by 7 outlets (L 3 · C 3 · R 1)
+## 1. Nvidia reinstates Jensen Huang as CEO after Trump says he intervened
+`AI & Cybersecurity` `US Headlines` · Covered by 18 outlets (L 7 · C 9 · R 2)
 
-Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx in North Carolina's 5th District after a recount, bringing House Democrats to at least 258 seats and a gain of 44 seats in the midterms. That ties the party's 1992 total and gives it its largest House majority in more than three decades. Foxx conceded, and both candidates issued conciliatory statements. With Democrats also winning a 56-seat Senate majority, leaders say they are preparing a 100-day agenda on the cost of living and broad oversight of the Trump administration. Four House races remain: one each in Tennessee and Minnesota, and two Louisiana races headed to a December runoff.
-
-**Key facts**
-- Democrats hold at least 258 seats and Republicans at least 173, with four races uncalled in the 435-member House.
-- Democrats gained 44 seats, more than the 40 they gained in 2018.
-- Hubbard won 48.7% to Foxx's 48.6% (AP), a margin the BBC put at 330 votes.
-- Senate Democrats won a 56-seat majority.
-- Hakeem Jeffries is poised to become the first Black speaker when the new Congress convenes in January.
-
-**How it's being framed**
-- **Left:** The Guardian and PBS (AP) framed the result as a mandate that brings pressure to deliver. They quoted Rep. Jason Crow on urgency and DNC chair Ken Martin on voters being 'fed up' with Trump. They described voters as angry over high prices, the Iran war and corruption.
-- **Center:** Newsweek, the BBC and The Hill focused on the historical comparison and Foxx's gracious concession, along with Jeffries' agenda on affordability, the Iran war, Medicaid and SNAP. The BBC added that Trump and Vance blamed war-driven inflation for Republican losses, and noted that Trump can still veto legislation.
-- **Right:** The Washington Examiner ran a brief factual report on the 'historic marker', citing AP vote percentages, with no added commentary.
-
-**Disputed or unclear**
-- Outlets describe the record differently: 'largest this century' (Jeffries, Newsweek), 'largest since 1992', or matching the 1992 total.
-- Four House races are still undecided, so the final seat count could change.
-
-**Why it matters:** The size of the majority shapes how much legislation and oversight Democrats can push during Trump's final two years, although his veto remains.
-
-**Read it yourself:**
-- [Newsweek](https://www.newsweek.com/democrats-house-chuck-hubbard-majority-win-midterms-republicans-12754533) (center): Democrats Secure Largest House Majority of 21st Century
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep) (lean-left): Democrats capture at least 258 House seats in largest sweep since 1992
-- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4811677/democrats-258-house-seats-largest-majority-three-decades/) (lean-right): Democrats clinch 258 House seats to mark largest majority in over three decades
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss) (center): Democrats win largest House majority since 1992 after flipping North Carolina seat
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992) (lean-left): Democrats clinch a historic House majority of at least 258 seats, the largest since 1992
-- [The Hill](https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/) (center): Democrats secure largest House majority in election in three decades
-
-
-## 2. COP31 climate talks in Turkey end without main agreement
-· Covered by 8 outlets (L 4 · C 3 · R 1)
-
-UN climate talks in Antalya, Turkey, ended without adopting an overarching 'cover decision'. The EU, the UK, Panama, the Marshall Islands, Norway and others rejected a draft that did not mention fossil fuels. The draft, from co-presidents Turkey and Australia, referenced the 2023 Dubai outcome and backed carbon capture and storage, but did not call for a transition away from coal, oil and gas. Russia supported leaving fossil fuels out, and a Saudi representative reportedly backed the carbon-removal language. Turkish COP president Murat Kurum acknowledged there was no consensus, although some narrower decisions, such as one on a 'just transition', were passed.
+Nvidia's board voted unanimously on Monday to restore Jensen Huang as president and CEO, less than two weeks after he resigned on Nov. 12 over reported affairs, including one with Alice Huang, a former Megaspeed executive whom US officials reportedly believe is a Chinese intelligence asset. The board said it consulted senior US government officials and concluded his return 'poses no national security risk.' President Trump told CNBC he 'convinced' the board and 'made the deal,' and the New York Times reported that Vice President JD Vance played a key role in the talks. Lawmakers from both parties criticised the decision, and Huang is expected to testify before Congress. Nvidia said an independent board investigation will continue, and it plans a new national security and export control committee and a chief compliance officer.
 
 **Key facts**
-- The talks ran about two days past their scheduled Friday end, the longest overtime in COP history.
-- Fox Business reported it is the first COP without an overarching deal since Copenhagen in 2009.
-- Speaking for the EU, Ireland's Darragh O'Brien called a deal without a fossil fuel reference 'unconscionable'.
-- UN Secretary-General Antonio Guterres said he was 'deeply disappointed'.
+- Huang resigned on Nov. 12 and was reinstated on Nov. 23 by a unanimous board vote.
+- Nvidia shares rose about 32% on Monday, adding more than $1tn in market value, after falling roughly a quarter following his resignation (Guardian).
+- Interim CEO Colette Kress returns to her role as CFO; Harvey Jones remains board chair.
+- House Democratic leader Hakeem Jeffries called the reinstatement 'indefensible, irresponsible and incomprehensible'; Republican Rep. Don Bacon said Nvidia 'should have moved on without Huang.'
+- China has denied that Alice Huang is a spy and called the accusations a 'smear.'
 
 **How it's being framed**
-- **Left:** The Guardian and PBS (AP) centred the objecting countries and climate advocates, such as Climate Analytics calling it a 'line in the sand'. The Guardian also quoted Power Shift Africa accusing the EU of hypocrisy for expanding fossil fuels at home.
-- **Center:** The Korea Herald (AP), DW and the BBC emphasised the chaotic process: the short window for objections, a hot-mic moment in which Kurum told UN climate chief Simon Stiell to 'sit down', and the African Group's complaint of disrespect. DW added the human cost through a Save the Children adviser and Germany's case for electrification.
-- **Right:** Fox Business framed it as a 'collapse' driven by disputes over fossil fuels, carbon capture and multi-trillion-dollar finance demands. It detailed draft targets and noted a Saudi delegate's surprise at resistance to carbon removal.
+- **Left:** The Guardian led with Trump's direct intervention ('I made the deal') and the board's reversal, set out the market swings, and quoted Trump saying the attorney general felt Huang was 'exonerated.' A separate Guardian timeline traced the Megaspeed backstory, the chip-diversion suspicions and reports of three affairs.
+- **Center:** The Korea Herald focused on Nvidia's official statement and what stability at the top means for Korean partners such as Samsung, SK hynix and Hyundai. Axios emphasised the bipartisan backlash, quoting Sen. John Cornyn ('No national security risk? Based on what') and noting Democrats will gain investigative power in January.
+- **Right:** The Daily Caller highlighted bipartisan congressional anger at Trump's involvement, quoting Jeffries, Bacon and Rep. Brian Mast on national security concerns. Fox Business instead focused on supporters, leading with Elon Musk's 'The mistake has been corrected,' a 150,000-signature 'bring Jensen back' campaign, and Trump calling Huang a 'Great Patriot and National Treasure.'
 
 **Disputed or unclear**
-- Reported carbon capture targets differ: 1 billion tonnes (AP) versus 500 million tonnes a year by 2035 rising to 1.3–2.5 gigatonnes (Fox Business, citing a Nov. 19 draft). These may reflect different drafts.
-- Panama's minister accused a 'petroleum mafia' of holding the talks hostage, and an EU representative accused some oil states of hijacking them. These are accusations, not established findings.
+- Whether Alice Huang is a Chinese intelligence asset: US officials reportedly believe so; China denies it.
+- The basis for the board's and the government's conclusion that Huang poses no national security risk has not been made public; Sen. Cornyn questioned it.
+- Trump said the government had no evidence of unlawful conduct by Huang and that the attorney general considered him 'exonerated'; the board's own investigation is still ongoing.
+- The number of affairs: the Guardian cites reports of three, including two with Nvidia employees, while other outlets mention two.
+- The Daily Caller identifies Brian Mast as chair of the House Intelligence Committee in one passage and quotes him as chair of House Foreign Affairs in another.
 
-**Why it matters:** The failure leaves unclear whether the 2023 pledge to transition away from fossil fuels still has momentum in UN talks.
+**Why it matters:** The leader of the world's most valuable AI chipmaker is back after a national-security scandal, with the president claiming credit and Congress preparing investigations.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10945295) (center): Confusion at climate talks as final deal offered doesn't mention fossil fuels
-- [The Guardian (World)](https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected) (lean-left): Cop31 climate talks break down as key deal rejected
-- [Fox Business](https://www.foxbusiness.com/energy/un-cop31-climate-summit-collapses-turkey-fossil-fuels) (lean-right): UN climate summit collapses in Turkey over fossil fuels, carbon capture and climate finance
-- [Deutsche Welle](https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf) (center): COP31: Climate deal 'not adopted,' summit president says
-- [PBS NewsHour](https://www.pbs.org/newshour/world/in-their-own-words-leaders-at-un-climate-talks-discuss-why-negotiations-ended-without-deal) (lean-left): In their own words: Leaders at UN climate talks discuss why negotiations ended without deal
-- [BBC News (World)](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss) (center): What's next after no deal at COP31 climate talks?
+- [The Korea Herald](https://www.koreaherald.com/article/10946708) (center): Nvidia reinstates Jensen Huang as CEO after scandal-driven exit
+- [The Guardian (Asia-Pacific)](https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline) (lean-left): A timeline of Jensen Huang’s affair scandal, from quitting Nvidia to his return
+- [The Daily Caller](https://dailycaller.com/2026/11/23/jensen-huang-congress-reinstated-nvidia) (right): Both Sides Of Congress Upset Trump Put Thumb On Scale To Reinstate Jensen Huang As Nvidia CEO
+- [Axios](https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction) (center): Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive) (lean-left): Jensen Huang reinstated as Nvidia CEO after Trump intervenes
+- [Fox Business](https://www.foxbusiness.com/fox-news-tech/elon-musk-issues-5-word-reaction-jensen-huangs-reinstatement) (lean-right): Elon Musk issues 5-word reaction to Jensen Huang’s reinstatement
 
 
-## 3. Fire at Indonesian candy factory kills at least three, dozens missing
-`Asia Business & Politics` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 2. Ukraine says its naval drones sank a Russian corvette at a Libyan port
+`US Headlines` · Covered by 9 outlets (L 4 · C 4 · R 1)
 
-A fire broke out on Saturday evening at the PT Fonusa Agung Mulia candy factory in Cikande, Serang, near Jakarta. The plant is part of United Family Food, which makes Milkita candies. Police removed 24 body bags, but the death toll is unclear because remains could not be identified visually and one bag may hold parts of more than one person. DNA identification could take two to three weeks. The search, suspended overnight, was set to resume Monday, and the cause of the fire is under investigation.
+Ukraine said seven domestically made naval drones, launched from a mothership, struck the Russian corvette Merkury at the Benghazi naval base in eastern Libya early Sunday, sinking it. A second vessel, the cargo ship MV Angara, which Zelenskyy said was used to carry weapons, was also hit. President Zelenskyy called the operation 'exemplary,' and the Kremlin declined to comment, saying the Defence Ministry would provide information. The UN mission in Libya called for an independent investigation, and the head of Libya's eastern-based government asked the UN to check whether the drones came from western Libya. Separately, NATO is sending an AWACS surveillance aircraft to Poland after Russian missiles crashed there on Friday.
 
 **Key facts**
-- About 300 people were on the Saturday shift, and the company says 65 were in the affected area.
-- The company said 24 of those workers returned home, four were in treatment, 29 were missing and eight were unconfirmed.
-- Police recovered 24 body bags, and at least three deaths were reported.
-- Survivors told local media the fire started at a cooling unit on the third floor.
+- Seven Ukrainian naval drones were used; the Merkury, commissioned in 2023, sank and a Ka-27 helicopter aboard was destroyed, according to Zelenskyy.
+- The strike took place about 2,400km (1,500 miles) from the front line.
+- The UN Support Mission in Libya said the country 'must not become a battleground for foreign conflicts.'
+- A Russian strike on an apartment block near Kyiv killed 11 people, regional police said.
 
 **How it's being framed**
-- **Left:** Al Jazeera gave a factual account and placed the fire among other recent deadly fires and explosions in Indonesia.
-- **Center:** CNA highlighted the CEO's statement that the factory held regular drills and had compliant safety systems, alongside the DNA identification process. The BBC relied on rescue agency and governor figures and quoted a fire official who said he could not tell whether the protection system worked.
-- **Right:** Fox News stressed the scale of the destruction and the risk of reignition, and framed the fire as part of a string of industrial fires raising workplace safety concerns.
+- **Left:** The Guardian detailed the operation and Putin's personal attachment to the Merkury, and described Libya as a proxy battlefield, citing earlier reports of Ukrainian activity there. NPR placed the strike alongside Russian strikes that killed civilians in Ukraine and new EU sanctions proposals.
+- **Center:** CNBC and The Hill centred on Zelenskyy's claim and the video footage. CNBC included satellite imagery and the UN mission's concern. DW folded the strike into a wider update led by NATO's response to Russian missiles in Poland and German Chancellor Merz's remarks.
+- **Right:** Fox News quoted Zelenskyy's statement at length and noted that the strikes came as Trump pushes for peace. It listed earlier maritime incidents beyond the Black Sea and included the Libyan eastern government's call for a UN probe.
 
 **Disputed or unclear**
-- Missing counts vary: 29 plus 8 unconfirmed (company), about 36 (BBC), and a figure of 50 cited by the owner. The governor said about 60 people were inside.
-- The final death toll is unknown pending DNA identification.
-- The CEO's claim that safety systems complied with standards and were working has not been verified. A fire official said he could not determine whether they functioned.
-- Al Jazeera placed the factory in West Java province, while other outlets say Banten province.
+- Where the drones were launched from: Libya's eastern government suspects western Libya, and Libyan authorities previously denied hosting Ukrainian drone operations.
+- Russia has not confirmed the sinking or the damage.
+- Accounts of Friday's incident in Poland differ: DW reports three Russian missiles in one passage and two missiles plus a drone in another.
 
-**Why it matters:** The toll is likely to rise, and the fire adds to scrutiny of industrial safety in Indonesia.
+**Why it matters:** The war is increasingly reaching far beyond Ukraine, drawing in third countries such as Libya and testing NATO's eastern flank.
 
 **Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/indonesia-factory-fire-search-resume-body-bags-victims-6573141) (center): Search for Indonesia factory fire missing to resume on Nov 23, as police remove 24 body bags
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site) (lean-left): Indonesian police remove 24 body bags from factory fire site
-- [Fox News (World)](https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing) (right): Indonesia candy factory fire leaves multiple dead, dozens missing
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss) (center): Three killed and dozens missing after fire at Indonesian factory
+- [Deutsche Welle](https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf) (center): Ukraine updates: Kyiv claims strike that sank Russian ship off Libya
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya) (lean-left): Ukraine confirms it used naval drones to strike two Russian ships off Libya
+- [Fox News (World)](https://www.foxnews.com/world/zelenskyy-hails-exemplary-ukrainian-operation-sinking-russian-warship-libya) (right): Zelenskyy hails ‘exemplary Ukrainian operation’ sinking Russian warship off Libya
+- [CNBC](https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html) (center): Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port
+- [NPR](https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya) (lean-left): Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya
+- [The Hill](https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/) (center): Ukraine was behind attack on Russian warship off Libya: Zelensky
 
 
-## 4. Senator-elect El-Sayed discusses 'TrumpCare' and Israel on Meet the Press
-`US Headlines` · Covered by 4 outlets (L 1 · C 1 · R 2)
+## 3. Rep. Jimmy Gomez to resign after House Ethics report finds sexual misconduct
+`US Headlines` · Covered by 8 outlets (L 3 · C 2 · R 3)
 
-Michigan Democratic Sen.-elect Abdul El-Sayed said on NBC's Meet the Press that he would be fine naming a single-payer 'Medicare for All' bill 'TrumpCare' if the president would sign it. He said that, unlike Bernie Sanders' plan, he is not focused on eliminating private insurance. In the same interview, he said he does not 'believe in ethno-states' and that Israel must choose between being a Jewish state and a democratic one. Host Kristen Welker challenged him by noting that 43 countries identify with a religion. He also said he has a meeting scheduled with Vice President JD Vance.
+The House Ethics Committee released a 19-page report finding 'substantial evidence' that Rep. Jimmy Gomez, a California Democrat, made unwelcome sexual advances and sexual contact toward a House staffer on two occasions. Gomez said he has 'strong disagreements' with the findings but will resign on Dec. 1; he had already lost his re-election bid and was due to leave in January. The committee said his conduct 'could implicate' D.C. criminal sexual assault laws but did not recommend a specific sanction. Gomez has not been charged and has said his conduct was consensual.
 
 **Key facts**
-- El-Sayed is the first Muslim elected to the US Senate, according to The Guardian.
-- Quote: 'I don't really care what it's called' (on naming the healthcare bill).
-- Quote: 'I don't believe in ethno-states... I'm just trying to apply my ideals evenly.'
-- Trump appeared to repost El-Sayed's 'TrumpCare' post but has not formally responded.
+- Gomez will resign Dec. 1; he lost his seat to fellow Democrat Angela Gonzales-Torres.
+- The investigation was announced in August.
+- The report said Gomez's conduct reflects 'a broader environment of sexual misconduct and toxic working conditions in some Capitol Hill offices.'
+- House Democratic leaders Jeffries, Clark and Aguilar said it is 'appropriate that he is stepping down.'
 
 **How it's being framed**
-- **Left:** The Guardian focused on the healthcare pitch, his 'Trump card' wordplay, his differences with Sanders and the Vance meeting, and noted Trump's habit of having things named after him. It did not cover the Israel remarks.
-- **Center:** The Hill led with the TrumpCare naming comments.
-- **Right:** Fox News and the New York Post led with his comments questioning Israel as a Jewish state. They quoted a rabbi from the Coalition for Jewish Values criticising him and cited his past remarks about antisemitism concerns. They did not cover the healthcare comments.
+- **Left:** The Guardian and PBS/AP covered the report's findings and Gomez's response, quoted Democratic leaders' call for rule reform, and set the case within a series of misconduct cases involving members of both parties, listing Republicans such as Tony Gonzales, Chuck Edwards, Cory Mills and Max Miller.
+- **Center:** The BBC and The Hill gave a straightforward account of the report and Gomez's resignation statement, citing CBS.
+- **Right:** Fox News led with the report's warning that the conduct could implicate criminal sexual assault law, and noted Gomez's ties to 'disgraced' former Rep. Eric Swalwell and his founding of the Congressional Dads Caucus. The Washington Examiner included the staffer's detailed account and her lawyers' statement, and noted resignations in both parties.
 
 **Disputed or unclear**
-- It is unclear whether Trump would back a single-payer plan.
-- The agenda of El-Sayed's meeting with Vance has not been disclosed.
+- Gomez disputes the committee's conclusions and maintains the encounters were consensual; the staffer's lawyers call it sexual assault.
+- No criminal charges have been filed.
 
-**Why it matters:** An incoming senator's positions on healthcare and Israel will shape debates within the new Democratic majority.
+**Why it matters:** The case adds to a wave of misconduct findings that is driving changes to how the House handles harassment by its members.
 
 **Read it yourself:**
-- [The Hill](https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/) (center): El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called’
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name) (lean-left): Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’
-- [Fox News](https://www.foxnews.com/media/abdul-el-sayed-suggests-israel-should-not-be-jewish-state-opposes-ethno-states) (right): Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes ‘ethno-states’
-- [New York Post](https://nypost.com/2026/11/22/us-news/michigan-dem-el-sayed-questions-israel-place-as-a-jewish-state/) (lean-right): Michigan Dem El-Sayed questions Israel’s place as a Jewish state — opposes ‘ethno-states’
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss) (center): California Democrat to resign from Congress after evidence of sexual misconduct
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct) (lean-left): Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct
+- [Fox News](https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds) (right): Dem lawmaker to resign after report says he made 'unwelcome' sexual advances toward staffer
+- [The Hill](https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/) (center): Democrat Gomez resigns from House after sexual misconduct report
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer) (lean-left): Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer
+- [Washington Examiner](https://www.washingtonexaminer.com/news/house/4812984/house-ethics-jimmy-gomez-sexual-misconduct/) (lean-right): Democratic Rep. Jimmy Gomez to resign after House Ethics finds evidence of sexual misconduct
 
 
-## 5. Panthers beat Ravens 35-33 and extend NFC South lead
-`Charlotte Local` · Covered by 4 outlets (L 1 · C 3 · R 0)
+## 4. Trump pauses Army plan to detonate lead azide in Iowa pending court and governor-elect approval
+`US Headlines` · Covered by 8 outlets (L 3 · C 5 · R 0)
 
-The Carolina Panthers beat the Baltimore Ravens 35-33 in Charlotte, winning on a late field goal and an interception with 33 seconds left. Bryce Young threw two touchdowns and Chuba Hubbard ran for 120 yards and two scores. Combined with losses by Tampa Bay and New Orleans, Carolina (5-5) now leads the division by two games. The Ravens (4-7) have lost six straight, and Derrick Henry left to be evaluated for a concussion. Carolina plays at Tampa Bay on Monday, Nov. 30.
+President Trump said he ordered the Army not to detonate 68 barrels of degraded lead azide at the Iowa Army Ammunition Plant in Middletown until the Eighth Circuit Court of Appeals approves, and made the decision subject to Iowa Governor-elect Rob Sand's agreement. The blast, rescheduled several times and most recently set for Wednesday, faces a lawsuit from the Sierra Club and Iowa Environmental Council challenging the EPA's emergency permit, which the court has temporarily stayed. The Army says a controlled blast is safer than a spontaneous explosion as falling temperatures make the crystals more sensitive, and it warned of a possible lead dust plume of up to 100 miles. Trump said he would hold Sand responsible for 'any and all death or destruction' if the operation doesn't proceed.
 
 **Key facts**
-- Final score was 35-33, with seven lead changes.
-- Rookie Will Lee III forced two fumbles and broke up the final pass.
-- It is Carolina's first two-game NFC South lead since the end of the 2015 season.
-- Hubbard joined Christian McCaffrey as the only Panthers with 1,000 scrimmage yards and 10 touchdowns through 10 games.
+- 68 barrels of degraded lead azide are stored at the plant near Middletown, population about 400.
+- The Eighth Circuit temporarily froze the EPA emergency permit issued Nov. 13.
+- The Justice Department told the court the Army would invoke an emergency exemption to proceed.
+- Sand does not take office until Jan. 12, 2027.
 
 **How it's being framed**
-- **Left:** WFAE focused on coach Dave Canales' message about handling pressure and on Bryce Young's praise of rookie Will Lee.
-- **Center:** WBTV, WSOC and Queen City News carried AP's play-by-play account, the standings implications and injury news.
+- **Left:** PBS emphasised health risks ('no amount of lead exposure is safe'), poor communication with residents, and a fact-check of Trump blaming the Obama administration. The Guardian and Al Jazeera detailed the legal fight and included both the Army's safety rationale and Trump's warning to Sand.
+- **Center:** AP (via WBTV), Axios and The Hill focused on Trump's deferral and his blame on Sand, quoting Sand's questions about a cancelled removal contract, an Earthjustice lawyer calling the post confusing, and state officials' frustration over transparency.
 
 **Disputed or unclear**
-- The kicker's name appears as Ryan Fitzgerald (AP) and Ryan Fitzpatrick (WFAE).
+- Responsibility for the deterioration: Trump blamed the Obama administration for 2009 storage, while Iowa Public Radio reported an Army explosives project dating to 2004.
+- Whether the Army will still invoke emergency powers given Trump's order; the Army had no immediate comment.
+- The quantity reported differs: about 9,500lb (PBS, Guardian) versus about 9,700lb (Al Jazeera).
+- Al Jazeera at one point calls Sand an 'incoming Democratic Senator'; other outlets identify him as governor-elect.
 
-**Why it matters:** Carolina is now in a strong position to win the division again.
+**Why it matters:** Residents face either a planned release of toxic lead dust or the risk of an uncontrolled explosion, while the decision is caught between the courts and politics.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/23/bryce-young-chuba-hubbard-help-panthers-add-nfc-south-lead-with-35-33-victory-over-ravens/) (center): Bryce Young, Chuba Hubbard help Panthers add to NFC South lead with 35-33 victory over the Ravens
-- [WFAE (Charlotte NPR)](https://www.wfae.org/sports/2026-11-22/panthers-hold-off-ravens-keep-grip-on-nfc-south-lead) (lean-left): Panthers hold off Ravens, keep grip on NFC South lead
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/bryce-young-throws-2-td-passes-chuba-hubbard-scores-twice-panthers-beat-ravens-35-33/7DG7NRSVAJEQLNC4TBPOE6ISGU/) (center): Bryce Young throws 2 TD passes, Chuba Hubbard scores twice as Panthers beat Ravens 35-33
-- [Queen City News (FOX 46)](https://www.qcnews.com/nfl/carolina-panthers/panthers-win-second-straight-game-after-beating-ravens-35-33-remains-first-in-the-division/) (center): Panthers win second straight game after beating Ravens 35-33; remains first in the division
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/23/trump-tells-army-hold-off-lead-azide-detonation-iowa/) (center): Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know) (lean-left): Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know
+- [Axios](https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump) (center): Trump presses pause on Army's Iowa lead detonation
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles) (lean-left): Trump delays explosive detonation in US state of Iowa amid legal battles
+- [The Hill](https://thehill.com/policy/energy-environment/6237960-trump-iowa-lead-detonation-rob-sand/) (center): Trump says courts, incoming Iowa gov should sign off on lead detonation
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court) (lean-left): Trump defers to appeals court over army plan to detonate bomb-making material in Iowa
 
 
-## 6. US intelligence chief defends Trump calling Putin a 'friend'
-`US Headlines` `Asia Business & Politics` · Covered by 4 outlets (L 3 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 5. Charlotte's Thanksgiving Eve parade cancelled over wind and rain forecast
+`Charlotte Local` · Covered by 6 outlets (L 1 · C 5 · R 0)
 
-Director of National Intelligence Jay Clayton said on CNN and ABC that he trusts Trump 'completely' and that calling Vladimir Putin a friend was 'entirely appropriate'. He placed the remark in the context of Trump's three-way summit with Putin and Xi Jinping in Shenzhen, which he called 'historic'. Pressed on whether Putin is America's friend, Clayton said, 'He is not America's friend in Ukraine. Not at all.' Trump had posted a handshake photo captioned 'My Friend' and said on Friday, 'I can't speak to America.' Democrats and some foreign figures criticised the remarks.
+Charlotte Center City Partners cancelled the 80th Novant Health Thanksgiving Eve Parade, which had been scheduled for Wednesday, Nov. 25, in Uptown. Organizers cited forecast high winds, rain and low temperatures, and said dozens of parade units had already withdrawn. Ticket holders will receive automatic full refunds.
 
 **Key facts**
-- The Trump–Putin–Xi meeting took place on Nov. 19 on the sidelines of APEC in Shenzhen.
-- Clayton: 'In that context, whatever language the president wants to use, I trust him completely.'
-- Schumer called the summit a 'historic embarrassment'.
+- The National Weather Service forecast a 100% chance of rain Wednesday evening, with gusts up to about 31 mph and temperatures in the 40s.
+- Organizers normally hold the parade 'rain or shine' but called this year 'exceptional circumstances.'
+- Ticket refunds will be automatic.
 
 **How it's being framed**
-- **Left:** The Guardian, Al Jazeera and PBS (AP) emphasised the backlash. They quoted Schumer, Sen. Jeanne Shaheen, Reform UK's Richard Tice and Rep. Don Bacon, along with Trump's 'Russia hoax' remarks. PBS said the summit seemed 'more symbolism than substance'.
-- **Center:** The Hill gave a brief account of Clayton's interview and his trust in Trump.
+- **Left:** WFAE reported the cancellation with the CEO's statement and the specific NWS forecast.
+- **Center:** Local TV outlets reported the same facts, emphasising safety risks to balloons, floats and equipment. The Hill noted that a wider Northeast 'bomb cyclone' could threaten other holiday parades.
 
-**Disputed or unclear**
-- The substance of what the three leaders agreed is unclear. Clayton says they agreed not to escalate, while PBS described the summit as largely symbolic.
-
-**Why it matters:** It shows how the administration is describing relations with Russia while the Ukraine war continues.
+**Why it matters:** A long-running Charlotte holiday tradition is off this year, and the same weather may affect Thanksgiving travel.
 
 **Read it yourself:**
-- [The Hill](https://thehill.com/homenews/administration/6235771-clayton-trusts-trump-putin/) (center): Clayton says he trusts Trump ‘completely’ after calling Putin a friend
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend) (lean-left): US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his) (lean-left): US intelligence chief defends Trump’s comments calling Putin his ‘friend’
-- [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate) (lean-left): U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/23/charlottes-2026-thanksgiving-eve-parade-cancelled-due-weather/) (center): Charlotte’s 2026 Thanksgiving eve parade cancelled due to weather
+- [WFAE (Charlotte NPR)](https://www.wfae.org/charlotte-area/2026-11-23/bad-weather-forecast-forces-cancellation-of-thanksgiving-eve-parade) (lean-left): Bad weather forecast forces cancellation of Thanksgiving Eve Parade
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlottes-thanksgiving-eve-parade-canceled-due-expected-bad-weather/XNKCCNTPBBF4DBYLGPSDDCCZPE/) (center): Charlotte’s Thanksgiving Eve parade canceled due to expected bad weather
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/organizers-cancel-charlotte-thanksgiving-eve-parade/) (center): Organizers cancel Charlotte Thanksgiving Eve parade
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550) (center): Carolina Thanksgiving week forecast: Fog, brisk winds, and midweek rain expected
+- [The Hill](https://thehill.com/homenews/state-watch/6238573-northeast-braces-for-bomb-cyclone-during-thanksgiving-travel/) (center): Northeast braces for ‘bomb cyclone’ during Thanksgiving travel
 
 
-## 7. Russian warship sinks at Libyan port after suspected drone attack
-· Covered by 6 outlets (L 2 · C 3 · R 1)
+## 6. Commerce Department moves to blacklist Megaspeed, the firm tied to the Nvidia scandal
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 4 outlets (L 0 · C 3 · R 1)
 
-The Russian navy corvette Merkury, docked at Benghazi to refuel on its way back to Russia, was struck early Sunday in what Libya's eastern government called a suspected drone attack. Satellite images show it capsized and sunk. Hours later, a second, commercial vessel was hit by a sea drone off Benghazi, and Libyan forces reported intercepting many more drone boats. No one has claimed responsibility. Libyan officials and analysts point to Ukraine, Moscow had not commented, and the UN mission in Libya called for an independent investigation.
+The Commerce Department moved Monday to add Singapore-based Megaspeed to its Entity List, which bars US companies from supplying it with goods or technology without a license. The firm is suspected of diverting Nvidia AI chips to China in violation of export controls, and a former executive, Alice Huang, is alleged to be a Chinese spy who had a relationship with Nvidia CEO Jensen Huang. The Justice Department leads a criminal probe of the company. Commerce Secretary Howard Lutnick has faced criticism for not blacklisting the company sooner.
 
 **Key facts**
-- Satellite imagery from Vantor shows the Merkury capsized, with only its bow visible.
-- Libyan military officials said two sea drones hit the ship and at least four were intercepted.
-- Eastern Libyan PM Osama Hamad asked the UN to investigate, including whether drones were launched from western Libya.
-- On Saturday, a Russian military-linked cargo ship, Sparta II, was hit in the Baltic, and Finland's border guard said Ukraine carried out the attack.
+- Commerce opened its Megaspeed probe in 2024; Nvidia put Megaspeed on its 'no sell' list in June 2025 (Fox Business).
+- US and Singaporean officials conducted an on-site check at Megaspeed in June 2025 and interviewed Alice Huang.
+- Megaspeed's CEO said the company 'takes its compliance obligations under U.S. export control laws extremely seriously.'
+- Alibaba is Megaspeed's largest customer (BBC).
 
 **How it's being framed**
-- **Left:** The Guardian and Al Jazeera described it as a suspected Ukrainian strike that would rank among Kyiv's most successful naval attacks. They noted Haftar's alignment with Russia and the risks of widening the war.
-- **Center:** The BBC and DW stressed verified imagery, the UN's call for an investigation, the eastern government's sovereignty complaints and the Tripoli government's warning against hosting foreign forces. A RUSI analyst said he would 'bet' on Ukraine.
-- **Right:** Fox News framed it as Ukraine taking the war beyond the Black Sea. It highlighted Libyan claims that drones launched from western Libya and Hamad's demand for an explanation from Kyiv about Ukrainian experts in Libya.
+- **Center:** The BBC described it as an intended ban with no stated start date and included China's warning against a 'technological blockade.' DW emphasised political criticism of Lutnick and Jeffries' vow to investigate. The Hill noted the listing was published in the Federal Register.
+- **Right:** Fox Business framed it as Trump administration action, set out the investigation timeline from the joint Commerce-Justice statement, and included Megaspeed's compliance statement.
 
 **Disputed or unclear**
-- Responsibility is unconfirmed, and Ukraine has not claimed it.
-- Casualties are disputed: the eastern government initially said none, while Reuters sources reported 10 people with minor injuries.
-- The number of drones intercepted varies, from more than 12 to more than 20.
-- The second ship is described as Maltese-flagged, while The Guardian identified it as the Russia-linked Ascalon carrying military supplies.
+- When the listing takes effect: the BBC said timing was not specified, while others report the company has been added.
+- How long Commerce had been investigating: 'almost two years' (BBC) versus 'more than a year' (DW, citing the FT).
+- Fox Business reports Nvidia's website still lists Megaspeed as a preferred cloud partner, despite the 2025 'no sell' designation.
 
-**Why it matters:** If Ukraine is behind it, the war's naval front now reaches the Mediterranean and pulls in divided Libya.
+**Why it matters:** The move tests how strictly the US enforces AI chip export controls against China, and raises questions about why it took this long.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss) (center): Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya) (lean-left): Russian warship sinks in Benghazi after suspected Ukrainian drone attack
-- [Fox News](https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea) (right): Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea
-- [Deutsche Welle](https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-rdf) (center): Libya: Suspected drone attack hits Russian ship in Benghazi
-- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast) (lean-left): Second ship targeted in series of naval drone attacks off Libyan coast
-- [The Hill](https://thehill.com/policy/international/6235751-russian-cargo-ship-drone-attack/) (center): Russian cargo ship set ablaze in Baltic Sea drifts into Gulf of Finland
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss) (center): US to blacklist Asian AI firm Megaspeed after Nvidia scandal
+- [Fox Business](https://www.foxbusiness.com/politics/trump-admin-adds-megaspeed-commerce-department-trade-blacklist-after-nvidia-scandal) (lean-right): Trump admin adds Megaspeed to Commerce Department trade blacklist after Nvidia scandal
+- [Deutsche Welle](https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf) (center): US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist
+- [The Hill](https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/) (center): Commerce Department adds Megaspeed to trade backlist amid Nvidia scandal
 
 
-## 8. Intelligence chief warns of more tech outages as systems are upgraded
-`AI & Cybersecurity` · Covered by 3 outlets (L 0 · C 2 · R 1)
+## 7. Thanksgiving meal costs rise about 6% as a Rock Hill church prepares 1,200 free meals
+`Charlotte Local` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Director of National Intelligence Jay Clayton said on CNN that Americans should expect 'bumps in the road' as companies and government upgrade systems for the AI era. His comments followed recent outages affecting air travel, Microsoft Outlook and banking. Officials have largely dismissed a coordinated or AI cyberattack as the cause. Treasury Secretary Scott Bessent told CBS that bank security patches may cause glitches, comparing them to a vaccine.
+The American Farm Bureau estimates a classic Thanksgiving dinner for 10 costs about $58.63 this year, up more than 6%, driven largely by turkey prices. The Wells Fargo Agri-Food Institute, however, estimates the average food bill could come in slightly lower thanks to promotions. In Rock Hill, S.C., Illumine Church volunteers are preparing about 1,200 meals for families struggling with costs, and a local charity reports seeing new clients from higher income brackets.
 
 **Key facts**
-- The FAA said router upgrades caused a nationwide ground stop and saw no sign of a cyberattack.
-- Microsoft attributed the Outlook outage to an issue during a network capacity upgrade.
-- The warning comes ahead of Thanksgiving travel week.
+- A 16-pound frozen turkey costs about $23.68, up around 10% (Farm Bureau).
+- Grocery costs have risen nearly 22% over five years, according to federal data (NPR).
+- 53% of LendingTree survey respondents said inflation is affecting their holiday plans.
+- Meals will be delivered Thursday; people in need can call (803) 810-9398.
 
 **How it's being framed**
-- **Center:** CNBC and The Hill reported Clayton's and Bessent's reassurances and gave the official explanations for each outage.
-- **Right:** The Washington Examiner relayed Clayton's message that 'glitches, gaps, and interruptions' will continue as AI-driven upgrades proceed.
+- **Left:** NPR attributed higher food prices partly to wars, Trump administration tariffs and weather, and presented the conflicting Farm Bureau and Wells Fargo estimates along with consumer reactions.
+- **Center:** WBTV focused on the Farm Bureau numbers, noting they remain below the 2022 record. WSOC focused on the local church effort and charity workers' accounts of financial strain.
 
 **Disputed or unclear**
-- Officials attribute the outages to upgrades rather than attacks. The articles do not include an independent confirmation of the causes.
+- Whether the overall Thanksgiving bill is actually higher this year: the Farm Bureau says up 6%, while Wells Fargo says slightly cheaper.
 
-**Why it matters:** More disruptions could affect travel and banking during a busy holiday week.
+**Why it matters:** Holiday food costs are a visible measure of household strain for many families.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html) (center): Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/national-security/4811724/clayton-expect-tech-disruptions-remain-resilient/) (lean-right): Clayton says public should expect tech disruptions amid upgrades but remain ‘resilient’
-- [The Hill](https://thehill.com/homenews/administration/6235770-clayton-warns-infrastructure-upgrades/) (center): Clayton: Americans should prepare for system upgrades, warns of ‘bumps in the road’
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/church-prepares-1200-thanksgiving-meals/OHLBJ6GCFBFMHHMSUESVIYUG6E/) (center): Church prepares 1,200 Thanksgiving meals
+- [NPR](https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs) (lean-left): Let's talk turkey: Here's how Thanksgiving meal costs have changed this year
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/) (center): Feeding 10 for Thanksgiving? Here’s what the classic meal could cost
 
 
-## 9. South Korean education minister resigns over AI anti-cheating measures
-`Korea` `AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 8. Justice Department moves to seize $1.1bn in crypto tied to North Korean Binance hack
+`AI & Cybersecurity` `Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 1 · R 1)
 
-Education Minister Choi Kyo-jin resigned, and President Lee Jae Myung accepted. Choi took responsibility for confusion caused by last-minute rules meant to stop AI-assisted cheating on the national college entrance exam, the Suneung. The rules followed a confession by the top scorer in the tax accountant exam that he used a microcamera, a smartphone and AI. The measures included pencils-only rules, stickers over clothing buttons and three nationwide emergency phone alerts during the exam. Choi had also drawn criticism for telling parliament he was not confident he could detect AI cheating 'because of my age.'
+The Justice Department filed a civil forfeiture action targeting more than $1.1 billion in USDC stablecoin it says are proceeds of the roughly $6 billion Oct. 29 hack of Binance, which the FBI attributes to North Korea. The hack reportedly began when an employee downloaded malware during a fake job interview. The FBI, Secret Service and IRS are investigating with help from Circle, which issues USDC.
 
 **Key facts**
-- 111 suspected cheating cases involving devices were detected during the exam.
-- About 500,000 students took the exam.
-- Three national disaster alerts were sent on exam day, the first use of the system to catch cheaters.
-- The tax exam scorer, Han Won-seok, 34, admitted to cheating.
+- The action covers USDC held in 36 addresses across 18 blockchain networks.
+- The Binance hack occurred around Oct. 29 and took roughly $6 billion.
+- Officials quoted: M. Scott Proctor of DOJ National Security and US Attorney Jeanine Pirro.
 
 **How it's being framed**
-- **Left:** The Guardian detailed the crackdown, including a cash reward for reporting cheating and teachers' unions calling the response belated, and described how much social mobility rides on the exam.
-- **Center:** Yonhap and the BBC focused on the resignation process and test-takers' anxiety, such as students avoiding glasses. Yonhap noted that a perfect scorer on the law school entrance exam was found dead after facing cheating allegations.
+- **Center:** Yonhap gave a straightforward account based on the DOJ press release.
+- **Right:** Fox Business added details on how the breach happened and quoted Pirro's pledge to 'go toe-to-toe with our adversaries.'
 
 **Disputed or unclear**
-- Police are still investigating the cheating allegations against the law school exam scorer who died.
-- No successor has been named yet.
+- The total frozen or recovered so far is reported as more than $2.9 billion (Yonhap) versus more than $3 billion (Fox Business).
 
-**Why it matters:** It shows how AI tools are straining trust in high-stakes exams.
+**Why it matters:** It is one of the largest US efforts to claw back crypto stolen by a state-backed hacking group.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261122001052315) (center): (2nd LD) Education minister resigns over college exam chaos amid AI cheating fears
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams) (lean-left): South Korean minister quits after AI cheating scandal engulfs university exams
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss) (center): South Korea education minister resigns over exam cheating scandal
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261124000800315) (center): U.S. takes action to recover over US$1.1 bln in cryptocurrency stolen by N. Korean hackers
+- [Fox Business](https://www.foxbusiness.com/fox-news-tech/us-recover-1b-crypto-stolen-north-korean-hackers-binance-heist) (lean-right): US moves to recover over $1B in crypto stolen by North Korean hackers in Binance heist
 
 
-## 10. Liverpool beat 10-man Manchester United 4-0 in Pochettino's debut
-`Korea` · Covered by 2 outlets (L 1 · C 1 · R 0)
+## 9. India pledges about $1.6bn to Nepal during new PM Balendra Shah's first visit
+`Asia Business & Politics` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Mauricio Pochettino lost his first match as Manchester United manager 4-0 at Liverpool after Leny Yoro was sent off in the eighth minute. Liverpool led 2-0 by the 13th minute through Dominik Szoboszlai and Florian Wirtz, and added goals from Rio Ngumoha and Victor Munoz. United sit second from bottom with one league win in 11. Pochettino disputed the red card and said a penalty should have been given to United.
+On his first bilateral trip abroad since taking office in March, Nepal's 36-year-old Prime Minister Balendra Shah met Indian Prime Minister Narendra Modi in New Delhi. Modi announced a roughly $1.6 billion package for flood reconstruction and infrastructure, mostly a credit line for energy projects plus a grant. The leaders agreed to cooperate on trade, education and connectivity and jointly launched a cross-border train service. The long-running border dispute was largely absent from public remarks, though the joint statement acknowledged outstanding issues.
 
 **Key facts**
-- The result matches the heaviest debut defeat by a United manager, equal to Lal Hilditch's 4-0 loss in 1926, according to Opta.
-- Liverpool became the third club to reach 700 Premier League wins and moved to fourth.
-- Pochettino had just left his role as US men's national team coach.
+- The package is 240 billion Nepali rupees, about $1.6bn: roughly $377m in grants and about $1.24bn in credit.
+- Nepal estimates flood reconstruction could cost about $4.8bn.
+- India supplies more than 60% of Nepal's imports (World Bank, via Al Jazeera).
 
 **How it's being framed**
-- **Left:** Al Jazeera ran an analytical takeaways piece. It argued the red card was wrong but said United's defenders were exposed anyway, and questioned the decision to drop Harry Maguire.
-- **Center:** The Korea Herald (AP) emphasised the humiliation of the debut, the taunts from Liverpool fans and Pochettino's insistence on finding positives.
+- **Left:** Al Jazeera emphasised the scale of the aid, climate change as the cause of the floods, and India's competition with China for influence in Nepal.
+- **Center:** The BBC and DW framed the visit as a reset of strained ties and included analysts' views that Nepal wanted more, that the border dispute was set aside, and that economic cooperation should remain the focus.
 
 **Disputed or unclear**
-- Whether Yoro's red card was correct is disputed: VAR saw no clear error, while Pochettino and Al Jazeera disagreed.
+- Flood toll figures vary by outlet: deaths of more than 1,300, 1,400 or 1,450, and 5,000 to 5,745 missing.
+- Whether shelving the border dispute will cost Shah politically at home.
 
-**Why it matters:** It shows the scale of the rebuild facing United's ninth permanent manager since 2013.
+**Why it matters:** The deal signals a warmer India-Nepal relationship under Nepal's new leader, in a region where India and China compete for influence.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10945568) (center): Nightmare start for Pochettino as 10-man Man United loses 4-0 to Liverpool
-- [Al Jazeera English](https://www.aljazeera.com/sports/2026/11/22/liverpool-4-0-manchester-united-the-key-takeaways-for-pochettino) (lean-left): Liverpool 4-0 Manchester United: Five key takeaways for Pochettino
+- [Deutsche Welle](https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-rdf) (center): Nepal's new PM eyes closer ties with India amid lingering disputes
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal) (lean-left): India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss) (center): India pledges $1.6bn to Nepal in reset of ties
+
+
+## 10. South Korea's ruling party pushes to impeach Supreme Court chief justice
+`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+South Korea's ruling Democratic Party plans to introduce an impeachment motion against Chief Justice Cho Hee-dae on Dec. 3, the second anniversary of the 2024 martial law bid. The push follows the Supreme Court overturning a 15-year sentence for former Prime Minister Han Duck-soo. The party cites the court's handling of President Lee Jae Myung's election law case and alleged misuse of official funds. The opposition People Power Party says the aim is to block Lee's criminal trials, and some Democrats have also objected.
+
+**Key facts**
+- The motion is planned for Dec. 3 and would go straight to a plenary vote, bypassing the judiciary committee.
+- The Supreme Court sent Han Duck-soo's case back to the Seoul High Court on Thursday.
+- The DP dropped the Han ruling from its stated grounds amid concerns that a ruling alone cannot justify impeachment.
+
+**How it's being framed**
+- **Center:** The Korea Herald and Yonhap ran essentially identical reports quoting both parties' leaders, as well as DP Rep. Kwak Sang-eon's internal dissent.
+
+**Disputed or unclear**
+- Whether the cited grounds legally justify impeachment is disputed, including within the ruling party.
+- The PPP's claim that the motive is to stop Lee's trials is an allegation the DP rejects.
+
+**Why it matters:** The fight tests judicial independence and the political fallout from South Korea's 2024 martial law crisis.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10946700) (center): Rival parties clash over DP's push to impeach Supreme Court chief
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261123009300315) (center): Rival parties clash over DP's push to impeach Supreme Court chief
 
 
 ---
@@ -299,8 +298,8 @@ Mauricio Pochettino lost his first match as Manchester United manager 4-0 at Liv
 
 ### What is happening with AI regulation in the US and EU?
 
-🆕 Rep. Jay Obernolte (R-Calif.), who chairs the House Republican Policy Committee, said he is 'optimistic' Congress can pass a bipartisan AI bill before the end of the year, before Democrats take the House in January. The provided article gives no bill details. Nothing in this edition addresses EU AI regulation.
-- [The Hill](https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/) (center): GOP lawmaker ‘optimistic’ about passing AI bill before next Congress
+The only matching article covers CrowdStrike's planned $43.9bn purchase of Zscaler, a business deal rather than regulation. Separately, this edition's Nvidia and Megaspeed stories touch on US AI chip export controls, but nothing addresses AI regulation in the US or EU directly.
+- [The Record (Recorded Future News)](https://therecord.media/crowdstrike-zscaler) (center): CrowdStrike to purchase Zscaler for $43.9 billion
 
 ---
-_Feeds that failed this run: The Verge_
+_Feeds that failed this run: Newsweek_
