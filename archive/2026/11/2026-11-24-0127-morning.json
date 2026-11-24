@@ -1,0 +1,850 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Morning",
+  "generated_at": "2026-11-24T06:27:02.206031+00:00",
+  "local_time": "Tuesday, November 24, 2026 · 1:27 AM EST",
+  "local_date": "Nov 24, 2026",
+  "slug": "2026-11-24-0127-morning",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "Nvidia dominated the day: its board reinstated Jensen Huang as CEO less than two weeks after he resigned over affairs that included a woman US officials allege is a Chinese intelligence asset. Markets surged, President Trump said he persuaded the board, and Washington blacklisted the Singapore firm at the center of the scandal. Elsewhere, a court cleared an Army detonation in Iowa, Trump attacked Gavin Newsom over death-row commutations, and Rep. Jimmy Gomez said he will resign after an ethics report.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Nvidia reinstates Jensen Huang as CEO; Trump says he persuaded the board",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines",
+        "Asia Business & Politics"
+      ],
+      "summary": "Nvidia said Monday its board had unanimously reinstated Jensen Huang as CEO 'effective immediately,' less than two weeks after he resigned on November 12 over admitted extramarital affairs. One reported relationship was with Alice Huang (no relation), a former Megaspeed executive whom US intelligence reportedly links to China's Ministry of State Security. Trump told CNBC he 'convinced' the board and called Huang a 'Great Patriot and National Treasure,' saying the government had no evidence of unlawful conduct. Nvidia said it received input from 'senior levels' of the US government and is confident his return poses no national security risk. Republican committee chairs say Huang will still sit for a transcribed interview on December 1, and some lawmakers in both parties are pressing for chip export-control bills.",
+      "key_facts": [
+        "Huang resigned on November 12 and was reinstated on November 23, 2026.",
+        "Nvidia's board said the vote was unanimous and that it was 'satisfied with respect to Mr Huang's candor and ability to lead.'",
+        "Interim CEO Colette Kress returns to her role as chief financial officer.",
+        "Nvidia shares rose roughly 31-32% on the news.",
+        "House chairs Moolenaar, Crawford and Mast said Huang and Tim Teter will appear for transcribed interviews on December 1 and 2."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian led with Trump's direct intervention ('I made the deal') and the role reportedly played by JD Vance. It stressed Republican lawmakers breaking with the president, quoted Sen. Tom Cotton and Sen. Elizabeth Warren on export controls, and noted Trump posted a meme comparing the move to his escape from an assassination attempt."
+        },
+        {
+          "lean": "center",
+          "framing": "Deutsche Welle gave a straight account of the statements from Nvidia, Huang and Trump, plus the stock swings. It noted that the spy allegations are unproven but appear to rest on Western intelligence assessments, and that Huang reportedly helped persuade Trump to allow higher-end chip exports to China. The Hill focused on GOP lawmakers objecting to White House involvement."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business led with Elon Musk's praise ('The mistake has been corrected'), a 150,000-signature 'bring Jensen back' effort, and Trump's Truth Social post, including his call for Nvidia to continue its export-control review. The Daily Caller focused on the market surge and quoted the board chair and Trump, describing his talks with Vance."
+        }
+      ],
+      "disputed": [
+        "Whether Alice Huang is a Chinese intelligence asset: reported from US intelligence assessments but unproven; Beijing calls the claims groundless.",
+        "How decisive Trump's role was: Trump says he 'convinced' the board, while Nvidia describes its own discussions and meetings with Huang.",
+        "Trump said Attorney General Todd Blanche felt Huang was 'exonerated'; no formal finding is described in the coverage.",
+        "Outlets describe the other affairs differently: the Guardian says two Nvidia employees, The Hill says one subordinate."
+      ],
+      "why": "The reversal joins corporate governance, presidential influence and national-security questions at the world's most important AI chipmaker.",
+      "coverage": {
+        "left": 7,
+        "center": 8,
+        "right": 2
+      },
+      "n_outlets": 17,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+          "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-23T14:18:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+          "published": "2026-11-23T22:23:40+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Elon Musk issues 5-word reaction to Jensen Huang’s reinstatement",
+          "url": "https://www.foxbusiness.com/fox-news-tech/elon-musk-issues-5-word-reaction-jensen-huangs-reinstatement",
+          "published": "2026-11-23T18:55:10+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "GOP lawmakers decry White House involvement in Jensen Huang reinstatement",
+          "url": "https://thehill.com/homenews/senate/6237271-republicans-investigate-nvidia-national-security/",
+          "published": "2026-11-23T17:02:39+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "published": "2026-11-24T03:04:41+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Nvidia, Tech Stocks Skyrocket Immediately Following Jensen Huang’s Reinstatement Announcement",
+          "url": "https://dailycaller.com/2026/11/23/nvidia-stock-surges-with-jensen-huangs-triumphant-return",
+          "published": "2026-11-23T17:40:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Court clears Army to detonate degraded lead azide at Iowa ammunition plant",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "A three-judge panel of the 8th US Circuit Court of Appeals ruled Monday that the EPA's emergency permit adequately limits the spread of lead dust. That allows the Army to detonate 68 barrels of degraded lead azide at the Iowa Army Ammunition Plant near Middletown. Earlier in the day, Trump said the operation should proceed only if the court and Democratic Gov.-elect Rob Sand agreed, and that otherwise Sand would be held responsible for 'any and all death or destruction.' Sand said the decision belongs to the administration and called for more transparency. Acting Army Secretary Adam Telle said the detonation will go ahead Wednesday morning as a 'consensus decision.'",
+      "key_facts": [
+        "The detonation involves 68 barrels of degraded lead azide and was originally set for Friday, November 20.",
+        "The date has changed several times; it is now set for Wednesday, depending on wind conditions.",
+        "The Army has warned that a lead-dust plume could extend up to 100 miles.",
+        "Environmental groups represented by Earthjustice challenged the EPA permit; Earthjustice said it respects the ruling.",
+        "Gov. Kim Reynolds activated the state emergency operations center, and the FAA restricted flights in the area."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS highlighted Trump's attempt to put responsibility on Sand, health risks from lead (citing the CDC that no exposure is safe), and residents' complaints about poor communication. PBS noted that Iowa Public Radio reporting complicates Trump's claim that the Obama administration was to blame."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via WBTV), Axios and The Hill focused on the court's reasoning, the safeguards it cited, Trump's 'unusual twist' of seeking the governor-elect's approval, and the state's frustration over transparency."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner centered Telle's announcement and his description of a 'consensus' among more than ten federal agencies and both governors. It described the lawsuit as an obstacle that had been overcome."
+        }
+      ],
+      "disputed": [
+        "The quantity is described as 'several tons,' 'nearly 9,500lb' and '5 tons' in different outlets.",
+        "Telle says Sand agreed; Sand's own statements say the decision is up to the administration.",
+        "Who is responsible for the deterioration: Trump blames the Obama administration, while PBS cites Iowa Public Radio on a 2004 Army explosives project, and it is unclear why the barrels were not disposed of earlier."
+      ],
+      "why": "Nearby residents across Iowa and Illinois face a potential lead-dust plume, and the episode raises questions about federal transparency and accountability.",
+      "coverage": {
+        "left": 3,
+        "center": 6,
+        "right": 1
+      },
+      "n_outlets": 10,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa",
+          "url": "https://www.wbtv.com/2026/11/23/trump-tells-army-hold-off-lead-azide-detonation-iowa/",
+          "published": "2026-11-24T02:37:28+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+          "published": "2026-11-24T02:25:49+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Army plans Wednesday detonation of unstable lead azide in Iowa",
+          "url": "https://www.washingtonexaminer.com/policy/defense/4813397/army-wednesday-detonation-lead-azide-iowa/",
+          "published": "2026-11-24T03:55:51+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump presses pause on Army's Iowa lead detonation",
+          "url": "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
+          "published": "2026-11-23T19:22:03+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+          "url": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
+          "published": "2026-11-23T22:05:00+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Army proceeding with lead detonation on Wednesday",
+          "url": "https://thehill.com/policy/energy-environment/6239030-army-detonates-lead-munitions-iowa/",
+          "published": "2026-11-24T04:06:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "US adds Megaspeed, firm tied to Nvidia scandal, to trade blacklist",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics"
+      ],
+      "summary": "The Commerce Department's Bureau of Industry and Security added Singapore-based Megaspeed to its Entity List on Monday. US firms now need a license to sell it chips or other advanced technology. The firm is under a Justice Department criminal investigation over whether it diverted Nvidia chips to China in breach of export controls, and Megaspeed says it complies with US law. Commerce Secretary Howard Lutnick has faced criticism, including from Treasury Secretary Scott Bessent, for not acting sooner. Singapore says it is running its own separate investigation.",
+      "key_facts": [
+        "The listing was published in the Federal Register on November 23, 2026.",
+        "Commerce opened its probe into Megaspeed in 2024; Nvidia placed Megaspeed on its 'no sell' list in June 2025.",
+        "Megaspeed says Alice Huang left the company in August 2025.",
+        "Bessent said other agencies had wanted Megaspeed listed 'for months' but 'Commerce holds the pen.'",
+        "Singapore PM Lawrence Wong said Singapore previously investigated Alice Huang and found no basis for prosecution."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and Al Jazeera emphasised divisions within the administration and criticism of Lutnick. Al Jazeera quoted an NYU scholar who called the policy incoherent, since the US licenses H200 sales to China while taking a 25% cut. Both included Beijing's denial and Bessent's questions about whether Nvidia knew its customer."
+        },
+        {
+          "lean": "center",
+          "framing": "DW, TechCrunch and The Hill explained what the Entity List does and the pressure on Commerce. DW quoted Hakeem Jeffries calling Huang's reinstatement 'indefensible' and promising congressional scrutiny."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business framed it as Trump administration action. It laid out a detailed timeline of government steps from the joint Commerce-DOJ statement and gave space to Megaspeed's statement on compliance."
+        }
+      ],
+      "disputed": [
+        "Whether Megaspeed actually smuggled chips to China remains under investigation; the company denies wrongdoing.",
+        "Outlets differ on scope: the Guardian mentions subsidiaries in Thailand and Malaysia, while Al Jazeera says six other Southeast Asian firms were also listed.",
+        "Why Commerce delayed the listing has not been explained."
+      ],
+      "why": "The listing tests how seriously Washington enforces AI chip export controls amid visible splits inside the administration.",
+      "coverage": {
+        "left": 2,
+        "center": 5,
+        "right": 1
+      },
+      "n_outlets": 8,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
+          "url": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-23T22:35:00+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US adds Megaspeed, AI firm at center of Nvidia scandal, to trade blacklist",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+          "published": "2026-11-24T01:47:15+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Trump admin adds Megaspeed to Commerce Department trade blacklist after Nvidia scandal",
+          "url": "https://www.foxbusiness.com/politics/trump-admin-adds-megaspeed-commerce-department-trade-blacklist-after-nvidia-scandal",
+          "published": "2026-11-23T22:19:10+00:00"
+        },
+        {
+          "source": "TechCrunch (AI)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "published": "2026-11-23T21:25:42+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US adds Megaspeed to trade blacklist as Nvidia’s Huang returns as CEO",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list",
+          "published": "2026-11-24T00:52:47+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Commerce Department adds Megaspeed to trade blacklist amid Nvidia scandal",
+          "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
+          "published": "2026-11-23T22:45:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Nvidia gains nearly $1 trillion in value as markets rally on Huang's return",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Nvidia shares closed up about 31.5% at $165.05 on Monday after Huang's reinstatement, adding close to $1 trillion in market value. The Nasdaq rose 6.5%, the S&P 500 4.7% and the Dow 3%, the strongest day since April 2025, after a week in which major indexes fell into correction. Nvidia-linked stocks in Taiwan, South Korea and Japan jumped on Tuesday, several hitting the 10% daily limit in Taipei. Analysts called it a relief rally but noted that Nvidia remains well below its pre-scandal levels.",
+      "key_facts": [
+        "Nvidia closed at $165.05, up from $125.53 on Friday.",
+        "The Nasdaq rose 6.5%, the S&P 500 about 4.7% and the Dow about 3%.",
+        "Micron rose 19% and AMD about 6-7%; TSMC, Foxconn and MediaTek rose close to 10%.",
+        "Nvidia shares remain about 21% below their level of a month ago, according to the BBC."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera highlighted New York Mayor Zohran Mamdani's criticism that workers' pensions should not hinge on a CEO's 'fidelity' and on volatile AI stocks."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and CNBC gave market data and analyst views, including a 'biggest corporate U-turn' quote. The BBC noted an unconfirmed Reuters report of an SEC accounting probe and that part of the rally began before the announcement. The Hill noted that Huang personally benefits from the surge."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business and the Washington Examiner presented detailed index figures and a strong market rebound. The Examiner added that DOJ probes into Megaspeed and Super Micro continue, and that a law enforcement source said the DOJ never investigated Huang or Nvidia."
+        }
+      ],
+      "disputed": [
+        "A reported SEC investigation into Nvidia's accounting is unconfirmed.",
+        "How much of the rally reflects Huang's return versus a broader rebound: the BBC says the rally began pre-market, before the announcement."
+      ],
+      "why": "The swing shows how much market value, and potentially retirement savings, rides on a single AI company and its leader.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 2
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T21:23:42+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return",
+          "published": "2026-11-23T23:54:27+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Stock market roars back after Jensen Huang’s abrupt return to Nvidia",
+          "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4813208/stock-market-jensen-huang-reinstated-nvidia/",
+          "published": "2026-11-24T01:03:34+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+          "published": "2026-11-24T02:20:36+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Stocks soar on Jensen Huang’s return to Nvidia",
+          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026",
+          "published": "2026-11-23T13:36:58+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Huang profits from Nvidia’s stock surge after he returns as CEO",
+          "url": "https://thehill.com/business/6238473-nvidia-stock-surges-jensen-huang/",
+          "published": "2026-11-23T21:55:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Trump attacks Newsom's death-row commutations and orders faster federal executions",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Speaking at the Justice Department with crime victims' families, Trump condemned California Gov. Gavin Newsom's commutation of 548 death sentences to life without parole. He called it 'one of the most shocking acts of injustice our country has ever seen.' Trump signed a directive telling federal prosecutors to seek the death penalty for child murder and for killings involving rape or trafficking, and to expedite federal executions. Newsom responded that Trump 'sells' mercy through pardons and called for reform of presidential pardon power.",
+      "key_facts": [
+        "Newsom announced the 548 commutations on November 5; most require California Supreme Court approval.",
+        "Attorney General Todd Blanche said the DOJ has sought the death penalty 49 times since Trump took office.",
+        "Trump urged Congress to pass Rep. Brandon Gill's Just Punishment for Murder Act.",
+        "Newsom's term ends in January; he is seen as a possible 2028 presidential candidate."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, Al Jazeera and PBS framed the event as a partisan speech. They noted recent botched executions, US isolation on capital punishment and Trump's role in the Central Park Five case, and raised concerns about the DOJ's independence, including a banner of Trump's face on the building. They also quoted victims' relatives."
+        },
+        {
+          "lean": "center",
+          "framing": "AP (via the Korea Herald) described it as a crime-policy address that veered into partisan politics, against the backdrop of Democrats winning Congress. It gave both Trump's remarks and Newsom's response. The Hill focused on Trump's attack."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner focused largely on Newsom's rebuttal video, listing the pardons he criticised and his call for pardon reform, alongside the details of Trump's directive."
+        }
+      ],
+      "disputed": [
+        "Trump claims the commutations 'should not be allowed to stand'; it is unclear what mechanism he has in mind.",
+        "Trump's credit for falling violent crime rates is questioned by experts, according to AP."
+      ],
+      "why": "The clash previews a possible 2028 rivalry and could change federal death-penalty practice.",
+      "coverage": {
+        "left": 3,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump targets Newsom and Democrats in US Justice Department speech",
+          "url": "https://www.koreaherald.com/article/10947607",
+          "published": "2026-11-24T05:52:43+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump urges justice department to speed up federal executions in dig at Gavin Newsom",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/trump-justice-department-federal-executions-gavin-newsom",
+          "published": "2026-11-24T01:55:36+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Newsom urges reforms to presidential pardon power: ‘Justice is not for sale’",
+          "url": "https://www.washingtonexaminer.com/news/justice/4813271/gavin-newsom-trump-pardon-power/",
+          "published": "2026-11-24T03:26:56+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live updates: Trump challenges Newsom’s death row commutations; Nvidia makes U-turn on Jensen Huang",
+          "url": "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
+          "published": "2026-11-23T22:10:02+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Trump delivers address on Newsom's move to grant clemency for California's death row",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-address-on-newsoms-move-to-grant-clemency-for-californias-death-row",
+          "published": "2026-11-23T19:12:21+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+          "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom",
+          "published": "2026-11-24T00:04:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Charlotte's Thanksgiving Eve parade canceled as storm threatens holiday travel",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Charlotte Center City Partners canceled the 80th Novant Health Thanksgiving Eve Parade, citing forecasts of high winds, rain and cold. Forecasters expect a major East Coast storm to bring rain and gusts around 30 mph to the Carolinas from Wednesday afternoon into Thanksgiving morning. The storm may disrupt travel nationwide, bringing wintry weather to parts of the Great Plains. Ticket holders will get automatic refunds.",
+      "key_facts": [
+        "The National Weather Service forecast a 100% chance of rain in Charlotte Wednesday evening, with gusts up to 31 mph.",
+        "Several parade units had already withdrawn before the cancellation.",
+        "Organizers said the parade usually runs 'rain or shine' but cited the risks to balloons, floats and equipment.",
+        "Sunshine and low-60s temperatures are expected over the weekend."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE gave a straightforward account of the cancellation, the forecast and refunds."
+        },
+        {
+          "lean": "center",
+          "framing": "Local TV outlets reported the same facts, quoting organizers on safety and the travel forecast. The Hill noted the Northeast is bracing for a 'bomb cyclone.'"
+        }
+      ],
+      "disputed": [],
+      "why": "Charlotte-area residents face a canceled holiday tradition and possible travel disruption.",
+      "coverage": {
+        "left": 1,
+        "center": 5,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Stormy weather could disrupt Thanksgiving travel in the Carolinas: First Alert forecast",
+          "url": "https://www.wbtv.com/2026/11/24/stormy-weather-could-disrupt-thanksgiving-travel-carolinas-first-alert-forecast/",
+          "published": "2026-11-24T00:13:26+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Bad weather forecast forces cancellation of Thanksgiving Eve Parade",
+          "url": "https://www.wfae.org/charlotte-area/2026-11-23/bad-weather-forecast-forces-cancellation-of-thanksgiving-eve-parade",
+          "published": "2026-11-23T21:59:20+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte’s Thanksgiving Eve parade canceled due to expected bad weather",
+          "url": "https://www.wsoctv.com/news/local/charlottes-thanksgiving-eve-parade-canceled-due-expected-bad-weather/XNKCCNTPBBF4DBYLGPSDDCCZPE/",
+          "published": "2026-11-23T21:44:37+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Organizers cancel Charlotte Thanksgiving Eve parade",
+          "url": "https://www.qcnews.com/charlotte/organizers-cancel-charlotte-thanksgiving-eve-parade/",
+          "published": "2026-11-23T21:41:09+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Northeast braces for ‘bomb cyclone’ during Thanksgiving travel",
+          "url": "https://thehill.com/homenews/state-watch/6238573-northeast-braces-for-bomb-cyclone-during-thanksgiving-travel/",
+          "published": "2026-11-23T22:16:17+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte's Thanksgiving Eve Parade canceled for inclement weather",
+          "url": "https://www.wcnc.com/article/weather/weather-impact/charlottes-thanksgiving-eve-parade-canceled/275-55c3489d-b007-41ac-912b-2d1d96d98134",
+          "published": "2026-11-23T21:53:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Rep. Jimmy Gomez to resign after House Ethics report finds sexual misconduct",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The bipartisan House Ethics Committee found 'substantial evidence' that Rep. Jimmy Gomez (D-Calif.) made unwelcome sexual advances and sexual contact toward a House staffer on two occasions in 2024. The report said the conduct could constitute criminal misdemeanor sexual abuse. Gomez, who had already lost his re-election bid, said he will resign December 1. He disputes the findings and says the encounters were consensual and that the report omitted parts of his testimony. Democratic leaders called the report 'deeply troubling' and backed reform of House rules.",
+      "key_facts": [
+        "Gomez will resign effective December 1.",
+        "He lost re-election this month to Democrat Angela Gonzales-Torres.",
+        "The incidents occurred at a bar in February 2024 and in his office in July 2024.",
+        "The committee did not recommend a sanction, citing lack of time before he leaves."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian, NPR and PBS stressed the report's description of a 'toxic' Hill culture, the reactions of Democratic leaders, and a list of other misconduct cases involving members of both parties. NPR gave space to Gomez's objections to the process."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC and The Hill gave a factual account, including the accuser's attorneys' statements and the earlier link to the Swalwell case."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller emphasised his party, quoted the possible criminal implications and included graphic testimony from the report."
+        }
+      ],
+      "disputed": [
+        "Gomez says the encounters were consensual and that the report quotes him selectively; the staffer says they were not consensual.",
+        "Whether any criminal charges will follow is unknown."
+      ],
+      "why": "It is the latest in a series of misconduct cases pushing Congress toward rule changes.",
+      "coverage": {
+        "left": 3,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T22:58:27+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+          "published": "2026-11-23T22:21:45+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Democrat Jimmy Gomez Announces Resignation After House Ethics Committee Finds He Made ‘Unwelcome Sexual Advances’ Toward Former Staffer",
+          "url": "https://dailycaller.com/2026/11/23/house-ethics-committee-jimmy-gomez-sexual-advances",
+          "published": "2026-11-23T22:09:21+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Democrat Gomez resigns from House after sexual misconduct report",
+          "url": "https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/",
+          "published": "2026-11-23T21:13:55+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+          "published": "2026-11-23T22:29:53+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Ethics probe finds Democratic Rep. Jimmy Gomez made unwelcome sexual advances to a staffer",
+          "url": "https://www.pbs.org/newshour/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-a-staffer",
+          "published": "2026-11-23T22:11:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Russian military aircraft enter South Korea's air defense zone, prompting shelter alert",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Russian military aircraft entered South Korea's air defense identification zone without notice on Tuesday and approached Ulleungdo island before turning away as South Korean jets scrambled. Authorities sent a brief air-raid shelter alert to the island's roughly 8,700 residents, which was lifted after three minutes. A provincial follow-up message wrongly referred to a North Korean aircraft, which officials said was a drill-template error. Seoul summoned Russia's defense attaché, who said 'no comment,' and analysts debated whether Moscow is signaling to Seoul or Washington.",
+      "key_facts": [
+        "The alert was issued at 7:52am and lifted at 7:55am.",
+        "The aircraft did not violate sovereign airspace.",
+        "Russia does not recognize the requirement for advance notice in the zone.",
+        "About 60 unannounced Russian entries were recorded in the five years to 2024, compared with about 430 by Chinese aircraft."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on residents' confusion and fear and on the erroneous alert message, while noting that such entries are not illegal in themselves."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald focused on strategic interpretation, quoting experts on possible Russian leverage over sanctions or Ukraine and on regional alignments."
+        }
+      ],
+      "disputed": [
+        "The outlets count the incidents differently: 'third in eight days' versus 'fourth this year and second in a week.'",
+        "Russia's intentions are unclear."
+      ],
+      "why": "The flights add to tensions in Northeast Asia as Russia deepens its ties with North Korea.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What is Russia signaling with repeated military flights near Korea?",
+          "url": "https://www.koreaherald.com/article/10947647",
+          "published": "2026-11-24T06:06:34+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+          "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+          "published": "2026-11-24T04:14:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Fatal crash on I-485 and serious crash on I-85 in Charlotte area",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "One person was killed Monday afternoon in a crash on the I-485 Outer loop near the I-85 exit in University City; the road reopened around 5:30 p.m. Separately, Gastonia police reported a 'very serious' crash around 8 p.m. on I-85 North at Exit 17, closing several lanes and injuring at least one person. Details on both crashes are limited.",
+      "key_facts": [
+        "One person died in the I-485 crash, according to MEDIC.",
+        "The State Highway Patrol is investigating the I-485 crash.",
+        "The Gastonia crash closed multiple northbound I-85 lanes."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Local TV outlets reported brief, factual updates from police and MEDIC."
+        }
+      ],
+      "disputed": [
+        "The number of vehicles and injuries in the Gastonia crash has not been released."
+      ],
+      "why": "Both crashes affected major local routes ahead of holiday travel.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Serious crash closes multiple lanes of I-85 in Gastonia, injures at least 1",
+          "url": "https://www.wbtv.com/2026/11/24/serious-crash-closes-multiple-lanes-i-85-gastonia-injures-least-1/",
+          "published": "2026-11-24T01:47:05+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "1 killed in crash on I-485 in University City",
+          "url": "https://www.wsoctv.com/news/local/1-killed-crash-i-485-university-city/L7PG75OJ3JDENH2VZO3HOEJBTY/",
+          "published": "2026-11-23T19:55:58+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "'Very serious' crash shuts down I-85 North in Gastonia",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/gaston-county/serious-crash-shuts-down-i-85-north-in-gastonia/",
+          "published": "2026-11-24T01:12:18+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "1 person killed in I-485 crash in northeast Charlotte",
+          "url": "https://www.wcnc.com/article/news/local/deadly-i-485-crash-in-northeast-charlotte/275-2c19ad56-b2bd-4e36-aa22-4a0543ba440a",
+          "published": "2026-11-24T00:52:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Mexico to try 'El Chapo Isidro' at home despite US extradition request",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Mexico's attorney general said alleged cartel leader Fausto Isidro Meza will be tried in Mexico, even though Washington has requested his extradition. He was captured Friday in Guasave, Sinaloa, in an operation in which officials said 4 soldiers and 16 suspected gunmen were killed. US authorities provided intelligence and drone support but did not take part on the ground, according to President Sheinbaum. He faces six US charges, including narcoterrorism, and Mexican charges for weapons offenses and methamphetamine possession.",
+      "key_facts": [
+        "Meza was on the FBI's Ten Most Wanted list.",
+        "4 soldiers and 16 suspected gunmen were killed in the capture operation.",
+        "He faces six US charges, including running a continuing criminal enterprise and narcoterrorism."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera, using Reuters material, reported the facts and the risk of strained US-Mexico ties."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald (Reuters) gave nearly identical framing and added context about CIA officers killed in an unauthorized operation in April."
+        }
+      ],
+      "disputed": [
+        "Whether the US will press the extradition request further is unclear."
+      ],
+      "why": "The decision could become a flashpoint in US-Mexico security cooperation.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Alleged drug lord 'El Chapo Isidro' will be tried in Mexico despite US extradition request",
+          "url": "https://www.koreaherald.com/article/10947449",
+          "published": "2026-11-24T04:06:05+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+          "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request",
+          "published": "2026-11-24T03:20:55+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "The only matched article reports that CrowdStrike will buy Zscaler for $43.9 billion; it does not address AI regulation. Elsewhere in this edition, the BBC notes that the Democrats' midterm win sparked fears of tougher AI regulation, and lawmakers including Sen. Tom Cotton and Sen. Elizabeth Warren are pushing chip export-control bills. Nothing in these articles covers the EU.",
+      "links": [
+        {
+          "source": "The Record (Recorded Future News)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
+          "url": "https://therecord.media/crowdstrike-zscaler",
+          "published": "2026-11-23T17:14:00+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 16,
+    "center": 26,
+    "right": 8
+  },
+  "stats": {
+    "articles": 612,
+    "stories_found": 408,
+    "sources_ok": 38,
+    "sources_total": 39,
+    "failed": [
+      "Newsweek"
+    ]
+  }
+}
