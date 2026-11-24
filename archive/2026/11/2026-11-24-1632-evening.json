@@ -1,0 +1,810 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-24T21:32:23.341319+00:00",
+  "local_time": "Tuesday, November 24, 2026 · 4:32 PM EST",
+  "local_date": "Nov 24, 2026",
+  "slug": "2026-11-24-1632-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is led by President Trump's role in Jensen Huang's return as Nvidia CEO and the Army's planned detonation of degraded explosives in Iowa, both involving unusual presidential interventions. Other stories cover newly unsealed records on the search of Rep. Ilhan Omar's home, a breach of a CIA intelligence network, Russian military flights near South Korea, and split consumer-confidence readings in the US and South Korea. Lighter items include the White House turkey pardon and weather threats to Thanksgiving parades.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Jensen Huang reinstated as Nvidia CEO after Trump administration involvement; lawmakers push for hearings",
+      "topics": [
+        "AI & Cybersecurity",
+        "Asia Business & Politics",
+        "US Headlines"
+      ],
+      "summary": "Nvidia's board reinstated Jensen Huang as CEO on Monday, less than two weeks after he left amid reports of extramarital affairs, including one with a woman US officials suspect of being a Chinese intelligence asset. Trump said he spoke directly with board members, and Semafor reported he dialed into a Sunday board meeting; the board said it acted with \"input from senior levels of the United States government.\" On Tuesday Huang apologized to staff, admitted violating the code of conduct, and called it \"completely untrue\" that Trump pressured the board, while saying Trump assured directors he was not a national security threat. Lawmakers voiced frustration, and Huang may face House Foreign Affairs and Senate Banking hearings next week.",
+      "key_facts": [
+        "The Washington Examiner reported the board vote to reinstate Huang was unanimous, reversing an earlier decision not to bring him back.",
+        "Trump wrote on Truth Social: \"The Country needs Jensen's leadership at NVIDIA.\"",
+        "Huang told staff: \"I made some terrible mistakes... I was unfaithful to Lori.\"",
+        "The US government is investigating whether Megaspeed, a Singapore firm formerly run by Alice Huang (no relation), diverted Nvidia chips to China in breach of export controls.",
+        "Rep. Gregory Meeks said a hearing should still take place on how advanced technology \"wound up in the hands of our greatest competitor.\""
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Guardian opinion framed the reinstatement as \"elite impunity\" and an extraordinary executive intervention in a private company, tied to propping up an AI-dependent stock market and to Vance's Silicon Valley ties. Guardian news coverage centered on Huang's apology, his denial of Trump pressure, and Democrat Meeks's call for hearings."
+        },
+        {
+          "lean": "center",
+          "framing": "Axios called it one of the most extraordinary presidential interventions in corporate history and a de facto bailout of the AI industry, and said Trump had staked government credibility on Huang. The Hill focused on congressional backlash and employees cheering Huang's return."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner offered a straightforward explainer stressing Trump's personal push and the unanimous board vote. Reason's podcast hosts expressed mixed feelings, calling the episode \"all political\" while debating whether some tech CEOs are irreplaceable."
+        }
+      ],
+      "disputed": [
+        "How much Trump pressured the board: Trump says he persuaded directors, while Huang calls reports of pressure \"completely untrue.\"",
+        "The extent of Huang's alleged disclosures to Alice Huang and her alleged role as a Chinese asset are unverified.",
+        "Whether the congressional hearings will go ahead.",
+        "The motive for the intervention: early reporting cited in the Guardian says Trump wanted to rally the stock market."
+      ],
+      "why": "It tests how far the government will go to shield a company central to the AI economy, despite national security questions.",
+      "coverage": {
+        "left": 5,
+        "center": 8,
+        "right": 2
+      },
+      "n_outlets": 15,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nvidia's one-man board: How Trump inherited Jensen Huang's scandal",
+          "url": "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal",
+          "published": "2026-11-24T10:10:06+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
+          "published": "2026-11-24T16:39:00+00:00"
+        },
+        {
+          "source": "Reason",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Jensen Huang Returns, TrumpCare, Woke Socialism",
+          "url": "https://reason.com/podcast/2026/11/24/jensen-huang-returns-trumpcare-woke-socialism/",
+          "published": "2026-11-24T17:00:32+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Live updates: Huang’s Nvidia return faces backlash; Iowa governor backs Army’s lead detonation date",
+          "url": "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/",
+          "published": "2026-11-24T21:15:00+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+          "published": "2026-11-24T20:32:02+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "How Jensen Huang reclaimed his throne: What to know",
+          "url": "https://www.washingtonexaminer.com/news/business/4814229/how-jensen-huang-reclaimed-nvidia-what-to-know/",
+          "published": "2026-11-24T20:55:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Court clears Army to detonate five tons of degraded lead azide in Iowa",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "The 8th US Circuit Court of Appeals on Monday rejected environmental groups' challenge to an emergency EPA permit, clearing the Army to destroy about 68 barrels of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning. The Army says the explosive, stored for more than two decades, is too dangerous to move and is more likely to detonate on its own as temperatures fall. Residents and officials have criticized poor communication about health risks from the lead dust plume, which is projected to move southwest toward Missouri. Trump said he wanted Democratic Gov.-elect Rob Sand to sign off; Sand said the decision belongs to the administration.",
+      "key_facts": [
+        "The blast is set for 9 a.m. local time (10 a.m. ET) Wednesday after three delays from an original Nov. 20 date.",
+        "An emergency alert said some people within 5 miles southwest may be evacuated and those within 20 miles should stay indoors.",
+        "The court wrote that degraded explosives \"present a risk of an uncontrolled and unplanned explosion.\"",
+        "Mitigation includes blast barriers, ballistic gels and foams, and thousands of gallons of water.",
+        "Outgoing Gov. Kim Reynolds supports the detonation; Acting Army Secretary Adam Telle ordered a review of all Army weapons storage facilities."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Vox called detonation possibly \"the least bad option\" but stressed lead's toxicity, residents' anger, and questions about alternatives, and said Trump tried to shift consequences onto Sand. PBS (AP) and the Guardian reported officials' reassurances, plume maps and safety steps in detail, noting that environmentalists' challenge targeted the permit's validity."
+        },
+        {
+          "lean": "center",
+          "framing": "CNBC and The Hill concentrated on the court ruling, the Army's safety rationale, health warnings from Iowa officials, and the uncertainty Trump's social media post added, quoting Sand's call for transparency."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner focused on accountability, highlighting Telle's order to examine every storage facility \"to ensure that something like this never happens again\" and calling the situation a \"debacle.\""
+        }
+      ],
+      "disputed": [
+        "How far the plume could spread: the Washington Post, cited by Vox, said up to 100 miles, while the Army says barriers will contain much of it.",
+        "Why the Army did not pursue other disposal methods, though the court said alternatives were evaluated.",
+        "How Middletown came to this situation remains unexplained, as Sand noted."
+      ],
+      "why": "Thousands of people in Iowa and Missouri face possible lead exposure, and the case raises questions about how aging munitions are managed.",
+      "coverage": {
+        "left": 4,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
+          "url": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+          "published": "2026-11-24T11:56:49+00:00"
+        },
+        {
+          "source": "Vox",
+          "lean": "left",
+          "bucket": "left",
+          "title": "Why the Army wants to detonate toxic explosives in Iowa",
+          "url": "https://www.vox.com/today-explained-newsletter/511830/iowa-lead-azide-explosives-detonation-plume",
+          "published": "2026-11-24T21:05:00+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Acting Army secretary orders ‘thorough examination of every such weapon storage facility’ following Iowa debacle",
+          "url": "https://www.washingtonexaminer.com/policy/defense/4813934/army-secretary-examination-weapon-storage-facility-iowa/",
+          "published": "2026-11-24T20:22:41+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch: Army, FEMA officials give update on planned Iowa detonation",
+          "url": "https://thehill.com/video-clips/6239478-watch-live-army-fema-officials-joint-press-conference-iowa-detonation/",
+          "published": "2026-11-24T14:57:33+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Army plans to detonate Iowa stockpile on Wednesday, tells public there's no reason to panic",
+          "url": "https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday",
+          "published": "2026-11-24T13:34:10+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US army maps show projected path of toxic dust from Iowa detonation",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
+          "published": "2026-11-24T19:35:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Prosecutor drops rental car charge against North Carolina Rep.-elect LaKesha Womack",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Mecklenburg County DA Spencer Merriweather dismissed, with prejudice, a felony charge against Democratic Rep.-elect LaKesha Womack over a car she rented in 2019 and did not return on time. The DA said Womack paid Budget the rental cost for the overdue period and the company did not want to prosecute. The 2020 summons was served only last month, at a campaign event. Womack, who said she was homeless at the time, defeated Republican Rep. Tim Moore and will be sworn in in January.",
+      "key_facts": [
+        "The car was rented Aug. 27, 2019, renewed twice, and recovered by police Dec. 4, 2019.",
+        "The criminal summons was issued Jan. 14, 2020.",
+        "The dismissal was filed with prejudice, so the charge cannot be refiled.",
+        "Womack won the 14th District; WFAE says Democrats won 11 of the state's 14 seats."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "WFAE reported the resolution and noted that the negative publicity did not hurt her campaign, placing her win within a Democratic \"blue wave.\""
+        },
+        {
+          "lean": "center",
+          "framing": "Local TV outlets relied closely on the DA's timeline and news release, with WSOC adding Womack's homelessness explanation. Axios framed the charge as a \"bothersome footnote\" for one of several little-known \"wave babies.\""
+        }
+      ],
+      "disputed": [],
+      "why": "It removes a legal cloud over an incoming member of Congress before she takes office.",
+      "coverage": {
+        "left": 1,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 7,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "DA dismissing charge against Congresswoman-elect LaKesha Womack",
+          "url": "https://www.wsoctv.com/news/local/da-dismissing-charge-against-congresswoman-elect-lakesha-womack/RJULF4ZT3FA4FLRRETZT7SNBPM/",
+          "published": "2026-11-24T18:02:08+00:00"
+        },
+        {
+          "source": "WFAE (Charlotte NPR)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "DA says Rep.-elect Womack, rental car company have resolved dispute; case will not be prosecuted",
+          "url": "https://www.wfae.org/2026-11-24/district-attorney-says-lakesha-womack-rental-car-company-have-resolved-dispute-case-will-not-be-prosecuted",
+          "published": "2026-11-24T19:23:41+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Criminal charge against incoming House Democrat dropped",
+          "url": "https://www.axios.com/2026/11/24/lakesha-womack-charge-dropped-rental-car-nc",
+          "published": "2026-11-24T19:42:11+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "North Carolina drops felony charge against Rep.-elect LaKesha Womack",
+          "url": "https://thehill.com/homenews/house/6240728-lakesha-womack-felony-charges-dropped/",
+          "published": "2026-11-24T20:23:11+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Mecklenburg County DA drops rental car case against Congresswoman-elect LaKesha Womack",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county-da-drops-rental-car-case-against-congresswoman-elect-lakesha-womack/",
+          "published": "2026-11-24T19:43:03+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charge dismissed for Rep.-elect LaKesha Womack in rental car case, Mecklenburg DA says",
+          "url": "https://www.wcnc.com/article/news/politics/charge-dismissed-for-rep-elect-lakesha-womack-in-rental-car-case/275-e4bacc2f-3995-41e5-88a8-03b905d0aad4",
+          "published": "2026-11-24T18:18:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Trump pardons Thanksgiving turkeys Freedom and Feathers",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "President Trump pardoned two West Virginia turkeys, Freedom and Feathers, in the annual White House ceremony on Tuesday, with Freedom receiving the formal honor. The public voted on the names, which outlets said honor America's 250th birthday. Trump also praised his White House ballroom under construction and said next year's ceremony will be held there. Both birds will retire to Texas A&M University.",
+      "key_facts": [
+        "It was the 79th presidential turkey presentation; pardons became annual in 1989 under George H.W. Bush.",
+        "The National Turkey Federation first presented a turkey to Harry Truman in 1947.",
+        "Both birds were hatched at Deans Gap Farm in West Virginia.",
+        "Melania Trump and Speaker Mike Johnson joined the pardon."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS emphasized the tradition's history and noted that politics sometimes intrudes, recalling Trump's 2025 jokes about naming the birds after Schumer and Pelosi."
+        },
+        {
+          "lean": "center",
+          "framing": "Most outlets treated it as a light tradition story. Axios noted that Trump used the event to praise his ballroom in a \"rally-reminiscent speech.\""
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner gave a brief, celebratory account (\"Freedom lives\")."
+        }
+      ],
+      "disputed": [
+        "WSOC's reported weights appear inconsistent (Feathers 40 lb; Freedom \"heavier\" at 21 lb).",
+        "Reports differ on the venue, citing both the White House helipad and the South Lawn."
+      ],
+      "why": "It is a long-running holiday ritual that also shows how presidents use the stage.",
+      "coverage": {
+        "left": 1,
+        "center": 4,
+        "right": 1
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump pardons Thanksgiving turkeys in annual tradition",
+          "url": "https://www.wsoctv.com/news/trending/trump-pardons-thanksgiving-turkeys-annual-tradition/H62FBDN4ZBFT3KRG2VENQEQRPU/",
+          "published": "2026-11-24T19:48:37+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers",
+          "published": "2026-11-24T14:56:08+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Freedom lives: Trump pardons turkeys Feathers and Freedom",
+          "url": "https://www.washingtonexaminer.com/news/white-house/4814281/freedom-feathers-turkey-thanksgiving-presidential-pardon/",
+          "published": "2026-11-24T21:03:35+00:00"
+        },
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch: Trump pardons turkeys Freedom and Feathers",
+          "url": "https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T20:45:09+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Trump talks turkey, and his ballroom, at pardoning event",
+          "url": "https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom",
+          "published": "2026-11-24T20:01:04+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Watch: Trump pardons turkeys Freedom, Feathers in annual Thanksgiving tradition",
+          "url": "https://thehill.com/homenews/administration/6240328-watch-live-donald-trump-thanksgiving-turkey-pardon-2026/",
+          "published": "2026-11-24T18:25:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Wind threatens Macy's parade balloons; Charlotte's Thanksgiving Eve parade canceled",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "A storm forecast for Thanksgiving could ground balloons at the 100th Macy's Thanksgiving Day Parade in New York. City rules bar large balloons if sustained winds exceed 23 mph or gusts exceed 34 mph, and the National Weather Service expects gusts of 30 to 40 mph Thursday morning. Macy's says the decision will be made the morning of the parade, and floats and performers would still march. Separately, bad weather canceled Charlotte's Thanksgiving Eve parade, with ticket holders to be refunded.",
+      "key_facts": [
+        "The parade starts at 8:30 a.m. Thursday.",
+        "The wind rules followed a 1997 accident in which a balloon hit a lamppost and critically injured a woman.",
+        "Balloons were last grounded for weather in 1971.",
+        "Mayor Zohran Mamdani, the NYPD and Macy's planned a press briefing Wednesday at 5:30 p.m. ET."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS (AP) offered a practical explainer on the rules, the forecast and the decision process, quoting the NWS and Macy's."
+        },
+        {
+          "lean": "center",
+          "framing": "The Hill focused on whether the parade has ever been canceled, noting it never has been for weather; WCNC reported the Charlotte cancellation."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller used a gloomier tone (\"doom and gloom\"), adding holiday travel figures and record-high gas prices."
+        }
+      ],
+      "disputed": [
+        "Whether the balloons will fly will be decided on parade morning."
+      ],
+      "why": "It affects holiday plans for millions of viewers and attendees.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Weather threatens Macy’s Thanksgiving Day Parade. Has it ever been canceled?",
+          "url": "https://thehill.com/homenews/state-watch/6240331-macys-thanksgiving-day-parade-2026-weather-warnings/",
+          "published": "2026-11-24T18:50:30+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Will wind ground your favorite balloon in Macy's Thanksgiving Day Parade?",
+          "url": "https://www.pbs.org/newshour/arts/will-wind-ground-your-favorite-balloon-in-macys-thanksgiving-day-parade",
+          "published": "2026-11-24T18:13:14+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Macy’s Thanksgiving Day Parade Set For Doom And Gloom, Would Be First Time Since 1971",
+          "url": "https://dailycaller.com/2026/11/24/macys-thanksgiving-day-parade-balloons-floats-performers-list-storms-new-york-city-weather-report",
+          "published": "2026-11-24T19:52:18+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bad weather cancels Charlotte's Thanksgiving Eve parade",
+          "url": "https://www.wcnc.com/article/weather/weather-impact/charlottes-thanksgiving-eve-parade-canceled/275-55c3489d-b007-41ac-912b-2d1d96d98134",
+          "published": "2026-11-24T10:36:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Court unseals redacted records on search of Rep. Ilhan Omar's home; House lawyer disputes DOJ account",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Chief Judge James Boasberg ordered partial unsealing of 169 pages of records on the Oct. 12 DHS search of Rep. Ilhan Omar's Washington home, after a lawsuit by news organizations. The records show the warrant sought evidence of crimes from 1980 to the present, with the offenses redacted. Magistrate Judge Matthew Sharbaugh rejected DOJ's argument that the Speech or Debate Clause does not cover a member's home and required a protocol letting Omar assert privilege. House General Counsel Matthew Berry called DOJ's claim that he backed its position \"categorically false,\" and The Hill reports DOJ has since apologized to him. Omar has not been charged, denies wrongdoing and calls the probe politically motivated.",
+      "key_facts": [
+        "A 67-page search warrant affidavit remains sealed.",
+        "AP reported a probe into possible fraud in her family's immigration paperwork, with grand jury subpoenas issued to relatives.",
+        "The search came 22 days before the Nov. 3 midterms, which Omar won.",
+        "Prosecutors say the alleged crimes are decades old and unrelated to her work in Congress."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS (AP) emphasized the constitutional debate and the judge's protection of Omar's privileges, noting she has faced anti-immigrant rhetoric from Trump. Al Jazeera led with Berry's rebuttal and quoted critics who called the raid unlawful and highly unusual."
+        },
+        {
+          "lean": "center",
+          "framing": "The BBC covered the records' scope back to 1980, Omar's denials, administration officials' allegations, and concerns about the election timing. The Hill focused on DOJ's apology to Berry."
+        }
+      ],
+      "disputed": [
+        "What crimes are under investigation remains redacted.",
+        "Officials have alleged marital and immigration fraud; Omar calls the investigations \"shams.\"",
+        "Whether DOJ misrepresented Berry's position to the court: he says it did, and The Hill reports an apology.",
+        "The Hill identifies Omar as D-Mich., while other outlets say Minnesota."
+      ],
+      "why": "It tests the limits of executive power to investigate sitting members of Congress.",
+      "coverage": {
+        "left": 3,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 5,
+      "blindspot": "left",
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US court unseals heavily redacted records on Ilhan Omar home search",
+          "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T16:32:16+00:00"
+        },
+        {
+          "source": "The Guardian (US)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Judge unseals records on Ilhan Omar’s home search amid constitutional debate",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/ilhan-omar-home-search-judge-ruling",
+          "published": "2026-11-24T13:25:02+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "DOJ apologizes to House’s top lawyer for dispute about Omar home search",
+          "url": "https://thehill.com/regulation/court-battles/6241076-doj-apologizes-house-lawyer-berry/",
+          "published": "2026-11-24T21:23:36+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+          "url": "https://www.pbs.org/newshour/politics/records-show-how-doj-judge-debated-constitutional-implications-of-searching-rep-ilhan-omars-home",
+          "published": "2026-11-24T15:56:52+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
+          "url": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home",
+          "published": "2026-11-24T19:15:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Russia reportedly preparing nuclear-armed satellite as China launches first foreign astronaut",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "German media, citing anonymous military and intelligence sources, reported that NATO allies were told Russia may launch a nuclear-armed satellite, dubbed \"Sputnik-S,\" within 60 days. NATO chief Mark Rutte vowed to defend against space threats, and Chancellor Friedrich Merz called such reports \"shocking\" without confirming them. The Kremlin dismissed the reports as unfounded propaganda. Separately, China's Shenzhou-24 is set to launch Wednesday carrying Pakistani Muhammad Zeeshan Ali, the first foreign astronaut to visit its Tiangong station.",
+      "key_facts": [
+        "Russia is a signatory to the 1967 Outer Space Treaty, which bans weapons of mass destruction in orbit.",
+        "In 2024 the US accused Russia of developing a nuclear anti-satellite weapon, which Russia denied.",
+        "Shenzhou-24 launches at 8:18 a.m. local time Wednesday from Jiuquan.",
+        "Ali, a 40-year-old former Pakistani air force pilot, will spend about five days in orbit."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The BBC reported the satellite claims with Russian denials, expert caveats about indiscriminate effects, and notes that the US and China also pursue space weapons. DW and CNA covered the Pakistani astronaut as a milestone in China-Pakistan ties amid the moon race with the US."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner linked the two stories, arguing that China's peaceful space diplomacy is belied by its partner Russia, and treated the satellite plan as fact (\"Moscow is about to put a nuclear weapons satellite in space\")."
+        }
+      ],
+      "disputed": [
+        "The satellite reports rest on anonymous sources and unattributed intelligence; Russia denies them.",
+        "Whether a launch is actually imminent."
+      ],
+      "why": "A nuclear weapon in orbit could threaten the satellites that underpin communications and navigation worldwide.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T10:58:51+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "China’s space diplomacy belied by Russia’s nuclear weapon satellite",
+          "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4814104/china-space-diplomacy-russia-nuclear-weapon-satellite/",
+          "published": "2026-11-24T21:11:05+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Pakistani astronaut to join Chinese space mission",
+          "url": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-24T09:03:00+00:00"
+        },
+        {
+          "source": "CNA (Channel NewsAsia)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "China to launch Shenzhou-24 spaceship with first foreign astronaut",
+          "url": "https://www.channelnewsasia.com/east-asia/china-first-foreign-astronaut-pakistani-national-shenzhou-24-6576981",
+          "published": "2026-11-24T03:42:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "CIA and ODNI open-source intelligence network breached",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "A network used by the CIA and the Office of the Director of National Intelligence to analyze publicly available information was breached, The New York Times first reported. A source told AP that no classified information was affected and the issue was resolved. It is unclear who was responsible or what data was exposed. An FBI source told Fox News the breach occurred the same day as a cyber breach at the FBI last week.",
+      "key_facts": [
+        "The affected system was unclassified.",
+        "The CIA did not immediately comment.",
+        "The breach follows a string of recent tech disruptions, several of which officials attributed to unrelated technical problems."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Newsweek stressed what is unknown and put the breach in the context of broader outages, while noting that officials linked several of them to technical issues rather than attacks."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News and the Washington Examiner emphasized the breach as part of a string of alarming incidents, with Fox linking it to the FBI breach."
+        }
+      ],
+      "disputed": [
+        "Who carried out the attack and how.",
+        "What information was exposed, including at other agencies.",
+        "Whether it is linked to the FBI breach."
+      ],
+      "why": "It points to vulnerabilities in US intelligence systems amid a wave of cyber incidents.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 2
+      },
+      "n_outlets": 3,
+      "blindspot": "right",
+      "links": [
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "CIA Hacked in Cybersecurity Breach: Here's What Was Impacted",
+          "url": "https://www.newsweek.com/cia-hacked-in-cybersecurity-breach-heres-what-was-impacted-12765090",
+          "published": "2026-11-24T21:18:32+00:00"
+        },
+        {
+          "source": "Fox News",
+          "lean": "right",
+          "bucket": "right",
+          "title": "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
+          "url": "https://www.foxnews.com/politics/cia-hit-cyber-breach-exposed-unclassified-data-intelligence-analysis-network-sources",
+          "published": "2026-11-24T20:53:34+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "CIA and ODNI hit by cybersecurity breach of open-source intelligence systems: Report",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4814275/cia-odni-cybersecurity-breach-open-source-intelligence/",
+          "published": "2026-11-24T21:07:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "South Korea scrambles jets and alerts island residents as Russian aircraft approach",
+      "topics": [
+        "Korea"
+      ],
+      "summary": "Several Russian military aircraft entered South Korea's air defense identification zone (KADIZ) on Tuesday and approached Ulleungdo island before turning away after South Korean jets were scrambled. The military issued a pre-emptive shelter alert to the island's roughly 8,700 residents, which was lifted after three minutes. A second provincial message mistakenly referred to a North Korean aircraft, an error the province blamed on drill wording. Seoul's defense ministry summoned the Russian attaché, and the foreign ministry conveyed regret.",
+      "key_facts": [
+        "No sovereign airspace violation occurred.",
+        "The alert was issued at 7:52 a.m. and lifted at 7:55 a.m.",
+        "Russia does not recognize the KADIZ notification requirement.",
+        "Yonhap said the aircraft came closer than in any previous incident this year."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian focused on the alarm and confusion among island residents and the erroneous message, and noted that Chinese incursions far outnumber Russian ones."
+        },
+        {
+          "lean": "center",
+          "framing": "The Korea Herald explored Moscow's possible motives through expert analysis, such as pressure over sanctions or Ukraine and signals to Washington. Yonhap reported the diplomatic response."
+        }
+      ],
+      "disputed": [
+        "The number of aircraft is unclear: Yonhap says about five, the Korea Herald fewer than five.",
+        "Counts differ for how many entries occurred this year (four vs five) and recently (second in a week vs third in eight days).",
+        "Russia's intentions are unknown."
+      ],
+      "why": "It signals rising friction in Northeast Asia as Russia deepens ties with North Korea.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "What is Russia signaling with repeated military flights near Korea?",
+          "url": "https://www.koreaherald.com/article/10947647",
+          "published": "2026-11-24T06:06:34+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+          "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+          "published": "2026-11-24T04:14:43+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "S. Korea's foreign ministry expresses regret to Russia over warplanes' KADIZ entry",
+          "url": "https://en.yna.co.kr/view/AEN20261124006800315",
+          "published": "2026-11-24T06:37:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "US consumer confidence jumps after midterms; South Korean sentiment falls",
+      "topics": [
+        "Korea",
+        "US Headlines"
+      ],
+      "summary": "The Conference Board's US consumer confidence index rose 11.4 points to 103.3 in November, far above forecasts, with Democrats and independents more upbeat while Republicans dipped slightly. Respondents still voiced frustration over high prices, and 12-month inflation expectations remained at 5.7%. The Fed is expected to raise rates by a quarter point in two weeks. In South Korea, the Bank of Korea's consumer sentiment index fell 2.3 points to 103.1, a seven-month low, which officials blamed on rising lending rates, stock declines and chip-industry uncertainty.",
+      "key_facts": [
+        "The US index rose from 91.9 to 103.3, against a consensus forecast of 92.2.",
+        "The gap between US jobs seen as \"plentiful\" and \"hard to get\" widened to 12.4 points.",
+        "The University of Michigan's survey also rose 7.3% in November.",
+        "South Korean households expect 2.6% inflation over the next year, a nine-month low."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC framed the US jump as a post-midterm boost with a partisan split, tempered by inflation worries; The Hill reported the numbers plainly. The Korea Herald detailed the broad-based decline across Korean sentiment components."
+        }
+      ],
+      "disputed": [],
+      "why": "Consumer mood shapes spending and central bank decisions in both economies.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Consumer sentiment hits 7-month low as stocks slide",
+          "url": "https://www.koreaherald.com/article/10947601",
+          "published": "2026-11-24T05:50:58+00:00"
+        },
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+          "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+          "published": "2026-11-24T18:34:43+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Consumer sentiment surged in November: Conference Board",
+          "url": "https://thehill.com/business/6240686-consumer-confidence-spiked-november/",
+          "published": "2026-11-24T20:04:19+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "new_developments",
+      "update": "Only one relevant item appeared: a Daily Caller piece headlined \"Signs Point Toward AI Safety Crackdown From Swamp,\" which suggests Washington may be moving toward \"tighter guardrails\" on AI. The excerpt gives no details on specific measures, and nothing addresses the EU.",
+      "links": [
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "Signs Point Toward AI Safety Crackdown From Swamp",
+          "url": "https://dailycaller.com/2026/11/24/big-tech-congress-ai-safety-crackdown",
+          "published": "2026-11-24T15:09:49+00:00"
+        }
+      ]
+    }
+  ],
+  "balance": {
+    "left": 12,
+    "center": 26,
+    "right": 8
+  },
+  "stats": {
+    "articles": 622,
+    "stories_found": 465,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

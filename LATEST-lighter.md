@@ -1,172 +1,173 @@
-# The Lighter Brief: Morning edition
-_Tuesday, November 24, 2026 · 1:28 AM EST · 291 articles from 22 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Tuesday, November 24, 2026 · 4:33 PM EST · 302 articles from 23 outlets · summaries by Claude_
 
-> A busy Monday: Jensen Huang is back running Nvidia just 11 days after resigning, with Congress lining up questions, and the Army got a court's go-ahead for a controlled blast in Iowa. Closer to home for Charlotte readers, the Thanksgiving Eve parade was called off because of wind, and the city council is weighing a rule requiring air conditioning in rentals. There's also a new breast cancer pill approval and a handy reminder about pet-influencer scams.
+> A cozy, Thanksgiving-flavored edition: turkeys got their pardons, the Macy's parade turns 100, and the Carolinas are bracing for a soggy, windy holiday trip. There's also good news for Charlotte job-seekers, a first-ever FDA-approved treatment for a rare muscle disease, and a dramatic boardroom comeback at Nvidia.
 
 
 
 ---
 
-## 1. Jensen Huang is back as Nvidia's CEO
-`US Headlines` · Covered by 5 outlets
+## 1. Rental-car charge dropped for Congresswoman-elect LaKesha Womack
+`Charlotte` · Covered by 6 outlets
 
-Nvidia's board unanimously reinstated founder Jensen Huang as CEO on Monday, 11 days after he resigned. He stepped down following reports of extramarital affairs, including one with a woman U.S. officials suspected of ties to Chinese intelligence. President Trump said he helped persuade the board, and lawmakers from both parties are asking questions about national security.
+Mecklenburg County's district attorney is dismissing a felony charge against North Carolina Rep.-elect LaKesha Womack over a rental car that wasn't returned on time in 2019. Womack has said she was experiencing homelessness then. She reached an agreement with Budget and paid the overdue rental costs, and the company said it considered the matter resolved. Womack won a heavily Republican district in an upset this month.
 
 **Key facts**
-- Huang resigned Nov. 12 and was reinstated Monday, Nov. 23.
-- Nvidia stock rose more than 30% on the news.
-- Huang is scheduled for closed-door testimony on Capitol Hill on Dec. 1.
-- Senate Minority Leader Chuck Schumer says Democrats will use their 'full power' to investigate.
+- The car was rented Aug. 27, 2019, and recovered by law enforcement Dec. 4, 2019.
+- The summons was issued in January 2020, but the warrant wasn't served until October 2026, during her campaign.
+- The DA dismissed the charge 'with prejudice,' meaning it can't be refiled.
+- Womack defeated Republican Rep. Tim Moore in the 14th District.
 
 **Good to know**
-- Confirmed: Huang resigned after news reports of affairs and has now been reinstated.
-- Reported but not proven: one relationship was with a Megaspeed executive whom U.S. officials believed had ties to Chinese intelligence.
-- Nvidia's board says it is 'confident' there is no national security risk. Sen. John Cornyn (R-Texas) and others have publicly questioned what that conclusion is based on.
-- Trump says he 'convinced' the board. Schumer argues Trump put his own and his allies' financial interests ahead of national security.
+- Confirmed: the charge was dismissed after repayment and at the rental company's request. No court ever ruled on guilt.
 
-**Worth knowing:** Nvidia makes many of the chips behind today's AI boom, so who leads it, and how that was decided, matters to the economy and to policymakers in both parties.
+**Worth knowing:** It clears a cloud over an incoming member of Congress before she takes office.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/24/jensen-huang-returns-nvidia-ceo/): Jensen Huang returns to Nvidia as CEO
-- [NPR](https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump): Trump claims credit as Jensen Huang returns to Nvidia
-- [Axios](https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction): Jensen Huang's return to Nvidia sparks bipartisan backlash on Capitol Hill
-- [The Hill](https://thehill.com/homenews/senate/6237752-schumer-democrats-nvidia-ceo-huang-probe/): Schumer: Democrats will use ‘full power’ to probe Huang, Trump, Nvidia executives
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/da-dismissing-charge-against-congresswoman-elect-lakesha-womack/RJULF4ZT3FA4FLRRETZT7SNBPM/): DA dismissing charge against Congresswoman-elect LaKesha Womack
+- [Axios](https://www.axios.com/2026/11/24/lakesha-womack-charge-dropped-rental-car-nc): Criminal charge against incoming House Democrat dropped
+- [The Hill](https://thehill.com/homenews/house/6240728-lakesha-womack-felony-charges-dropped/): North Carolina drops felony charge against Rep.-elect LaKesha Womack
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county-da-drops-rental-car-case-against-congresswoman-elect-lakesha-womack/): Mecklenburg County DA drops rental car case against Congresswoman-elect LaKesha Womack
 
 
-## 2. Don Toliver's Manchester show evacuated; London date moved to Dec. 15
-`Hip Hop & Celebrity` · Covered by 3 outlets
-
-More than 12,000 fans were safely escorted out of Don Toliver's concert at Manchester's Co-op Live on Sunday night after people reported eye and breathing irritation from an unknown substance. One person went to the hospital for assessment, and police are investigating. Toliver moved his London O2 show to Dec. 15, and Manchester ticket holders are getting automatic refunds.
-
-**Key facts**
-- The incident happened shortly after 10 p.m. on Nov. 22.
-- Medics assessed more than 80 people, according to updated ambulance service figures; one person was taken to the hospital.
-- O2 London tickets are valid for the new Dec. 15 date.
-- The Nov. 24 show at OVO Arena Wembley was still listed on the venue's calendar.
-
-**Good to know**
-- Police initially suspected tear gas but have not confirmed what the substance was.
-- How the substance got into the arena is still under investigation.
-- Early reports put the number assessed at about 50; later figures say more than 80.
-
-**Worth knowing:** If you had tickets, here's the practical bit: Manchester refunds are automatic and London tickets carry over to Dec. 15.
-
-**Read it yourself:**
-- [XXL](https://www.xxlmag.com/don-toliver-manchester-show-evacuated-tear-gas/): More Than 12,000 Fans Evacuated From Don Toliver’s U.K. Concert
-- [AllHipHop](https://allhiphop.com/news/don-toliver-moves-london-o2-show-manchester-fans-get-refunds/): Don Toliver Moves London O2 Show & Manchester Fans Get Refunds
-- [VIBE](https://www.vibe.com/music/music-news/don-toliver-manchester-show-evacuation-unknown-substance-1235204337/): Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd
-
-
-## 3. Rep. Jimmy Gomez to resign after House ethics report
-`US Headlines` · Covered by 3 outlets
-
-California Democrat Jimmy Gomez says he will resign from Congress on Dec. 1. The bipartisan House Ethics Committee released a report finding substantial evidence that he made unwelcome sexual advances toward a House staffer. Gomez says he strongly disagrees with the findings and the process, but sees no alternative to resigning.
-
-**Key facts**
-- Gomez has represented part of Los Angeles since 2017.
-- He had already lost his reelection race this month to fellow Democrat Angela Gonzales-Torres.
-- The Ethics Committee has five Democrats and five Republicans.
-- The committee said there wasn't enough time to pursue a House sanction before he leaves office.
-
-**Good to know**
-- Confirmed: the committee's report found substantial evidence of misconduct, and Gomez has announced his resignation.
-- Gomez disputes the report, saying it left out key parts of his testimony and selectively quoted him.
-
-**Worth knowing:** His resignation moves up the change in who represents this Los Angeles district, and the case is part of a wider conversation about workplace conduct on Capitol Hill.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss): California Democrat to resign from Congress after evidence of sexual misconduct
-- [NPR](https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations): California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations
-- [The Hill](https://thehill.com/homenews/house/6238399-jimmy-gomez-congress-resignation/): Democrat Gomez resigns from House after sexual misconduct report
-
-
-## 4. Charlotte's Thanksgiving Eve Parade called off for wind
-`Charlotte` `US Headlines` · Covered by 3 outlets
-
-Organizers canceled the 80th annual Novant Health Thanksgiving Eve Parade in uptown Charlotte. The forecast calls for high winds, strong gusts, rain and cold, which would make the giant balloons, floats and setup equipment unsafe. The parade usually goes on rain or shine, but organizers called this year's conditions exceptional.
-
-**Key facts**
-- This would have been the parade's 80th year.
-- Dozens of parade units had already withdrawn.
-- Ticket buyers will automatically get a full refund.
-
-**Worth knowing:** If you were planning to go, you don't need to do anything to get your money back, and it's a good cue to keep an eye on the holiday forecast.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlottes-thanksgiving-eve-parade-canceled-due-expected-bad-weather/XNKCCNTPBBF4DBYLGPSDDCCZPE/): Charlotte’s Thanksgiving Eve parade canceled due to expected bad weather
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/organizers-cancel-charlotte-thanksgiving-eve-parade/): Organizers cancel Charlotte Thanksgiving Eve parade
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/weather-impact/charlottes-thanksgiving-eve-parade-canceled/275-55c3489d-b007-41ac-912b-2d1d96d98134): Charlotte's Thanksgiving Eve Parade canceled for inclement weather
-
-
-## 5. Army cleared to proceed with controlled Iowa detonation Wednesday
+## 2. Jensen Huang is back as Nvidia's CEO, with a push from Trump
 `US Headlines` · Covered by 4 outlets
 
-A federal appeals court ruled that the Army can detonate 68 barrels of degraded lead azide, an unstable explosive compound, at the Iowa Army Ammunition Plant near Middletown. The court found that the EPA's emergency permit includes adequate safeguards to limit lead dust. Earlier in the day President Trump had paused the plan, but the Army says it is now going ahead Wednesday morning with support from state officials.
+Nvidia brought back co-founder Jensen Huang as CEO less than two weeks after he resigned over revelations of extramarital affairs, including one with a woman alleged to be a Chinese spy. President Trump said he convinced the board and gave it national security assurances. Investors loved the news, but some lawmakers, the Wall Street Journal's editorial board and workplace-culture advocates have criticized the move.
 
 **Key facts**
-- The blast covers about five tonnes of material that officials say could explode on its own.
-- Safeguards include barriers, weather restrictions, advance public notice and air monitoring.
-- The date has changed several times since the original plan for last Friday.
-- Gov. Kim Reynolds supports going forward. Gov.-elect Rob Sand says the decision belongs to the administration and is asking for more public information.
+- Nvidia shares jumped 31%, adding almost $1 trillion in market value.
+- Huang resigned Nov. 12; the board had said last week it didn't plan to reinstate him.
+- Huang is set to be questioned by Congress next week.
+- The Commerce Department is preparing to blacklist Megaspeed, the Singapore company Alice Huang ran.
 
-**Worth knowing:** People who live or work nearby have been advised to avoid the area and stay indoors during the detonation, and environmental groups and the incoming governor are pushing for more transparency.
+**Good to know**
+- Alleged: that Alice Huang (no relation) is a spy for China. China denies it.
+- Alleged: an affair with Nvidia executive Kimberly Powell, one of Huang's direct reports.
+- Confirmed: Nvidia's board found his behavior 'inconsistent' with its code of conduct, then voted unanimously to reinstate him.
+
+**Worth knowing:** Nvidia makes the chips behind much of the AI boom, so its leadership affects markets well beyond one company.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/23/trump-tells-army-hold-off-lead-azide-detonation-iowa/): Federal appeals court clears way for US Army to detonate degraded bomb-making material in Iowa
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss): US Army to detonate toxic explosives in Iowa after Trump paused plan
-- [Axios](https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump): Trump presses pause on Army's Iowa lead detonation
-- [The Hill](https://thehill.com/policy/energy-environment/6239030-army-detonates-lead-munitions-iowa/): Army proceeding with lead detonation on Wednesday
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss): Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
+- [NPR](https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women): For workplace culture champions, Jensen Huang's return is 'unfathomable'
+- [Axios](https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal): Nvidia's one-man board: How Trump inherited Jensen Huang's scandal
+- [The Hill](https://thehill.com/homenews/media/6239781-donald-trump-jensen-huang-national-security-nvidia-return-wall-street-journal-editorial-board/): Trump’s intervention on Huang will exact ‘heavy cost’ on rule of law, national security: WSJ editorial board
 
 
-## 6. Two former Jamaican PMs offer to help cool tensions in Parliament
-`Jamaica` · Covered by 1 outlet
+## 3. Carolinas: pack patience (and a raincoat) for Thanksgiving travel
+`US Headlines` `Charlotte` · Covered by 3 outlets
 
-Former prime ministers P.J. Patterson and Bruce Golding say they would be willing, if asked, to mediate disputes in Jamaica's House. The disagreements are between government and opposition lawmakers, and between the Opposition and House Speaker Juliet Holness. Initial talks have already started.
+A coastal storm expected to become a nor'easter is set to bring rain, gusty winds and chilly air to the Carolinas. The heaviest rain is expected Wednesday evening into Thanksgiving morning, with things drying out Thursday afternoon. Localized flooding and isolated power outages are possible.
 
 **Key facts**
-- The disputes led to one MP being suspended.
-- A censure motion against the Speaker has been tabled for debate.
-- The Opposition alleges bias in the Speaker's rulings.
+- Wind gusts could reach around 40 mph, near 50 mph in isolated spots if the storm tracks inland.
+- Wednesday highs may struggle to reach 50 in Charlotte.
+- Black Friday starts in the 30s, then sunny skies and a dry weekend.
+- Forecasters advise extra travel time, securing outdoor items, charging devices and never driving through flooded roads.
 
-**Worth knowing:** It's a nice moment when former leaders from opposite sides offer to help lower the temperature.
+**Worth knowing:** A little planning now can make holiday travel smoother and safer.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261124/truce-offer): TRUCE OFFER
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/24/first-alert-rain-gusty-winds-cold-temperatures-could-affect-thanksgiving-travel-carolinas/): First Alert: Rain, gusty winds and cold temperatures could affect Thanksgiving travel in the Carolinas
+- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/strong-winds-coastal-flooding-and-mountain-snow-carolinas-tracking-noreaster-for-holiday-travel-and-thanksgiving/): Strong winds, coastal flooding, and mountain snow: Carolinas tracking nor'easter for holiday travel and Thanksgiving
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Thanksgiving travel in Carolinas to face rain and gusty winds starting Wednesday
 
 
-## 7. Jamaica's government says no hurricane relief funds are missing
-`Jamaica` · Covered by 1 outlet
+## 4. Macy's parade turns 100, while Charlotte's parade gets rained out
+`US Headlines` `Charlotte` · Covered by 3 outlets
 
-Responding to an Auditor General's report on Jamaica's disaster agency, ODPEM, Local Government Minister Desmond McKenzie said no money donated for Hurricane Melissa relief is missing. He acknowledged problems at the agency, including some food supply issues he said cannot be defended. Opposition Leader Mark Golding has called for accountability and for ODPEM's director general to resign.
+Thursday brings the 100th Macy's Thanksgiving Day Parade, a tradition that started in 1924 with Macy's employees, many of them European immigrants, and even borrowed zoo animals. Weather is a concern, though Macy's has never canceled the parade because of weather. Closer to home, Charlotte's Thanksgiving Eve parade has been canceled due to the forecast.
 
 **Key facts**
-- The governing JLP says its ODPEM reforms predate the audit and points to a review published in January.
-- The police commissioner says all donated Starlink devices are accounted for.
-- The opposition PNP wants Commander Alvin Gayle to step down.
+- The parade airs Thursday, Nov. 26, 8:30 a.m. to noon ET on NBC, Peacock and Telemundo.
+- It was paused only twice, during World War II.
+- Benny Goodman's sextet is considered the first famous act to perform, in 1958.
+- Charlotte parade ticket holders will be refunded.
 
-**Worth knowing:** How relief money and supplies are handled affects how quickly communities recover after storms.
+**Worth knowing:** A century of balloons and marching bands is worth celebrating from the couch.
 
 **Read it yourself:**
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261124/jlp-says-odpem-reform-not-reaction-latest-audit): JLP says ODPEM reform not a reaction to latest audit
+- [Billboard](https://www.billboard.com/lists/macys-thanksgiving-parade-music-history-photos-100-years/): 100 Years of Music at Macy’s Thanksgiving Day Parade, For ‘An Audience Aged 1 to 100’
+- [The Hill](https://thehill.com/homenews/state-watch/6240331-macys-thanksgiving-day-parade-2026-weather-warnings/): Weather threatens Macy’s Thanksgiving Day Parade. Has it ever been canceled?
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/weather-impact/charlottes-thanksgiving-eve-parade-canceled/275-55c3489d-b007-41ac-912b-2d1d96d98134): Bad weather cancels Charlotte's Thanksgiving Eve parade
 
 
-## 8. Charlotte weighs requiring AC in homes
-`Charlotte` · Covered by 2 outlets
+## 5. Two former Jamaican prime ministers offer to help calm Parliament
+`Jamaica` · Covered by 2 outlets
 
-Charlotte City Council is considering a housing code change that would require homes to have cooling that can keep at least two rooms at 80 degrees or below from May through September. A majority of council members seemed supportive, but several raised concerns about costs for homeowners on fixed incomes. A vote could come soon.
+Former prime ministers PJ Patterson and Bruce Golding, who led from opposite parties, have offered to mediate a standoff in Jamaica's House of Representatives. The Opposition welcomed the offer, saying it is ready to sit at the table after talks with the Speaker broke down. The dispute grew out of a heated Nov. 3 session and an MP's later suspension.
 
 **Key facts**
-- Repairs would be required within 48 hours, and violations would be treated as imminently dangerous.
-- The rule would apply to both existing homes and new buildings.
-- Supporters say a window unit would count; central air isn't required.
-- The city has already given out about 200 window units in emergency situations.
+- Opposition MP Angela Brown Burke was suspended for six sittings; she denies physically assaulting the Speaker.
+- The Opposition has tabled a censure motion against Speaker Juliet Holness over alleged bias.
+- Phillip Paulwell: 'Jamaicans did not send us to Parliament to quarrel.'
 
-**Worth knowing:** If it passes, renters would gain a clear right to a cool room in summer, and landlords and homeowners would have new responsibilities.
+**Worth knowing:** It's a nice example of past rivals teaming up to help lower the temperature.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-weighing-ac-mandate/2IE4HIFOBNHCTFZMIY3WCYYM5I/): Charlotte weighing AC mandate
-- [Queen City News (FOX 46)](https://www.qcnews.com/weather/charlotte-council-considers-citywide-ac-mandate/): Charlotte council considers citywide AC mandate
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/24/opposition-welcomes-offer-patterson-golding-mediate-parliamentary-impasse/): Opposition welcomes offer by Patterson and Golding to mediate parliamentary impasse
+- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261124/truce-offer-ex-pms-patterson-golding-willing-broker-peace-amid-parliamentary): TRUCE OFFER - Ex-PMs Patterson, Golding willing to broker peace amid parliamentary crisis
+
+
+## 6. Freedom and Feathers get their turkey pardons
+`US Headlines` · Covered by 4 outlets
+
+President Trump pardoned this year's turkeys, Freedom and Feathers, in the annual White House tradition. The public voted on their names, which honor America's 250th birthday. The birds will retire to Texas A&M's Department of Poultry Science, to a climate-controlled home with a front porch.
+
+**Key facts**
+- This was the 79th National Thanksgiving Turkey Presentation.
+- Turkeys were first presented in 1947; formal pardons became a tradition in 1989 under George H.W. Bush.
+- Both birds were hatched at Deans Gap Farm in West Virginia.
+- Six undergraduate students will care for them.
+
+**Worth knowing:** Two birds got a porch and a student fan club. That's a good Tuesday.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/trump-pardons-thanksgiving-turkeys-annual-tradition/H62FBDN4ZBFT3KRG2VENQEQRPU/): Trump pardons Thanksgiving turkeys in annual tradition
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss): Watch: Trump pardons turkeys Freedom and Feathers
+- [Axios](https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom): Trump talks turkey, and his ballroom, at pardoning event
+- [The Hill](https://thehill.com/homenews/administration/6240328-watch-live-donald-trump-thanksgiving-turkey-pardon-2026/): Watch: Trump pardons turkeys Freedom, Feathers in annual Thanksgiving tradition
+
+
+## 7. On this day: Darwin's big book, plus a supermoon
+`Cute Animals` `Jamaica` · Covered by 2 outlets
+
+Nov. 24 marks 167 years since Charles Darwin published On the Origin of Species in 1859, a book publishers and librarians have voted the most influential academic book ever. Other anniversaries include the 1974 discovery of the 'Lucy' skeleton in Ethiopia. And on Tuesday night, the first of four supermoons expected through early 2027 lights up the sky.
+
+**Key facts**
+- Origin of Species was published Nov. 24, 1859.
+- 'Lucy' was discovered on this date in 1974.
+- Former Beatles drummer Pete Best turns 85.
+- Four supermoons are expected between late 2026 and early 2027.
+
+**Worth knowing:** It's a fun excuse to look up, at the sky and at the history of science.
+
+**Read it yourself:**
+- [Good News Network](https://www.goodnewsnetwork.org/events061124/): Good News in History, November 24
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/24/tuesday-november-24-2026/): Tuesday, November 24, 2026
+
+
+## 8. 2 Chainz breaks ribs in Cybertruck crash, says he's 'good'
+`Hip Hop & Celebrity` · Covered by 2 outlets
+
+Rapper 2 Chainz says he's resting with broken ribs after a head-on crash in his orange Tesla Cybertruck. He says another driver swerved to avoid an opossum and hit him. He thanked fans for checking in and pushed back on rumors about what caused the crash.
+
+**Key facts**
+- The crash happened Sunday, Nov. 22; he posted about it Nov. 24.
+- Footage showed heavy damage, including what appears to be a torn-off front axle.
+- He wrote that he wasn't drinking, smoking, sleeping or using autopilot.
+
+**Good to know**
+- The account of the crash comes from 2 Chainz's own post; no police report is cited.
+- Rumors that he was impaired were circulating; he denies them.
+
+**Worth knowing:** He's okay and recovering, and the opossum apparently made it too.
+
+**Read it yourself:**
+- [XXL](https://www.xxlmag.com/2-chainz-car-accident-cybertruck-details/): 2 Chainz Hit Head-On by a Driver Trying to Dodge an Opossum
+- [AllHipHop](https://allhiphop.com/news/2-chainz-says-he-broke-his-ribs-in-head-on-cybertruck-crash/): 2 Chainz Says He Broke His Ribs In Head-On Cybertruck Crash
 
 
 ---
-_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Newsweek, Positive News_
+_Feeds that failed this run: Radio Jamaica News, Nationwide News Network (Jamaica), Positive News_
