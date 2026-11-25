@@ -1,27 +1,24 @@
-# The Lighter Brief: Evening edition
-_Tuesday, November 24, 2026 · 4:33 PM EST · 302 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Morning edition
+_Wednesday, November 25, 2026 · 12:04 AM EST · 300 articles from 23 outlets · summaries by Claude_
 
-> A cozy, Thanksgiving-flavored edition: turkeys got their pardons, the Macy's parade turns 100, and the Carolinas are bracing for a soggy, windy holiday trip. There's also good news for Charlotte job-seekers, a first-ever FDA-approved treatment for a rare muscle disease, and a dramatic boardroom comeback at Nvidia.
+> A fairly gentle Tuesday: a new breast cancer pill got FDA approval, Senegal got its soccer trophy back, and Massachusetts turkeys reminded everyone who really runs Thanksgiving week. Closer to home in the Carolinas, watch the weather if you're traveling Wednesday night, and keep an eye on talk of I-77 toll lanes reaching into York County.
 
 
 
 ---
 
-## 1. Rental-car charge dropped for Congresswoman-elect LaKesha Womack
-`Charlotte` · Covered by 6 outlets
+## 1. Charge dropped against NC Congresswoman-elect LaKesha Womack
+`Charlotte` · Covered by 5 outlets
 
-Mecklenburg County's district attorney is dismissing a felony charge against North Carolina Rep.-elect LaKesha Womack over a rental car that wasn't returned on time in 2019. Womack has said she was experiencing homelessness then. She reached an agreement with Budget and paid the overdue rental costs, and the company said it considered the matter resolved. Womack won a heavily Republican district in an upset this month.
+Mecklenburg County's district attorney has dismissed a felony charge against Rep.-elect LaKesha Womack (D) over a rental car that wasn't returned in 2019. Womack paid Budget for the overdue rental period, and the company said it didn't want to prosecute and considered the matter resolved. Womack has said she was experiencing homelessness at the time.
 
 **Key facts**
-- The car was rented Aug. 27, 2019, and recovered by law enforcement Dec. 4, 2019.
-- The summons was issued in January 2020, but the warrant wasn't served until October 2026, during her campaign.
-- The DA dismissed the charge 'with prejudice,' meaning it can't be refiled.
-- Womack defeated Republican Rep. Tim Moore in the 14th District.
+- The car was rented Aug. 27, 2019 and recovered by law enforcement Dec. 4, 2019.
+- The charge was filed in 2020, but the warrant wasn't served until October 2026, during her campaign.
+- The dismissal is 'with prejudice,' meaning it can't be refiled.
+- Womack, a 49-year-old minister and consultant, defeated Republican Rep. Tim Moore in the 14th District.
 
-**Good to know**
-- Confirmed: the charge was dismissed after repayment and at the rental company's request. No court ever ruled on guilt.
-
-**Worth knowing:** It clears a cloud over an incoming member of Congress before she takes office.
+**Worth knowing:** It clears up an open legal question for the incoming representative of a district covering parts of Mecklenburg, Gaston, Cleveland and Burke counties.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/da-dismissing-charge-against-congresswoman-elect-lakesha-womack/RJULF4ZT3FA4FLRRETZT7SNBPM/): DA dismissing charge against Congresswoman-elect LaKesha Womack
@@ -30,143 +27,145 @@ Mecklenburg County's district attorney is dismissing a felony charge against Nor
 - [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county-da-drops-rental-car-case-against-congresswoman-elect-lakesha-womack/): Mecklenburg County DA drops rental car case against Congresswoman-elect LaKesha Womack
 
 
-## 2. Jensen Huang is back as Nvidia's CEO, with a push from Trump
-`US Headlines` · Covered by 4 outlets
+## 2. Rain and wind may slow Thanksgiving travel, then sunshine for Black Friday
+`US Headlines` `Charlotte` · Covered by 4 outlets
 
-Nvidia brought back co-founder Jensen Huang as CEO less than two weeks after he resigned over revelations of extramarital affairs, including one with a woman alleged to be a Chinese spy. President Trump said he convinced the board and gave it national security assurances. Investors loved the news, but some lawmakers, the Wall Street Journal's editorial board and workplace-culture advocates have criticized the move.
-
-**Key facts**
-- Nvidia shares jumped 31%, adding almost $1 trillion in market value.
-- Huang resigned Nov. 12; the board had said last week it didn't plan to reinstate him.
-- Huang is set to be questioned by Congress next week.
-- The Commerce Department is preparing to blacklist Megaspeed, the Singapore company Alice Huang ran.
-
-**Good to know**
-- Alleged: that Alice Huang (no relation) is a spy for China. China denies it.
-- Alleged: an affair with Nvidia executive Kimberly Powell, one of Huang's direct reports.
-- Confirmed: Nvidia's board found his behavior 'inconsistent' with its code of conduct, then voted unanimously to reinstate him.
-
-**Worth knowing:** Nvidia makes the chips behind much of the AI boom, so its leadership affects markets well beyond one company.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss): Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
-- [NPR](https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women): For workplace culture champions, Jensen Huang's return is 'unfathomable'
-- [Axios](https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal): Nvidia's one-man board: How Trump inherited Jensen Huang's scandal
-- [The Hill](https://thehill.com/homenews/media/6239781-donald-trump-jensen-huang-national-security-nvidia-return-wall-street-journal-editorial-board/): Trump’s intervention on Huang will exact ‘heavy cost’ on rule of law, national security: WSJ editorial board
-
-
-## 3. Carolinas: pack patience (and a raincoat) for Thanksgiving travel
-`US Headlines` `Charlotte` · Covered by 3 outlets
-
-A coastal storm expected to become a nor'easter is set to bring rain, gusty winds and chilly air to the Carolinas. The heaviest rain is expected Wednesday evening into Thanksgiving morning, with things drying out Thursday afternoon. Localized flooding and isolated power outages are possible.
+A coastal storm, expected to become a nor'easter, is set to bring rain and strong winds to the Carolinas on Wednesday, one of the busiest travel days of the year. The heaviest rain should come Wednesday evening into Thanksgiving morning, with things improving Thursday afternoon. The West Coast is also dealing with Pacific storms.
 
 **Key facts**
-- Wind gusts could reach around 40 mph, near 50 mph in isolated spots if the storm tracks inland.
-- Wednesday highs may struggle to reach 50 in Charlotte.
-- Black Friday starts in the 30s, then sunny skies and a dry weekend.
-- Forecasters advise extra travel time, securing outdoor items, charging devices and never driving through flooded roads.
+- AAA expects 81.5 million Americans to travel 50+ miles for Thanksgiving, Nov. 24-30.
+- The FAA warns rain could affect flights across the Southeast on Wednesday.
+- Weather has caused 60% of flight delays so far this year, per FAA data.
+- Charlotte Douglas Airport will post major disruptions on social media.
 
-**Worth knowing:** A little planning now can make holiday travel smoother and safer.
+**Worth knowing:** If you can leave early or build in extra time, now's the moment, and the weekend looks sunny.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/24/first-alert-rain-gusty-winds-cold-temperatures-could-affect-thanksgiving-travel-carolinas/): First Alert: Rain, gusty winds and cold temperatures could affect Thanksgiving travel in the Carolinas
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/rain-strong-winds-could-disrupt-thanksgiving-travel-across-carolinas/): Rain, strong winds could disrupt Thanksgiving travel across Carolinas
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/c5742n4741keo?at_medium=RSS&at_campaign=rss): Will bad weather disrupt Thanksgiving travel?
 - [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/strong-winds-coastal-flooding-and-mountain-snow-carolinas-tracking-noreaster-for-holiday-travel-and-thanksgiving/): Strong winds, coastal flooding, and mountain snow: Carolinas tracking nor'easter for holiday travel and Thanksgiving
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Thanksgiving travel in Carolinas to face rain and gusty winds starting Wednesday
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Thanksgiving travel in Charlotte faces rain and wind, clearing by Black Friday
 
 
-## 4. Macy's parade turns 100, while Charlotte's parade gets rained out
-`US Headlines` `Charlotte` · Covered by 3 outlets
+## 3. Army plans careful disposal of old explosives in Iowa, with lead-safety steps
+`US Headlines` · Covered by 3 outlets
 
-Thursday brings the 100th Macy's Thanksgiving Day Parade, a tradition that started in 1924 with Macy's employees, many of them European immigrants, and even borrowed zoo animals. Weather is a concern, though Macy's has never canceled the parade because of weather. Closer to home, Charlotte's Thanksgiving Eve parade has been canceled due to the forecast.
-
-**Key facts**
-- The parade airs Thursday, Nov. 26, 8:30 a.m. to noon ET on NBC, Peacock and Telemundo.
-- It was paused only twice, during World War II.
-- Benny Goodman's sextet is considered the first famous act to perform, in 1958.
-- Charlotte parade ticket holders will be refunded.
-
-**Worth knowing:** A century of balloons and marching bands is worth celebrating from the couch.
-
-**Read it yourself:**
-- [Billboard](https://www.billboard.com/lists/macys-thanksgiving-parade-music-history-photos-100-years/): 100 Years of Music at Macy’s Thanksgiving Day Parade, For ‘An Audience Aged 1 to 100’
-- [The Hill](https://thehill.com/homenews/state-watch/6240331-macys-thanksgiving-day-parade-2026-weather-warnings/): Weather threatens Macy’s Thanksgiving Day Parade. Has it ever been canceled?
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/weather-impact/charlottes-thanksgiving-eve-parade-canceled/275-55c3489d-b007-41ac-912b-2d1d96d98134): Bad weather cancels Charlotte's Thanksgiving Eve parade
-
-
-## 5. Two former Jamaican prime ministers offer to help calm Parliament
-`Jamaica` · Covered by 2 outlets
-
-Former prime ministers PJ Patterson and Bruce Golding, who led from opposite parties, have offered to mediate a standoff in Jamaica's House of Representatives. The Opposition welcomed the offer, saying it is ready to sit at the table after talks with the Speaker broke down. The dispute grew out of a heated Nov. 3 session and an MP's later suspension.
+The U.S. Army planned to detonate about 5 tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning, saying the material had become too unstable to keep or move. Officials described extensive measures like sand barriers, screening and soaking the ground to keep lead dust from spreading, and released maps of possible exposure areas. Local residents and health advocates have voiced concerns.
 
 **Key facts**
-- Opposition MP Angela Brown Burke was suspended for six sittings; she denies physically assaulting the Speaker.
-- The Opposition has tabled a censure motion against Speaker Juliet Holness over alleged bias.
-- Phillip Paulwell: 'Jamaicans did not send us to Parliament to quarrel.'
-
-**Worth knowing:** It's a nice example of past rivals teaming up to help lower the temperature.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/24/opposition-welcomes-offer-patterson-golding-mediate-parliamentary-impasse/): Opposition welcomes offer by Patterson and Golding to mediate parliamentary impasse
-- [The Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20261124/truce-offer-ex-pms-patterson-golding-willing-broker-peace-amid-parliamentary): TRUCE OFFER - Ex-PMs Patterson, Golding willing to broker peace amid parliamentary crisis
-
-
-## 6. Freedom and Feathers get their turkey pardons
-`US Headlines` · Covered by 4 outlets
-
-President Trump pardoned this year's turkeys, Freedom and Feathers, in the annual White House tradition. The public voted on their names, which honor America's 250th birthday. The birds will retire to Texas A&M's Department of Poultry Science, to a climate-controlled home with a front porch.
-
-**Key facts**
-- This was the 79th National Thanksgiving Turkey Presentation.
-- Turkeys were first presented in 1947; formal pardons became a tradition in 1989 under George H.W. Bush.
-- Both birds were hatched at Deans Gap Farm in West Virginia.
-- Six undergraduate students will care for them.
-
-**Worth knowing:** Two birds got a porch and a student fan club. That's a good Tuesday.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/trump-pardons-thanksgiving-turkeys-annual-tradition/H62FBDN4ZBFT3KRG2VENQEQRPU/): Trump pardons Thanksgiving turkeys in annual tradition
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss): Watch: Trump pardons turkeys Freedom and Feathers
-- [Axios](https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom): Trump talks turkey, and his ballroom, at pardoning event
-- [The Hill](https://thehill.com/homenews/administration/6240328-watch-live-donald-trump-thanksgiving-turkey-pardon-2026/): Watch: Trump pardons turkeys Freedom, Feathers in annual Thanksgiving tradition
-
-
-## 7. On this day: Darwin's big book, plus a supermoon
-`Cute Animals` `Jamaica` · Covered by 2 outlets
-
-Nov. 24 marks 167 years since Charles Darwin published On the Origin of Species in 1859, a book publishers and librarians have voted the most influential academic book ever. Other anniversaries include the 1974 discovery of the 'Lucy' skeleton in Ethiopia. And on Tuesday night, the first of four supermoons expected through early 2027 lights up the sky.
-
-**Key facts**
-- Origin of Species was published Nov. 24, 1859.
-- 'Lucy' was discovered on this date in 1974.
-- Former Beatles drummer Pete Best turns 85.
-- Four supermoons are expected between late 2026 and early 2027.
-
-**Worth knowing:** It's a fun excuse to look up, at the sky and at the history of science.
-
-**Read it yourself:**
-- [Good News Network](https://www.goodnewsnetwork.org/events061124/): Good News in History, November 24
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/24/tuesday-november-24-2026/): Tuesday, November 24, 2026
-
-
-## 8. 2 Chainz breaks ribs in Cybertruck crash, says he's 'good'
-`Hip Hop & Celebrity` · Covered by 2 outlets
-
-Rapper 2 Chainz says he's resting with broken ribs after a head-on crash in his orange Tesla Cybertruck. He says another driver swerved to avoid an opossum and hit him. He thanked fans for checking in and pushed back on rumors about what caused the crash.
-
-**Key facts**
-- The crash happened Sunday, Nov. 22; he posted about it Nov. 24.
-- Footage showed heavy damage, including what appears to be a torn-off front axle.
-- He wrote that he wasn't drinking, smoking, sleeping or using autopilot.
+- The Army's stated goal is 'zero release' of lead particles into the air.
+- In a 1977 Colorado disposal of about 7,000 pounds, the Army says 75% of the lead stayed on site with no mitigation.
+- Iowa Poison Control's Dr. Dan McCabe says children, pregnant people and malnourished people are the highest-risk groups.
+- McCabe notes there's no safe level of lead in the body, so caregivers should be extra careful with kids' hand-to-mouth habits.
 
 **Good to know**
-- The account of the crash comes from 2 Chainz's own post; no police report is cited.
-- Rumors that he was impaired were circulating; he denies them.
+- How much lead will actually escape is not yet known; officials and health experts say they are hopeful the mitigation will sharply reduce it.
 
-**Worth knowing:** He's okay and recovering, and the opossum apparently made it too.
+**Worth knowing:** Clear public health guidance is available for nearby families, and officials say they've taken unusually extensive precautions.
 
 **Read it yourself:**
-- [XXL](https://www.xxlmag.com/2-chainz-car-accident-cybertruck-details/): 2 Chainz Hit Head-On by a Driver Trying to Dodge an Opossum
-- [AllHipHop](https://allhiphop.com/news/2-chainz-says-he-broke-his-ribs-in-head-on-cybertruck-crash/): 2 Chainz Says He Broke His Ribs In Head-On Cybertruck Crash
+- [Newsweek](https://www.newsweek.com/what-happened-during-the-us-armys-last-lead-azide-detonation-in-1977-12765866): What Happened During the US Army's Last Lead Azide Detonation in 1977
+- [NPR Health](https://www.npr.org/2026/11/24/nx-s1-6052351/heres-the-public-health-guidance-for-possible-lead-exposure-in-iowa): Here's the public health guidance for possible lead exposure in Iowa
+- [The Hill](https://thehill.com/video-clips/6239478-watch-live-army-fema-officials-joint-press-conference-iowa-detonation/): Watch: Army, FEMA officials give update on planned Iowa detonation
+
+
+## 4. I-77 toll 'choice lanes' could stretch into York County
+`Charlotte` · Covered by 3 outlets
+
+South Carolina transportation leaders are exploring optional toll lanes on I-77 that would connect to North Carolina's planned express lanes and run about three miles into York County, possibly to Gold Hill Road in Fort Mill. The free lanes would stay as they are. It's very early, and residents have mixed feelings, with some preferring a wider interstate or more mass transit.
+
+**Key facts**
+- A new South Carolina law now allows 'choice lanes.'
+- Tolls would vary by traffic and time of day.
+- About 40,000 York County residents commute into Charlotte daily, per Rock Hill Mayor John Gettys.
+- Both states would need to agree on costs and toll collection; public comment is promised.
+
+**Worth knowing:** If you commute on I-77 south of Charlotte, this could shape your future drive, and there will be chances to weigh in.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/24/optional-toll-lanes-being-considered-york-county-amid-traffic-congestion-concerns/): Optional toll lanes being considered in York County amid traffic congestion concerns
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/proposed-i-77-toll-lanes-could-stretch-into-york-county/TZ542GMXQNC57P4S5TXTEMBHMA/): Proposed I-77 toll lanes could stretch into York County
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/i-77-toll-lane-project-could-extend-into-york-county/): Charlotte I-77 toll lane project could extend into York County
+
+
+## 5. Nvidia's Jensen Huang apologizes to staff after returning as CEO
+`Health & Medicine` `Jamaica` · Covered by 2 outlets
+
+Jensen Huang told Nvidia employees he 'made some terrible mistakes' and is in therapy, in his first all-hands meeting since being reinstated as CEO. He resigned Nov. 12 over extramarital affairs and was brought back after the company said the U.S. government told it he wasn't a national security risk. Nvidia stock jumped over 30% Monday, then fell about 6% Tuesday.
+
+**Key facts**
+- Huang resigned Nov. 12 and was reinstated Monday.
+- President Trump told CNBC he spoke with the board and 'convinced them'; Huang dismissed suggestions he returned due to pressure.
+- Trump owned as many as 370,000 Nvidia shares as of Sept. 30, per filings.
+
+**Good to know**
+- Confirmed: Huang resigned, was reinstated, and apologized (per The New York Times' review of the livestream).
+- Reported: one affair was with a suspected Chinese spy; Nvidia says the government found Huang wasn't a security risk.
+- Unclear: how much Trump's contact with the board influenced the decision; Huang and Trump describe it differently.
+- Huang also faces probes whose outcome isn't known.
+
+**Worth knowing:** Nvidia is central to the AI boom, so its leadership drama ripples through the wider stock market.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/24/nvidias-huang-says-therapy-comeback-rally-fades/): Nvidia’s Huang says he is in therapy as comeback rally fades
+- [The Hill](https://thehill.com/policy/technology/6241274-nvidia-ceo-jensen-huang-reinstated/): Huang apologizes to Nvidia employees, says he’s in therapy: Reports
+
+
+## 6. First new hormone pill for early breast cancer in 20+ years gets FDA approval
+`Health & Medicine` · Covered by 3 outlets
+
+The FDA approved Roche's Wilserdly, an oral pill, for use after surgery in people with intermediate- to high-risk ER-positive, HER2-negative early-stage breast cancer. It's the first new hormone therapy option in this setting in more than two decades. In a large trial, it lowered the risk of the cancer coming back or death by 30% compared with standard therapy.
+
+**Key facts**
+- Three-year invasive disease-free survival: 92.4% with Wilserdly vs 89.6% with tamoxifen or aromatase inhibitors.
+- Backed by the phase 3 lidERA trial.
+- About 225,000 U.S. patients are diagnosed with HR+/HER2- breast cancer each year; nearly 90% are caught early.
+- Days earlier, it was also approved with everolimus for some advanced, ESR1-mutated cases.
+
+**Good to know**
+- FDA approved, based on a phase 3 trial.
+- Approved for a specific group: post-surgery, intermediate to high risk, ER+/HER2- early-stage disease.
+- The drug did not succeed in a separate first-line metastatic breast cancer trial.
+
+**Worth knowing:** It's a meaningful new option for one of the most common forms of breast cancer after a long stretch with none.
+
+**Read it yourself:**
+- [Fierce Pharma](https://www.fiercepharma.com/pharma/roche-opens-key-early-stage-breast-cancer-market-oral-serds-wilserdly-fda-nod): Roche opens key early-stage breast cancer market for oral SERDs with Wilserdly FDA nod
+- [Medical Xpress](https://medicalxpress.com/news/2026-11-early-stage-breast-cancer-gains.html): Early-stage breast cancer gains first newly approved hormone therapy in more than 20 years
+- [BioPharma Dive](https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/): FDA clears Roche’s oral SERD as treatment in early-stage breast cancer
+
+
+## 7. Senegal gets its Africa Cup of Nations title back
+`Jamaica` · Covered by 1 outlet
+
+The Court of Arbitration for Sport unanimously ruled that Senegal won January's AFCON final, reversing a decision that had handed the title to Morocco after Senegalese players briefly walked off over a penalty. The court said that because the referee restarted the match, the forfeit rules didn't apply, so Senegal's 1-0 extra-time win stands.
+
+**Key facts**
+- It's Senegal's second African title, after 2022.
+- CAF had awarded Morocco a 3-0 win in March.
+- Sadio Mane said the ruling 'fills us with joy' and sent respect to Moroccan fans and players.
+- Morocco says it will pursue further legal options, citing alleged contact between an arbitrator and Senegal's federation president.
+
+**Worth knowing:** It settles the on-field result, for now, and Mane's message of friendship between the two countries was a nice touch.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/senegal-regain-afcon-title-appeal-moroccos-expense/): Senegal regain AFCON title on appeal at Morocco’s expense
+
+
+## 8. Copa America returns to the U.S. in 2028
+`Jamaica` · Covered by 1 outlet
+
+The Copa America will be played in the United States from June 9 to July 9, 2028, right before the Los Angeles Olympics. It's the second straight U.S.-hosted edition, with 16 teams from South and North America.
+
+**Key facts**
+- All 10 South American nations plus six North American teams that qualify via the 2027 Gold Cup.
+- Olympic men's soccer starts July 10, hours after the Copa final.
+- Host cities will be announced later.
+
+**Worth knowing:** U.S. soccer fans get another big summer of top-level games close to home.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/usa-host-copa-america-ahead-2028-la-olympics-20261125-0459-148286/): USA to host Copa America ahead of 2028 LA Olympics
 
 
 ---

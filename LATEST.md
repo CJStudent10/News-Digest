@@ -1,94 +1,93 @@
-# My Daily Brief: Evening edition
-_Tuesday, November 24, 2026 · 4:32 PM EST · 622 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Morning edition
+_Wednesday, November 25, 2026 · 12:03 AM EST · 611 articles from 39 outlets · summaries by Claude_
 
-> This edition is led by President Trump's role in Jensen Huang's return as Nvidia CEO and the Army's planned detonation of degraded explosives in Iowa, both involving unusual presidential interventions. Other stories cover newly unsealed records on the search of Rep. Ilhan Omar's home, a breach of a CIA intelligence network, Russian military flights near South Korea, and split consumer-confidence readings in the US and South Korea. Lighter items include the White House turkey pardon and weather threats to Thanksgiving parades.
+> Jensen Huang's return as Nvidia CEO, and President Trump's claim that he arranged it, drew foreign and domestic criticism as a short-lived market rally faded and Anthropic shares fell below their IPO price. A US jury convicted Huawei on 10 of 12 counts but acquitted it of racketeering. Other stories include the Army's planned lead azide detonation in Iowa, Kilmar Abrego Garcia's departure for Spain, Rudy Giuliani's Medal of Freedom, a new Australia–Solomon Islands treaty, China's first foreign astronaut launch, and Charlotte-area news.
 
 
-**Sources linked in this edition:** 12 left · 26 center · 8 right
+**Sources linked in this edition:** 13 left · 26 center · 7 right
 
 ---
 
-## 1. Jensen Huang reinstated as Nvidia CEO after Trump administration involvement; lawmakers push for hearings
-`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 15 outlets (L 5 · C 8 · R 2)
+## 1. Huang's Nvidia return draws criticism as tech rally reverses
+`AI & Cybersecurity` `Asia Business & Politics` `US Headlines` · Covered by 14 outlets (L 5 · C 8 · R 1)
 
-Nvidia's board reinstated Jensen Huang as CEO on Monday, less than two weeks after he left amid reports of extramarital affairs, including one with a woman US officials suspect of being a Chinese intelligence asset. Trump said he spoke directly with board members, and Semafor reported he dialed into a Sunday board meeting; the board said it acted with "input from senior levels of the United States government." On Tuesday Huang apologized to staff, admitted violating the code of conduct, and called it "completely untrue" that Trump pressured the board, while saying Trump assured directors he was not a national security threat. Lawmakers voiced frustration, and Huang may face House Foreign Affairs and Senate Banking hearings next week.
+Nvidia's board unanimously reinstated Jensen Huang as CEO on Monday, less than two weeks after he resigned over reported affairs, including one with a woman accused of being a Chinese intelligence agent. Trump said he persuaded the board ('I convinced them... I made the deal'), and the White House said he was 'totally involved.' Huang reportedly told staff that claims of Trump's direct involvement were 'completely untrue.' Nvidia stock jumped about 30% on Monday but fell back on Tuesday, and Asian tech markets dropped sharply on Wednesday. Huang is due to testify before Congress on December 1, where Democrats plan to ask about his return and Trump's role.
 
 **Key facts**
-- The Washington Examiner reported the board vote to reinstate Huang was unanimous, reversing an earlier decision not to bring him back.
-- Trump wrote on Truth Social: "The Country needs Jensen's leadership at NVIDIA."
-- Huang told staff: "I made some terrible mistakes... I was unfaithful to Lori."
-- The US government is investigating whether Megaspeed, a Singapore firm formerly run by Alice Huang (no relation), diverted Nvidia chips to China in breach of export controls.
-- Rep. Gregory Meeks said a hearing should still take place on how advanced technology "wound up in the hands of our greatest competitor."
+- Huang resigned November 12 and was reinstated by a unanimous board vote on Monday, November 23.
+- Nvidia shares rose about 30–31% Monday, adding over $900 billion in market value, then fell roughly 6% Tuesday.
+- Taipei fell 8%, Seoul more than 5% and Tokyo more than 3% on Wednesday, after surging the day before.
+- German Foreign Minister Johann Wadephul said Trump's intervention 'shocked me.'
+- Huang admitted violating Nvidia's code of conduct and said 'I made some terrible mistakes,' according to reports of an all-hands meeting.
 
 **How it's being framed**
-- **Left:** Guardian opinion framed the reinstatement as "elite impunity" and an extraordinary executive intervention in a private company, tied to propping up an AI-dependent stock market and to Vance's Silicon Valley ties. Guardian news coverage centered on Huang's apology, his denial of Trump pressure, and Democrat Meeks's call for hearings.
-- **Center:** Axios called it one of the most extraordinary presidential interventions in corporate history and a de facto bailout of the AI industry, and said Trump had staked government credibility on Huang. The Hill focused on congressional backlash and employees cheering Huang's return.
-- **Right:** The Washington Examiner offered a straightforward explainer stressing Trump's personal push and the unanimous board vote. Reason's podcast hosts expressed mixed feelings, calling the episode "all political" while debating whether some tech CEOs are irreplaceable.
+- **Left:** A Guardian opinion column calls the reinstatement 'elite impunity' and an extraordinary executive-branch intervention in a private firm, stressing national security concerns and the AI bubble. The Verge focuses on Huang's all-hands meeting, where he denied Trump's role while apologising, and notes the pending congressional testimony and accounting investigation.
+- **Center:** CNA covers the market reversal, quoting analysts who called Monday's rally a 'dead-cat bounce' amid doubts about AI returns. Deutsche Welle leads with the German foreign minister's shock and Trump's boasting, and notes an FT estimate that Trump's own Nvidia stake gained $15 million. The Hill reports frustration from lawmakers.
+- **Right:** A Reason podcast discusses the return with 'mixed feelings,' with segments titled 'It's all political' and 'Certain tech CEOs are irreplaceable.'
 
 **Disputed or unclear**
-- How much Trump pressured the board: Trump says he persuaded directors, while Huang calls reports of pressure "completely untrue."
-- The extent of Huang's alleged disclosures to Alice Huang and her alleged role as a Chinese asset are unverified.
-- Whether the congressional hearings will go ahead.
-- The motive for the intervention: early reporting cited in the Guardian says Trump wanted to rally the stock market.
+- Trump and the White House say he arranged Huang's return; Huang reportedly called this 'completely untrue.'
+- The allegation that Huang's partner was a Chinese spy, and what information may have been shared, is unproven. Nvidia's internal investigation and outside probes are ongoing.
+- Reports differ on Nvidia's Tuesday decline: about 6% at the close versus more than 7% at midday.
 
-**Why it matters:** It tests how far the government will go to shield a company central to the AI economy, despite national security questions.
+**Why it matters:** It raises questions about government influence over a company that is central to the AI-driven stock market.
 
 **Read it yourself:**
-- [Axios](https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal) (center): Nvidia's one-man board: How Trump inherited Jensen Huang's scandal
+- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/business/tech-stocks-jensen-huang-nvidia-rally-reverses-6580451) (center): Tech firms back in crosshairs as Huang rally reverses
 - [The Guardian (US)](https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return) (lean-left): Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan
 - [Reason](https://reason.com/podcast/2026/11/24/jensen-huang-returns-trumpcare-woke-socialism/) (lean-right): Jensen Huang Returns, TrumpCare, Woke Socialism
+- [Deutsche Welle](https://www.dw.com/en/germany-s-wadephul-shocked-by-trump-s-nvidia-intervention/a-80033954?maca=en-rss-en-all-1573-rdf) (center): Germany's Wadephul 'shocked' by Trump's Nvidia intervention
+- [The Verge](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology) (lean-left): Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired
 - [The Hill](https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/) (center): Live updates: Huang’s Nvidia return faces backlash; Iowa governor backs Army’s lead detonation date
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff) (lean-left): Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’
-- [Washington Examiner](https://www.washingtonexaminer.com/news/business/4814229/how-jensen-huang-reclaimed-nvidia-what-to-know/) (lean-right): How Jensen Huang reclaimed his throne: What to know
 
 
-## 2. Court clears Army to detonate five tons of degraded lead azide in Iowa
-`US Headlines` · Covered by 7 outlets (L 4 · C 2 · R 1)
+## 2. US jury convicts Huawei on 10 of 12 counts, acquits on racketeering
+`Asia Business & Politics` · Covered by 7 outlets (L 3 · C 3 · R 1)
 
-The 8th US Circuit Court of Appeals on Monday rejected environmental groups' challenge to an emergency EPA permit, clearing the Army to destroy about 68 barrels of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning. The Army says the explosive, stored for more than two decades, is too dangerous to move and is more likely to detonate on its own as temperatures fall. Residents and officials have criticized poor communication about health risks from the lead dust plume, which is projected to move southwest toward Missouri. Trump said he wanted Democratic Gov.-elect Rob Sand to sign off; Sand said the decision belongs to the administration.
+A federal jury in Brooklyn found Huawei and three subsidiaries guilty of charges including conspiracy to steal trade secrets, bank and wire fraud, and sanctions violations. Jurors acquitted the company of racketeering conspiracy and obstruction of justice. Prosecutors said Huawei spent two decades lying to banks about its Iran business and stealing technology from firms including Cisco and T-Mobile. Huawei called the racketeering acquittal vindication, said the remaining charges lack merit, and plans to appeal. Sentencing is set for September 14, 2027.
 
 **Key facts**
-- The blast is set for 9 a.m. local time (10 a.m. ET) Wednesday after three delays from an original Nov. 20 date.
-- An emergency alert said some people within 5 miles southwest may be evacuated and those within 20 miles should stay indoors.
-- The court wrote that degraded explosives "present a risk of an uncontrolled and unplanned explosion."
-- Mitigation includes blast barriers, ballistic gels and foams, and thousands of gallons of water.
-- Outgoing Gov. Kim Reynolds supports the detonation; Acting Army Secretary Adam Telle ordered a review of all Army weapons storage facilities.
+- Guilty on 10 of 12 counts; acquitted of racketeering conspiracy and obstruction of justice.
+- Victim companies included Cisco, Motorola Solutions, T-Mobile, Quintel USA and Fujitsu, according to court records.
+- Attorney General Todd Blanche: 'For decades, Huawei and three of its subsidiaries conducted their business in the United States on the basis of lies and theft.'
+- Sentencing is scheduled for September 14, 2027, with possible fines, forfeiture and restitution.
+- Charges were first disclosed in 2019, after Meng Wanzhou's 2018 arrest in Canada.
 
 **How it's being framed**
-- **Left:** Vox called detonation possibly "the least bad option" but stressed lead's toxicity, residents' anger, and questions about alternatives, and said Trump tried to shift consequences onto Sand. PBS (AP) and the Guardian reported officials' reassurances, plume maps and safety steps in detail, noting that environmentalists' challenge targeted the permit's validity.
-- **Center:** CNBC and The Hill concentrated on the court ruling, the Army's safety rationale, health warnings from Iowa officials, and the uncertainty Trump's social media post added, quoting Sand's call for transparency.
-- **Right:** The Washington Examiner focused on accountability, highlighting Telle's order to examine every storage facility "to ensure that something like this never happens again" and calling the situation a "debacle."
+- **Left:** PBS (AP) and The Verge give both prosecutors' examples of theft and the defence's argument that isolated misconduct was spun into a grand conspiracy. PBS adds China's 'economic bullying' charge and Huawei's continued global growth, including in AI chips.
+- **Center:** BBC, DW and CNBC present it as a mixed verdict, quoting DOJ officials alongside Huawei lawyer Brian Heberlig. CNBC highlights DOJ details such as engineers spelling Cisco backward and surveillance cameras supplied to Iran.
+- **Right:** The Daily Caller stresses the convictions and the scope of the theft allegations, notes Huawei's denial of ties to the Chinese Communist Party, and links the case to a Commerce Department action related to the Huang scandal.
 
 **Disputed or unclear**
-- How far the plume could spread: the Washington Post, cited by Vox, said up to 100 miles, while the Army says barriers will contain much of it.
-- Why the Army did not pursue other disposal methods, though the court said alternatives were evaluated.
-- How Middletown came to this situation remains unexplained, as Sand noted.
+- Huawei says the five trade-secret disputes were civil matters resolved years ago; prosecutors say they show a pattern of crime.
+- Outlets describe the trial's length differently: two months, 11 weeks, or three months.
+- The Daily Caller says a heavy penalty 'has been set'; other outlets say penalties will be decided at sentencing in 2027.
 
-**Why it matters:** Thousands of people in Iowa and Missouri face possible lead exposure, and the case raises questions about how aging munitions are managed.
+**Why it matters:** The verdict is a major legal milestone in US–China tech tensions, and appeals are expected.
 
 **Read it yourself:**
-- [CNBC](https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html) (center): U.S. court clears the way for Army’s planned ammunition detonation in Iowa
-- [Vox](https://www.vox.com/today-explained-newsletter/511830/iowa-lead-azide-explosives-detonation-plume) (left): Why the Army wants to detonate toxic explosives in Iowa
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/defense/4813934/army-secretary-examination-weapon-storage-facility-iowa/) (lean-right): Acting Army secretary orders ‘thorough examination of every such weapon storage facility’ following Iowa debacle
-- [The Hill](https://thehill.com/video-clips/6239478-watch-live-army-fema-officials-joint-press-conference-iowa-detonation/) (center): Watch: Army, FEMA officials give update on planned Iowa detonation
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday) (lean-left): Army plans to detonate Iowa stockpile on Wednesday, tells public there's no reason to panic
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation) (lean-left): US army maps show projected path of toxic dust from Iowa detonation
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss) (center): Huawei found guilty of stealing trade secrets but acquitted of racketeering
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/u-s-jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets-bank-fraud) (lean-left): U.S. jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets, bank fraud
+- [The Daily Caller](https://dailycaller.com/2026/11/24/chinese-telecom-giant-huawei-guilty-of-stealing-us-trade-secrets-bank-fraud) (right): Chinese Telecom Giant Huawei Found Guilty Of Stealing US Trade Secrets, Bank Fraud
+- [Deutsche Welle](https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf) (center): US jury convicts Huawei of violating sanctions, stealing trade secrets
+- [The Verge](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial) (lean-left): Huawei found guilty of stealing trade secrets
+- [CNBC](https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html) (center): U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets
 
 
-## 3. Prosecutor drops rental car charge against North Carolina Rep.-elect LaKesha Womack
-`Charlotte Local` · Covered by 7 outlets (L 1 · C 6 · R 0)
+## 3. Charlotte DA drops rental-car charge against Rep.-elect LaKesha Womack
+`Charlotte Local` · Covered by 6 outlets (L 1 · C 5 · R 0)
 
-Mecklenburg County DA Spencer Merriweather dismissed, with prejudice, a felony charge against Democratic Rep.-elect LaKesha Womack over a car she rented in 2019 and did not return on time. The DA said Womack paid Budget the rental cost for the overdue period and the company did not want to prosecute. The 2020 summons was served only last month, at a campaign event. Womack, who said she was homeless at the time, defeated Republican Rep. Tim Moore and will be sworn in in January.
+Mecklenburg County District Attorney Spencer Merriweather dismissed, with prejudice, a felony charge against Democratic Rep.-elect LaKesha Womack over a rental car she failed to return in 2019. Womack paid Budget the overdue rental cost, and the company said it did not want to prosecute. The 2020 summons was served during an October campaign event. Womack, who said she was homeless at the time, defeated Republican Rep. Tim Moore and will be sworn in in January.
 
 **Key facts**
-- The car was rented Aug. 27, 2019, renewed twice, and recovered by police Dec. 4, 2019.
-- The criminal summons was issued Jan. 14, 2020.
-- The dismissal was filed with prejudice, so the charge cannot be refiled.
-- Womack won the 14th District; WFAE says Democrats won 11 of the state's 14 seats.
+- The car was rented August 27, 2019, renewed twice, and recovered by police December 4, 2019.
+- A criminal summons was issued January 14, 2020, and served in October 2026.
+- The dismissal was filed with prejudice after full restitution.
+- Womack won North Carolina's 14th District.
 
 **How it's being framed**
-- **Left:** WFAE reported the resolution and noted that the negative publicity did not hurt her campaign, placing her win within a Democratic "blue wave."
-- **Center:** Local TV outlets relied closely on the DA's timeline and news release, with WSOC adding Womack's homelessness explanation. Axios framed the charge as a "bothersome footnote" for one of several little-known "wave babies."
+- **Left:** WFAE notes the publicity did not hurt her campaign and places her win within a 'blue wave' in which Democrats took 11 of 14 state seats.
+- **Center:** Local TV outlets and The Hill lay out the DA's timeline and the settlement. WSOC includes her account of being homeless. Axios calls her a 'wave baby' who unexpectedly won a heavily Republican district.
 
 **Why it matters:** It removes a legal cloud over an incoming member of Congress before she takes office.
 
@@ -101,199 +100,194 @@ Mecklenburg County DA Spencer Merriweather dismissed, with prejudice, a felony c
 - [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/politics/charge-dismissed-for-rep-elect-lakesha-womack-in-rental-car-case/275-e4bacc2f-3995-41e5-88a8-03b905d0aad4) (center): Charge dismissed for Rep.-elect LaKesha Womack in rental car case, Mecklenburg DA says
 
 
-## 4. Trump pardons Thanksgiving turkeys Freedom and Feathers
-`US Headlines` · Covered by 6 outlets (L 1 · C 4 · R 1)
+## 4. China launches Shenzhou-24 carrying first foreign astronaut to Tiangong
+`Asia Business & Politics` `Korea` · Covered by 4 outlets (L 1 · C 3 · R 0)
 
-President Trump pardoned two West Virginia turkeys, Freedom and Feathers, in the annual White House ceremony on Tuesday, with Freedom receiving the formal honor. The public voted on the names, which outlets said honor America's 250th birthday. Trump also praised his White House ballroom under construction and said next year's ceremony will be held there. Both birds will retire to Texas A&M University.
+China's Shenzhou-24 lifted off from Jiuquan on Wednesday with commander Tang Hongbo, flight engineer Wu Yi and Pakistani pilot Muhammad Zeeshan Ali, the first foreigner to fly on a Chinese crewed mission. Ali will spend about 5 to 10 days on the Tiangong station conducting experiments before returning with two departing Shenzhou-23 crew members. Shenzhou-23 commander Zhu Yangzhu will stay aboard for a year to study how the body copes in space. China says its 2030 crewed moon landing target is unchanged.
 
 **Key facts**
-- It was the 79th presidential turkey presentation; pardons became annual in 1989 under George H.W. Bush.
-- The National Turkey Federation first presented a turkey to Harry Truman in 1947.
-- Both birds were hatched at Deans Gap Farm in West Virginia.
-- Melania Trump and Speaker Mike Johnson joined the pardon.
+- Launched at 8:18 a.m. local time on a Long March-2F rocket.
+- Ali, 40, trained for seven months in Beijing.
+- The crew plans more than 90 experiments and technology tests, according to Xinhua.
+- Pakistani PM Shehbaz Sharif called the flight 'a historic first.'
 
 **How it's being framed**
-- **Left:** PBS emphasized the tradition's history and noted that politics sometimes intrudes, recalling Trump's 2025 jokes about naming the birds after Schumer and Pelosi.
-- **Center:** Most outlets treated it as a light tradition story. Axios noted that Trump used the event to praise his ballroom in a "rally-reminiscent speech."
-- **Right:** The Washington Examiner gave a brief, celebratory account ("Freedom lives").
+- **Left:** Al Jazeera gives a brief report focused on Ali and his biotech and materials-science work under a China–Pakistan agreement.
+- **Center:** Reuters (via the Korea Herald), DW and BBC cover the crew, the unusual handover and the year-long stay, placing the launch in the US–China moon race. Reuters notes Washington's warnings about lunar resources and Beijing's denial.
+
+**Why it matters:** It signals China's push to make Tiangong a hub for international partners as the ISS nears retirement.
+
+**Read it yourself:**
+- [The Korea Herald](https://www.koreaherald.com/article/10948946) (center): China's Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket) (lean-left): Pakistani astronaut launches into space aboard Chinese rocket
+- [Deutsche Welle](https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-rdf) (center): China launches Shenzhou-24 to Tiangong station
+- [BBC News (World)](https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss) (center): Moment Chinese space mission lifts off with first Pakistan astronaut aboard
+
+
+## 5. Army set to detonate five tons of lead azide in Iowa amid health concerns
+· Covered by 7 outlets (L 4 · C 2 · R 1)
+
+The Army planned to detonate about five tons of degraded lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning, after a federal appeals court lifted a stay. Army officials say the crystallised explosive risks detonating on its own, and that a controlled, mitigated blast is far safer. Residents, environmental groups and state officials criticised poor communication about a toxic lead dust plume projected to drift southwest into Missouri. Gov. Kim Reynolds backed the plan, declared a disaster emergency in three counties and deployed up to 100 National Guard soldiers.
+
+**Key facts**
+- 68 barrels, about five tons, scheduled for around 9 a.m. CST (10 a.m. ET) Wednesday.
+- An Army inspection on March 11, 2026, found the lead azide had partially crystallised.
+- Alerts told people within 20 miles to stay indoors; some within 5 miles southwest may be evacuated, with FEMA support.
+- The Eighth Circuit lifted a stay and denied an emergency pause; earlier dates of November 20 and 23 slipped.
+
+**How it's being framed**
+- **Left:** The Guardian, PBS and Vox stress communication failures, the fact that no level of lead exposure is safe, and residents' alarm, quoting Sen.-elect Josh Turek. They also give the Army's 'least bad option' argument. Vox says Trump tried to shift the decision to incoming Democratic Gov. Rob Sand.
+- **Center:** Newsweek centres on Army mitigation and the 1977 Colorado precedent, as described by an officer. The Hill emphasises the governor's support despite unresolved safety questions.
+- **Right:** The Daily Caller focuses on the new plume maps and the Army and DOJ case for urgency, including the risk of cold weather and removed blast doors. It notes Trump ordered a halt pending the court ruling and the incoming governor's input.
 
 **Disputed or unclear**
-- WSOC's reported weights appear inconsistent (Feathers 40 lb; Freedom "heavier" at 21 lb).
-- Reports differ on the venue, citing both the White House helipad and the South Lawn.
+- How far the plume could travel is unclear: one estimate cited by Vox puts it at up to 100 miles.
+- Questions remain about why other disposal methods weren't used.
+- Newsweek attributes the 1977 remarks to a 'Col. Aaron Teller,' while other outlets quote acting Army Secretary Adam Telle; it is unclear whether these are the same person.
 
-**Why it matters:** It is a long-running holiday ritual that also shows how presidents use the stage.
+**Why it matters:** Thousands of people face possible lead exposure on one of the year's busiest holiday weeks.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/trending/trump-pardons-thanksgiving-turkeys-annual-tradition/H62FBDN4ZBFT3KRG2VENQEQRPU/) (center): Trump pardons Thanksgiving turkeys in annual tradition
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers) (lean-left): WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers
-- [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4814281/freedom-feathers-turkey-thanksgiving-presidential-pardon/) (lean-right): Freedom lives: Trump pardons turkeys Feathers and Freedom
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/crwy8g3zwq3yo?at_medium=RSS&at_campaign=rss) (center): Watch: Trump pardons turkeys Freedom and Feathers
-- [Axios](https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom) (center): Trump talks turkey, and his ballroom, at pardoning event
-- [The Hill](https://thehill.com/homenews/administration/6240328-watch-live-donald-trump-thanksgiving-turkey-pardon-2026/) (center): Watch: Trump pardons turkeys Freedom, Feathers in annual Thanksgiving tradition
+- [Newsweek](https://www.newsweek.com/what-happened-during-the-us-armys-last-lead-azide-detonation-in-1977-12765866) (center): What Happened During the US Army's Last Lead Azide Detonation in 1977
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation) (lean-left): US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving
+- [The Daily Caller](https://dailycaller.com/2026/11/24/us-army-new-map-lead-dust-plume-iowa-army-ammunition-plant-lead-azide-detonation) (right): Army Releases New Map Showing Projected Path Of Toxic Lead Dust Plume
+- [The Hill](https://thehill.com/policy/defense/6240393-reynolds-supports-iowa-detonation/) (center): Iowa governor backs Army’s lead detonation even as safety questions remain
+- [PBS NewsHour](https://www.pbs.org/newshour/show/army-plans-explosive-detonation-in-iowa-despite-residents-concerns) (lean-left): Army plans explosive detonation in Iowa despite residents' concerns
+- [Vox](https://www.vox.com/today-explained-newsletter/511830/iowa-lead-azide-explosives-detonation-plume) (left): Why the Army wants to detonate toxic explosives in Iowa
 
 
-## 5. Wind threatens Macy's parade balloons; Charlotte's Thanksgiving Eve parade canceled
-`Charlotte Local` · Covered by 4 outlets (L 1 · C 2 · R 1)
+## 6. Kilmar Abrego Garcia leaves the US for Spain under sealed agreement
+`US Headlines` · Covered by 4 outlets (L 1 · C 1 · R 2)
 
-A storm forecast for Thanksgiving could ground balloons at the 100th Macy's Thanksgiving Day Parade in New York. City rules bar large balloons if sustained winds exceed 23 mph or gusts exceed 34 mph, and the National Weather Service expects gusts of 30 to 40 mph Thursday morning. Macy's says the decision will be made the morning of the parade, and floats and performers would still march. Separately, bad weather canceled Charlotte's Thanksgiving Eve parade, with ticket holders to be refunded.
+Kilmar Abrego Garcia, whose March 2025 deportation to El Salvador the administration called an 'administrative error,' boarded a flight to Madrid on Tuesday under an agreement with federal authorities. The terms remain sealed. The departure avoids a planned removal to an African country such as Liberia. Sen. Chris Van Hollen said he was leaving as 'a free man,' and his lawyers said he plans to go on to Mexico. The DOJ is still appealing the dismissal of human smuggling charges against him in Tennessee.
 
 **Key facts**
-- The parade starts at 8:30 a.m. Thursday.
-- The wind rules followed a 1997 accident in which a balloon hit a lamppost and critically injured a woman.
-- Balloons were last grounded for weather in 1971.
-- Mayor Zohran Mamdani, the NYPD and Macy's planned a press briefing Wednesday at 5:30 p.m. ET.
+- He was deported to El Salvador in March 2025 despite a 2019 order barring removal there, then returned in June 2025.
+- Judge Waverly Crenshaw dismissed the Tennessee smuggling charges in May, finding reason to believe the prosecution was vindictive.
+- Judge Paula Xinis issued a sealed order Friday.
+- Abrego Garcia had offered to go to Costa Rica; a former ICE acting director pushed for Liberia instead.
 
 **How it's being framed**
-- **Left:** PBS (AP) offered a practical explainer on the rules, the forecast and the decision process, quoting the NWS and Macy's.
-- **Center:** The Hill focused on whether the parade has ever been canceled, noting it never has been for weather; WCNC reported the Charlotte cancellation.
-- **Right:** The Daily Caller used a gloomier tone ("doom and gloom"), adding holiday travel figures and record-high gas prices.
+- **Left:** Al Jazeera leads with Van Hollen's praise and details the CECOT detention, the 'administrative error' and the ICE memo rejecting Costa Rica.
+- **Center:** The Hill reports Van Hollen's confirmation and ABC's account of the flight.
+- **Right:** The Washington Examiner and Daily Caller describe him as the face of Trump's deportation fight. They report his lawyers' 'vindictive prosecution' statement and the DOJ appeal, note that the judges are Obama appointees, and the Daily Caller links to DOJ allegations of MS-13 ties.
 
 **Disputed or unclear**
-- Whether the balloons will fly will be decided on parade morning.
+- The terms of the agreement are sealed.
+- The DOJ's gang allegations are unproven, and the smuggling case is on appeal.
+- Whether a judge directed him to leave is reported through an unnamed AP source.
 
-**Why it matters:** It affects holiday plans for millions of viewers and attendees.
+**Why it matters:** It closes a high-profile test case over due process in the administration's deportation policy.
 
 **Read it yourself:**
-- [The Hill](https://thehill.com/homenews/state-watch/6240331-macys-thanksgiving-day-parade-2026-weather-warnings/) (center): Weather threatens Macy’s Thanksgiving Day Parade. Has it ever been canceled?
-- [PBS NewsHour](https://www.pbs.org/newshour/arts/will-wind-ground-your-favorite-balloon-in-macys-thanksgiving-day-parade) (lean-left): Will wind ground your favorite balloon in Macy's Thanksgiving Day Parade?
-- [The Daily Caller](https://dailycaller.com/2026/11/24/macys-thanksgiving-day-parade-balloons-floats-performers-list-storms-new-york-city-weather-report) (right): Macy’s Thanksgiving Day Parade Set For Doom And Gloom, Would Be First Time Since 1971
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/weather-impact/charlottes-thanksgiving-eve-parade-canceled/275-55c3489d-b007-41ac-912b-2d1d96d98134) (center): Bad weather cancels Charlotte's Thanksgiving Eve parade
+- [The Hill](https://thehill.com/policy/international/6241572-kilmar-abrego-garcia-self-deports/) (center): Van Hollen: Abrego Garcia leaving US, ‘will be safe’ amid self-deportation reports
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle) (lean-left): Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle
+- [Washington Examiner](https://www.washingtonexaminer.com/policy/immigration/4814596/kilmar-abrego-garcia-leave-us-spain/) (lean-right): Kilmar Abrego Garcia to leave US immediately for Spain
+- [The Daily Caller](https://dailycaller.com/2026/11/24/kilmar-abrego-garcia-self-deports-spain-ms13) (right): Kilmar Abrego Garcia Self-Deports After 20 Months As Face Of Trump’s Deportation Campaign
 
 
-## 6. Court unseals redacted records on search of Rep. Ilhan Omar's home; House lawyer disputes DOJ account
-`US Headlines` · Covered by 5 outlets (L 3 · C 2 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 7. Trump awards Rudy Giuliani the Presidential Medal of Freedom
+`US Headlines` · Covered by 4 outlets (L 2 · C 1 · R 1)
 
-Chief Judge James Boasberg ordered partial unsealing of 169 pages of records on the Oct. 12 DHS search of Rep. Ilhan Omar's Washington home, after a lawsuit by news organizations. The records show the warrant sought evidence of crimes from 1980 to the present, with the offenses redacted. Magistrate Judge Matthew Sharbaugh rejected DOJ's argument that the Speech or Debate Clause does not cover a member's home and required a protocol letting Omar assert privilege. House General Counsel Matthew Berry called DOJ's claim that he backed its position "categorically false," and The Hill reports DOJ has since apologized to him. Omar has not been charged, denies wrongdoing and calls the probe politically motivated.
+Trump presented former New York Mayor Rudy Giuliani, 82, with the Presidential Medal of Freedom in a closed-press White House ceremony on Tuesday. The White House cited his leadership after 9/11. Giuliani later served as Trump's lawyer in efforts to overturn the 2020 election and was disbarred in New York and Washington. Giuliani said he was 'honored and humbled.'
 
 **Key facts**
-- A 67-page search warrant affidavit remains sealed.
-- AP reported a probe into possible fraud in her family's immigration paperwork, with grand jury subpoenas issued to relatives.
-- The search came 22 days before the Nov. 3 midterms, which Omar won.
-- Prosecutors say the alleged crimes are decades old and unrelated to her work in Congress.
+- Trump first announced the award last year, after Giuliani was seriously injured in a car crash.
+- Giuliani was disbarred over false statements about the 2020 election.
+- Former election workers Ruby Freeman and Shaye Moss were involved in a $148 million defamation case against him.
+- Other second-term medals include posthumous awards to Charlie Kirk and Welles Crowther.
 
 **How it's being framed**
-- **Left:** The Guardian and PBS (AP) emphasized the constitutional debate and the judge's protection of Omar's privileges, noting she has faced anti-immigrant rhetoric from Trump. Al Jazeera led with Berry's rebuttal and quoted critics who called the raid unlawful and highly unusual.
-- **Center:** The BBC covered the records' scope back to 1980, Omar's denials, administration officials' allegations, and concerns about the election timing. The Hill focused on DOJ's apology to Berry.
+- **Left:** The Guardian and PBS pair the 9/11 legacy with his disbarment, defamation case, bankruptcy and 2020 election role. They note the press was excluded and quote his son praising his legal work.
+- **Center:** The Hill focuses on the 9/11 'America's Mayor' legacy and the White House's praise.
+- **Right:** A New York Post column calls the award well deserved, treats the 2020 controversies as 'footnotes,' and highlights his record as a crime-fighting prosecutor and mayor.
 
 **Disputed or unclear**
-- What crimes are under investigation remains redacted.
-- Officials have alleged marital and immigration fraud; Omar calls the investigations "shams."
-- Whether DOJ misrepresented Berry's position to the court: he says it did, and The Hill reports an apology.
-- The Hill identifies Omar as D-Mich., while other outlets say Minnesota.
+- Outlets describe the $148 million case differently: PBS says the workers won a judgment, while the Guardian and NY Post describe a settlement (the Post says it was settled before trial).
 
-**Why it matters:** It tests the limits of executive power to investigate sitting members of Congress.
+**Why it matters:** The award highlights sharply divided views of Giuliani's legacy and of Trump's use of national honours.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss) (center): US court unseals heavily redacted records on Ilhan Omar home search
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/24/ilhan-omar-home-search-judge-ruling) (lean-left): Judge unseals records on Ilhan Omar’s home search amid constitutional debate
-- [The Hill](https://thehill.com/regulation/court-battles/6241076-doj-apologizes-house-lawyer-berry/) (center): DOJ apologizes to House’s top lawyer for dispute about Omar home search
-- [PBS NewsHour](https://www.pbs.org/newshour/politics/records-show-how-doj-judge-debated-constitutional-implications-of-searching-rep-ilhan-omars-home) (lean-left): Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home) (lean-left): US House counsel denies backing controversial raid on Ilhan Omar’s home
+- [The Hill](https://thehill.com/homenews/administration/6240166-donald-trump-honors-rudy-giuliani-presidential-medial-of-freedom/) (center): Trump awards ‘America’s Mayor’ Giuliani nation’s highest civilian honor
+- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom) (lean-left): Trump honors Rudy Giuliani with presidential medal of freedom
+- [New York Post](https://nypost.com/2026/11/24/opinion/michael-goodwin-rudy-giuliani-defines-the-presidential-medal-of-freedom-from-americas-mayor-to-his-lasting-impact-on-nyc-crime/) (lean-right): Michael Goodwin: Rudy Giuliani defines the Presidential Medal of Freedom — from ‘America’s Mayor’ to his lasting impact on NYC crime
+- [PBS NewsHour](https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11) (lean-left): Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11
 
 
-## 7. Russia reportedly preparing nuclear-armed satellite as China launches first foreign astronaut
-`Asia Business & Politics` · Covered by 4 outlets (L 0 · C 3 · R 1)
+## 8. Solomon Islands signs security treaty with Australia, moving away from China pact
+`Asia Business & Politics` `Korea` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-German media, citing anonymous military and intelligence sources, reported that NATO allies were told Russia may launch a nuclear-armed satellite, dubbed "Sputnik-S," within 60 days. NATO chief Mark Rutte vowed to defend against space threats, and Chancellor Friedrich Merz called such reports "shocking" without confirming them. The Kremlin dismissed the reports as unfounded propaganda. Separately, China's Shenzhou-24 is set to launch Wednesday carrying Pakistani Muhammad Zeeshan Ali, the first foreign astronaut to visit its Tiangong station.
+Solomon Islands PM Matthew Wale and Australian PM Anthony Albanese signed a treaty in Canberra making Australia the country's primary security partner. It bars foreign military bases and requires consultation with Australia on critical infrastructure and on security deals outside the Pacific Islands Forum. Reports say Honiara will not renew its 2022 security pact with China. Wale said talks with Beijing are 'ongoing' and cited a non-disclosure clause. China said its Pacific ties involve no 'geopolitical contests or bloc confrontation.'
 
 **Key facts**
-- Russia is a signatory to the 1967 Outer Space Treaty, which bans weapons of mass destruction in orbit.
-- In 2024 the US accused Russia of developing a nuclear anti-satellite weapon, which Russia denied.
-- Shenzhou-24 launches at 8:18 a.m. local time Wednesday from Jiuquan.
-- Ali, a 40-year-old former Pakistani air force pilot, will spend about five days in orbit.
+- Wale: 'Solomon Islands has been... a source of uncertainty and doubt in the region... Those days are gone.'
+- The Guardian reports $740 million in Australian funding over 10 years ($670 million in grants, $70 million in loans).
+- Sensitive infrastructure is to remain 'free from militarisation, foreign interference and unauthorised access.'
+- About 14 Chinese police officers are expected to leave by mid-2027, according to the Guardian.
 
 **How it's being framed**
-- **Center:** The BBC reported the satellite claims with Russian denials, expert caveats about indiscriminate effects, and notes that the US and China also pursue space weapons. DW and CNA covered the Pakistani astronaut as a milestone in China-Pakistan ties amid the moon race with the US.
-- **Right:** The Washington Examiner linked the two stories, arguing that China's peaceful space diplomacy is belied by its partner Russia, and treated the satellite plan as fact ("Moscow is about to put a nuclear weapons satellite in space").
+- **Left:** The Guardian calls it a blow to China and a win for Albanese, details the funding, education, visa and labour programmes, and anticipates a backlash from Beijing.
+- **Center:** AFP (via the Korea Herald) and BBC describe it as countering China, quoting Lowy Institute and Crisis Group analysts. AFP notes Wale's fragile hold on power and that parliament has been adjourned, raising questions about how long the deal will last.
 
 **Disputed or unclear**
-- The satellite reports rest on anonymous sources and unattributed intelligence; Russia denies them.
-- Whether a launch is actually imminent.
+- Whether the China pact has formally been terminated: Wale won't confirm, and China neither confirmed nor denied.
+- The pact's expiry date is given as April or April 2027.
+- How long the deal will last given Wale's political position.
 
-**Why it matters:** A nuclear weapon in orbit could threaten the satellites that underpin communications and navigation worldwide.
+**Why it matters:** It reshapes the US–China–Australia contest for influence in the Pacific.
 
 **Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss) (center): Nato chief vows defence against space threat after Russian nuclear satellite reports
-- [Washington Examiner](https://www.washingtonexaminer.com/opinion/beltway-confidential/4814104/china-space-diplomacy-russia-nuclear-weapon-satellite/) (lean-right): China’s space diplomacy belied by Russia’s nuclear weapon satellite
-- [Deutsche Welle](https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-rdf) (center): Pakistani astronaut to join Chinese space mission
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/east-asia/china-first-foreign-astronaut-pakistani-national-shenzhou-24-6576981) (center): China to launch Shenzhou-24 spaceship with first foreign astronaut
+- [The Korea Herald](https://www.koreaherald.com/article/10948949) (center): Australia, Solomon Islands sign sweeping pact stymieing China
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence) (lean-left): Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific
+- [BBC News (Asia)](https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss) (center): Solomon Islands ends controversial security pact with China for Australian treaty
 
 
-## 8. CIA and ODNI open-source intelligence network breached
-`AI & Cybersecurity` `US Headlines` · Covered by 3 outlets (L 0 · C 1 · R 2) · ⚠️ Mostly covered by right-leaning outlets
+## 9. Anthropic shares fall below $83 IPO price
+`AI & Cybersecurity` · Covered by 3 outlets (L 0 · C 2 · R 1)
 
-A network used by the CIA and the Office of the Director of National Intelligence to analyze publicly available information was breached, The New York Times first reported. A source told AP that no classified information was affected and the issue was resolved. It is unclear who was responsible or what data was exposed. An FBI source told Fox News the breach occurred the same day as a cyber breach at the FBI last week.
+Anthropic stock fell about 12–13% on Tuesday to around $76, below its $83 IPO price, less than a week after debuting at $111.50. The decline came as Nvidia gave back part of Monday's gains. Options trading shows traders are split on what comes next. Analysts say the stock's performance could affect valuations and IPO plans for other AI startups.
 
 **Key facts**
-- The affected system was unclassified.
-- The CIA did not immediately comment.
-- The breach follows a string of recent tech disruptions, several of which officials attributed to unrelated technical problems.
+- IPO price $83; opening trade $111.50; intraday high $115.
+- The stock fell under its IPO price in four trading days.
+- The offering raised $91.6 billion before fees.
+- Computing costs took 58 cents of every revenue dollar in Q3, up from 48 cents, according to its filing.
 
 **How it's being framed**
-- **Center:** Newsweek stressed what is unknown and put the breach in the context of broader outages, while noting that officials linked several of them to technical issues rather than attacks.
-- **Right:** Fox News and the Washington Examiner emphasized the breach as part of a string of alarming incidents, with Fox linking it to the FBI breach.
+- **Center:** CNBC focuses on options activity and mixed trader sentiment. TechCrunch frames the drop as a worrying signal for AI startup valuations and IPOs.
+- **Right:** The Daily Caller emphasises investor losses and questions whether AI spending will turn into profit, citing rising compute costs and $70.7 billion in commitments.
 
 **Disputed or unclear**
-- Who carried out the attack and how.
-- What information was exposed, including at other agencies.
-- Whether it is linked to the FBI breach.
+- Reported size of the drop varies: nearly 12%, 13%, or 13.1%.
 
-**Why it matters:** It points to vulnerabilities in US intelligence systems amid a wave of cyber incidents.
+**Why it matters:** Anthropic is widely watched as a test of how public markets value AI companies.
 
 **Read it yourself:**
-- [Newsweek](https://www.newsweek.com/cia-hacked-in-cybersecurity-breach-heres-what-was-impacted-12765090) (center): CIA Hacked in Cybersecurity Breach: Here's What Was Impacted
-- [Fox News](https://www.foxnews.com/politics/cia-hit-cyber-breach-exposed-unclassified-data-intelligence-analysis-network-sources) (right): CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4814275/cia-odni-cybersecurity-breach-open-source-intelligence/) (lean-right): CIA and ODNI hit by cybersecurity breach of open-source intelligence systems: Report
+- [CNBC](https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html) (center): Anthropic shares fall below IPO price. Traders see even more pain
+- [The Daily Caller](https://dailycaller.com/2026/11/24/anthropic-sinks-13-as-buyers-at-its-opening-trade-lose-nearly-a-third) (right): Anthropic Stock Tanks, Falls Below IPO Price
+- [TechCrunch (AI)](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/) (center): Anthropic shares fall below IPO price, a worrying sign for AI startups
 
 
-## 9. South Korea scrambles jets and alerts island residents as Russian aircraft approach
-`Korea` · Covered by 3 outlets (L 1 · C 2 · R 0)
+## 10. Coastal storm could disrupt Thanksgiving travel in the Carolinas
+`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
 
-Several Russian military aircraft entered South Korea's air defense identification zone (KADIZ) on Tuesday and approached Ulleungdo island before turning away after South Korean jets were scrambled. The military issued a pre-emptive shelter alert to the island's roughly 8,700 residents, which was lifted after three minutes. A second provincial message mistakenly referred to a North Korean aircraft, an error the province blamed on drill wording. Seoul's defense ministry summoned the Russian attaché, and the foreign ministry conveyed regret.
+A developing coastal storm, expected to become a nor'easter, is forecast to bring rain and strong winds to the Carolinas from Wednesday evening into Thanksgiving morning, clearing by Black Friday. The FAA warned that rain could affect flights across the Southeast on one of the busiest travel days. Pacific storms are also hitting the West Coast.
 
 **Key facts**
-- No sovereign airspace violation occurred.
-- The alert was issued at 7:52 a.m. and lifted at 7:55 a.m.
-- Russia does not recognize the KADIZ notification requirement.
-- Yonhap said the aircraft came closer than in any previous incident this year.
+- AAA projects 81.5 million Americans will travel 50+ miles between November 24 and 30.
+- The FAA says weather has caused 60% of delays this year.
+- The heaviest rain is expected Wednesday night into Thursday morning.
 
 **How it's being framed**
-- **Left:** The Guardian focused on the alarm and confusion among island residents and the erroneous message, and noted that Chinese incursions far outnumber Russian ones.
-- **Center:** The Korea Herald explored Moscow's possible motives through expert analysis, such as pressure over sanctions or Ukraine and signals to Washington. Yonhap reported the diplomatic response.
+- **Center:** Local stations and the BBC give practical forecasts and travel advice, including traveller interviews and airport notification plans.
 
-**Disputed or unclear**
-- The number of aircraft is unclear: Yonhap says about five, the Korea Herald fewer than five.
-- Counts differ for how many entries occurred this year (four vs five) and recently (second in a week vs third in eight days).
-- Russia's intentions are unknown.
-
-**Why it matters:** It signals rising friction in Northeast Asia as Russia deepens ties with North Korea.
+**Why it matters:** Holiday travellers may face delays.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10947647) (center): What is Russia signaling with repeated military flights near Korea?
-- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach) (lean-left): South Korea tells island residents to take shelter after Russian military aircraft approach
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261124006800315) (center): S. Korea's foreign ministry expresses regret to Russia over warplanes' KADIZ entry
-
-
-## 10. US consumer confidence jumps after midterms; South Korean sentiment falls
-`Korea` `US Headlines` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-The Conference Board's US consumer confidence index rose 11.4 points to 103.3 in November, far above forecasts, with Democrats and independents more upbeat while Republicans dipped slightly. Respondents still voiced frustration over high prices, and 12-month inflation expectations remained at 5.7%. The Fed is expected to raise rates by a quarter point in two weeks. In South Korea, the Bank of Korea's consumer sentiment index fell 2.3 points to 103.1, a seven-month low, which officials blamed on rising lending rates, stock declines and chip-industry uncertainty.
-
-**Key facts**
-- The US index rose from 91.9 to 103.3, against a consensus forecast of 92.2.
-- The gap between US jobs seen as "plentiful" and "hard to get" widened to 12.4 points.
-- The University of Michigan's survey also rose 7.3% in November.
-- South Korean households expect 2.6% inflation over the next year, a nine-month low.
-
-**How it's being framed**
-- **Center:** CNBC framed the US jump as a post-midterm boost with a partisan split, tempered by inflation worries; The Hill reported the numbers plainly. The Korea Herald detailed the broad-based decline across Korean sentiment components.
-
-**Why it matters:** Consumer mood shapes spending and central bank decisions in both economies.
-
-**Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10947601) (center): Consumer sentiment hits 7-month low as stocks slide
-- [CNBC](https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html) (center): Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist
-- [The Hill](https://thehill.com/business/6240686-consumer-confidence-spiked-november/) (center): Consumer sentiment surged in November: Conference Board
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/rain-strong-winds-could-disrupt-thanksgiving-travel-across-carolinas/) (center): Rain, strong winds could disrupt Thanksgiving travel across Carolinas
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/videos/c5742n4741keo?at_medium=RSS&at_campaign=rss) (center): Will bad weather disrupt Thanksgiving travel?
+- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/strong-winds-coastal-flooding-and-mountain-snow-carolinas-tracking-noreaster-for-holiday-travel-and-thanksgiving/) (center): Strong winds, coastal flooding, and mountain snow: Carolinas tracking nor'easter for holiday travel and Thanksgiving
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550) (center): Thanksgiving travel in Charlotte faces rain and wind, clearing by Black Friday
 
 
 ---
@@ -302,5 +296,4 @@ The Conference Board's US consumer confidence index rose 11.4 points to 103.3 in
 
 ### What is happening with AI regulation in the US and EU?
 
-🆕 Only one relevant item appeared: a Daily Caller piece headlined "Signs Point Toward AI Safety Crackdown From Swamp," which suggests Washington may be moving toward "tighter guardrails" on AI. The excerpt gives no details on specific measures, and nothing addresses the EU.
-- [The Daily Caller](https://dailycaller.com/2026/11/24/big-tech-congress-ai-safety-crackdown) (right): Signs Point Toward AI Safety Crackdown From Swamp
+No articles this edition addressed US or EU AI regulation. One analyst in the Nvidia coverage cited 'the threat of regulation under a new administration from next year' as a risk for the AI sector.
