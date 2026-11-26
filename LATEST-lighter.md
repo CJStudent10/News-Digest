@@ -1,161 +1,150 @@
-# The Lighter Brief: Evening edition
-_Wednesday, November 25, 2026 · 11:27 PM EST · 300 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Midday edition
+_Thursday, November 26, 2026 · 3:35 PM EST · 205 articles from 23 outlets · summaries by Claude_
 
-> The big news is a first: Macy's has moved its 100th Thanksgiving Day Parade to Saturday because a strong nor'easter would make it too windy for the giant balloons. Elsewhere, Kilmar Ábrego García has left the US for Spain, Charlotte weighs more license plate cameras, and a medieval Virgin Mary carving stolen in 1979 is finally heading home. There's also a sprinter switching clubs, Lil Wayne heading to All-Star Weekend, and a little reality-TV drama.
+> A cozy Thanksgiving edition: a Charlotte nonprofit served 500+ holiday meals, Feid and Snoop Dogg dropped a gratitude song, and a reggae singer is making a whole album for her late dog. We also have some practical local notes, including a soggy-then-chilly Carolinas forecast and a boil water advisory in Marshville, plus a few updates from Jamaica and a city tug-of-war over the Essence Festival.
 
 
 
 ---
 
-## 1. Macy's Parade moves to Saturday for the first time ever
-`US Headlines` · Covered by 6 outlets
+## 1. Charlotte Rescue Mission serves 500+ Thanksgiving meals
+`Charlotte` `US Headlines` · Covered by 3 outlets
 
-Macy's has postponed its 100th annual Thanksgiving Day Parade in New York from Thursday to Saturday. A powerful nor'easter is expected to bring heavy rain and wind gusts of up to 60 mph, which would be dangerous for the giant balloons. The parade has been suspended before, during World War Two, but it has never been postponed because of weather. The balloons were deflated and stored in New Jersey, ready to be reinflated for Saturday.
-
-**Key facts**
-- The new date is Saturday, starting at 8:30 a.m., on NBC and Peacock.
-- NBC will air a rerun of the 2025 parade on Thanksgiving morning.
-- This year's parade was set to have a record 100 inflatables, including 10 new balloons such as a crowned Bluey and a Minion riding a banana.
-- Governor Kathy Hochul declared a state of emergency for Long Island, New York City and Westchester County.
-
-**Good to know**
-- It's not yet clear whether every performer and crew can make the switch to Saturday.
-- Macy's says it is still working out which costs it can cover for bands and performers who traveled for the parade.
-
-**Worth knowing:** If the parade is part of your Thanksgiving, you'll still get Bluey and the banana-riding Minion, just two days later.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss): Macy's postpones Thanksgiving parade due to severe weather
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/macys-thanksgiving-day-parade-has-been-postponed-when-how-watch-it-now/): The Macy’s Thanksgiving Day Parade has been postponed: When and how to watch it now
-- [Axios](https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather): Macy's Thanksgiving parade postponed for the first time in the event's history
-- [The Hill](https://thehill.com/homenews/state-watch/6243709-nyc-macys-parade-set-saturday/): New York delays Macy’s Thanksgiving parade because of severe weather
-
-
-## 2. Kilmar Ábrego García leaves the US for Spain
-`US Headlines` · Covered by 3 outlets
-
-Kilmar Ábrego García, the Salvadoran man the US government admitted it had wrongly deported to El Salvador in 2025, has flown to Spain on a commercial flight. His case became a major point of debate over the Trump administration's immigration policies. His lawyer calls the move temporary and says he hopes to return to his family in Maryland under a future administration. The Department of Homeland Security says he left under a removal order and will never be allowed back.
+Volunteers at the Charlotte Rescue Mission spent Thanksgiving cooking and hand-serving free breakfast and lunch to anyone who needed it. The day began with a prayer and breakfast, and there were movies and table games too. Organizers said the goal was to make the day feel like family for everyone who came through the door.
 
 **Key facts**
-- He flew to Spain on Tuesday, and footage showed an ICE ankle monitor being removed when he arrived.
-- Human trafficking charges brought after his return to the US were later dropped.
-- DHS says he paid for his own flight and received no incentives.
-- His wife and child are US citizens.
+- More than 500 free meals were served on Thanksgiving
+- The team started cooking 60 turkeys two weeks ahead
+- Kitchen manager and chef Brandy Legree was back at work at 2 a.m.
+- The nonprofit also runs addiction recovery programs and welcomes volunteers year-round
 
-**Good to know**
-- The administration says he is a member of the MS-13 gang. He denies this.
-- His lawyer calls the departure temporary, while DHS says he will never be allowed back.
-
-**Worth knowing:** His case has been at the center of the national conversation about due process in immigration enforcement.
+**Worth knowing:** As former program participant Roscoe Burris put it, "they gave me my life back." That is a lovely reminder of what this kind of work can mean.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss): Kilmar Ábrego García arrives in Spain, ending Trump deportation battle
-- [NPR](https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang): Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.
-- [The Hill](https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/): Kilmar Abrego Garcia arrives in Spain after self-deporting
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/): Charlotte Rescue Mission provides Thanksgiving meals for those in need
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/so-grateful-charlotte-rescue-mission-serves-more-than-500-people-thanksgiving/): ‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving
+- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-nonprofit-marks-thanksgiving-with-annual-community-meal/): Charlotte nonprofit marks Thanksgiving with annual community meal
 
 
-## 3. Charlotte travelers keep an eye on the sky
-`Charlotte` `US Headlines` · Covered by 2 outlets
+## 2. Carolinas weather: rain clears, then a chilly, breezy Friday
+`US Headlines` `Charlotte` · Covered by 3 outlets
 
-Thanksgiving eve was busy at Charlotte Douglas International Airport. Many travelers arrived two to three hours early to beat the rain and wind in the forecast. Most reported fairly smooth trips, and some said the airport felt less crowded than in past years.
+A storm brought one to two inches of rain and gusty winds to the Carolinas around Thanksgiving, but showers were expected to ease by Thursday afternoon. Winds pick back up overnight, bringing a cold Friday and possible light snow in the mountains. The weekend looks mostly dry until rain returns late Sunday.
 
 **Key facts**
-- Nearly 2 million passengers are expected through Charlotte Douglas over the holiday travel period.
-- Rain and wind are forecast through Thanksgiving morning.
-- Some travelers said they still have a Plan B ready after a recent FAA ground stop.
+- Wind gusts of 30 to 40 mph are expected overnight into Friday
+- Friday highs will be in the upper 40s to low 50s, about 10 degrees below average
+- A few inches of snow are possible above 3,500 feet
+- Rain is expected late Sunday, which could slow post-holiday travel
 
-**Worth knowing:** If you're flying, the advice is simple: get there early and check your airline for alerts.
+**Worth knowing:** If you're driving home Sunday, try to leave earlier in the day.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/i-worry-about-weather-charlotte-travelers-prepare-windy-rainy-travel-thanksgiving-eve/): ‘I worry about weather’: Charlotte travelers prepare for windy, rainy Thanksgiving travel
-- [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/holiday-travelers-report-mostly-smooth-trips-through-charlotte-airport-despite-busy-thanksgiving-rush/): Holiday travelers report mostly smooth trips through Charlotte airport despite busy Thanksgiving rush
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/wet-start-thanksgiving-windy-black-friday-carolinas-latest-forecast/): Rain eases in Charlotte Thanksgiving afternoon, but gusty winds and mountain snow return
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Rain clears into Turkey Day afternoon but a colder wind blows behind it
+- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/rain-slowly-clears-out-of-charlotte-for-thanksgiving/): Rain slowly clears out of Charlotte for Thanksgiving
 
 
-## 4. Sprinter Bryan Levell joins Racers Track Club
+## 3. Marshville under a boil water advisory after main break
+`US Headlines` · Covered by 4 outlets
+
+A water main break on Water Plant Road Wednesday afternoon left many Marshville, N.C., residents with little or no water on Thanksgiving. Crews worked overnight, but rain slowed repairs. As service returns, the town has issued a boil water advisory until further notice and apologized for the disruption to holiday plans.
+
+**Key facts**
+- The break happened around 4 p.m. Wednesday, Nov. 25
+- The boil water advisory was issued around noon Thursday
+- Use bottled water or water brought to a rolling boil for at least one minute for drinking, cooking and brushing teeth
+- The cause of the break is not yet clear
+
+**Worth knowing:** If you're in Marshville, keep boiling your water until the town says the advisory is lifted.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/boil-water-advisory-issued-marshville-after-water-main-break/): Boil water advisory issued for Marshville after water main break
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/water-main-break-leaves-marshville-residents-without-water-thanksgiving/UX3UJQSSQRBRXDJMTBXB5EVZAI/): Boil water advisory in place after Marshville water main break
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/marshville-water-main-break-thanksgiving/275-76406a77-77cb-419a-a5f7-068d3173f3a5): Marshville issues boil water advisory after water main break
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/local-news/town-in-union-county-without-water-on-thanksgiving/): Town in Union County without water on Thanksgiving
+
+
+## 4. Jamaica's utility regulator and FLOW agree on complaint timelines
 `Jamaica` · Covered by 1 outlet
 
-Jamaican sprinter Bryan Levell, the 2025 World 200m bronze medallist, has joined Racers Track Club ahead of the 2027 season. He announced the move on Instagram, calling it a new journey. He is leaving Uptimum Track Club and coach Shanikie Osbourne.
+Jamaica's Office of Utilities Regulation (OUR) and FLOW signed an agreement that sets timelines for acknowledging, responding to and investigating customer complaints. The regulator wants to speed up how quickly complaints get resolved.
 
 **Key facts**
-- His new coach is the well-known Glen Mills.
-- His new training partners include Oblique Seville, Antonio Watson and Bouwahjgie Nkrumie.
+- The agreement was signed November 24, 2026
+- It is the OUR's second such agreement, after one with Digicel on March 4, 2026
 
-**Worth knowing:** It's a fun one for track fans: a medal-winning sprinter joining a group packed with fast names.
+**Worth knowing:** FLOW customers could see faster, clearer handling when something goes wrong with their service.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/bryan-levell-joins-racers-track-club/): Bryan Levell joins Racers Track Club
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/flow-sign-service-level-agreement-customer-complaints/): OUR, FLOW sign service level agreement for customer complaints
 
 
-## 5. Jamaican small businesses could be landing bigger deals
+## 5. Reggae singer Sophia Dias is making an album for her late dog
+`Jamaica` `Cute Animals` · Covered by 1 outlet
+
+US-based reggae artist Sophia Dias will record her third album at Jamaica's famed Tuff Gong Studio starting in February, with every song dedicated to her Bernese Mountain Dog, Mr Santos. She shared sweet memories, like bringing a blanket to restaurant patios so they could eat together, where waiters often brought him vanilla ice cream, his favorite. Mr Santos died three years ago, and he was best friends with her three cats.
+
+**Key facts**
+- Veteran producer Clive Hunt is producing the seven-track album
+- Recording begins in February at Tuff Gong Studio
+- Mr Santos lived to 11, about a year beyond the breed's typical life expectancy
+
+**Worth knowing:** Anyone who has loved a pet will understand wanting to write a whole album about them.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/reggae-singer-sophia-dias-record-album-tribute-deceased-dog/): Reggae singer Sophia Dias to record album in tribute to her deceased dog
+
+
+## 6. Falmouth mayor condemns vandalism at storm-damaged buildings
 `Jamaica` · Covered by 1 outlet
 
-Harold Davis, deputy CEO of the Jamaica Business Development Corporation, says many small businesses are missing out on contracts. He says the issue is usually not what they can offer, but not knowing the opportunities exist or how to prepare for them. He pointed to tourism supply chains and government procurement as the biggest openings.
+Trelawny's mayor, C Junior Gager, said a string of break-ins and thefts at buildings damaged by Hurricane Melissa is undermining recovery efforts. A suspect caught on security cameras has been handed over to police.
 
 **Key facts**
-- About J$37 billion in government procurement is set aside for small and medium businesses.
-- Davis spoke at an Opportunity Evening during Global Entrepreneurship Week 2026.
-- His three steps: know where the opportunity is, understand what it requires, and prepare your business for it.
+- Supplies meant for residents of the Trelawny Adult Residential Care Facility were stolen
+- The theft was discovered hours after PM Andrew Holness opened the first phase of the facility's new home
+- Doors were removed from the damaged Icy Allen building
 
-**Worth knowing:** It's a hopeful message: there's real money available, and the JBDC is working to connect entrepreneurs directly with buyers.
+**Worth knowing:** It shows the bumps in the road as communities rebuild after the hurricane.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/msmes-leaving-money-table-market-opportunities-go-untapped-davis/): MSMEs leaving money on the table as market opportunities go untapped—Davis
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/gager-condemns-vandalism-melissa-damaged-structures/): Gager condemns vandalism of Melissa-damaged structures
 
 
-## 6. Lil Wayne is headed to NBA All-Star Weekend in Phoenix
-`Hip Hop & Celebrity` · Covered by 1 outlet
+## 7. War of words between Jamaican politicians
+`Jamaica` · Covered by 1 outlet
 
-Lil Wayne announced on Instagram that he'll be part of the NBA All-Star Music Festival in Phoenix next February. The outdoor festival at Margaret T. Hance Park will also have current and former NBA players, food trucks and basketball-themed games.
+JLP Senator Abka Fitz-Henley criticized PNP caretaker Paul Buchanan for calling House Speaker Juliet Holness "this girl" at a protest. Fitz-Henley declined to respond to being called a "likkle fool" himself. He also disputed Buchanan's claim that trillions of dollars are unaccounted for.
 
 **Key facts**
-- The festival runs February 19 and 20, 2027, with gates opening at 4 p.m.
-- Tickets start at $150, and there's free programming at Canyons on Third.
-- The 76th All-Star Game is February 21 at Mortgage Matchup Center.
+- Buchanan made the remarks at a PNP protest on Tuesday
+- Fitz-Henley said the Auditor General's comments concerned delays in tabling financial statements dating from 2013, not missing money
 
 **Good to know**
-- He hasn't said which day he'll perform.
+- Buchanan says trillions of dollars are unaccounted for; Fitz-Henley calls that false and points to a fact-checking portal that called the wording misleading
 
-**Worth knowing:** Hoops and hip-hop in one weekend is a pretty great combo for fans.
-
-**Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/lil-wayne-puts-phoenixs-nba-all-star-music-festival-on-his-calendar/): Lil Wayne Adds Phoenix’s NBA All-Star Music Festival On His Calendar
-
-
-## 7. Charlotte weighs more license plate cameras
-`Charlotte` · Covered by 1 outlet
-
-Charlotte is looking for a new vendor for automated license plate readers, and the final decision rests with City Council. Supporters say the current system is outdated. Opponents, including resident Daniel Oria, worry about privacy. The debate follows the arrest of a former police officer for allegedly misusing the Flock camera system.
-
-**Key facts**
-- The city issued its request for proposals on Sept. 8.
-- CMPD doesn't own the Flock cameras around Charlotte but can search them through an agreement with Flock.
-- Councilmember Dante Anderson says the city should invest in safety equipment while protecting residents' privacy.
-- A nearly identical request in 2025 was shut down before it reached council.
-
-**Worth knowing:** It's a local decision about the balance between public safety and privacy, and residents can weigh in with City Council.
+**Worth knowing:** It's a glimpse of the current tone in Jamaican politics and an ongoing argument over public finances.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/is-charlotte-poised-more-license-plate-readers/): Is Charlotte poised for more license plate readers?
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/fitz-henley-condemns-buchanan-referring-house-speaker-girl/): Fitz-Henley condemns Buchanan for referring to House Speaker as ‘this girl’
 
 
-## 8. Ray J and Princess Love clash on a livestream again
+## 8. Feid and Snoop Dogg release a Thanksgiving song, 'Gracias x Todo'
 `Hip Hop & Celebrity` `US Headlines` · Covered by 1 outlet
 
-During a livestream on Tuesday, Princess Love told Ray J to leave her house after finding him in a bathroom with Celina Powell, then asked everyone else to leave too. The longtime Love & Hip Hop couple married in 2016 and have filed for divorce four times. The divorce was still unresolved as of July.
+Colombian star Feid and Snoop Dogg released "Gracias x Todo," a song about gratitude and getting through life's ups and downs. The music video honors Feid's family and features a children's choir. Feid first previewed the song at the Latin Grammys, where Snoop made a surprise appearance.
 
 **Key facts**
-- The pair have a daughter and a son.
-- The most recent divorce filing, by Princess Love, was in February 2024.
-- The livestream was a show called Toxic Take on Zeus.
+- Released Thursday, Nov. 26
+- Feid won best reggaeton performance at the Latin Grammys for "Verano Rosa" with Karol G
+- He is set to appear in the 100th Macy's Thanksgiving Day Parade
+- His North American arena tour kicks off Feb. 5 in Orlando
 
-**Good to know**
-- The confrontation itself is confirmed by footage, and Ray J shared it on Instagram himself. Since he promoted the stream, it's unclear how much of the moment was spontaneous.
-- Separately, Ray J was arrested in November 2025 after Princess Love alleged he pointed a gun at her. He denies pointing a gun at anyone, and six misdemeanor counts have been filed. Those are allegations, not a verdict.
-
-**Worth knowing:** It's the latest chapter in one of reality TV's longest on-again, off-again relationships.
+**Worth knowing:** It's a feel-good soundtrack for a holiday about being thankful.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/ray-j-princess-love-celina-powell-toxic-take-livestream/): Ray J Ordered Out By Princess Love After Livestream Run-In With Celina Powell
+- [Billboard](https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/): Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’
 
 
 ---

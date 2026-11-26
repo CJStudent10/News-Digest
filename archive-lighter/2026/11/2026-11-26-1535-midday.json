@@ -1,0 +1,359 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-26T20:35:38.251198+00:00",
+  "local_time": "Thursday, November 26, 2026 · 3:35 PM EST",
+  "local_date": "Nov 26, 2026",
+  "slug": "2026-11-26-1535-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A cozy Thanksgiving edition: a Charlotte nonprofit served 500+ holiday meals, Feid and Snoop Dogg dropped a gratitude song, and a reggae singer is making a whole album for her late dog. We also have some practical local notes, including a soggy-then-chilly Carolinas forecast and a boil water advisory in Marshville, plus a few updates from Jamaica and a city tug-of-war over the Essence Festival.",
+  "stories": [
+    {
+      "id": "s2",
+      "headline": "Charlotte Rescue Mission serves 500+ Thanksgiving meals",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "Volunteers at the Charlotte Rescue Mission spent Thanksgiving cooking and hand-serving free breakfast and lunch to anyone who needed it. The day began with a prayer and breakfast, and there were movies and table games too. Organizers said the goal was to make the day feel like family for everyone who came through the door.",
+      "key_facts": [
+        "More than 500 free meals were served on Thanksgiving",
+        "The team started cooking 60 turkeys two weeks ahead",
+        "Kitchen manager and chef Brandy Legree was back at work at 2 a.m.",
+        "The nonprofit also runs addiction recovery programs and welcomes volunteers year-round"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "As former program participant Roscoe Burris put it, \"they gave me my life back.\" That is a lovely reminder of what this kind of work can mean.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte Rescue Mission provides Thanksgiving meals for those in need",
+          "url": "https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/",
+          "published": "2026-11-26T17:19:20+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving",
+          "url": "https://www.wbtv.com/2026/11/26/so-grateful-charlotte-rescue-mission-serves-more-than-500-people-thanksgiving/",
+          "published": "2026-11-26T15:38:44+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte nonprofit marks Thanksgiving with annual community meal",
+          "url": "https://www.qcnews.com/charlotte/charlotte-nonprofit-marks-thanksgiving-with-annual-community-meal/",
+          "published": "2026-11-26T19:40:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Carolinas weather: rain clears, then a chilly, breezy Friday",
+      "topics": [
+        "US Headlines",
+        "Charlotte"
+      ],
+      "summary": "A storm brought one to two inches of rain and gusty winds to the Carolinas around Thanksgiving, but showers were expected to ease by Thursday afternoon. Winds pick back up overnight, bringing a cold Friday and possible light snow in the mountains. The weekend looks mostly dry until rain returns late Sunday.",
+      "key_facts": [
+        "Wind gusts of 30 to 40 mph are expected overnight into Friday",
+        "Friday highs will be in the upper 40s to low 50s, about 10 degrees below average",
+        "A few inches of snow are possible above 3,500 feet",
+        "Rain is expected late Sunday, which could slow post-holiday travel"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're driving home Sunday, try to leave earlier in the day.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rain eases in Charlotte Thanksgiving afternoon, but gusty winds and mountain snow return",
+          "url": "https://www.wbtv.com/2026/11/26/wet-start-thanksgiving-windy-black-friday-carolinas-latest-forecast/",
+          "published": "2026-11-26T14:36:17+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rain clears into Turkey Day afternoon but a colder wind blows behind it",
+          "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+          "published": "2026-11-26T14:15:54+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Rain slowly clears out of Charlotte for Thanksgiving",
+          "url": "https://www.qcnews.com/weather/weather-forecast/rain-slowly-clears-out-of-charlotte-for-thanksgiving/",
+          "published": "2026-11-26T14:48:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Marshville under a boil water advisory after main break",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "A water main break on Water Plant Road Wednesday afternoon left many Marshville, N.C., residents with little or no water on Thanksgiving. Crews worked overnight, but rain slowed repairs. As service returns, the town has issued a boil water advisory until further notice and apologized for the disruption to holiday plans.",
+      "key_facts": [
+        "The break happened around 4 p.m. Wednesday, Nov. 25",
+        "The boil water advisory was issued around noon Thursday",
+        "Use bottled water or water brought to a rolling boil for at least one minute for drinking, cooking and brushing teeth",
+        "The cause of the break is not yet clear"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're in Marshville, keep boiling your water until the town says the advisory is lifted.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Boil water advisory issued for Marshville after water main break",
+          "url": "https://www.wbtv.com/2026/11/26/boil-water-advisory-issued-marshville-after-water-main-break/",
+          "published": "2026-11-26T18:08:06+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Boil water advisory in place after Marshville water main break",
+          "url": "https://www.wsoctv.com/news/local/water-main-break-leaves-marshville-residents-without-water-thanksgiving/UX3UJQSSQRBRXDJMTBXB5EVZAI/",
+          "published": "2026-11-26T17:58:42+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Marshville issues boil water advisory after water main break",
+          "url": "https://www.wcnc.com/article/news/local/marshville-water-main-break-thanksgiving/275-76406a77-77cb-419a-a5f7-068d3173f3a5",
+          "published": "2026-11-26T17:50:52+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Town in Union County without water on Thanksgiving",
+          "url": "https://www.qcnews.com/news/local-news/town-in-union-county-without-water-on-thanksgiving/",
+          "published": "2026-11-26T15:15:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Jamaica's utility regulator and FLOW agree on complaint timelines",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's Office of Utilities Regulation (OUR) and FLOW signed an agreement that sets timelines for acknowledging, responding to and investigating customer complaints. The regulator wants to speed up how quickly complaints get resolved.",
+      "key_facts": [
+        "The agreement was signed November 24, 2026",
+        "It is the OUR's second such agreement, after one with Digicel on March 4, 2026"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "FLOW customers could see faster, clearer handling when something goes wrong with their service.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "OUR, FLOW sign service level agreement for customer complaints",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/flow-sign-service-level-agreement-customer-complaints/",
+          "published": "2026-11-26T20:17:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Reggae singer Sophia Dias is making an album for her late dog",
+      "topics": [
+        "Jamaica",
+        "Cute Animals"
+      ],
+      "summary": "US-based reggae artist Sophia Dias will record her third album at Jamaica's famed Tuff Gong Studio starting in February, with every song dedicated to her Bernese Mountain Dog, Mr Santos. She shared sweet memories, like bringing a blanket to restaurant patios so they could eat together, where waiters often brought him vanilla ice cream, his favorite. Mr Santos died three years ago, and he was best friends with her three cats.",
+      "key_facts": [
+        "Veteran producer Clive Hunt is producing the seven-track album",
+        "Recording begins in February at Tuff Gong Studio",
+        "Mr Santos lived to 11, about a year beyond the breed's typical life expectancy"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Anyone who has loved a pet will understand wanting to write a whole album about them.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Reggae singer Sophia Dias to record album in tribute to her deceased dog",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/reggae-singer-sophia-dias-record-album-tribute-deceased-dog/",
+          "published": "2026-11-26T17:23:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Falmouth mayor condemns vandalism at storm-damaged buildings",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Trelawny's mayor, C Junior Gager, said a string of break-ins and thefts at buildings damaged by Hurricane Melissa is undermining recovery efforts. A suspect caught on security cameras has been handed over to police.",
+      "key_facts": [
+        "Supplies meant for residents of the Trelawny Adult Residential Care Facility were stolen",
+        "The theft was discovered hours after PM Andrew Holness opened the first phase of the facility's new home",
+        "Doors were removed from the damaged Icy Allen building"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It shows the bumps in the road as communities rebuild after the hurricane.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Gager condemns vandalism of Melissa-damaged structures",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/gager-condemns-vandalism-melissa-damaged-structures/",
+          "published": "2026-11-26T17:17:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "War of words between Jamaican politicians",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "JLP Senator Abka Fitz-Henley criticized PNP caretaker Paul Buchanan for calling House Speaker Juliet Holness \"this girl\" at a protest. Fitz-Henley declined to respond to being called a \"likkle fool\" himself. He also disputed Buchanan's claim that trillions of dollars are unaccounted for.",
+      "key_facts": [
+        "Buchanan made the remarks at a PNP protest on Tuesday",
+        "Fitz-Henley said the Auditor General's comments concerned delays in tabling financial statements dating from 2013, not missing money"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Buchanan says trillions of dollars are unaccounted for; Fitz-Henley calls that false and points to a fact-checking portal that called the wording misleading"
+      ],
+      "why": "It's a glimpse of the current tone in Jamaican politics and an ongoing argument over public finances.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Fitz-Henley condemns Buchanan for referring to House Speaker as ‘this girl’",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/fitz-henley-condemns-buchanan-referring-house-speaker-girl/",
+          "published": "2026-11-26T17:10:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "Feid and Snoop Dogg release a Thanksgiving song, 'Gracias x Todo'",
+      "topics": [
+        "Hip Hop & Celebrity",
+        "US Headlines"
+      ],
+      "summary": "Colombian star Feid and Snoop Dogg released \"Gracias x Todo,\" a song about gratitude and getting through life's ups and downs. The music video honors Feid's family and features a children's choir. Feid first previewed the song at the Latin Grammys, where Snoop made a surprise appearance.",
+      "key_facts": [
+        "Released Thursday, Nov. 26",
+        "Feid won best reggaeton performance at the Latin Grammys for \"Verano Rosa\" with Karol G",
+        "He is set to appear in the 100th Macy's Thanksgiving Day Parade",
+        "His North American arena tour kicks off Feb. 5 in Orlando"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a feel-good soundtrack for a holiday about being thankful.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’",
+          "url": "https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
+          "published": "2026-11-26T20:25:54+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 15,
+    "right": 0
+  },
+  "stats": {
+    "articles": 205,
+    "stories_found": 175,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}
