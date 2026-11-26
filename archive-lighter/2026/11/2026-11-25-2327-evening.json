@@ -1,0 +1,358 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-26T04:27:20.747585+00:00",
+  "local_time": "Wednesday, November 25, 2026 · 11:27 PM EST",
+  "local_date": "Nov 25, 2026",
+  "slug": "2026-11-25-2327-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "The big news is a first: Macy's has moved its 100th Thanksgiving Day Parade to Saturday because a strong nor'easter would make it too windy for the giant balloons. Elsewhere, Kilmar Ábrego García has left the US for Spain, Charlotte weighs more license plate cameras, and a medieval Virgin Mary carving stolen in 1979 is finally heading home. There's also a sprinter switching clubs, Lil Wayne heading to All-Star Weekend, and a little reality-TV drama.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Macy's Parade moves to Saturday for the first time ever",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York from Thursday to Saturday. A powerful nor'easter is expected to bring heavy rain and wind gusts of up to 60 mph, which would be dangerous for the giant balloons. The parade has been suspended before, during World War Two, but it has never been postponed because of weather. The balloons were deflated and stored in New Jersey, ready to be reinflated for Saturday.",
+      "key_facts": [
+        "The new date is Saturday, starting at 8:30 a.m., on NBC and Peacock.",
+        "NBC will air a rerun of the 2025 parade on Thanksgiving morning.",
+        "This year's parade was set to have a record 100 inflatables, including 10 new balloons such as a crowned Bluey and a Minion riding a banana.",
+        "Governor Kathy Hochul declared a state of emergency for Long Island, New York City and Westchester County."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "It's not yet clear whether every performer and crew can make the switch to Saturday.",
+        "Macy's says it is still working out which costs it can cover for bands and performers who traveled for the parade."
+      ],
+      "why": "If the parade is part of your Thanksgiving, you'll still get Bluey and the banana-riding Minion, just two days later.",
+      "coverage": {
+        "left": 0,
+        "center": 6,
+        "right": 0
+      },
+      "n_outlets": 6,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Macy's postpones Thanksgiving parade due to severe weather",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T04:04:14+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "The Macy’s Thanksgiving Day Parade has been postponed: When and how to watch it now",
+          "url": "https://www.wbtv.com/2026/11/26/macys-thanksgiving-day-parade-has-been-postponed-when-how-watch-it-now/",
+          "published": "2026-11-26T00:48:27+00:00"
+        },
+        {
+          "source": "Axios",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Macy's Thanksgiving parade postponed for the first time in the event's history",
+          "url": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather",
+          "published": "2026-11-25T21:28:25+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "New York delays Macy’s Thanksgiving parade because of severe weather",
+          "url": "https://thehill.com/homenews/state-watch/6243709-nyc-macys-parade-set-saturday/",
+          "published": "2026-11-25T21:08:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Kilmar Ábrego García leaves the US for Spain",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Kilmar Ábrego García, the Salvadoran man the US government admitted it had wrongly deported to El Salvador in 2025, has flown to Spain on a commercial flight. His case became a major point of debate over the Trump administration's immigration policies. His lawyer calls the move temporary and says he hopes to return to his family in Maryland under a future administration. The Department of Homeland Security says he left under a removal order and will never be allowed back.",
+      "key_facts": [
+        "He flew to Spain on Tuesday, and footage showed an ICE ankle monitor being removed when he arrived.",
+        "Human trafficking charges brought after his return to the US were later dropped.",
+        "DHS says he paid for his own flight and received no incentives.",
+        "His wife and child are US citizens."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The administration says he is a member of the MS-13 gang. He denies this.",
+        "His lawyer calls the departure temporary, while DHS says he will never be allowed back."
+      ],
+      "why": "His case has been at the center of the national conversation about due process in immigration enforcement.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-25T19:22:18+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+          "published": "2026-11-25T12:18:09+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Kilmar Abrego Garcia arrives in Spain after self-deporting",
+          "url": "https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/",
+          "published": "2026-11-25T14:06:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Charlotte travelers keep an eye on the sky",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "Thanksgiving eve was busy at Charlotte Douglas International Airport. Many travelers arrived two to three hours early to beat the rain and wind in the forecast. Most reported fairly smooth trips, and some said the airport felt less crowded than in past years.",
+      "key_facts": [
+        "Nearly 2 million passengers are expected through Charlotte Douglas over the holiday travel period.",
+        "Rain and wind are forecast through Thanksgiving morning.",
+        "Some travelers said they still have a Plan B ready after a recent FAA ground stop."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're flying, the advice is simple: get there early and check your airline for alerts.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘I worry about weather’: Charlotte travelers prepare for windy, rainy Thanksgiving travel",
+          "url": "https://www.wbtv.com/2026/11/25/i-worry-about-weather-charlotte-travelers-prepare-windy-rainy-travel-thanksgiving-eve/",
+          "published": "2026-11-26T03:45:06+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Holiday travelers report mostly smooth trips through Charlotte airport despite busy Thanksgiving rush",
+          "url": "https://www.qcnews.com/charlotte-airport/holiday-travelers-report-mostly-smooth-trips-through-charlotte-airport-despite-busy-thanksgiving-rush/",
+          "published": "2026-11-25T19:43:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Sprinter Bryan Levell joins Racers Track Club",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaican sprinter Bryan Levell, the 2025 World 200m bronze medallist, has joined Racers Track Club ahead of the 2027 season. He announced the move on Instagram, calling it a new journey. He is leaving Uptimum Track Club and coach Shanikie Osbourne.",
+      "key_facts": [
+        "His new coach is the well-known Glen Mills.",
+        "His new training partners include Oblique Seville, Antonio Watson and Bouwahjgie Nkrumie."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a fun one for track fans: a medal-winning sprinter joining a group packed with fast names.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Bryan Levell joins Racers Track Club",
+          "url": "https://www.jamaicaobserver.com/2026/11/25/bryan-levell-joins-racers-track-club/",
+          "published": "2026-11-26T02:22:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Jamaican small businesses could be landing bigger deals",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Harold Davis, deputy CEO of the Jamaica Business Development Corporation, says many small businesses are missing out on contracts. He says the issue is usually not what they can offer, but not knowing the opportunities exist or how to prepare for them. He pointed to tourism supply chains and government procurement as the biggest openings.",
+      "key_facts": [
+        "About J$37 billion in government procurement is set aside for small and medium businesses.",
+        "Davis spoke at an Opportunity Evening during Global Entrepreneurship Week 2026.",
+        "His three steps: know where the opportunity is, understand what it requires, and prepare your business for it."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a hopeful message: there's real money available, and the JBDC is working to connect entrepreneurs directly with buyers.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "MSMEs leaving money on the table as market opportunities go untapped—Davis",
+          "url": "https://www.jamaicaobserver.com/2026/11/25/msmes-leaving-money-table-market-opportunities-go-untapped-davis/",
+          "published": "2026-11-26T00:55:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Lil Wayne is headed to NBA All-Star Weekend in Phoenix",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Lil Wayne announced on Instagram that he'll be part of the NBA All-Star Music Festival in Phoenix next February. The outdoor festival at Margaret T. Hance Park will also have current and former NBA players, food trucks and basketball-themed games.",
+      "key_facts": [
+        "The festival runs February 19 and 20, 2027, with gates opening at 4 p.m.",
+        "Tickets start at $150, and there's free programming at Canyons on Third.",
+        "The 76th All-Star Game is February 21 at Mortgage Matchup Center."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "He hasn't said which day he'll perform."
+      ],
+      "why": "Hoops and hip-hop in one weekend is a pretty great combo for fans.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lil Wayne Adds Phoenix’s NBA All-Star Music Festival On His Calendar",
+          "url": "https://allhiphop.com/news/lil-wayne-puts-phoenixs-nba-all-star-music-festival-on-his-calendar/",
+          "published": "2026-11-26T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Charlotte weighs more license plate cameras",
+      "topics": [
+        "Charlotte"
+      ],
+      "summary": "Charlotte is looking for a new vendor for automated license plate readers, and the final decision rests with City Council. Supporters say the current system is outdated. Opponents, including resident Daniel Oria, worry about privacy. The debate follows the arrest of a former police officer for allegedly misusing the Flock camera system.",
+      "key_facts": [
+        "The city issued its request for proposals on Sept. 8.",
+        "CMPD doesn't own the Flock cameras around Charlotte but can search them through an agreement with Flock.",
+        "Councilmember Dante Anderson says the city should invest in safety equipment while protecting residents' privacy.",
+        "A nearly identical request in 2025 was shut down before it reached council."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a local decision about the balance between public safety and privacy, and residents can weigh in with City Council.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Is Charlotte poised for more license plate readers?",
+          "url": "https://www.wbtv.com/2026/11/25/is-charlotte-poised-more-license-plate-readers/",
+          "published": "2026-11-26T03:40:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Ray J and Princess Love clash on a livestream again",
+      "topics": [
+        "Hip Hop & Celebrity",
+        "US Headlines"
+      ],
+      "summary": "During a livestream on Tuesday, Princess Love told Ray J to leave her house after finding him in a bathroom with Celina Powell, then asked everyone else to leave too. The longtime Love & Hip Hop couple married in 2016 and have filed for divorce four times. The divorce was still unresolved as of July.",
+      "key_facts": [
+        "The pair have a daughter and a son.",
+        "The most recent divorce filing, by Princess Love, was in February 2024.",
+        "The livestream was a show called Toxic Take on Zeus."
+      ],
+      "perspectives": [],
+      "disputed": [
+        "The confrontation itself is confirmed by footage, and Ray J shared it on Instagram himself. Since he promoted the stream, it's unclear how much of the moment was spontaneous.",
+        "Separately, Ray J was arrested in November 2025 after Princess Love alleged he pointed a gun at her. He denies pointing a gun at anyone, and six misdemeanor counts have been filed. Those are allegations, not a verdict."
+      ],
+      "why": "It's the latest chapter in one of reality TV's longest on-again, off-again relationships.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ray J Ordered Out By Princess Love After Livestream Run-In With Celina Powell",
+          "url": "https://allhiphop.com/news/ray-j-princess-love-celina-powell-toxic-take-livestream/",
+          "published": "2026-11-26T03:30:00+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 13,
+    "right": 0
+  },
+  "stats": {
+    "articles": 300,
+    "stories_found": 259,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

@@ -1,155 +1,161 @@
-# The Lighter Brief: Midday edition
-_Wednesday, November 25, 2026 · 3:42 PM EST · 290 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Wednesday, November 25, 2026 · 11:27 PM EST · 300 articles from 23 outlets · summaries by Claude_
 
-> It's a soggy Thanksgiving Eve around Charlotte, with rain and wind sticking around into Thursday morning before sunshine returns for Black Friday. Elsewhere, Cardi B gave a heartfelt award speech, Popcaan's first US shows drew a staggering ticket queue, and a medieval sculpture stolen in 1979 is finally heading home. There's also a Caribbean dry-season outlook, a political row in Jamaica, and a couple of interesting research findings.
+> The big news is a first: Macy's has moved its 100th Thanksgiving Day Parade to Saturday because a strong nor'easter would make it too windy for the giant balloons. Elsewhere, Kilmar Ábrego García has left the US for Spain, Charlotte weighs more license plate cameras, and a medieval Virgin Mary carving stolen in 1979 is finally heading home. There's also a sprinter switching clubs, Lil Wayne heading to All-Star Weekend, and a little reality-TV drama.
 
 
 
 ---
 
-## 1. Rainy, windy start to Thanksgiving in Charlotte, then sunshine
-`Charlotte` `US Headlines` · Covered by 3 outlets
+## 1. Macy's Parade moves to Saturday for the first time ever
+`US Headlines` · Covered by 6 outlets
 
-A strong storm system moving up the East Coast is bringing heavy rain and gusty winds to the Charlotte area through Thanksgiving morning. Showers should linger early Thursday, then gradually clear in the afternoon. Friday and the weekend look mostly dry and sunny.
-
-**Key facts**
-- Overnight wind gusts of 40 to 50 mph are possible
-- Thanksgiving afternoon highs are expected in the 50s
-- Friday looks mostly sunny and breezy, with highs in the lower 50s
-- Sunday could reach the lower 60s, with a stray shower possible
-
-**Worth knowing:** If you're on the road Wednesday night or Thursday morning, plan for wet roads and slower driving. The good news is the holiday afternoon and weekend clear up nicely.
-
-**Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/heavy-rain-gusty-winds-impact-charlotte-area-through-thanksgiving-morning/): Heavy rain, gusty winds to impact Charlotte area through Thanksgiving morning
-- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/thanksgiving-travel-trouble-rain-arrives-in-charlotte-just-as-holiday-traffic-peaks/): Thanksgiving Travel Trouble? Rain arrives in Charlotte just as holiday traffic peaks
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Thanksgiving travel in Charlotte faces rain and wind - Weather Alert
-
-
-## 2. Overturned truck narrows Monroe Expressway westbound
-`Charlotte` · Covered by 3 outlets
-
-A tractor-trailer went through a guardrail and was left hanging over a bridge on the westbound Monroe Expressway near Rocky River Road in Unionville on Wednesday morning. At first, all westbound lanes were closed. Traffic was cut to one lane around noon while crews worked to lift the truck.
+Macy's has postponed its 100th annual Thanksgiving Day Parade in New York from Thursday to Saturday. A powerful nor'easter is expected to bring heavy rain and wind gusts of up to 60 mph, which would be dangerous for the giant balloons. The parade has been suspended before, during World War Two, but it has never been postponed because of weather. The balloons were deflated and stored in New Jersey, ready to be reinflated for Saturday.
 
 **Key facts**
-- The crash happened around 11:20 a.m. on Wednesday, Nov. 25
-- It was near Exit 260 on westbound US 74 in Union County
-- NCDOT urged drivers to avoid the area
+- The new date is Saturday, starting at 8:30 a.m., on NBC and Peacock.
+- NBC will air a rerun of the 2025 parade on Thanksgiving morning.
+- This year's parade was set to have a record 100 inflatables, including 10 new balloons such as a crowned Bluey and a Minion riding a banana.
+- Governor Kathy Hochul declared a state of emergency for Long Island, New York City and Westchester County.
 
 **Good to know**
-- The cause of the crash, whether anyone was hurt, and how long the lanes will stay closed were not yet known
+- It's not yet clear whether every performer and crew can make the switch to Saturday.
+- Macy's says it is still working out which costs it can cover for bands and performers who traveled for the parade.
 
-**Worth knowing:** If you're heading west through Union County for the holiday, an alternate route could save you some time.
+**Worth knowing:** If the parade is part of your Thanksgiving, you'll still get Bluey and the banana-riding Minion, just two days later.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/overturned-tractor-trailer-shuts-down-westbound-monroe-expressway-union-county/): Overturned tractor-trailer shuts down westbound Monroe Expressway in Union County
-- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/union-county/overturned-tractor-trailer-closes-lanes-on-us-74-in-union-county/): Overturned tractor-trailer closes lanes on Monroe Expressway in Union County
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/traffic/tractor-trailer-hanging-off-monroe-expressway/275-b103ed4f-54a3-402d-8c4c-61ced875e10e): LIVE: Crews work to lift tractor-trailer hanging off embankment on Monroe Expressway
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss): Macy's postpones Thanksgiving parade due to severe weather
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/macys-thanksgiving-day-parade-has-been-postponed-when-how-watch-it-now/): The Macy’s Thanksgiving Day Parade has been postponed: When and how to watch it now
+- [Axios](https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather): Macy's Thanksgiving parade postponed for the first time in the event's history
+- [The Hill](https://thehill.com/homenews/state-watch/6243709-nyc-macys-parade-set-saturday/): New York delays Macy’s Thanksgiving parade because of severe weather
 
 
-## 3. Charlotte airport travelers report mostly smooth Thanksgiving trips
-`Charlotte` `US Headlines` · Covered by 2 outlets
+## 2. Kilmar Ábrego García leaves the US for Spain
+`US Headlines` · Covered by 3 outlets
 
-Thanksgiving Eve was busy at Charlotte Douglas, but travelers said things were going relatively smoothly. Some arrived two to three hours early to stay ahead of the wind and rain. Others said they were keeping a Plan B in mind after an FAA ground stop a few weeks ago.
+Kilmar Ábrego García, the Salvadoran man the US government admitted it had wrongly deported to El Salvador in 2025, has flown to Spain on a commercial flight. His case became a major point of debate over the Trump administration's immigration policies. His lawyer calls the move temporary and says he hopes to return to his family in Maryland under a future administration. The Department of Homeland Security says he left under a removal order and will never be allowed back.
 
 **Key facts**
-- Nearly 2 million passengers are expected through Charlotte Douglas over the holiday travel period
-- One traveler said the airport felt less busy than in previous years
-- Officials advise arriving early and checking with your airline for delays
+- He flew to Spain on Tuesday, and footage showed an ICE ankle monitor being removed when he arrived.
+- Human trafficking charges brought after his return to the US were later dropped.
+- DHS says he paid for his own flight and received no incentives.
+- His wife and child are US citizens.
 
-**Worth knowing:** So far, holiday travel through Charlotte is going better than many people feared.
+**Good to know**
+- The administration says he is a member of the MS-13 gang. He denies this.
+- His lawyer calls the departure temporary, while DHS says he will never be allowed back.
+
+**Worth knowing:** His case has been at the center of the national conversation about due process in immigration enforcement.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/i-worry-about-weather-charlotte-travelers-prepare-windy-rainy-travel-thanksgiving-eve/): ‘I worry about weather’: Charlotte travelers prepare for windy, rainy travel on Thanksgiving Eve
+- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss): Kilmar Ábrego García arrives in Spain, ending Trump deportation battle
+- [NPR](https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang): Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.
+- [The Hill](https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/): Kilmar Abrego Garcia arrives in Spain after self-deporting
+
+
+## 3. Charlotte travelers keep an eye on the sky
+`Charlotte` `US Headlines` · Covered by 2 outlets
+
+Thanksgiving eve was busy at Charlotte Douglas International Airport. Many travelers arrived two to three hours early to beat the rain and wind in the forecast. Most reported fairly smooth trips, and some said the airport felt less crowded than in past years.
+
+**Key facts**
+- Nearly 2 million passengers are expected through Charlotte Douglas over the holiday travel period.
+- Rain and wind are forecast through Thanksgiving morning.
+- Some travelers said they still have a Plan B ready after a recent FAA ground stop.
+
+**Worth knowing:** If you're flying, the advice is simple: get there early and check your airline for alerts.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/i-worry-about-weather-charlotte-travelers-prepare-windy-rainy-travel-thanksgiving-eve/): ‘I worry about weather’: Charlotte travelers prepare for windy, rainy Thanksgiving travel
 - [Queen City News (FOX 46)](https://www.qcnews.com/charlotte-airport/holiday-travelers-report-mostly-smooth-trips-through-charlotte-airport-despite-busy-thanksgiving-rush/): Holiday travelers report mostly smooth trips through Charlotte airport despite busy Thanksgiving rush
 
 
-## 4. Cardi B's 'go get it' speech, plus a shout-out to Summer Walker
-`Hip Hop & Celebrity` · Covered by 2 outlets
+## 4. Sprinter Bryan Levell joins Racers Track Club
+`Jamaica` · Covered by 1 outlet
 
-Cardi B received the first-ever Global Woman of the Year award at the Billboard Canada Women in Music Awards in Toronto. In her speech, she encouraged women to chase their goals and to appreciate who they already are. She also warmly thanked Summer Walker, who won the Global Visionary Award that night, for supporting her 'publicly and privately.'
+Jamaican sprinter Bryan Levell, the 2025 World 200m bronze medallist, has joined Racers Track Club ahead of the 2027 season. He announced the move on Instagram, calling it a new journey. He is leaving Uptimum Track Club and coach Shanikie Osbourne.
 
 **Key facts**
-- The ceremony was held Tuesday, Nov. 24, at Rebel in Toronto
-- Cardi listed her year: a new album, a fourth child, a sold-out arena tour, and a hair care business, Grow Good
-- She received surprise video messages from Missy Elliott, Lizzo, and Charlamagne tha God
+- His new coach is the well-known Glen Mills.
+- His new training partners include Oblique Seville, Antonio Watson and Bouwahjgie Nkrumie.
+
+**Worth knowing:** It's a fun one for track fans: a medal-winning sprinter joining a group packed with fast names.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/bryan-levell-joins-racers-track-club/): Bryan Levell joins Racers Track Club
+
+
+## 5. Jamaican small businesses could be landing bigger deals
+`Jamaica` · Covered by 1 outlet
+
+Harold Davis, deputy CEO of the Jamaica Business Development Corporation, says many small businesses are missing out on contracts. He says the issue is usually not what they can offer, but not knowing the opportunities exist or how to prepare for them. He pointed to tourism supply chains and government procurement as the biggest openings.
+
+**Key facts**
+- About J$37 billion in government procurement is set aside for small and medium businesses.
+- Davis spoke at an Opportunity Evening during Global Entrepreneurship Week 2026.
+- His three steps: know where the opportunity is, understand what it requires, and prepare your business for it.
+
+**Worth knowing:** It's a hopeful message: there's real money available, and the JBDC is working to connect entrepreneurs directly with buyers.
+
+**Read it yourself:**
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/msmes-leaving-money-table-market-opportunities-go-untapped-davis/): MSMEs leaving money on the table as market opportunities go untapped—Davis
+
+
+## 6. Lil Wayne is headed to NBA All-Star Weekend in Phoenix
+`Hip Hop & Celebrity` · Covered by 1 outlet
+
+Lil Wayne announced on Instagram that he'll be part of the NBA All-Star Music Festival in Phoenix next February. The outdoor festival at Margaret T. Hance Park will also have current and former NBA players, food trucks and basketball-themed games.
+
+**Key facts**
+- The festival runs February 19 and 20, 2027, with gates opening at 4 p.m.
+- Tickets start at $150, and there's free programming at Canyons on Third.
+- The 76th All-Star Game is February 21 at Mortgage Matchup Center.
 
 **Good to know**
-- Everything here is confirmed. These are on-stage remarks reported by multiple outlets.
+- He hasn't said which day he'll perform.
 
-**Worth knowing:** It's a nice moment of artists publicly lifting each other up.
+**Worth knowing:** Hoops and hip-hop in one weekend is a pretty great combo for fans.
 
 **Read it yourself:**
-- [AllHipHop](https://allhiphop.com/news/cardi-b-thanks-summer-walker-for-having-her-back-in-toronto-speech/): Cardi B Thanks Summer Walker For Having Her Back In Toronto Speech
-- [XXL](https://www.xxlmag.com/cardi-b-global-woman-of-the-year-speech-billboard-canada/): Cardi B Delivers Empowering Speech as Global Woman of the Year
+- [AllHipHop](https://allhiphop.com/news/lil-wayne-puts-phoenixs-nba-all-star-music-festival-on-his-calendar/): Lil Wayne Adds Phoenix’s NBA All-Star Music Festival On His Calendar
 
 
-## 5. Jamaica's opposition renews call for disaster agency chief to resign
-`Jamaica` · Covered by 1 outlet
+## 7. Charlotte weighs more license plate cameras
+`Charlotte` · Covered by 1 outlet
 
-Jamaica's opposition People's National Party held a protest in Kingston calling for ODPEM Director General Commander Alvin Gayle to step down. The protest followed an Auditor-General's report on how Hurricane Melissa relief donations were managed. Opposition spokesperson Damion Crawford said both Gayle and the government should be held accountable.
+Charlotte is looking for a new vendor for automated license plate readers, and the final decision rests with City Council. Supporters say the current system is outdated. Opponents, including resident Daniel Oria, worry about privacy. The debate follows the arrest of a former police officer for allegedly misusing the Flock camera system.
 
 **Key facts**
-- The audit says a significant number of container houses can't be accounted for
-- It also found donated funds were used for purposes other than intended, and some stored food spoiled past its best-before date
-- The protest took place Wednesday in Cross Roads, Kingston
+- The city issued its request for proposals on Sept. 8.
+- CMPD doesn't own the Flock cameras around Charlotte but can search them through an agreement with Flock.
+- Councilmember Dante Anderson says the city should invest in safety equipment while protecting residents' privacy.
+- A nearly identical request in 2025 was shut down before it reached council.
+
+**Worth knowing:** It's a local decision about the balance between public safety and privacy, and residents can weigh in with City Council.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/25/is-charlotte-poised-more-license-plate-readers/): Is Charlotte poised for more license plate readers?
+
+
+## 8. Ray J and Princess Love clash on a livestream again
+`Hip Hop & Celebrity` `US Headlines` · Covered by 1 outlet
+
+During a livestream on Tuesday, Princess Love told Ray J to leave her house after finding him in a bathroom with Celina Powell, then asked everyone else to leave too. The longtime Love & Hip Hop couple married in 2016 and have filed for divorce four times. The divorce was still unresolved as of July.
+
+**Key facts**
+- The pair have a daughter and a son.
+- The most recent divorce filing, by Princess Love, was in February 2024.
+- The livestream was a show called Toxic Take on Zeus.
 
 **Good to know**
-- The resignation call comes from the opposition. The article does not include a response from Gayle or the government.
+- The confrontation itself is confirmed by footage, and Ray J shared it on Instagram himself. Since he promoted the stream, it's unclear how much of the moment was spontaneous.
+- Separately, Ray J was arrested in November 2025 after Princess Love alleged he pointed a gun at her. He denies pointing a gun at anyone, and six misdemeanor counts have been filed. Those are allegations, not a verdict.
 
-**Worth knowing:** The dispute is about whether hurricane aid reached the people it was meant for, which matters to many Jamaicans.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/watch-crawford-doubles-call-gayle-resign/): WATCH: Crawford doubles down on call for Gayle to resign
-
-
-## 6. Caribbean told to prepare for a drier, hotter dry season
-`Jamaica` · Covered by 1 outlet
-
-A climatologist at the Caribbean Institute for Meteorology and Hydrology says a strong El Niño is likely to bring drier conditions, more heat, and warmer seas during the 2026/2027 dry season. The eastern and southern Caribbean are seen as most vulnerable. He noted that rain will be less frequent but could still come in intense bursts, so people should keep following their local weather services.
-
-**Key facts**
-- The warning came from Dr Cédric J Van Meerbeeck of the Barbados-based CIMH
-- El Niño means unusually warm ocean temperatures in the equatorial Pacific
-- Record or near-record warmth often follows in the year after an El Niño begins
-
-**Worth knowing:** An early heads-up gives governments and households time to plan for water use and heat.
+**Worth knowing:** It's the latest chapter in one of reality TV's longest on-again, off-again relationships.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/caribbean-countries-put-alert-intense-drought-extreme-heat-warmer-seas/): Caribbean countries put on alert for intense drought, extreme heat and warmer seas
-
-
-## 7. Gastonia warming center set to open on cold nights from Dec. 7
-`Charlotte` · Covered by 2 outlets
-
-The City of Gastonia, Gaston County, and City Church are opening a warming center for people experiencing homelessness this winter. It will open on nights when the forecast is 32 degrees or colder. Some residents had worried it wouldn't be ready before the first freeze, but it has now cleared the required regulations.
-
-**Key facts**
-- The location is City Church's Unity Campus, 482 N. Myrtle School Road
-- Hours are 8 p.m. to 7 a.m., with on-site security, from Dec. 7 through March 31
-- Officials will decide 48 hours ahead whether to open, based on National Weather Service forecasts
-
-**Worth knowing:** Neighbors teaming up so everyone has a warm place to sleep on freezing nights is a lovely bit of community.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/gastonia-warming-center-cleared-open-early-december-needed/6NB32NOLIZHXRHGOB2KBWPYERE/): Gastonia warming center cleared to open in early December as needed
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/severe-weather/gastonia-gaston-county-warming-center-extreme-cold-winter/275-3e294848-b111-424a-bfab-e5e0f0a49e3a): Gastonia, Gaston County to open warming center during extreme cold this winter
-
-
-## 8. Popcaan's first US concerts spark a 350,000-fan ticket queue
-`Jamaica` · Covered by 1 outlet
-
-After nearly 20 years without a US visa, dancehall star Popcaan will finally perform in the United States, at Brooklyn's Barclays Center. The Dec. 27 show sold out within an hour, so promoters added a second night. The online queue for that show passed 350,000 people.
-
-**Key facts**
-- Shows are on Dec. 27 and 28 at Barclays Center
-- The arena holds about 19,000 for concerts
-- Popcaan has collaborated with Drake, Jamie xx, and Gorillaz
-
-**Worth knowing:** It's a long-awaited moment for Popcaan and his fans, and a big one for dancehall.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/25/unruly-history-350000-fans-flood-ticket-queue-popcaans-second-barclays-show/): Unruly history: Over 350,000 fans flood ticket queue for Popcaan’s second Barclays show
+- [AllHipHop](https://allhiphop.com/news/ray-j-princess-love-celina-powell-toxic-take-livestream/): Ray J Ordered Out By Princess Love After Livestream Run-In With Celina Powell
 
 
 ---
