@@ -1,0 +1,90 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Midday",
+  "generated_at": "2026-11-27T20:21:18.110234+00:00",
+  "local_time": "Friday, November 27, 2026 · 3:21 PM EST",
+  "local_date": "Nov 27, 2026",
+  "slug": "2026-11-27-1521-midday",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A soggy, windy Thanksgiving left a lot of the East Coast dealing with power cuts and flight delays, and the Macy's parade got pushed to Saturday for the first time in its 100 years. Black Friday shoppers turned out anyway, two medicine recalls are worth checking your cabinet for, and colorful painted intersections seem to go along with safer streets.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Thanksgiving storms leave hundreds of thousands without power",
+      "topics": [
+        "US Headlines",
+        "Jamaica"
+      ],
+      "summary": "A powerful storm brought high winds, heavy rain and coastal flooding to the eastern US on Thanksgiving, while the West Coast dealt with its own storms and very high 'King Tides.' Power outages peaked near a million homes on Thursday evening, and roughly 490,000 customers were still without power Friday afternoon. Flights were badly disrupted too, but forecasters expect a much drier weekend in the Northeast as the storm moves into Canada.",
+      "key_facts": [
+        "About 490,000 customers were without power Friday afternoon, per PowerOutage.us; Pennsylvania was hardest hit.",
+        "More than 2,500 US flights were delayed and over 450 cancelled on Thursday, according to FlightAware.",
+        "It was the wettest Thanksgiving on record in Washington DC and at New York's Central Park, per preliminary data.",
+        "Parts of Missouri got up to 15 inches of snow."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're traveling home this weekend, conditions should improve, but another low-pressure system may arrive Monday.",
+      "coverage": {
+        "left": 1,
+        "center": 3,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T18:45:05+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+          "published": "2026-11-27T11:59:02+00:00"
+        },
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hundreds of thousands out of power in US after Thanksgiving storm",
+          "url": "https://www.jamaicaobserver.com/2026/11/27/hundreds-thousands-power-us-thanksgiving-storm/",
+          "published": "2026-11-27T18:46:17+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Thousands still without power after Thanksgiving storms",
+          "url": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/",
+          "published": "2026-11-27T19:17:46+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 3,
+    "right": 0
+  },
+  "stats": {
+    "articles": 204,
+    "stories_found": 183,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}
