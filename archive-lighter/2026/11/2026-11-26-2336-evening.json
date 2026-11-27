@@ -1,0 +1,374 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-27T04:36:03.414025+00:00",
+  "local_time": "Thursday, November 26, 2026 · 11:36 PM EST",
+  "local_date": "Nov 26, 2026",
+  "slug": "2026-11-26-2336-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "Thanksgiving dominated the news this time, mostly in nice ways. Charlotte volunteers served hundreds of free meals, a coonhound named Rocker won the National Dog Show, and the Bears beat the Lions on a last-second throw after a Wu-Tang Clan halftime show. A soggy nor'easter did cause some water hiccups in North Carolina and Maryland, and there's cheerful sports and charity news out of Jamaica too.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Charlotte Rescue Mission serves 500+ Thanksgiving meals",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "Volunteers at the Charlotte Rescue Mission spent Thanksgiving serving free breakfast and a traditional holiday lunch to anyone who needed one. The team started cooking 60 turkeys two weeks early, and there were movies and table games to make the day feel like family. Staff said the goal was to give everyone a welcoming place for the holiday.",
+      "key_facts": [
+        "More than 500 free meals were served, breakfast and lunch",
+        "60 turkeys were cooked, starting two weeks ahead",
+        "Kitchen manager Brandy Legree said she was up at 2 a.m. to get ready",
+        "The nonprofit also runs addiction recovery programs and welcomes volunteers year-round"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a warm reminder of neighbors looking after neighbors, and the mission is always looking for more helpers.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte Rescue Mission provides Thanksgiving meals for those in need",
+          "url": "https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/",
+          "published": "2026-11-26T17:19:20+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving",
+          "url": "https://www.wbtv.com/2026/11/26/so-grateful-charlotte-rescue-mission-serves-more-than-500-people-thanksgiving/",
+          "published": "2026-11-26T15:38:44+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte nonprofit marks Thanksgiving with annual community meal",
+          "url": "https://www.qcnews.com/charlotte/charlotte-nonprofit-marks-thanksgiving-with-annual-community-meal/",
+          "published": "2026-11-26T19:40:39+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Charlotte Rescue Mission serves Thanksgiving meals, offers hope and connection to those in need",
+          "url": "https://www.wcnc.com/article/life/holidays/charlotte-rescue-mission-serves-thanksgiving-meals-offers-hope-and-connection-to-those-in-need/275-d1f91b70-178e-4567-8fa3-0a5354d3baa4",
+          "published": "2026-11-26T23:33:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Wu-Tang rocks Detroit, and the Bears win at the buzzer",
+      "topics": [
+        "US Headlines",
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Wu-Tang Clan played the Lions' Thanksgiving halftime show at Ford Field, joined by Red Hot Chili Peppers drummer Chad Smith. The nearly seven-minute medley was billed as the wrap-up of their farewell tour. After the long break, the Bears came back to beat the Lions 39-35, and Caleb Williams joked, 'We had 19 minutes to do that. Shoutout to Wu-Tang.'",
+      "key_facts": [
+        "Final score: Bears 39, Lions 35, on a Williams-to-Rome Odunze touchdown with 3 seconds left",
+        "Williams threw for 345 yards, and Jahmyr Gibbs ran for 205 yards and 3 TDs for Detroit",
+        "Chicago is now 9-2, alone in first place in the NFC North",
+        "The show was the second year of the Lions' halftime deal with Eminem and Paul Rosenberg"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A legendary group's farewell and a thrilling finish made for a memorable holiday game, unless you're a Lions fan.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "It’s a Shaolin Thanksgiving! Wu-Tang Clan, Chad Smith Light Up Halftime at Detroit Lions NFL Game",
+          "url": "https://www.billboard.com/lists/wu-tang-clan-thanksgiving-halftime-detroit-lions-nfl-game/",
+          "published": "2026-11-27T03:58:26+00:00"
+        },
+        {
+          "source": "Newsweek",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Caleb Williams’ Wu-Tang Joke Rubs Salt in Lions’ Wounds",
+          "url": "https://www.newsweek.com/sports/nfl/caleb-williams-wu-tang-joke-rubs-salt-in-lions-wounds-12772139",
+          "published": "2026-11-27T00:03:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Marshville, N.C. under a boil water advisory after a main break",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "A water main broke along Water Plant Road in Marshville on Wednesday afternoon, leaving many residents with little or no water on Thanksgiving. Crews worked overnight, but rain slowed repairs. As service returns, the town has issued a boil water advisory until further notice and apologized for the disrupted holiday.",
+      "key_facts": [
+        "The break happened around 4 p.m. Wednesday, Nov. 25",
+        "The town first hoped to restore service by 8:30 p.m. that night",
+        "The boil water advisory was issued around noon Thursday and stays until the town lifts it",
+        "The cause of the break isn't clear yet"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're in Marshville, keep boiling your water until the town says otherwise.",
+      "coverage": {
+        "left": 0,
+        "center": 4,
+        "right": 0
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Boil water advisory issued for Marshville after water main break",
+          "url": "https://www.wbtv.com/2026/11/26/boil-water-advisory-issued-marshville-after-water-main-break/",
+          "published": "2026-11-26T18:08:06+00:00"
+        },
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Boil water advisory in place after Marshville water main break",
+          "url": "https://www.wsoctv.com/news/local/water-main-break-leaves-marshville-residents-without-water-thanksgiving/UX3UJQSSQRBRXDJMTBXB5EVZAI/",
+          "published": "2026-11-26T17:58:42+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Marshville issues boil water advisory after water main break",
+          "url": "https://www.wcnc.com/article/news/local/marshville-water-main-break-thanksgiving/275-76406a77-77cb-419a-a5f7-068d3173f3a5",
+          "published": "2026-11-26T17:50:52+00:00"
+        },
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Town in Union County without water on Thanksgiving",
+          "url": "https://www.qcnews.com/news/local-news/town-in-union-county-without-water-on-thanksgiving/",
+          "published": "2026-11-26T15:15:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "Jamaica's top football league is back on",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The Legend Jamaica Premier League will resume this weekend after league operator PFJL and the referees' association settled a dispute over outstanding payments. Referees had stopped working, which halted the competition. PFJL CEO Owen Hill thanked fans for their patience and said new steps will improve accountability and communication.",
+      "key_facts": [
+        "Match Week 12 goes ahead this weekend",
+        "The round wraps up with Monday Night Football at the Anthony Spaulding Sports Complex",
+        "The dispute was over unpaid officiating fees"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Fans, players and clubs get their football back, with a plan aimed at avoiding a repeat.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Legend JPL resumes this weekend after PFJL, referees reach agreement",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/legend-jpl-resumes-weekend-pfjl-referees-reach-agreement/",
+          "published": "2026-11-27T02:48:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Jamaica's PM calls for a comeback of cleanliness",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Prime Minister Andrew Holness urged Jamaicans to rebuild a culture of cleanliness and better waste habits. He spoke at the Kingston Harbour Clean-up Project site. He said both citizens and government need to do their part, from not littering to regular waste collection.",
+      "key_facts": [
+        "Holness spoke Thursday on Michael Manley Boulevard in Kingston",
+        "The event was at the Kingston Harbour Clean-up Project offloading site"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a push toward cleaner public spaces and a healthier harbour.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Holness urges Jamaicans to rebuild culture of cleanliness",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/holness-urges-jamaicans-rebuild-culture-cleanliness/",
+          "published": "2026-11-27T02:41:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Charlotte dries out with weekend sunshine ahead",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "After a cold, wet and windy Thanksgiving, the Charlotte area gets sunshine Friday and a pleasant, sunny Saturday. Another round of rain is likely late Sunday, then early next week looks mostly dry. The mountains could get a light dusting of snow.",
+      "key_facts": [
+        "Friday: mostly sunny, breezy, highs in the lower 50s",
+        "Saturday: sunny with highs in the 50s",
+        "Sunday: highs in the 60s with rain likely late in the afternoon",
+        "Mountains could see 1 to 3 inches of snow"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "Saturday looks like the best day for leftover-fueled outdoor plans.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Sunshine returns after wet Thanksgiving, with more rain possible this weekend",
+          "url": "https://www.wbtv.com/2026/11/26/sunshine-returns-after-wet-thanksgiving-with-more-rain-possible-this-weekend/",
+          "published": "2026-11-26T19:37:58+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Weather Alert: Widespread rain, gusty winds to impact Thanksgiving in the Carolinas",
+          "url": "https://www.wcnc.com/article/weather/weather-impact/alert-thanksgiving-forecast-rain-gusty-winds-cold-temperatures-brad-panovich/275-fa56950b-756a-4dfd-8d1e-6a941db0406e",
+          "published": "2026-11-27T00:47:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "J.Lo saved her Vegas concert film for Thanksgiving",
+      "topics": [
+        "US Headlines",
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "Jennifer Lopez's two-hour concert film 'The JLO Show' premiered Thanksgiving night on CBS and Paramount+. She said she pushed back on a summer release so she could watch it with her family on the holiday. Her mom used to put on West Side Story on Thanksgiving. The film captures the finale of her sold-out Caesars Palace residency.",
+      "key_facts": [
+        "Filmed at the March 28, 2026 finale at the Colosseum at Caesars Palace",
+        "Includes her hits plus numbers from West Side Story, Gypsy and Funny Girl",
+        "An extended cut is streaming for all Paramount+ subscribers"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a sweet family-tradition story, and a fun watch if you missed it live.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online",
+          "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
+          "published": "2026-11-26T21:00:00+00:00"
+        },
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jennifer Lopez Saves Her Vegas Concert Film For A Family Thanksgiving",
+          "url": "https://allhiphop.com/news/jennifer-lopez-saves-her-vegas-concert-film-for-a-family-thanksgiving/",
+          "published": "2026-11-26T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Jamaica's schoolboy football heads into the quarter-finals",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The ISSA Urban Under-14 and Under-16 football competitions start their quarter-final group stage on Friday. Eight teams remain in each age group, split into two zones, and the top two in each zone reach the semis. Defending double champions Jamaica College are still alive in both.",
+      "key_facts": [
+        "Kingston College scored 19 goals without conceding in the U-14 second round",
+        "KC vs. Jamaica College is a headline U-16 opener",
+        "U-14 matches start at 12:30 p.m."
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's young talent and old school rivalries on full display.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Battle for semi-final spots get underway in ISSA Urban Youth competitions",
+          "url": "https://www.jamaicaobserver.com/2026/11/26/battle-semi-final-spots-get-underway-issa-urban-youth-competitions/",
+          "published": "2026-11-27T00:50:25+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 0,
+    "center": 17,
+    "right": 0
+  },
+  "stats": {
+    "articles": 191,
+    "stories_found": 159,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

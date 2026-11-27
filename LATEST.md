@@ -1,35 +1,36 @@
-# My Daily Brief: Midday edition
-_Thursday, November 26, 2026 · 3:34 PM EST · 478 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Thursday, November 26, 2026 · 11:34 PM EST · 429 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by US politics and business after the midterm elections. President Trump alleged without evidence that pre-election GDP figures were deliberately understated, a second federal judge blocked his newest birthright citizenship order, and new tariffs and chip export controls continued to reshape trade with Asia. Also covered: a nor'easter that postponed the Macy's parade, FCC approval of SpaceX's orbital data-centre plan, Kim Jong Un's nuclear site visits, Gérard Depardieu's rape trial order, and a Charlotte Thanksgiving meal.
+> This edition is led by President Trump's call for an investigation into upwardly revised GDP figures, new casualties in Kuwait amid the ongoing Iran war, and a federal judge's order halting the FCC's early review of ABC's broadcast licenses. Also covered: holiday scam warnings, Nvidia's ripple effects in Asia, Gérard Depardieu's rape trial ruling, a FIFA data breach, North Korean border crossings, a Hyundai EV concept for China, and Thanksgiving meals in Charlotte.
 
 
-**Sources linked in this edition:** 12 left · 22 center · 6 right
+**Sources linked in this edition:** 9 left · 19 center · 6 right
 
 ---
 
-## 1. Trump calls for investigation after third-quarter GDP estimate is revised upward
-`US Headlines` · Covered by 8 outlets (L 3 · C 3 · R 2)
+## 1. Trump calls for investigation after third-quarter GDP estimate is revised up to 4.3%
+`US Headlines` · Covered by 8 outlets (L 2 · C 4 · R 2)
 
-On Thanksgiving, President Trump called for an 'immediate investigation' after the Commerce Department's Bureau of Economic Analysis (BEA) revised third-quarter GDP growth to 4.3% from an earlier estimate of 3.4%. On Truth Social he called the pre-election figures 'FAKE' and a 'massive, and purposeful, error,' and linked them to Republican losses in the Nov. 3 midterms. All outlets noted he offered no evidence. The BEA said the revision mainly reflected higher investment and consumer spending as more complete data came in, and several outlets described such revisions as routine and scheduled. The final third-quarter estimate is due on Dec. 23.
+President Trump called on Thanksgiving Day for an immediate investigation into the Commerce Department's Bureau of Economic Analysis (BEA). The agency had revised third-quarter GDP growth up to 4.3% from an advance estimate of 3.4% published five days before the Nov. 3 midterms. Trump called the earlier figure 'fake' and a 'massive, and purposeful, error,' and linked it to Republican losses in the election, but outlets across the spectrum noted he offered no evidence. The BEA said the revision mainly reflected higher investment and consumer spending as more complete data came in. A third and final estimate is scheduled for Dec. 23.
 
 **Key facts**
-- The advance estimate of 3.4% annualized growth was published on Oct. 29, five days before the Nov. 3 midterms; the revision to 4.3% came on Nov. 25.
-- The BEA publishes three scheduled estimates per quarter; the final third-quarter reading is due Dec. 23.
+- The BEA revised annualized Q3 GDP growth from 3.4% to 4.3%, an upward change of 0.9 percentage points.
+- The advance estimate came out on Oct. 29, five days before the Nov. 3 midterms, in which Democrats won control of both houses of Congress (per PBS/AP).
 - Trump wrote: 'This is not a small error, this is a massive, and purposeful, error.'
+- The BEA publishes three scheduled estimates for each quarter; the final Q3 reading is due Dec. 23.
 - The same agency reported that the PCE inflation measure rose to an annual pace of 3.8% in October (per PBS/AP).
-- The Commerce Department did not immediately respond to requests for comment; the government was largely closed for the holiday.
 
 **How it's being framed**
-- **Left:** The Guardian and PBS/AP presented the demand as part of a pattern of Trump undermining economic data that contradicts his claims of a boom. They cited his August 2025 firing of the Bureau of Labor Statistics head, AP Voter Poll findings that most voters rated the economy poorly, and the 3.8% inflation reading he did not mention. The Guardian also described his holiday message as 'tinged with bitterness' and contrasted it with Democratic leaders' conventional greetings.
-- **Center:** Axios and The Hill stressed that the claim came without evidence and that GDP revisions are routine. Axios raised concerns about political interference in data that underpins investment decisions and Federal Reserve policy.
-- **Right:** Fox Business led with the upward revision to 4.3% and quoted Trump at length, including his claim that the economy is doing 'FAR BETTER' than reported. It also noted the lack of evidence and gave the BEA's explanation for the revision. The Washington Examiner gave a short, straight account of the revision and Trump's accusation.
+- **Left:** The Guardian and PBS/AP stressed that Trump gave no evidence and that revisions are routine and scheduled without regard to politics. They placed the claim in a pattern of Trump challenging unfavorable data, citing his 2025 firing of the Bureau of Labor Statistics chief. They pointed to voter discontent over living costs and the war on Iran, and to the inflation figure Trump did not mention. The Guardian also covered other sarcastic parts of his Thanksgiving post and contrasted it with Democratic leaders' conventional holiday messages.
+- **Center:** Axios and The Hill reported the demand plainly, noted the lack of evidence, and emphasized that GDP revisions are routine. Axios raised concern that the claims could feed worries about political interference in data that markets and the Federal Reserve rely on.
+- **Right:** Fox Business and the Washington Examiner focused on the revision itself and quoted Trump's argument that the economy is 'doing FAR BETTER.' Fox Business also said he offered no evidence and included the BEA's explanation for the revision. Neither outlet brought up the inflation data or earlier disputes over economic statistics.
 
 **Disputed or unclear**
-- Trump's claim that the initial estimate was deliberately understated is unsupported by evidence, according to all outlets; the BEA attributes the change to more complete source data.
-- It is unclear whether any formal investigation will actually be opened.
+- Trump's claim that the original estimate was deliberately understated is unsupported by evidence in the reporting; the BEA attributes the change to more complete source data.
+- The Commerce Department had not responded to requests for comment as of publication.
+- It is unclear whether any formal investigation will take place.
 
-**Why it matters:** Trust in official economic statistics affects markets, Federal Reserve decisions and public debate about the economy.
+**Why it matters:** Public trust in official economic statistics underpins investment decisions, Federal Reserve policy, and debate over how the economy is doing.
 
 **Read it yourself:**
 - [Axios](https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics) (center): Trump demands investigation into GDP data revisions
@@ -40,255 +41,234 @@ On Thanksgiving, President Trump called for an 'immediate investigation' after t
 - [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4816296/trump-investigation-commerce-department-gdp-figures/) (lean-right): Trump calls for investigation into Commerce Department’s revised GDP figures
 
 
-## 2. Nor'easter postpones Macy's 100th Thanksgiving parade and disrupts holiday travel
-`US Headlines` · Covered by 7 outlets (L 3 · C 3 · R 1)
+## 2. Experts share tips on holiday shopping and AI-enabled scams
+`AI & Cybersecurity` · Covered by 3 outlets (L 1 · C 1 · R 1)
 
-Macy's postponed its 100th Thanksgiving Day Parade in New York to Saturday because heavy rain and strong winds were forecast for Thursday. Governors Kathy Hochul of New York and Mikie Sherrill of New Jersey declared states of emergency. The storm brought coastal flooding, road closures and hundreds of thousands of power outages in the East, while king tides damaged a pier in Pacifica, California. Philadelphia moved its parade to a TV-only event, and airlines waived some rebooking fees. Forecasters told the New York Post that Saturday should be calmer, though gusts could still reach about 25 mph.
-
-**Key facts**
-- The rescheduled Macy's parade starts at 8:30 a.m. Saturday; balloons are grounded if gusts exceed 34 mph, per the New York Post.
-- About 768,889 homes and businesses were without power Thursday afternoon, according to poweroutage.us (cited by The Guardian).
-- FlightAware reported 1,649 delays and 417 cancellations on Thursday; more than 6,000 flights were delayed on Wednesday.
-- One estimate put the cost of re-inflating the balloons with helium at $1.7m.
-- NBC said it would air the 2025 parade on Thursday.
-
-**How it's being framed**
-- **Left:** The Guardian and PBS took a wide view of storm impacts on both coasts: power outages, flooding rescues, closed highways and bridges, snow in the Midwest, and king tides that PBS said were amplified by a super El Niño. The Guardian also highlighted marching bands raising money to stay in New York for the rescheduled parade.
-- **Center:** The BBC focused on the parade's history and safety rationale, quoting the executive producer and Mayor Zohran Mamdani. The Hill ran live updates on the travel disruption, and WCNC covered the local forecast for the Carolinas.
-- **Right:** The New York Post looked ahead to Saturday's weather, quoting an AccuWeather meteorologist on wind gusts and why Saturday was chosen over Friday. It noted that Macy's had not responded to requests for comment.
-
-**Disputed or unclear**
-- Outlets describe the precedent differently: the BBC says the parade has never before been postponed because of weather, while the New York Post says it is the first time it has not been held on Thanksgiving since 1944.
-- It is unclear whether Saturday's winds will allow the full balloon lineup to fly.
-
-**Why it matters:** The storm affected millions of people travelling or celebrating during one of the busiest holiday weeks of the year.
-
-**Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss) (center): Macy's postpones Thanksgiving parade due to severe weather
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather) (lean-left): Storms across US disrupt travel and force Thanksgiving parade cancellations
-- [New York Post](https://nypost.com/2026/11/26/us-news/rescheduled-macys-thanksgiving-day-parade-set-for-saturday-but-organizers-will-still-face-weather-challenge/) (lean-right): Rescheduled Macy’s Thanksgiving Day Parade set for Saturday — but organizers will still face weather challenge
-- [The Hill](https://thehill.com/homenews/administration/6244342-live-updates-inclement-weather-thanksgiving-issues-iowa-detonation-fallout/) (center): Live updates: Bad weather disrupts Thanksgiving; Trump calls for probe into GDP data
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/thanksgiving-holiday-plagued-by-heavy-rain-wind-and-flooding-across-much-of-the-u-s) (lean-left): Thanksgiving holiday plagued by heavy rain, wind and flooding across much of the U.S.
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/weather-impact/alert-thanksgiving-forecast-rain-gusty-winds-cold-temperatures-brad-panovich/275-fa56950b-756a-4dfd-8d1e-6a941db0406e) (center): Weather Alert: Widespread rain, gusty winds to impact Thanksgiving in the Carolinas
-
-
-## 3. Second federal judge blocks Trump's revised birthright citizenship order
-`US Headlines` `Korea` · Covered by 3 outlets (L 1 · C 1 · R 1)
-
-US District Judge Christopher Cooper in Washington issued a preliminary injunction in a class action against Trump's August executive order restricting birthright citizenship. Trump signed that order after the Supreme Court struck down his first order in June. The new order targeted categories including 'birth tourism,' children of some foreign-government employees without diplomatic immunity, and children of a parent classed as an 'alien enemy.' Cooper ruled that the president 'cannot carve out new exceptions to birthright citizenship.' A Maryland judge blocked the same order in September, so the administration would need to overturn both rulings to enforce it. The White House called Cooper 'an activist judge.'
+Ahead of the holiday shopping season, several outlets carried advice on finding deals and avoiding fraud, including scams that use artificial intelligence to imitate real messages and voices. Experts recommended using credit cards rather than debit cards, going directly to official websites instead of clicking links, and planning purchases in advance. The National Retail Federation projects holiday sales could top a record $1 trillion. An AARP survey found that most U.S. adults have been targeted by fraud, though slightly fewer than in 2025.
 
 **Key facts**
-- The injunction bars the State Department, Homeland Security and the Social Security Administration from enforcing the order against children covered by the class action.
-- The Supreme Court ruled in June (Trump v. Barbara) that Trump's first order violated the 14th Amendment, relying on the 1898 Wong Kim Ark decision.
-- The ACLU's Cody Wofsy said: 'Third time is not the charm.'
-- White House spokesperson Lauren Bis said the order was 'consistent with the holdings and analysis set forth by the Supreme Court.'
+- The NRF says holiday sales could exceed $1 trillion; Adobe forecasts that more than a quarter of that will be spent online.
+- According to an AARP survey, 84% of U.S. adults have been targeted by at least one form of fraud, 5% fewer than in 2025.
+- Americans reported $15.9 billion in fraud losses to the FTC in 2025.
+- Experts quoted across outlets recommend using credit cards rather than debit cards for online purchases.
 
 **How it's being framed**
-- **Left:** Al Jazeera called the ruling 'another blow' to Trump's campaign. It laid out the administration's argument about the 14th Amendment, explained the history of the Wong Kim Ark case, and quoted both the ACLU and the White House.
-- **Center:** The Korea Herald, running Reuters copy, gave a straight legal account. It quoted the judge, the ACLU and the White House, and noted that the administration must overturn two rulings.
-- **Right:** Reason's Volokh Conspiracy, a libertarian legal blog, said the judge 'rightly concludes' the order conflicts with Supreme Court precedent. It noted that this class is broader than the one in the Maryland case and listed further targeted categories, such as surrogacy and suspected gang membership.
+- **Left:** PBS focused on shopping strategy: when to buy, budgeting, and how consumers under price pressure are stocking up on essentials during sales. AI appeared mainly as a shopping aid rather than a threat.
+- **Center:** WBTV/InvestigateTV focused on practical ways to avoid AI-powered scams, quoting a credit union financial-education executive.
+- **Right:** The Daily Caller emphasized the scale of fraud, which it called at a 'crisis level,' using AARP, FTC and FBI figures. It warned about deepfake 'grandparent scams' and the risks of agentic AI making purchases, and noted that consumers are often liable for their losses.
 
-**Disputed or unclear**
-- The White House says the order is consistent with the Supreme Court's ruling; the judge and plaintiffs say it is not.
-- Whether and when the administration will appeal is not stated in the articles.
-- Al Jazeera's headline says the judge 'strikes down' the order, but the ruling is a preliminary injunction.
-
-**Why it matters:** The case decides who is recognized as a US citizen at birth and tests how far a president can act after a Supreme Court ruling.
+**Why it matters:** Holiday spending is at record levels, and AI makes scams harder to spot, which raises the stakes for ordinary shoppers.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10950371) (center): Trump's newest order curtailing birthright citizenship is blocked by second judge
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship) (lean-left): Judge strikes down Trump’s latest restrictions on US birthright citizenship
-- [Reason](https://reason.com/volokh/2026/11/26/second-district-court-rules-against-trumps-new-birthright-citizenship-executive-order/) (lean-right): Second District Court Rules Against Trump's New Birthright Citizenship Executive Order
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/how-avoid-ai-scams-while-holiday-shopping/) (center): How to avoid AI scams while holiday shopping
+- [PBS NewsHour](https://www.pbs.org/newshour/show/the-best-strategies-for-holiday-shopping-in-the-age-of-ai) (lean-left): The best strategies for holiday shopping in the age of AI
+- [The Daily Caller](https://dailycaller.com/2026/11/26/holiday-scammers-beware) (right): Holiday Scammers Are On The Hunt
 
 
-## 4. Vance says Nvidia's Jensen Huang needs no pardon ahead of congressional testimony
-`AI & Cybersecurity` `Korea` `US Headlines` · Covered by 4 outlets (L 0 · C 3 · R 1)
+## 3. Two Italians killed in Kuwait as Iran denies role; Trump says Iran war can end 'whenever I want'
+`US Headlines` · Covered by 4 outlets (L 1 · C 2 · R 1)
 
-Vice President JD Vance said Justice Department and national security officials had confirmed that Nvidia CEO Jensen Huang is 'under no investigation' and that he does not need a pardon. Huang resigned earlier this month after acknowledging extramarital affairs, including one with a woman US officials suspected of working with China's Ministry of State Security. Beijing has denied that. Nvidia's board reinstated him at Trump's urging, and Trump has said a pardon is 'always an option' but probably unnecessary. Huang is due for a closed-door House interview on Dec. 1 and a public Senate Banking Committee hearing on Dec. 3. Separately, Denny's celebrated his return by restoring a plaque marking the booth where Nvidia was conceived.
+Kuwait's military said two Italian technicians were killed and two other people wounded by falling debris during the interception of Iranian drones or missiles at a military site. Kuwaiti and Italian officials blamed Iran. Tehran denied involvement: Foreign Minister Abbas Araghchi called the incident 'suspicious' and 'a precooked recipe for war' and offered to help investigate. Separately, Israel said it was ready to strike Iran even without U.S. participation. President Trump said in a Thanksgiving call with troops that the U.S. has 'victory at hand' and that the war, now in its ninth month, would end 'sort of whenever I want it to be.'
 
 **Key facts**
-- Huang was reinstated 11 days after resigning, according to the Korea Herald.
-- Dec. 1: closed-door interview with the House Intelligence, Foreign Affairs and China Select committees. Dec. 3: Senate Banking Committee hearing.
-- Congressional intelligence staff received a classified briefing on the matter on Tuesday, according to two anonymous sources.
-- Vance: 'We don't try people based on anonymously sourced stories in the New York Times.'
+- Two Italian employees of Rheinmetall Italia were killed; Italian media identified them as Antonio Saccoccio, 65, and Emanuele Lo Russo, 36 (per Fox News, citing ANSA).
+- A Kuwaiti national and a Pakistani national were also wounded (per Fox News).
+- Araghchi said he spoke with his Italian and Kuwaiti counterparts and offered to cooperate with an investigation.
+- Israeli military spokesman Effie Defrin said Israel could strike Iran 'at any moment,' even without U.S. forces.
 
 **How it's being framed**
-- **Center:** The Korea Herald covered Vance's comments together with the scrutiny in Washington, questions about the board's independence, and Trump's close ties to Huang. CNBC and The Hill ran lighter pieces on Denny's welcoming him back, noting governance questions in passing.
-- **Right:** The New York Post tied the story to Nvidia halting server shipments to Southeast Asia 'weeks after' the affair 'with alleged spy was exposed.' It linked related coverage on Vance, a Nasdaq sell-off, and Marco Rubio's reported concerns about 'malign influence.'
+- **Left:** Al Jazeera's live coverage led with Araghchi calling the incident 'suspicious,' alongside Trump's 'victory at hand' remarks and his statement that Tehran is being given a chance to negotiate.
+- **Center:** CNBC and The Hill presented Kuwait's account and Iran's denials side by side. They added context on Israel pushing for more strikes and on Jared Kushner's comment that Israel 'needs to get out of the constant wartime mindset.' The Hill highlighted Trump's 'whenever I want' remark and growing pushback against the war.
+- **Right:** Fox News led with a former Iranian negotiating adviser's claim, reported by an IRGC-affiliated outlet, that Ukraine staged a 'false flag' attack. It presented this as part of Tehran's denials, set against Kuwaiti and Italian officials blaming Iran, and gave the most detail about the victims and their work on air-defense equipment.
 
 **Disputed or unclear**
-- The woman's alleged ties to Chinese intelligence are suspected by US officials and denied by Beijing.
-- Vance's statement that Huang is under no investigation rests on his account of what officials told him.
-- Whether Huang will invoke the Fifth Amendment when he testifies is unknown.
+- Who was responsible: Kuwait and Italy blame Iran, while Iran denies it and its embassy in Rome warns of 'false flag' operations.
+- An Iranian adviser's claim that Ukraine was behind the attack is unverified.
+- It is unclear whether drones or missiles were involved; outlets describe the projectiles differently.
+- Whether Israel will strike Iran without U.S. participation remains unclear.
 
-**Why it matters:** The case raises questions about national security, corporate governance and the White House's ties to the world's leading AI chipmaker.
+**Why it matters:** Deaths of European nationals and Israeli threats to act alone could widen a nine-month war that is already straining U.S. politics.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10950342) (center): Vance says Jensen Huang won't need a pardon as scrutiny of Nvidia scandal builds in Washington
-- [New York Post](https://nypost.com/2026/11/26/business/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report/) (lean-right): Nvidia halts server shipments to 4 countries just weeks after Jensen Huang’s affair with alleged spy was exposed
-- [CNBC](https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html) (center): ‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO
+- [CNBC](https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html) (center): Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’
+- [Al Jazeera English](https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious) (lean-left): Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’
+- [Fox News](https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention) (right): Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention
+- [The Hill](https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/) (center): Trump: Iran war will be over ‘sort of whenever I want it to be’
+
+
+## 4. Jensen Huang's return as Nvidia CEO rattles Asian markets and draws Denny's tribute
+`AI & Cybersecurity` `Asia Business & Politics` · Covered by 3 outlets (L 0 · C 2 · R 1)
+
+Nvidia's board unanimously reinstated Jensen Huang as CEO after his brief departure. Fox Business reports he remains under scrutiny over a reported affair with a woman suspected of ties to Chinese intelligence, and an independent board committee review is ongoing. The BBC reports that tech-heavy stock markets in Japan, South Korea and Taiwan swung sharply this week, highlighting how dependent the region is on Nvidia. Separately, Denny's, where Huang once worked and where Nvidia was conceived, posted a tribute and said it had restored a commemorative plaque that had been removed, prompting mockery online.
+
+**Key facts**
+- Nvidia's board unanimously voted to reinstate Huang as president, CEO and board director.
+- Nvidia contracts most of its chip production to Taiwan's TSMC; Huang has said Nvidia plans to invest around $150bn a year in Taiwan.
+- The U.S. has said it intends to ban Singapore-based Megaspeed, which is accused of smuggling Nvidia chips to China; Megaspeed says it operates lawfully.
+- Denny's said it restored the plaque marking the San Jose booth where Nvidia was founded in 1993.
+
+**How it's being framed**
+- **Center:** The BBC took an economic angle, examining Asia's exposure to Nvidia through comments from analysts in Singapore and Taipei. The Hill gave a brief, light account of the Denny's tribute, calling Huang 'embattled.'
+- **Right:** Fox Business focused on the social-media backlash to the Denny's post, quoting sarcastic users, and noted the national security controversy around Huang and the role of U.S. government input in his reinstatement.
+
+**Disputed or unclear**
+- The reported affair and alleged foreign intelligence ties are under independent board review and have not been resolved.
+- The allegations that Megaspeed smuggled chips to China are disputed by the company.
+
+**Why it matters:** Nvidia's leadership turmoil affects global AI supply chains and stock markets heavily exposed to the company, particularly in East Asia.
+
+**Read it yourself:**
+- [BBC News (Asia)](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss) (center): Asia made a big AI bet on Nvidia. What happens now?
+- [Fox Business](https://www.foxbusiness.com/lifestyle/dennys-faces-backlash-over-heartfelt-tribute-reinstated-nvidia-ceo-jensen-huang) (lean-right): Denny's faces backlash over heartfelt tribute to reinstated Nvidia CEO Jensen Huang
 - [The Hill](https://thehill.com/policy/technology/6244572-dennys-jensen-huang-nvidia-comeback-trump-administration/) (center): Denny’s celebrates Jensen Huang return to Nvidia: ‘Your booth is waiting’
 
 
-## 5. FCC approves SpaceX plan for up to 1 million data-centre satellites
-`AI & Cybersecurity` · Covered by 4 outlets (L 3 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
+## 5. Paris appeals court orders Gérard Depardieu to stand trial over alleged 2018 rape
+`Charlotte Local` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-The Federal Communications Commission authorized SpaceX to deploy up to one million satellites, called 'Starmind,' to process AI workloads in orbit using solar power. FCC Chairman Brendan Carr called it 'a bold new frontier,' and Elon Musk welcomed the decision. The American Astronomical Society, Viasat and Amazon's Kuiper had asked the FCC to deny the request, citing harm to astronomy and other concerns. Scientists questioned whether the plan is technically and financially feasible. The FCC said the project complies with its orbital debris rules and set aside environmental concerns as outside its authority.
-
-**Key facts**
-- Deployment must begin by November 2033. The BBC reports targets of 10% by November 2035 and 50% by November 2038; PBS/NPR say deployment ramps up through 2040.
-- SpaceX says it wants to launch its first Starmind satellite next year.
-- The satellites will operate in low-Earth orbit at 500–2,000 km and relay data via Starlink.
-- The American Astronomical Society said it was 'disheartened and dismayed.'
-
-**How it's being framed**
-- **Left:** PBS and NPR (identical AP copy) led with scientific skepticism, quoting astrophysicist Adam Becker calling the plan 'a fantasy.' They stressed problems with shedding heat in a vacuum, pollution from launches and re-entries, and the risk of cascading debris. The Guardian ran a podcast asking how realistic the plan is.
-- **Center:** The BBC set out both the FCC's case and the criticism, quoting Amazon calling it a 'lofty ambition rather than a real plan' and astronomers' objections. It included an engineer who called the idea technically feasible but unproven at scale, and noted that opposition to data centres on Earth reportedly played a role in the midterms.
-
-**Disputed or unclear**
-- Whether SpaceX will actually launch anywhere near one million satellites is unclear.
-- The plan's technical feasibility, particularly heat dissipation and laser data links, is disputed by experts.
-
-**Why it matters:** The decision could reshape low-Earth orbit, astronomy and how AI computing is powered.
-
-**Read it yourself:**
-- [BBC News (World)](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss) (center): Musk's plan to send a million SpaceX data satellites into space approved
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical) (lean-left): FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
-- [NPR](https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space) (lean-left): FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical
-- [The Guardian (US)](https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest) (lean-left): Can Elon Musk really put AI datacentres in space? - The Latest
-
-
-## 6. Kim Jong Un visits nuclear sites and calls for expanding tactical nuclear weapons
-`Korea` `US Headlines` · Covered by 4 outlets (L 1 · C 3 · R 0)
-
-North Korean state media reported that Kim Jong Un visited a newly built weapons-grade nuclear materials production base, a nuclear-power equipment production base, and the Nuclear Weapons Institute. He called for using tactical nuclear weapons across multiple missions and domains, and said North Korea is systematically increasing its production of nuclear material. He described the country's nuclear status as 'irreversible' and said any attempt to deny it would be treated as 'an open declaration of war.' He accused the US of fostering nuclear sharing among its allies. South Korea's Defense Ministry said it takes the comments seriously.
+A Paris appeals court ruled that actor Gérard Depardieu, 77, must stand trial over the alleged rape and sexual assault of actress Charlotte Arnould at his Paris home on Aug. 7, 2018. The court dismissed allegations relating to a second incident six days later. Depardieu denies the allegations and says the encounter was consensual. His lawyers dispute the ruling and may appeal to France's highest court. The decision comes shortly after he dropped his appeal of a separate sexual assault conviction and apologized.
 
 **Key facts**
-- This is Kim's fourth reported visit to a nuclear facility, after visits in September 2024, January 2025 and June this year.
-- State media did not disclose the locations of the facilities.
-- The IAEA assessed last week that an extension to Yongbyon's uranium-enrichment facility was externally completed by late October.
-- Kim called South Korea 'the most dangerous enemy state.'
+- The trial covers events on Aug. 7, 2018; Arnould was 22 at the time.
+- The court dismissed allegations about a second incident six days later.
+- On Nov. 16, Depardieu dropped his appeal of a 2025 conviction for sexually assaulting two women on a film set, accepting an 18-month suspended sentence.
+- Arnould's lawyer called the ruling 'genuinely a relief.'
+- If tried and convicted, Depardieu could face up to 20 years in prison (per DW).
 
 **How it's being framed**
-- **Left:** NPR (AP) framed the visit as coming 'after ignoring Trump's overture' to meet. It quoted a Seoul analyst saying Kim wants to signal that denuclearization is off the table, and described photos of apparent centrifuges and warheads.
-- **Center:** Yonhap and the Korea Herald relayed KCNA's account in detail, including Kim's warnings and the background of the party congress. CNBC added the IAEA assessment, South Korea's nuclear-powered submarine plans, and Trump's denial that Kim had ignored him.
+- **Left:** PBS/AP placed the case within France's contested #MeToo reckoning. It recalled President Macron's earlier defense of Depardieu and the 2018 Deneuve open letter, and quoted Depardieu's apology in the separate case.
+- **Center:** The BBC and DW focused on the legal details, the positions of both sets of lawyers, and Depardieu's career. The BBC noted that much of the encounter was captured on Depardieu's own CCTV and mentioned a separate investigation involving author Michel Houellebecq.
 
 **Disputed or unclear**
-- Whether Kim ignored Trump's offer to meet is contested: NPR says he did, while Trump told the New York Post he had not been ignored.
-- The facilities' locations and production capacity are unverified; some KCNA images were blurred.
+- Depardieu denies the allegations and says the encounter was consensual.
+- Outlets name different lawyers for Depardieu (David-Olivier Kaminski in the BBC; Delphine Meillet in AP and DW).
+- It is unclear whether he will appeal to the Court of Cassation.
 
-**Why it matters:** North Korea's expanding nuclear arsenal and focus on battlefield nuclear weapons raise risks on the Korean Peninsula and complicate any future talks.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261126000553315) (center): (3rd LD) N. Korea's Kim inspects nuclear material sites, calls for broader use of tactical nukes
-- [NPR](https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump) (lean-left): North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture
-- [The Korea Herald](https://www.koreaherald.com/article/10950253) (center): N. Korea's Kim inspects nuclear material sites, calls for broader use of tactical nukes
-- [CNBC](https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html) (center): North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'
-
-
-## 7. US proposes new tariffs on 14 economies; analysts see pressure to sign trade deals
-`US Headlines` `Asia Business & Politics` · Covered by 4 outlets (L 1 · C 3 · R 0)
-
-The US Trade Representative proposed new tariffs on 14 economies, mostly in Asia plus the EU and Switzerland, citing excess industrial capacity. The tariffs replace levies the Supreme Court struck down in February. Proposed rates start at 15% for the EU, South Korea, Switzerland and Taiwan and rise to as much as 35% for Vietnam, with caps for countries that have trade deals or are still negotiating. China faces 20%, which could rise to 40% if its trade truce is not extended past January. Analysts said the move mainly pressures partners to strike deals and puts many countries back where they were earlier in the year. The duties may not take effect until January or later.
-
-**Key facts**
-- USTR Jamieson Greer said the policy likely won't take effect for months; a senior official said January at the earliest.
-- China's Commerce Ministry urged the US to 'rectify its wrongdoing' and did not announce retaliation.
-- Vietnam said it is working to complete a trade deal with Washington as soon as possible.
-- Incoming House Speaker Hakeem Jeffries pledged to 'repeal the Trump tariffs' within the new House's first 100 days.
-
-**How it's being framed**
-- **Left:** Al Jazeera's Inside Story framed the move as Trump returning with new tariffs after earlier ones were ruled illegal. It asked how China and others will respond, with guests including a Republicans Overseas chairman, a Beijing think-tank official and a Eurasia Group analyst.
-- **Center:** CNA, CNBC and the BBC relied on trade analysts. They emphasised that the tariffs are leverage to secure deals, are largely aimed at China, and are less dramatic than last April's announcements. The BBC called them more about shoring up the tariffs' legal basis, with a Democratic Congress poised to push back.
-
-**Disputed or unclear**
-- Reported top rates differ: Al Jazeera says tariffs of up to 20%, while CNBC says up to 35% for Vietnam.
-- The timing of implementation and the final rates remain subject to negotiation.
-- Whether the new Democratic Congress can repeal or override the tariffs is uncertain.
-
-**Why it matters:** The tariffs affect prices, supply chains and US relations with major trading partners, including China ahead of a planned Trump–Xi meeting.
-
-**Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/usa-donald-trump-tariffs-asian-trade-partners-analysis-6584851) (center): Trump's latest tariffs aimed at pressuring Asian trade partners into deals: Analysts
-- [Al Jazeera English](https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world) (lean-left): What will Trump’s latest tariffs mean for the world?
-- [CNBC](https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html) (center): U.S. tariff-hike threats pile pressure on partners to sign trade deals
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss) (center): Analysis: Why Trump's new tariffs are less of a threat
-
-
-## 8. Nvidia reportedly pauses server shipments to four Southeast Asian countries
-`AI & Cybersecurity` `Asia Business & Politics` · Covered by 3 outlets (L 0 · C 2 · R 1)
-
-Nvidia has reportedly told manufacturing partners such as Dell and Supermicro to stop shipping servers containing its chips to buyers in Malaysia, Singapore, Thailand and Indonesia. The pause follows new Commerce Department rules aimed at stopping Chinese firms from renting access to advanced chips through regional cloud providers. Sources said it is unclear whether the halt is temporary while compliance is worked out. A cloud executive described 'sheer chaos' in the region over the 90-day licensing deadline.
-
-**Key facts**
-- Nvidia booked US$104 billion in revenue through its Singapore subsidiary in 2025, a 72% increase on the year.
-- Cloud providers have 90 days to obtain licences showing their end users are not restricted entities.
-- The Institute for Progress estimates that remote data centres like these supply about 24% of China's AI computing power (via the WSJ).
-- Nvidia declined to comment; Dell, Supermicro, ByteDance and Aolani did not respond.
-
-**How it's being framed**
-- **Center:** CNA, carrying Financial Times reporting, detailed the commercial stakes, including the effect on a ByteDance-linked project with Singapore-based Aolani and on regional data-centre investment. It linked the rules to the Huang affair. TechCrunch, citing the WSJ, said Commerce closed the loophole 'reportedly grudgingly.'
-- **Right:** The Washington Examiner gave a brief, factual summary of the reported halt.
-
-**Disputed or unclear**
-- The halt is based on anonymous sources; Nvidia has not confirmed it.
-- Its duration and scope are unclear.
-- Reports credit different original sources (the FT and the WSJ).
-
-**Why it matters:** The pause could slow Chinese access to advanced AI chips and put billions of dollars of Southeast Asian data-centre investment at risk.
-
-**Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351) (center): Nvidia halts chip shipments to Southeast Asia: Report
-- [Washington Examiner](https://www.washingtonexaminer.com/policy/technology/4816287/nvidia-reportedly-stops-shipments-to-four-southeast-asian-countries/) (lean-right): Nvidia reportedly stops shipments to four Southeast Asian countries
-- [TechCrunch (AI)](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/) (center): Nvidia hits pause on chip shipments to Southeast Asia
-
-
-## 9. Paris appeals court orders Gérard Depardieu to stand trial for alleged 2018 rape
-`Charlotte Local` · Covered by 3 outlets (L 2 · C 1 · R 0) · ⚠️ Mostly covered by left-leaning outlets
-
-A Paris appeals court ruled that actor Gérard Depardieu, 77, must stand trial over allegations that he raped and sexually assaulted actress Charlotte Arnould at his Paris home on Aug. 7, 2018. The court dismissed allegations about a second incident six days later. Depardieu denies the allegations. Arnould's lawyer called the ruling a relief and said the trial 'promises to be historic.' The ruling comes shortly after Depardieu dropped his appeal of a 2025 sexual assault conviction and apologized.
-
-**Key facts**
-- Arnould was 22 at the time; much of what happened on Aug. 7, 2018 was captured on Depardieu's own CCTV, according to the BBC.
-- Depardieu accepted an 18-month suspended sentence for sexually assaulting two women on the set of 'Les Volets Verts.'
-- He is also under investigation with author Michel Houellebecq over allegations from a 2018 film shoot.
-- Al Jazeera reports he could face 15 to 20 years in prison if convicted.
-
-**How it's being framed**
-- **Left:** PBS (AP) and Al Jazeera set the case within France's #MeToo reckoning and the resistance to it in the arts. They included Macron's past defence of the actor and the 2018 Deneuve open letter, alongside Depardieu's career and his recent apology.
-- **Center:** The BBC focused on the legal steps and the case history, quoting lawyers on both sides, including the defence's plan to consider an appeal.
-
-**Disputed or unclear**
-- Depardieu denies the rape allegations.
-- Outlets name different defence lawyers: the BBC quotes David-Olivier Kaminski saying an appeal to the Court of Cassation will be considered, while AP quotes Delphine Meillet saying only that he disputes the ruling.
-
-**Why it matters:** The trial is among the highest-profile tests of France's response to sexual violence allegations against powerful figures.
+**Why it matters:** The case is one of the most prominent tests of how France handles sexual violence allegations against powerful cultural figures.
 
 **Read it yourself:**
 - [BBC News (World)](https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss) (center): Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
 - [PBS NewsHour](https://www.pbs.org/newshour/world/french-cinema-star-gerard-depardieu-ordered-to-stand-trial-for-rape-and-sexual-assault) (lean-left): French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault
-- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault) (lean-left): French actor Gerard Depardieu to stand trial for alleged 2018 rape
+- [Deutsche Welle](https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf) (center): Gerard Depardieu to stand trial in France for rape and sexual assault
 
 
-## 10. Charlotte Rescue Mission serves more than 500 Thanksgiving meals
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
+## 6. FIFA confirms cyberattack exposed a 'limited set' of personal and business data
+`AI & Cybersecurity` `US Headlines` · Covered by 3 outlets (L 1 · C 2 · R 0)
 
-Charlotte Rescue Mission served free breakfast and a traditional Thanksgiving lunch to more than 500 people at its Uptown campus, with dozens of volunteers helping. Staff spent weeks preparing, including cooking 60 turkeys. Leaders said the meal reflects the nonprofit's year-round work, including its addiction recovery programs.
+FIFA confirmed it was the victim of a criminal cyberattack that gave unauthorized access to a limited set of personal and business information, and said it is working with law enforcement. FIFA did not say when the attack happened or exactly what data was taken. Unnamed sources told Reuters and ESPN that less than 0.1% of FIFA's data was affected and that the attackers reportedly gained access by impersonating staff rather than breaching systems. A group calling itself the Handsome Boy Hacking Club had earlier posted what it said were FIFA files.
 
 **Key facts**
-- About 500 meals were planned across breakfast and lunch; WBTV reported more than 500 people served.
-- 60 turkeys were prepared, starting two weeks ahead.
-- CEO Trina Fullard said the event reflects a commitment to treating people with dignity and compassion.
+- FIFA said it 'condemns in the strongest possible terms the unlawful acquisition and publication of information.'
+- Sources say less than 0.1% of FIFA's total data was compromised.
+- FIFA President Gianni Infantino faces an election on March 18 amid controversy over a since-abandoned plan to sell stakes in the World Cup.
 
 **How it's being framed**
-- **Center:** All three local TV stations ran warm human-interest stories, quoting kitchen manager Brandy Legree, volunteers and a program graduate, and inviting viewers to volunteer.
+- **Left:** The Guardian placed the breach in a series of recent high-profile outages, at Microsoft, the FAA and JPMorgan Chase, and in public anxiety about AI. It noted there is no direct evidence AI caused any of them.
+- **Center:** DW and The Hill stuck to FIFA's statement and sourced details. DW stressed the sensitive timing for Infantino and noted that sources said no files from the abandoned World Cup stake-sale project were accessed.
 
-**Why it matters:** It shows how local nonprofits meet need in Charlotte during the holidays.
+**Disputed or unclear**
+- FIFA has not confirmed that the hacking group's claims refer to this incident.
+- The timing of the attack and the nature of the stolen data have not been disclosed.
+
+**Why it matters:** The breach adds to pressure on FIFA's leadership and highlights how social-engineering attacks can compromise major organizations.
+
+**Read it yourself:**
+- [Deutsche Welle](https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-all-1573-rdf) (center): FIFA says a cyberattack against it targeted a 'limited set of personal and business information'
+- [The Guardian (World)](https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information) (lean-left): Fifa confirms cyber-attack exposed ‘personal and business information’
+- [The Hill](https://thehill.com/policy/technology/6244786-fifa-cyberattack-personal-data/) (center): FIFA: ‘Limited set of personal and business information’ stolen in cyber attack
+
+
+## 7. Charlotte Rescue Mission serves about 500 Thanksgiving meals
+`Charlotte Local` · Covered by 4 outlets (L 0 · C 4 · R 0)
+
+The Charlotte Rescue Mission served more than 500 free breakfast and lunch meals at its Uptown campus on Thanksgiving, prepared and hand-served by volunteers. Staff began cooking 60 turkeys two weeks in advance, according to WSOC. Leaders said the event reflects the nonprofit's year-round work, including addiction recovery programs, and the organization is seeking volunteers.
+
+**Key facts**
+- About 500 meals were served, according to the organization.
+- Sixty turkeys were prepared, starting two weeks beforehand.
+- The nonprofit runs addiction recovery programs year-round.
+
+**How it's being framed**
+- **Center:** All four local TV outlets covered the event warmly as a community feature, quoting kitchen staff, volunteers, leaders and a program graduate who said the mission 'gave me my life back.'
+
+**Why it matters:** It is a local look at how Charlotte nonprofits support residents in need during the holidays and beyond.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/) (center): Charlotte Rescue Mission provides Thanksgiving meals for those in need
 - [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/so-grateful-charlotte-rescue-mission-serves-more-than-500-people-thanksgiving/) (center): ‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving
 - [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-nonprofit-marks-thanksgiving-with-annual-community-meal/) (center): Charlotte nonprofit marks Thanksgiving with annual community meal
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/life/holidays/charlotte-rescue-mission-serves-thanksgiving-meals-offers-hope-and-connection-to-those-in-need/275-d1f91b70-178e-4567-8fa3-0a5354d3baa4) (center): Charlotte Rescue Mission serves Thanksgiving meals, offers hope and connection to those in need
+
+
+## 8. Judge blocks FCC's early review of ABC station licenses on First Amendment grounds
+`US Headlines` · Covered by 4 outlets (L 3 · C 0 · R 1)
+
+U.S. District Judge Loren AliKhan issued a preliminary injunction halting the FCC's early review of the licenses of eight ABC-owned TV stations. She found that ABC is likely to succeed in its claim that the agency retaliated against it for speech. The FCC ordered the review in April, citing alleged diversity-related employment violations at Disney; ABC argues it followed Trump's anger over Jimmy Kimmel. The judge denied ABC's broader request to bar any informal coercion. The FCC called the ruling 'wrong on the facts and wrong on the law.' NPR's newsletter also covered Thanksgiving storms, new proposed tariffs, and an Army detonation in Iowa.
+
+**Key facts**
+- Judge AliKhan wrote: 'This is not a close case.'
+- The FCC had not used its early-review authority in more than half a century and had never before reviewed all of a network's owned-station licenses at once (per Reason).
+- The licenses were not due for renewal until 2028 (per The Verge).
+- The FCC says it 'looks forward to prevailing in full'; ABC called the decision 'an important victory for the First Amendment.'
+
+**How it's being framed**
+- **Left:** PBS/AP and The Verge presented the ruling as a free-speech win for ABC. They linked the review's timing to Trump's demand that Kimmel be fired, included the FCC's and Justice Department's responses, and noted the part of ABC's request the judge rejected. NPR mentioned the ruling briefly within a broader news roundup.
+- **Right:** Reason, a libertarian outlet, strongly backed the ruling as a First Amendment protection. It detailed how unusual the FCC's action was, quoted a press-freedom advocate calling Chairman Brendan Carr 'far from a good-faith actor,' and framed the review as part of Trump's long-running threats against broadcast licenses.
+
+**Disputed or unclear**
+- The FCC says the review concerns Disney's employment practices and the public-interest standard; ABC and the judge view it as likely retaliation.
+- The litigation continues, and the FCC is expected to keep contesting the case.
+
+**Why it matters:** The case tests how far federal regulators can use licensing power against broadcasters whose content angers political leaders.
+
+**Read it yourself:**
+- [NPR](https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech) (lean-left): Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says
+- [Reason](https://reason.com/2026/11/26/a-federal-judge-blocks-the-fccs-review-of-abcs-licenses-saying-it-likely-violates-the-first-amendment/) (lean-right): A Federal Judge Blocks the FCC's Review of ABC's Licenses, Saying It Likely Violates the First Amendment
+- [PBS NewsHour](https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect) (lean-left): Judge blocks FCC from early license review for ABC, which network says has had a chilling effect
+- [The Verge](https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block) (lean-left): Federal judge blocks the FCC from reviewing ABC’s licenses early
+
+
+## 9. Hyundai unveils electric compact SUV concept at Guangzhou auto show
+`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Hyundai Motor unveiled the Mercury Concept, an all-electric compact SUV, at the Guangzhou auto show. A production version, the Ioniq M, is planned for China in the first half of 2027. The concept was developed by Hyundai's Chinese team and uses Chinese technology, including a ByteDance AI-powered cockpit and, for extended-range versions, CATL batteries. Hyundai plans to introduce 24 vehicles in China by 2030.
+
+**Key facts**
+- The production model will be called the Ioniq M, with launch planned for the first half of 2027.
+- The Ioniq V, Hyundai's first China-specific EV, launched in September.
+- Hyundai plans 24 new vehicles in China by 2030.
+
+**How it's being framed**
+- **Center:** Yonhap and The Korea Herald ran the same wire report, based on Hyundai's press release and without outside commentary.
+
+**Why it matters:** It shows foreign automakers leaning on Chinese technology partners to compete in the world's largest car market.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261127002200320) (center): Hyundai unveils all-electric concept at Guangzhou auto show
+- [The Korea Herald](https://www.koreaherald.com/article/10951694) (center): Hyundai unveils all-electric concept at Guangzhou auto show
+
+
+## 10. North Korean troops crossed inter-Korean border about 40 times in two months, lawmaker says
+`Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Data submitted to South Korean opposition lawmaker Yu Yong-weon shows North Korean troops crossed the Military Demarcation Line about 30 times in October and roughly 10 times so far in November. The crossings continued after a Sept. 21 mine blast that injured three South Korean soldiers; Pyongyang denies responsibility for the mines. Yu called for a firmer military response. The Joint Chiefs of Staff said South Korea's procedures, which include warning broadcasts and warning shots, have not changed.
+
+**Key facts**
+- About 30 crossings in October and about 10 in November, according to the data submitted to Yu.
+- The JCS earlier reported about 20 crossings in August and about 30 in September.
+- North Korea has been building fences and laying mines along the border.
+
+**How it's being framed**
+- **Center:** Yonhap and The Korea Herald ran the same wire report, presenting the opposition lawmaker's data and his call for firmness alongside the military's statement that it is closely monitoring the situation.
+
+**Disputed or unclear**
+- North Korea denies planting the mines that exploded in September.
+
+**Why it matters:** Frequent border incursions raise the risk of a clash on the Korean Peninsula.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261127002051315) (center): (LEAD) N. Korean troops cross inter-Korean border about 40 times over past 2 months: lawmaker
+- [The Korea Herald](https://www.koreaherald.com/article/10951684) (center): N. Korean troops cross inter-Korean border about 40 times over past 2 months: lawmaker
 
 
 ---
@@ -297,4 +277,4 @@ Charlotte Rescue Mission served free breakfast and a traditional Thanksgiving lu
 
 ### What is happening with AI regulation in the US and EU?
 
-No articles in this edition directly address AI regulation in the US or EU. The closest related items are the FCC's approval of SpaceX's orbital data-centre satellites and new US chip export rules, neither of which is AI regulation as such.
+None of today's articles address AI regulation in the US or EU. AI appears only in coverage of holiday scams and Nvidia's market influence.

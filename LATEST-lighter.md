@@ -1,62 +1,62 @@
-# The Lighter Brief: Midday edition
-_Thursday, November 26, 2026 · 3:35 PM EST · 205 articles from 23 outlets · summaries by Claude_
+# The Lighter Brief: Evening edition
+_Thursday, November 26, 2026 · 11:36 PM EST · 191 articles from 23 outlets · summaries by Claude_
 
-> A cozy Thanksgiving edition: a Charlotte nonprofit served 500+ holiday meals, Feid and Snoop Dogg dropped a gratitude song, and a reggae singer is making a whole album for her late dog. We also have some practical local notes, including a soggy-then-chilly Carolinas forecast and a boil water advisory in Marshville, plus a few updates from Jamaica and a city tug-of-war over the Essence Festival.
+> Thanksgiving dominated the news this time, mostly in nice ways. Charlotte volunteers served hundreds of free meals, a coonhound named Rocker won the National Dog Show, and the Bears beat the Lions on a last-second throw after a Wu-Tang Clan halftime show. A soggy nor'easter did cause some water hiccups in North Carolina and Maryland, and there's cheerful sports and charity news out of Jamaica too.
 
 
 
 ---
 
 ## 1. Charlotte Rescue Mission serves 500+ Thanksgiving meals
-`Charlotte` `US Headlines` · Covered by 3 outlets
+`Charlotte` `US Headlines` · Covered by 4 outlets
 
-Volunteers at the Charlotte Rescue Mission spent Thanksgiving cooking and hand-serving free breakfast and lunch to anyone who needed it. The day began with a prayer and breakfast, and there were movies and table games too. Organizers said the goal was to make the day feel like family for everyone who came through the door.
+Volunteers at the Charlotte Rescue Mission spent Thanksgiving serving free breakfast and a traditional holiday lunch to anyone who needed one. The team started cooking 60 turkeys two weeks early, and there were movies and table games to make the day feel like family. Staff said the goal was to give everyone a welcoming place for the holiday.
 
 **Key facts**
-- More than 500 free meals were served on Thanksgiving
-- The team started cooking 60 turkeys two weeks ahead
-- Kitchen manager and chef Brandy Legree was back at work at 2 a.m.
+- More than 500 free meals were served, breakfast and lunch
+- 60 turkeys were cooked, starting two weeks ahead
+- Kitchen manager Brandy Legree said she was up at 2 a.m. to get ready
 - The nonprofit also runs addiction recovery programs and welcomes volunteers year-round
 
-**Worth knowing:** As former program participant Roscoe Burris put it, "they gave me my life back." That is a lovely reminder of what this kind of work can mean.
+**Worth knowing:** It's a warm reminder of neighbors looking after neighbors, and the mission is always looking for more helpers.
 
 **Read it yourself:**
 - [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/charlotte-rescue-mission-provides-thanksgiving-meals-those-need/ALZNIX5GPNC7LCWOUGWZRTSHUA/): Charlotte Rescue Mission provides Thanksgiving meals for those in need
 - [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/so-grateful-charlotte-rescue-mission-serves-more-than-500-people-thanksgiving/): ‘So grateful’: Charlotte Rescue Mission serves more than 500 people on Thanksgiving
 - [Queen City News (FOX 46)](https://www.qcnews.com/charlotte/charlotte-nonprofit-marks-thanksgiving-with-annual-community-meal/): Charlotte nonprofit marks Thanksgiving with annual community meal
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/life/holidays/charlotte-rescue-mission-serves-thanksgiving-meals-offers-hope-and-connection-to-those-in-need/275-d1f91b70-178e-4567-8fa3-0a5354d3baa4): Charlotte Rescue Mission serves Thanksgiving meals, offers hope and connection to those in need
 
 
-## 2. Carolinas weather: rain clears, then a chilly, breezy Friday
-`US Headlines` `Charlotte` · Covered by 3 outlets
+## 2. Wu-Tang rocks Detroit, and the Bears win at the buzzer
+`US Headlines` `Hip Hop & Celebrity` · Covered by 2 outlets
 
-A storm brought one to two inches of rain and gusty winds to the Carolinas around Thanksgiving, but showers were expected to ease by Thursday afternoon. Winds pick back up overnight, bringing a cold Friday and possible light snow in the mountains. The weekend looks mostly dry until rain returns late Sunday.
+Wu-Tang Clan played the Lions' Thanksgiving halftime show at Ford Field, joined by Red Hot Chili Peppers drummer Chad Smith. The nearly seven-minute medley was billed as the wrap-up of their farewell tour. After the long break, the Bears came back to beat the Lions 39-35, and Caleb Williams joked, 'We had 19 minutes to do that. Shoutout to Wu-Tang.'
 
 **Key facts**
-- Wind gusts of 30 to 40 mph are expected overnight into Friday
-- Friday highs will be in the upper 40s to low 50s, about 10 degrees below average
-- A few inches of snow are possible above 3,500 feet
-- Rain is expected late Sunday, which could slow post-holiday travel
+- Final score: Bears 39, Lions 35, on a Williams-to-Rome Odunze touchdown with 3 seconds left
+- Williams threw for 345 yards, and Jahmyr Gibbs ran for 205 yards and 3 TDs for Detroit
+- Chicago is now 9-2, alone in first place in the NFC North
+- The show was the second year of the Lions' halftime deal with Eminem and Paul Rosenberg
 
-**Worth knowing:** If you're driving home Sunday, try to leave earlier in the day.
+**Worth knowing:** A legendary group's farewell and a thrilling finish made for a memorable holiday game, unless you're a Lions fan.
 
 **Read it yourself:**
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/wet-start-thanksgiving-windy-black-friday-carolinas-latest-forecast/): Rain eases in Charlotte Thanksgiving afternoon, but gusty winds and mountain snow return
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550): Rain clears into Turkey Day afternoon but a colder wind blows behind it
-- [Queen City News (FOX 46)](https://www.qcnews.com/weather/weather-forecast/rain-slowly-clears-out-of-charlotte-for-thanksgiving/): Rain slowly clears out of Charlotte for Thanksgiving
+- [Billboard](https://www.billboard.com/lists/wu-tang-clan-thanksgiving-halftime-detroit-lions-nfl-game/): It’s a Shaolin Thanksgiving! Wu-Tang Clan, Chad Smith Light Up Halftime at Detroit Lions NFL Game
+- [Newsweek](https://www.newsweek.com/sports/nfl/caleb-williams-wu-tang-joke-rubs-salt-in-lions-wounds-12772139): Caleb Williams’ Wu-Tang Joke Rubs Salt in Lions’ Wounds
 
 
-## 3. Marshville under a boil water advisory after main break
+## 3. Marshville, N.C. under a boil water advisory after a main break
 `US Headlines` · Covered by 4 outlets
 
-A water main break on Water Plant Road Wednesday afternoon left many Marshville, N.C., residents with little or no water on Thanksgiving. Crews worked overnight, but rain slowed repairs. As service returns, the town has issued a boil water advisory until further notice and apologized for the disruption to holiday plans.
+A water main broke along Water Plant Road in Marshville on Wednesday afternoon, leaving many residents with little or no water on Thanksgiving. Crews worked overnight, but rain slowed repairs. As service returns, the town has issued a boil water advisory until further notice and apologized for the disrupted holiday.
 
 **Key facts**
 - The break happened around 4 p.m. Wednesday, Nov. 25
-- The boil water advisory was issued around noon Thursday
-- Use bottled water or water brought to a rolling boil for at least one minute for drinking, cooking and brushing teeth
-- The cause of the break is not yet clear
+- The town first hoped to restore service by 8:30 p.m. that night
+- The boil water advisory was issued around noon Thursday and stays until the town lifts it
+- The cause of the break isn't clear yet
 
-**Worth knowing:** If you're in Marshville, keep boiling your water until the town says the advisory is lifted.
+**Worth knowing:** If you're in Marshville, keep boiling your water until the town says otherwise.
 
 **Read it yourself:**
 - [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/boil-water-advisory-issued-marshville-after-water-main-break/): Boil water advisory issued for Marshville after water main break
@@ -65,86 +65,86 @@ A water main break on Water Plant Road Wednesday afternoon left many Marshville,
 - [Queen City News (FOX 46)](https://www.qcnews.com/news/local-news/town-in-union-county-without-water-on-thanksgiving/): Town in Union County without water on Thanksgiving
 
 
-## 4. Jamaica's utility regulator and FLOW agree on complaint timelines
+## 4. Jamaica's top football league is back on
 `Jamaica` · Covered by 1 outlet
 
-Jamaica's Office of Utilities Regulation (OUR) and FLOW signed an agreement that sets timelines for acknowledging, responding to and investigating customer complaints. The regulator wants to speed up how quickly complaints get resolved.
+The Legend Jamaica Premier League will resume this weekend after league operator PFJL and the referees' association settled a dispute over outstanding payments. Referees had stopped working, which halted the competition. PFJL CEO Owen Hill thanked fans for their patience and said new steps will improve accountability and communication.
 
 **Key facts**
-- The agreement was signed November 24, 2026
-- It is the OUR's second such agreement, after one with Digicel on March 4, 2026
+- Match Week 12 goes ahead this weekend
+- The round wraps up with Monday Night Football at the Anthony Spaulding Sports Complex
+- The dispute was over unpaid officiating fees
 
-**Worth knowing:** FLOW customers could see faster, clearer handling when something goes wrong with their service.
-
-**Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/flow-sign-service-level-agreement-customer-complaints/): OUR, FLOW sign service level agreement for customer complaints
-
-
-## 5. Reggae singer Sophia Dias is making an album for her late dog
-`Jamaica` `Cute Animals` · Covered by 1 outlet
-
-US-based reggae artist Sophia Dias will record her third album at Jamaica's famed Tuff Gong Studio starting in February, with every song dedicated to her Bernese Mountain Dog, Mr Santos. She shared sweet memories, like bringing a blanket to restaurant patios so they could eat together, where waiters often brought him vanilla ice cream, his favorite. Mr Santos died three years ago, and he was best friends with her three cats.
-
-**Key facts**
-- Veteran producer Clive Hunt is producing the seven-track album
-- Recording begins in February at Tuff Gong Studio
-- Mr Santos lived to 11, about a year beyond the breed's typical life expectancy
-
-**Worth knowing:** Anyone who has loved a pet will understand wanting to write a whole album about them.
+**Worth knowing:** Fans, players and clubs get their football back, with a plan aimed at avoiding a repeat.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/reggae-singer-sophia-dias-record-album-tribute-deceased-dog/): Reggae singer Sophia Dias to record album in tribute to her deceased dog
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/legend-jpl-resumes-weekend-pfjl-referees-reach-agreement/): Legend JPL resumes this weekend after PFJL, referees reach agreement
 
 
-## 6. Falmouth mayor condemns vandalism at storm-damaged buildings
+## 5. Jamaica's PM calls for a comeback of cleanliness
 `Jamaica` · Covered by 1 outlet
 
-Trelawny's mayor, C Junior Gager, said a string of break-ins and thefts at buildings damaged by Hurricane Melissa is undermining recovery efforts. A suspect caught on security cameras has been handed over to police.
+Prime Minister Andrew Holness urged Jamaicans to rebuild a culture of cleanliness and better waste habits. He spoke at the Kingston Harbour Clean-up Project site. He said both citizens and government need to do their part, from not littering to regular waste collection.
 
 **Key facts**
-- Supplies meant for residents of the Trelawny Adult Residential Care Facility were stolen
-- The theft was discovered hours after PM Andrew Holness opened the first phase of the facility's new home
-- Doors were removed from the damaged Icy Allen building
+- Holness spoke Thursday on Michael Manley Boulevard in Kingston
+- The event was at the Kingston Harbour Clean-up Project offloading site
 
-**Worth knowing:** It shows the bumps in the road as communities rebuild after the hurricane.
+**Worth knowing:** It's a push toward cleaner public spaces and a healthier harbour.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/gager-condemns-vandalism-melissa-damaged-structures/): Gager condemns vandalism of Melissa-damaged structures
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/holness-urges-jamaicans-rebuild-culture-cleanliness/): Holness urges Jamaicans to rebuild culture of cleanliness
 
 
-## 7. War of words between Jamaican politicians
+## 6. Charlotte dries out with weekend sunshine ahead
+`Charlotte` `US Headlines` · Covered by 2 outlets
+
+After a cold, wet and windy Thanksgiving, the Charlotte area gets sunshine Friday and a pleasant, sunny Saturday. Another round of rain is likely late Sunday, then early next week looks mostly dry. The mountains could get a light dusting of snow.
+
+**Key facts**
+- Friday: mostly sunny, breezy, highs in the lower 50s
+- Saturday: sunny with highs in the 50s
+- Sunday: highs in the 60s with rain likely late in the afternoon
+- Mountains could see 1 to 3 inches of snow
+
+**Worth knowing:** Saturday looks like the best day for leftover-fueled outdoor plans.
+
+**Read it yourself:**
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/26/sunshine-returns-after-wet-thanksgiving-with-more-rain-possible-this-weekend/): Sunshine returns after wet Thanksgiving, with more rain possible this weekend
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/weather/weather-impact/alert-thanksgiving-forecast-rain-gusty-winds-cold-temperatures-brad-panovich/275-fa56950b-756a-4dfd-8d1e-6a941db0406e): Weather Alert: Widespread rain, gusty winds to impact Thanksgiving in the Carolinas
+
+
+## 7. J.Lo saved her Vegas concert film for Thanksgiving
+`US Headlines` `Hip Hop & Celebrity` · Covered by 2 outlets
+
+Jennifer Lopez's two-hour concert film 'The JLO Show' premiered Thanksgiving night on CBS and Paramount+. She said she pushed back on a summer release so she could watch it with her family on the holiday. Her mom used to put on West Side Story on Thanksgiving. The film captures the finale of her sold-out Caesars Palace residency.
+
+**Key facts**
+- Filmed at the March 28, 2026 finale at the Colosseum at Caesars Palace
+- Includes her hits plus numbers from West Side Story, Gypsy and Funny Girl
+- An extended cut is streaming for all Paramount+ subscribers
+
+**Worth knowing:** It's a sweet family-tradition story, and a fun watch if you missed it live.
+
+**Read it yourself:**
+- [Billboard](https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/): Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online
+- [AllHipHop](https://allhiphop.com/news/jennifer-lopez-saves-her-vegas-concert-film-for-a-family-thanksgiving/): Jennifer Lopez Saves Her Vegas Concert Film For A Family Thanksgiving
+
+
+## 8. Jamaica's schoolboy football heads into the quarter-finals
 `Jamaica` · Covered by 1 outlet
 
-JLP Senator Abka Fitz-Henley criticized PNP caretaker Paul Buchanan for calling House Speaker Juliet Holness "this girl" at a protest. Fitz-Henley declined to respond to being called a "likkle fool" himself. He also disputed Buchanan's claim that trillions of dollars are unaccounted for.
+The ISSA Urban Under-14 and Under-16 football competitions start their quarter-final group stage on Friday. Eight teams remain in each age group, split into two zones, and the top two in each zone reach the semis. Defending double champions Jamaica College are still alive in both.
 
 **Key facts**
-- Buchanan made the remarks at a PNP protest on Tuesday
-- Fitz-Henley said the Auditor General's comments concerned delays in tabling financial statements dating from 2013, not missing money
+- Kingston College scored 19 goals without conceding in the U-14 second round
+- KC vs. Jamaica College is a headline U-16 opener
+- U-14 matches start at 12:30 p.m.
 
-**Good to know**
-- Buchanan says trillions of dollars are unaccounted for; Fitz-Henley calls that false and points to a fact-checking portal that called the wording misleading
-
-**Worth knowing:** It's a glimpse of the current tone in Jamaican politics and an ongoing argument over public finances.
+**Worth knowing:** It's young talent and old school rivalries on full display.
 
 **Read it yourself:**
-- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/fitz-henley-condemns-buchanan-referring-house-speaker-girl/): Fitz-Henley condemns Buchanan for referring to House Speaker as ‘this girl’
-
-
-## 8. Feid and Snoop Dogg release a Thanksgiving song, 'Gracias x Todo'
-`Hip Hop & Celebrity` `US Headlines` · Covered by 1 outlet
-
-Colombian star Feid and Snoop Dogg released "Gracias x Todo," a song about gratitude and getting through life's ups and downs. The music video honors Feid's family and features a children's choir. Feid first previewed the song at the Latin Grammys, where Snoop made a surprise appearance.
-
-**Key facts**
-- Released Thursday, Nov. 26
-- Feid won best reggaeton performance at the Latin Grammys for "Verano Rosa" with Karol G
-- He is set to appear in the 100th Macy's Thanksgiving Day Parade
-- His North American arena tour kicks off Feb. 5 in Orlando
-
-**Worth knowing:** It's a feel-good soundtrack for a holiday about being thankful.
-
-**Read it yourself:**
-- [Billboard](https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/): Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’
+- [Jamaica Observer](https://www.jamaicaobserver.com/2026/11/26/battle-semi-final-spots-get-underway-issa-urban-youth-competitions/): Battle for semi-final spots get underway in ISSA Urban Youth competitions
 
 
 ---
