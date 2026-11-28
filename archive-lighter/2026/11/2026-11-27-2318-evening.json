@@ -1,0 +1,342 @@
+{
+  "title": "The Lighter Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-28T04:18:03.922739+00:00",
+  "local_time": "Friday, November 27, 2026 · 11:18 PM EST",
+  "local_date": "Nov 27, 2026",
+  "slug": "2026-11-27-2318-evening",
+  "mode": "ai",
+  "style": "light",
+  "profile": "lighter",
+  "overview": "A mixed bag of a holiday weekend: Thanksgiving storms soaked both US coasts and snarled travel, but skies should clear by Saturday as people head home. On the brighter side, Jamaica's Reggae Girlz booked another World Cup trip, a reggae legend revived a classic for hurricane relief, and a Charlotte mental health center turned ten.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "Thanksgiving storms soak both coasts, but clearer skies are coming",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "Powerful storms hit the East Coast, the Midwest and the West Coast over Thanksgiving, causing flooding, fallen trees and widespread power outages. Hundreds of flights were cancelled or delayed during one of the busiest travel weeks of the year. Some bridges in New Jersey closed, and people were seen kayaking down streets in coastal Virginia. The storms are expected to move out and the tides to recede heading into Saturday.",
+      "key_facts": [
+        "About 490,000 customers were without power Friday afternoon, per poweroutage.us",
+        "Nearly 201,000 of those were in New Jersey and Pennsylvania",
+        "Very high 'King Tides' have been hitting the West Coast",
+        "President Trump said he would consider releasing emergency funds"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're traveling home this weekend, check your flight and road conditions, though the weather should be improving by Saturday.",
+      "coverage": {
+        "left": 1,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (US & Canada)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T16:46:47+00:00"
+        },
+        {
+          "source": "NPR",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+          "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+          "published": "2026-11-27T11:59:02+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Thousands still without power after Thanksgiving storms",
+          "url": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/",
+          "published": "2026-11-27T19:17:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Justin Timberlake explains why he finally opened up for a docuseries",
+      "topics": [
+        "Hip Hop & Celebrity"
+      ],
+      "summary": "On The Tonight Show, Justin Timberlake told Jimmy Fallon he was 'really reluctant' to make a documentary about himself, calling himself 'famously private.' Conversations with director Fisher Stevens changed his mind, and he said the process turned out to be 'really cathartic.' He also celebrated 20 years of his album FutureSex/LoveSounds with live medleys.",
+      "key_facts": [
+        "'Timberlake' is a four-part series on Apple TV",
+        "Episodes 1–2 arrive Dec. 11, episode 3 on Dec. 18, and the finale on Dec. 23",
+        "It includes never-before-seen archival footage and interviews with family, including Jessica Biel"
+      ],
+      "perspectives": [],
+      "disputed": [
+        "Confirmed: the series, its release dates and Timberlake's comments on the show",
+        "He didn't say which private stories he shares; per AllHipHop, the trailer revisits his 2004 Super Bowl appearance, his relationship with Britney Spears, and the arrest that led to a 2024 guilty plea on a reduced impaired-driving charge"
+      ],
+      "why": "He says he hopes being open about his own struggles helps viewers going through hard times of their own.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Billboard",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries During ‘Tonight Show’ Interview",
+          "url": "https://www.billboard.com/music/pop/justin-timberlake-tonight-show-documentary-series-interview-1236390349/",
+          "published": "2026-11-27T17:34:30+00:00"
+        },
+        {
+          "source": "AllHipHop",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Justin Timberlake Tells Jimmy Fallon Why He Opened Up For Apple TV Documentary",
+          "url": "https://allhiphop.com/news/justin-timberlake-tells-jimmy-fallon-why-he-opened-up-for-apple-tv-documentary/",
+          "published": "2026-11-28T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "North Carolina gas could jump 41 cents a gallon as tax break ends",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "North Carolina's temporary gas tax suspension, which lawmakers passed in October to ease the cost of living, is set to end. That's expected to raise prices by about 41 cents per gallon. Charlotte-area drivers and small businesses are bracing for it, and one lawmaker is considering extending the break through the holidays.",
+      "key_facts": [
+        "Expected increase: about 41 cents per gallon",
+        "The General Assembly suspended the tax in October",
+        "A possible extension through the holidays is being considered, but has not been decided"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you drive in North Carolina, filling up soon could save you a little money.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC gas tax break set to expire; lawmaker considers extending it through the holidays",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/nc-gas-tax-break-set-to-expire-lawmaker-considers-extending-it-through-the-holidays/",
+          "published": "2026-11-28T01:44:26+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC gas prices to rise 41 cents per gallon as tax suspension set to end",
+          "url": "https://www.wcnc.com/article/traffic/gas-prices/nc-gas-prices-to-rise-41-cents-per-gallon/275-c85dcf8c-c8d5-41a3-b97a-e067770983be",
+          "published": "2026-11-28T00:39:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Jamaica's Justice Ministry rejects interference claim over legal honor",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's Ministry of Justice pushed back on a claim by PNP figure Paul Buchanan that attorney Hugh Wildman was denied the King's Counsel title over a political objection. The ministry, which didn't name either man, said appointments are decided on merit through a panel of senior lawyers and a committee chaired by the chief justice. It called the allegation 'unworthy and without merit.'",
+      "key_facts": [
+        "Buchanan reportedly made the claim at an opposition PNP protest on Wednesday",
+        "The ministry said 'the prime minister is not involved in this process'",
+        "Applicants are assessed by existing King's Counsel, then by a committee chaired by the chief justice"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "It's a public disagreement about whether one of Jamaica's top legal honors stays free of politics.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ministry of Justice rejects accusations about interference in King’s Counsel appointment",
+          "url": "https://www.jamaicaobserver.com/2026/11/27/ministry-justice-rejects-accusations-interference-kings-counsel-appointment/",
+          "published": "2026-11-28T00:55:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Fort Mill water main break leaves some homes dry over the holiday",
+      "topics": [
+        "Charlotte",
+        "US Headlines"
+      ],
+      "summary": "A water main break in Fort Mill left some customers with low or no water pressure on Friday. Crews have been working since 9 a.m. near Jackson Street and Ridge Road, where one lane is closed on each road. Some residents said it was the worst outage they'd seen.",
+      "key_facts": [
+        "Location: Jackson Street and Ridge Road intersection",
+        "Crews have been on site since 9 a.m. Friday",
+        "One lane is closed in each direction at the intersection"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "If you're in Fort Mill, expect spotty water pressure and lane closures near that intersection.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Customers without water after main break in Fort Mill",
+          "url": "https://www.qcnews.com/news/u-s/fort-mill/customers-without-water-after-main-break-in-fort-mill/",
+          "published": "2026-11-27T22:44:24+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Fort Mill residents frustrated after water main break leaves some without water during Thanksgiving weekend",
+          "url": "https://www.wcnc.com/article/news/local/fort-mill-residents-frustrated-after-water-main-break-leaves-some-without-water-during-thanksgiving-weekend/275-3bf51d02-1fa0-4385-8824-6dc4b23eee26",
+          "published": "2026-11-27T22:16:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Reggae Girlz book a third straight Women's World Cup trip",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Jamaica's women's team beat Costa Rica 3-0 in Texas to qualify for the 2027 FIFA Women's World Cup, their third in a row. The win also puts them in the W Championships semi-finals. Since Jamaica co-hosts the 2031 tournament, the team is now set for four straight World Cups.",
+      "key_facts": [
+        "Goals came from Jody Brown, Kalyssa Van Zanten and captain Khadija 'Bunny' Shaw",
+        "Shaw's goal was her 68th in 50 appearances, and her seventh straight game with a goal",
+        "The 2027 World Cup runs June 24 to July 25; the draw is Dec. 11 in Brazil"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A big, joyful milestone for Jamaican football, with a star captain on a hot streak.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Reggae Girlz through to third straight World Cup after 3-0 win over Costa Rica",
+          "url": "https://www.jamaicaobserver.com/2026/11/27/reggae-girlz-third-straight-world-cup-3-0-win-costa-rica/",
+          "published": "2026-11-28T00:22:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "Produce prices dip at Kingston's Coronation Market",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "The Jamaica Observer's Market Bag team found several popular items selling for less this week at Coronation Market. Content creator Hakeem 'Uncle' Bryan joined the visit and joked that swinging prices have made him want to quit lettuce and tomatoes altogether.",
+      "key_facts": [
+        "Tomatoes: $200 per pound",
+        "Scotch bonnet peppers: $300 per pound",
+        "Onions and Irish potatoes: $250 per pound each",
+        "Sorrel held steady at $600 per pound"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A bit of welcome relief at the market for shoppers in Kingston.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Market Bag: Prices dip as Uncle joins Observer at ‘Curry’",
+          "url": "https://www.jamaicaobserver.com/2026/11/27/market-bag-prices-dip-uncle-joins-observer-curry/",
+          "published": "2026-11-27T23:02:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Ras Michael revives a 1975 classic to help Hurricane Melissa recovery",
+      "topics": [
+        "Jamaica"
+      ],
+      "summary": "Reggae veteran Ras Michael has re-released 'None a Jah Jah Children No Cry' with Maxi Priest, Steel Pulse, Yami Bolo, his son Michael Nkrumah, and archival vocals from the late Sinéad O'Connor. All proceeds go to communities recovering from Hurricane Melissa, and every artist volunteered their time.",
+      "key_facts": [
+        "The remix came out October 12, 2026, on the Zion Disc label",
+        "Funds will be managed through an Ethiopian Orthodox Tewahedo Church fund in LA and the Fly Away Foundation in Jamaica",
+        "Beneficiary communities haven't been chosen yet; a benefit concert is being planned"
+      ],
+      "perspectives": [],
+      "disputed": [],
+      "why": "A 50-year-old song of hope is being put to work helping people rebuild, and you can stream or download it now.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 1,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Jamaica Observer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Ras Michael revives ‘None a Jah Jah Children No Cry’ for Hurricane Melissa relief",
+          "url": "https://www.jamaicaobserver.com/2026/11/27/ras-michael-revives-none-jah-jah-children-no-cry-hurricane-melissa-relief/",
+          "published": "2026-11-27T22:28:58+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [],
+  "balance": {
+    "left": 1,
+    "center": 12,
+    "right": 0
+  },
+  "stats": {
+    "articles": 197,
+    "stories_found": 177,
+    "sources_ok": 23,
+    "sources_total": 26,
+    "failed": [
+      "Radio Jamaica News",
+      "Nationwide News Network (Jamaica)",
+      "Positive News"
+    ]
+  }
+}

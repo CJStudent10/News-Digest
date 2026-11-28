@@ -1,0 +1,641 @@
+{
+  "title": "My Daily Brief",
+  "edition": "Evening",
+  "generated_at": "2026-11-28T04:17:06.774071+00:00",
+  "local_time": "Friday, November 27, 2026 · 11:17 PM EST",
+  "local_date": "Nov 27, 2026",
+  "slug": "2026-11-27-2317-evening",
+  "mode": "ai",
+  "style": "balanced",
+  "profile": "main",
+  "overview": "This edition is led by a US strike that disabled another merchant ship trying to leave an Iranian port during the American blockade, and by Canada's Supreme Court largely upholding Quebec's ban on religious symbols for public servants. Other stories include a reported breach of the US Air Force's main cloud platform, OpenAI's countersuit against Apple, Taiwan's local elections, Black Friday shopping, Nvidia's reinstated CEO, and South Korean AI and data-breach news. Local items cover the end of North Carolina's gas tax suspension.",
+  "stories": [
+    {
+      "id": "s1",
+      "headline": "US military disables ship leaving Iranian port, citing blockade",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "US Central Command said a US aircraft fired \"precision munitions\" at the stern of the Palau-flagged Pacific Archer in the Gulf of Oman on Thursday, disabling its propulsion after it left Bandar Abbas. CENTCOM said the civilian crew was unharmed and that the ship had ignored multiple warnings. The US has blockaded Iranian ports during a war that began in February, and the blockade resumed in July after talks with Tehran collapsed. Iran's navy commander vowed to break the blockade. Separately, Kuwait summoned Iran's ambassador after a drone strike killed two Italian technicians, which Iran denies carrying out.",
+      "key_facts": [
+        "CENTCOM says the blockade has redirected 158 ships and disabled six since it resumed in July.",
+        "The Pacific Archer left Bandar Abbas; ship-tracking sites listed Singapore as its destination.",
+        "AP reports it is at least the 15th disclosed vessel disabled since the blockade began in the spring.",
+        "A drone strike at a Kuwaiti military site killed two Rheinmetall Italia technicians; Iran denied responsibility."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "PBS (AP) gave wider context: Trump wavering between threats and calling the war 'effectively over,' Netanyahu reportedly pushing to restart strikes, regional diplomacy to prevent renewed war, and a June strike that killed three Indian sailors and drew UN maritime agency condemnation. Al Jazeera noted Tehran's vow to break the blockade and a reported $2 billion operating cost."
+        },
+        {
+          "lean": "center",
+          "framing": "DW and The Hill relied mainly on CENTCOM's statement. DW paired the strike with Kuwait's summons of Iran's envoy and UN chief Guterres's call for restraint."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox News stressed the Thanksgiving timing and a military video of the strike. It featured Trump's remarks to troops that victory would come 'whenever I want it' and that Iran will 'never have a nuclear weapon,' plus his comments on possible strikes on 'Pickaxe Mountain.'"
+        }
+      ],
+      "disputed": [
+        "The sources give different start dates for the blockade: Fox says it has been in effect since mid-July, while AP says it began in April, paused during talks and resumed in July.",
+        "Iran's Revolutionary Guard claims one tanker hit a mine in the Strait of Hormuz; this was not independently verified.",
+        "Responsibility for the Kuwait drone strike: Kuwait blamed Iran, and Iran denies it.",
+        "The $2 billion cost figure is reported by Al Jazeera only."
+      ],
+      "why": "Each enforcement action risks escalation in a stalled war that affects global shipping and energy markets.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US disables ship in Gulf of Oman under Iran blockade",
+          "url": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-27T23:17:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+          "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports",
+          "published": "2026-11-27T19:39:21+00:00"
+        },
+        {
+          "source": "Fox News (World)",
+          "lean": "right",
+          "bucket": "right",
+          "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
+          "url": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
+          "published": "2026-11-27T18:48:07+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Military says it disabled vessel that ‘attempted to run the U.S. naval blockade’ against Iran",
+          "url": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/",
+          "published": "2026-11-27T17:39:02+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "US disables ship attempting to breach Iran blockade",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade",
+          "published": "2026-11-27T23:55:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "headline": "Canada's Supreme Court largely upholds Quebec's religious symbols ban",
+      "topics": [
+        "US Headlines"
+      ],
+      "summary": "In a ruling on Friday, Canada's Supreme Court upheld most of Quebec's Bill 21. The 2019 law bars public employees such as teachers, police and judges from wearing religious symbols at work and is shielded by the constitution's notwithstanding clause. Chief Justice Richard Wagner wrote that the law is rooted in Quebec's 'legitimate and historical commitment' to secularism. The court found that the ban on elected officials covering their faces infringes democratic rights, and it said courts can still declare whether a law violates the Charter even when the clause is used. Quebec's leaders called the ruling a victory; Muslim and Sikh groups condemned it, and Prime Minister Mark Carney said his government would study its implications.",
+      "key_facts": [
+        "The Guardian describes the ruling as 6-1, while BBC says three justices dissented on parts of the decision.",
+        "Bill 21 was passed in 2019 and covers hijabs, turbans, kippahs and crosses.",
+        "Use of the notwithstanding clause must be renewed every five years.",
+        "Fifty-one interveners took part, including a record six attorneys general (per the Guardian)."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and PBS (AP) presented the case as a tension between minority rights and government power. They quoted critics at length, including the National Council of Canadian Muslims, the World Sikh Organization and Manitoba Premier Wab Kinew. They also included Carney's 'Canada is a mosaic' remarks and Quebec Premier St-Pierre Plamondon's praise of the ruling."
+        },
+        {
+          "lean": "center",
+          "framing": "BBC and DW covered the legal details and the partial dissents, quoting critics who called it discriminatory and 'Islamophobia as a state policy.' DW also included the CAQ's claim of 'victory for the Quebec nation.'"
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner (lean-right) called it a 'major victory' for Quebec's secularism policy and noted the law applies to Muslim, Sikh, Jewish and Christian symbols alike. Its excerpt is brief."
+        }
+      ],
+      "disputed": [
+        "The split among judges is reported differently: the Guardian says 6-1, while BBC names three justices who dissented on parts of the ruling.",
+        "It is not yet clear what the federal government will do in response, or how other provinces will use the notwithstanding clause after the ruling."
+      ],
+      "why": "The ruling sets how far Canadian governments can override Charter rights, with effects well beyond Quebec.",
+      "coverage": {
+        "left": 2,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 5,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BBC News (World)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T16:53:46+00:00"
+        },
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+          "published": "2026-11-27T16:13:07+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Canadian Supreme Court largely upholds Quebec’s ban on religious symbols for public sector workers",
+          "url": "https://www.washingtonexaminer.com/news/world/4816704/canada-supreme-court-upholds-quebec-ban-religious-symbols-public-workers/",
+          "published": "2026-11-27T22:49:45+00:00"
+        },
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+          "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-27T20:43:00+00:00"
+        },
+        {
+          "source": "PBS NewsHour",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+          "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+          "published": "2026-11-27T20:48:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "headline": "Reuters reports breach of US Air Force Cloud One platform",
+      "topics": [
+        "AI & Cybersecurity",
+        "US Headlines"
+      ],
+      "summary": "Reuters, citing sources, reported that hackers breached the Air Force's Cloud One cloud platform. The intrusion was discovered within the past month during an upgrade. Cloud One hosts applications for personnel, logistics and maintenance, and the attackers, the scope of the breach and any data theft are unknown. The Air Force declined to comment, and US Cyber Command has reportedly been called in. The report follows recently disclosed incidents at the FBI, CIA and Treasury's FinCEN.",
+      "key_facts": [
+        "Cloud One was launched in 2017 and serves Defense Department agencies.",
+        "The Air Force said it does not comment on the security of specific systems.",
+        "The FBI's crime database (NCIC) breach was revealed on November 21."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "BleepingComputer, WBTV and The Hill placed the breach in a wave of federal incidents. BleepingComputer highlighted an FBI warning about the AI-powered ARTEX hacking tool and noted it is unclear whether the breaches are connected."
+        },
+        {
+          "lean": "right",
+          "framing": "The Daily Caller stressed the severity, citing a source who said 'a breach here is a big deal' and reports that hackers reached the control plane. It included Bessent and DNI Clayton saying recent outages stemmed from upgrades and were not coordinated or state-sponsored."
+        }
+      ],
+      "disputed": [
+        "Who the attackers are and whether any data was stolen are unknown.",
+        "Reports that hackers reached the control plane come from Reuters sources and are unconfirmed.",
+        "Officials say recent outages were not coordinated or state-sponsored; it is unclear how this applies to the Air Force breach."
+      ],
+      "why": "A compromise of a core military cloud system could expose operational data and adds to concern about the security of federal systems.",
+      "coverage": {
+        "left": 0,
+        "center": 3,
+        "right": 1
+      },
+      "n_outlets": 4,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "BleepingComputer",
+          "lean": "center",
+          "bucket": "center",
+          "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+          "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+          "published": "2026-11-27T15:09:40+00:00"
+        },
+        {
+          "source": "The Daily Caller",
+          "lean": "right",
+          "bucket": "right",
+          "title": "One Of The US Military’s Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel",
+          "url": "https://dailycaller.com/2026/11/27/us-air-force-cloud-one-system-report-reuters-hack-sensitive-intel-exposed-munitions-aircraft",
+          "published": "2026-11-27T15:57:09+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hackers breach US Air Force computing platform, reports say",
+          "url": "https://www.wbtv.com/2026/11/27/hackers-breach-us-air-force-computing-platform-reports-say/",
+          "published": "2026-11-27T17:33:53+00:00"
+        },
+        {
+          "source": "The Hill",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Hackers break into US Air Force cloud computing platform: Report",
+          "url": "https://thehill.com/policy/defense/6245197-air-force-cloud-one-hack/",
+          "published": "2026-11-27T13:54:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "headline": "OpenAI countersues Apple, alleging theft of trade secrets",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "OpenAI filed counterclaims in federal court in northern California on Friday. It alleges that Apple obtained its confidential hardware information by rehiring a former employee who worked at OpenAI for six months, and that Apple discouraged suppliers from working with OpenAI. The filing also claims Apple's employment practices 'trap' and monitor departing employees. Apple called the counterclaims 'a transparent attempt to distract' from its own July lawsuit accusing OpenAI and two former Apple staff of misappropriating trade secrets. OpenAI denies Apple's allegations.",
+      "key_facts": [
+        "Apple sued OpenAI, Tang Tan and Chang Liu in July.",
+        "OpenAI says 400 employees have left Apple for OpenAI.",
+        "OpenAI acquired the device startup io Products in 2025."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "The Guardian and Al Jazeera presented the case as part of an intensifying AI device race. They detailed OpenAI's allegations and, in the Guardian's case, Apple's denial."
+        },
+        {
+          "lean": "right",
+          "framing": "The Washington Examiner (lean-right) called it an escalating battle between tech giants and focused on the allegation that the employee took dozens of confidential documents. Its excerpt is brief."
+        }
+      ],
+      "disputed": [
+        "Both companies accuse each other of trade secret theft; none of the claims has been tested in court."
+      ],
+      "why": "The outcome could shape competition over the next generation of AI consumer devices.",
+      "coverage": {
+        "left": 2,
+        "center": 0,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Guardian (World)",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+          "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+          "published": "2026-11-27T23:28:50+00:00"
+        },
+        {
+          "source": "Washington Examiner",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+          "url": "https://www.washingtonexaminer.com/news/business/4816737/openai-countersues-apple-allegedly-stealing-trade-secrets/",
+          "published": "2026-11-28T00:03:42+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up",
+          "published": "2026-11-27T20:40:51+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "headline": "Black Friday shoppers turn out in Charlotte and nationwide despite cold",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "Shoppers lined up from 3 a.m. at Charlotte Premium Outlets and big-box stores. Retailers reported strong traffic, including more Gen Z shoppers in person. WalletHub estimates Charlotte-area holiday spending will run about 4% above the national average. The National Retail Federation forecasts holiday sales will rise 4.2% to about $1.01 trillion, though shoppers cited higher costs and budget caution.",
+      "key_facts": [
+        "NRF projects holiday sales of $1.01 trillion, up 4.2%.",
+        "US inflation is at 3.8%.",
+        "NRF says 82% of shoppers are taking steps to control costs."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "WSOC and WBTV focused on local tradition, the cold and crowds, with WBTV highlighting families describing hard times."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business centred Walmart executives describing 'resilient' customers and AI shopping tools, while noting shoppers' cost-of-living concerns and that higher prices account for part of the sales growth."
+        }
+      ],
+      "disputed": [],
+      "why": "Holiday spending is a key indicator of consumer health amid high inflation.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 1
+      },
+      "n_outlets": 3,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "WSOC-TV (ABC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Black Friday shoppers brave cold weather in search of deals",
+          "url": "https://www.wsoctv.com/news/local/black-friday-still-draws-crowds-age-online-shopping/FP5YIPUPXVCGRPG2ILABMFX75U/",
+          "published": "2026-11-27T15:40:31+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Black Friday shoppers brave early lines, packed aisles to score in-store deals",
+          "url": "https://www.foxbusiness.com/lifestyle/black-friday-shoppers-brave-early-lines-packed-aisles-score-in-store-deals",
+          "published": "2026-11-27T21:22:33+00:00"
+        },
+        {
+          "source": "WBTV (CBS Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Black Friday shoppers brave cold temperatures to cash in on holiday deals",
+          "url": "https://www.wbtv.com/2026/11/27/black-friday-shoppers-brave-cold-temperatures-cash-holiday-deals/",
+          "published": "2026-11-27T16:16:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "headline": "Nvidia's reinstated CEO lifts stocks briefly and raises 'key-man risk' questions",
+      "topics": [
+        "AI & Cybersecurity"
+      ],
+      "summary": "Jensen Huang returned as Nvidia CEO on November 23, after resigning on November 12. Nvidia shares jumped more than 31% the next day before falling back. Trump told CNBC he intervened directly with Nvidia's board. The rally faded amid hot inflation data and expectations that the Fed will raise rates. Analysts debated whether the reversal shows tech founders are seen as irreplaceable.",
+      "key_facts": [
+        "The Nasdaq rose 6.6% for the week.",
+        "October PCE inflation was 3.8%.",
+        "CME FedWatch shows a 98% chance of a December rate hike.",
+        "CrowdStrike agreed to buy Zscaler for about $44 billion."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "CNBC framed the story through markets and its investing club portfolio, noting continued AI stock weakness."
+        },
+        {
+          "lean": "right",
+          "framing": "Fox Business focused on governance and succession planning, quoting analysts who called Huang irreplaceable and others who said the board failed at succession."
+        }
+      ],
+      "disputed": [
+        "Accounts differ on why Huang resigned: CNBC cites an affair scandal involving an alleged Chinese spy, while Fox Business cites reports of extramarital affairs.",
+        "How much US government input shaped the board's reversal is unclear."
+      ],
+      "why": "Nvidia's leadership matters to the AI-driven stock market and to US-China tech tensions.",
+      "coverage": {
+        "left": 0,
+        "center": 1,
+        "right": 1
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "CNBC",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+          "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+          "published": "2026-11-27T18:46:20+00:00"
+        },
+        {
+          "source": "Fox Business",
+          "lean": "lean-right",
+          "bucket": "right",
+          "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
+          "url": "https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate",
+          "published": "2026-11-27T15:06:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "headline": "Taiwan holds local elections seen as a test before 2028",
+      "topics": [
+        "Asia Business & Politics"
+      ],
+      "summary": "Taiwan voted Saturday for mayors and other local officials across 22 cities and counties. The key race is in Taipei, where KMT incumbent Chiang Wan-an faces the DPP's Puma Shen, whom Chinese police say is wanted for 'separatism.' The campaigns focused on local issues, but Taiwan warned of Chinese disinformation and reported Chinese military flights near the island. Analysts say the results may shape the KMT's 2028 presidential pick.",
+      "key_facts": [
+        "About 11,000 positions are being contested.",
+        "In the last local elections, the KMT won 14 cities and counties and the DPP won five.",
+        "Taiwan reported some 33 Chinese military sorties toward the island between Friday and Saturday."
+      ],
+      "perspectives": [
+        {
+          "lean": "left",
+          "framing": "Al Jazeera emphasised the competitiveness of the races, Chinese military activity and the Mainland Affairs Council's warnings about 'cognitive warfare.'"
+        },
+        {
+          "lean": "center",
+          "framing": "DW gave similar coverage, focusing on Beijing's interest in the vote and on the KMT's leadership prospects."
+        }
+      ],
+      "disputed": [
+        "The results were not yet known at the time of reporting."
+      ],
+      "why": "The outcome may signal political momentum on Taiwan's relationship with China.",
+      "coverage": {
+        "left": 1,
+        "center": 1,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Deutsche Welle",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Polls open in Taiwan's closely watched local elections",
+          "url": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+          "published": "2026-11-28T02:37:00+00:00"
+        },
+        {
+          "source": "Al Jazeera English",
+          "lean": "lean-left",
+          "bucket": "left",
+          "title": "Taiwan votes in local elections to choose mayors, other leaders",
+          "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders",
+          "published": "2026-11-28T02:05:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "headline": "South Korea breaks ground on 2.4-gigawatt AI data center",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea",
+        "US Headlines",
+        "Asia Business & Politics"
+      ],
+      "summary": "President Lee Jae Myung attended a groundbreaking ceremony for GS Group's AI data center campus in Donghae, Gangwon province. It is one of three government megaprojects announced in June. The presidential office called it Asia's largest planned AI infrastructure facility.",
+      "key_facts": [
+        "The campus is planned at 2.4 gigawatts.",
+        "Lee visited SK Group's AI data center site in Ulsan last week."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Yonhap and the Korea Herald carried the same report, relying on statements from the presidential office."
+        }
+      ],
+      "disputed": [],
+      "why": "It shows South Korea's push to build large-scale AI infrastructure.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lee attends groundbreaking ceremony for major AI data center in Gangwon",
+          "url": "https://en.yna.co.kr/view/AEN20261128001500315",
+          "published": "2026-11-28T02:55:02+00:00"
+        },
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Lee attends groundbreaking ceremony for major AI data center in Gangwon",
+          "url": "https://www.koreaherald.com/article/10952421",
+          "published": "2026-11-28T03:06:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "headline": "Korea Post data breach exposes data of at least 113,855 customers",
+      "topics": [
+        "AI & Cybersecurity",
+        "Korea"
+      ],
+      "summary": "Korea Post said hackers using overseas IP addresses accessed its mobile delivery-location change feature. They viewed the names, addresses and phone numbers of registered mail recipients between November 17 and 24. The figure of 113,855 comes from analysing just one day of data, so the full scope is still unknown. The service suspended the affected features, blocked overseas access and reported the incident to police and the privacy regulator.",
+      "key_facts": [
+        "The breach was detected Wednesday at about 10:30 a.m.",
+        "Korea Post President Park In-hwan apologised.",
+        "The breach follows a leak at KEPCO affecting about 1.52 million people."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "The Korea Herald and Yonhap reported Korea Post's account and its remedial steps; Yonhap linked it to a wider series of breaches."
+        }
+      ],
+      "disputed": [
+        "The full number of people affected and who carried out the attack are unknown."
+      ],
+      "why": "Affected customers face phishing risk, and the breach adds to concerns about public-sector cybersecurity.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "The Korea Herald",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Korea Post confirms data breach affecting at least 113,000 customers",
+          "url": "https://www.koreaherald.com/article/10952405",
+          "published": "2026-11-28T02:13:20+00:00"
+        },
+        {
+          "source": "Yonhap News (English)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "Internet Post Office hacked; personal data of at least 113,000 customers leaked",
+          "url": "https://en.yna.co.kr/view/AEN20261128001400315",
+          "published": "2026-11-28T02:38:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "headline": "North Carolina gas tax suspension set to end",
+      "topics": [
+        "Charlotte Local"
+      ],
+      "summary": "North Carolina's temporary gas tax suspension, approved in October, is nearing its end, which WCNC reports will raise prices by 41 cents per gallon. A lawmaker is considering extending it through the holidays.",
+      "key_facts": [
+        "The General Assembly suspended the tax in October.",
+        "Prices are expected to rise 41 cents per gallon when it ends."
+      ],
+      "perspectives": [
+        {
+          "lean": "center",
+          "framing": "Queen City News and WCNC focused on the cost to drivers and businesses, such as a local moving company owner."
+        }
+      ],
+      "disputed": [
+        "Whether the suspension will be extended is undecided."
+      ],
+      "why": "Fuel costs will rise noticeably for North Carolina drivers.",
+      "coverage": {
+        "left": 0,
+        "center": 2,
+        "right": 0
+      },
+      "n_outlets": 2,
+      "blindspot": null,
+      "links": [
+        {
+          "source": "Queen City News (FOX 46)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC gas tax break set to expire; lawmaker considers extending it through the holidays",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/nc-gas-tax-break-set-to-expire-lawmaker-considers-extending-it-through-the-holidays/",
+          "published": "2026-11-28T01:44:26+00:00"
+        },
+        {
+          "source": "WCNC (NBC Charlotte)",
+          "lean": "center",
+          "bucket": "center",
+          "title": "NC gas prices to rise 41 cents per gallon as tax suspension set to end",
+          "url": "https://www.wcnc.com/article/traffic/gas-prices/nc-gas-prices-to-rise-41-cents-per-gallon/275-c85dcf8c-c8d5-41a3-b97a-e067770983be",
+          "published": "2026-11-28T00:39:15+00:00"
+        }
+      ]
+    }
+  ],
+  "investigations": [
+    {
+      "id": "example-ai-regulation",
+      "question": "What is happening with AI regulation in the US and EU?",
+      "issue_number": null,
+      "status": "no_new_developments",
+      "update": "None of this edition's articles address AI regulation in the US or EU.",
+      "links": []
+    }
+  ],
+  "balance": {
+    "left": 7,
+    "center": 17,
+    "right": 6
+  },
+  "stats": {
+    "articles": 383,
+    "stories_found": 296,
+    "sources_ok": 39,
+    "sources_total": 39,
+    "failed": []
+  }
+}

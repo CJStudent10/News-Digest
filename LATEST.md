@@ -1,264 +1,262 @@
-# My Daily Brief: Midday edition
-_Friday, November 27, 2026 · 3:20 PM EST · 436 articles from 39 outlets · summaries by Claude_
+# My Daily Brief: Evening edition
+_Friday, November 27, 2026 · 11:17 PM EST · 383 articles from 39 outlets · summaries by Claude_
 
-> This edition is dominated by a reported breach of the US Air Force's Cloud One platform, the latest in a string of disclosed intrusions at federal agencies, alongside a US strike disabling another ship trying to run the Iran blockade and widespread storm damage over Thanksgiving. Also covered: Jensen Huang's return to Nvidia and market jitters, India-US trade talks, Black Friday in Charlotte, and several Korean political and business stories.
+> This edition is led by a US strike that disabled another merchant ship trying to leave an Iranian port during the American blockade, and by Canada's Supreme Court largely upholding Quebec's ban on religious symbols for public servants. Other stories include a reported breach of the US Air Force's main cloud platform, OpenAI's countersuit against Apple, Taiwan's local elections, Black Friday shopping, Nvidia's reinstated CEO, and South Korean AI and data-breach news. Local items cover the end of North Carolina's gas tax suspension.
 
 
-**Sources linked in this edition:** 5 left · 20 center · 7 right
+**Sources linked in this edition:** 7 left · 17 center · 6 right
 
 ---
 
-## 1. Hackers reportedly breach US Air Force's Cloud One platform
-`AI & Cybersecurity` · Covered by 6 outlets (L 1 · C 3 · R 2)
+## 1. US military disables ship leaving Iranian port, citing blockade
+`AI & Cybersecurity` · Covered by 5 outlets (L 2 · C 2 · R 1)
 
-Reuters reported that hackers breached the US Air Force's Cloud One cloud computing platform. The intrusion was reportedly discovered within the past month during a system upgrade and caused disruption across the platform. Sources could not establish who the hackers were, how far the intrusion went, or whether data was stolen; BleepingComputer reported that US Cyber Command was called in to assess the impact. The Air Force declined to comment on specific systems. The report follows a series of recently disclosed breaches at the FBI, CIA and ODNI, Treasury's FinCEN, DHS and the Pentagon, and it is unclear whether any are connected.
+US Central Command said a US aircraft fired "precision munitions" at the stern of the Palau-flagged Pacific Archer in the Gulf of Oman on Thursday, disabling its propulsion after it left Bandar Abbas. CENTCOM said the civilian crew was unharmed and that the ship had ignored multiple warnings. The US has blockaded Iranian ports during a war that began in February, and the blockade resumed in July after talks with Tehran collapsed. Iran's navy commander vowed to break the blockade. Separately, Kuwait summoned Iran's ambassador after a drone strike killed two Italian technicians, which Iran denies carrying out.
 
 **Key facts**
-- Cloud One was launched in 2017 and uses Microsoft, Amazon, Oracle and Alphabet cloud services.
-- It supports personnel, logistics and maintenance applications, plus a munitions-tracking system covering more than 200 locations.
-- "A breach here is a big deal," one source told Reuters.
-- The Air Force said it "does not comment on the security posture, vulnerabilities or operational status of specific networks and systems."
+- CENTCOM says the blockade has redirected 158 ships and disabled six since it resumed in July.
+- The Pacific Archer left Bandar Abbas; ship-tracking sites listed Singapore as its destination.
+- AP reports it is at least the 15th disclosed vessel disabled since the blockade began in the spring.
+- A drone strike at a Kuwaiti military site killed two Rheinmetall Italia technicians; Iran denied responsibility.
 
 **How it's being framed**
-- **Left:** The Guardian placed the breach in a broader pattern of federal hacks, citing a Pentagon personnel breach affecting about 2.76 million living people, and included ODNI's statement that critical and classified systems were not disrupted.
-- **Center:** BleepingComputer focused on technical context, listing the other recent federal breaches and highlighting an FBI warning about the AI-powered ARTEX hacking framework reportedly used in the CIA breach. The Hill and WBTV gave short, straightforward accounts sourced to Reuters.
-- **Right:** Fox News stressed the string of breaches across DHS, Treasury, the FBI and the NSA, and pointed to Cloud One leadership's 2023 claim of a 100% success rate against intrusions. The Daily Caller stressed that hackers could theoretically monitor military assets, and quoted Treasury Secretary Bessent and DNI Jay Clayton saying recent outages stemmed from system upgrades and were not coordinated or state-sponsored.
+- **Left:** PBS (AP) gave wider context: Trump wavering between threats and calling the war 'effectively over,' Netanyahu reportedly pushing to restart strikes, regional diplomacy to prevent renewed war, and a June strike that killed three Indian sailors and drew UN maritime agency condemnation. Al Jazeera noted Tehran's vow to break the blockade and a reported $2 billion operating cost.
+- **Center:** DW and The Hill relied mainly on CENTCOM's statement. DW paired the strike with Kuwait's summons of Iran's envoy and UN chief Guterres's call for restraint.
+- **Right:** Fox News stressed the Thanksgiving timing and a military video of the strike. It featured Trump's remarks to troops that victory would come 'whenever I want it' and that Iran will 'never have a nuclear weapon,' plus his comments on possible strikes on 'Pickaxe Mountain.'
 
 **Disputed or unclear**
-- The identity of the hackers, the scope of the intrusion and whether any data was stolen are unknown.
-- Outlets cite two or three Reuters sources, depending on the report.
-- Whether the recent federal breaches are connected is unclear; DNI Clayton said recent incidents were not coordinated or state-sponsored.
-- BleepingComputer's report that the CIA breach used the ARTEX AI tool is unconfirmed by other outlets here.
+- The sources give different start dates for the blockade: Fox says it has been in effect since mid-July, while AP says it began in April, paused during talks and resumed in July.
+- Iran's Revolutionary Guard claims one tanker hit a mine in the Strait of Hormuz; this was not independently verified.
+- Responsibility for the Kuwait drone strike: Kuwait blamed Iran, and Iran denies it.
+- The $2 billion cost figure is reported by Al Jazeera only.
 
-**Why it matters:** A breach of a core military IT hub, added to a run of federal intrusions, raises questions about how secure US government systems are.
+**Why it matters:** Each enforcement action risks escalation in a stalled war that affects global shipping and energy markets.
+
+**Read it yourself:**
+- [Deutsche Welle](https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf) (center): US disables ship in Gulf of Oman under Iran blockade
+- [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports) (lean-left): U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports
+- [Fox News (World)](https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day) (right): US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day
+- [The Hill](https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/) (center): Military says it disabled vessel that ‘attempted to run the U.S. naval blockade’ against Iran
+- [Al Jazeera English](https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade) (lean-left): US disables ship attempting to breach Iran blockade
+
+
+## 2. Canada's Supreme Court largely upholds Quebec's religious symbols ban
+`US Headlines` · Covered by 5 outlets (L 2 · C 2 · R 1)
+
+In a ruling on Friday, Canada's Supreme Court upheld most of Quebec's Bill 21. The 2019 law bars public employees such as teachers, police and judges from wearing religious symbols at work and is shielded by the constitution's notwithstanding clause. Chief Justice Richard Wagner wrote that the law is rooted in Quebec's 'legitimate and historical commitment' to secularism. The court found that the ban on elected officials covering their faces infringes democratic rights, and it said courts can still declare whether a law violates the Charter even when the clause is used. Quebec's leaders called the ruling a victory; Muslim and Sikh groups condemned it, and Prime Minister Mark Carney said his government would study its implications.
+
+**Key facts**
+- The Guardian describes the ruling as 6-1, while BBC says three justices dissented on parts of the decision.
+- Bill 21 was passed in 2019 and covers hijabs, turbans, kippahs and crosses.
+- Use of the notwithstanding clause must be renewed every five years.
+- Fifty-one interveners took part, including a record six attorneys general (per the Guardian).
+
+**How it's being framed**
+- **Left:** The Guardian and PBS (AP) presented the case as a tension between minority rights and government power. They quoted critics at length, including the National Council of Canadian Muslims, the World Sikh Organization and Manitoba Premier Wab Kinew. They also included Carney's 'Canada is a mosaic' remarks and Quebec Premier St-Pierre Plamondon's praise of the ruling.
+- **Center:** BBC and DW covered the legal details and the partial dissents, quoting critics who called it discriminatory and 'Islamophobia as a state policy.' DW also included the CAQ's claim of 'victory for the Quebec nation.'
+- **Right:** The Washington Examiner (lean-right) called it a 'major victory' for Quebec's secularism policy and noted the law applies to Muslim, Sikh, Jewish and Christian symbols alike. Its excerpt is brief.
+
+**Disputed or unclear**
+- The split among judges is reported differently: the Guardian says 6-1, while BBC names three justices who dissented on parts of the ruling.
+- It is not yet clear what the federal government will do in response, or how other provinces will use the notwithstanding clause after the ruling.
+
+**Why it matters:** The ruling sets how far Canadian governments can override Charter rights, with effects well beyond Quebec.
+
+**Read it yourself:**
+- [BBC News (World)](https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss) (center): Canada's top court largely upholds Quebec ban on religious symbols for public servants
+- [The Guardian (World)](https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols) (lean-left): Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols
+- [Washington Examiner](https://www.washingtonexaminer.com/news/world/4816704/canada-supreme-court-upholds-quebec-ban-religious-symbols-public-workers/) (lean-right): Canadian Supreme Court largely upholds Quebec’s ban on religious symbols for public sector workers
+- [Deutsche Welle](https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf) (center): Canada: Supreme Court largely upholds Quebec secularism bill
+- [PBS NewsHour](https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants) (lean-left): Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants
+
+
+## 3. Reuters reports breach of US Air Force Cloud One platform
+`AI & Cybersecurity` `US Headlines` · Covered by 4 outlets (L 0 · C 3 · R 1)
+
+Reuters, citing sources, reported that hackers breached the Air Force's Cloud One cloud platform. The intrusion was discovered within the past month during an upgrade. Cloud One hosts applications for personnel, logistics and maintenance, and the attackers, the scope of the breach and any data theft are unknown. The Air Force declined to comment, and US Cyber Command has reportedly been called in. The report follows recently disclosed incidents at the FBI, CIA and Treasury's FinCEN.
+
+**Key facts**
+- Cloud One was launched in 2017 and serves Defense Department agencies.
+- The Air Force said it does not comment on the security of specific systems.
+- The FBI's crime database (NCIC) breach was revealed on November 21.
+
+**How it's being framed**
+- **Center:** BleepingComputer, WBTV and The Hill placed the breach in a wave of federal incidents. BleepingComputer highlighted an FBI warning about the AI-powered ARTEX hacking tool and noted it is unclear whether the breaches are connected.
+- **Right:** The Daily Caller stressed the severity, citing a source who said 'a breach here is a big deal' and reports that hackers reached the control plane. It included Bessent and DNI Clayton saying recent outages stemmed from upgrades and were not coordinated or state-sponsored.
+
+**Disputed or unclear**
+- Who the attackers are and whether any data was stolen are unknown.
+- Reports that hackers reached the control plane come from Reuters sources and are unconfirmed.
+- Officials say recent outages were not coordinated or state-sponsored; it is unclear how this applies to the Air Force breach.
+
+**Why it matters:** A compromise of a core military cloud system could expose operational data and adds to concern about the security of federal systems.
 
 **Read it yourself:**
 - [BleepingComputer](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/) (center): US Air Force cloud platform reportedly hacked in latest federal breach
-- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing) (lean-left): Hackers reportedly breach US air force’s flagship cloud computing platform
-- [Fox News](https://www.foxnews.com/us/hackers-breach-air-force-flagship-cloud-computing-platform-report-says) (right): Hackers breach Air Force's flagship cloud computing platform, report says
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/27/hackers-breach-us-air-force-computing-platform-reports-say/) (center): Hackers breach US Air Force computing platform, reports say
 - [The Daily Caller](https://dailycaller.com/2026/11/27/us-air-force-cloud-one-system-report-reuters-hack-sensitive-intel-exposed-munitions-aircraft) (right): One Of The US Military’s Largest Cloud Computing Systems Was Hacked, Potentially Exposing Sensitive Intel
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/27/hackers-breach-us-air-force-computing-platform-reports-say/) (center): Hackers breach US Air Force computing platform, reports say
 - [The Hill](https://thehill.com/policy/defense/6245197-air-force-cloud-one-hack/) (center): Hackers break into US Air Force cloud computing platform: Report
 
 
-## 2. US military disables another ship trying to run Iran port blockade
-`AI & Cybersecurity` · Covered by 4 outlets (L 1 · C 1 · R 2)
+## 4. OpenAI countersues Apple, alleging theft of trade secrets
+`AI & Cybersecurity` · Covered by 3 outlets (L 2 · C 0 · R 1)
 
-US Central Command said an American aircraft fired precision munitions at the Palau-flagged M/V Pacific Archer in the Gulf of Oman on Thursday after it left Bandar Abbas and tried to run the blockade of Iranian ports despite multiple warnings. CENTCOM said the ship's propulsion was disabled and the civilian crew was unharmed. The strike comes as the Trump administration weighs its options in a war with Iran that has largely stalled into a stalemate. President Trump said victory would come "whenever I want it" and that a deal with Iran was unlikely.
-
-**Key facts**
-- The strike took place on Nov. 26 in the Gulf of Oman.
-- CENTCOM says 158 merchant ships have been redirected; the AP counts the Pacific Archer as at least the 15th vessel disabled since spring and the sixth since the blockade resumed.
-- The civilian crew was unharmed, according to CENTCOM.
-- In June, a strike on the tanker Settebello killed three Indian sailors, according to Indian officials.
-
-**How it's being framed**
-- **Left:** PBS/AP gave broad context: the stalemate, Israeli pressure to restart the war, Gulf diplomacy to prevent it, the earlier deadly strike and the UN maritime agency's condemnation of it, and unverified Iranian claims about tankers and mines.
-- **Center:** The Hill relayed CENTCOM's account, emphasising the multiple warnings given to the crew.
-- **Right:** Fox News paired the strike with Trump's Thanksgiving remarks to troops on victory, Iran never getting a nuclear weapon and possible strikes on 'Pickaxe Mountain'. The Washington Examiner ran CENTCOM's statement.
-
-**Disputed or unclear**
-- Iran's Revolutionary Guard claim that one tanker hit a naval mine could not be independently verified.
-- Fox describes the blockade as in effect since mid-July, while the AP says it began in April and resumed in July after a pause.
-
-**Why it matters:** Continued strikes on merchant ships affect global oil flows and the risk of the Iran war reigniting.
-
-**Read it yourself:**
-- [The Hill](https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/) (center): Military says it disabled vessel that ‘attempted to run the U.S. naval blockade’ against Iran
-- [PBS NewsHour](https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports) (lean-left): U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports
-- [Fox News](https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day) (right): US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day
-- [Washington Examiner](https://www.washingtonexaminer.com/news/world/4816605/us-strikes-commercial-ship-gulf-of-oman/) (lean-right): US strikes commercial ship in Gulf of Oman for attempting to run naval blockade after leaving Iran
-
-
-## 3. Hundreds of thousands without power after Thanksgiving storms hit both US coasts
-· Covered by 6 outlets (L 3 · C 2 · R 1)
-
-A powerful storm brought high winds, heavy rain and coastal flooding to the East Coast over Thanksgiving, while king tides caused flooding along the West Coast. Power outages peaked at roughly 900,000 to nearly a million customers on Thursday and fell to under 500,000 by Friday afternoon, with Pennsylvania and New Jersey hit hardest. Thousands of flights were delayed, and Macy's postponed its 100th Thanksgiving parade to Saturday, the first weather postponement in its history. Conditions are expected to improve over the weekend, though forecasters expect another storm system around Monday.
+OpenAI filed counterclaims in federal court in northern California on Friday. It alleges that Apple obtained its confidential hardware information by rehiring a former employee who worked at OpenAI for six months, and that Apple discouraged suppliers from working with OpenAI. The filing also claims Apple's employment practices 'trap' and monitor departing employees. Apple called the counterclaims 'a transparent attempt to distract' from its own July lawsuit accusing OpenAI and two former Apple staff of misappropriating trade secrets. OpenAI denies Apple's allegations.
 
 **Key facts**
-- New York's Central Park and Washington DC both had their wettest Thanksgiving on record, according to preliminary data.
-- More than 2,500 US flights were delayed and over 450 cancelled on Thursday, per FlightAware.
-- In Norfolk, Virginia, crews rescued 39 people.
-- Up to 15 inches of snow fell in eastern Missouri.
+- Apple sued OpenAI, Tang Tan and Chang Liu in July.
+- OpenAI says 400 employees have left Apple for OpenAI.
+- OpenAI acquired the device startup io Products in 2025.
 
 **How it's being framed**
-- **Left:** PBS/AP gave a detailed damage roundup, including rescues and collapsed roofs. The Guardian focused on king tides and linked them to a super El Niño. NPR bundled the storm with Black Friday spending and asylum policy.
-- **Center:** BBC and The Hill focused on outage numbers, travel disruption and record rainfall, and the BBC noted that Trump said he would consider releasing emergency funds.
-- **Right:** The Washington Examiner briefly reported continued flood warnings and more than 650,000 customers still without power.
+- **Left:** The Guardian and Al Jazeera presented the case as part of an intensifying AI device race. They detailed OpenAI's allegations and, in the Guardian's case, Apple's denial.
+- **Right:** The Washington Examiner (lean-right) called it an escalating battle between tech giants and focused on the allegation that the employee took dozens of confidential documents. Its excerpt is brief.
 
 **Disputed or unclear**
-- Outage counts vary by outlet and time of day, from about 480,000 to over 650,000 on Friday.
+- Both companies accuse each other of trade secret theft; none of the claims has been tested in court.
 
-**Why it matters:** The storms disrupted one of the busiest travel weekends of the year, and more bad weather is forecast.
+**Why it matters:** The outcome could shape competition over the next generation of AI consumer devices.
 
 **Read it yourself:**
-- [BBC News (US & Canada)](https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss) (center): Hundreds of thousands still without power after storms hit US on Thanksgiving
-- [NPR](https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court) (lean-left): Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels
-- [Washington Examiner](https://www.washingtonexaminer.com/news/4816469/storms-continue-thanksgiving-week-flooding/) (lean-right): Storms continue across the country amid Thanksgiving week flooding
-- [The Hill](https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/) (center): Thousands still without power after Thanksgiving storms
-- [PBS NewsHour](https://www.pbs.org/newshour/nation/heavy-rain-winds-down-as-power-remains-out-for-hundreds-of-thousands-on-the-east-coast) (lean-left): Parts of the U.S. clean up, power outages being restored after Thanksgiving storm soaks East Coast
-- [The Guardian (US)](https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations) (lean-left): King tides batter US coasts as storms threaten Thanksgiving celebrations
+- [The Guardian (World)](https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets) (lean-left): OpenAI countersues Apple for allegedly stealing trade secrets
+- [Washington Examiner](https://www.washingtonexaminer.com/news/business/4816737/openai-countersues-apple-allegedly-stealing-trade-secrets/) (lean-right): OpenAI countersues Apple for allegedly stealing trade secrets
+- [Al Jazeera English](https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up) (lean-left): OpenAI countersues Apple over trade secrets as AI race heats up
 
 
-## 4. Jensen Huang's return to Nvidia briefly lifts markets and prompts debate over key-person risk
+## 5. Black Friday shoppers turn out in Charlotte and nationwide despite cold
+`Charlotte Local` · Covered by 3 outlets (L 0 · C 2 · R 1)
+
+Shoppers lined up from 3 a.m. at Charlotte Premium Outlets and big-box stores. Retailers reported strong traffic, including more Gen Z shoppers in person. WalletHub estimates Charlotte-area holiday spending will run about 4% above the national average. The National Retail Federation forecasts holiday sales will rise 4.2% to about $1.01 trillion, though shoppers cited higher costs and budget caution.
+
+**Key facts**
+- NRF projects holiday sales of $1.01 trillion, up 4.2%.
+- US inflation is at 3.8%.
+- NRF says 82% of shoppers are taking steps to control costs.
+
+**How it's being framed**
+- **Center:** WSOC and WBTV focused on local tradition, the cold and crowds, with WBTV highlighting families describing hard times.
+- **Right:** Fox Business centred Walmart executives describing 'resilient' customers and AI shopping tools, while noting shoppers' cost-of-living concerns and that higher prices account for part of the sales growth.
+
+**Why it matters:** Holiday spending is a key indicator of consumer health amid high inflation.
+
+**Read it yourself:**
+- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/black-friday-still-draws-crowds-age-online-shopping/FP5YIPUPXVCGRPG2ILABMFX75U/) (center): Black Friday shoppers brave cold weather in search of deals
+- [Fox Business](https://www.foxbusiness.com/lifestyle/black-friday-shoppers-brave-early-lines-packed-aisles-score-in-store-deals) (lean-right): Black Friday shoppers brave early lines, packed aisles to score in-store deals
+- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/27/black-friday-shoppers-brave-cold-temperatures-cash-holiday-deals/) (center): Black Friday shoppers brave cold temperatures to cash in on holiday deals
+
+
+## 6. Nvidia's reinstated CEO lifts stocks briefly and raises 'key-man risk' questions
 `AI & Cybersecurity` · Covered by 2 outlets (L 0 · C 1 · R 1)
 
-Jensen Huang was reinstated as Nvidia CEO on Nov. 23, less than two weeks after resigning amid an affair scandal involving an alleged Chinese spy. CNBC reported that Trump said he intervened directly with Nvidia's board. Nvidia shares jumped more than 31% on Monday, but the rally faded as AI stocks slid, inflation came in at 3.8% and new tariffs were announced. Fox Business explored whether tech founders are seen as 'too big to fail' and whether Nvidia's board planned properly for succession.
+Jensen Huang returned as Nvidia CEO on November 23, after resigning on November 12. Nvidia shares jumped more than 31% the next day before falling back. Trump told CNBC he intervened directly with Nvidia's board. The rally faded amid hot inflation data and expectations that the Fed will raise rates. Analysts debated whether the reversal shows tech founders are seen as irreplaceable.
 
 **Key facts**
-- Huang resigned Nov. 12 and was reinstated Nov. 23.
-- The Nasdaq rose 6.35% Monday, its best session since April 2025.
-- October PCE inflation was 3.8%, with core inflation at 3.3%.
-- CrowdStrike agreed to buy Zscaler for about $44 billion in stock.
+- The Nasdaq rose 6.6% for the week.
+- October PCE inflation was 3.8%.
+- CME FedWatch shows a 98% chance of a December rate hike.
+- CrowdStrike agreed to buy Zscaler for about $44 billion.
 
 **How it's being framed**
-- **Center:** CNBC framed the story through markets and its own portfolio, noting Trump's claimed intervention and the remaining risks to AI stocks.
-- **Right:** Fox Business focused on governance, quoting analysts who called Huang irreplaceable and others who criticised Nvidia's board for failing on succession planning.
+- **Center:** CNBC framed the story through markets and its investing club portfolio, noting continued AI stock weakness.
+- **Right:** Fox Business focused on governance and succession planning, quoting analysts who called Huang irreplaceable and others who said the board failed at succession.
 
 **Disputed or unclear**
-- The extent of government involvement in Huang's reinstatement rests on Trump's account and is not detailed further.
-- Details of the alleged spy scandal are not explained in these articles.
+- Accounts differ on why Huang resigned: CNBC cites an affair scandal involving an alleged Chinese spy, while Fox Business cites reports of extramarital affairs.
+- How much US government input shaped the board's reversal is unclear.
 
-**Why it matters:** Nvidia's leadership is closely tied to the AI trade and to broader market sentiment.
+**Why it matters:** Nvidia's leadership matters to the AI-driven stock market and to US-China tech tensions.
 
 **Read it yourself:**
 - [CNBC](https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html) (center): Jensen Huang's return did little to ease AI jitters. We used the weakness to buy
 - [Fox Business](https://www.foxbusiness.com/markets/tech-founders-too-big-fail-jensen-huangs-nvidia-return-sparks-debate) (lean-right): Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate
 
 
-## 5. India says trade deal with US is close after US sets tariff terms
-`US Headlines` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 1 · R 1)
+## 7. Taiwan holds local elections seen as a test before 2028
+`Asia Business & Politics` · Covered by 2 outlets (L 1 · C 1 · R 0)
 
-Indian Commerce Minister Piyush Goyal said a trade deal with the US is "close to culmination." His comments came after US Trade Representative Jamieson Greer said Indian goods would face 17% tariffs with a deal and up to 25% without one. The new tariffs face public consultation before taking effect next year. India's trade ministry said it told Washington it has no structural excess capacity in any industry.
+Taiwan voted Saturday for mayors and other local officials across 22 cities and counties. The key race is in Taipei, where KMT incumbent Chiang Wan-an faces the DPP's Puma Shen, whom Chinese police say is wanted for 'separatism.' The campaigns focused on local issues, but Taiwan warned of Chinese disinformation and reported Chinese military flights near the island. Analysts say the results may shape the KMT's 2028 presidential pick.
 
 **Key facts**
-- Tariffs would be 17% with a deal and up to 25% without one.
-- The two sides reached an interim accord in February.
-- The US is India's largest trading partner.
+- About 11,000 positions are being contested.
+- In the last local elections, the KMT won 14 cities and counties and the DPP won five.
+- Taiwan reported some 33 Chinese military sorties toward the island between Friday and Saturday.
 
 **How it's being framed**
-- **Center:** CNA outlined what each side wants: Indian access for textiles, pharmaceuticals and engineering goods, and US access for American products.
-- **Right:** The New York Post ran a similar account, adding India's response to the US excess-capacity investigation.
+- **Left:** Al Jazeera emphasised the competitiveness of the races, Chinese military activity and the Mainland Affairs Council's warnings about 'cognitive warfare.'
+- **Center:** DW gave similar coverage, focusing on Beijing's interest in the vote and on the KMT's leadership prospects.
 
 **Disputed or unclear**
-- The timing and final terms of any deal remain unknown.
+- The results were not yet known at the time of reporting.
 
-**Why it matters:** The deal would set tariff levels on trade between two major economies.
-
-**Read it yourself:**
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/india-us-trade-agreement-completion-6587096) (center): India-US trade agreement nearing completion, says commerce minister
-- [New York Post](https://nypost.com/2026/11/27/business/india-us-trade-deal-nearing-completion-minister-says/) (lean-right): India-US trade deal nearing completion, minister says
-
-
-## 6. Charlotte shoppers line up early for Black Friday despite the cold
-`Charlotte Local` · Covered by 3 outlets (L 0 · C 3 · R 0)
-
-Shoppers began lining up at Charlotte Premium Outlets as early as 3 a.m. Friday. The outlet's general manager said turnout was higher than last year, with more Gen Z shoppers coming in person. A Walmart employee said larger families described money as tight. Nationally, the National Retail Federation forecasts a 4.2% rise in holiday sales despite 3.8% inflation.
-
-**Key facts**
-- WalletHub puts Charlotte about 4% above most of the country in holiday spending.
-- The NRF says 82% of shoppers are taking steps to control holiday costs.
-- About 183 million people are expected to shop over Thanksgiving weekend.
-
-**How it's being framed**
-- **Center:** Local stations emphasised shopping traditions and turnout, while also noting budget strain on families.
-
-**Why it matters:** Holiday spending is a key indicator of consumer health at a time of high inflation.
+**Why it matters:** The outcome may signal political momentum on Taiwan's relationship with China.
 
 **Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/black-friday-still-draws-crowds-age-online-shopping/FP5YIPUPXVCGRPG2ILABMFX75U/) (center): Black Friday shoppers brave cold weather in search of deals
-- [WBTV (CBS Charlotte)](https://www.wbtv.com/2026/11/27/black-friday-shoppers-brave-cold-temperatures-cash-holiday-deals/) (center): Black Friday shoppers brave cold temperatures to cash in on holiday deals
-- [Queen City News (FOX 46)](https://www.qcnews.com/holidays/charlotte-shoppers-turn-out-for-black-friday-despite-economic-concerns/) (center): Charlotte shoppers turn out for Black Friday despite economic concerns
+- [Deutsche Welle](https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf) (center): Polls open in Taiwan's closely watched local elections
+- [Al Jazeera English](https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders) (lean-left): Taiwan votes in local elections to choose mayors, other leaders
 
 
-## 7. South Korea returns six North Korean fishermen; one stays
-`Korea` · Covered by 3 outlets (L 0 · C 3 · R 0)
+## 8. South Korea breaks ground on 2.4-gigawatt AI data center
+`AI & Cybersecurity` `Korea` `US Headlines` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-South Korea sent six North Korean crewmen home by sea on Friday, 24 days after their drifting boat was found near Ulleung Island. A seventh man asked to stay and will be protected as a defector. Seoul notified Pyongyang through the UN Command, and North Korean vessels met the boat at the maritime border.
+President Lee Jae Myung attended a groundbreaking ceremony for GS Group's AI data center campus in Donghae, Gangwon province. It is one of three government megaprojects announced in June. The presidential office called it Asia's largest planned AI infrastructure facility.
 
 **Key facts**
-- The boat crossed the Northern Limit Line at 8:33 a.m.
-- The boat was found adrift on Nov. 3.
-- About 31,500 North Korean defectors were registered as living in the South as of June.
+- The campus is planned at 2.4 gigawatts.
+- Lee visited SK Group's AI data center site in Ulsan last week.
 
 **How it's being framed**
-- **Center:** All three outlets reported the Unification Ministry's account, stressing that the crew made their choices voluntarily and that the move was humanitarian.
+- **Center:** Yonhap and the Korea Herald carried the same report, relying on statements from the presidential office.
+
+**Why it matters:** It shows South Korea's push to build large-scale AI infrastructure.
+
+**Read it yourself:**
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261128001500315) (center): Lee attends groundbreaking ceremony for major AI data center in Gangwon
+- [The Korea Herald](https://www.koreaherald.com/article/10952421) (center): Lee attends groundbreaking ceremony for major AI data center in Gangwon
+
+
+## 9. Korea Post data breach exposes data of at least 113,855 customers
+`AI & Cybersecurity` `Korea` · Covered by 2 outlets (L 0 · C 2 · R 0)
+
+Korea Post said hackers using overseas IP addresses accessed its mobile delivery-location change feature. They viewed the names, addresses and phone numbers of registered mail recipients between November 17 and 24. The figure of 113,855 comes from analysing just one day of data, so the full scope is still unknown. The service suspended the affected features, blocked overseas access and reported the incident to police and the privacy regulator.
+
+**Key facts**
+- The breach was detected Wednesday at about 10:30 a.m.
+- Korea Post President Park In-hwan apologised.
+- The breach follows a leak at KEPCO affecting about 1.52 million people.
+
+**How it's being framed**
+- **Center:** The Korea Herald and Yonhap reported Korea Post's account and its remedial steps; Yonhap linked it to a wider series of breaches.
 
 **Disputed or unclear**
-- North Korea has not officially responded.
+- The full number of people affected and who carried out the attack are unknown.
 
-**Why it matters:** The case shows how the two Koreas handle humanitarian matters despite having no direct communication channels.
+**Why it matters:** Affected customers face phishing risk, and the breach adds to concerns about public-sector cybersecurity.
 
 **Read it yourself:**
-- [The Korea Herald](https://www.koreaherald.com/article/10951950) (center): S. Korea repatriates 6 rescued North Korean fishing crew, 1 opts to stay
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261127003652315) (center): (2nd LD) N. Korean fishing boat repatriated, with 1 crewman opting to stay in S. Korea
-- [CNA (Channel NewsAsia)](https://www.channelnewsasia.com/asia/south-korea-repatriates-six-north-koreans-rescued-drifting-boat-6586811) (center): South Korea repatriates six North Koreans rescued from drifting boat
+- [The Korea Herald](https://www.koreaherald.com/article/10952405) (center): Korea Post confirms data breach affecting at least 113,000 customers
+- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261128001400315) (center): Internet Post Office hacked; personal data of at least 113,000 customers leaked
 
 
-## 8. Pedestrian killed by pickup on Billy Graham Parkway in Charlotte
+## 10. North Carolina gas tax suspension set to end
 `Charlotte Local` · Covered by 2 outlets (L 0 · C 2 · R 0)
 
-Vicki Mai Tran, 28, died after being struck by a pickup truck Thursday evening in west Charlotte. Police said she was walking in the middle of the road. The driver was not impaired, and speed was not a factor. Toxicology results for Tran are pending.
+North Carolina's temporary gas tax suspension, approved in October, is nearing its end, which WCNC reports will raise prices by 41 cents per gallon. A lawmaker is considering extending it through the holidays.
 
 **Key facts**
-- The crash happened at about 6:49 p.m. Thursday.
-- The driver's preliminary breath test showed 0.00% blood alcohol.
+- The General Assembly suspended the tax in October.
+- Prices are expected to rise 41 cents per gallon when it ends.
 
 **How it's being framed**
-- **Center:** Local outlets relayed the police account.
+- **Center:** Queen City News and WCNC focused on the cost to drivers and businesses, such as a local moving company owner.
 
 **Disputed or unclear**
-- Whether impairment was a factor for the pedestrian is pending toxicology results.
+- Whether the suspension will be extended is undecided.
 
-**Why it matters:** It is a local traffic fatality on a major Charlotte road.
-
-**Read it yourself:**
-- [WSOC-TV (ABC Charlotte)](https://www.wsoctv.com/news/local/cmpd-identifies-woman-hit-killed-by-pickup-truck-west-charlotte/5BRWDD7MUNFNPH4UUQURULMAHM/) (center): CMPD identifies woman hit, killed by pickup truck in west Charlotte
-- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/news/local/cmpd-detectives-investigate-fatal-crash-in-northwest-charlotte/275-66e6ef5e-11a4-473f-a7e5-b5d442ce1b3f) (center): Woman hit, killed by truck while walking on Billy Graham Parkway
-
-
-## 9. South Korea's ruling party suspends lawmaker for two years over remarks on President Lee
-`Korea` `US Headlines` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-The Democratic Party's ethics committee reportedly suspended Rep. Choi Min-hee's party membership for two years. The action follows her remarks suggesting President Lee Jae Myung had opposed Yoon Suk Yeol's impeachment, and her calling journalists "a pack of hyenas." Choi said the decision was hard to accept and that she will seek reconsideration. A rival faction questioned whether the process was fair.
-
-**Key facts**
-- If finalised, the suspension would bar Choi from running on the party ticket in the 2028 elections.
-- Choi has seven days after notification to request a review.
-- Choi has acknowledged that her remarks about Lee were mistaken.
-
-**How it's being framed**
-- **Center:** Both outlets carried the same Yonhap report, noting the factional rift between lawmakers aligned with party leader Kim Min-seok and those aligned with former leader Jung Chung-rae.
-
-**Disputed or unclear**
-- The two-year suspension comes from sources; the ethics panel did not officially disclose the penalty.
-- The fairness of the process is disputed by Choi's allies.
-
-**Why it matters:** The case exposes divisions inside South Korea's ruling party.
+**Why it matters:** Fuel costs will rise noticeably for North Carolina drivers.
 
 **Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261127004552315) (center): (2nd LD) DP lawmaker handed 2-yr suspension of party membership over remarks on Lee
-- [The Korea Herald](https://www.koreaherald.com/article/10952259) (center): DP lawmaker handed 2-yr suspension of party membership over remarks on Lee
-
-
-## 10. Hyundai unveils electric SUV concept for China at Guangzhou show
-`Korea` `Asia Business & Politics` · Covered by 2 outlets (L 0 · C 2 · R 0)
-
-Hyundai showed its Mercury Concept compact electric SUV, which will launch as the Ioniq M in China in the first half of 2027. The concept uses Chinese technology, including ByteDance's Doubao AI and CATL batteries. Hyundai plans to introduce 24 models in China by 2030.
-
-**Key facts**
-- The Guangzhou auto show runs through Dec. 6.
-- The Ioniq V launched in China in September.
-- A Hyundai official said nearly 7 in 10 vehicles sold in China are new energy vehicles.
-
-**How it's being framed**
-- **Center:** Both outlets relayed Hyundai's press release, focusing on its China strategy.
-
-**Why it matters:** It shows foreign carmakers adapting their products to compete in China's EV market.
-
-**Read it yourself:**
-- [Yonhap News (English)](https://en.yna.co.kr/view/AEN20261127002251320) (center): (LEAD) Hyundai unveils all-electric concept at Guangzhou auto show
-- [The Korea Herald](https://www.koreaherald.com/article/10951694) (center): Hyundai unveils all-electric concept at Guangzhou auto show
+- [Queen City News (FOX 46)](https://www.qcnews.com/news/u-s/north-carolina/nc-gas-tax-break-set-to-expire-lawmaker-considers-extending-it-through-the-holidays/) (center): NC gas tax break set to expire; lawmaker considers extending it through the holidays
+- [WCNC (NBC Charlotte)](https://www.wcnc.com/article/traffic/gas-prices/nc-gas-prices-to-rise-41-cents-per-gallon/275-c85dcf8c-c8d5-41a3-b97a-e067770983be) (center): NC gas prices to rise 41 cents per gallon as tax suspension set to end
 
 
 ---
